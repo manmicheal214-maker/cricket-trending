@@ -1,0 +1,39 @@
+name: Update Cricket News
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch cricket news
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: npm run fetch-news
+
+      - name: Commit updated news
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/news.json
+          git diff --cached --quiet || git commit -m 'Update cricket news'
+          git push
