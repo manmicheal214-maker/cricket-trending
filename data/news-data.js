@@ -1,273 +1,183 @@
 window.cricketNews = [
   {
-    "source": "The Times of India",
-    "title": "Hooda says Centre’s data exposes ‘jobless growth’",
-    "description": "Lok Sabha reply cited by MP Deepender Hooda says manufacturing jobs stayed at 12.1% from 2017-18 to 2025; he calls Centre’s job growth claims hollow.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/hooda-says-centres-data-exposes-jobless-growth/articleshow/133192439.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192437,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:18:33Z",
-    "author": "The Times Of India"
+    "source": "RTE",
+    "title": "Ireland come up short in latest ODI against Afghanistan",
+    "description": "Andy Balbirnie's century and 84 from Curtis Campher were in vain for Ireland as Afghanistan won the fourth one-day international at Stormont by 42 runs to clinch the series 3-0.",
+    "url": "https://www.rte.ie/sport/cricket/2026/0812/1587651-ireland-come-up-short-in-latest-odi-against-afghanistan/",
+    "image": "https://www.rte.ie/images/0024d5e1-1600.jpg",
+    "publishedAt": "2026-08-12T19:12:29Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "England scraps midnight curfew on men's cricket team under new captain Joe Root",
+    "description": "The midnight curfew imposed on the England men's cricket team has been scrapped under newly appointed captain Joe Root. The restriction was put in place by England managing director Rob Key after controversial late-night incidents on the winter tours of New Z…",
+    "url": "https://sports.yahoo.com/articles/england-scraps-midnight-curfew-mens-190846345.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/9b921f61543ebd455ed6b35936ec6cb90add7654c726abd28e5536358022d96f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6b126c1fc1621440e68b666dc3fb2d49.jpg",
+    "publishedAt": "2026-08-12T19:08:46Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Won't be able to sustain cricket': ICC CEO calls for end to 'randomly scheduled' bilaterals to save ODI format",
+    "description": "With bilateral ODIs dwindling in favour of T20Is and Tests, ICC CEO warns that if the future of 50-over cricket is to be saved then randomly planed bilaterals need to stop.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sustain-cricket-icc-ceo-calls-end-bilaterals-save-odi-format/ef65aec6e0c25ceb7d2f9d0d",
+    "image": "https://s.yimg.com/lo/mysterio/api/3564a60f77a575c92b110b49433d074e291963d6059c3b86fa62793d7410b970/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6e5a5ae0e8b056757a03cc49144b3212.jpg",
+    "publishedAt": "2026-08-12T18:31:11Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Dewald Brevis’ no-look six: How the innovative cricket shot works",
+    "description": "'The thing is totally natural': The science behind the 'no-look' six",
+    "url": "https://www.nzherald.co.nz/sport/cricket/dewald-breviss-no-look-six-how-the-innovative-cricket-shot-works/WL4KYUVW6NC37MC6KR7S7I573A/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/5ZAILU4UCZE5ZJBJBF724WLQZI.jpg?auth=040559af04214c9e18edec90d90d1f3dc5de714452bab92470b4c60986290e62&width=1200&height=675&quality=70&focal=977%2C471&smart=false",
+    "publishedAt": "2026-08-12T17:01:00Z",
+    "author": "Daily Telegraph UK"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Gautam Gambhir's fate as India Test head coach revealed based on each IND vs SL Test series result",
+    "description": "While the back-to-back T20 losses in England and Ireland gave a massive hit to Gautam Gambhir's reputation, his place as India's Test coach remains surprisingly secure.",
+    "url": "https://www.cricketnews.com/en/cricket/news/gautam-gambhir-fate-india-test-coach-ind-vs-sl-test-series-result/d4c65d7019fdb9ccca00ab8d",
+    "image": "https://s.yimg.com/lo/mysterio/api/ca082dd9e8e6e1431b44c1e400da6b8fb9432f6034cd4124e232bb2143c20ef0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F57326bdf5f43210c026eb79b5434004b.jpg",
+    "publishedAt": "2026-08-12T17:00:47Z",
+    "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Chandigarh to roll out CBDC-based food subsidy under PMGKAY on Aug 14",
-    "description": "Chandigarh to roll out CBDC-based DBT food subsidy under PMGKAY on Aug 14, using programmable Digital Rupee for wheat/rice purchases via QR codes.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/chandigarh-to-roll-out-cbdc-based-food-subsidy-under-pmgkay-on-aug-14/articleshow/133192444.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131210600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:18:22Z",
+    "title": "MPHC refuses to quash 2022 IPL betting case against ‘mastermind’",
+    "description": "Madhya Pradesh High Court refuses to quash 2022 IPL betting FIR against alleged mastermind Satish Sanpal, citing prima facie evidence and ordering trial.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/mphc-refuses-to-quash-2022-ipl-betting-case-against-mastermind/articleshow/133188860.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133188856,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T16:56:06Z",
     "author": "TNN"
   },
   {
     "source": "The Times of India",
-    "title": "MP bans analogue paneer, joins CG, Maha & Guj",
-    "description": "Madhya Pradesh bans analogue paneer; CM Mohan Yadav says MP will promote natural milk-based paneer and boost dairy production, citing food safety concerns.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-bans-analogue-paneer-joins-cg-maha-guj/articleshow/133192431.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131841158,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:16:59Z",
+    "title": "Man held for molesting Aus women cricketers turns accused in 12-yr-old murder",
+    "description": "Indore police crack 2015 murder of 17-year-old Krishna after suspect’s boast; Aqeel, linked to Australian cricketer harassment case, and Arif arrested.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/man-held-for-molesting-aus-women-cricketers-turns-accused-in-12-yr-old-murder/articleshow/133188259.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133188258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T16:32:39Z",
     "author": "The Times Of India"
   },
   {
     "source": "The Times of India",
-    "title": "AIIMS staffers attacked with stone while returning from night duty",
-    "description": "AIIMS staff attacked with stone in Bhopal while returning from night shift; one seriously injured. Police registered case, staff raise night safety concerns.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/aiims-staffers-attacked-with-stone-while-returning-from-night-duty/articleshow/133192426.cms",
-    "image": "https://static.toiimg.com/thumb/msid-132500762,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:16:24Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Late-night resto rush below metro stations triggers parking chaos, snarls",
-    "description": "Noida Sector 51 Metro sees nightly traffic snarls as restaurants and roadside parking clog lanes; residents flag 11pm parking closure and FOB shutdown.",
-    "url": "https://timesofindia.indiatimes.com/city/noida/late-night-resto-rush-below-metro-stations-triggers-parking-chaos-snarls/articleshow/133192397.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:15:18Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MP gets Rs 8,635cr investment proposals at Ahmedabad outreach",
-    "description": "Madhya Pradesh bags Rs 8,635 crore investment proposals at Ahmedabad outreach, targeting 5,785+ jobs; major cement, packaging and food processing projects.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-gets-rs-8635cr-investment-proposals-at-ahmedabad-outreach/articleshow/133192421.cms",
-    "image": "https://static.toiimg.com/thumb/msid-132868546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:15:16Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kharar railway station to get new foot overbridge, elevated platform",
-    "description": "Kharar railway station to get a new foot overbridge as Railways awards tender; Platform 2 raising to high-level sanctioned, estimate pending approval.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/kharar-railway-station-to-get-new-foot-overbridge-elevated-platform/articleshow/133192414.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192413,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:14:50Z",
-    "author": "Barinderjit Saluja"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Monsoon likely to intensify in Haryana from Aug 13 night",
-    "description": "Haryana monsoon to intensify from Aug 13 night: HAU forecasts light to moderate rain, thunderstorms and gusty winds till Aug 15, heavy showers at isolated spots.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/monsoon-likely-to-intensify-in-haryana-from-aug-13-night/articleshow/133192400.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192399,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:13:35Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Punjab to install 3 lakh solar streetlights across all villages: Minister",
-    "description": "Punjab to install 3 lakh LED solar streetlights in all villages at Rs 470 crore; govt to fund 70% and panchayats 30%, with 7-year maintenance via PEDA.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-to-install-3-lakh-solar-streetlights-across-all-villages-minister/articleshow/133192339.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133164941,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:12:57Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Farmers seek assured canal water supply to tail-end areas",
-    "description": "Hisar farmers urge Haryana irrigation officials to boost canal capacity, ensure 200 cusecs at Siswala head, improve rotations and fast-track Balasmand link.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/farmers-seek-assured-canal-water-supply-to-tail-end-areas/articleshow/133192343.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192342,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:12:52Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nude video call centre running in flat busted",
-    "description": "Vadodara police busted an alleged nude video call centre in a Manjalpur flat, arresting Manish Padhiyar; case filed under ITP Act, probe ongoing.",
-    "url": "https://timesofindia.indiatimes.com/city/vadodara/nude-video-call-centre-running-in-flat-busted/articleshow/133192398.cms",
+    "title": "TB project to supply canal water till Nov 10",
+    "description": "Tungabhadra Project ICC approves canal water releases from Wednesday till Nov 10 amid El Niño concerns; drinking water priority; review meeting Sept 10.",
+    "url": "https://timesofindia.indiatimes.com/city/hubballi/tb-project-to-supply-canal-water-till-nov-10/articleshow/133188094.cms",
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:12:26Z",
+    "publishedAt": "2026-08-12T16:24:13Z",
     "author": "The Times Of India"
   },
   {
-    "source": "The Times of India",
-    "title": "Madhya Pradesh’s first Centre of Excellence for AI & machine learning to begin at DAVV by Jan 2027",
-    "description": "DAVV to launch MP’s first AI & ML Centre of Excellence at Takshashila campus in Jan 2027, offering certificate/diploma courses and training 500 students yearly.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/madhya-pradeshs-first-centre-of-excellence-for-ai-machine-learning-to-begin-at-davv-by-jan-2027/articleshow/133192393.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:58Z",
-    "author": "Litha Achari"
+    "source": "Cricketnews.com",
+    "title": "'Very difficult to get out': Sri Lanka legend makes huge 'best batter in India' claim for Test captain Shubman Gill",
+    "description": "With India getting ready for the Test series against Sri Lanka, one former Sri Lanka legend warns his side against one Indian batter.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sri-lanka-legend-claim-best-batter-india-test-captain-shubman-gill/d40c0499c5ba7293195fac8d",
+    "image": "https://s.yimg.com/lo/mysterio/api/1473bda6254ae6719e3ccb36b49fb1efabab7aca9879dda7fa5e3186aeda9e3c/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F94b97fa8a756587994dab31793b1deea.jpg",
+    "publishedAt": "2026-08-12T16:05:21Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "PRNewswire",
+    "title": "InventHelp Inventor Develops New Set of Accessories for Subwoofer Speaker Cabinets (IPL-739)",
+    "description": "PITTSBURGH, Aug. 12, 2026 /PRNewswire/ -- \"I wanted to create a system that can be installed to not only protect speaker openings on subwoofer cabinets, but also to provide a means for quick mounting of a speaker within a speaker box enclosure of a new box or…",
+    "url": "https://www.prnewswire.com/news-releases/inventhelp-inventor-develops-new-set-of-accessories-for-subwoofer-speaker-cabinets-ipl-739-302845994.html",
+    "image": "https://mmx.prnewswire.com/media/MS1043114/InventHelp-Logo-jpg-Logo.jpg?id=OA2834377&p=facebook",
+    "publishedAt": "2026-08-12T15:45:00Z",
+    "author": null
+  },
+  {
+    "source": "Rediff.com",
+    "title": "IT Department Welcomes 97 Sportspersons To Public Service",
+    "description": "The Income Tax Department in Mumbai has inducted 97 accomplished sportspersons under its sports quota, including cricketer Tejal Hasabnis and para shooter Akash, to strengthen its commitment to recognising sporting excellence and nurturing talent in public se…",
+    "url": "https://www.rediff.com/sports/report/income-tax-department-inducts-97-sportspersons-in-mumbai/20260812.htm",
+    "image": "https://im.rediff.com/1200-630/cricket/2024/oct/05tanush-kotian.jpg",
+    "publishedAt": "2026-08-12T14:56:33Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "Project Syndicate",
+    "title": "The Twilight of the ICC",
+    "description": "Born amid the euphoria of the West’s Cold War victory, the International Criminal Court embodied the aspiration that international law could transcend politics. But the ICC always represented victors’ justice, and it was never equipped to operate in a world s…",
+    "url": "https://www.project-syndicate.org/commentary/icc-lacks-authority-and-legitimacy-to-act-as-global-guardian-of-human-rights-by-shlomo-ben-ami-2026-08",
+    "image": "https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.2-1-super.1.jpg",
+    "publishedAt": "2026-08-12T14:47:09Z",
+    "author": "Shlomo Ben-Ami"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "Sun TV Q1 PAT up 17 per cent at ₹619 crore",
+    "description": "Sun TV reports Q1FY27 net profit rise of 17% to ₹619 crore, driven by increased revenues and cricket franchise growth.",
+    "url": "https://www.thehindubusinessline.com/companies/sun-tv-q1-pat-up-17-per-cent-at-619-crore/article71336522.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/r0gks6/article71337257.ece/alternates/LANDSCAPE_1200/SUN%20TV%203.jpg",
+    "publishedAt": "2026-08-12T14:28:43Z",
+    "author": "BL Chennai Bureau"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "R Ashwin names ODI World Cup-winning captain as surprise choice for next CSK head coach",
+    "description": "With everyone wondering who would coach the Chennai Super Kings , former CSK legend R Ashwin was quick to name a World Cup winning captain as his pick.",
+    "url": "https://www.cricketnews.com/en/cricket/news/r-ashwin-odi-world-cup-winning-captain-eoin-morgan-next-csk-coach/e41721e06f6c16a011b42683",
+    "image": "https://s.yimg.com/lo/mysterio/api/c436df507bdcc15fff3e758d57cf71c4be477f980bdd2d4cace431ec6d8005c8/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F08f5383f4a48b729f125ea178aea297b.jpg",
+    "publishedAt": "2026-08-12T13:31:16Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "New England captain Joe Root makes decision over team curfew - after Ben Stokes and Gus Atkinson Chelsea nightclub incident led to questions over the team's alleged drinking culture",
+    "description": "Root, 35, takes charge of the first match of his second spell as Test captain next week and has confirmed the after-hours guidelines put together by director of cricket Rob Key will not be enforced.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16047189/England-captain-Root-team-curfew-Ben-Stokes.html",
+    "image": "https://i.dailymail.com/1s/2026/08/12/13/110590567-0-image-m-10_1786538380197.jpg",
+    "publishedAt": "2026-08-12T12:57:17Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Rohit Sharma's Bollywood connection: John Abraham reveals surprise cricket link to former India captain",
+    "description": "John Abraham revealed how Rohit Sharma has a unique connection to the film fraternity.",
+    "url": "https://www.sportingnews.com/in/cricket/news/rohit-sharma-bollywood-connection-john-abraham-reveals-cricket-link/980ee01353b16e189aa13817",
+    "image": "https://s.yimg.com/lo/mysterio/api/479586503a041db39650ed9c8e0aafc9a2e235510e66f13320dafdbad620a4ac/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F96b0fc49da8c11e5d146f0ab09adca8c",
+    "publishedAt": "2026-08-12T12:09:39Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Former Glamorgan bowler Barwick dies aged 65",
+    "description": "Former Glamorgan bowler Steve Barwick dies at the age of 65.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cewrp5eyvj9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d7d295e6f9661388c73fc52db80bedacba6b97e8ed45e514918ef3aa9f28d332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80beb6d49a632775e48de2b28f38e182.jpg",
+    "publishedAt": "2026-08-12T10:39:24Z",
+    "author": "BBC"
   },
   {
     "source": "The Times of India",
-    "title": "1,816 kg of dairy analogues seized, manufacturing unit shut",
-    "description": "Indore Food Safety Dept shut Palda’s Umapati Industries for hygiene violations, seized 450 kg substandard paneer, and sent samples for lab testing.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/1816-kg-of-dairy-analogues-seized-manufacturing-unit-shut/articleshow/133192392.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:55Z",
-    "author": "The Times Of India"
+    "title": "ICC CEO Sanjog Gupta calls for end to random bilateral scheduling, Test-ODI revamp",
+    "description": "In light of the growing popularity of T20 leagues, the International Cricket Council seeks to redefine traditional cricket formats. ICC CEO Sanjog Gupta has called for the end of arbitrary bilateral series, highlighting the necessity of context, culture, and …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/icc-ceo-sanjog-gupta-calls-for-end-to-random-bilateral-scheduling-test-odi-revamp/articleshow/133178835.cms",
+    "image": "https://img.etimg.com/thumb/msid-133178950,width-1200,height-630,imgsize-29254,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-12T10:09:18Z",
+    "author": "ET Online"
   },
   {
-    "source": "The Times of India",
-    "title": "Khajrana Ganesh temple donations: Rs 1 crore & counting…",
-    "description": "Khajrana Ganesh Temple in Indore donation box counting enters day 4, crosses Rs 1 crore; 40 boxes being tallied with CCTV and videography for transparency.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/khajrana-ganesh-temple-donations-rs-1-crore-counting/articleshow/133192391.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:55Z",
-    "author": "The Times Of India"
+    "source": "BBC News",
+    "title": "Munsey answers call at eleventh hour in Notts win",
+    "description": "Notts Outlaws batsman George Munsey returns from international duty in time to hit a century in his club side's six-wicket victory against Surrey at The Oval...",
+    "url": "https://www.bbc.com/sport/cricket/articles/cx2v1pzx2yeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/36bab1beca7edbe064cdc0d2eede6e040d816e27741d59bf81d28fd4d20b7ae1/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fce0a044bbb688a07f0bd989fa7e93bac.jpg",
+    "publishedAt": "2026-08-12T10:06:41Z",
+    "author": "BBC"
   },
   {
-    "source": "The Times of India",
-    "title": "Two days after attack, 24-year-old dies at hospital",
-    "description": "Indore: 24-year-old waiter Tejpal Pal dies two days after being stabbed by four men in Heera Nagar; murder case filed as police hunt suspects caught on CCTV.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/two-days-after-attack-24-year-old-dies-at-hospital/articleshow/133192390.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:52Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Scrap dealer held for trade of stolen vehicle parts",
-    "description": "Indore Crime Branch arrested scrap dealer Faheem Ansari for allegedly buying stolen vehicles, dismantling them, and selling parts; 12 engines seized.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/scrap-dealer-held-for-trade-of-stolen-vehicle-parts/articleshow/133192388.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:49Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mobile phone thieves pay via UPI at food stall, get arrested",
-    "description": "Indore AB Road robbery solved as MIG police trace suspects via 120 CCTV cameras and a biryani stall UPI payment; stolen mobile recovered, two arrested.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/mobile-phone-thieves-pay-via-upi-at-food-stall-get-arrested/articleshow/133192386.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:11:45Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Cracks to craters: Gurgaon roads come undone after rain",
-    "description": "Gurgaon roads worsen after monsoon rain, with potholes, loose gravel and waterlogging on MG Road, Ghata Road, Kapashera-Sirhaul and more; GMDA begins repairs.",
-    "url": "https://timesofindia.indiatimes.com/city/gurgaon/cracks-to-craters-gurgaon-roads-come-undone-after-rain/articleshow/133192384.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:11:39Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Roads full of potholes make commuting difficult across city",
-    "description": "Indore traffic snarls worsen as monsoon damage and slow metro, flyover and drainage works create potholes and unsafe roads despite IMC repair spending.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/roads-full-of-potholes-make-commuting-difficult-across-city/articleshow/133192369.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:11:01Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pkl cops fine over 3,100 drunk drivers in 7 months, 227 vehicles impounded",
-    "description": "Panchkula Traffic Police issued 3,178 drunk driving challans in 7 months and impounded 227 vehicles during late-night checks using breath analyzers.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pkl-cops-fine-over-3100-drunk-drivers-in-7-months-227-vehicles-impounded/articleshow/133192368.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192367,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:10:58Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Indore gets 19.7 mm rainfall, more on the cards today",
-    "description": "Indore logs 19.7 mm rain in 24 hours; light rain and thunderstorms likely today as low-pressure systems boost monsoon. MP rainfall still 14% below normal.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/indore-gets-19-7-mm-rainfall-more-on-the-cards-today/articleshow/133192366.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:10:53Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IIT Indore researchers develop saliva, swab-based method for early oral cancer detection",
-    "description": "IIT Indore researchers develop non-invasive saliva and oral swab test using LC-MS to spot early molecular signs of oral cancer; patent filed, larger trials planned.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/iit-indore-researchers-develop-saliva-swab-based-method-for-early-oral-cancer-detection/articleshow/133192365.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:10:50Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Hopeful he will meet his mother after 31 years’: CM Mann meets guv for Hawara’s parole",
-    "description": "Punjab CM Bhagwant Mann asks Governor Kataria to intervene for 10-day parole for Jagtar Singh Hawara to meet his ailing mother after 31 years.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/hopeful-he-will-meet-his-mother-after-31-years-cm-mann-meets-guv-for-hawaras-parole/articleshow/133192227.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192226,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:02:43Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Bike mechanic arrested again for molesting techie",
-    "description": "Chennai police arrested a 31-year-old bike mechanic for groping a 22-year-old IT employee near Thoraipakkam bus stop; CCTV led to arrest, remanded.",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/bike-mechanic-arrested-again-for-molesting-techie/articleshow/133192291.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131539828,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:02:40Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "OMR sheets to be introduced at Grade III-VIII common exam by GSCERT",
-    "description": "Goa SCERT introduces OMR sheets for Grade III-VIII common exams, with 40% MCQs and competency-based questions; exams set for Oct and March/April.",
-    "url": "https://timesofindia.indiatimes.com/city/goa/omr-sheets-to-be-introduced-at-grade-iii-viii-common-exam-by-gscert/articleshow/133192289.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:02:35Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Parents protest over Malala’s book: DEO directs school to sack school director",
-    "description": "DEO Rohit Chaudhary orders Anand Niketan School to sack a director, appoint a principal, halt catering over Malala book row and snack safety complaint.",
-    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/parents-protest-over-malalas-book-deo-directs-school-to-sack-school-director/articleshow/133192286.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192285,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:02:23Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Woman detained over mobile phone theft at hostel",
-    "description": "Chennai: Woman held for stealing iPhone from Chromepet women’s hostel; returned to steal again. Police probe links to other theft cases.",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/woman-detained-over-mobile-phone-theft-at-hostel/articleshow/133192280.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131539828,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:01:48Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Manipur to invoke NSA against NH extortionists: Min",
-    "description": "Manipur plans to invoke NSA against extortionists harassing drivers and disrupting traffic on national highways, says Home Minister Govindas Konthoujam.",
-    "url": "https://timesofindia.indiatimes.com/city/guwahati/manipur-to-invoke-nsa-against-nh-extortionists-min/articleshow/133192274.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T19:01:38Z",
-    "author": "Donald Sairem"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Dhanas man loses ₹2.2 lakh in fake banking app scam",
-    "description": "Dhanas man duped of Rs 2.21 lakh in fake RBL credit limit scam; cyber police Sector 17 register case after APK install led to unauthorised transactions.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/dhanas-man-loses-2-2-lakh-in-fake-banking-app-scam/articleshow/133192248.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133192247,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:01:36Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "KP to set up Divisional Crime Record Bureaus for digital monitoring in city",
-    "description": "Kolkata Police to set up Divisional Crime Record Bureaus in every division to monitor CCTNS, eSakshya and e-Summons, improve audits and case data.",
-    "url": "https://timesofindia.indiatimes.com/city/kolkata/kp-to-set-up-divisional-crime-record-bureaus-for-digital-monitoring-in-city/articleshow/133192272.cms",
-    "image": "https://static.toiimg.com/thumb/msid-132748124,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T19:01:32Z",
-    "author": "Dwaipayan Ghosh"
+    "source": "BBC News",
+    "title": "Sussex all-rounder Lamb forced to retire after injury",
+    "description": "Sussex all-rounder Danny Lamb is forced to retire from professional cricket due to injury.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c1k12m4vvj0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/ef6d36acd4f23798af46d7673ca49b128eb612b6c78e761c79f8c8caccded13e/lightyear_networkapi/resizefill_w677_h381%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed14a6b78cafd8a2244578c19528d0cf.jpg",
+    "publishedAt": "2026-08-12T09:25:22Z",
+    "author": "Dan George - BBC Sport England"
   }
 ]
 ;
