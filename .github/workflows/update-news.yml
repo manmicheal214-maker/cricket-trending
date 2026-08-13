@@ -11,29 +11,30 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-
-      - name: Install dependencies
-        run: npm install
-
       - name: Fetch cricket news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: npm run fetch-news
+        run: |
+          curl -fsS -H "X-Api-Key: $NEWS_API_KEY" --get \
+            --data-urlencode "q=cricket OR IPL OR ICC OR BCCI OR Virat Kohli OR Rohit Sharma" \
+            --data-urlencode "language=en" \
+            --data-urlencode "sortBy=publishedAt" \
+            --data-urlencode "pageSize=30" \
+            "https://newsapi.org/v2/everything" > /tmp/news-response.json
+          jq -e '.status == "ok"' /tmp/news-response.json >/dev/null
+          jq '[.articles[] | select(.title != null and .url != null) | {source: (.source.name // "Cricket News"), title: .title, description: (.description // "Latest cricket news and updates."), url: .url, image: (.urlToImage // null), publishedAt: (.publishedAt // null), author: (.author // null)}]' /tmp/news-response.json > data/news.json
+          printf 'window.cricketNews = ' > data/news-data.js
+          cat data/news.json >> data/news-data.js
+          printf ';\n' >> data/news-data.js
 
       - name: Commit updated news
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/news.json
+          git add data/news.json data/news-data.js
           git diff --cached --quiet || git commit -m 'Update cricket news'
           git push
