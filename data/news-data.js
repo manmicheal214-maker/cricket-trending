@@ -1,1 +1,273 @@
-window.cricketNews = [];
+window.cricketNews = [
+  {
+    "source": "The Times of India",
+    "title": "Late-night resto rush below metro stations triggers parking chaos, snarls",
+    "description": "Noida Sector 51 Metro sees nightly traffic snarls as restaurants and roadside parking clog lanes; residents flag 11pm parking closure and FOB shutdown.",
+    "url": "https://timesofindia.indiatimes.com/city/noida/late-night-resto-rush-below-metro-stations-triggers-parking-chaos-snarls/articleshow/133192397.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:15:18Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MP gets Rs 8,635cr investment proposals at Ahmedabad outreach",
+    "description": "Madhya Pradesh bags Rs 8,635 crore investment proposals at Ahmedabad outreach, targeting 5,785+ jobs; major cement, packaging and food processing projects.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/mp-gets-rs-8635cr-investment-proposals-at-ahmedabad-outreach/articleshow/133192421.cms",
+    "image": "https://static.toiimg.com/thumb/msid-132868546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:15:16Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kharar railway station to get new foot overbridge, elevated platform",
+    "description": "Kharar railway station to get a new foot overbridge as Railways awards tender; Platform 2 raising to high-level sanctioned, estimate pending approval.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/kharar-railway-station-to-get-new-foot-overbridge-elevated-platform/articleshow/133192414.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192413,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:14:50Z",
+    "author": "Barinderjit Saluja"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Monsoon likely to intensify in Haryana from Aug 13 night",
+    "description": "Haryana monsoon to intensify from Aug 13 night: HAU forecasts light to moderate rain, thunderstorms and gusty winds till Aug 15, heavy showers at isolated spots.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/monsoon-likely-to-intensify-in-haryana-from-aug-13-night/articleshow/133192400.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192399,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:13:35Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Punjab to install 3 lakh solar streetlights across all villages: Minister",
+    "description": "Punjab to install 3 lakh LED solar streetlights in all villages at Rs 470 crore; govt to fund 70% and panchayats 30%, with 7-year maintenance via PEDA.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-to-install-3-lakh-solar-streetlights-across-all-villages-minister/articleshow/133192339.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133164941,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:12:57Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Farmers seek assured canal water supply to tail-end areas",
+    "description": "Hisar farmers urge Haryana irrigation officials to boost canal capacity, ensure 200 cusecs at Siswala head, improve rotations and fast-track Balasmand link.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/farmers-seek-assured-canal-water-supply-to-tail-end-areas/articleshow/133192343.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192342,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:12:52Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nude video call centre running in flat busted",
+    "description": "Vadodara police busted an alleged nude video call centre in a Manjalpur flat, arresting Manish Padhiyar; case filed under ITP Act, probe ongoing.",
+    "url": "https://timesofindia.indiatimes.com/city/vadodara/nude-video-call-centre-running-in-flat-busted/articleshow/133192398.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:12:26Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Madhya Pradesh’s first Centre of Excellence for AI & machine learning to begin at DAVV by Jan 2027",
+    "description": "DAVV to launch MP’s first AI & ML Centre of Excellence at Takshashila campus in Jan 2027, offering certificate/diploma courses and training 500 students yearly.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/madhya-pradeshs-first-centre-of-excellence-for-ai-machine-learning-to-begin-at-davv-by-jan-2027/articleshow/133192393.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:58Z",
+    "author": "Litha Achari"
+  },
+  {
+    "source": "The Times of India",
+    "title": "1,816 kg of dairy analogues seized, manufacturing unit shut",
+    "description": "Indore Food Safety Dept shut Palda’s Umapati Industries for hygiene violations, seized 450 kg substandard paneer, and sent samples for lab testing.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/1816-kg-of-dairy-analogues-seized-manufacturing-unit-shut/articleshow/133192392.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:55Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Khajrana Ganesh temple donations: Rs 1 crore & counting…",
+    "description": "Khajrana Ganesh Temple in Indore donation box counting enters day 4, crosses Rs 1 crore; 40 boxes being tallied with CCTV and videography for transparency.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/khajrana-ganesh-temple-donations-rs-1-crore-counting/articleshow/133192391.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:55Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Two days after attack, 24-year-old dies at hospital",
+    "description": "Indore: 24-year-old waiter Tejpal Pal dies two days after being stabbed by four men in Heera Nagar; murder case filed as police hunt suspects caught on CCTV.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/two-days-after-attack-24-year-old-dies-at-hospital/articleshow/133192390.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:52Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Scrap dealer held for trade of stolen vehicle parts",
+    "description": "Indore Crime Branch arrested scrap dealer Faheem Ansari for allegedly buying stolen vehicles, dismantling them, and selling parts; 12 engines seized.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/scrap-dealer-held-for-trade-of-stolen-vehicle-parts/articleshow/133192388.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:49Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mobile phone thieves pay via UPI at food stall, get arrested",
+    "description": "Indore AB Road robbery solved as MIG police trace suspects via 120 CCTV cameras and a biryani stall UPI payment; stolen mobile recovered, two arrested.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/mobile-phone-thieves-pay-via-upi-at-food-stall-get-arrested/articleshow/133192386.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:11:45Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cracks to craters: Gurgaon roads come undone after rain",
+    "description": "Gurgaon roads worsen after monsoon rain, with potholes, loose gravel and waterlogging on MG Road, Ghata Road, Kapashera-Sirhaul and more; GMDA begins repairs.",
+    "url": "https://timesofindia.indiatimes.com/city/gurgaon/cracks-to-craters-gurgaon-roads-come-undone-after-rain/articleshow/133192384.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:11:39Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Roads full of potholes make commuting difficult across city",
+    "description": "Indore traffic snarls worsen as monsoon damage and slow metro, flyover and drainage works create potholes and unsafe roads despite IMC repair spending.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/roads-full-of-potholes-make-commuting-difficult-across-city/articleshow/133192369.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:11:01Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pkl cops fine over 3,100 drunk drivers in 7 months, 227 vehicles impounded",
+    "description": "Panchkula Traffic Police issued 3,178 drunk driving challans in 7 months and impounded 227 vehicles during late-night checks using breath analyzers.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pkl-cops-fine-over-3100-drunk-drivers-in-7-months-227-vehicles-impounded/articleshow/133192368.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192367,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:10:58Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indore gets 19.7 mm rainfall, more on the cards today",
+    "description": "Indore logs 19.7 mm rain in 24 hours; light rain and thunderstorms likely today as low-pressure systems boost monsoon. MP rainfall still 14% below normal.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/indore-gets-19-7-mm-rainfall-more-on-the-cards-today/articleshow/133192366.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:10:53Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IIT Indore researchers develop saliva, swab-based method for early oral cancer detection",
+    "description": "IIT Indore researchers develop non-invasive saliva and oral swab test using LC-MS to spot early molecular signs of oral cancer; patent filed, larger trials planned.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/iit-indore-researchers-develop-saliva-swab-based-method-for-early-oral-cancer-detection/articleshow/133192365.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:10:50Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Hopeful he will meet his mother after 31 years’: CM Mann meets guv for Hawara’s parole",
+    "description": "Punjab CM Bhagwant Mann asks Governor Kataria to intervene for 10-day parole for Jagtar Singh Hawara to meet his ailing mother after 31 years.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/hopeful-he-will-meet-his-mother-after-31-years-cm-mann-meets-guv-for-hawaras-parole/articleshow/133192227.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192226,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:02:43Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bike mechanic arrested again for molesting techie",
+    "description": "Chennai police arrested a 31-year-old bike mechanic for groping a 22-year-old IT employee near Thoraipakkam bus stop; CCTV led to arrest, remanded.",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/bike-mechanic-arrested-again-for-molesting-techie/articleshow/133192291.cms",
+    "image": "https://static.toiimg.com/thumb/msid-131539828,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:02:40Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "OMR sheets to be introduced at Grade III-VIII common exam by GSCERT",
+    "description": "Goa SCERT introduces OMR sheets for Grade III-VIII common exams, with 40% MCQs and competency-based questions; exams set for Oct and March/April.",
+    "url": "https://timesofindia.indiatimes.com/city/goa/omr-sheets-to-be-introduced-at-grade-iii-viii-common-exam-by-gscert/articleshow/133192289.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:02:35Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Parents protest over Malala’s book: DEO directs school to sack school director",
+    "description": "DEO Rohit Chaudhary orders Anand Niketan School to sack a director, appoint a principal, halt catering over Malala book row and snack safety complaint.",
+    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/parents-protest-over-malalas-book-deo-directs-school-to-sack-school-director/articleshow/133192286.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192285,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:02:23Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Woman detained over mobile phone theft at hostel",
+    "description": "Chennai: Woman held for stealing iPhone from Chromepet women’s hostel; returned to steal again. Police probe links to other theft cases.",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/woman-detained-over-mobile-phone-theft-at-hostel/articleshow/133192280.cms",
+    "image": "https://static.toiimg.com/thumb/msid-131539828,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:48Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Manipur to invoke NSA against NH extortionists: Min",
+    "description": "Manipur plans to invoke NSA against extortionists harassing drivers and disrupting traffic on national highways, says Home Minister Govindas Konthoujam.",
+    "url": "https://timesofindia.indiatimes.com/city/guwahati/manipur-to-invoke-nsa-against-nh-extortionists-min/articleshow/133192274.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:01:38Z",
+    "author": "Donald Sairem"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Dhanas man loses ₹2.2 lakh in fake banking app scam",
+    "description": "Dhanas man duped of Rs 2.21 lakh in fake RBL credit limit scam; cyber police Sector 17 register case after APK install led to unauthorised transactions.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/dhanas-man-loses-2-2-lakh-in-fake-banking-app-scam/articleshow/133192248.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192247,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:36Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "KP to set up Divisional Crime Record Bureaus for digital monitoring in city",
+    "description": "Kolkata Police to set up Divisional Crime Record Bureaus in every division to monitor CCTNS, eSakshya and e-Summons, improve audits and case data.",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/kp-to-set-up-divisional-crime-record-bureaus-for-digital-monitoring-in-city/articleshow/133192272.cms",
+    "image": "https://static.toiimg.com/thumb/msid-132748124,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:32Z",
+    "author": "Dwaipayan Ghosh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Fight the disease, not the person’: Saini launches 2-month-long HIV-AIDS programme",
+    "description": "Haryana CM Nayab Singh Saini says youth are key to Viksit Bharat-2047; launches HIV-AIDS awareness drive, outlines skilling, jobs, MSME and startup plans.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/fight-the-disease-not-the-person-saini-launches-2-month-long-hiv-aids-programme/articleshow/133192271.cms",
+    "image": "https://static.toiimg.com/thumb/msid-132958962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:28Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Student assault video goes viral, CEO holds probe",
+    "description": "Video of a Class 10 student assaulting a classmate at a Madurai govt school in Viraganur went viral; Chief Educational Officer probed; police issued warnings.",
+    "url": "https://timesofindia.indiatimes.com/city/madurai/student-assault-video-goes-viral-ceo-holds-probe/articleshow/133192266.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-12T19:01:18Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Senior citizen loses Rs 4L FD to fraudsters",
+    "description": "Kolkata Police probe cyber fraud where imposters posing as bank managers used forged WhatsApp DPs and malicious links to drain a senior’s FD of Rs 4.7 lakh.",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/senior-citizen-loses-rs-4l-fd-to-fraudsters/articleshow/133192263.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:15Z",
+    "author": "Dwaipayan Ghosh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Girls living in Samras hostel protest over food quality, warden misbehaviour",
+    "description": "Bhavnagar Samras Hostel students protested over poor food quality, cleanliness, water supply and warden conduct; district administration assured action.",
+    "url": "https://timesofindia.indiatimes.com/city/rajkot/girls-living-in-samras-hostel-protest-over-food-quality-warden-misbehaviour/articleshow/133192261.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192259,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T19:01:10Z",
+    "author": "The Times Of India"
+  }
+]
+;
