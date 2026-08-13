@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Gen Z takes part in 20-km Tiranga Yatra",
+    "description": "20-km Tiranga Yatra led by Sarojininagar MLA Rajeshwar Singh draws huge crowd in Lucknow; Gen Z joins, cricketer RP Singh participates, 70 sewing machines distributed.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/gen-z-takes-part-in-20-km-tiranga-yatra/articleshow/133192864.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133192862,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-12T20:20:04Z",
+    "author": "TNN"
+  },
+  {
     "source": "RTE",
     "title": "Ireland come up short in latest ODI against Afghanistan",
     "description": "Andy Balbirnie's century and 84 from Curtis Campher were in vain for Ireland as Afghanistan won the fourth one-day international at Stormont by 42 runs to clinch the series 3-0.",
@@ -142,42 +151,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/479586503a041db39650ed9c8e0aafc9a2e235510e66f13320dafdbad620a4ac/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F96b0fc49da8c11e5d146f0ab09adca8c",
     "publishedAt": "2026-08-12T12:09:39Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Former Glamorgan bowler Barwick dies aged 65",
-    "description": "Former Glamorgan bowler Steve Barwick dies at the age of 65.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cewrp5eyvj9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/d7d295e6f9661388c73fc52db80bedacba6b97e8ed45e514918ef3aa9f28d332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80beb6d49a632775e48de2b28f38e182.jpg",
-    "publishedAt": "2026-08-12T10:39:24Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ICC CEO Sanjog Gupta calls for end to random bilateral scheduling, Test-ODI revamp",
-    "description": "In light of the growing popularity of T20 leagues, the International Cricket Council seeks to redefine traditional cricket formats. ICC CEO Sanjog Gupta has called for the end of arbitrary bilateral series, highlighting the necessity of context, culture, and …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/icc-ceo-sanjog-gupta-calls-for-end-to-random-bilateral-scheduling-test-odi-revamp/articleshow/133178835.cms",
-    "image": "https://img.etimg.com/thumb/msid-133178950,width-1200,height-630,imgsize-29254,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-12T10:09:18Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "Munsey answers call at eleventh hour in Notts win",
-    "description": "Notts Outlaws batsman George Munsey returns from international duty in time to hit a century in his club side's six-wicket victory against Surrey at The Oval...",
-    "url": "https://www.bbc.com/sport/cricket/articles/cx2v1pzx2yeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/36bab1beca7edbe064cdc0d2eede6e040d816e27741d59bf81d28fd4d20b7ae1/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fce0a044bbb688a07f0bd989fa7e93bac.jpg",
-    "publishedAt": "2026-08-12T10:06:41Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Sussex all-rounder Lamb forced to retire after injury",
-    "description": "Sussex all-rounder Danny Lamb is forced to retire from professional cricket due to injury.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c1k12m4vvj0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/ef6d36acd4f23798af46d7673ca49b128eb612b6c78e761c79f8c8caccded13e/lightyear_networkapi/resizefill_w677_h381%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed14a6b78cafd8a2244578c19528d0cf.jpg",
-    "publishedAt": "2026-08-12T09:25:22Z",
-    "author": "Dan George - BBC Sport England"
   }
 ]
 ;
