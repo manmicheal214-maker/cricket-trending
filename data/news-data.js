@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Al Jazeera English",
+    "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+    "description": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
+    "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a732ace75dc-1785932494_6acf4e-1785933942.jpg?resize=1200%2C630&quality=80",
+    "publishedAt": "2026-08-12T21:52:18Z",
+    "author": "Joseph Stepansky"
+  },
+  {
     "source": "The Times of India",
     "title": "Gen Z takes part in 20-km Tiranga Yatra",
     "description": "20-km Tiranga Yatra led by Sarojininagar MLA Rajeshwar Singh draws huge crowd in Lucknow; Gen Z joins, cricketer RP Singh participates, 70 sewing machines distributed.",
