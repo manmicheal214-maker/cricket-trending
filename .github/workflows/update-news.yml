@@ -21,21 +21,53 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch cricket news
+      - name: Fetch and filter cricket news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
           curl -fsS -H "X-Api-Key: $NEWS_API_KEY" --get \
-            --data-urlencode "q=cricket OR IPL OR ICC OR BCCI OR Virat Kohli OR Rohit Sharma" \
+            --data-urlencode "q=(cricket OR cricketer OR batsman OR batter OR bowler OR wicketkeeper OR IPL OR ICC OR BCCI OR T20 OR ODI OR \"Test cricket\" OR \"cricket world cup\" OR \"cricket asia cup\" OR \"champions trophy\")" \
             --data-urlencode "language=en" \
             --data-urlencode "sortBy=publishedAt" \
-            --data-urlencode "pageSize=30" \
+            --data-urlencode "pageSize=100" \
             "https://newsapi.org/v2/everything" > /tmp/news-response.json
+
           jq -e '.status == "ok"' /tmp/news-response.json >/dev/null
-          jq '[.articles[] | select(.title != null and .url != null) | {source: (.source.name // "Cricket News"), title: .title, description: (.description // "Latest cricket news and updates."), url: .url, image: (.urlToImage // null), publishedAt: (.publishedAt // null), author: (.author // null)}]' /tmp/news-response.json > data/news.json
+
+          jq '
+            [
+              .articles[]
+              | select(.title != null and .url != null)
+              | (($title := (.title // "")) + " " + ($description := (.description // ""))) as $text
+              | ($text | ascii_downcase) as $lower
+              | select($lower | test("\\bcricket\\b|\\bcricketer\\b|\\bbatsman\\b|\\bbatter\\b|\\bbowler\\b|\\bwicketkeeper\\b|\\bipl\\b|\\bicc\\b|\\bbcci\\b|\\bt20\\b|\\bodi\\b|test cricket|cricket world cup|cricket asia cup|champions trophy"))
+              | select(($lower | test("football|soccer|basketball|tennis|golf|baseball|hockey|formula 1|f1 racing|rugby|boxing|wrestling|volleyball|athletics|nba|nfl|mlb|nhl|fifa")) | not)
+              | {
+                  source: (.source.name // "Cricket News"),
+                  title: .title,
+                  description: (.description // "Latest cricket news and updates."),
+                  url: .url,
+                  image: (.urlToImage // null),
+                  publishedAt: (.publishedAt // null),
+                  author: (.author // null)
+                }
+            ]
+            | unique_by(.url)
+            | sort_by(.publishedAt // "")
+            | reverse
+            | .[0:30]
+          ' /tmp/news-response.json > data/news.json
+
+          if [ "$(jq 'length' data/news.json)" -eq 0 ]; then
+            echo "No cricket articles passed the filter"
+            exit 1
+          fi
+
           printf 'window.cricketNews = ' > data/news-data.js
           cat data/news.json >> data/news-data.js
           printf ';\n' >> data/news-data.js
+
+          echo "Published $(jq 'length' data/news.json) cricket articles."
 
       - name: Commit and push updated news
         run: |
