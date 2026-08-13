@@ -38,7 +38,7 @@ jobs:
             [
               .articles[]
               | select(.title != null and .url != null)
-              | (($title := (.title // "")) + " " + ($description := (.description // ""))) as $text
+              | ((.title // "") + " " + (.description // "")) as $text
               | ($text | ascii_downcase) as $lower
               | select($lower | test("\\bcricket\\b|\\bcricketer\\b|\\bbatsman\\b|\\bbatter\\b|\\bbowler\\b|\\bwicketkeeper\\b|\\bipl\\b|\\bicc\\b|\\bbcci\\b|\\bt20\\b|\\bodi\\b|test cricket|cricket world cup|cricket asia cup|champions trophy"))
               | select(($lower | test("football|soccer|basketball|tennis|golf|baseball|hockey|formula 1|f1 racing|rugby|boxing|wrestling|volleyball|athletics|nba|nfl|mlb|nhl|fifa")) | not)
