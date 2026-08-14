@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Punch",
+    "title": "Junior Yellow Greens strength World Cup ticket push",
+    "description": "Nigeria’s Junior Yellow Greens secured a commanding victory over Rwanda, strengthening their push for a return to the ICC U-19 Men’s Cricket World Cup. Rea\n\nRead More: https://punchng.com/junior-yellow-greens-strength-world-cup-ticket-push/",
+    "url": "https://punchng.com/junior-yellow-greens-strength-world-cup-ticket-push/",
+    "image": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-013821_1786581528-1158x630.webp",
+    "publishedAt": "2026-08-13T01:05:40Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "USA Today",
+    "title": "Darren Waller, Carolina Panthers agree to one-year deal | Reports",
+    "description": "Tight end Darren Waller, a Pro Bowler in 2020 who posted back-to-back 1,000-yard seasons, has agreed to sign with the Carolina Panthers.",
+    "url": "https://www.usatoday.com/story/sports/nfl/panthers/2026/08/12/darren-waller-contract-panthers/91281382007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/83c0ab028a449927fa1be3df4810e3159e289ab5de44dd9a641c832135c28b13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Ff03012ae7ff1bf013d39324c291e3e9d.jpg",
+    "publishedAt": "2026-08-13T01:03:47Z",
+    "author": "Jim Reineking, USA TODAY"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
     "description": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
@@ -124,24 +142,6 @@ window.cricketNews = [
     "image": "https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.2-1-super.1.jpg",
     "publishedAt": "2026-08-12T14:47:09Z",
     "author": "Shlomo Ben-Ami"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "Sun TV Q1 PAT up 17 per cent at ₹619 crore",
-    "description": "Sun TV reports Q1FY27 net profit rise of 17% to ₹619 crore, driven by increased revenues and cricket franchise growth.",
-    "url": "https://www.thehindubusinessline.com/companies/sun-tv-q1-pat-up-17-per-cent-at-619-crore/article71336522.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/r0gks6/article71337257.ece/alternates/LANDSCAPE_1200/SUN%20TV%203.jpg",
-    "publishedAt": "2026-08-12T14:28:43Z",
-    "author": "BL Chennai Bureau"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "R Ashwin names ODI World Cup-winning captain as surprise choice for next CSK head coach",
-    "description": "With everyone wondering who would coach the Chennai Super Kings , former CSK legend R Ashwin was quick to name a World Cup winning captain as his pick.",
-    "url": "https://www.cricketnews.com/en/cricket/news/r-ashwin-odi-world-cup-winning-captain-eoin-morgan-next-csk-coach/e41721e06f6c16a011b42683",
-    "image": "https://s.yimg.com/lo/mysterio/api/c436df507bdcc15fff3e758d57cf71c4be477f980bdd2d4cace431ec6d8005c8/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F08f5383f4a48b729f125ea178aea297b.jpg",
-    "publishedAt": "2026-08-12T13:31:16Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
