@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Australia vs. Bangladesh: How to watch the first Test cricket match in the U.S., TV channel, streaming info and more",
+    "description": "Here's what to know about tuning in to the Australia vs. Bangladesh Test match.",
+    "url": "https://sports.yahoo.com/cricket/article/australia-vs-bangladesh-how-to-watch-the-first-test-cricket-match-in-the-us-tv-channel-streaming-info-and-more-202006348.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/1e9351823158f0fdc4ea2fcf04ee71c34a462869b6039bf73a6dd70b00e62bc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb9c71420-0ad5-43c5-8d44-0ee1df8d1bd0",
+    "publishedAt": "2026-08-13T20:20:06Z",
+    "author": "Liz Kocan"
+  },
+  {
     "source": "The Punch",
     "title": "Osun poll: Accord candidate to drag Fadahunsi before ICC, US, UK",
     "description": "Accord Party candidate, Ladi Adebayo, plans to drag Senator Francis Fadahunsi before the ICC, US, and UK over alleged threats ahead of the Osun election.\n\nRead More: https://punchng.com/osun-poll-accord-candidate-to-drag-fadahunsi-before-icc-us-uk/",
@@ -187,15 +196,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133208021,width-1200,height-630,imgsize-174932,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-13T10:08:47Z",
     "author": "ET Online"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Gardner breaks silence on affair with teammate, retains vice-captaincy",
-    "description": "Ash Gardner has apologised for the pain caused by her marriage breakdown as Cricket Australia retained her as the team's vice-captain despite her involvement with Georgia Voll.",
-    "url": "https://www.abc.net.au/news/2026-08-13/cricket-gardner-breaks-silence-marriage-breakdown-affair-voll/107035306",
-    "image": "https://live-production.wcms.abc-cdn.net.au/62c3d2f1169edea651ad12fcbf9b305d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-13T09:12:12Z",
-    "author": null
   }
 ]
 ;
