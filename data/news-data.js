@@ -1,6 +1,51 @@
 window.cricketNews = [
   {
     "source": "Sporting News",
+    "title": "Australia rolled by Bangladesh: Batters embarrassed in Darwin first Test",
+    "description": "Everyone thought Bangladesh would be Test match cannon fodder for Australia after they were skittled for 54 in a tour game against a Cricket Australia XI.",
+    "url": "https://www.sportingnews.com/au/cricket/news/australia-rolled-bangladesh-batters-embarrassed-darwin-first-test/8f2f4aba3a06d1591d440153",
+    "image": "https://s.yimg.com/lo/mysterio/api/0cb92d19b1f49f8929d39e97b8443112992af03a6a9245450debaaffff8fca4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fa46a02406df56c63d23c45db9e4a81f2",
+    "publishedAt": "2026-08-13T06:04:39Z",
+    "author": "Kieran Francis"
+  },
+  {
+    "source": "BBC News",
+    "title": "Who am I? Guess The Hundred cricket star No 24",
+    "description": "Will you get today's player in as few attempts as possible?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cn4n7z09vq3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
+    "publishedAt": "2026-08-13T05:49:37Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "CNA",
+    "title": "Bangladesh leave Australia reeling at 183-8 at tea",
+    "description": "MELBOURNE, Aug 13 : Australia batsman Steve Smith scored a defiant half-century but Bangladesh's depleted attack produced another four-wicket session to reduce the hosts to 183 for eight at tea on day one of the series-opening test in Darwin on Thursday. • Pa…",
+    "url": "https://www.channelnewsasia.com/sport/bangladesh-leave-australia-reeling-183-8-tea-6316676",
+    "image": "https://dam.mediacorp.sg/image/upload/s--3NGFB_Ao--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-13T054550Z_1_LYNXMPEM7C0BA_RTROPTP_3_CRICKET-ASHES.JPG?itok=CwhRI7z6",
+    "publishedAt": "2026-08-13T05:43:31Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "England scraps midnight curfew on men's cricket team under skipper Joe Root",
+    "description": "The midnight curfew imposed on the England men's cricket team has been scrapped under newly appointed captain Joe Root.\nThe restriction was put in place by England managing director Rob Key after controversial late-night incidents on the winter tours of New Z…",
+    "url": "https://www.business-standard.com/cricket/news/england-scraps-midnight-curfew-on-men-s-cricket-team-under-skipper-joe-root-126081300337_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/04/thumb/featurecrop/1200X628/1754286771-0638.jpg",
+    "publishedAt": "2026-08-13T05:35:59Z",
+    "author": "AP"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Carolina Panthers Sign Pro Bowl Tight End to 1-Year Pact",
+    "description": "The latest Panthers news includes an unexpected tight end addition, as a former Pro Bowler joins Carolina. The post Carolina Panthers Sign Pro Bowl Tight End to 1-Year Pact appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/carolina-panthers/sign-tight-end-darren-waller-one-year-pact/",
+    "image": "https://s.yimg.com/lo/mysterio/api/0f0628fd991bbd4714d4fb383af4d0c995fcddade77b2774e0a7db4f40a41ec2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F50434fb53f0800d634e3813c67ca9944.jpg",
+    "publishedAt": "2026-08-13T05:16:22Z",
+    "author": "TJ French"
+  },
+  {
+    "source": "Sporting News",
     "title": "How to watch UP T20 League 2026? Live stream, TV channel and schedule for Uttar Pradesh league",
     "description": "With the latest season of Uttar Pradesh T20 League about to start, here's everything you would need to know about the tournament, teams and fixtures.",
     "url": "https://www.sportingnews.com/in/cricket/news/watch-t20-league-2026-live-stream-tv-channel-schedule-uttar-pradesh/c1e314fe788463f16d78e254",
