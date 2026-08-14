@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Khabarhub.com",
+    "title": "Nepal to open ACC Premier Cup campaign against Bahrain",
+    "description": "KATHMANDU: The Asian Cricket Council (ACC) has released a revised schedule for the Premier Cup, with Nepal set to begin its campaign against Bahrain on August 31. Nepal will play its second group-stage match against Malaysia on September 3. The Nepali side wi…",
+    "url": "https://english.khabarhub.com/2026/13/563077/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/07/Cricket-Nepal-.jpg",
+    "publishedAt": "2026-08-13T15:45:59Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Ash Gardner breaks her silence on the collapse of her marriage after ex-wife demanded she be stripped of cricket leadership roles over alleged affair",
+    "description": "Gardner took to Instagram to issue a statement on Thursday evening.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16050407/Ash-Gardner-marriage-alleged-affair-cricket.html",
+    "image": "https://i.dailymail.com/1s/2026/08/13/16/96993213-0-image-m-26_1786634263652.jpg",
+    "publishedAt": "2026-08-13T15:24:30Z",
+    "author": "Ali Daher"
+  },
+  {
     "source": "The Times of India",
     "title": "Sri Lankan coach dies after altercation with cricketer in Colombo",
     "description": "Tragic news strikes the cricket community as veteran coach Sumith Fernando passes away at 62 following a violent altercation. The incident, which took place on August 8 at a Colombo cricket facility, started over a dispute regarding drinking water. A 17-year-…",
@@ -250,24 +268,6 @@ window.cricketNews = [
     "image": "https://dam.mediacorp.sg/image/upload/s--3NGFB_Ao--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-13T054550Z_1_LYNXMPEM7C0BA_RTROPTP_3_CRICKET-ASHES.JPG?itok=CwhRI7z6",
     "publishedAt": "2026-08-13T05:43:31Z",
     "author": null
-  },
-  {
-    "source": "Business Standard",
-    "title": "England scraps midnight curfew on men's cricket team under skipper Joe Root",
-    "description": "The midnight curfew imposed on the England men's cricket team has been scrapped under newly appointed captain Joe Root.\nThe restriction was put in place by England managing director Rob Key after controversial late-night incidents on the winter tours of New Z…",
-    "url": "https://www.business-standard.com/cricket/news/england-scraps-midnight-curfew-on-men-s-cricket-team-under-skipper-joe-root-126081300337_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/04/thumb/featurecrop/1200X628/1754286771-0638.jpg",
-    "publishedAt": "2026-08-13T05:35:59Z",
-    "author": "AP"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Carolina Panthers Sign Pro Bowl Tight End to 1-Year Pact",
-    "description": "The latest Panthers news includes an unexpected tight end addition, as a former Pro Bowler joins Carolina. The post Carolina Panthers Sign Pro Bowl Tight End to 1-Year Pact appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/carolina-panthers/sign-tight-end-darren-waller-one-year-pact/",
-    "image": "https://s.yimg.com/lo/mysterio/api/0f0628fd991bbd4714d4fb383af4d0c995fcddade77b2774e0a7db4f40a41ec2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F50434fb53f0800d634e3813c67ca9944.jpg",
-    "publishedAt": "2026-08-13T05:16:22Z",
-    "author": "TJ French"
   }
 ]
 ;
