@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Sporting News",
+    "title": "How to watch UP T20 League 2026? Live stream, TV channel and schedule for Uttar Pradesh league",
+    "description": "With the latest season of Uttar Pradesh T20 League about to start, here's everything you would need to know about the tournament, teams and fixtures.",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-t20-league-2026-live-stream-tv-channel-schedule-uttar-pradesh/c1e314fe788463f16d78e254",
+    "image": "https://s.yimg.com/lo/mysterio/api/af68b8dbd005f768db34738dc69a3c7c44846c603d35af76fbeafeed95e1ba15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd123ba6bf8bb1133c1d9889925aaddf0",
+    "publishedAt": "2026-08-13T04:30:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Former Giants TE Darren Waller Signs With NFC Playoff Team",
+    "description": "Former New York Giants tight end and former Pro Bowler Darren Waller has signed a free-agent contract with the Carolina Panthers. The post Former Giants TE Darren Waller Signs With NFC Playoff Team appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/new-york-giants/tight-end-darren-waller-playoff-team/",
+    "image": "https://s.yimg.com/lo/mysterio/api/e66291478e6724385121f7a9aa0c99a0c4dec0fb3995ce5e9d60c79be3a9b57a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fd85f903a7219fe926eebc01321797fdf.jpg",
+    "publishedAt": "2026-08-13T04:23:18Z",
+    "author": "Tony Adame"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Australia's Test cricket summer off to disastrous start as Bangladesh stun top order in Darwin",
+    "description": "Australia's Test summer has begun disastrously after Bangladesh ripped through the hosts' under-pressure top order in Darwin",
+    "url": "https://www.dailymail.com/sport/cricket/article-16048933/australia-bangladesh-darwin-test-collapse-cricket-cummins.html",
+    "image": "https://i.dailymail.com/1s/2026/08/13/04/110605963-0-image-m-48_1786593430487.jpg",
+    "publishedAt": "2026-08-13T03:59:10Z",
+    "author": "Josh Alston"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Solar Eclipse in The Hundred: How cricket was played as skies turned dark in Edgaston",
+    "description": "A rare solar eclipse briefly plunged Edgbaston into darkness as The Hundred continued, creating an extraordinary backdrop for cricket.",
+    "url": "https://www.cricketnews.com/en/cricket/news/solar-eclipse-hundred-how-cricket-played-skies-turned-dark-edgaston/89d3e4b08b24b559feeb035d",
+    "image": "https://s.yimg.com/lo/mysterio/api/11511d6ddb1164a2dd78c55f3273349ec46e38d3c40345222de2f24741f631fb/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F80b6f4094061b371d17cecbe0860759d.jpg",
+    "publishedAt": "2026-08-13T03:57:41Z",
+    "author": "Anselm Noronha"
+  },
+  {
     "source": "The Punch",
     "title": "Junior Yellow Greens strength World Cup ticket push",
     "description": "Nigeria’s Junior Yellow Greens secured a commanding victory over Rwanda, strengthening their push for a return to the ICC U-19 Men’s Cricket World Cup. Rea\n\nRead More: https://punchng.com/junior-yellow-greens-strength-world-cup-ticket-push/",
@@ -61,87 +97,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/3564a60f77a575c92b110b49433d074e291963d6059c3b86fa62793d7410b970/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6e5a5ae0e8b056757a03cc49144b3212.jpg",
     "publishedAt": "2026-08-12T18:31:11Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Dewald Brevis’ no-look six: How the innovative cricket shot works",
-    "description": "'The thing is totally natural': The science behind the 'no-look' six",
-    "url": "https://www.nzherald.co.nz/sport/cricket/dewald-breviss-no-look-six-how-the-innovative-cricket-shot-works/WL4KYUVW6NC37MC6KR7S7I573A/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/5ZAILU4UCZE5ZJBJBF724WLQZI.jpg?auth=040559af04214c9e18edec90d90d1f3dc5de714452bab92470b4c60986290e62&width=1200&height=675&quality=70&focal=977%2C471&smart=false",
-    "publishedAt": "2026-08-12T17:01:00Z",
-    "author": "Daily Telegraph UK"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Gautam Gambhir's fate as India Test head coach revealed based on each IND vs SL Test series result",
-    "description": "While the back-to-back T20 losses in England and Ireland gave a massive hit to Gautam Gambhir's reputation, his place as India's Test coach remains surprisingly secure.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gautam-gambhir-fate-india-test-coach-ind-vs-sl-test-series-result/d4c65d7019fdb9ccca00ab8d",
-    "image": "https://s.yimg.com/lo/mysterio/api/ca082dd9e8e6e1431b44c1e400da6b8fb9432f6034cd4124e232bb2143c20ef0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F57326bdf5f43210c026eb79b5434004b.jpg",
-    "publishedAt": "2026-08-12T17:00:47Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MPHC refuses to quash 2022 IPL betting case against ‘mastermind’",
-    "description": "Madhya Pradesh High Court refuses to quash 2022 IPL betting FIR against alleged mastermind Satish Sanpal, citing prima facie evidence and ordering trial.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/mphc-refuses-to-quash-2022-ipl-betting-case-against-mastermind/articleshow/133188860.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133188856,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T16:56:06Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Man held for molesting Aus women cricketers turns accused in 12-yr-old murder",
-    "description": "Indore police crack 2015 murder of 17-year-old Krishna after suspect’s boast; Aqeel, linked to Australian cricketer harassment case, and Arif arrested.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/man-held-for-molesting-aus-women-cricketers-turns-accused-in-12-yr-old-murder/articleshow/133188259.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133188258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-12T16:32:39Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "TB project to supply canal water till Nov 10",
-    "description": "Tungabhadra Project ICC approves canal water releases from Wednesday till Nov 10 amid El Niño concerns; drinking water priority; review meeting Sept 10.",
-    "url": "https://timesofindia.indiatimes.com/city/hubballi/tb-project-to-supply-canal-water-till-nov-10/articleshow/133188094.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-12T16:24:13Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Very difficult to get out': Sri Lanka legend makes huge 'best batter in India' claim for Test captain Shubman Gill",
-    "description": "With India getting ready for the Test series against Sri Lanka, one former Sri Lanka legend warns his side against one Indian batter.",
-    "url": "https://www.cricketnews.com/en/cricket/news/sri-lanka-legend-claim-best-batter-india-test-captain-shubman-gill/d40c0499c5ba7293195fac8d",
-    "image": "https://s.yimg.com/lo/mysterio/api/1473bda6254ae6719e3ccb36b49fb1efabab7aca9879dda7fa5e3186aeda9e3c/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F94b97fa8a756587994dab31793b1deea.jpg",
-    "publishedAt": "2026-08-12T16:05:21Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "PRNewswire",
-    "title": "InventHelp Inventor Develops New Set of Accessories for Subwoofer Speaker Cabinets (IPL-739)",
-    "description": "PITTSBURGH, Aug. 12, 2026 /PRNewswire/ -- \"I wanted to create a system that can be installed to not only protect speaker openings on subwoofer cabinets, but also to provide a means for quick mounting of a speaker within a speaker box enclosure of a new box or…",
-    "url": "https://www.prnewswire.com/news-releases/inventhelp-inventor-develops-new-set-of-accessories-for-subwoofer-speaker-cabinets-ipl-739-302845994.html",
-    "image": "https://mmx.prnewswire.com/media/MS1043114/InventHelp-Logo-jpg-Logo.jpg?id=OA2834377&p=facebook",
-    "publishedAt": "2026-08-12T15:45:00Z",
-    "author": null
-  },
-  {
-    "source": "Rediff.com",
-    "title": "IT Department Welcomes 97 Sportspersons To Public Service",
-    "description": "The Income Tax Department in Mumbai has inducted 97 accomplished sportspersons under its sports quota, including cricketer Tejal Hasabnis and para shooter Akash, to strengthen its commitment to recognising sporting excellence and nurturing talent in public se…",
-    "url": "https://www.rediff.com/sports/report/income-tax-department-inducts-97-sportspersons-in-mumbai/20260812.htm",
-    "image": "https://im.rediff.com/1200-630/cricket/2024/oct/05tanush-kotian.jpg",
-    "publishedAt": "2026-08-12T14:56:33Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "Project Syndicate",
-    "title": "The Twilight of the ICC",
-    "description": "Born amid the euphoria of the West’s Cold War victory, the International Criminal Court embodied the aspiration that international law could transcend politics. But the ICC always represented victors’ justice, and it was never equipped to operate in a world s…",
-    "url": "https://www.project-syndicate.org/commentary/icc-lacks-authority-and-legitimacy-to-act-as-global-guardian-of-human-rights-by-shlomo-ben-ami-2026-08",
-    "image": "https://webapi.project-syndicate.org/library/7a594caa2e22df7cc3510c1e0b1e7d94.2-1-super.1.jpg",
-    "publishedAt": "2026-08-12T14:47:09Z",
-    "author": "Shlomo Ben-Ami"
   }
 ]
 ;
