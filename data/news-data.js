@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Protothema.gr",
+    "title": "Gale-force winds to batter Greece for 48 hours, disrupting ferries as temperatures drop up to 7C",
+    "description": "The most extreme gusts are forecast for southwestern Boeotia, northern Attica and Evia on Thursday, then southern Evia and southwestern Andros on Friday, as fire-weather danger keeps rising across Greece over the next two days\nThe post Gale-force winds to bat…",
+    "url": "https://en.protothema.gr/2026/08/13/gale-force-winds-to-batter-greece-for-48-hours-disrupting-ferries-as-temperatures-drop-up-to-7c/",
+    "image": "https://en.protothema.gr/wp-content/uploads/2026/08/maketa-kairos-meltemia-2.jpg-2.jpg",
+    "publishedAt": "2026-08-13T12:35:49Z",
+    "author": "Αλεξία Αμβράζη"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on one condition - Report",
+    "description": "Hardik Pandya is reportedly open to a blockbuster trade from Mumbai Indians to KKR ahead of IPL 2027, provided a condition is met.",
+    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-mi-join-kkr-ipl-2027-one-condition-report/31a5090970550efc98b828b6",
+    "image": "https://s.yimg.com/lo/mysterio/api/31297c71ab4c9cd15e46208d02c3f6ea54ede7449b73e916c36697e79b1032aa/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F62c37464c10109e9afabe13cd42c63e1.jpg",
+    "publishedAt": "2026-08-13T12:33:45Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Udhar nahi jaana': Auqib Nabi recalls how India call-up came as a surprise - Watch",
+    "description": "That opportunity came when Nabi was added to India's squad as a replacement for injured fast bowler Jasprit Bumrah for the upcoming two-Test series against Sri Lanka, beginning in Sri Lanka on Saturday.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/udhar-nahi-jaana-auqib-nabi-recalls-how-india-call-up-came-as-a-surprise-watch/articleshow/133210694.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133210949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-13T12:00:33Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Seamer Randell joins Derbyshire for rest of season",
+    "description": "Derbyshire sign history-making seam bowler Brett Randell for the remainder of the County Championship season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c20e27rrw9go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6d59ab053dc9a873822fd67cd7e62ef72a49067f6cfbeca1b2604eaf9be14afa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1be0cccd18659462fbdb2a8d6daf3dc2.jpg",
+    "publishedAt": "2026-08-13T11:54:11Z",
+    "author": "Andrew Aloia - BBC Sport, East Midlands"
+  },
+  {
+    "source": "BBC News",
+    "title": "Seamer Randell joins Derbyshire for rest of season",
+    "description": "Derbyshire sign history-making seam bowler Brett Randell for the remainder of the County Championship season.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c20e27rrw9go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e3fe/live/e39775d0-9709-11f1-b72c-211ea4e0afc4.jpg",
+    "publishedAt": "2026-08-13T11:54:07Z",
+    "author": "Andrew Aloia"
+  },
+  {
     "source": "The Times of India",
     "title": "India’s Bangladesh tour awaits Centre’s green light",
     "description": "The BCCI awaits Indian government approval for the men's cricket team's Bangladesh tour. Discussions are ongoing with the Indian High Commission regarding the proposed series. Relations between the BCCI and BCB have improved after earlier disagreements. The B…",
@@ -196,24 +241,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/11511d6ddb1164a2dd78c55f3273349ec46e38d3c40345222de2f24741f631fb/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F80b6f4094061b371d17cecbe0860759d.jpg",
     "publishedAt": "2026-08-13T03:57:41Z",
     "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Punch",
-    "title": "Junior Yellow Greens strength World Cup ticket push",
-    "description": "Nigeria’s Junior Yellow Greens secured a commanding victory over Rwanda, strengthening their push for a return to the ICC U-19 Men’s Cricket World Cup. Rea\n\nRead More: https://punchng.com/junior-yellow-greens-strength-world-cup-ticket-push/",
-    "url": "https://punchng.com/junior-yellow-greens-strength-world-cup-ticket-push/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-013821_1786581528-1158x630.webp",
-    "publishedAt": "2026-08-13T01:05:40Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "USA Today",
-    "title": "Darren Waller, Carolina Panthers agree to one-year deal | Reports",
-    "description": "Tight end Darren Waller, a Pro Bowler in 2020 who posted back-to-back 1,000-yard seasons, has agreed to sign with the Carolina Panthers.",
-    "url": "https://www.usatoday.com/story/sports/nfl/panthers/2026/08/12/darren-waller-contract-panthers/91281382007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/83c0ab028a449927fa1be3df4810e3159e289ab5de44dd9a641c832135c28b13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Ff03012ae7ff1bf013d39324c291e3e9d.jpg",
-    "publishedAt": "2026-08-13T01:03:47Z",
-    "author": "Jim Reineking, USA TODAY"
   }
 ]
 ;
