@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘You can’t play forever’: Hayden’s blunt message on Rohit Sharma’s future",
+    "description": "Matthew Hayden pointed out that Rohit Sharma is the architect of his own cricket destiny. As a veteran, Rohit must consider his desire and endurance for the rigorous schedules, especially following his retirement from the Test and T20I formats. His recent per…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-play-forever-matthew-haydens-blunt-message-on-rohit-sharmas-future/articleshow/133230644.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133230696,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T06:15:21Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Lions predicted to sign four-time Pro Bowler after Terrion Arnold news",
+    "description": "Who could the Lions target?",
+    "url": "https://www.sportingnews.com/us/nfl/detroit-lions/news/lions-predicted-sign-pro-bowler-after-terrion-arnold-news/609cf29ece29459684e53067",
+    "image": "https://s.yimg.com/lo/mysterio/api/513fde7e038f136020bca8d828e342d2961d82838ae54369f2113e640995dcb8/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7fa22a5a06694990d29aa372eff81ce0.jpg",
+    "publishedAt": "2026-08-14T06:03:31Z",
+    "author": "Jon Conahan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Angkrish Raghuvanshi set to make comeback after finger injury; named in Mumbai squad",
+    "description": "Angkrish Raghuvanshi is ready to re-enter the competitive cricket scene following his surgery recovery by being named in Mumbai's lineup for the Dr K Thimmappiah Memorial Trophy. At the same time, Ayush Mhatre is still rehabilitating after his hamstring injur…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/angkrish-raghuvanshi-set-to-make-comeback-from-finger-injury/articleshow/133230307.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133230418,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T05:59:23Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Full list of Bangladesh batters to score century in Australia: Tanzid Hasan creates history as first Test centurion Down under",
+    "description": "Here's a look at all batsmen from Bangladesh who have scored a ton across ODI, Test and T20I formats in Australia after Tanzid Hasan makes Test history.",
+    "url": "https://www.cricketnews.com/en/cricket/news/list-bangladesh-batters-score-century-australia-test-odi-t20i-format/4ed8a133ff8b80e3dc23cce7",
+    "image": "https://s.yimg.com/lo/mysterio/api/2eaac0be6d8d7aada3960d53ef6a2c1d30a37e42defbd240e4a63aeb4ef3f2bc/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbf5f8077c96b36bea14b4b188c161cba.jpg",
+    "publishedAt": "2026-08-14T05:51:16Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "BBC News",
     "title": "Cricketer \"looked forward\" to leg amputation",
     "description": "Isaac Elles says the life-changing operation is already improving his mental health.",
@@ -169,15 +205,6 @@ window.cricketNews = [
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/07/Cricket-Nepal-.jpg",
     "publishedAt": "2026-08-13T15:45:59Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Ash Gardner breaks her silence on the collapse of her marriage after ex-wife demanded she be stripped of cricket leadership roles over alleged affair",
-    "description": "Gardner took to Instagram to issue a statement on Thursday evening.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16050407/Ash-Gardner-marriage-alleged-affair-cricket.html",
-    "image": "https://i.dailymail.com/1s/2026/08/13/16/96993213-0-image-m-26_1786634263652.jpg",
-    "publishedAt": "2026-08-13T15:24:30Z",
-    "author": "Ali Daher"
   }
 ]
 ;
