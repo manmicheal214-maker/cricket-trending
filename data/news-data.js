@@ -88,24 +88,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133242840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-14T13:24:22Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hasan hits Bangladesh's first century in Australia",
-    "description": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c8dn2em268jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2fcfec6b76091c4f089fcb870d416d3db789bd598df8a4b6e411cb66e57b6262/lightyear_networkapi/resizefill_w1018_h573%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e99e030bfea04d0e2f30617a72a530.jpg",
-    "publishedAt": "2026-08-14T10:54:57Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hasan hits Bangladesh's first century in Australia",
-    "description": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8dn2em268jo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a56a/live/a648f330-97cb-11f1-a927-0dfab640b8c9.jpg",
-    "publishedAt": "2026-08-14T10:54:53Z",
-    "author": "BBC Sport"
   }
 ]
 ;
