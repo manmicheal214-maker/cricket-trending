@@ -1,6 +1,15 @@
 [
   {
     "source": "The Times of India",
+    "title": "Frederick clears way for Sanjay Govil’s Washington Freedom cricket stadium",
+    "description": "US News: Major League Cricket (MLC) powerhouse Washington Freedom is poised to get a permanent home in suburban Washington after the Frederick City Council app.",
+    "url": "https://timesofindia.indiatimes.com/world/us/frederick-clears-way-for-sanjay-govils-washington-freedom-cricket-stadium/articleshow/133248608.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133248737,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T17:36:56Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
     "title": "MCC clarifies crucial dead-ball law following Pooran-Livingstone, Kapp-Smith incidents",
     "description": "The MCC has provided clarity on cricket Law 20.4.2.5, addressing the scenario of batters unprepared to receive deliveries. This explanation comes after inconsistent rulings during The Hundred matches held at Lord's, where umpires faced differing situations wi…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/the-hundred/mcc-clarifies-crucial-dead-ball-law-following-pooran-livingstone-kapp-smith-incidents/articleshow/133247808.cms",
@@ -106,50 +115,5 @@
     "image": "https://live-production.wcms.abc-cdn.net.au/3d4df35f421763531275b80acafc6883?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=61&width=862&height=485&imformat=generic",
     "publishedAt": "2026-08-14T08:39:26Z",
     "author": "Henry Hanson and Simon Smale"
-  },
-  {
-    "source": "BBC News",
-    "title": "Who am I? Guess The Hundred cricket star No 25",
-    "description": "Will you get today's player in as few attempts as possible?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c07rpk2ergeo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
-    "publishedAt": "2026-08-14T07:53:29Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Talent was never a problem’: Vinay Kumar reveals what Karnataka are missing",
-    "description": "R Vinay Kumar has been appointed as the head coach for Karnataka's senior cricket team, following his experience with various franchise teams and his role as a talent scout. He sees immense potential in the state's players but emphasizes the need for a unifie…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/talent-was-never-a-problem-vinay-kumar-reveals-what-karnataka-are-missing/articleshow/133232105.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133232392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T07:42:06Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "How to stop Vaibhav Sooryavanshi? Harbhajan Singh reveals the only way",
-    "description": "Harbhajan Singh suggests bowlers must attack Vaibhav Sooryavanshi to succeed. He believes containing the young batter is not an effective strategy. Sooryavanshi's aggressive style forces elite bowlers to reconsider their approach. The former spinner emphasise…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-to-stop-vaibhav-sooryavanshi-harbhajan-singh-reveals-the-only-way/articleshow/133231993.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133232073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T07:26:51Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "If Dil Chahta Hai was made today, Aamir getting punched would be a meme: Preity Zinta",
-    "description": "Actress Preity Zinta spoke at Delhi University's Hindu College, captivating students with stories from her renowned film Dil Chahta Hai. She also underscored the essential role of respect in relationships and shared insights on her cricket team, stressing the…",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/if-dil-chahta-hai-was-made-today-aamir-getting-punched-would-be-a-meme-preity-zinta/articleshow/133231502.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133231523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T07:03:49Z",
-    "author": "Sara Siddiqui"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Most catches by a fielder in Test cricket: Can Steve Smith break Joe Root’s record during the Bangladesh series?",
-    "description": "Steve Smith was at his prolific best in the slip cordon on day two of the first Test against Bangladesh as he took three sharp catches.",
-    "url": "https://www.cricketnews.com/en/cricket/news/most-catches-fielder-test-cricket/1c34c2a4526a21dc4f575b72",
-    "image": "https://s.yimg.com/lo/mysterio/api/3d8157bb487e444323b8364506d5ec19d337faae2b44edcf17b4bcc8e935928f/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb3747d503d967a08753b2cea6e3fe797.jpg",
-    "publishedAt": "2026-08-14T07:03:00Z",
-    "author": "Soham Mukherjee"
   }
 ]
