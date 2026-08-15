@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Ravindra Jadeja two short from 350 Test wickets, set to join Kapil Dev in elite club",
+    "description": "Ravindra Jadeja is just two wickets away from a remarkable milestone in his Test cricket journey, aiming for 350 Test wickets against Sri Lanka. With over 4,000 Test runs and beyond 300 wickets already to his name, Jadeja is establishing himself as one of Ind…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-two-short-from-350-test-wickets-set-to-join-kapil-dev-in-elite-club/articleshow/133242741.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133242840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T13:24:22Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "BBC News",
     "title": "Hasan hits Bangladesh's first century in Australia",
     "description": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.",
@@ -205,24 +214,6 @@ window.cricketNews = [
     "image": "https://punchng.com/wp-content/uploads/2026/08/cricket_1786656946.webp",
     "publishedAt": "2026-08-14T00:05:13Z",
     "author": "Punch Newspapers"
-  },
-  {
-    "source": "Fox News",
-    "title": "Aussie women's cricket star addresses cheating with her teammate scandal that ended marriage",
-    "description": "Ash Gardner addressed the cheating scandal involving teammate Georgia Voll on Instagram after Cricket Australia decided to keep her as vice-captain.",
-    "url": "https://www.foxnews.com/outkick-sports/aussie-womens-cricket-star-addresses-cheating-teammate-scandal-ended-marriage",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/aussie-women-cricket-ashleigh-gardner-monica-wright.jpg",
-    "publishedAt": "2026-08-13T22:40:19Z",
-    "author": null
-  },
-  {
-    "source": "New York Post",
-    "title": "White Sox-Reds benches clear after pitches get thrown near hitter’s head: ‘You can kill somebody’",
-    "description": "White Sox pitcher Davis Martin was ejected for throwing at Reds batter Sal Stewart's head, clearing the benches during Cincinnati's 9-8 victory.",
-    "url": "https://nypost.com/2026/08/13/sports/white-sox-reds-benches-clear-in-wild-scene/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-0nuq5nis7-1786656796996.jpg?quality=75&strip=all&1786642415&w=1200",
-    "publishedAt": "2026-08-13T22:33:58Z",
-    "author": "Christian Arnold"
   }
 ]
 ;
