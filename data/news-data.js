@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Rohit Sharma to coach Mumbai Indians? Ashwin makes bold prediction",
+    "description": "Ravichandran Ashwin believes Rohit Sharma could join the Mumbai Indians franchise after his playing career concludes. He suggests Virat Kohli might prefer a break from cricket before considering coaching roles. The former spinner sees growing franchise cricke…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-to-coach-mumbai-indians-ashwin-makes-bold-prediction/articleshow/133229023.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133229122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T04:34:51Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Tanzid's 74 lifts Bangladesh to 181-2 at lunch on Day 2 of 1st cricket test against Australia",
     "description": "Tanzid Hasan scored an unbeaten 74 and shared partnerships of 102 with Mominul Haque (49) and 43 with skipper Najmul Hossain Shanton (28) to guide Bangladesh to 181-2 at lunch on Day 2 of the series-opening cricket test against Australia. Bangladesh resumed F…",
