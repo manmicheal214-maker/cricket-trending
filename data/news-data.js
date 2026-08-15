@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Manav Suthar: The all-weather finger spinner India needs after Ravindra Jadeja",
+    "description": "Manav Suthar is a classical left-arm spinner who stands out in modern cricket for his artistry, skill, and dedication. Praised by experts like Maninder Singh, Suthar impresses with his seamless action, wrist magic, and high revolutions on the ball. His adapta…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-the-all-weather-finger-spinner-india-needs-after-ravindra-jadeja/articleshow/133234310.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133235376,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T09:28:02Z",
+    "author": "Sahil Malhotra,Pratyush Raj"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Quick hits: Tempers flare as Aussies wilt, Starc's heart-in-mouth moment",
+    "description": "Mitchell Starc vents his frustration at a Bangladeshi batter, while a star is born on treacherous Darwin turf. Here are the quick hits from day two of the first Test between Australia and Bangladesh.",
+    "url": "https://www.abc.net.au/news/2026-08-14/aus-ban-day-two-quick-hits-smith-tanzid-starc-darwin-turf/107036904",
+    "image": "https://live-production.wcms.abc-cdn.net.au/3d4df35f421763531275b80acafc6883?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=61&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-14T08:39:26Z",
+    "author": "Henry Hanson and Simon Smale"
+  },
+  {
     "source": "BBC News",
     "title": "Who am I? Guess The Hundred cricket star No 25",
     "description": "Will you get today's player in as few attempts as possible?",
@@ -205,33 +223,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/1e9351823158f0fdc4ea2fcf04ee71c34a462869b6039bf73a6dd70b00e62bc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb9c71420-0ad5-43c5-8d44-0ee1df8d1bd0",
     "publishedAt": "2026-08-13T20:20:06Z",
     "author": "Liz Kocan"
-  },
-  {
-    "source": "The Punch",
-    "title": "Osun poll: Accord candidate to drag Fadahunsi before ICC, US, UK",
-    "description": "Accord Party candidate, Ladi Adebayo, plans to drag Senator Francis Fadahunsi before the ICC, US, and UK over alleged threats ahead of the Osun election.\n\nRead More: https://punchng.com/osun-poll-accord-candidate-to-drag-fadahunsi-before-icc-us-uk/",
-    "url": "https://punchng.com/osun-poll-accord-candidate-to-drag-fadahunsi-before-icc-us-uk/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-5.34.26-PM_1786642489-878x630.webp",
-    "publishedAt": "2026-08-13T17:50:35Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IND vs SL Test series 2026 umpires: Full list of match officials for India vs Sri Lanka Test matches in Galle and Colombo",
-    "description": "Check the full list of official ICC umpires and match referees appointed for the India vs Sri Lanka Test series 2026 in Galle and Colombo.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-sl-test-series-2026-umpires-match-officials-galle-colombo/9efe74d86a0de65f44cabcaf",
-    "image": "https://s.yimg.com/lo/mysterio/api/4d5a022e13d0376ef1b4958bd239d203e3257820f5d96163161c5032e865c9ab/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa2a06243db590e5f639bb84d1797823d.jpg",
-    "publishedAt": "2026-08-13T17:45:22Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Technology saved me': Steve Smith admits he nicked ball despite RTS finding no edge",
-    "description": "Cricket News: Australia were bowled out for 198 on the opening day of the first Test against Bangladesh in Darwin, with Steve Smith's 71 off 109 balls helping them .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/technology-saved-me-steve-smith-admits-he-nicked-ball-despite-rts-finding-no-edge/articleshow/133219717.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133220388,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-13T17:40:49Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
