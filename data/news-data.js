@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Tanzid's 74 lifts Bangladesh to 181-2 at lunch on Day 2 of 1st cricket test against Australia",
+    "description": "Tanzid Hasan scored an unbeaten 74 and shared partnerships of 102 with Mominul Haque (49) and 43 with skipper Najmul Hossain Shanton (28) to guide Bangladesh to 181-2 at lunch on Day 2 of the series-opening cricket test against Australia. Bangladesh resumed F…",
+    "url": "https://sports.yahoo.com/articles/tanzids-74-lifts-bangladesh-181-031227531.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/902b53f48fada34ceaeb2f05212d234c27c98bb2b02a64164216f44e3a6aca85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F420ed7071b3348ad5cdf2269c85e29fa.jpg",
+    "publishedAt": "2026-08-14T03:12:27Z",
+    "author": "Associated Press"
+  },
+  {
     "source": "The Times of India",
     "title": "Afghanistan Cricket Board wants India T20I shifted to festival date",
     "description": "The Afghanistan Cricket Board has made an appeal to shift one of their T20I matches from India to September 14th, aligning with the celebration of Ganesh Chaturthi. This request reflects their intent to incorporate a vibrant cultural flair into the series. Ne…",
@@ -142,33 +151,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/13/16/96993213-0-image-m-26_1786634263652.jpg",
     "publishedAt": "2026-08-13T15:24:30Z",
     "author": "Ali Daher"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sri Lankan coach dies after altercation with cricketer in Colombo",
-    "description": "Tragic news strikes the cricket community as veteran coach Sumith Fernando passes away at 62 following a violent altercation. The incident, which took place on August 8 at a Colombo cricket facility, started over a dispute regarding drinking water. A 17-year-…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sri-lankan-coach-dies-after-altercation-with-cricketer-in-colombo/articleshow/133215320.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133215785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-13T14:25:28Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Henriques chasing 'cricket nirvana' with Portugal",
-    "description": "Moises Henriques says helping Portugal qualify for their first-ever men's T20 World Cup would be cricket \"nirvana\" at the twilight of his playing career.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c2k725q70zqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/b2e55c727bf3a4739ec004521508346ab98955d8b06fa4803c5750ddf3a796b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F822e408c39c506d3294e88c4b52a2bc8.jpg",
-    "publishedAt": "2026-08-13T14:22:24Z",
-    "author": "Timothy Abraham - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Henriques chasing 'cricket nirvana' with Portugal",
-    "description": "Moises Henriques says helping Portugal qualify for their first-ever men's T20 World Cup would be cricket \"nirvana\" at the twilight of his playing career.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c2k725q70zqo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcd1/live/3fbb24b0-96f1-11f1-b9dc-4fc99fb88769.jpg",
-    "publishedAt": "2026-08-13T14:22:19Z",
-    "author": "Timothy Abraham"
   }
 ]
 ;
