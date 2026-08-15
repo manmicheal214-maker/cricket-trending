@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Insurance Journal",
+    "title": "Hawaii Faces Rare Hurricane Strike as Storms Batter Indiana",
+    "description": "Hawaii is in line for a rare hurricane strike as Tropical Storm Lala grazes the Big Island, while severe storms threaten more flooding and outages across Indiana. Tropical Storm Lala may grow into a hurricane as it grazes the Big …",
+    "url": "https://www.insurancejournal.com/news/west/2026/08/14/881614.htm",
+    "image": "https://www.insurancejournal.com/app/uploads/2026/08/People-on-Waikiki-beach_Bloomberg.jpg",
+    "publishedAt": "2026-08-14T15:08:19Z",
+    "author": "Admin"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Constant communication': Shubman Gill denies gap with BCCI CoE amid injury woes",
+    "description": "Cricket News: India captain Shubman Gill has denied reports of a communication gap between the team management and the BCCI Centre of Excellence (CoE) in Bengaluru,.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/constant-communication-shubman-gill-denies-gap-with-bcci-coe-amid-injury-woes/articleshow/133244620.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133244826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T14:43:04Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Sri Lanka Test Series 2026: Check IND vs SL match schedule, live streaming, predicted playing 11 and full squads",
+    "description": "Beginning August 15, 2026, cricket fans can look forward to an exciting two-match Test series between India and Sri Lanka. Led by Shubman Gill, the revamped Indian Test team will take the field, although both nations are grappling with notable injury issues. …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-sri-lanka-test-series-2026-check-ind-vs-sl-match-schedule-live-streaming-predicted-playing-11-and-full-squads/articleshow/133244740.cms",
+    "image": "https://img.etimg.com/thumb/msid-133244885,width-1200,height-630,imgsize-97718,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-14T14:39:40Z",
+    "author": "Trending Desk"
+  },
+  {
     "source": "Dealnews.com",
     "title": "Ulike Air 10 IPL Hair Removal Device for $279 + free shipping",
     "description": "Sapphire cooling technology is the main differentiator here, keeping skin at a lower temperature during treatment than most at-home IPL devices, which makes it a reasonable option for people with lower pain tolerance who want to reduce hair regrowth without s…",
@@ -151,69 +178,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/7220023ac6142d0cabd797b3f1252207cfe543667c7a4c7596c68df6a5afc799/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4bd97950f20f69c7540b236203029a04.jpg",
     "publishedAt": "2026-08-14T04:49:21Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma to coach Mumbai Indians? Ashwin makes bold prediction",
-    "description": "Ravichandran Ashwin believes Rohit Sharma could join the Mumbai Indians franchise after his playing career concludes. He suggests Virat Kohli might prefer a break from cricket before considering coaching roles. The former spinner sees growing franchise cricke…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-to-coach-mumbai-indians-ashwin-makes-bold-prediction/articleshow/133229023.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133229122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T04:34:51Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Tanzid's 74 lifts Bangladesh to 181-2 at lunch on Day 2 of 1st cricket test against Australia",
-    "description": "Tanzid Hasan scored an unbeaten 74 and shared partnerships of 102 with Mominul Haque (49) and 43 with skipper Najmul Hossain Shanton (28) to guide Bangladesh to 181-2 at lunch on Day 2 of the series-opening cricket test against Australia. Bangladesh resumed F…",
-    "url": "https://sports.yahoo.com/articles/tanzids-74-lifts-bangladesh-181-031227531.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/902b53f48fada34ceaeb2f05212d234c27c98bb2b02a64164216f44e3a6aca85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F420ed7071b3348ad5cdf2269c85e29fa.jpg",
-    "publishedAt": "2026-08-14T03:12:27Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Afghanistan Cricket Board wants India T20I shifted to festival date",
-    "description": "The Afghanistan Cricket Board has made an appeal to shift one of their T20I matches from India to September 14th, aligning with the celebration of Ganesh Chaturthi. This request reflects their intent to incorporate a vibrant cultural flair into the series. Ne…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-cricket-board-wants-india-t20i-shifted-to-festival-date/articleshow/133227798.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133227877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T02:58:11Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Games can be won and lost in one session’: Gary Kirsten wary of India threat",
-    "description": "Gary Kirsten highlights the importance of real-time strategy and skill execution in cricket matches.  He stresses the need for adaptable plans against different batters and bowlers.  Sri Lanka faces India in a crucial two-Test series starting soon.  The coach…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/games-can-be-won-and-lost-in-one-session-gary-kirsten-wary-of-india-threat/articleshow/133227517.cms",
-    "image": "https://img.etimg.com/thumb/msid-133227536,width-1200,height-630,imgsize-92388,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-14T02:40:30Z",
-    "author": "Amit Chaudhury"
-  },
-  {
-    "source": "Sporting News",
-    "title": "When are The Hundred playoffs? Dates, time, teams and format for cricket league detailed",
-    "description": "When are The Hundred playoffs in 2026? Get the full schedule, Eliminator date at The Oval, Finals Day at Lord's, match times, and tournament format.",
-    "url": "https://www.sportingnews.com/in/cricket/news/hundred-playoffs-dates-time-teams-and-format-cricket-league-detailed/f5263cb3da5e06497e037034",
-    "image": "https://s.yimg.com/lo/mysterio/api/58dd6c9ae84e7c2c78578352a464300ddc9a49d063a310cedb4bce9db6ca1cfa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd2752b0a9608a2a35b6f1df4517ef34f",
-    "publishedAt": "2026-08-14T01:30:01Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I'd love players to be mobbed like IPL cricketers': The push to make esports mainstream",
-    "description": "At the Esports World Cup in Paris, chess has emerged as an unlikely test of how far esports can stretch. Mike McCabe explains why the game's centuries-old appeal fits alongside digital titles, what Paris has proved about the EWC's ability to travel, and why i…",
-    "url": "https://timesofindia.indiatimes.com/sports/esports/news/id-love-players-to-be-mobbed-like-ipl-cricketers-the-push-to-make-esports-mainstream/articleshow/133226808.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133226814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T00:57:46Z",
-    "author": "Vineet Ramakrishnan"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Cowboys Owner Jerry Jones Sends Clear Message 1 Year After Micah Parsons Trade",
-    "description": "When the Dallas Cowboys decided to trade away Micah Parsons nearly a full year ago, everybody thought Jerry Jones was crazy.\nParsons is a five-time Pro Bowler, a three-time first-team All-Pro honoree, and has racked up 65 career sacks at just 27 years old. On…",
-    "url": "https://biztoc.com/x/f4fae1ed6cb0baa2",
-    "image": "https://biztoc.com/cdn/f4fae1ed6cb0baa2_s.webp",
-    "publishedAt": "2026-08-14T00:35:44Z",
-    "author": "newsweek.com"
   }
 ]
 ;
