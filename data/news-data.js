@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Gamblersconnect.com",
+    "title": "Cricket Enthusiast by WiseWager Goes Officially Live",
+    "description": "WiseWager has officially launched Cricket Enthusiast, a specialized cricket-focused and AI powered platform.",
+    "url": "https://gamblersconnect.com/news/marketing/cricket-enthusiast-by-wise-wager/",
+    "image": "https://gamblersconnect.com/wp-content/uploads/2026/08/wisewager-launches-cricket-enthusiast.png",
+    "publishedAt": "2026-08-14T16:15:40Z",
+    "author": "Dimitri Dimitrov"
+  },
+  {
     "source": "Insurance Journal",
     "title": "Hawaii Faces Rare Hurricane Strike as Storms Batter Indiana",
     "description": "Hawaii is in line for a rare hurricane strike as Tropical Storm Lala grazes the Big Island, while severe storms threaten more flooding and outages across Indiana. Tropical Storm Lala may grow into a hurricane as it grazes the Big …",
@@ -133,51 +142,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133230696,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-14T06:15:21Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Lions predicted to sign four-time Pro Bowler after Terrion Arnold news",
-    "description": "Who could the Lions target?",
-    "url": "https://www.sportingnews.com/us/nfl/detroit-lions/news/lions-predicted-sign-pro-bowler-after-terrion-arnold-news/609cf29ece29459684e53067",
-    "image": "https://s.yimg.com/lo/mysterio/api/513fde7e038f136020bca8d828e342d2961d82838ae54369f2113e640995dcb8/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7fa22a5a06694990d29aa372eff81ce0.jpg",
-    "publishedAt": "2026-08-14T06:03:31Z",
-    "author": "Jon Conahan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Angkrish Raghuvanshi set to make comeback after finger injury; named in Mumbai squad",
-    "description": "Angkrish Raghuvanshi is ready to re-enter the competitive cricket scene following his surgery recovery by being named in Mumbai's lineup for the Dr K Thimmappiah Memorial Trophy. At the same time, Ayush Mhatre is still rehabilitating after his hamstring injur…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/angkrish-raghuvanshi-set-to-make-comeback-from-finger-injury/articleshow/133230307.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133230418,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T05:59:23Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Full list of Bangladesh batters to score century in Australia: Tanzid Hasan creates history as first Test centurion Down under",
-    "description": "Here's a look at all batsmen from Bangladesh who have scored a ton across ODI, Test and T20I formats in Australia after Tanzid Hasan makes Test history.",
-    "url": "https://www.cricketnews.com/en/cricket/news/list-bangladesh-batters-score-century-australia-test-odi-t20i-format/4ed8a133ff8b80e3dc23cce7",
-    "image": "https://s.yimg.com/lo/mysterio/api/2eaac0be6d8d7aada3960d53ef6a2c1d30a37e42defbd240e4a63aeb4ef3f2bc/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbf5f8077c96b36bea14b4b188c161cba.jpg",
-    "publishedAt": "2026-08-14T05:51:16Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricketer \"looked forward\" to leg amputation",
-    "description": "Isaac Elles says the life-changing operation is already improving his mental health.",
-    "url": "https://www.bbc.com/news/articles/ce85pr8180qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/01dda7bf1af85594e9ea234ea753a8acc4382fc8e66b54f5f77a171e0bae9942/lightyear_networkapi/resizefill_w656_h369%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe751c54423b095c6aca62df333fa75c8.jpg",
-    "publishedAt": "2026-08-14T05:06:33Z",
-    "author": "Shivani Chaudhari - Essex"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Not head coach or chief selector: VVS Laxman set for powerful India Director of Cricket role with 4 major responsibilities - Report",
-    "description": "While many experts believed that VVS Laxman would be splitting the coaching duties with Gautam Gambhir, a recent update sets the former Indian great for the director of cricket role.",
-    "url": "https://www.cricketnews.com/en/cricket/news/vvs-laxman-india-director-cricket-role-major-responsibilities/5838ee89a48303c9909de483",
-    "image": "https://s.yimg.com/lo/mysterio/api/7220023ac6142d0cabd797b3f1252207cfe543667c7a4c7596c68df6a5afc799/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4bd97950f20f69c7540b236203029a04.jpg",
-    "publishedAt": "2026-08-14T04:49:21Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
