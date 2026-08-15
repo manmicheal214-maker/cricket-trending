@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Hasan hits Bangladesh's first century in Australia",
+    "description": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c8dn2em268jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/2fcfec6b76091c4f089fcb870d416d3db789bd598df8a4b6e411cb66e57b6262/lightyear_networkapi/resizefill_w1018_h573%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e99e030bfea04d0e2f30617a72a530.jpg",
+    "publishedAt": "2026-08-14T10:54:57Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hasan hits Bangladesh's first century in Australia",
+    "description": "Tanzid Hasan Tamim becomes the first Bangladesh cricketer to score a Test century in Australia as the visitors continued to dominate on day two in Darwin.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8dn2em268jo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a56a/live/a648f330-97cb-11f1-a927-0dfab640b8c9.jpg",
+    "publishedAt": "2026-08-14T10:54:53Z",
+    "author": "BBC Sport"
+  },
+  {
     "source": "The Times of India",
     "title": "Manav Suthar: The all-weather finger spinner India needs after Ravindra Jadeja",
     "description": "Manav Suthar is a classical left-arm spinner who stands out in modern cricket for his artistry, skill, and dedication. Praised by experts like Maninder Singh, Suthar impresses with his seamless action, wrist magic, and high revolutions on the ball. His adapta…",
@@ -214,15 +232,6 @@ window.cricketNews = [
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/anthony-volpe-yankees-cubs-wrigley-field.jpg",
     "publishedAt": "2026-08-13T20:50:14Z",
     "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Australia vs. Bangladesh: How to watch the first Test cricket match in the U.S., TV channel, streaming info and more",
-    "description": "Here's what to know about tuning in to the Australia vs. Bangladesh Test match.",
-    "url": "https://sports.yahoo.com/cricket/article/australia-vs-bangladesh-how-to-watch-the-first-test-cricket-match-in-the-us-tv-channel-streaming-info-and-more-202006348.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/1e9351823158f0fdc4ea2fcf04ee71c34a462869b6039bf73a6dd70b00e62bc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb9c71420-0ad5-43c5-8d44-0ee1df8d1bd0",
-    "publishedAt": "2026-08-13T20:20:06Z",
-    "author": "Liz Kocan"
   }
 ]
 ;
