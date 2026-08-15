@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Dealnews.com",
+    "title": "Ulike Air 10 IPL Hair Removal Device for $279 + free shipping",
+    "description": "Sapphire cooling technology is the main differentiator here, keeping skin at a lower temperature during treatment than most at-home IPL devices, which makes it a reasonable option for people with lower pain tolerance who want to reduce hair regrowth without s…",
+    "url": "https://www.dealnews.com/products/Ulike/Ulike-Air-10-IPL-Hair-Removal-Device/518812.html",
+    "image": "https://d.dlnws.com/64599/1786714738-draftworks_img_eljc9292bmlb9cefokb.jpeg?h=500&w=500",
+    "publishedAt": "2026-08-14T14:06:54Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Ravindra Jadeja two short from 350 Test wickets, set to join Kapil Dev in elite club",
     "description": "Ravindra Jadeja is just two wickets away from a remarkable milestone in his Test cricket journey, aiming for 350 Test wickets against Sri Lanka. With over 4,000 Test runs and beyond 300 wickets already to his name, Jadeja is establishing himself as one of Ind…",
@@ -205,15 +214,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/f4fae1ed6cb0baa2_s.webp",
     "publishedAt": "2026-08-14T00:35:44Z",
     "author": "newsweek.com"
-  },
-  {
-    "source": "The Punch",
-    "title": "Cricket: Nigeria seal W’Cup promotion with tournament record",
-    "description": "The Junior Yellow Greens crushed Mozambique by 407 runs, setting a tournament record and sealing Nigeria’s promotion in the ICC U-19 Men’s Cricket World Cu\n\nRead More: https://punchng.com/cricket-nigeria-seal-wcup-promotion-with-tournament-record/",
-    "url": "https://punchng.com/cricket-nigeria-seal-wcup-promotion-with-tournament-record/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/cricket_1786656946.webp",
-    "publishedAt": "2026-08-14T00:05:13Z",
-    "author": "Punch Newspapers"
   }
 ]
 ;
