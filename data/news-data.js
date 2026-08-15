@@ -223,15 +223,6 @@ window.cricketNews = [
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-0nuq5nis7-1786656796996.jpg?quality=75&strip=all&1786642415&w=1200",
     "publishedAt": "2026-08-13T22:33:58Z",
     "author": "Christian Arnold"
-  },
-  {
-    "source": "Fox News",
-    "title": "Anthony Volpe has face-palm moment with ABS system as first batter of minor league game",
-    "description": "Anthony Volpe burned both ABS challenges in his first at-bat with Triple-A Scranton, losing on two strike calls after seeing three straight balls.",
-    "url": "https://www.foxnews.com/sports/anthony-volpe-facepalm-moment-abs-system-first-batter-minor-league-game",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/anthony-volpe-yankees-cubs-wrigley-field.jpg",
-    "publishedAt": "2026-08-13T20:50:14Z",
-    "author": null
   }
 ]
 ;
