@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Who am I? Guess The Hundred cricket star No 25",
+    "description": "Will you get today's player in as few attempts as possible?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c07rpk2ergeo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
+    "publishedAt": "2026-08-14T07:53:29Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Talent was never a problem’: Vinay Kumar reveals what Karnataka are missing",
+    "description": "R Vinay Kumar has been appointed as the head coach for Karnataka's senior cricket team, following his experience with various franchise teams and his role as a talent scout. He sees immense potential in the state's players but emphasizes the need for a unifie…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/talent-was-never-a-problem-vinay-kumar-reveals-what-karnataka-are-missing/articleshow/133232105.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133232392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T07:42:06Z",
+    "author": "Manuja Veerappa"
+  },
+  {
     "source": "The Times of India",
     "title": "How to stop Vaibhav Sooryavanshi? Harbhajan Singh reveals the only way",
     "description": "Harbhajan Singh suggests bowlers must attack Vaibhav Sooryavanshi to succeed. He believes containing the young batter is not an effective strategy. Sooryavanshi's aggressive style forces elite bowlers to reconsider their approach. The former spinner emphasise…",
