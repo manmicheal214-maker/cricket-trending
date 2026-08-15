@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Sporting News",
+    "title": "When are The Hundred playoffs? Dates, time, teams and format for cricket league detailed",
+    "description": "When are The Hundred playoffs in 2026? Get the full schedule, Eliminator date at The Oval, Finals Day at Lord's, match times, and tournament format.",
+    "url": "https://www.sportingnews.com/in/cricket/news/hundred-playoffs-dates-time-teams-and-format-cricket-league-detailed/f5263cb3da5e06497e037034",
+    "image": "https://s.yimg.com/lo/mysterio/api/58dd6c9ae84e7c2c78578352a464300ddc9a49d063a310cedb4bce9db6ca1cfa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd2752b0a9608a2a35b6f1df4517ef34f",
+    "publishedAt": "2026-08-14T01:30:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I'd love players to be mobbed like IPL cricketers': The push to make esports mainstream",
+    "description": "At the Esports World Cup in Paris, chess has emerged as an unlikely test of how far esports can stretch. Mike McCabe explains why the game's centuries-old appeal fits alongside digital titles, what Paris has proved about the EWC's ability to travel, and why i…",
+    "url": "https://timesofindia.indiatimes.com/sports/esports/news/id-love-players-to-be-mobbed-like-ipl-cricketers-the-push-to-make-esports-mainstream/articleshow/133226808.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133226814,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-14T00:57:46Z",
+    "author": "Vineet Ramakrishnan"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Cowboys Owner Jerry Jones Sends Clear Message 1 Year After Micah Parsons Trade",
+    "description": "When the Dallas Cowboys decided to trade away Micah Parsons nearly a full year ago, everybody thought Jerry Jones was crazy.\nParsons is a five-time Pro Bowler, a three-time first-team All-Pro honoree, and has racked up 65 career sacks at just 27 years old. On…",
+    "url": "https://biztoc.com/x/f4fae1ed6cb0baa2",
+    "image": "https://biztoc.com/cdn/f4fae1ed6cb0baa2_s.webp",
+    "publishedAt": "2026-08-14T00:35:44Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "The Punch",
+    "title": "Cricket: Nigeria seal W’Cup promotion with tournament record",
+    "description": "The Junior Yellow Greens crushed Mozambique by 407 runs, setting a tournament record and sealing Nigeria’s promotion in the ICC U-19 Men’s Cricket World Cu\n\nRead More: https://punchng.com/cricket-nigeria-seal-wcup-promotion-with-tournament-record/",
+    "url": "https://punchng.com/cricket-nigeria-seal-wcup-promotion-with-tournament-record/",
+    "image": "https://punchng.com/wp-content/uploads/2026/08/cricket_1786656946.webp",
+    "publishedAt": "2026-08-14T00:05:13Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "Fox News",
     "title": "Aussie women's cricket star addresses cheating with her teammate scandal that ended marriage",
     "description": "Ash Gardner addressed the cheating scandal involving teammate Georgia Voll on Instagram after Cricket Australia decided to keep her as vice-captain.",
@@ -142,78 +178,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/13/14/101167449-0-image-m-41_1786628315157.jpg",
     "publishedAt": "2026-08-13T13:43:38Z",
     "author": "Shannon John"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bangladesh dominate Australia despite Smith reprieve",
-    "description": "Australia batter Steve Smith benefits from an odd technology reprieve, but Bangladesh otherwise dominate the hosts on day one of the first Test.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c86ndx87e8eo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d31c/live/e3d3abc0-971a-11f1-bb91-6bb44c42ed47.jpg",
-    "publishedAt": "2026-08-13T13:39:57Z",
-    "author": "Jack Skelton"
-  },
-  {
-    "source": "Protothema.gr",
-    "title": "Gale-force winds to batter Greece for 48 hours, disrupting ferries as temperatures drop up to 7C",
-    "description": "The most extreme gusts are forecast for southwestern Boeotia, northern Attica and Evia on Thursday, then southern Evia and southwestern Andros on Friday, as fire-weather danger keeps rising across Greece over the next two days\nThe post Gale-force winds to bat…",
-    "url": "https://en.protothema.gr/2026/08/13/gale-force-winds-to-batter-greece-for-48-hours-disrupting-ferries-as-temperatures-drop-up-to-7c/",
-    "image": "https://en.protothema.gr/wp-content/uploads/2026/08/maketa-kairos-meltemia-2.jpg-2.jpg",
-    "publishedAt": "2026-08-13T12:35:49Z",
-    "author": "Αλεξία Αμβράζη"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on one condition - Report",
-    "description": "Hardik Pandya is reportedly open to a blockbuster trade from Mumbai Indians to KKR ahead of IPL 2027, provided a condition is met.",
-    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-mi-join-kkr-ipl-2027-one-condition-report/31a5090970550efc98b828b6",
-    "image": "https://s.yimg.com/lo/mysterio/api/31297c71ab4c9cd15e46208d02c3f6ea54ede7449b73e916c36697e79b1032aa/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F62c37464c10109e9afabe13cd42c63e1.jpg",
-    "publishedAt": "2026-08-13T12:33:45Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Udhar nahi jaana': Auqib Nabi recalls how India call-up came as a surprise - Watch",
-    "description": "That opportunity came when Nabi was added to India's squad as a replacement for injured fast bowler Jasprit Bumrah for the upcoming two-Test series against Sri Lanka, beginning in Sri Lanka on Saturday.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/udhar-nahi-jaana-auqib-nabi-recalls-how-india-call-up-came-as-a-surprise-watch/articleshow/133210694.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133210949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-13T12:00:33Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Seamer Randell joins Derbyshire for rest of season",
-    "description": "Derbyshire sign history-making seam bowler Brett Randell for the remainder of the County Championship season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c20e27rrw9go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6d59ab053dc9a873822fd67cd7e62ef72a49067f6cfbeca1b2604eaf9be14afa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1be0cccd18659462fbdb2a8d6daf3dc2.jpg",
-    "publishedAt": "2026-08-13T11:54:11Z",
-    "author": "Andrew Aloia - BBC Sport, East Midlands"
-  },
-  {
-    "source": "BBC News",
-    "title": "Seamer Randell joins Derbyshire for rest of season",
-    "description": "Derbyshire sign history-making seam bowler Brett Randell for the remainder of the County Championship season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c20e27rrw9go",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e3fe/live/e39775d0-9709-11f1-b72c-211ea4e0afc4.jpg",
-    "publishedAt": "2026-08-13T11:54:07Z",
-    "author": "Andrew Aloia"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India’s Bangladesh tour awaits Centre’s green light",
-    "description": "The BCCI awaits Indian government approval for the men's cricket team's Bangladesh tour. Discussions are ongoing with the Indian High Commission regarding the proposed series. Relations between the BCCI and BCB have improved after earlier disagreements. The B…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indias-bangladesh-tour-awaits-centres-green-light/articleshow/133210460.cms",
-    "image": "https://img.etimg.com/thumb/msid-133210459,width-1200,height-630,imgsize-160780,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-13T11:37:17Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "If Messi can, why can't Kohli and Rohit? Harbhajan Singh backs veterans for 2027 World Cup",
-    "description": "Harbhajan Singh believes Virat Kohli and Rohit Sharma can play in the next ODI World Cup. He stated that performance and fitness should determine player selection, not age. Messi's continued dominance at 39 serves as an example for the Indian veterans. Kohli'…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/if-messi-can-why-cant-kohli-and-rohit-harbhajan-singh-backs-veterans-for-2027-world-cup/articleshow/133208973.cms",
-    "image": "https://img.etimg.com/thumb/msid-133209056,width-1200,height-630,imgsize-111150,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-13T10:48:20Z",
-    "author": "ET Online"
   }
 ]
 ;
