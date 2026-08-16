@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "2027 ODI World Cup start date and final: ICC to honour Mahatma Gandhi at the start of ICC Cricket World Cup",
+    "description": "With the 2027 ICC World Cup just months away, the ICC plans to honour Mahatma Gandhi before the event starts so here is how the Indian freedom fighter is connected to the tournament.",
+    "url": "https://www.cricketnews.com/en/cricket/news/2027-odi-world-cup-start-date-final-icc-honour-mahatma-gandhi/ac930575b73ea39afd320b26",
+    "image": "https://s.yimg.com/lo/mysterio/api/fb111062a0d8f647d85804be420cb4b4cbc7255e374b25fefebf844cb7137778/lightyear_networkapi/resizefill_w600_h337%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb61adbe3edb421255b8c0819f9d160e8.png",
+    "publishedAt": "2026-08-15T18:13:25Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "The Times of India",
     "title": "‘Desire to play is not a problem’: Ali on Pakistan’s Test cricket downfall",
     "description": "Former Pakistan captain Azhar Ali blamed the decline of departmental cricket for the country’s Test struggles. He called the system a key “nursery” for developing players and criticised the PCB’s frequent changes to domestic cricket. Azhar also stressed that …",
@@ -133,15 +142,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/6b356a03894f236eb8cfe0b884187a52702af0914294c37f4de2aa6b633c7ec6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F244c1a2d55071ef04068f009063770cd.jpg",
     "publishedAt": "2026-08-15T05:11:46Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India's 600th Test: Shubman Gill opts to bat vs Sri Lanka; here's who made India's XI in Galle",
-    "description": "India captain Shubman Gill won the toss and elected to bat first against Sri Lanka in the opening Test of the two-match series in Galle on Saturday. Gill said the pitch looked good and the weather conditions were also favourable for a full day of cricket.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/indias-600th-test-shubman-gill-opts-to-bat-vs-sri-lanka-heres-who-made-indias-xi-in-galle/articleshow/133255707.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133255744,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-15T04:29:59Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
