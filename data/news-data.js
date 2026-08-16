@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘Desire to play is not a problem’: Ali on Pakistan’s Test cricket downfall",
+    "description": "Former Pakistan captain Azhar Ali blamed the decline of departmental cricket for the country’s Test struggles. He called the system a key “nursery” for developing players and criticised the PCB’s frequent changes to domestic cricket. Azhar also stressed that …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/desire-to-play-is-not-a-problem-azhar-ali-on-pakistans-test-cricket-downfall/articleshow/133265160.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133265295,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-15T15:45:36Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Slickdeals.net",
     "title": "31-Piece DEWALT Security Screwdriver Bit Set w/ Storage Case (DWAX200) $15",
     "description": "https://www.amazon.com/dp/B00C1XZIJC \n \nSecurity Bits For Tamperproof Screws. Easy to use \nAdjustable Belt Clip \n30 bits, plus 1 bit tip holder \nSecurity Star Bits Set: T8, T10 torx bit, T15, T20...",
@@ -151,24 +160,6 @@ window.cricketNews = [
     "image": "https://im.rediff.com/1200-630/cricket/2026/aug/15gambhir-flag.jpg",
     "publishedAt": "2026-08-15T03:44:54Z",
     "author": "sports@rediff.co.in (REDIFF SPORTS )"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Bangladesh tighten grip of 1st test as Australia unravel in the field",
-    "description": "A half-century for Mehidy Hasan Miraz helped guide Bangladesh to 417-8 at lunch on Day 3 as it continued to dominate the series-opening cricket test against Australia. Resuming Saturday at 351-6, Bangladesh added a further 66 runs in the morning session for t…",
-    "url": "https://sports.yahoo.com/articles/bangladesh-tighten-grip-1st-test-030048480.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/a6b827288e8141539fec96d86111cd7916edf67d0e7e1884716e03d0256f3c0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb65332cb6fda190f465acb3988dfc1fc.jpg",
-    "publishedAt": "2026-08-15T03:00:48Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rishabh Pant on brink of history, eyes record no Indian batter has achieved in Tests",
-    "description": "Rishabh Pant is about to reach a monumental achievement in Test cricket, needing only three sixes to collect his hundred. This success would welcome him into an esteemed circle of Test players. Additionally, the historic Galle International Cricket Stadium is…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-on-brink-of-history-eyes-record-no-indian-batter-has-achieved-in-tests/articleshow/133254599.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133254647,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-15T02:58:43Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
