@@ -1,5 +1,23 @@
 [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Bangladesh tighten grip of 1st test as Australia unravel in the field",
+    "description": "A half-century for Mehidy Hasan Miraz helped guide Bangladesh to 417-8 at lunch on Day 3 as it continued to dominate the series-opening cricket test against Australia. Resuming Saturday at 351-6, Bangladesh added a further 66 runs in the morning session for t…",
+    "url": "https://sports.yahoo.com/articles/bangladesh-tighten-grip-1st-test-030048480.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/a6b827288e8141539fec96d86111cd7916edf67d0e7e1884716e03d0256f3c0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb65332cb6fda190f465acb3988dfc1fc.jpg",
+    "publishedAt": "2026-08-15T03:00:48Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rishabh Pant on brink of history, eyes record no Indian batter has achieved in Tests",
+    "description": "Rishabh Pant is about to reach a monumental achievement in Test cricket, needing only three sixes to collect his hundred. This success would welcome him into an esteemed circle of Test players. Additionally, the historic Galle International Cricket Stadium is…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-on-brink-of-history-eyes-record-no-indian-batter-has-achieved-in-tests/articleshow/133254599.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133254647,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-15T02:58:43Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Vanguard",
     "title": "Osun Poll: Adeleke’s camp to Ribadu, police — Enforce Tinubu’s directive",
     "description": "By Dapo Akinrefon OSOGBO — The Imole Campaign Council, ICC, on Friday urged security agencies deployed for Saturday’s Osun State governorship election to remain neutral and professional, while calling on the National Security Adviser, Nuhu Ribadu, to ensure s…",
@@ -52,32 +70,5 @@
     "image": "https://www.insurancejournal.com/app/uploads/2026/08/People-on-Waikiki-beach_Bloomberg.jpg",
     "publishedAt": "2026-08-14T15:08:19Z",
     "author": "Admin"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Constant communication': Shubman Gill denies gap with BCCI CoE amid injury woes",
-    "description": "Cricket News: India captain Shubman Gill has denied reports of a communication gap between the team management and the BCCI Centre of Excellence (CoE) in Bengaluru,.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/constant-communication-shubman-gill-denies-gap-with-bcci-coe-amid-injury-woes/articleshow/133244620.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133244826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T14:43:04Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Sri Lanka Test Series 2026: Check IND vs SL match schedule, live streaming, predicted playing 11 and full squads",
-    "description": "Beginning August 15, 2026, cricket fans can look forward to an exciting two-match Test series between India and Sri Lanka. Led by Shubman Gill, the revamped Indian Test team will take the field, although both nations are grappling with notable injury issues. …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-sri-lanka-test-series-2026-check-ind-vs-sl-match-schedule-live-streaming-predicted-playing-11-and-full-squads/articleshow/133244740.cms",
-    "image": "https://img.etimg.com/thumb/msid-133244885,width-1200,height-630,imgsize-97718,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-14T14:39:40Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Dealnews.com",
-    "title": "Ulike Air 10 IPL Hair Removal Device for $279 + free shipping",
-    "description": "Sapphire cooling technology is the main differentiator here, keeping skin at a lower temperature during treatment than most at-home IPL devices, which makes it a reasonable option for people with lower pain tolerance who want to reduce hair regrowth without s…",
-    "url": "https://www.dealnews.com/products/Ulike/Ulike-Air-10-IPL-Hair-Removal-Device/518812.html",
-    "image": "https://d.dlnws.com/64599/1786714738-draftworks_img_eljc9292bmlb9cefokb.jpeg?h=500&w=500",
-    "publishedAt": "2026-08-14T14:06:54Z",
-    "author": null
   }
 ]
