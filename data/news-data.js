@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Bowlers watch out': Angelo Mathews compares Rishabh Pant's disruptive impact to Virender Sehwag ahead of IND's 1st Test vs SL",
+    "description": "Angelo Mathews compared Rishabh Pant to Virender Sehwag, urging India to back the dynamic batter who can take games away from bowlers in hours.",
+    "url": "https://www.cricketnews.com/en/cricket/news/angelo-mathews-rishabh-pants-virender-sehwag-india-1st-test-sl/911121feb6f1c83cb8171d68",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b356a03894f236eb8cfe0b884187a52702af0914294c37f4de2aa6b633c7ec6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F244c1a2d55071ef04068f009063770cd.jpg",
+    "publishedAt": "2026-08-15T05:11:46Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "The Times of India",
     "title": "India's 600th Test: Shubman Gill opts to bat vs Sri Lanka; here's who made India's XI in Galle",
     "description": "India captain Shubman Gill won the toss and elected to bat first against Sri Lanka in the opening Test of the two-match series in Galle on Saturday. Gill said the pitch looked good and the weather conditions were also favourable for a full day of cricket.",
