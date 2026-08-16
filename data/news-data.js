@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Vanguard",
+    "title": "Osun election: Adeleke, Accord in comfortable lead – Imole campaign",
+    "description": "The lmole Campaign Council, ICC, has said that the Accord Party and Governor Ademola Adeleke are in a comfortable lead in Saturday’s Osun governorship election.\nThe post Osun election: Adeleke, Accord in comfortable lead – Imole campaign appeared first on Van…",
+    "url": "https://www.vanguardngr.com/2026/08/osun-election-adeleke-accord-in-comfortable-lead-imole-campaign/",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Adeleke-e1786559563363.jpg",
+    "publishedAt": "2026-08-15T21:25:03Z",
+    "author": "Henry Oduah"
+  },
+  {
+    "source": "Vanguard",
+    "title": "Adeleke camp raises alarm over alleged plan to declare Osun poll inconclusive",
+    "description": "The Imole Campaign Council, ICC, has alleged there is a plot by lNEC to declare the Osun governorship election inconclusive.\nThe post Adeleke camp raises alarm over alleged plan to declare Osun poll inconclusive appeared first on Vanguard News.",
+    "url": "https://www.vanguardngr.com/2026/08/adeleke-camp-raises-alarm-over-alleged-plan-to-declare-osun-poll-inconclusive/",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/12/Governor-Ademola-Adeleke.jpeg",
+    "publishedAt": "2026-08-15T21:02:12Z",
+    "author": "Henry Oduah"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "2027 ODI World Cup start date and final: ICC to honour Mahatma Gandhi at the start of ICC Cricket World Cup",
     "description": "With the 2027 ICC World Cup just months away, the ICC plans to honour Mahatma Gandhi before the event starts so here is how the Indian freedom fighter is connected to the tournament.",
@@ -124,15 +142,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
     "publishedAt": "2026-08-15T07:56:49Z",
     "author": "BBC Sport"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "Buffalo Bills Among Teams To Have ‘Checked On’ Trade Availability of 2-Time Pro Bowler",
-    "description": "It wouldn’t be a preseason without contract disputes heading into the regular season. While the Atlanta Falcons and Detroit Lions were able to end Bijan Robinson and Jahmyr Gibbs’ holdouts with contract extensions, the Tampa Bay Buccaneers are still negotiati…",
-    "url": "https://www.profootballnetwork.com/buffalo-bills-trade-availability-buccaneers-vita-vea/?utm_medium=rss&amp;utm_source=nordot",
-    "image": "https://s.yimg.com/lo/mysterio/api/86dca12e4f9b56e039ec7a9b5cce2e4a7ea568e951aef267989805e661f287e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F493b9d162542ca67b10975b3cf40d5ec.jpg",
-    "publishedAt": "2026-08-15T05:50:59Z",
-    "author": "Zachary Knerr"
   }
 ]
 ;
