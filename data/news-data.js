@@ -142,15 +142,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22b9/live/fe264560-982c-11f1-9559-a55b5150713f.jpg",
     "publishedAt": "2026-08-15T08:23:21Z",
     "author": "Matthew Henry"
-  },
-  {
-    "source": "BBC News",
-    "title": "Who am I? Guess The Hundred cricket star No 26",
-    "description": "Will you get today's player in as few attempts as possible?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c304zdg2gnlo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
-    "publishedAt": "2026-08-15T07:56:49Z",
-    "author": "BBC Sport"
   }
 ]
 ;
