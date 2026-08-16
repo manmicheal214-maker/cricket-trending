@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Steve Smith creates history in Darwin, equals Joe Root's world record in 124 Tests",
+    "description": "In a thrilling display of skill, Steve Smith has matched Joe Root's remarkable world record for non-wicketkeeper Test catches, reaching 218 during the first Test against Bangladesh. Smith's achievement, accomplished with three catches at second slip, showcase…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-creates-history-in-darwin-equals-joe-roots-world-record-in-124-tests/articleshow/133260800.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133261478,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-15T11:26:47Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricketer Abishek Porel denied bail in alleged rape case",
+    "description": "Abishek Porel, Delhi Capitals and Bengal cricketer, has been denied bail in an alleged rape and blackmail case involving a medical student. Arrested in Hooghly on August 11, he was sent to 14 days of judicial custody. The complainant alleged he promised marri…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricketer-abishek-porel-denied-bail-in-alleged-rape-case/articleshow/133260455.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133260797,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-15T10:57:24Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "Josh Hazlewood scripts history against Bangladesh, achieves what no Australian pacer has",
     "description": "Josh Hazlewood made a memorable Test comeback against Bangladesh, taking 6/89 in Darwin and reaching 301 Test wickets, becoming only the ninth Australian to achieve the milestone. He also became the first Australian fast bowler to claim a five-wicket haul aga…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/josh-hazlewood-scripts-history-against-bangladesh-achieves-what-no-australian-pacer-has/articleshow/133260088.cms",
