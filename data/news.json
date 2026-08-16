@@ -1,5 +1,32 @@
 [
   {
+    "source": "BBC News",
+    "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
+    "description": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
+    "url": "https://www.bbc.com/sport/cricket/articles/c9342w19n81o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/ecaf928326211689b80c0345ccbefac067cb2bbb4c227325e7247b01ecd359ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F37abba7851ac3d914998ad87b5af05ef.jpg",
+    "publishedAt": "2026-08-15T08:23:27Z",
+    "author": "Matthew Henry - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
+    "description": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22b9/live/fe264560-982c-11f1-9559-a55b5150713f.jpg",
+    "publishedAt": "2026-08-15T08:23:21Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "BBC News",
+    "title": "Who am I? Guess The Hundred cricket star No 26",
+    "description": "Will you get today's player in as few attempts as possible?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c304zdg2gnlo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
+    "publishedAt": "2026-08-15T07:56:49Z",
+    "author": "BBC Sport"
+  },
+  {
     "source": "Pro Football Network",
     "title": "Buffalo Bills Among Teams To Have ‘Checked On’ Trade Availability of 2-Time Pro Bowler",
     "description": "It wouldn’t be a preseason without contract disputes heading into the regular season. While the Atlanta Falcons and Detroit Lions were able to end Bijan Robinson and Jahmyr Gibbs’ holdouts with contract extensions, the Tampa Bay Buccaneers are still negotiati…",
@@ -79,32 +106,5 @@
     "image": "https://static.toiimg.com/thumb/msid-133248737,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-14T17:36:56Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MCC clarifies crucial dead-ball law following Pooran-Livingstone, Kapp-Smith incidents",
-    "description": "The MCC has provided clarity on cricket Law 20.4.2.5, addressing the scenario of batters unprepared to receive deliveries. This explanation comes after inconsistent rulings during The Hundred matches held at Lord's, where umpires faced differing situations wi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/the-hundred/mcc-clarifies-crucial-dead-ball-law-following-pooran-livingstone-kapp-smith-incidents/articleshow/133247808.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133248109,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T17:07:37Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India women's squad for ACC T20 Asia Cup 2026: Full team list as BCCI names Pratika Rawal replacement for Jemimah Rodrigues",
-    "description": "India have named their squad for the ACC Women’s T20 Asia Cup 2026, with Pratika Rawal replacing the injured Jemimah Rodrigues.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-women-squad-acc-t20-asia-cup-2026-full-team-list/60c80a7ef3e977352861cd19",
-    "image": "https://s.yimg.com/lo/mysterio/api/c43365023da0ea798a4c0075b68cedab1ab1096f9ba5c79e723878823b0b3b19/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc7c86a7fa9b0a070c9d61289ca478c25.jpg",
-    "publishedAt": "2026-08-14T17:06:58Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Gamblersconnect.com",
-    "title": "Cricket Enthusiast by WiseWager Goes Officially Live",
-    "description": "WiseWager has officially launched Cricket Enthusiast, a specialized cricket-focused and AI powered platform.",
-    "url": "https://gamblersconnect.com/news/marketing/cricket-enthusiast-by-wise-wager/",
-    "image": "https://gamblersconnect.com/wp-content/uploads/2026/08/wisewager-launches-cricket-enthusiast.png",
-    "publishedAt": "2026-08-14T16:15:40Z",
-    "author": "Dimitri Dimitrov"
   }
 ]
