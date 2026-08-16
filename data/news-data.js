@@ -79,15 +79,6 @@ window.cricketNews = [
     "image": "https://d.dlnws.com/64599/1786714738-draftworks_img_eljc9292bmlb9cefokb.jpeg?h=500&w=500",
     "publishedAt": "2026-08-14T14:06:54Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ravindra Jadeja two short from 350 Test wickets, set to join Kapil Dev in elite club",
-    "description": "Ravindra Jadeja is just two wickets away from a remarkable milestone in his Test cricket journey, aiming for 350 Test wickets against Sri Lanka. With over 4,000 Test runs and beyond 300 wickets already to his name, Jadeja is establishing himself as one of Ind…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-two-short-from-350-test-wickets-set-to-join-kapil-dev-in-elite-club/articleshow/133242741.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133242840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T13:24:22Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
