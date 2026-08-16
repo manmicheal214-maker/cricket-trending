@@ -97,15 +97,6 @@ window.cricketNews = [
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/06/ribadu.jpg",
     "publishedAt": "2026-08-14T20:06:03Z",
     "author": "Nwafor"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Frederick clears way for Sanjay Govil’s Washington Freedom cricket stadium",
-    "description": "US News: Major League Cricket (MLC) powerhouse Washington Freedom is poised to get a permanent home in suburban Washington after the Frederick City Council app.",
-    "url": "https://timesofindia.indiatimes.com/world/us/frederick-clears-way-for-sanjay-govils-washington-freedom-cricket-stadium/articleshow/133248608.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133248737,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-14T17:36:56Z",
-    "author": "The Times Of India"
   }
 ]
 ;
