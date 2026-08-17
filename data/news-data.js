@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Punch",
+    "title": "Junior YellowGreens clinch Division One return",
+    "description": "Nigeria’s Junior YellowGreens secured their return to Division One of African youth cricket after a dominant performance in the ICC U19 Men’s Cricket World\n\nRead More: https://punchng.com/junior-yellowgreens-clinch-division-one-return/",
+    "url": "https://punchng.com/junior-yellowgreens-clinch-division-one-return/",
+    "image": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-221419_1786828541-1084x630.webp",
+    "publishedAt": "2026-08-16T00:44:39Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "RTE",
     "title": "Six wicket loss sees Ireland swept by Afghanistan",
     "description": "Afghanistan rounded off their ODI series against Ireland with a six wickets victory to secure a 4-0 series win.",
@@ -126,22 +135,13 @@ window.cricketNews = [
     "author": "TOI Sports Desk"
   },
   {
-    "source": "BBC News",
-    "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
-    "description": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
-    "url": "https://www.bbc.com/sport/cricket/articles/c9342w19n81o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/ecaf928326211689b80c0345ccbefac067cb2bbb4c227325e7247b01ecd359ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F37abba7851ac3d914998ad87b5af05ef.jpg",
-    "publishedAt": "2026-08-15T08:23:27Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
-    "description": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22b9/live/fe264560-982c-11f1-9559-a55b5150713f.jpg",
-    "publishedAt": "2026-08-15T08:23:21Z",
-    "author": "Matthew Henry"
+    "source": "Yahoo Entertainment",
+    "title": "Xi calls for improving disaster prevention as floods, landslides batter China",
+    "description": "BEIJING, Aug 15 (Reuters) - Chinese President Xi Jinping called for improving the country's ability to prevent, mitigate and respond to natural disasters, af...",
+    "url": "https://www.yahoo.com/news/world/articles/xi-calls-improving-disaster-prevention-084433728.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/c577de36582e77359cdd3d98afd6741a58103cefd3f9d3e84b88a8cc499ed5e0/lightyear_networkapi/resizefill_w800_h534%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0e916890b5e8641b794ae049bd34f0d4.jpg",
+    "publishedAt": "2026-08-15T08:52:14Z",
+    "author": "Reuters"
   }
 ]
 ;
