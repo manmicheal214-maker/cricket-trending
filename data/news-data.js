@@ -196,24 +196,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133270389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-16T05:26:58Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Donald flies Welsh flag in Hundred final at Lord's",
-    "description": "Welsh Fire might not be in the Hundred final on Sunday at Lord's but Welsh batter Aneurin Donald is looking to take centre stage.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ckg6p0g79g4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/3cf23675bf6dde70985a425c6f0765f0ed7597a7bbc43e93fdbd5c1726d07f7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8b6b3496e6d3ac81d3bbfcca6553b17e.jpg",
-    "publishedAt": "2026-08-16T04:23:26Z",
-    "author": "Gareth Griffiths - BBC Sport Wales"
-  },
-  {
-    "source": "BBC News",
-    "title": "Donald flies Welsh flag in Hundred final at Lord's",
-    "description": "Welsh Fire might not be in the Hundred final on Sunday at Lord's but Welsh batter Aneurin Donald is looking to take centre stage.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckg6p0g79g4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6206/live/b2e829e0-97cf-11f1-b2ab-0dd01740f9f6.jpg",
-    "publishedAt": "2026-08-16T04:23:21Z",
-    "author": "Gareth Griffiths"
   }
 ]
 ;
