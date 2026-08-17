@@ -232,15 +232,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/db511858cd5f67ed6f1f3ec87dbd910123539c58f6ab0facc6d7740790c51756/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0356332656a5df15d3cdbc1f317570ee.jpg",
     "publishedAt": "2026-08-16T03:04:18Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Starc, Mehidy Hasan Miraz clash: What happened during Darwin Test moment? Check viral video here",
-    "description": "Mitchell Starc and Mehidy Hasan Miraz had a tense exchange during a Test match. Miraz ran through the protected pitch area, drawing an umpire's warning. Starc then verbally warned the Bangladesh batter about the pitch rules. Ricky Ponting suggested Miraz's ac…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/mitchell-starc-mehidy-hasan-miraz-clash-what-happened-during-darwin-test-moment-check-viral-video-here/articleshow/133269147.cms",
-    "image": "https://img.etimg.com/thumb/msid-133269157,width-1200,height-630,imgsize-55278,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-16T02:47:39Z",
-    "author": "Trending Desk"
   }
 ]
 ;
