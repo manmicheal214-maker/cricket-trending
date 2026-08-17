@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Donald flies Welsh flag in Hundred final at Lord's",
+    "description": "Welsh Fire might not be in the Hundred final on Sunday at Lord's but Welsh batter Aneurin Donald is looking to take centre stage.",
+    "url": "https://www.bbc.com/sport/cricket/articles/ckg6p0g79g4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3cf23675bf6dde70985a425c6f0765f0ed7597a7bbc43e93fdbd5c1726d07f7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8b6b3496e6d3ac81d3bbfcca6553b17e.jpg",
+    "publishedAt": "2026-08-16T04:23:26Z",
+    "author": "Gareth Griffiths - BBC Sport Wales"
+  },
+  {
+    "source": "BBC News",
+    "title": "Donald flies Welsh flag in Hundred final at Lord's",
+    "description": "Welsh Fire might not be in the Hundred final on Sunday at Lord's but Welsh batter Aneurin Donald is looking to take centre stage.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckg6p0g79g4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6206/live/b2e829e0-97cf-11f1-b2ab-0dd01740f9f6.jpg",
+    "publishedAt": "2026-08-16T04:23:21Z",
+    "author": "Gareth Griffiths"
+  },
+  {
+    "source": "Roundtable.io",
+    "title": "San Francisco 49ers Linked to Potential Blockbuster Trade for Vita Vea",
+    "description": "As trade rumors swirl around Tampa Bay’s disgruntled Pro Bowler, San Francisco joins a high-stakes pursuit to bolster its defensive interior with one of the league's premier disruptors.",
+    "url": "https://roundtable.io/sports/nfl/49ers/news/san-francisco-49ers-linked-to-potential-blockbuster-trade-for-vita-vea",
+    "image": "https://s.yimg.com/lo/mysterio/api/32f49819b5d8150349cbeb6226ffffb71b4ff9bac13e082518577abfa8fce098/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_san_fran_niners_articles_296%2F183c587b2a6c8cbc0c232295adab46ae.jpg",
+    "publishedAt": "2026-08-16T03:24:24Z",
+    "author": "Nick Crain"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Mehidy Hasan Miraz takes 3 wickets to have Australia on the ropes at lunch on Day 4 of 1st test",
     "description": "Mehidy Hasan Miraz spun Bangladesh to the verge of a famous victory as he claimed three wickets to have Australia at 243-7 at lunch on Day 4 of the first cricket test. Resuming Sunday at 161-4, Australia added 82 runs for the session to avoid the ignominy of …",
@@ -106,24 +133,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133262325,width-1200,height-630,imgsize-108046,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-15T12:08:59Z",
     "author": "ANI"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Xi calls for improving disaster prevention as floods, landslides batter China - Reuters",
-    "description": "Xi calls for improving disaster prevention as floods, landslides batter ChinaReuters See more headlines &amp; perspectives on Google News ...",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184984560",
-    "image": null,
-    "publishedAt": "2026-08-15T11:53:10Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Bangladesh closes in on historic win as Australia's batting woes return on Day 3 of 1st test",
-    "description": "Bangladesh is nearing a significant Test cricket victory against Australia.  Australia trails by sixty-seven runs with four wickets down at stumps.  Cameron Green and Alex Carey are batting to keep Australia afloat.  Bangladesh needs six wickets to secure its…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bangladesh-closes-in-on-historic-win-as-australias-batting-woes-return-on-day-3-of-1st-test/articleshow/133261887.cms",
-    "image": "https://img.etimg.com/thumb/msid-133261950,width-1200,height-630,imgsize-87908,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-15T11:48:07Z",
-    "author": "AP"
   }
 ]
 ;
