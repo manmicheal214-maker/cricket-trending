@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Banglawash' to beating Australia in away Test: 5 historic moments in Bangladesh cricket history listed",
+    "description": "Bangladesh has come a long way from their days as an associate nation to now being one of a Test regular, and today we take a look at the five historic moments for the Bangla Tigers.",
+    "url": "https://www.cricketnews.com/en/cricket/news/5-historic-moments-bangladesh-cricket-history-listed/b0f27d609a45360b04788ee5",
+    "image": "https://s.yimg.com/lo/mysterio/api/7bab306ae75af00534f119bea95ad89a090697e27d6f512258437df7e42d6e26/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc277ff90d478bd58349c4e6b4cae25b1.jpg",
+    "publishedAt": "2026-08-16T11:58:20Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "The Times of India",
     "title": "Devdutt Padikkal falls for 167, joins Rahul Dravid and Chetashwar Pujara in Sri Lanka record list",
     "description": "Devdutt Padikkal's remarkable 150-run milestone during a rain-interrupted Test match highlights his growing prowess as a cricketer. He joins the elite ranks of Rahul Dravid and Cheteshwar Pujara with this achievement from the number three position. The match …",
@@ -205,15 +214,6 @@ window.cricketNews = [
     "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/12/Governor-Ademola-Adeleke.jpeg",
     "publishedAt": "2026-08-15T21:02:12Z",
     "author": "Henry Oduah"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "2027 ODI World Cup start date and final: ICC to honour Mahatma Gandhi at the start of ICC Cricket World Cup",
-    "description": "With the 2027 ICC World Cup just months away, the ICC plans to honour Mahatma Gandhi before the event starts so here is how the Indian freedom fighter is connected to the tournament.",
-    "url": "https://www.cricketnews.com/en/cricket/news/2027-odi-world-cup-start-date-final-icc-honour-mahatma-gandhi/ac930575b73ea39afd320b26",
-    "image": "https://s.yimg.com/lo/mysterio/api/fb111062a0d8f647d85804be420cb4b4cbc7255e374b25fefebf844cb7137778/lightyear_networkapi/resizefill_w600_h337%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb61adbe3edb421255b8c0819f9d160e8.png",
-    "publishedAt": "2026-08-15T18:13:25Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
