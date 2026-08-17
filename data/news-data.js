@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Drew Gilbert records three hits as Giants' leadoff batter",
+    "description": "Drew Gilbert records three hits as San Francisco's leadoff batter against Colorado.",
+    "url": "https://volswire.usatoday.com/story/sports/college/volunteers/baseball/2026/08/16/drew-gilbert-giants-leadoff-batter-versus-rockies-mlb/91328147007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/55059caa9931afc3b47b2ccc5ecc71300c3a6a2d326950afb293157deecd0a6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvols_wire_usa_today_articles_138%2F25c0943f548a8bcea7d5d94cde8903b9.jpg",
+    "publishedAt": "2026-08-16T15:06:46Z",
+    "author": "Dan Harralson, Vols Wire"
+  },
+  {
+    "source": "Empire of The Kop",
+    "title": "PSG make Bradley Barcola decision in contradiction of Luis Enrique’s telling comments",
+    "description": "PSG have included both Bradley Barcola and Ibrahim Mbaye in their squad to face RC Lens in the Champions Trophy.The France international has been heavily linked with a move to Anfield in the coming da...",
+    "url": "https://www.empireofthekop.com/2026/08/16/psg-make-bradley-barcola-decision-in-contradiction-of-luis-enriques-telling-comments/",
+    "image": "https://s.yimg.com/lo/mysterio/api/80653cfa220bb60e65f9e92c56a4f506c974d46dbb68998568467f14efcb5568/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fempire_of_the_kop_articles_379%2Ffe1338dd9583a7ec8ac4919c1c0b3d26.jpg",
+    "publishedAt": "2026-08-16T14:45:00Z",
+    "author": "Empire of the Kop"
+  },
+  {
     "source": "Activistpost.com",
     "title": "When Justice Became the Target: The Political Hit on an ICC Prosecutor",
     "description": "Freddie Ponton21st Century Wire On 24 July 2026, the Assembly of States Parties of the International Criminal Court (ICC) voted to remove Khan as prosecutor, making him the first person ever removed from the post. Most coverage treated the decision as the con…",
@@ -205,24 +223,6 @@ window.cricketNews = [
     "image": "https://www.rte.ie/images/0024d5e1-1600.jpg",
     "publishedAt": "2026-08-15T22:13:38Z",
     "author": "RTÉ Sport"
-  },
-  {
-    "source": "Vanguard",
-    "title": "Osun election: Adeleke, Accord in comfortable lead – Imole campaign",
-    "description": "The lmole Campaign Council, ICC, has said that the Accord Party and Governor Ademola Adeleke are in a comfortable lead in Saturday’s Osun governorship election.\nThe post Osun election: Adeleke, Accord in comfortable lead – Imole campaign appeared first on Van…",
-    "url": "https://www.vanguardngr.com/2026/08/osun-election-adeleke-accord-in-comfortable-lead-imole-campaign/",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Adeleke-e1786559563363.jpg",
-    "publishedAt": "2026-08-15T21:25:03Z",
-    "author": "Henry Oduah"
-  },
-  {
-    "source": "Vanguard",
-    "title": "Adeleke camp raises alarm over alleged plan to declare Osun poll inconclusive",
-    "description": "The Imole Campaign Council, ICC, has alleged there is a plot by lNEC to declare the Osun governorship election inconclusive.\nThe post Adeleke camp raises alarm over alleged plan to declare Osun poll inconclusive appeared first on Vanguard News.",
-    "url": "https://www.vanguardngr.com/2026/08/adeleke-camp-raises-alarm-over-alleged-plan-to-declare-osun-poll-inconclusive/",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/12/Governor-Ademola-Adeleke.jpeg",
-    "publishedAt": "2026-08-15T21:02:12Z",
-    "author": "Henry Oduah"
   }
 ]
 ;
