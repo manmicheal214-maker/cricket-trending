@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "WTC 2025-27 points table: Bangladesh climb after historic Australia win, India remain fifth",
+    "description": "In a stunning upset, Bangladesh triumphed over Australia in a Test match held in Darwin, significantly impacting the ICC World Test Championship rankings. Australia remains in first place, unaffected by this latest defeat, while Bangladesh's ascent to fourth …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-2025-27-points-table-bangladesh-climb-after-historic-australia-win-india-remain-fifth/articleshow/133272138.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133272177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-16T08:22:35Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan retain Wahab Riaz as women’s team head coach for Asian Games, senior batter Aliya Riaz recalled",
+    "description": "Pakistan Cricket Board retains Wahab Riaz and coaching staff for upcoming tournaments.  Senior batter Aliya Riaz has been recalled for the Asian Games selection.  Sidra Amin and Sadaf Shams were overlooked as selectors deemed them ODI players only.  Fatima Sa…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-retain-wahab-riaz-as-womens-team-head-coach-for-asian-games-senior-batter-aliya-riaz-recalled/articleshow/133271894.cms",
+    "image": "https://img.etimg.com/thumb/msid-133271970,width-1200,height-630,imgsize-84000,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-16T08:00:17Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "The greatest upsets in Test cricket listed: From New Zealand in India to Bangladesh in Australia",
+    "description": "From Bangladesh stunning Australia in Darwin to New Zealand's whitewash in India, explore the greatest upsets and giant-killings in Test cricket history.",
+    "url": "https://www.cricketnews.com/en/cricket/news/greatest-upsets-test-cricket-listed/b572d4e30e4f8c57d52f9a91",
+    "image": "https://s.yimg.com/lo/mysterio/api/91bc99f437bb2b74aa1d47d0de044ec46c0262b8b4a726f0a4ec08300797f126/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0e38e891154c1fa4cad7294a8b636436.jpg",
+    "publishedAt": "2026-08-16T07:15:30Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Test Match Special Podcast",
+    "description": "Reaction and analysis after Bangladesh seal 'the greatest upset in Test cricket history'.",
+    "url": "https://www.bbc.co.uk/sounds/play/p0p4t6ds?at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p4t6g4.jpg",
+    "publishedAt": "2026-08-16T07:15:00Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Bangladesh thrash Australia for historic win",
+    "description": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cn8nn37v22lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/f64387609a2e48d2ac7636e0dafc0ceb7d9c6368ed27db465779edc3fe65bdaf/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F357beccae4794dbc03d463832d6d57a7.jpg",
+    "publishedAt": "2026-08-16T07:13:39Z",
+    "author": "Paul Battison - BBC Sport journalist"
+  },
+  {
     "source": "BBC News",
     "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
     "description": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
