@@ -1,5 +1,41 @@
 [
   {
+    "source": "BBC News",
+    "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
+    "description": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3104/live/d21ab520-9938-11f1-9be0-93fa1f20d4ea.jpg",
+    "publishedAt": "2026-08-16T06:57:29Z",
+    "author": "Paul Battison"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Outplayed us in all facets’: Cummins blunt admission after Australia’s defeat",
+    "description": "Bangladesh made Test cricket history by defeating Australia by nine wickets in Darwin, a monumental achievement for the team. Captain Pat Cummins of Australia conceded their poor performance across all sectors. Bangladesh's bowlers effectively dismantled thei…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/outplayed-us-in-all-facets-pat-cummins-blunt-admission-after-australias-shock-defeat/articleshow/133271185.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133271244,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-16T06:43:36Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+    "description": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
+    "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood",
+    "image": "https://s.yimg.com/lo/mysterio/api/df92228024dd970a7e75c3b63a9a1843f9217622736348f33522c038226cc764/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc148caf7ff43eadf5b7d6aadb5ab2c49.jpg",
+    "publishedAt": "2026-08-16T06:40:50Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "BBC News",
+    "title": "Who am I? Guess The Hundred cricket star No 27",
+    "description": "Will you get today's player in as few attempts as possible?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/czekrd64e1wo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e184/live/4710dc60-8430-11f1-b976-0b9c15b0ccfc.png",
+    "publishedAt": "2026-08-16T06:21:23Z",
+    "author": "BBC Sport"
+  },
+  {
     "source": "The Times of India",
     "title": "Bangladesh stun Australia with historic win, register first-ever Test victory on Australian soil",
     "description": "Bangladesh achieved an impressive nine-wicket victory over Australia during the Test in Darwin, marking a pivotal moment in cricket history. Mehidy Hasan Miraz emerged as a standout player, contributing vital runs and taking crucial wickets. Cameron Green's c…",
@@ -105,24 +141,6 @@
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/desire-to-play-is-not-a-problem-azhar-ali-on-pakistans-test-cricket-downfall/articleshow/133265160.cms",
     "image": "https://static.toiimg.com/thumb/msid-133265295,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-15T15:45:36Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Slickdeals.net",
-    "title": "31-Piece DEWALT Security Screwdriver Bit Set w/ Storage Case (DWAX200) $15",
-    "description": "https://www.amazon.com/dp/B00C1XZIJC \n \nSecurity Bits For Tamperproof Screws. Easy to use \nAdjustable Belt Clip \n30 bits, plus 1 bit tip holder \nSecurity Star Bits Set: T8, T10 torx bit, T15, T20...",
-    "url": "https://slickdeals.net/f/19879716-31-piece-dewalt-security-screwdriver-bit-set-w-storage-case-dwax200-15",
-    "image": "https://slickdeals.net/attachment/1/5/9/4/5/1/450x450/21290289.thumb",
-    "publishedAt": "2026-08-15T13:34:32Z",
-    "author": "TACO_Trader"
-  },
-  {
-    "source": "The Times of India",
-    "title": "KL Rahul injury scare? India coach gives crucial update after batter retires hurt on Day 1 of Galle Test",
-    "description": "KL Rahul is “fine now” after retiring hurt with cramps during India’s Test against Sri Lanka, batting coach Sitanshu Kotak said. Rahul scored 77 off 162 balls and shared a 150-run stand with Devdutt Padikkal. Padikkal hit an unbeaten 131 on his Test comeback,…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kl-rahul-injury-scare-india-coach-gives-crucial-update-after-batter-retires-hurt-on-day-1-of-galle-test/articleshow/133263441.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133263531,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-15T13:21:48Z",
     "author": "TOI Sports Desk"
   }
 ]
