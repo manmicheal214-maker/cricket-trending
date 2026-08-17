@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "Bangladesh’s historic Australia test win sparks calls for more opportunities",
+    "description": "Bangladesh’s historic test win in Australia hailed as a cricket turning point.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/bangladeshs-historic-australia-test-win-sparks-calls-for-more-opportunities/GNWBSKUYLBFCLLSP67AGYJ4TJI/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/36WIAOEWSFHPTENG7XU6POQVEY.jpg?auth=7cfdc971b0d1661907434d4e543632917ddcfdd23b011388c89ca0e1ba969324&width=1200&height=675&quality=70&focal=607%2C140&smart=false",
+    "publishedAt": "2026-08-16T18:31:18Z",
+    "author": "AFP"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "England trolled: Iceland Cricket takes hilarious dig at English cricket team after Bangladesh's historic win in Australia",
     "description": "After Bangladesh defeated Australia at home in the first Test at Darwin, Iceland Cricket's X handle, famous for their witty remarks, was quick to take a dig at the English.",
@@ -223,15 +232,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133269157,width-1200,height-630,imgsize-55278,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-16T02:47:39Z",
     "author": "Trending Desk"
-  },
-  {
-    "source": "The Punch",
-    "title": "Junior YellowGreens clinch Division One return",
-    "description": "Nigeria’s Junior YellowGreens secured their return to Division One of African youth cricket after a dominant performance in the ICC U19 Men’s Cricket World\n\nRead More: https://punchng.com/junior-yellowgreens-clinch-division-one-return/",
-    "url": "https://punchng.com/junior-yellowgreens-clinch-division-one-return/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-221419_1786828541-1084x630.webp",
-    "publishedAt": "2026-08-16T00:44:39Z",
-    "author": "Punch Newspapers"
   }
 ]
 ;
