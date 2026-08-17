@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Monday breakfast made easy: Chef Kunal Kapur shares quick besan chilla recipe using a sandwich maker",
+    "description": "Chef Kunal Kapur shared a quick recipe for besan chilla using a sandwich maker. This easy breakfast option is perfect for busy Monday mornings. The recipe involves mixing besan with spices and water to create a batter. Baking powder is added to ensure the chi…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/monday-breakfast-made-easy-chef-kunal-kapur-shares-quick-besan-chilla-recipe-using-a-sandwich-maker/articleshow/133278084.cms",
+    "image": "https://img.etimg.com/thumb/msid-133278133,width-1200,height-630,imgsize-1020400,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-16T15:43:44Z",
+    "author": "Trending Desk"
+  },
+  {
     "source": "USA Today",
     "title": "Drew Gilbert records three hits as Giants' leadoff batter",
     "description": "Drew Gilbert records three hits as San Francisco's leadoff batter against Colorado.",
@@ -214,15 +223,6 @@ window.cricketNews = [
     "image": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-221419_1786828541-1084x630.webp",
     "publishedAt": "2026-08-16T00:44:39Z",
     "author": "Punch Newspapers"
-  },
-  {
-    "source": "RTE",
-    "title": "Six wicket loss sees Ireland swept by Afghanistan",
-    "description": "Afghanistan rounded off their ODI series against Ireland with a six wickets victory to secure a 4-0 series win.",
-    "url": "https://www.rte.ie/sport/cricket/2026/0815/1588050-six-wicket-win-sees-ireland-swept-by-afghanistan/",
-    "image": "https://www.rte.ie/images/0024d5e1-1600.jpg",
-    "publishedAt": "2026-08-15T22:13:38Z",
-    "author": "RTÉ Sport"
   }
 ]
 ;
