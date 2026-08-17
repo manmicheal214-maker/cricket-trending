@@ -214,24 +214,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6206/live/b2e829e0-97cf-11f1-b2ab-0dd01740f9f6.jpg",
     "publishedAt": "2026-08-16T04:23:21Z",
     "author": "Gareth Griffiths"
-  },
-  {
-    "source": "Roundtable.io",
-    "title": "San Francisco 49ers Linked to Potential Blockbuster Trade for Vita Vea",
-    "description": "As trade rumors swirl around Tampa Bay’s disgruntled Pro Bowler, San Francisco joins a high-stakes pursuit to bolster its defensive interior with one of the league's premier disruptors.",
-    "url": "https://roundtable.io/sports/nfl/49ers/news/san-francisco-49ers-linked-to-potential-blockbuster-trade-for-vita-vea",
-    "image": "https://s.yimg.com/lo/mysterio/api/32f49819b5d8150349cbeb6226ffffb71b4ff9bac13e082518577abfa8fce098/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_san_fran_niners_articles_296%2F183c587b2a6c8cbc0c232295adab46ae.jpg",
-    "publishedAt": "2026-08-16T03:24:24Z",
-    "author": "Nick Crain"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Mehidy Hasan Miraz takes 3 wickets to have Australia on the ropes at lunch on Day 4 of 1st test",
-    "description": "Mehidy Hasan Miraz spun Bangladesh to the verge of a famous victory as he claimed three wickets to have Australia at 243-7 at lunch on Day 4 of the first cricket test. Resuming Sunday at 161-4, Australia added 82 runs for the session to avoid the ignominy of …",
-    "url": "https://sports.yahoo.com/articles/mehidy-hasan-miraz-takes-3-030418855.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/db511858cd5f67ed6f1f3ec87dbd910123539c58f6ab0facc6d7740790c51756/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0356332656a5df15d3cdbc1f317570ee.jpg",
-    "publishedAt": "2026-08-16T03:04:18Z",
-    "author": "Associated Press"
   }
 ]
 ;
