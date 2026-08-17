@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Activistpost.com",
+    "title": "When Justice Became the Target: The Political Hit on an ICC Prosecutor",
+    "description": "Freddie Ponton21st Century Wire On 24 July 2026, the Assembly of States Parties of the International Criminal Court (ICC) voted to remove Khan as prosecutor, making him the first person ever removed from the post. Most coverage treated the decision as the con…",
+    "url": "https://www.activistpost.com/when-justice-became-the-target-the-political-hit-on-an-icc-prosecutor/",
+    "image": "https://www.activistpost.com/wp-content/uploads/2026/08/Karim-Khan-ICC.jpg",
+    "publishedAt": "2026-08-16T13:00:00Z",
+    "author": "Editor"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Banglawash' to beating Australia in away Test: 5 historic moments in Bangladesh cricket history listed",
     "description": "Bangladesh has come a long way from their days as an associate nation to now being one of a Test regular, and today we take a look at the five historic moments for the Bangla Tigers.",
