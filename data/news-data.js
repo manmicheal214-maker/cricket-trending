@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Fatima Sana to lead as Pakistan name Women's Asia Cup and Asian Games squads",
+    "description": "Pakistan Cricket Board has named 15-member squads for the Women’s Asia Cup and Asian Games, with Fatima Sana returning as captain for both teams. Pakistan will face Thailand, India and Hong Kong-China in the Asia Cup in Dubai. At the Asian Games in Japan, the…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fatima-sana-to-lead-as-pakistan-name-womens-asia-cup-and-asian-games-squads/articleshow/133272776.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133272802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-16T09:31:52Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "The Hundred’s big-city revolution is reviving an old county-cricket tradition",
+    "description": "The sport is having a surprising local renaissance",
+    "url": "https://biztoc.com/x/240e24573471c3c6",
+    "image": "https://biztoc.com/cdn/995/og.png",
+    "publishedAt": "2026-08-16T09:02:18Z",
+    "author": "economist.com"
+  },
+  {
+    "source": "The Times of India",
     "title": "WTC 2025-27 points table: Bangladesh climb after historic Australia win, India remain fifth",
     "description": "In a stunning upset, Bangladesh triumphed over Australia in a Test match held in Darwin, significantly impacting the ICC World Test Championship rankings. Australia remains in first place, unaffected by this latest defeat, while Bangladesh's ascent to fourth …",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-2025-27-points-table-bangladesh-climb-after-historic-australia-win-india-remain-fifth/articleshow/133272138.cms",
@@ -178,15 +196,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/fb111062a0d8f647d85804be420cb4b4cbc7255e374b25fefebf844cb7137778/lightyear_networkapi/resizefill_w600_h337%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb61adbe3edb421255b8c0819f9d160e8.png",
     "publishedAt": "2026-08-15T18:13:25Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Desire to play is not a problem’: Ali on Pakistan’s Test cricket downfall",
-    "description": "Former Pakistan captain Azhar Ali blamed the decline of departmental cricket for the country’s Test struggles. He called the system a key “nursery” for developing players and criticised the PCB’s frequent changes to domestic cricket. Azhar also stressed that …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/desire-to-play-is-not-a-problem-azhar-ali-on-pakistans-test-cricket-downfall/articleshow/133265160.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133265295,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-15T15:45:36Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
