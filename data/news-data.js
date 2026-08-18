@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Options are slim for new Australia Test cricket batters",
+    "description": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
+    "url": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
+    "image": "https://live-production.wcms.abc-cdn.net.au/5afb08d6e24dda00fb6eb1ebf4b57ed0?impolicy=wcms_watermark_news&cropH=1460&cropW=2595&xPos=0&yPos=150&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-17T18:55:37Z",
+    "author": "David Mark"
+  },
+  {
     "source": "BBC News",
     "title": "ETPL a 'wonderful opportunity' to grow cricket",
     "description": "Belfast Wolves CEO Neil Maxwell believes the new European T20 Premier League is a \"wonderful opportunity\" to grow the game across the continent.",
