@@ -133,24 +133,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/17/10/110679809-0-image-m-16_1786958460304.jpg",
     "publishedAt": "2026-08-17T09:31:44Z",
     "author": "Tara Anson-walsh"
-  },
-  {
-    "source": "Ozbargain.com.au",
-    "title": "Australian Crypto Convention, ICC Sydney 28-29 Nov - 2-Day Premium General Admission $223.64 (Was $279) @ Aus Crypto Convention",
-    "description": "Australia’s biggest crypto, blockchain, and fintech event returns to Sydney this November (28-29 Nov 2026). Join 10,000+ attendees, including investors, traders, tech leaders, and blockchain …",
-    "url": "https://www.ozbargain.com.au/node/971674",
-    "image": "https://files.ozbargain.com.au/n/74/971674x.jpg?h=687e0233",
-    "publishedAt": "2026-08-17T07:54:53Z",
-    "author": "auscryptoconvention"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Match-fixing allegations in Indian cricket: BCCI set to crackdown on state T20 leagues for flouting code of conduct - Report",
-    "description": "With T20 franchises and leagues popping up in every state, the BCCI has decided to crack down on the many leagues as they plan to investigate match-fixing allegations.",
-    "url": "https://www.cricketnews.com/en/cricket/news/match-fixing-indian-cricket-bcci-crackdown-state-t20-leagues/cdf137a337818827b20f291e",
-    "image": "https://s.yimg.com/lo/mysterio/api/dd57c1952f84a0e3d0e422774f412cfc4adabbeb214d77bf99296ca02d4a3846/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5463bb64017e8cfacb604faad965902d.jpg",
-    "publishedAt": "2026-08-17T07:46:38Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
