@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "CBS Sports",
+    "title": "Von Miller to sign with Cowboys: Dallas continues EDGE overhaul with addition of eight-time Pro Bowler",
+    "description": "The Cowboys' pass rush could take a step forward with the latest addition",
+    "url": "https://www.cbssports.com/nfl/news/von-miller-to-sign-with-cowboys/",
+    "image": "https://sportshub.cbsistatic.com/i/r/2026/08/17/ffd8876e-2ad8-4a13-ad8a-34c4ec5f8d85/thumbnail/1200x675/ceab5b6a6c19512a3c9f229bbc5b1f80/gettyimages-2242458177-1.jpg",
+    "publishedAt": "2026-08-17T01:59:18Z",
+    "author": "Carter Bahns"
+  },
+  {
     "source": "New York Post",
     "title": "Von Miller signing with Cowboys in major defensive boost before season",
     "description": "An eight-time Pro Bowler is staying in the NFC East.",
@@ -142,69 +151,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133273023,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-16T09:53:16Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Fatima Sana to lead as Pakistan name Women's Asia Cup and Asian Games squads",
-    "description": "Pakistan Cricket Board has named 15-member squads for the Women’s Asia Cup and Asian Games, with Fatima Sana returning as captain for both teams. Pakistan will face Thailand, India and Hong Kong-China in the Asia Cup in Dubai. At the Asian Games in Japan, the…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fatima-sana-to-lead-as-pakistan-name-womens-asia-cup-and-asian-games-squads/articleshow/133272776.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133272802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-16T09:31:52Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "The Hundred’s big-city revolution is reviving an old county-cricket tradition",
-    "description": "The sport is having a surprising local renaissance",
-    "url": "https://biztoc.com/x/240e24573471c3c6",
-    "image": "https://biztoc.com/cdn/995/og.png",
-    "publishedAt": "2026-08-16T09:02:18Z",
-    "author": "economist.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "WTC 2025-27 points table: Bangladesh climb after historic Australia win, India remain fifth",
-    "description": "In a stunning upset, Bangladesh triumphed over Australia in a Test match held in Darwin, significantly impacting the ICC World Test Championship rankings. Australia remains in first place, unaffected by this latest defeat, while Bangladesh's ascent to fourth …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-2025-27-points-table-bangladesh-climb-after-historic-australia-win-india-remain-fifth/articleshow/133272138.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133272177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-16T08:22:35Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan retain Wahab Riaz as women’s team head coach for Asian Games, senior batter Aliya Riaz recalled",
-    "description": "Pakistan Cricket Board retains Wahab Riaz and coaching staff for upcoming tournaments.  Senior batter Aliya Riaz has been recalled for the Asian Games selection.  Sidra Amin and Sadaf Shams were overlooked as selectors deemed them ODI players only.  Fatima Sa…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-retain-wahab-riaz-as-womens-team-head-coach-for-asian-games-senior-batter-aliya-riaz-recalled/articleshow/133271894.cms",
-    "image": "https://img.etimg.com/thumb/msid-133271970,width-1200,height-630,imgsize-84000,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-16T08:00:17Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "The greatest upsets in Test cricket listed: From New Zealand in India to Bangladesh in Australia",
-    "description": "From Bangladesh stunning Australia in Darwin to New Zealand's whitewash in India, explore the greatest upsets and giant-killings in Test cricket history.",
-    "url": "https://www.cricketnews.com/en/cricket/news/greatest-upsets-test-cricket-listed/b572d4e30e4f8c57d52f9a91",
-    "image": "https://s.yimg.com/lo/mysterio/api/91bc99f437bb2b74aa1d47d0de044ec46c0262b8b4a726f0a4ec08300797f126/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0e38e891154c1fa4cad7294a8b636436.jpg",
-    "publishedAt": "2026-08-16T07:15:30Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Test Match Special Podcast",
-    "description": "Reaction and analysis after Bangladesh seal 'the greatest upset in Test cricket history'.",
-    "url": "https://www.bbc.co.uk/sounds/play/p0p4t6ds?at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p4t6g4.jpg",
-    "publishedAt": "2026-08-16T07:15:00Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Bangladesh thrash Australia for historic win",
-    "description": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cn8nn37v22lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/f64387609a2e48d2ac7636e0dafc0ceb7d9c6368ed27db465779edc3fe65bdaf/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F357beccae4794dbc03d463832d6d57a7.jpg",
-    "publishedAt": "2026-08-16T07:13:39Z",
-    "author": "Paul Battison - BBC Sport journalist"
   }
 ]
 ;
