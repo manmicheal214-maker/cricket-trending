@@ -9,6 +9,15 @@ window.cricketNews = [
     "author": "Khabarhub"
   },
   {
+    "source": "Sky Sports",
+    "title": "Root made 'grown-up' call on curfew but does he have the feel for captaincy?",
+    "description": "Nasser Hussain: \"I'm pleased Joe is doing it [Test captaincy], although I may have gone in the direction of Harry Brook\"; <strong>watch the first Test of the three-match series between England and Pakistan, live on Sky Sports Cricket from 10am, Wednesday (fir…",
+    "url": "https://www.skysports.com/cricket/news/12080/13573762/joe-root-england-test-captain-right-to-remove-curfew-says-nasser-hussain-ahead-of-three-test-pakistan-series",
+    "image": "https://e0.365dm.com/26/08/1600x900/skysports-joe-root-england-test-cricket_7319872.jpg?20260812171036",
+    "publishedAt": "2026-08-17T05:00:00Z",
+    "author": "Nasser Hussain"
+  },
+  {
     "source": "CNA",
     "title": "Australia ponder way forward after 'most humbling' test defeat to Bangladesh",
     "description": "MELBOURNE, Aug 17 : A home series against Bangladesh may have seemed the perfect chance for Australia to shake off rust and ease into a huge year of test cricket, but the shambolic defeat to the South Asian side in Darwin has the top-ranked hosts searching fo…",
@@ -142,24 +151,6 @@ window.cricketNews = [
     "image": "https://www.nzherald.co.nz/resizer/v2/36WIAOEWSFHPTENG7XU6POQVEY.jpg?auth=7cfdc971b0d1661907434d4e543632917ddcfdd23b011388c89ca0e1ba969324&width=1200&height=675&quality=70&focal=607%2C140&smart=false",
     "publishedAt": "2026-08-16T18:31:18Z",
     "author": "AFP"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "England trolled: Iceland Cricket takes hilarious dig at English cricket team after Bangladesh's historic win in Australia",
-    "description": "After Bangladesh defeated Australia at home in the first Test at Darwin, Iceland Cricket's X handle, famous for their witty remarks, was quick to take a dig at the English.",
-    "url": "https://www.cricketnews.com/en/cricket/news/england-trolled-iceland-cricket-dig-english-cricket-bangladesh-australia/e1144c46153ef7c82a70c9d3",
-    "image": "https://s.yimg.com/lo/mysterio/api/573cc1d7d48284c23e67cb6eb17fddf4c224e69f223811f2f181176e61d0425a/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe66ad262b7d8e5b18b13740be0374ecb.jpg",
-    "publishedAt": "2026-08-16T16:58:41Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Monday breakfast made easy: Chef Kunal Kapur shares quick besan chilla recipe using a sandwich maker",
-    "description": "Chef Kunal Kapur shared a quick recipe for besan chilla using a sandwich maker. This easy breakfast option is perfect for busy Monday mornings. The recipe involves mixing besan with spices and water to create a batter. Baking powder is added to ensure the chi…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/monday-breakfast-made-easy-chef-kunal-kapur-shares-quick-besan-chilla-recipe-using-a-sandwich-maker/articleshow/133278084.cms",
-    "image": "https://img.etimg.com/thumb/msid-133278133,width-1200,height-630,imgsize-1020400,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-16T15:43:44Z",
-    "author": "Trending Desk"
   }
 ]
 ;
