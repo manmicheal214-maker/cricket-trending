@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "Bangladesh test cricket reboot delivers in style with historic win",
+    "description": "Fast bowlers led Bangladesh to a nine-wicket win over Australia in Darwin.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/bangladesh-test-cricket-reboot-delivers-in-style-with-historic-win/V753R6OLPJAGRNKQTICBKMFGHE/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/WKOTRDMJINEBFAITAMWGIDJTW4.jpg?auth=7f18e6ffac91e2d5600a5e506377c17cab819a2669f314d7eecd25b05e68111e&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-08-17T22:11:57Z",
+    "author": "AFP"
+  },
+  {
     "source": "ABC News (AU)",
     "title": "Options are slim for new Australia Test cricket batters",
     "description": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
@@ -133,15 +142,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133292442,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-17T09:49:26Z",
     "author": "Global Sports Desk"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Luis Enrique's blunt response to questions about two Liverpool targets after dropping the pair for Champions Trophy defeat",
-    "description": "Paris Saint-Germain manager Luis Enrique frostily avoided questions about Liverpool targets Bradley Barcola and Ibrahim Mbaye after dropping both players for their Champions Trophy.",
-    "url": "https://www.dailymail.com/sport/football/article-16057693/luis-enrique-liverpool-bradley-barcola-ibrahim-mbaye-psg-transfer.html",
-    "image": "https://i.dailymail.com/1s/2026/08/17/10/110679809-0-image-m-16_1786958460304.jpg",
-    "publishedAt": "2026-08-17T09:31:44Z",
-    "author": "Tara Anson-walsh"
   }
 ]
 ;
