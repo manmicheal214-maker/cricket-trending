@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Biztoc.com",
+    "title": "Time for England to win | Telegraph Cricket Podcast",
+    "description": "Chapters by Gemini to timings below Jeremy Chapters 00:00 Intro & Sponsor Message 00:56 Welcome ...",
+    "url": "https://biztoc.com/x/58ee5b0c59a49f27",
+    "image": "https://biztoc.com/cdn/58ee5b0c59a49f27_s.webp",
+    "publishedAt": "2026-08-17T14:35:10Z",
+    "author": "youtube.com"
+  },
+  {
     "source": "Pro Football Network",
     "title": "‘It’s Deshaun Watson’s Job to Lose’ — 6-Time Pro Bowler Has No Faith in Browns Giving Shedeur Sanders a Fair Shake in QB Battle",
     "description": "The Cleveland Browns’ quarterback battle has plenty of attention around it, but the competition may not be as even as it looks. Shedeur Sanders has another chance to make his case, while Deshaun Watson carries the weight of experience and a major investment f…",
@@ -160,15 +169,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/6d2107b0a6a1878ea4a69ca7de1e5af84796fc4df2a0453af64288e53634475c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F56e8863f6598123d9bcde033501a8041.jpg",
     "publishedAt": "2026-08-17T07:01:00Z",
     "author": "OneFootball"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal confident ahead of second Top End T20 Series appearance",
-    "description": "KATHMANDU: Nepal is preparing to compete in Australia’s Top End T20 Series for the second time, with the Cricket Association of Nepal (CAN) sending the Nepal ‘A’ team to the tournament instead of the senior national side this year. Led by captain Anil Kumar S…",
-    "url": "https://english.khabarhub.com/2026/17/563595/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepal-A-cricket.jpg",
-    "publishedAt": "2026-08-17T05:15:37Z",
-    "author": "Khabarhub"
   }
 ]
 ;
