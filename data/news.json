@@ -1,5 +1,14 @@
 [
   {
+    "source": "BBC News",
+    "title": "ETPL a 'wonderful opportunity' to grow cricket",
+    "description": "Belfast Wolves CEO Neil Maxwell believes the new European T20 Premier League is a \"wonderful opportunity\" to grow the game across the continent.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm2gq56lg44o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f1c/live/e2eb98d0-9a53-11f1-91df-51cf0e9cd98b.jpg",
+    "publishedAt": "2026-08-17T16:04:46Z",
+    "author": "BBC Sport"
+  },
+  {
     "source": "Biztoc.com",
     "title": "Time for England to win | Telegraph Cricket Podcast",
     "description": "Chapters by Gemini to timings below Jeremy Chapters 00:00 Intro & Sponsor Message 00:56 Welcome ...",
@@ -142,23 +151,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/dd57c1952f84a0e3d0e422774f412cfc4adabbeb214d77bf99296ca02d4a3846/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5463bb64017e8cfacb604faad965902d.jpg",
     "publishedAt": "2026-08-17T07:46:38Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Suthar takes 2-17 as Sri Lanka slumps to 99-5 at lunch on Day 3 of 1st cricket test against India",
-    "description": "Left-arm spinner Manav Suthar picked up 2-17 as Sri Lanka collapsed to 99-5 in its first innings at lunch on Day 3 in the first cricket test against India. The Sri Lanka top-order had few answers to India's sustained bowling pressure in Monday's morning sessi…",
-    "url": "https://sports.yahoo.com/articles/suthar-takes-2-17-sri-073854753.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/de4a7322b5c39e55172031f6982ece341b950f012ff21442d5c7bc2da5809d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe601420ff467934fcdefbaa4971b30c7.jpg",
-    "publishedAt": "2026-08-17T07:38:54Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "ArchDaily",
-    "title": "Modernism on the Watch: Preserving the Sardar Vallabhbhai Patel Stadium in India",
-    "description": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in modernist public architecture. Built in the decades following th…",
-    "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
-    "image": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
-    "publishedAt": "2026-08-17T07:30:00Z",
-    "author": "Moises Carrasco"
   }
 ]
