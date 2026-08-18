@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Hurricane Lala ravages Hawaii: 130,000 without power, homes swept away as floods rise",
+    "description": "Nearly 130,000 utility customers lost electricity after Hurricane Lala weakened.  Flooded roads and damaged homes created dangerous travel conditions for residents.  Heavy rain continued to batter parts of the state, complicating restoration efforts.  Officia…",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/hurricane-lala-ravages-hawaii-130000-without-power-homes-swept-away-as-floods-rise/articleshow/133295273.cms",
+    "image": "https://img.etimg.com/thumb/msid-133295361,width-1200,height-630,imgsize-184806,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-17T11:27:58Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ravindra Jadeja scripts history with 350th Test wicket, joins Kapil, Botham, Vettori in elite club",
+    "description": "Ravindra Jadeja achieved a significant career milestone in Test cricket. He became the fourth player ever to score 4,000 runs and take 350 wickets. This remarkable feat was accomplished during the first Test against Sri Lanka. Jadeja joins an elite group of a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadeja-scripts-history-with-350th-test-wicket-joins-kapil-botham-vettori-in-elite-club/articleshow/133295183.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133295234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-17T11:23:31Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Somerset's Ball signs contract extension",
+    "description": "Somerset and England bowler Jake Ball signs a one-year contract extension keeping him at County Ground until end of next season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c4g6mjprmlyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d2d003e6c62ec962a58b69dc7beab76b189b235f142a2a6281673105790f7e74/lightyear_networkapi/resizefill_w819_h460%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff7bd32d70d00137f86015c616c5696fa.jpg",
+    "publishedAt": "2026-08-17T11:18:21Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Somerset's Ball signs contract extension",
+    "description": "Somerset and England bowler Jake Ball signs a one-year contract extension keeping him at County Ground until end of next season.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g6mjprmlyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d105/live/d250e6d0-9a29-11f1-90d9-9d833c0912f2.jpg",
+    "publishedAt": "2026-08-17T11:18:16Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Didn't help me as person': Facing IPL ban, Harry Brook reflects on criticism during SRH stint",
+    "description": "Brook scored 190 runs in the 2023 season despite making a century against Kolkata Knight Riders. His form dropped after that innings, and he came under pressure over his performances.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/didnt-help-me-as-person-facing-ipl-ban-harry-brook-reflects-on-criticism-during-srh-stint/articleshow/133293563.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133293827,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-17T10:43:03Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Activistpost.com",
     "title": "They Really Don’t Care",
     "description": "Freddie Ponton21st Century Wire On 24 July 2026, the Assembly of States Parties of the International Criminal Court (ICC) voted to remove Khan as prosecutor, making him the first person ever removed from the post. Most coverage treated the decision as the con…",
@@ -133,15 +178,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/03/thumb/fitandfill/1200X628/1712116224-0577.jpg",
     "publishedAt": "2026-08-17T03:50:55Z",
     "author": "Abhinav Ranjan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hyderabad-born MIT astronomer Rohan Naidu, who dropped out of engineering at 18 & loves Test cricket, is behind the 'Black Hole Star' discovery",
-    "description": "Black Hole Star: A Hyderabad-born astronomer and fellow scientists have identified a possible ‘black hole star’ using the James Webb Space Telescope. The object, MoM-BH-1*, may represent a new type of astrophysical source. It appears like a star but is powere…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/hyderabad-born-astronomer-rohan-naidu-who-dropped-out-of-engineering-at-18-loves-test-cricket-is-behind-the-black-hole-star-discovery/articleshow/133285105.cms",
-    "image": "https://img.etimg.com/thumb/msid-133285431,width-1200,height-630,imgsize-1722993,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-17T03:06:19Z",
-    "author": "ET Online"
   }
 ]
 ;
