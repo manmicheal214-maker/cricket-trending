@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Pro Football Network",
+    "title": "‘It’s Deshaun Watson’s Job to Lose’ — 6-Time Pro Bowler Has No Faith in Browns Giving Shedeur Sanders a Fair Shake in QB Battle",
+    "description": "The Cleveland Browns’ quarterback battle has plenty of attention around it, but the competition may not be as even as it looks. Shedeur Sanders has another chance to make his case, while Deshaun Watson carries the weight of experience and a major investment f…",
+    "url": "https://www.profootballnetwork.com/deshaun-watson-job-to-lose-chad-johnson-no-faith-shedeur-sanders/",
+    "image": "https://s.yimg.com/lo/mysterio/api/b7b7950b94053bf43c2f0ff29c52ef2dcebb0a7f26329955ab0b6dc5ead22bde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F7f5844ad285e6abd62e3bae1c1478d10.jpg",
+    "publishedAt": "2026-08-17T13:34:26Z",
+    "author": "Abhilasha Aditi"
+  },
+  {
+    "source": "USA Today",
+    "title": "Packers Pro Bowler says he's 'being punished' by team's CB competition",
+    "description": "Keisean Nixon is in a battle for a starting job with the Green Bay Packers. The 2025 Pro Bowler believes the battle reflects him \"being punished.\"",
+    "url": "https://www.usatoday.com/story/sports/nfl/packers/2026/08/17/keisean-nixon-packers-cornerback-competition/91334459007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/ff5d00215bdf2d02d1d97ee679637d6ee4558997f877fce24c49343f2305b5a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F657a9f075070c8497f963231ef15f37c.jpg",
+    "publishedAt": "2026-08-17T13:28:46Z",
+    "author": "Jacob Camenker, USA TODAY"
+  },
+  {
     "source": "BusinessLine",
     "title": "one8 collection lands on Myntra for 18-hour flash sale on Kohli’s cricket anniversary",
     "description": "Shop the exclusive one8 sportswear collection on Myntra for 18 hours only, celebrating Kohli's cricket anniversary with stylish offerings.",
@@ -151,42 +169,6 @@ window.cricketNews = [
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepal-A-cricket.jpg",
     "publishedAt": "2026-08-17T05:15:37Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "Sky Sports",
-    "title": "Root made 'grown-up' call on curfew but does he have the feel for captaincy?",
-    "description": "Nasser Hussain: \"I'm pleased Joe is doing it [Test captaincy], although I may have gone in the direction of Harry Brook\"; <strong>watch the first Test of the three-match series between England and Pakistan, live on Sky Sports Cricket from 10am, Wednesday (fir…",
-    "url": "https://www.skysports.com/cricket/news/12080/13573762/joe-root-england-test-captain-right-to-remove-curfew-says-nasser-hussain-ahead-of-three-test-pakistan-series",
-    "image": "https://e0.365dm.com/26/08/1600x900/skysports-joe-root-england-test-cricket_7319872.jpg?20260812171036",
-    "publishedAt": "2026-08-17T05:00:00Z",
-    "author": "Nasser Hussain"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia ponder way forward after 'most humbling' test defeat to Bangladesh",
-    "description": "MELBOURNE, Aug 17 : A home series against Bangladesh may have seemed the perfect chance for Australia to shake off rust and ease into a huge year of test cricket, but the shambolic defeat to the South Asian side in Darwin has the top-ranked hosts searching fo…",
-    "url": "https://www.channelnewsasia.com/sport/australia-ponder-way-forward-after-most-humbling-test-defeat-bangladesh-6323226",
-    "image": "https://dam.mediacorp.sg/image/upload/s--d4Evec3P--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-17T050047Z_1_LYNXMPEM7G096_RTROPTP_3_CRICKET-ASHES.JPG?itok=w5PeKU7B",
-    "publishedAt": "2026-08-17T04:55:57Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "India all out for 462 against Sri Lanka in first Test as Devdutt Padikkal scores 167",
-    "description": "Concluding their first innings at 462 runs on the third day, India showcased a remarkable performance with Devdutt Padikkal scoring 167 runs. Asitha Fernando, who took the final Indian wicket, added to his figures. The standout bowler for Sri Lanka, Prabath J…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-all-out-for-462-against-sri-lanka-in-first-test-as-devdutt-padikkal-scores-167/articleshow/133286717.cms",
-    "image": "https://img.etimg.com/thumb/msid-133286814,width-1200,height-630,imgsize-71056,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-17T04:35:34Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "How India’s WTC final hopes take a hit after Bangladesh's historic win over Australia: Explained",
-    "description": "Cameron Green's maiden Test century at home delayed the result, but Bangladesh had already taken control of the match after three-and-a-half days of cricket on a Marrara Stadium pitch that offered a good contest between bat and ball.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-indias-wtc-final-hopes-take-a-hit-after-bangladeshs-historic-win-over-australia-explained/articleshow/133286100.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133286383,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-17T04:30:44Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
