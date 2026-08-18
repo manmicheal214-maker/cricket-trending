@@ -1,5 +1,32 @@
 [
   {
+    "source": "BusinessLine",
+    "title": "one8 collection lands on Myntra for 18-hour flash sale on Kohli’s cricket anniversary",
+    "description": "Shop the exclusive one8 sportswear collection on Myntra for 18 hours only, celebrating Kohli's cricket anniversary with stylish offerings.",
+    "url": "https://www.thehindubusinessline.com/companies/one8-collection-lands-on-myntra-for-18-hour-flash-sale-on-kohlis-cricket-anniversary/article71356155.ece",
+    "image": "https://bl-i.thgim.com/public/markets/xwnvk9/article71356154.ece/alternates/LANDSCAPE_1200/Image.jpeg",
+    "publishedAt": "2026-08-17T12:16:07Z",
+    "author": "BL Mumbai Bureau"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Cricketers from The Hundred test a 100-year-old cricket bat | The Telegraph",
+    "description": "In 1902, Gilbert Jessop scored the fastest-ever century by an English test match cricketer, reaching the milestone in just 77 balls.",
+    "url": "https://biztoc.com/x/cc900894cbf8fba9",
+    "image": "https://biztoc.com/cdn/cc900894cbf8fba9_s.webp",
+    "publishedAt": "2026-08-17T12:15:58Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ellyse Perry backs inaugural Women's Champions Trophy, praises Smriti Mandhana and Harmanpreet Kaur",
+    "description": "Australian star Ellyse Perry welcomes the inaugural ICC Women’s Champions Trophy, calling it a major opportunity for women’s cricket. The T20I tournament features six teams from February. Perry praises India’s Smriti Mandhana for her skill and strong mindset,…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ellyse-perry-backs-inaugural-womens-champions-trophy-praises-smriti-mandhana-and-harmanpreet-kaur/articleshow/133295415.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133296466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-17T12:07:23Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Hurricane Lala ravages Hawaii: 130,000 without power, homes swept away as floods rise",
     "description": "Nearly 130,000 utility customers lost electricity after Hurricane Lala weakened.  Flooded roads and damaged homes created dangerous travel conditions for residents.  Heavy rain continued to batter parts of the state, complicating restoration efforts.  Officia…",
@@ -160,23 +187,5 @@
     "image": "https://static.toiimg.com/thumb/msid-133286383,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-17T04:30:44Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Commanders Lose 8-Time Pro Bowler Von Miller to NFC Rival",
-    "description": "The Washington Commanders have lost 8-time Pro Bowl edge rusher Von Miller to a hated NFC rival. The post Commanders Lose 8-Time Pro Bowler Von Miller to NFC Rival appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/washington-commanders/pro-bowler-von-miller-nfc-rival/",
-    "image": "https://s.yimg.com/lo/mysterio/api/7ccf8a179fb7c88b68cef3e89d89d0645bce47344921df8e85dcc512876e3941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5e798bf7b79e0061490aba99fa499191.jpg",
-    "publishedAt": "2026-08-17T04:14:53Z",
-    "author": "Tony Adame"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Surprise IPL revenue growth prompts CLSA to retain 'Outperform' on Sun TV",
-    "description": "Sun TV share price target: CLSA has retained its 'Outperform' rating on Sun TV for a target price of ₹615.",
-    "url": "https://www.business-standard.com/markets/news/sun-tv-target-price-surprise-ipl-revenue-growth-prompts-clsa-to-retain-outperform-on-sun-tv-126081700124_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/03/thumb/fitandfill/1200X628/1712116224-0577.jpg",
-    "publishedAt": "2026-08-17T03:50:55Z",
-    "author": "Abhinav Ranjan"
   }
 ]
