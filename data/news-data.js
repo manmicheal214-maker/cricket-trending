@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Match-fixing allegations in Indian cricket: BCCI set to crackdown on state T20 leagues for flouting code of conduct - Report",
+    "description": "With T20 franchises and leagues popping up in every state, the BCCI has decided to crack down on the many leagues as they plan to investigate match-fixing allegations.",
+    "url": "https://www.cricketnews.com/en/cricket/news/match-fixing-indian-cricket-bcci-crackdown-state-t20-leagues/cdf137a337818827b20f291e",
+    "image": "https://s.yimg.com/lo/mysterio/api/dd57c1952f84a0e3d0e422774f412cfc4adabbeb214d77bf99296ca02d4a3846/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5463bb64017e8cfacb604faad965902d.jpg",
+    "publishedAt": "2026-08-17T07:46:38Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Suthar takes 2-17 as Sri Lanka slumps to 99-5 at lunch on Day 3 of 1st cricket test against India",
+    "description": "Left-arm spinner Manav Suthar picked up 2-17 as Sri Lanka collapsed to 99-5 in its first innings at lunch on Day 3 in the first cricket test against India. The Sri Lanka top-order had few answers to India's sustained bowling pressure in Monday's morning sessi…",
+    "url": "https://sports.yahoo.com/articles/suthar-takes-2-17-sri-073854753.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/de4a7322b5c39e55172031f6982ece341b950f012ff21442d5c7bc2da5809d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe601420ff467934fcdefbaa4971b30c7.jpg",
+    "publishedAt": "2026-08-17T07:38:54Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "ArchDaily",
+    "title": "Modernism on the Watch: Preserving the Sardar Vallabhbhai Patel Stadium in India",
+    "description": "In the heart of Ahmedabad's Navrangpura district in India sits the Sardar Vallabhbhai Patel Stadium. More than just a cricket ground, the stadium stands as one of India's earliest experiments in modernist public architecture. Built in the decades following th…",
+    "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
+    "image": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/large_jpg/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
+    "publishedAt": "2026-08-17T07:30:00Z",
+    "author": "Moises Carrasco"
+  },
+  {
+    "source": "Onefootball.com",
+    "title": "☕️FC Breakfast: Hakimi, Dembélé in full flow, wild keeper drill!",
+    "description": " Hakimi and Dembélé cruising Before the Champions Trophy, Ousmane Dembélé and Achraf Hakimi turned into eco-friendly citizens in the streets of Paris… New reference unlockedKasimpasa...",
+    "url": "https://onefootball.com/en/news/fc-breakfast-hakimi-dembele-in-full-flow-wild-keeper-drill-43289526",
+    "image": "https://s.yimg.com/lo/mysterio/api/6d2107b0a6a1878ea4a69ca7de1e5af84796fc4df2a0453af64288e53634475c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F56e8863f6598123d9bcde033501a8041.jpg",
+    "publishedAt": "2026-08-17T07:01:00Z",
+    "author": "OneFootball"
+  },
+  {
     "source": "Khabarhub.com",
     "title": "Nepal confident ahead of second Top End T20 Series appearance",
     "description": "KATHMANDU: Nepal is preparing to compete in Australia’s Top End T20 Series for the second time, with the Cricket Association of Nepal (CAN) sending the Nepal ‘A’ team to the tournament instead of the senior national side this year. Led by captain Anil Kumar S…",
@@ -133,24 +169,6 @@ window.cricketNews = [
     "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb6e2b6/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2F80%2F5f84b07643a9b15db4c6cc60b56b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2289863197",
     "publishedAt": "2026-08-16T23:35:29Z",
     "author": "Mike Florio"
-  },
-  {
-    "source": "CryptoSlate",
-    "title": "Inside the Solana reinsurance sale where parent company Oxbridge supplied 95% of public token demand",
-    "description": "Oxbridge supplied $744,623 to T20 and T42 while third parties provided $37,143, and filings do not disclose the purchaser mix for three HCI-linked placements.\nThe post Inside the Solana reinsurance sale where parent company Oxbridge supplied 95% of public tok…",
-    "url": "https://cryptoslate.com/t20-and-t42-suranceplus-raise-oxbridge/",
-    "image": "https://cryptoslate.com/wp-content/uploads/2026/08/oxbridge-capital-funnel.jpg",
-    "publishedAt": "2026-08-16T19:10:58Z",
-    "author": "Liam 'Akiba' Wright"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Bangladesh’s historic Australia test win sparks calls for more opportunities",
-    "description": "Bangladesh’s historic test win in Australia hailed as a cricket turning point.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/bangladeshs-historic-australia-test-win-sparks-calls-for-more-opportunities/GNWBSKUYLBFCLLSP67AGYJ4TJI/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/36WIAOEWSFHPTENG7XU6POQVEY.jpg?auth=7cfdc971b0d1661907434d4e543632917ddcfdd23b011388c89ca0e1ba969324&width=1200&height=675&quality=70&focal=607%2C140&smart=false",
-    "publishedAt": "2026-08-16T18:31:18Z",
-    "author": "AFP"
   }
 ]
 ;
