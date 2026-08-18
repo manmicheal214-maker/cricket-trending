@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Khabarhub.com",
+    "title": "Nepal confident ahead of second Top End T20 Series appearance",
+    "description": "KATHMANDU: Nepal is preparing to compete in Australia’s Top End T20 Series for the second time, with the Cricket Association of Nepal (CAN) sending the Nepal ‘A’ team to the tournament instead of the senior national side this year. Led by captain Anil Kumar S…",
+    "url": "https://english.khabarhub.com/2026/17/563595/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepal-A-cricket.jpg",
+    "publishedAt": "2026-08-17T05:15:37Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "CNA",
+    "title": "Australia ponder way forward after 'most humbling' test defeat to Bangladesh",
+    "description": "MELBOURNE, Aug 17 : A home series against Bangladesh may have seemed the perfect chance for Australia to shake off rust and ease into a huge year of test cricket, but the shambolic defeat to the South Asian side in Darwin has the top-ranked hosts searching fo…",
+    "url": "https://www.channelnewsasia.com/sport/australia-ponder-way-forward-after-most-humbling-test-defeat-bangladesh-6323226",
+    "image": "https://dam.mediacorp.sg/image/upload/s--d4Evec3P--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-17T050047Z_1_LYNXMPEM7G096_RTROPTP_3_CRICKET-ASHES.JPG?itok=w5PeKU7B",
+    "publishedAt": "2026-08-17T04:55:57Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "India all out for 462 against Sri Lanka in first Test as Devdutt Padikkal scores 167",
     "description": "Concluding their first innings at 462 runs on the third day, India showcased a remarkable performance with Devdutt Padikkal scoring 167 runs. Asitha Fernando, who took the final Indian wicket, added to his figures. The standout bowler for Sri Lanka, Prabath J…",
@@ -142,24 +160,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133278133,width-1200,height-630,imgsize-1020400,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-16T15:43:44Z",
     "author": "Trending Desk"
-  },
-  {
-    "source": "USA Today",
-    "title": "Drew Gilbert records three hits as Giants' leadoff batter",
-    "description": "Drew Gilbert records three hits as San Francisco's leadoff batter against Colorado.",
-    "url": "https://volswire.usatoday.com/story/sports/college/volunteers/baseball/2026/08/16/drew-gilbert-giants-leadoff-batter-versus-rockies-mlb/91328147007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/55059caa9931afc3b47b2ccc5ecc71300c3a6a2d326950afb293157deecd0a6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvols_wire_usa_today_articles_138%2F25c0943f548a8bcea7d5d94cde8903b9.jpg",
-    "publishedAt": "2026-08-16T15:06:46Z",
-    "author": "Dan Harralson, Vols Wire"
-  },
-  {
-    "source": "Empire of The Kop",
-    "title": "PSG make Bradley Barcola decision in contradiction of Luis Enrique’s telling comments",
-    "description": "PSG have included both Bradley Barcola and Ibrahim Mbaye in their squad to face RC Lens in the Champions Trophy.The France international has been heavily linked with a move to Anfield in the coming da...",
-    "url": "https://www.empireofthekop.com/2026/08/16/psg-make-bradley-barcola-decision-in-contradiction-of-luis-enriques-telling-comments/",
-    "image": "https://s.yimg.com/lo/mysterio/api/80653cfa220bb60e65f9e92c56a4f506c974d46dbb68998568467f14efcb5568/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fempire_of_the_kop_articles_379%2Ffe1338dd9583a7ec8ac4919c1c0b3d26.jpg",
-    "publishedAt": "2026-08-16T14:45:00Z",
-    "author": "Empire of the Kop"
   }
 ]
 ;
