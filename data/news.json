@@ -1,5 +1,32 @@
 [
   {
+    "source": "Israelnationalnews.com",
+    "title": "US sanctions ICC president and senior lawyer, Netanyahu praises the move",
+    "description": "US Secretary of State Marco Rubio announces sanctions against ICC President Tomoko Akane and senior lawyer Abdoulaye Seye. Netanyahu: The ICC has become a kangaroo court.",
+    "url": "https://www.israelnationalnews.com/news/431905",
+    "image": "https://2.a7.org/files/pictures/000/1138408.jpg",
+    "publishedAt": "2026-08-18T22:12:20Z",
+    "author": "Elad Benari"
+  },
+  {
+    "source": "DW (English)",
+    "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
+    "description": "The US has announced it will impose additional sanctions on members of the International Criminal Court. The ICC said the latest US move against it \"undermines the rule of law.\"",
+    "url": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261",
+    "image": "https://static.dw.com/image/78420431_6.jpg",
+    "publishedAt": "2026-08-18T21:45:00Z",
+    "author": "Jon Shelton"
+  },
+  {
+    "source": "Truthout",
+    "title": "US Sanctioning ICC Prosecutor Who Reportedly Worked on Warrant for Netanyahu",
+    "description": "The Trump administration has sanctioned numerous ICC figures who have worked on cases against Israeli officials.",
+    "url": "https://truthout.org/articles/us-sanctioning-icc-prosecutor-who-reportedly-worked-on-warrant-for-netanyahu/",
+    "image": "https://truthout.org/app/uploads/2026/08/2026_08-18-marco-rubio.jpg",
+    "publishedAt": "2026-08-18T21:43:42Z",
+    "author": "Sharon Zhang"
+  },
+  {
     "source": "Fark.com",
     "title": "The U.S. has added the president of the international criminal court and a prosecutor to eleven other officials at the ICC sanctioned for their work investigating war crimes committed by the U.S. and its allies [Followup]",
     "description": "The U.S. has added the president of the international criminal court and a prosecutor to eleven other officials at the ICC sanctioned for their work investigating war crimes committed by the U.S. and its allies",
@@ -241,32 +268,5 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/14/110705811-0-image-m-54_1787061419194.jpg",
     "publishedAt": "2026-08-18T13:59:37Z",
     "author": "Richard Gibson"
-  },
-  {
-    "source": "The Falcoholic",
-    "title": "Falcons sign edge rusher Za’Darius Smith to one-year deal",
-    "description": "The three-time Pro Bowler joins an Atlanta team thirsting for pass rush help.",
-    "url": "https://www.thefalcoholic.com/atlanta-falcons-free-agecy/95210/falcons-sign-edge-rusher-zadarius-smith-to-one-year-deal",
-    "image": "https://s.yimg.com/lo/mysterio/api/a7e426aeb13688b9f004803f2e42ff3c45622a2967f06021e9f34c1a3fb78e95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5f85d5dba63284c2dcb9b96a3c52e23a.jpg",
-    "publishedAt": "2026-08-18T13:46:58Z",
-    "author": "Dave Choate"
-  },
-  {
-    "source": "USA Today",
-    "title": "Falcons sign Pro Bowl EDGE Za'Darius Smith to 1-year deal",
-    "description": "Falcons find EDGE replacement in 3-time Pro Bowler Za'Darius Smith",
-    "url": "https://thefalconswire.usatoday.com/story/sports/nfl/falcons/2026/08/18/atlanta-falcons-sign-zadarius-smith-to-1-year-6m-contract/91350324007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/874fc5220dd19c9fe676c8aaa459b1248f65abe4ce6d58efd6c068403d6cce59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fatlanta_falcon_wire_usa_today_sports_articles_463%2F5143cf880ede9e029d7fe649c8da82cf.jpg",
-    "publishedAt": "2026-08-18T13:23:20Z",
-    "author": "Matt Urben, Falcons Wire"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Awful umpiring', 'Clearly not out': Cricket World reacts to Dhruv Jurel catch controversy in IND vs SL Test as ball appears to scrape turf",
-    "description": "While his catch quickly sent Lahiru Udara back to the pavilion, DhruvJurel has the cricketing world divided on if his catch was legit or not.",
-    "url": "https://www.cricketnews.com/en/cricket/news/umpiring-not-out-reacts-dhruv-jurel-catch-controversy-ind-vs-sl-test/ded45b7ba6643ef8b02de50a",
-    "image": "https://s.yimg.com/lo/mysterio/api/ce93007c453ac97a014afc1f4e7ed75429cf3a9bc6de4bea8c4b83c8643b53b2/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9b8360a8b20446c4aa9b252a7c03d43c.jpg",
-    "publishedAt": "2026-08-18T13:06:04Z",
-    "author": "Deepanjan Mitra"
   }
 ]
