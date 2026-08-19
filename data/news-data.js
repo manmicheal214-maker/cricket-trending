@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "What is concussion sub in cricket? ICC rule explained as Sri Lanka name Pasindu Sooriyabandara as Dinesh Chandimal replacement in Galle",
+    "description": "Sri Lanka were forced to introduce Pasindu Sooriyabandara as a concussion sub for Dinesh Chandimal in the 1st Test in Galle.",
+    "url": "https://www.cricketnews.com/en/cricket/news/what-concussion-sub-cricket-icc-rule-explained/1edf036db29d0b48fa436b98",
+    "image": "https://s.yimg.com/lo/mysterio/api/0b3b19ecdf2584456f65bb89bd7c0e3c69f951e1cc623136d005a093eafec707/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fac038b430a5d545f2710cec2f811fa8e.jpg",
+    "publishedAt": "2026-08-18T09:35:03Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli's 18 years in international cricket: 18 lesser-known records held by batting icon",
+    "description": "Virat Kohli's international cricket debut marked a significant career milestone. He has amassed over 28,000 runs and 85 centuries in his career. Kohli holds unique records, including most 150-plus scores by a non-opener. He is the only player with 20,000 inte…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/virat-kohlis-18-years-in-international-cricket-18-lesser-known-records-held-by-batting-icon/articleshow/133317204.cms",
+    "image": "https://img.etimg.com/thumb/msid-133317203,width-1200,height-630,imgsize-85212,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-18T09:15:42Z",
+    "author": "ANI"
+  },
+  {
     "source": "The Times of India",
     "title": "Scotland confident of ending 12-year World Cup drought, coach Dawkins backs 2027 qualification",
     "description": "Scotland’s cricket team is inching closer to World Cup qualification following an impressive League 2 run. To secure their spot, they must achieve a top-four finish in the Global Qualifier. Coach Owen Dawkins is optimistic about the squad’s performance, highl…",
@@ -187,15 +205,6 @@ window.cricketNews = [
     "image": "https://www.nzherald.co.nz/resizer/v2/WKOTRDMJINEBFAITAMWGIDJTW4.jpg?auth=7f18e6ffac91e2d5600a5e506377c17cab819a2669f314d7eecd25b05e68111e&width=1200&height=675&quality=70&smart=true",
     "publishedAt": "2026-08-17T22:11:57Z",
     "author": "AFP"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Options are slim for new Australia Test cricket batters",
-    "description": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
-    "url": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
-    "image": "https://live-production.wcms.abc-cdn.net.au/5afb08d6e24dda00fb6eb1ebf4b57ed0?impolicy=wcms_watermark_news&cropH=1460&cropW=2595&xPos=0&yPos=150&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-17T18:55:37Z",
-    "author": "David Mark"
   }
 ]
 ;
