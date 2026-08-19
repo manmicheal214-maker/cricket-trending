@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "AtlantaFalcons.com",
+    "title": "Falcons sign Pro Bowl pass rusher Za'Darius Smith",
+    "description": "Smith, a three-time Pro Bowler, has previously played for Falcons head coach Kevin Stefanski. Atlanta also released two players from its training camp roster",
+    "url": "https://www.atlantafalcons.com/news/falcons-sign-pro-bowl-pass-rusher-zadarius-smith",
+    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/c3y0goxctrbschfnk93u",
+    "publishedAt": "2026-08-18T13:00:53Z",
+    "author": "Will Mcfadden"
+  },
+  {
+    "source": "BBC News",
+    "title": "Middlesex wicketkeeper Davies retires aged 26",
+    "description": "Middlesex wicketkeeper Jack Davies, 26, retires from professional cricket after playing more than 100 times for the club.",
+    "url": "https://www.bbc.com/sport/cricket/articles/czxqz517lk2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-18T12:14:29Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Middlesex wicketkeeper Davies retires aged 26",
+    "description": "Middlesex wicketkeeper Jack Davies, 26, retires from professional cricket after playing more than 100 times for the club.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/czxqz517lk2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4c2/live/3064e230-9afc-11f1-a27d-25dca26018ed.jpg",
+    "publishedAt": "2026-08-18T12:14:25Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "Advancing the United States' Campaign to Address the Threat Posed by the International Criminal Court",
+    "description": "The Trump Administration has been clear: the International Criminal Court (ICC) is a corrupt and fatally politicized supranational court that has maliciously abused its authority and exceeded its mandate. We will not tolerate its assault on state sovereignty.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-state01.htm",
+    "image": null,
+    "publishedAt": "2026-08-18T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in Test cricket at Galle International Stadium: Full list of records",
+    "description": "With India setting up a target of 372 for the hosts to win in the final innings of the 1st Test, here's a look at the highest run chases at Galle in the longest format.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-test-cricket-galle-international-stadium/386157f2d3969291a4da15c4",
+    "image": "https://s.yimg.com/lo/mysterio/api/2eac78ad9b4efc8595c2b97711b479f2d75e5da02af511a40242d37bd8a57611/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9d9199eed7643c8c292dd525c927d40d.jpg",
+    "publishedAt": "2026-08-18T11:51:34Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Medical Daily",
+    "title": "Something Kept Biting a Bedridden Man's Face at Night, and It Was Still Alive at the End of the Blood Trail",
+    "description": "A German case report documents a bedridden man bitten repeatedly at night by a juvenile great green bush-cricket, captured alive nearby.",
+    "url": "https://www.medicaldaily.com/bush-cricket-nymph-bites-bedridden-man-477453",
+    "image": "https://d.medicaldaily.com/en/full/484660/editorial-illustration-via-ai.jpg",
+    "publishedAt": "2026-08-18T11:40:05Z",
+    "author": "Lucia Carter"
+  },
+  {
+    "source": "BBC News",
+    "title": "Somerset sign Nicholls for title push",
+    "description": "New Zealand Test batter Henry Nicholls joins Somerset for final six games of County Championship season as Somerset target title.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c4gvjydlrp4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/90733e24c031d252a34746f7d861caf061a55f5cbf2c4cf63a3a9310365ff9f0/lightyear_networkapi/resizefill_w609_h343%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff1ed4ad23bcc2f56c7556300d39fecfd.jpg",
+    "publishedAt": "2026-08-18T11:37:35Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Somerset sign Nicholls for title push",
+    "description": "New Zealand Test batter Henry Nicholls joins Somerset for final six games of County Championship season as Somerset target title.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gvjydlrp4o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd36/live/dcebb000-9af3-11f1-930b-57cfba7235f9.jpg",
+    "publishedAt": "2026-08-18T11:37:31Z",
+    "author": "BBC Sport"
+  },
+  {
     "source": "RT",
     "title": "Court orders Pakistan’s jailed ex-PM Imran Khan to be moved to hospital",
     "description": "Pakistan Supreme Court orders jailed former PM Imran Khan to be moved to hospital following the concerns raised by the cricketer-turned politician’s family and his Tehreek-e-Insaf party over his health amid the isolation in jail",
@@ -196,24 +268,6 @@ window.cricketNews = [
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepal-A-Cricket-1.jpg",
     "publishedAt": "2026-08-18T03:32:36Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "How Bangladesh beat lure of white-ball riches to save its Tests",
-    "description": "Bangladesh’s pace resources have now become the talk of the cricket town. They had shown their potential in demolishing Pakistan — both at home and away in last two years. The Test win in Darwin is the realisation of the talent and the immaculate process focu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-bangladesh-beat-lure-of-white-ball-riches-to-save-its-tests/articleshow/133309118.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133309137,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-18T01:26:10Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Punch",
-    "title": "Council chair marks first year with N500m empowerment programme",
-    "description": "Odi-Olowo/Ojuwoye LCDA Chairman, Dr Oluseyi Jakande, marks his first year with a N500m community empowerment programme, investing in residents’ future.\n\nRead More: https://punchng.com/council-chair-marks-first-year-with-n500m-empowerment-programme/",
-    "url": "https://punchng.com/council-chair-marks-first-year-with-n500m-empowerment-programme/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/images-95_1787014779.webp",
-    "publishedAt": "2026-08-18T01:07:30Z",
-    "author": "Punch Newspapers"
   }
 ]
 ;
