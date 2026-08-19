@@ -1,5 +1,14 @@
 [
   {
+    "source": "ABC News (AU)",
+    "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
+    "description": "The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.",
+    "url": "https://www.abc.net.au/news/2026-08-19/imran-khan-hospital-cricket-prime-minister-pakistan/107052546",
+    "image": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=253&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-18T15:04:18Z",
+    "author": null
+  },
+  {
     "source": "BBC News",
     "title": "Lomror joins Surrey for County Championship finale",
     "description": "Surrey sign Indian batter Mahipal Lomror for the final six County Championship games of the 2026 season.",
@@ -259,14 +268,5 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/08/110699443-0-image-m-11_1787038886219.jpg",
     "publishedAt": "2026-08-18T07:42:22Z",
     "author": "Aap"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Dinesh Chandimal taken to hospital for precautionary scan after hurting shoulder, neck",
-    "description": "During the thrilling Test match, Sri Lankan batter Dinesh Chandimal was taken to the hospital due to an awkward fall while trying to save a boundary in India's second innings on Day 4. Despite Yashasvi Jaiswal's early dismissal, India's steady batting secured…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dinesh-chandimal-taken-to-hospital-for-precautionary-scan-after-hurting-shoulder-neck/articleshow/133314843.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133314893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-18T07:22:05Z",
-    "author": "TOI Sports Desk"
   }
 ]
