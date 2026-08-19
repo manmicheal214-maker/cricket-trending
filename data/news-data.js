@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "RTE",
+    "title": "US announces sanctions against ICC president and lawyer",
+    "description": "The US has imposed sanctions on the International Criminal Court's president and a senior trial lawyer at the court, Secretary of State Marco Rubio has said.",
+    "url": "https://www.rte.ie/news/world/2026/0818/1588429-us-sanctions-icc/",
+    "image": "https://www.rte.ie/images/0024dc93-1600.jpg",
+    "publishedAt": "2026-08-18T20:19:54Z",
+    "author": "RTÉ News"
+  },
+  {
+    "source": "The Irish Times",
+    "title": "US sanctions International Criminal Court president and Israel prosecutor",
+    "description": "US secretary of state Marco Rubio has called the Hague-based ICC a ‘corrupt and fatally politicised supranational court’",
+    "url": "https://www.irishtimes.com/world/americas/2026/08/18/us-sanctions-international-criminal-court-president-and-israel-prosecutor/",
+    "image": "https://www.irishtimes.com/resizer/v2/OW5MXDJET6LBITLYSZZWCLPICM.jpg?smart=true&auth=619078428f9720415198a029b1cded4a1dae94aa7767058e40d6ce2e3f783d70&width=1200&height=630",
+    "publishedAt": "2026-08-18T20:14:09Z",
+    "author": "Andrew Roth in Washington"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Modern Academy lifts overall champions trophy at legacy quest 2026",
+    "description": "Modern Academy, Gomti Nagar won the Overall Champions Trophy at Legacy Quest 2026 in Lucknow, topping 20 schools with podium finishes in quiz and role play.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/modern-academy-lifts-overall-champions-trophy-at-legacy-quest-2026/articleshow/133331813.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-18T19:37:38Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Punch",
+    "title": "US sanctions ICC president over court’s investigations",
+    "description": "The US has sanctioned ICC President Tomoko Akane and a senior lawyer over the court’s investigations, escalating its campaign against the Hague-based court\n\nRead More: https://punchng.com/us-sanctions-icc-president-over-courts-investigations/",
+    "url": "https://punchng.com/us-sanctions-icc-president-over-courts-investigations/",
+    "image": "https://punchng.com/wp-content/uploads/2026/07/Rubio_1784413891-1024x630.webp",
+    "publishedAt": "2026-08-18T19:36:46Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "US announces new sanctions on top ICC figures",
+    "description": "US Secretary of State Marco Rubio has announced sanctions against the president and a senior lawyer of the International Criminal Court (ICC).\nThe move is the Trump administration's latest escalation in its campaign to \"dismantle\" the court which is empowered…",
+    "url": "https://biztoc.com/x/645086902d3e4be4",
+    "image": "https://biztoc.com/cdn/645086902d3e4be4_s.webp",
+    "publishedAt": "2026-08-18T19:33:10Z",
+    "author": "yahoo.com"
+  },
+  {
     "source": "BBC News",
     "title": "US announces new sanctions on top ICC figures",
     "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
@@ -205,60 +250,6 @@ window.cricketNews = [
     "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/c3y0goxctrbschfnk93u",
     "publishedAt": "2026-08-18T13:00:53Z",
     "author": "Will Mcfadden"
-  },
-  {
-    "source": "BBC News",
-    "title": "Middlesex wicketkeeper Davies retires aged 26",
-    "description": "Middlesex wicketkeeper Jack Davies, 26, retires from professional cricket after playing more than 100 times for the club.",
-    "url": "https://www.bbc.com/sport/cricket/articles/czxqz517lk2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-08-18T12:14:29Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Middlesex wicketkeeper Davies retires aged 26",
-    "description": "Middlesex wicketkeeper Jack Davies, 26, retires from professional cricket after playing more than 100 times for the club.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/czxqz517lk2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4c2/live/3064e230-9afc-11f1-a27d-25dca26018ed.jpg",
-    "publishedAt": "2026-08-18T12:14:25Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Globalsecurity.org",
-    "title": "Advancing the United States' Campaign to Address the Threat Posed by the International Criminal Court",
-    "description": "The Trump Administration has been clear: the International Criminal Court (ICC) is a corrupt and fatally politicized supranational court that has maliciously abused its authority and exceeded its mandate. We will not tolerate its assault on state sovereignty.",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-state01.htm",
-    "image": null,
-    "publishedAt": "2026-08-18T12:00:00Z",
-    "author": "John Pike"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Highest successful run chases in Test cricket at Galle International Stadium: Full list of records",
-    "description": "With India setting up a target of 372 for the hosts to win in the final innings of the 1st Test, here's a look at the highest run chases at Galle in the longest format.",
-    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-test-cricket-galle-international-stadium/386157f2d3969291a4da15c4",
-    "image": "https://s.yimg.com/lo/mysterio/api/2eac78ad9b4efc8595c2b97711b479f2d75e5da02af511a40242d37bd8a57611/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9d9199eed7643c8c292dd525c927d40d.jpg",
-    "publishedAt": "2026-08-18T11:51:34Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Medical Daily",
-    "title": "Something Kept Biting a Bedridden Man's Face at Night, and It Was Still Alive at the End of the Blood Trail",
-    "description": "A German case report documents a bedridden man bitten repeatedly at night by a juvenile great green bush-cricket, captured alive nearby.",
-    "url": "https://www.medicaldaily.com/bush-cricket-nymph-bites-bedridden-man-477453",
-    "image": "https://d.medicaldaily.com/en/full/484660/editorial-illustration-via-ai.jpg",
-    "publishedAt": "2026-08-18T11:40:05Z",
-    "author": "Lucia Carter"
-  },
-  {
-    "source": "BBC News",
-    "title": "Somerset sign Nicholls for title push",
-    "description": "New Zealand Test batter Henry Nicholls joins Somerset for final six games of County Championship season as Somerset target title.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c4gvjydlrp4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/90733e24c031d252a34746f7d861caf061a55f5cbf2c4cf63a3a9310365ff9f0/lightyear_networkapi/resizefill_w609_h343%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff1ed4ad23bcc2f56c7556300d39fecfd.jpg",
-    "publishedAt": "2026-08-18T11:37:35Z",
-    "author": "BBC"
   }
 ]
 ;
