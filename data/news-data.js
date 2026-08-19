@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "Australian cricketer David Warner fined $1810 for drink-driving after seat-swap attempt",
+    "description": "The former Australian test batter’s lawyer said media coverage had already punished him.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/australian-cricketer-david-warner-fined-1810-for-drink-driving-after-seat-swap-attempt/EBJDUSYFLJGXLB535X5LFTQAMI/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/OZFK6KQ76BCELAP7LGJ5LUAI5E.JPG?auth=0a3b5c8061800d390d4f00a348342c18d6a5fc83bdc5fb66a67a7addc8178d91&width=1200&height=675&quality=70&focal=790%2C256&smart=false",
+    "publishedAt": "2026-08-18T06:46:17Z",
+    "author": "NZ Herald"
+  },
+  {
+    "source": "CNA",
+    "title": "Former Australia batter Warner convicted, fined for drink-driving",
+    "description": "MELBOURNE, Aug 18 : Former Australia batsman David Warner was convicted and fined A$1,500 ($1,065) for drink-driving by a Sydney court on Tuesday after being arrested in April.Warner, one of Australia's most decorated cricketers, pleaded guilty after failing …",
+    "url": "https://www.channelnewsasia.com/sport/former-australia-batter-warner-convicted-fined-drink-driving-6325241",
+    "image": "https://dam.mediacorp.sg/image/upload/s--X4RYXB1---/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-18T055035Z_1_LYNXMPEM7H09S_RTROPTP_3_CRICKET-WORLDCUP-ENG-AUS.JPG?itok=SM1QNpZy",
+    "publishedAt": "2026-08-18T05:47:10Z",
+    "author": null
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Australia drops Weatherald, recalls Renshaw after shock loss to Bangladesh in 1st cricket test",
     "description": "Australia's has dropped Jake Weatherald and recalled Matt Renshaw in a bid to stabilize the top order and try to level the two-match series after a shocking loss to Bangladesh in the first cricket test on the weekend. Australia announced a 13-man squad on Tue…",
