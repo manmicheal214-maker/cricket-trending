@@ -1,5 +1,14 @@
 [
   {
+    "source": "BBC News",
+    "title": "US announces new sanctions on top ICC figures",
+    "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+    "url": "https://www.bbc.com/news/articles/cnvnl0elz47o",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+    "publishedAt": "2026-08-18T19:06:16Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "‘Ensure cleanliness, better facilities for players at UP T20 League’",
     "description": "Kanpur reviews UP T20 League preparations for Aug 28 at Green Park Stadium; officials ordered to ensure cleanliness, power backup, safety, traffic and medical readiness.",
@@ -250,23 +259,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/90733e24c031d252a34746f7d861caf061a55f5cbf2c4cf63a3a9310365ff9f0/lightyear_networkapi/resizefill_w609_h343%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff1ed4ad23bcc2f56c7556300d39fecfd.jpg",
     "publishedAt": "2026-08-18T11:37:35Z",
     "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Somerset sign Nicholls for title push",
-    "description": "New Zealand Test batter Henry Nicholls joins Somerset for final six games of County Championship season as Somerset target title.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gvjydlrp4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd36/live/dcebb000-9af3-11f1-930b-57cfba7235f9.jpg",
-    "publishedAt": "2026-08-18T11:37:31Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "RT",
-    "title": "Court orders Pakistan’s jailed ex-PM Imran Khan to be moved to hospital",
-    "description": "Pakistan Supreme Court orders jailed former PM Imran Khan to be moved to hospital following the concerns raised by the cricketer-turned politician’s family and his Tehreek-e-Insaf party over his health amid the isolation in jail",
-    "url": "https://www.rt.com/india/644356-pakistan-imran-khan-hospital/",
-    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a84318c85f540179315a217.jpg",
-    "publishedAt": "2026-08-18T10:32:35Z",
-    "author": "RT"
   }
 ]
