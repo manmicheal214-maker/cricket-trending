@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Australia drops Weatherald, recalls Renshaw after shock loss to Bangladesh in 1st cricket test",
+    "description": "Australia's has dropped Jake Weatherald and recalled Matt Renshaw in a bid to stabilize the top order and try to level the two-match series after a shocking loss to Bangladesh in the first cricket test on the weekend. Australia announced a 13-man squad on Tue…",
+    "url": "https://sports.yahoo.com/articles/australia-drops-weatherald-recalls-renshaw-043053000.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/d694bced098a5e1db1991d60fc84b8f0d2fc02dc61906e062381203bbe494976/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0f5478dd005aa6193123154aee549e7f.jpg",
+    "publishedAt": "2026-08-18T04:30:53Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "AUS vs BAN 2nd Test: Australia make major change to squad after shock Bangladesh defeat",
+    "description": "Back-up wicketkeeper-batter Josh Inglis and reserve bowler Scott Boland have also retained their places in the squad. Both players could come into contention for the second Test, which begins on Saturday.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-make-major-change-to-squad-after-shock-bangladesh-defeat/articleshow/133310871.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133311124,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-18T03:57:50Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Weatherald dropped from Test squad after stunning loss to Bangladesh",
+    "description": "Opening batter Jake Weatherald has been dropped from Australia's Test squad after the side's historic loss to Bangladesh in Darwin.",
+    "url": "https://www.abc.net.au/news/2026-08-18/jake-weatherald-dropped-matt-renshaw-in-australia-test-squad/107050212",
+    "image": "https://live-production.wcms.abc-cdn.net.au/9fcf64c7fe7bdc7e65270f0bd9decc39?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-18T03:43:59Z",
+    "author": null
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal ‘A’ cricket team leaves for Australia",
+    "description": "KATHMANDU: The Nepal ‘A’ cricket team has departed for Australia to participate in the Top End T20 series. The team left for Australia on Monday night. The Cricket Association of Nepal (CAN) had bid farewell to the 15-member squad on Sunday. Anil Kumar Sah wi…",
+    "url": "https://english.khabarhub.com/2026/18/563742/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepal-A-Cricket-1.jpg",
+    "publishedAt": "2026-08-18T03:32:36Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "The Times of India",
     "title": "How Bangladesh beat lure of white-ball riches to save its Tests",
     "description": "Bangladesh’s pace resources have now become the talk of the cricket town. They had shown their potential in demolishing Pakistan — both at home and away in last two years. The Test win in Darwin is the realisation of the talent and the immaculate process focu…",
@@ -52,51 +88,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/58ee5b0c59a49f27_s.webp",
     "publishedAt": "2026-08-17T14:35:10Z",
     "author": "youtube.com"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "‘It’s Deshaun Watson’s Job to Lose’ — 6-Time Pro Bowler Has No Faith in Browns Giving Shedeur Sanders a Fair Shake in QB Battle",
-    "description": "The Cleveland Browns’ quarterback battle has plenty of attention around it, but the competition may not be as even as it looks. Shedeur Sanders has another chance to make his case, while Deshaun Watson carries the weight of experience and a major investment f…",
-    "url": "https://www.profootballnetwork.com/deshaun-watson-job-to-lose-chad-johnson-no-faith-shedeur-sanders/",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7b7950b94053bf43c2f0ff29c52ef2dcebb0a7f26329955ab0b6dc5ead22bde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F7f5844ad285e6abd62e3bae1c1478d10.jpg",
-    "publishedAt": "2026-08-17T13:34:26Z",
-    "author": "Abhilasha Aditi"
-  },
-  {
-    "source": "USA Today",
-    "title": "Packers Pro Bowler says he's 'being punished' by team's CB competition",
-    "description": "Keisean Nixon is in a battle for a starting job with the Green Bay Packers. The 2025 Pro Bowler believes the battle reflects him \"being punished.\"",
-    "url": "https://www.usatoday.com/story/sports/nfl/packers/2026/08/17/keisean-nixon-packers-cornerback-competition/91334459007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/ff5d00215bdf2d02d1d97ee679637d6ee4558997f877fce24c49343f2305b5a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F657a9f075070c8497f963231ef15f37c.jpg",
-    "publishedAt": "2026-08-17T13:28:46Z",
-    "author": "Jacob Camenker, USA TODAY"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "one8 collection lands on Myntra for 18-hour flash sale on Kohli’s cricket anniversary",
-    "description": "Shop the exclusive one8 sportswear collection on Myntra for 18 hours only, celebrating Kohli's cricket anniversary with stylish offerings.",
-    "url": "https://www.thehindubusinessline.com/companies/one8-collection-lands-on-myntra-for-18-hour-flash-sale-on-kohlis-cricket-anniversary/article71356155.ece",
-    "image": "https://bl-i.thgim.com/public/markets/xwnvk9/article71356154.ece/alternates/LANDSCAPE_1200/Image.jpeg",
-    "publishedAt": "2026-08-17T12:16:07Z",
-    "author": "BL Mumbai Bureau"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Cricketers from The Hundred test a 100-year-old cricket bat | The Telegraph",
-    "description": "In 1902, Gilbert Jessop scored the fastest-ever century by an English test match cricketer, reaching the milestone in just 77 balls.",
-    "url": "https://biztoc.com/x/cc900894cbf8fba9",
-    "image": "https://biztoc.com/cdn/cc900894cbf8fba9_s.webp",
-    "publishedAt": "2026-08-17T12:15:58Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ellyse Perry backs inaugural Women's Champions Trophy, praises Smriti Mandhana and Harmanpreet Kaur",
-    "description": "Australian star Ellyse Perry welcomes the inaugural ICC Women’s Champions Trophy, calling it a major opportunity for women’s cricket. The T20I tournament features six teams from February. Perry praises India’s Smriti Mandhana for her skill and strong mindset,…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ellyse-perry-backs-inaugural-womens-champions-trophy-praises-smriti-mandhana-and-harmanpreet-kaur/articleshow/133295415.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133296466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-17T12:07:23Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
