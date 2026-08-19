@@ -1,5 +1,14 @@
 [
   {
+    "source": "POLITICO.eu",
+    "title": "Netherlands slams US sanctions on top ICC officials",
+    "description": "The Dutch foreign minister expressed support for the court’s president and demanded that international tribunals \"be able to freely carry out their mandates.\"",
+    "url": "https://www.politico.eu/article/netherlands-tom-berendsen-slams-trump-sanctions-icc-president-gaza-investigator/",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/08/19/GettyImages-2277116390-scaled.jpg",
+    "publishedAt": "2026-08-18T22:48:40Z",
+    "author": "Milena Wälde"
+  },
+  {
     "source": "Israelnationalnews.com",
     "title": "US sanctions ICC president and senior lawyer, Netanyahu praises the move",
     "description": "US Secretary of State Marco Rubio announces sanctions against ICC President Tomoko Akane and senior lawyer Abdoulaye Seye. Netanyahu: The ICC has become a kangaroo court.",
@@ -259,14 +268,5 @@
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/973d/live/88f2a3d0-9b09-11f1-bb80-c1b1e1adeea5.jpg",
     "publishedAt": "2026-08-18T14:01:27Z",
     "author": "Nick Webb"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Imprisoned former Pakistan cricketer and Prime Minister Imran Khan to leave 'death cell' where he spends 22 hours a day in solitary confinement amid health concerns",
-    "description": "RICHARD GIBSON: Imran Khan is to been moved from solitary confinement to hospital following repeated appeals from his family over his health.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16061103/Imprisoned-former-Pakistan-cricketer-Prime-Minister-Imran-Khan-leave-death-cell-spends-22-hours-day-solitary-confinement-amid-health-concerns.html",
-    "image": "https://i.dailymail.com/1s/2026/08/18/14/110705811-0-image-m-54_1787061419194.jpg",
-    "publishedAt": "2026-08-18T13:59:37Z",
-    "author": "Richard Gibson"
   }
 ]
