@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "TVLine",
+    "title": "Hidden Heroes: A Descendants Story Adds Darren Criss As Jiminy Cricket, Sherry Cola As Yzma, And More",
+    "description": "Hidden Heroes: A Descendants Story has cast Jiminy Cricket, Yzma, Kronk, Genie, and more iconic Disney characters. See who's bringing them to life.",
+    "url": "https://www.tvline.com/2239214/descendants-hidden-heroes-cast-full-list-yzma-kronk/",
+    "image": "https://www.tvline.com/img/gallery/hidden-heroes-a-descendants-story-expands-cast-see-full-list/l-intro-1787017553.jpg",
+    "publishedAt": "2026-08-18T17:00:00Z",
+    "author": "staff@tvline.com (Andy Swift)"
+  },
+  {
+    "source": "TheWrap",
+    "title": "Disney’s Next ‘Descendants’ Story Taps Sherry Cola as Yzma, Darren Criss as Jiminy Cricket",
+    "description": "\"Hidden Heroes: A Descendants Story\" centers on the children of Disney sidekicks this time around\nThe post Disney’s Next ‘Descendants’ Story Taps Sherry Cola as Yzma, Darren Criss as Jiminy Cricket appeared first on TheWrap.",
+    "url": "https://www.thewrap.com/industry-news/casting/disney-hidden-heroes-descendants-cast-sherry-cola-yzma-darren-criss/",
+    "image": "https://www.thewrap.com/wp-content/uploads/2026/08/Untitled-design-92.jpg",
+    "publishedAt": "2026-08-18T17:00:00Z",
+    "author": "Andi Ortiz"
+  },
+  {
+    "source": "Variety",
+    "title": "‘Hidden Heroes: A Descendants Story’ Adds 6 to Cast, Including Darren Criss as Jiminy Cricket and Sherry Cola as Yzma From ‘Emperor’s New Groove’",
+    "description": "The Disney Channel and Disney+ movie “Hidden Heroes: A Descendants Story” is rounding out its cast with six new additions. The new cast members are: Darren Criss (“The Assassination of Gianni Versace: American Crime Story,” “Maybe Happy Ending”) as Jiminy Cri…",
+    "url": "https://variety.com/2026/tv/news/hidden-heroes-a-descendants-story-cast-darren-criss-1236837236/",
+    "image": "https://variety.com/wp-content/uploads/2026/08/Hidden-Heroes-A-Descendants-Story.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2026-08-18T17:00:00Z",
+    "author": "Joseph Otterson"
+  },
+  {
     "source": "USA Today",
     "title": "The Indianapolis Colts will sign veteran 6x Pro Bowler WR Keenan Allen",
     "description": "The move will reunite Allen with Colts head coach Shane Steichen from their days with the Chargers.",
@@ -223,51 +250,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133317203,width-1200,height-630,imgsize-85212,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-18T09:15:42Z",
     "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Scotland confident of ending 12-year World Cup drought, coach Dawkins backs 2027 qualification",
-    "description": "Scotland’s cricket team is inching closer to World Cup qualification following an impressive League 2 run. To secure their spot, they must achieve a top-four finish in the Global Qualifier. Coach Owen Dawkins is optimistic about the squad’s performance, highl…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/scotland-confident-of-ending-12-year-world-cup-drought-coach-dawkins-backs-2027-qualification/articleshow/133310029.cms",
-    "image": "https://s.yimg.com/lo/mysterio/api/283c06fd09c4e9b4717cb0f0713b3f7edc931305b47b695d4df31da5bd7ffb18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2Fa1ca4749684dff7b04f3672ce2a644ed.jpg",
-    "publishedAt": "2026-08-18T08:23:00Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pant-astic! Rishabh Pant just hit a Test milestone no Indian reached before",
-    "description": "Rishabh Pant achieved a significant milestone by hitting his 100th Test six. He became the first Indian batter and fourth player globally to reach this mark. Pant reached the landmark in his 51st Test, making him the fastest to do so. This achievement came du…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rishabh-pant-hits-100-test-sixes-becomes-fastest-to-milestone-india-vs-sri-lanka-galle-test/articleshow/133316163.cms",
-    "image": "https://img.etimg.com/thumb/msid-133316280,width-1200,height-630,imgsize-100970,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-18T08:16:34Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "The 17-year-old cricketer who assaulted and killed an employee of Bloomfield Sports Club is under probation.",
-    "description": "Colombo Chief Magistrate Asanga S. Bodaragama ordered that the 17-year-old minor cricketer, who was arrested in connection with the incident of assaulting and killing an employee of Bloomfield Cricket Club, Colombo 07, be further remanded in probation until t…",
-    "url": "https://english.gossiplankanews.com/2026/08/the-17-year-old-cricketer-who-assaulted.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uOhyeUkdcFEWLaFUWzy2yzb1MxyZJM4qeaJl768o4o7HzAaLDlOZhQcfFXQvMgXnvdTCoq6YnZEOJPiITs4rNj1Rhn6IoUMr7gQVVKZ26jXhZywgjxd7mTUbxoVXlnYKegEJ8O1u6Ia73DGW2X9FlxCObSk0D7JXsa9Qw=w1600",
-    "publishedAt": "2026-08-18T08:15:26Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rishabh Pant creates history, becomes first Indian to achieve this feat in Tests",
-    "description": "India's star wicketkeeper batter Rishabh Pant created history on Tuesday during the first Test against Sri Lanka in Galle. The India wicketkeeper-batter became the first Indian cricketer to hit 100 sixes in Test cricket. Pant reached the milestone with a big …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-creates-history-becomes-first-indian-to-achieve-this-feat-in-tests/articleshow/133316107.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133316168,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-18T08:10:02Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-Australia batter Warner fined for drink-driving",
-    "description": "Former Australia batter David Warner is convicted and fined for drink-driving following a random breath test in April.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c8dn353gjryo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/49f1761e6b18fdd4ba7f427ef3a9bee36d770ed062602cf3ddcf317d7be4f9cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe1bf72ca22a1207c9024df999fa91168.jpg",
-    "publishedAt": "2026-08-18T07:56:04Z",
-    "author": "Adwaidh Rajan - BBC Sport journalist"
   }
 ]
 ;
