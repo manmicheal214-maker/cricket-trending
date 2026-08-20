@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "ICC Test rankings: Harry Brook reclaims No.1 as Jasprit Bumrah retains top spot",
+    "description": "Harry Brook has reclaimed the top spot in the ICC Test batting rankings. Jasprit Bumrah retained his position as the world's leading Test bowler. Bangladesh players saw significant gains after their historic victory over Australia. Afghanistan's dominance in …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-test-rankings-harry-brook-reclaims-no-1-as-jasprit-bumrah-retains-top-spot/articleshow/133344910.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133345159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-19T10:32:23Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'We value Test cricket': Gary Kirsten reveals conversation with Gautam Gambhir after India beat Sri Lanka by 165 runs in Galle",
+    "description": "While he might have made his name in white ball cricket, Gautam Gambhir like Test matches must as much as any purist Gary Kirsten revealed.",
+    "url": "https://www.cricketnews.com/en/cricket/news/test-cricket-gary-kirsten-reveals-conversation-gautam-gambhir/32d37774a88f1920a5517ba1",
+    "image": "https://s.yimg.com/lo/mysterio/api/ca082dd9e8e6e1431b44c1e400da6b8fb9432f6034cd4124e232bb2143c20ef0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F57326bdf5f43210c026eb79b5434004b.jpg",
+    "publishedAt": "2026-08-19T10:28:36Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "CNA",
+    "title": "Japan criticises US over 'unfortunate' sanctions on ICC",
+    "description": "TOKYO: In a rare criticism of its United States ally, Japan on Wednesday (Aug 19) described Washington's decision to impose sanctions on the International Criminal Court's (ICC) Japanese president and a senior trial lawyer as \"v",
+    "url": "https://www.channelnewsasia.com/east-asia/japan-criticises-us-sanctions-icc-netanyahu-tomoko-akane-6328436",
+    "image": "https://dam.mediacorp.sg/image/upload/s--WIDAdPyh--/c_crop,h_562,w_1000,x_0,y_28/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/ICC_Sanctions_45473.jpg?itok=_jUn-wNF",
+    "publishedAt": "2026-08-19T09:48:11Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Manav Suthar biggest gain of Indian cricket: Experts and fans react as India spinner claim 10 wickets in 1st Test vs Sri Lanka",
+    "description": "Not many expected such dominance for Manav Suthar, so when the GT spinner demolished the Sri Lankans in the second innings, fans and critics alike hailed him...",
+    "url": "https://www.cricketnews.com/en/cricket/news/manav-suthar-experts-fans-react-spinner-10-wickets-sri-lanka/0f32d49a6c1852bc08efa42d",
+    "image": "https://s.yimg.com/lo/mysterio/api/66f571c5ca6a7e6350c641f988744104dfd490ba6e50b68588cf46a6aa1606b1/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8c1e6aeea8a60a249adf1340ccfb0c6c.jpg",
+    "publishedAt": "2026-08-19T09:46:42Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "Biztoc.com",
     "title": "ICC rejects new US sanctions against officials",
     "description": "The International Criminal Court (ICC) on Wednesday rejected new US sanctions against its President Judge Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal. The court called the ...",
@@ -142,15 +178,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133335532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-19T02:28:25Z",
     "author": "Trisha Mahajan"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Seattle Seahawks Announce Interest in 2X Pro Bowler After Terrion Arnold News",
-    "description": "Seattle is taking another look at its cornerback options, working out Trevon Diggs after consequential news emerged about Terrion Arnold’s status. The post Seattle Seahawks Announce Interest in 2X Pro Bowler After Terrion Arnold News appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/seattle-seahawks/trevon-diggs-tryout/",
-    "image": "https://s.yimg.com/lo/mysterio/api/0ff8d9d06c4c8e6907491eff8c4ae2a778f7e04e748dbdb0251e302167532200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fa3d61be28dbdc2ce48aee8cf3c78ce86.jpg",
-    "publishedAt": "2026-08-19T01:41:33Z",
-    "author": "Erik C. Anderson"
   }
 ]
 ;
