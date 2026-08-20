@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Slashdot.org",
+    "title": "ICC hits back after US announces fresh sanctions on senior court figures - Euronews.com",
+    "description": "ICC hits back after US announces fresh sanctions on senior court figuresEuronews.com US sanctions ICC president and senior prosecutor amid campaign to dismantle the international courtcnn.com US sanctions international criminal court president and prosecutorT…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185047722",
+    "image": null,
+    "publishedAt": "2026-08-19T05:14:01Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Why Trump sanctioned ICC President Tomoko Akane and its senior lawyer",
+    "description": "Trump targeting Tomoko Akane: The US says the ICC exceeded its authority by targeting officials from countries that have not accepted its jurisdiction, but the sanctions are closely tied to the court's Gaza investigation",
+    "url": "https://www.business-standard.com/world-news/why-trump-sanctioned-icc-president-tomoko-akane-senior-lawyer-126081900295_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/23/thumb/fitandfill/1200X628/1784782509-4149.jpg",
+    "publishedAt": "2026-08-19T04:51:40Z",
+    "author": "Unis Ahmad Dar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Just show up’: PV Sindhu recalls Virat Kohli’s advice during career low",
+    "description": "Olympic shuttler PV Sindhu shared her close bond with cricket icon Virat Kohli. He offered encouraging advice during her lowest career phase, urging her to simply play. Sindhu considers Kohli her brother and shares her successes with him. She recently met the…",
+    "url": "https://economictimes.indiatimes.com/news/sports/badminton/just-show-up-pv-sindhu-recalls-virat-kohlis-advice-during-career-low/articleshow/133337652.cms",
+    "image": "https://img.etimg.com/thumb/msid-133337651,width-1200,height-630,imgsize-117898,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-19T04:47:07Z",
+    "author": "ANI"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Did India delay in declaration? Cheteshwar Pujara slams Shubman Gill for delaying declaration on Day 4 in Galle",
     "description": "While India looks poised to win the 1st Test at Galle with just six wickets needed, a former Indian batter slammed Shubman Gill for not declaring earlier and for waiting to get all out.",
@@ -160,42 +187,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-08-18T20:37:22Z",
     "author": "yahoo"
-  },
-  {
-    "source": "RTE",
-    "title": "US announces sanctions against ICC president and lawyer",
-    "description": "The US has imposed sanctions on the International Criminal Court's president and a senior trial lawyer at the court, Secretary of State Marco Rubio has said.",
-    "url": "https://www.rte.ie/news/world/2026/0818/1588429-us-sanctions-icc/",
-    "image": "https://www.rte.ie/images/0024dc93-1600.jpg",
-    "publishedAt": "2026-08-18T20:19:54Z",
-    "author": "RTÉ News"
-  },
-  {
-    "source": "The Irish Times",
-    "title": "US sanctions International Criminal Court president and Israel prosecutor",
-    "description": "US secretary of state Marco Rubio has called the Hague-based ICC a ‘corrupt and fatally politicised supranational court’",
-    "url": "https://www.irishtimes.com/world/americas/2026/08/18/us-sanctions-international-criminal-court-president-and-israel-prosecutor/",
-    "image": "https://www.irishtimes.com/resizer/v2/OW5MXDJET6LBITLYSZZWCLPICM.jpg?smart=true&auth=619078428f9720415198a029b1cded4a1dae94aa7767058e40d6ce2e3f783d70&width=1200&height=630",
-    "publishedAt": "2026-08-18T20:14:09Z",
-    "author": "Andrew Roth in Washington"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Modern Academy lifts overall champions trophy at legacy quest 2026",
-    "description": "Modern Academy, Gomti Nagar won the Overall Champions Trophy at Legacy Quest 2026 in Lucknow, topping 20 schools with podium finishes in quiz and role play.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/modern-academy-lifts-overall-champions-trophy-at-legacy-quest-2026/articleshow/133331813.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-18T19:37:38Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Punch",
-    "title": "US sanctions ICC president over court’s investigations",
-    "description": "The US has sanctioned ICC President Tomoko Akane and a senior lawyer over the court’s investigations, escalating its campaign against the Hague-based court\n\nRead More: https://punchng.com/us-sanctions-icc-president-over-courts-investigations/",
-    "url": "https://punchng.com/us-sanctions-icc-president-over-courts-investigations/",
-    "image": "https://punchng.com/wp-content/uploads/2026/07/Rubio_1784413891-1024x630.webp",
-    "publishedAt": "2026-08-18T19:36:46Z",
-    "author": "Punch Newspapers"
   }
 ]
 ;
