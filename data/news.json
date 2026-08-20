@@ -1,6 +1,105 @@
 [
   {
     "source": "BBC News",
+    "title": "Glamorgan sign bowler Toole for Championship run-in",
+    "description": "Glamorgan sign bowler Ray Toole, the top wicket-taker in New Zealand's Plunket Shield, for their last six Championship games of 2026.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/crrv4ykzljdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e39/live/903e29b0-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+    "publishedAt": "2026-08-19T13:00:10Z",
+    "author": "Nick Webb"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+    "description": "The ICC has expressed concern over the Trump administration's campaign.",
+    "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
+    "publishedAt": "2026-08-19T12:59:57Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "How to watch Top End T20 Series on Dafabet: Live stream, schedule for Australia cricket tournament",
+    "description": "Catch every Top End T20 Series match live on Dafabet. Get streaming details, start times, schedule and venues right here.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_db7da3bc-50f8-493c-a7e2-d44500147af6",
+    "image": null,
+    "publishedAt": "2026-08-19T12:50:02Z",
+    "author": null
+  },
+  {
+    "source": "RT",
+    "title": "US targets ICC chief in push to ‘dismantle’ court",
+    "description": "The US has sanctioned two senior ICC officials in its campaign against the court’s jurisdiction over nationals of non-member states Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/644398-icc-sanctions-us-sovereignty/",
+    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a85919585f54049f602cf6b.jpg",
+    "publishedAt": "2026-08-19T12:43:26Z",
+    "author": "RT"
+  },
+  {
+    "source": "Financial Post",
+    "title": "Corpay Cross-Border Named the Official FX Partner of European T20 Premier League",
+    "description": "Providing access to currency risk management and cross-border payments solutions TORONTO — Corpay, Inc.*, (NYSE: CPAY) a global leader in corporate payments, is pleased to announce that Corpay’s Cross-Border business has entered into an agreement with the Eur…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/corpay-cross-border-named-the-official-fx-partner-of-european-t20-premier-league",
+    "image": null,
+    "publishedAt": "2026-08-19T12:31:55Z",
+    "author": "Business Wire"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bigg Boss Malayalam 8: Ex-contestant Aneesh wishes to see cricketer Sanju Samson as a contestant",
+    "description": "Bigg Boss Malayalam 8 is nearing its launch date with growing anticipation among fans. Former contestant Aneesh expressed his desire to see Sanju Samson on the show. He believes a sportsperson's presence could boost recognition for various sports in Kerala. S…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/malayalam/bigg-boss-malayalam-8-ex-contestant-aneesh-wishes-to-see-cricketer-sanju-samson-as-a-contestant/articleshow/133347743.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133347758,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-19T12:01:38Z",
+    "author": "etimes.in"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "International Criminal Court: New US sanctions 'a flagrant attack' against its independence",
+    "description": "The International Criminal Court (ICC) on Wednesday responded to a new round of US sanctions targeting its president and a senior prosecutor, calling them \"a flagrant attack\" against the court.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-unnews02.htm",
+    "image": null,
+    "publishedAt": "2026-08-19T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "Presidency of the Assembly of States Parties expresses deep regret at the extension of US sanctions targeting the ICC President and a staff member",
+    "description": "\"It is with deep concern that we note the latest actions announced by the Government of the United States against the President of the International Criminal Court and a Trial Lawyer working for the Office of the Prosecutor.\"",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-icc02.htm",
+    "image": null,
+    "publishedAt": "2026-08-19T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "The ICC strongly rejects new US sanctions designations",
+    "description": "The International Criminal Court deplores the announcement of new designations for sanctions by the US administration against Judge Tomoko Akane (Japan), the President of the Court, and Mr Abdoulaye Seye (Senegal), Senior Trial Lawyer at the Office of the Pro…",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-icc01.htm",
+    "image": null,
+    "publishedAt": "2026-08-19T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "International Criminal Court: Statement by the High Representative on US sanctions against the President and a Senior Trial Lawyer",
+    "description": "The European Union reiterates its unwavering support for the International Criminal Court (ICC). The EU deeply regrets the decision by the United States to impose sanctions against International Criminal Court President Judge Tomoko Akane and Senior Trial Law…",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-eeas01.htm",
+    "image": null,
+    "publishedAt": "2026-08-19T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Costa, VDL express support for ICC amid US sanctions",
+    "description": "European Council President Antonio Costa said on Wednesday that he and European Commission President Ursula von der Leyen \"stand firmly\" with the International Criminal Court (ICC), its President Judg...",
+    "url": "https://biztoc.com/x/0451913437b6c18c",
+    "image": "https://biztoc.com/cdn/0451913437b6c18c_s.webp",
+    "publishedAt": "2026-08-19T11:43:47Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "BBC News",
     "title": "Glamorgan re-sign Pakistan seamer Hamza",
     "description": "Glamorgan re-sign Pakistan bowler Mir Hamza has signed for the final five games of the County Championship season.",
     "url": "https://www.bbc.com/sport/cricket/articles/c9v4zg72exeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -169,23 +268,5 @@
     "image": "https://img.etimg.com/thumb/msid-133337651,width-1200,height-630,imgsize-117898,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-19T04:47:07Z",
     "author": "ANI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Did India delay in declaration? Cheteshwar Pujara slams Shubman Gill for delaying declaration on Day 4 in Galle",
-    "description": "While India looks poised to win the 1st Test at Galle with just six wickets needed, a former Indian batter slammed Shubman Gill for not declaring earlier and for waiting to get all out.",
-    "url": "https://www.cricketnews.com/en/cricket/news/did-india-delay-declaration-cheteshwar-pujara-slams-shubman-gill-delaying-declaration/9edd01ca7423766e4a86e0b1",
-    "image": "https://s.yimg.com/lo/mysterio/api/584338bc27721b1ab87c266acc44e9545ff4a946ce67d9c4e396c515cadb1c59/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdad75989d0158bcce4d630da90413bd0.jpg",
-    "publishedAt": "2026-08-19T03:59:56Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "US sanctions International Criminal Court president and trial lawyer - Al Jazeera",
-    "description": "US sanctions International Criminal Court president and trial lawyerAl Jazeera US announces new sanctions on top ICC figuresBBC US imposes sanctions on Japanese chief of International Criminal CourtInquirer.net Netherlands slams US sanctions on top ICC offici…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185046674",
-    "image": null,
-    "publishedAt": "2026-08-19T03:12:29Z",
-    "author": "feedfeeder"
   }
 ]
