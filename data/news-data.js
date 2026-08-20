@@ -160,51 +160,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133350284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-19T13:38:51Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Unity.com",
-    "title": "Hand Cricket by Ray Vision Studio",
-    "description": "A complete Hand Cricket game. Play against a smart bot, enjoy a polished UI, and build on a clean event driven C# codebase. Plug in, play, and customize. Free Asset<ul><li>Unity Version: 6+</li><li>UI: Unity UI (uGUI) + TextMesh Pro</li><li>Dependencies: Text…",
-    "url": "https://assetstore.unity.com/packages/templates/packs/hand-cricket-390742",
-    "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d87d0cf7-ae0f-4b9d-8fbe-7b4ceb7b1117.jpg?v=1",
-    "publishedAt": "2026-08-19T13:25:09Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Glamorgan sign bowler Championship Toole for run-in",
-    "description": "Glamorgan sign bowler Ray Toole, the top wicket-taker in New Zealand's Plunket Shield, for their last six Championship games of 2026.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crrv4ykzljdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/3f73fbaed3f7846b9e310e3d9a493d5ca3f248c5f664b47a7b8ac54cf3e1aa98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbccec141ee2a2c4789eb7760a52719a8.jpg",
-    "publishedAt": "2026-08-19T13:17:22Z",
-    "author": "Nick Webb - BBC Sport Wales"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Revealed: Why BCCI shifted Duleep Trophy final venue from Bengaluru to Chennai",
-    "description": "Revealed: BCCI secretary Devajit Saikia confirmed the Duleep Trophy final has been moved from Bengaluru to Chennai's Chepauk stadium to allow spectators.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bcci-shifted-duleep-trophy-final-venue-bengaluru-chennai/89ed6c521a96d4c5b68538b4",
-    "image": "https://s.yimg.com/lo/mysterio/api/884675401292f89c57a6714275ee0959fdfbbbd4f3c88684608592bf0a7d4202/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F543b1d60d276b645ad18464b55156220.jpg",
-    "publishedAt": "2026-08-19T13:10:51Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Glamorgan sign bowler Toole for Championship run-in",
-    "description": "Glamorgan sign bowler Ray Toole, the top wicket-taker in New Zealand's Plunket Shield, for their last six Championship games of 2026.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/crrv4ykzljdo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e39/live/903e29b0-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
-    "publishedAt": "2026-08-19T13:00:10Z",
-    "author": "Nick Webb"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
-    "description": "The ICC has expressed concern over the Trump administration's campaign.",
-    "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
-    "publishedAt": "2026-08-19T12:59:57Z",
-    "author": "Al Jazeera Staff"
   }
 ]
 ;
