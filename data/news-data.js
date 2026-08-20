@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Glamorgan re-sign Pakistan seamer Hamza",
+    "description": "Glamorgan re-sign Pakistan bowler Mir Hamza has signed for the final five games of the County Championship season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c9v4zg72exeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/335a6c520f4516ffb10cffb11caf790f225af0cd7d6f3a3ca32e409111ab15bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1c4ef82b26993ebdf97b05f7fe44f7c4.jpg",
+    "publishedAt": "2026-08-19T11:16:31Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Fox News",
+    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+    "description": "Marco Rubio called the International Criminal Court \"corrupt\" as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+    "url": "https://www.foxnews.com/world/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/rubio-trump-state-department.png",
+    "publishedAt": "2026-08-19T11:15:00Z",
+    "author": null
+  },
+  {
+    "source": "Fox News",
+    "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+    "description": "Marco Rubio called the International Criminal Court \"corrupt\" as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+    "url": "https://www.foxnews.com/us/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/rubio-trump-state-department.png",
+    "publishedAt": "2026-08-19T11:15:00Z",
+    "author": null
+  },
+  {
+    "source": "Abcnews.com",
+    "title": "ICC slams US decision to sanction court's president, prosecution lawyer",
+    "description": "The International Criminal Court has criticized new U.S. sanctions on its senior staff as a “flagrant attack” on its independence",
+    "url": "https://abcnews.com/International/wireStory/icc-slams-us-decision-sanction-courts-president-senior-135764388",
+    "image": "https://i.abcnewsfe.com/a/9990e16d-b2ef-4083-a5b6-9c0efe7ac951/wirestory_bc088ac5a678975e358650ac314b252f_16x9.jpg?w=1600",
+    "publishedAt": "2026-08-19T10:42:40Z",
+    "author": "MIKE CORDER Associated Press"
+  },
+  {
     "source": "The Times of India",
     "title": "ICC Test rankings: Harry Brook reclaims No.1 as Jasprit Bumrah retains top spot",
     "description": "Harry Brook has reclaimed the top spot in the ICC Test batting rankings. Jasprit Bumrah retained his position as the world's leading Test bowler. Bangladesh players saw significant gains after their historic victory over Australia. Afghanistan's dominance in …",
@@ -151,33 +187,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-08-19T03:12:29Z",
     "author": "feedfeeder"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Michael Vaughan defends The Hundred against criticism, explains how it 'protects' UK cricket",
-    "description": "With many fans and critics coming after the Hundred recently, former England skipper Michael Vaughan staunchly defended the UK franchise league.",
-    "url": "https://www.cricketnews.com/en/cricket/news/michael-vaughan-defends-hundred-criticism-protects-uk-cricket/ad0407fc63060e75d868bc1e",
-    "image": "https://s.yimg.com/lo/mysterio/api/487a56f9d8cdb2af740e210af983d011ebfe103e43f8012f2be8ddfb7f0d7245/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52067de546bda67d31c6c6636ae15b04.jpg",
-    "publishedAt": "2026-08-19T02:38:18Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pant’s Test brilliance refuses to fade, but can he make India’s 2027 WC squad?",
-    "description": "Rishabh Pant has encountered significant hurdles in his cricketing journey, notably following a challenging IPL season and subsequent exclusion from the ODI squad. Despite these setbacks, he continues to shine as a formidable Test cricketer, recently smashing…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pants-test-brilliance-refuses-to-fade-but-can-he-force-his-way-back-into-indias-2027-odi-world-cup-plans/articleshow/133335486.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133335556,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T02:29:09Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "US vs ICC row escalates: Trump administration sanctions international court president, senior lawyer",
-    "description": "In a significant escalation against the International Criminal Court (ICC), the United States has imposed sanctions on two prominent officials, including the ICC president and a senior trial lawyer. This move marks a continuation of the Trump administration's…",
-    "url": "https://timesofindia.indiatimes.com/world/us/us-vs-icc-row-escalates-trump-administration-sanctions-international-court-president-senior-lawyer/articleshow/133335289.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133335532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T02:28:25Z",
-    "author": "Trisha Mahajan"
   }
 ]
 ;
