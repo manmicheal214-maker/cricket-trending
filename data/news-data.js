@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "DW (English)",
+    "title": "ICC slams US sanctions on court as 'flagrant attack'",
+    "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
+    "url": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476",
+    "image": "https://static.dw.com/image/78420321_6.jpg",
+    "publishedAt": "2026-08-19T21:20:00Z",
+    "author": "Saim Dušan Inayatullah"
+  },
+  {
     "source": "Dailymail.com",
     "title": "The day English cricket desperately needed: Joe Root enjoys perfect return to Test captaincy as England dominate Pakistan after Ollie Robinson and Josh Tongue show match-winning credentials, writes LAWRENCE BOOTH",
     "description": "LAWRENCE BOOTH: If Joe Root could have scripted the perfect start to his full-time return to the England captaincy, it might have looked something like this.",
@@ -142,24 +151,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a16a/live/a1212490-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
     "publishedAt": "2026-08-19T14:17:42Z",
     "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Kelly and Tector return for England ODI series",
-    "description": "Arlene Kelly and Alice Tector recover from injury to be included in Ireland's squad for their one-day international series against England in September.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cg7mx55p4mro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc79/live/094038f0-9bd1-11f1-aed2-8d6da8d75094.png",
-    "publishedAt": "2026-08-19T14:09:17Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Tough when you don't play much Test cricket': Sri Lanka head coach Gary Kirsten after India loss",
-    "description": "Sri Lanka coach Gary Kirsten says his team must turn recent progress into results after losing the Galle Test to India by 165 runs. He points to limited Test cricket as a challenge but says six more Tests in the next six months will help. Kirsten also stresse…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/tough-when-you-dont-play-much-test-cricket-sri-lanka-head-coach-gary-kirsten-after-india-loss/articleshow/133350201.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133350284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T13:38:51Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
