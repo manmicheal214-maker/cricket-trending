@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "Heavy.com",
+    "title": "Seattle Seahawks Announce Interest in 2X Pro Bowler After Terrion Arnold News",
+    "description": "Seattle is taking another look at its cornerback options, working out Trevon Diggs after consequential news emerged about Terrion Arnold’s status. The post Seattle Seahawks Announce Interest in 2X Pro Bowler After Terrion Arnold News appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/seattle-seahawks/trevon-diggs-tryout/",
+    "image": "https://s.yimg.com/lo/mysterio/api/0ff8d9d06c4c8e6907491eff8c4ae2a778f7e04e748dbdb0251e302167532200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fa3d61be28dbdc2ce48aee8cf3c78ce86.jpg",
+    "publishedAt": "2026-08-19T01:41:33Z",
+    "author": "Erik C. Anderson"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Giants RB Najee Harris Vows to Prove Doubters Wrong After Torn Achilles",
+    "description": "The New York Giants added another running back to the room on Tuesday, signing former Pro Bowler Najee Harris to a one-year deal. Harris last played for the Los Angeles Chargers under Jim Harbaugh, and now heads to the other side of the country to join Jim's …",
+    "url": "https://biztoc.com/x/fe03154194f8bc9c",
+    "image": "https://biztoc.com/cdn/fe03154194f8bc9c_s.webp",
+    "publishedAt": "2026-08-19T01:36:07Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Creditors circle Tzaneros family's $200million mansion portfolio as their shipping empire collapses and CEO resigns over Scots College texts",
+    "description": "The collapse of the Tzaneroses' freight empire has placed a string of trophy homes under scrutiny, including a $61million mansion with its own cricket pitch.",
+    "url": "https://www.dailymail.com/news/article-16059803/tzaneros-acfs-collapse-creditors-cba-mansions-bellevue-hill-property.html",
+    "image": "https://i.dailymail.com/1s/2026/08/19/02/110696897-0-image-m-16_1787102854315.jpg",
+    "publishedAt": "2026-08-19T01:28:14Z",
+    "author": "Candace Sutton"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Ball was on the ground’: Ex-cricketer baffled as Dhruv Jurel catch sparks controversy",
+    "description": "As the final day of the Galle Test match unfolds, India edges closer to victory with crucial wickets. A contentious catch by Dhruv Jurel has left the Sri Lankan team in uncertainty. With 288 runs required for a win, Rishabh Pant shines, scoring 66 runs and ac…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133334738,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-19T01:05:26Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "New York Post",
+    "title": "Baker Mayfield has a bold prediction for Buccaneers doubters",
+    "description": "The two-time Pro Bowler and the Buccaneers disappointed last season, finishing 8-9 and missing out on the playoffs by virtue of losing a tiebreaker with the Panthers.",
+    "url": "https://nypost.com/2026/08/18/sports/baker-mayfield-has-a-bold-prediction-for-buccaneers-doubters/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-6s3zdyu9p-1787093578220.jpg?quality=75&strip=all&1787079206&w=1200",
+    "publishedAt": "2026-08-19T01:03:50Z",
+    "author": "Andrew Battifarano"
+  },
+  {
+    "source": "Crypto Briefing",
+    "title": "Netanyahu backs US sanctions on ICC, calls it a ‘kangaroo court’",
+    "description": "Netanyahu's support for US sanctions on the ICC may hinder Palestinian recognition, affecting geopolitical dynamics and diplomatic relations.\nThe post Netanyahu backs US sanctions on ICC, calls it a ‘kangaroo court’ appeared first on Crypto Briefing.",
+    "url": "https://cryptobriefing.com/netanyahu-backs-us-sanctions-on-icc-calls-it-a-kangaroo-court/",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/18192943/president-donald-trump-holds-a-bilateral-meeting-with-israel-2-1-800x420.jpeg",
+    "publishedAt": "2026-08-18T23:29:45Z",
+    "author": "Estefano Gomez"
+  },
+  {
     "source": "POLITICO.eu",
     "title": "Netherlands slams US sanctions on top ICC officials",
     "description": "The Dutch foreign minister expressed support for the court’s president and demanded that international tribunals \"be able to freely carry out their mandates.\"",
@@ -205,69 +259,6 @@ window.cricketNews = [
     "image": "https://d.dlnws.com/64599/1787068169-61cqqorkkyl.jpg?h=1024&w=1024",
     "publishedAt": "2026-08-18T15:49:35Z",
     "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Jailed former Pakistan PM Imran Khan moved to hospital over health concerns",
-    "description": "The cricketer-turned-politician has been in jail for three years, convicted in a string of cases he insists are politically motivated.",
-    "url": "https://www.abc.net.au/news/2026-08-19/imran-khan-hospital-cricket-prime-minister-pakistan/107052546",
-    "image": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=253&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-18T15:04:18Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Lomror joins Surrey for County Championship finale",
-    "description": "Surrey sign Indian batter Mahipal Lomror for the final six County Championship games of the 2026 season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c74gkgy5q19o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/7532ad0ac524aeed57b8302c2ada4361661acb6b18276e1e7b88d31d967044d0/lightyear_networkapi/resizefill_w819_h460%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa9bbc343c95c9dfcd170d8c1d318e2dc.jpg",
-    "publishedAt": "2026-08-18T14:25:58Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Lomror joins Surrey for County Championship finale",
-    "description": "Surrey sign Indian batter Mahipal Lomror for the final six County Championship games of the 2026 season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c74gkgy5q19o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48f3/live/0996a0f0-9b0e-11f1-bb80-c1b1e1adeea5.jpg",
-    "publishedAt": "2026-08-18T14:25:53Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "Colts to sign Keenan Allen: What veteran WR brings, and why fit may be complicated",
-    "description": "The six-time Pro Bowler joins a Colts receiving corps dealing with injuries and thin depth behind Alec Pierce and Josh Downs",
-    "url": "https://www.cbssports.com/nfl/news/keenan-allen-colts-wr-contract/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2025/12/08/6dc92fd1-4d62-4926-8ac4-b3f581cde8aa/thumbnail/1200x675/00d591f5cf81bb94dd6681a7453c142a/keenan-allen-los-angeles-chargers-imagn-images.jpg",
-    "publishedAt": "2026-08-18T14:18:22Z",
-    "author": "Jared Dubin"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We had to make sure to put pressure back on them': Padikkal after Day 4",
-    "description": "Devdutt Padikkal says India’s aggressive approach and disciplined bowling have put them in a strong position against Sri Lanka in Galle. He highlights the importance of adapting his technique for red-ball cricket, praises Sai Sudharsan and KL Rahul, and calls…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/we-had-to-make-sure-to-put-pressure-back-on-them-devdutt-padikkal-after-india-ends-day-4-on-top/articleshow/133324692.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133324850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-18T14:06:35Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Glamorgan's Cooke to retire at season's end",
-    "description": "Glamorgan wicketkeeper/batter Chris Cooke announces his retirement at the end of the 2026 season after 16 years in the county's first team.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cpq80322z0vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/def9c3c40a3719af56717f1cc4ac95b53462930855a98ad6030c1a1c04dd09a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbafff8d24146b9ff2086bdb998f1cd91.jpg",
-    "publishedAt": "2026-08-18T14:01:32Z",
-    "author": "Nick Webb - BBC Sport Wales"
-  },
-  {
-    "source": "BBC News",
-    "title": "Glamorgan's Cooke to retire at season's end",
-    "description": "Glamorgan wicketkeeper/batter Chris Cooke announces his retirement at the end of the 2026 season after 16 years in the county's first team.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cpq80322z0vo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/973d/live/88f2a3d0-9b09-11f1-bb80-c1b1e1adeea5.jpg",
-    "publishedAt": "2026-08-18T14:01:27Z",
-    "author": "Nick Webb"
   }
 ]
 ;
