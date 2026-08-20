@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "Cricketnews.com",
+    "title": "Did India delay in declaration? Cheteshwar Pujara slams Shubman Gill for delaying declaration on Day 4 in Galle",
+    "description": "While India looks poised to win the 1st Test at Galle with just six wickets needed, a former Indian batter slammed Shubman Gill for not declaring earlier and for waiting to get all out.",
+    "url": "https://www.cricketnews.com/en/cricket/news/did-india-delay-declaration-cheteshwar-pujara-slams-shubman-gill-delaying-declaration/9edd01ca7423766e4a86e0b1",
+    "image": "https://s.yimg.com/lo/mysterio/api/584338bc27721b1ab87c266acc44e9545ff4a946ce67d9c4e396c515cadb1c59/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdad75989d0158bcce4d630da90413bd0.jpg",
+    "publishedAt": "2026-08-19T03:59:56Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "US sanctions International Criminal Court president and trial lawyer - Al Jazeera",
+    "description": "US sanctions International Criminal Court president and trial lawyerAl Jazeera US announces new sanctions on top ICC figuresBBC US imposes sanctions on Japanese chief of International Criminal CourtInquirer.net Netherlands slams US sanctions on top ICC offici…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185046674",
+    "image": null,
+    "publishedAt": "2026-08-19T03:12:29Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Cricketnews.com",
     "title": "Michael Vaughan defends The Hundred against criticism, explains how it 'protects' UK cricket",
     "description": "With many fans and critics coming after the Hundred recently, former England skipper Michael Vaughan staunchly defended the UK franchise league.",
     "url": "https://www.cricketnews.com/en/cricket/news/michael-vaughan-defends-hundred-criticism-protects-uk-cricket/ad0407fc63060e75d868bc1e",
@@ -178,51 +196,6 @@ window.cricketNews = [
     "image": "https://punchng.com/wp-content/uploads/2026/07/Rubio_1784413891-1024x630.webp",
     "publishedAt": "2026-08-18T19:36:46Z",
     "author": "Punch Newspapers"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "US announces new sanctions on top ICC figures",
-    "description": "US Secretary of State Marco Rubio has announced sanctions against the president and a senior lawyer of the International Criminal Court (ICC).\nThe move is the Trump administration's latest escalation in its campaign to \"dismantle\" the court which is empowered…",
-    "url": "https://biztoc.com/x/645086902d3e4be4",
-    "image": "https://biztoc.com/cdn/645086902d3e4be4_s.webp",
-    "publishedAt": "2026-08-18T19:33:10Z",
-    "author": "yahoo.com"
-  },
-  {
-    "source": "BBC News",
-    "title": "US announces new sanctions on top ICC figures",
-    "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-    "url": "https://www.bbc.com/news/articles/cnvnl0elz47o",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
-    "publishedAt": "2026-08-18T19:06:16Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Ensure cleanliness, better facilities for players at UP T20 League’",
-    "description": "Kanpur reviews UP T20 League preparations for Aug 28 at Green Park Stadium; officials ordered to ensure cleanliness, power backup, safety, traffic and medical readiness.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/ensure-cleanliness-better-facilities-for-players-at-up-t20-league/articleshow/133329884.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-18T18:06:45Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Italia T10 cricket 2026: Start date, venues for inaugural season of Italy's city-based franchise league",
-    "description": "With Italy finally tapping into their domestic audience, here's everything you will need to know about Italia T10 cricket 2026 and the city-franchised league...",
-    "url": "https://www.cricketnews.com/en/cricket/news/italia-t10-cricket-2026-start-date-venues-inaugral-season/188c9ad5f5624221924cef54",
-    "image": "https://s.yimg.com/lo/mysterio/api/9ef609e4d072bbc1dede1bf3ebf711e38316539d998dd4a8750b8f2e628e7299/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5359f386759c9f12a7859ac87c5e0de1.jpg",
-    "publishedAt": "2026-08-18T18:05:42Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Falcons add three-time Pro Bowler Za'Darius Smith after James Pearce Jr. suspension",
-    "description": "The Atlanta Falcons have signed defensive end Za'Darius Smith, the team said Tuesday. Smith, who somewhat abruptly announced his retirement last October, will boost a front that has recently lost Jalon Walker to a season-ending torn ACL and James Pearce Jr. t…",
-    "url": "https://sports.yahoo.com/articles/falcons-add-three-time-pro-175510244.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/91647dabfe5c61e178e9f955a1d7bb6e5adfec97c2e32d9a2799e7796522a1a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F014f472a5c2096bf3c36d6ad2ad8280d.jpg",
-    "publishedAt": "2026-08-18T17:55:10Z",
-    "author": "MAURA CAREY"
   }
 ]
 ;
