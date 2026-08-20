@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Gossiplankanews.com",
+    "title": "Sri Lanka loses to India in the first Test match held in Galle",
+    "description": "The touring Indian team managed to defeat the Sri Lankan team by 165 runs in the first Test match held at the Galle International Cricket Stadium. With this victory in the match, which took place from August 15 to 19, 2026, India was able to take a 1-0 lead i…",
+    "url": "https://english.gossiplankanews.com/2026/08/sri-lanka-loses-to-india-in-first-test.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sWoVLgYrr5DFeqkhVbjwXMCGHwmy8VzrKCBfI9m5d76IJRmbKK3fBpYnog5gNlJ1la7kxn6wHrcOAiMz6_OxM9UGLxmleMWN7fW5g7si56DtbUYCeGwJXpQ3MWNXZ8iEkOyD3qxvWKknSx4EQASCE0EByI35pyfMbhvII=w1600",
+    "publishedAt": "2026-08-19T08:25:27Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
     "source": "The Times of India",
     "title": "Sri Lanka batter says 'thank you' to Yashasvi Jaiswal's 'IPL' promise, then throws his wicket - Watch",
     "description": "Cricket News: A light exchange between Yashasvi Jaiswal and Niroshan Dickwella was followed by the Sri Lankan batter's dismissal as India moved closer to victory in.",
@@ -142,24 +151,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/19/02/110696897-0-image-m-16_1787102854315.jpg",
     "publishedAt": "2026-08-19T01:28:14Z",
     "author": "Candace Sutton"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Ball was on the ground’: Ex-cricketer baffled as Dhruv Jurel catch sparks controversy",
-    "description": "As the final day of the Galle Test match unfolds, India edges closer to victory with crucial wickets. A contentious catch by Dhruv Jurel has left the Sri Lankan team in uncertainty. With 288 runs required for a win, Rishabh Pant shines, scoring 66 runs and ac…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133334738,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T01:05:26Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "New York Post",
-    "title": "Baker Mayfield has a bold prediction for Buccaneers doubters",
-    "description": "The two-time Pro Bowler and the Buccaneers disappointed last season, finishing 8-9 and missing out on the playoffs by virtue of losing a tiebreaker with the Panthers.",
-    "url": "https://nypost.com/2026/08/18/sports/baker-mayfield-has-a-bold-prediction-for-buccaneers-doubters/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-6s3zdyu9p-1787093578220.jpg?quality=75&strip=all&1787079206&w=1200",
-    "publishedAt": "2026-08-19T01:03:50Z",
-    "author": "Andrew Battifarano"
   }
 ]
 ;
