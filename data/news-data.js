@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Roundtable.io",
+    "title": "Potential First-Time Pro Bowler Picked For Jaguars",
+    "description": "Dual-threat phenom Travis Hunter headlines a group of rising Jacksonville stars looking to make their first Pro Bowl this season.",
+    "url": "https://roundtable.io/sports/nfl/jaguars/news/potential-first-time-pro-bowler-picked-for-jaguars",
+    "image": "https://s.yimg.com/lo/mysterio/api/202fa72eb64edbf035b94adcd3b9224563a48afd36bdeb6e142821214d333bc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_jacksonville_jaguars_392%2F0c3bc379c909fc70642f84a72f838ad2.jpg",
+    "publishedAt": "2026-08-20T23:28:51Z",
+    "author": "Jason Klingensmith"
+  },
+  {
     "source": "Field Gulls",
     "title": "What Trevon Diggs said in his introductory Seahawks press conference",
     "description": "The two-time Pro Bowler said he’s trying to show he’s still one of the best in the game.",
@@ -160,24 +169,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c3739bb352395319241384fa2a7be9ac658c8326d9a917fd26344c779bf54ad0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff516928653fae102e164fae19b396eba.jpg",
     "publishedAt": "2026-08-20T15:20:25Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "New York Post",
-    "title": "Tired of shaving? Amazon’s bestselling IPL device is 25% off and ultra-preicse",
-    "description": "The tool you didn't know you needed (until it's wonderfully discounted).",
-    "url": "https://nypost.com/2026/08/20/shopping/wavytalk-ipl-hair-removal-device-is-25-off-on-amazon/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/wavytalk-feature.png?w=1200",
-    "publishedAt": "2026-08-20T14:17:39Z",
-    "author": "Victoria McDonnell"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "ICC revokes demerit point imposed on Gaddafi Stadium pitch in Pakistan after Australia ODI",
-    "description": "The International Cricket Council’s appeals panel on Thursday revoked the demerit point imposed on the Gaddafi Stadium pitch in Pakistan. The pitch in Lahore had been handed the demerit point following an unsatisfactory rating for the third ODI between Pakist…",
-    "url": "https://sports.yahoo.com/articles/icc-revokes-demerit-point-imposed-141307821.html",
-    "image": null,
-    "publishedAt": "2026-08-20T14:13:07Z",
-    "author": "Associated Press"
   }
 ]
 ;
