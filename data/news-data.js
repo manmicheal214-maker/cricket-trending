@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Manav Suthar: How a PT teacher’s son from Rajasthan's Sri Ganganagar became India’s Test spin hero",
+    "description": "Manav Suthar, the son of a physical education teacher from Sri Ganganagar, has risen through Rajasthan’s domestic cricket system to become India’s latest Test spin hero. His journey includes a strong Ranji Trophy debut, limited IPL opportunities and a seven-w…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/manav-suthar-how-a-pt-teachers-son-from-rajasthans-sri-ganganagar-became-indias-test-spin-hero/articleshow/133364259.cms",
+    "image": "https://img.etimg.com/thumb/msid-133364487,width-1200,height-630,imgsize-91942,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-20T04:44:32Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indian team recreate Sourav Ganguly's shirt-waving celebration after beating England at Lord's - Watch",
+    "description": "After India defeated England by 118 runs in a T20 match at Lord's on August 19, India's players took off their shirts and waved them in the air, recalling Ganguly's famous celebration after India's NatWest Trophy final win over England at the same venue in 20…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-team-recreate-sourav-gangulys-shirt-waving-celebration-after-beating-england-at-lords-watch/articleshow/133363991.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133364392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T04:44:19Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Heavy.com",
     "title": "Texans Get Clear Message From Potential Pro Bowl Jayden Higgins Replacement",
     "description": "The Houston Texans received what appeared to be a fairly clear message from a multi-time Pro Bowler to replace Jayden Higgins. The post Texans Get Clear Message From Potential Pro Bowl Jayden Higgins Replacement appeared first on HEAVY.",
@@ -114,15 +132,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-to-host-england-sri-lanka-in-six-match-odi-tri-series/articleshow/133354647.cms",
     "image": "https://static.toiimg.com/thumb/msid-133354833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-19T17:17:05Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "First in 43 years! Azan Awais matches unwanted Pakistan record in England Test",
-    "description": "Pakistan's opening batsman, Azan Awais, faced an unfortunate fate as he was dismissed on the very first ball of the Test match by a brilliant lbw delivery from Ollie Robinson. Joining the ranks of elite England bowlers, Robinson's stellar performance continue…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-in-43-years-azan-awais-matches-unwanted-pakistan-record-in-england-test/articleshow/133353502.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133353580,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T16:24:33Z",
     "author": "TOI Sports Desk"
   }
 ]
