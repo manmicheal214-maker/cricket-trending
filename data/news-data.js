@@ -1,6 +1,42 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Shubman Gill’s eye for talent: How a Mohali youngster’s life changed after one net session",
+    "description": "A Rs 20,000 Sher-e-Punjab T20 contract could prove to be a life-changing opportunity for Kirandeep Singh, a youngster from village Cholta Kalan in Mohali. But his journey to Fazilka Falcons began earlier, when Shubman Gill spotted his bowling and urged him to…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gills-eye-for-talent-how-a-mohali-youngsters-life-changed-after-one-net-session/articleshow/133377938.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133378014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T12:50:01Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "New US sanctions against the International Criminal Court",
+    "description": "\"France has learned of new US sanctions against the President of the International Criminal Court (ICC) and a member of the Court's Office of the Prosecutor, adding to those already adopted against 11 judges from the institution.\"",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-france-meae01.htm",
+    "image": null,
+    "publishedAt": "2026-08-20T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "BBC News",
+    "title": "England & Sri Lanka tri-series in Pakistan 2026",
+    "description": "Fixtures for the ODI tri-series, hosted by Pakistan and also involving England and Sri Lanka.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cy0jrekkwnzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3bd59012c7f10965789978b94f610187c44afc9dcbfa184c51119810eb11f08b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F077862b58d6edf0eee05fe2eda24db3d.jpg",
+    "publishedAt": "2026-08-20T11:55:24Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Sri Lanka takeaways: How Padikkal and Suthar sealed 165-run 1st Test win in Galle",
+    "description": "Were India too good for Sri Lanka, or were the hosts just not up for the challenge? The Cricket News' Jamie Alter explores the takeaways after a dominant 1st Test win for the tourists in Galle.",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/india-vs-sri-lanka-takeaways-padikkal-suthar-1st-test-win-galle/109b0cc07c47a047fb374d9d",
+    "image": "https://s.yimg.com/lo/mysterio/api/26b43df3ef708f9623193f469acafbbc687b33af52bd0fc4991ea993b2ef856f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc44beeda9a8a894e132ab1fc100c5805.jpg",
+    "publishedAt": "2026-08-20T11:40:05Z",
+    "author": "Jamie Alter"
+  },
+  {
+    "source": "The Times of India",
     "title": "RPCAU, IPL Foundation sign MoU to boost sustainable farming",
     "description": "RPCAU Pusa and IPL Foundation sign MoU to promote sustainable, climate-resilient farming and soil health, launching Amrit Internship for 50 students with Rs 6,000 stipend.",
     "url": "https://timesofindia.indiatimes.com/city/patna/rpcau-ipl-foundation-sign-mou-to-boost-sustainable-farming/articleshow/133375801.cms",
@@ -142,15 +178,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133364392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-20T04:44:19Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Texans Get Clear Message From Potential Pro Bowl Jayden Higgins Replacement",
-    "description": "The Houston Texans received what appeared to be a fairly clear message from a multi-time Pro Bowler to replace Jayden Higgins. The post Texans Get Clear Message From Potential Pro Bowl Jayden Higgins Replacement appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/houston-texans/texans-get-clear-message-from-potential-pro-bowl-jayden-higgins-replacement/",
-    "image": "https://s.yimg.com/lo/mysterio/api/64d195c1846e4b34d4819f9d0abc03f392a5e1c80e04ac1a7aef3eab069f5739/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F3b1aea428d58ca7f07c28d7b067af8bc.jpg",
-    "publishedAt": "2026-08-20T03:09:59Z",
-    "author": "Josh Buckhalter"
   }
 ]
 ;
