@@ -1,6 +1,15 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "The Sanju Samson void and search for Kerala’s next T20 star",
+    "description": "As the Kerala Cricket League launches its thrilling third season this Thursday, fans will feel the absence of star player Sanju Samson. The Kochi Blue Tigers, known for their competitive spirit, will strive to defend their title in his absence. This year prom…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-sanju-samson-void-and-search-for-keralas-next-t20-star/articleshow/133364847.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133364902,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T05:05:13Z",
+    "author": "Vishal Menon"
+  },
+  {
+    "source": "The Times of India",
     "title": "Manav Suthar: How a PT teacher’s son from Rajasthan's Sri Ganganagar became India’s Test spin hero",
     "description": "Manav Suthar, the son of a physical education teacher from Sri Ganganagar, has risen through Rajasthan’s domestic cricket system to become India’s latest Test spin hero. His journey includes a strong Ranji Trophy debut, limited IPL opportunities and a seven-w…",
     "url": "https://economictimes.indiatimes.com/news/new-updates/manav-suthar-how-a-pt-teachers-son-from-rajasthans-sri-ganganagar-became-indias-test-spin-hero/articleshow/133364259.cms",
@@ -115,24 +124,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5bjjq.jpg",
     "publishedAt": "2026-08-19T19:00:05Z",
     "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mumbai Indians post triggers Hardik Pandya IPL 2027 retention speculation",
-    "description": "A cryptic Mumbai Indians post has sparked intense speculation over Hardik Pandya's retention and potential trade options ahead of the IPL 2027 season.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mumbai-indians-post-hardik-pandya-ipl-2027-retention-speculation/1651caaf6bc21ae26f2bd874",
-    "image": "https://s.yimg.com/lo/mysterio/api/6d05681cf295c815d094d2e688cf5eea1549d4702fdbf3859bf79b010641313f/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3b6e2472501391ce234ab3a199f95726.jpg",
-    "publishedAt": "2026-08-19T17:31:56Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan to host England, Sri Lanka in six-match ODI Tri-Series",
-    "description": "Pakistan will host England and Sri Lanka in a six-match ODI tri-series from October 18 to 31, with games in Rawalpindi and Lahore. The tournament will begin with Pakistan facing Sri Lanka, while the final will be played in Lahore. The busy schedule also inclu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-to-host-england-sri-lanka-in-six-match-odi-tri-series/articleshow/133354647.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133354833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T17:17:05Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
