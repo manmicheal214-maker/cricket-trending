@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Sachin Tendulkar vs Virat Kohli in Test cricket: Comparing their home, away and SENA records",
+    "description": "Sachin Tendulkar vs Virat Kohli in Test cricket: comparing their home, away and SENA records, including averages, runs and centuries.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sachin-tendulkar-vs-virat-kohli-test-cricket-home-away-sena-records/5b417536b73457dc7aacc364",
+    "image": "https://s.yimg.com/lo/mysterio/api/b35d119cddf34d0d263a5d40af6c1cb838a353c2f36cb755ccbe4d31c6b8b196/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F186ddb4c6706563f5889248b68e60f71.jpg",
+    "publishedAt": "2026-08-20T10:30:26Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "The Times of India",
+    "title": "England pacers cut Pakistan Test match ball in half after first innings; here's why",
+    "description": "Robinson took 5 for 51 and Tongue claimed 5 for 46 as Pakistan were bowled out for 171 on the first day of England's first Test under Joe Root's second stint as full-time captain following Ben Stokes' retirement from international cricket.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-pacers-cut-pakistan-test-match-ball-in-half-after-first-innings-heres-why/articleshow/133371925.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133372898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T09:52:33Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "'I practised with Kookaburra ball at home': Manav Suthar's grind behind Galle heroics",
     "description": "Cricket News: India left-arm spinner Manav Suthar said practising with the Kookaburra ball before the Sri Lanka series helped him adapt quickly to the conditions as.",
@@ -115,33 +133,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/204b37b189de254d372ec6b24d474dde7c9a4a451a5522fe728d027480873049/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftampa_bay_buccaneers_wire_usa_today_sports_articles_162%2Fa7f9ee258e22b2a9c15d74a8fee9db4b.jpg",
     "publishedAt": "2026-08-19T23:15:24Z",
     "author": "Mason Riney, Buccaneers Wire"
-  },
-  {
-    "source": "Human Rights Watch",
-    "title": "US Sanctions ICC President Tomoko Akane",
-    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Judge Tomoko Akane at the International Criminal Court in The Hague, Netherlands, November 20, 2024. \n © 2024 Eva Plevier/Pool Photo via AP, file\n \n \n\n\n \n(Tokyo) – The United States government on August 18, 2026, des…",
-    "url": "https://www.hrw.org/news/2026/08/19/us-sanctions-icc-president-tomoko-akane",
-    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/08/202608asia_japan_icc_akane.jpg?h=4fc76d65&itok=9HRqmUGo",
-    "publishedAt": "2026-08-19T23:00:00Z",
-    "author": "Human Rights Watch"
-  },
-  {
-    "source": "Joplin Globe",
-    "title": "Batter up: MSSU softball welcomes Miracle Leaguers",
-    "description": "Fresh off a 54-win season and a trip to the NCAA Division II Softball World Series, the Missouri Southern State University softball team will share its time and talents with a special group of athletes when it hosts the Miracle League of Joplin All-Star game …",
-    "url": "https://www.joplinglobe.com/sports/batter-up-mssu-softball-welcomes-miracle-leaguers/article_ead1a1bb-5829-406b-bc56-fa8855f292c5.html",
-    "image": null,
-    "publishedAt": "2026-08-19T22:32:00Z",
-    "author": "Laurie Sisk, The Joplin Globe, Mo."
-  },
-  {
-    "source": "DW (English)",
-    "title": "ICC slams US sanctions on court as 'flagrant attack'",
-    "description": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
-    "url": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476",
-    "image": "https://static.dw.com/image/78420321_6.jpg",
-    "publishedAt": "2026-08-19T21:20:00Z",
-    "author": "Saim Dušan Inayatullah"
   }
 ]
 ;
