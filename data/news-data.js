@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'I practised with Kookaburra ball at home': Manav Suthar's grind behind Galle heroics",
+    "description": "Cricket News: India left-arm spinner Manav Suthar said practising with the Kookaburra ball before the Sri Lanka series helped him adapt quickly to the conditions as.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-practised-with-kookaburra-ball-at-home-manav-suthars-grind-behind-galle-heroics/articleshow/133369981.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133370650,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T08:22:12Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "ETPL 2026 tickets: Prices, weekend passes, venue passes and guide on how to book tickets for European T20 Premier League",
     "description": "With the European T20 Premier League about to start in a few days, here's everything you will need to know about the ticket pricings and where to book them.",
