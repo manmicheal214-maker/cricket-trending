@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli a stronger batsman than Sachin Tendulkar? Former India bowler ridicules AB de Villiers' controversial statement",
+    "description": "A former India bowler ridiculed AB de Villiers' claim that Virat Kohli was a stronger overseas Test batsman than Sachin Tendulkar. Read the stats and reactions.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-sachin-former-india-bowler-ridicules-ab-de-villiers/85d9ea5ccf17c4c6406f9e5d",
+    "image": "https://s.yimg.com/lo/mysterio/api/c3739bb352395319241384fa2a7be9ac658c8326d9a917fd26344c779bf54ad0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff516928653fae102e164fae19b396eba.jpg",
+    "publishedAt": "2026-08-20T15:20:25Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "New York Post",
     "title": "Tired of shaving? Amazon’s bestselling IPL device is 25% off and ultra-preicse",
     "description": "The tool you didn't know you needed (until it's wonderfully discounted).",
