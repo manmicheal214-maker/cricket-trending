@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "Harry Brook underlines his status as Test cricket's new No 1 batsman with sparkling 91, writes LAWRENCE BOOTH... as England dominate Pakistan to build a commanding lead",
+    "description": "LAWRENCE BOOTH AT HEADINGLEY: The day after being confirmed as Test cricket's new No 1 batsman, Harry Brook celebrated his ascent with a blistering 91 off 93 balls as England dominated.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16067779/harry-brook-world-number-one-batsman-headingley.html",
+    "image": "https://i.dailymail.com/1s/2026/08/20/20/110759839-0-image-a-20_1787254858952.jpg",
+    "publishedAt": "2026-08-20T19:45:20Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Could US sanctions destroy the International Criminal Court?",
+    "description": "Washington's new measures against the ICC have been widely condemned but welcomed by Israel.",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787252825.jpg?resize=1920%2C1080&quality=80",
+    "publishedAt": "2026-08-20T19:38:29Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Ranji captaincy incident taught me valuable lessons: Karan",
     "description": "Karan Sharma reflects on Ranji captaincy removal lessons, discusses UP captaincy hopes, IPL auction snub, and focus on UP T20 League and domestic form.",
@@ -160,69 +178,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/20/10/110747727-0-image-m-18_1787219104353.jpg",
     "publishedAt": "2026-08-20T13:04:02Z",
     "author": "Alex Bywater"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill’s eye for talent: How a Mohali youngster’s life changed after one net session",
-    "description": "A Rs 20,000 Sher-e-Punjab T20 contract could prove to be a life-changing opportunity for Kirandeep Singh, a youngster from village Cholta Kalan in Mohali. But his journey to Fazilka Falcons began earlier, when Shubman Gill spotted his bowling and urged him to…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gills-eye-for-talent-how-a-mohali-youngsters-life-changed-after-one-net-session/articleshow/133377938.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133378014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T12:50:01Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Globalsecurity.org",
-    "title": "New US sanctions against the International Criminal Court",
-    "description": "\"France has learned of new US sanctions against the President of the International Criminal Court (ICC) and a member of the Court's Office of the Prosecutor, adding to those already adopted against 11 judges from the institution.\"",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-france-meae01.htm",
-    "image": null,
-    "publishedAt": "2026-08-20T12:00:00Z",
-    "author": "John Pike"
-  },
-  {
-    "source": "BBC News",
-    "title": "England & Sri Lanka tri-series in Pakistan 2026",
-    "description": "Fixtures for the ODI tri-series, hosted by Pakistan and also involving England and Sri Lanka.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cy0jrekkwnzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/3bd59012c7f10965789978b94f610187c44afc9dcbfa184c51119810eb11f08b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F077862b58d6edf0eee05fe2eda24db3d.jpg",
-    "publishedAt": "2026-08-20T11:55:24Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India vs Sri Lanka takeaways: How Padikkal and Suthar sealed 165-run 1st Test win in Galle",
-    "description": "Were India too good for Sri Lanka, or were the hosts just not up for the challenge? The Cricket News' Jamie Alter explores the takeaways after a dominant 1st Test win for the tourists in Galle.",
-    "url": "https://www.cricketnews.com/en/cricket/cricket-features/india-vs-sri-lanka-takeaways-padikkal-suthar-1st-test-win-galle/109b0cc07c47a047fb374d9d",
-    "image": "https://s.yimg.com/lo/mysterio/api/26b43df3ef708f9623193f469acafbbc687b33af52bd0fc4991ea993b2ef856f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc44beeda9a8a894e132ab1fc100c5805.jpg",
-    "publishedAt": "2026-08-20T11:40:05Z",
-    "author": "Jamie Alter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "RPCAU, IPL Foundation sign MoU to boost sustainable farming",
-    "description": "RPCAU Pusa and IPL Foundation sign MoU to promote sustainable, climate-resilient farming and soil health, launching Amrit Internship for 50 students with Rs 6,000 stipend.",
-    "url": "https://timesofindia.indiatimes.com/city/patna/rpcau-ipl-foundation-sign-mou-to-boost-sustainable-farming/articleshow/133375801.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-20T11:28:28Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Financial Post",
-    "title": "Flash Sports & Media Holdings, Inc. (Nasdaq: FLZH) Named Official Title Sponsor of the Swiss National Cricket Men’s Team",
-    "description": "Title sponsorship secured through Liberty Gaming – FZCO, working in partnership with Cricket Switzerland to assist the growth of T20 cricket in Switzerland, with options exercisable by Flash for two further seasons Flash to be designated Official Title Sponso…",
-    "url": "https://financialpost.com/globe-newswire/flash-sports-media-holdings-inc-nasdaq-flzh-named-official-title-sponsor-of-the-swiss-national-cricket-mens-team",
-    "image": null,
-    "publishedAt": "2026-08-20T11:12:40Z",
-    "author": "GlobeNewswire"
-  },
-  {
-    "source": "Essentially Sports",
-    "title": "“Wish I Was More Like Andy Reid”: Jason Kelce Reveals the Biggest Weakness Driving Him To Emulate Chiefs HC",
-    "description": "Jason Kelce has never been shy about calling out his own flaws, even years after hanging up his cleats. And this time, the seven-time Pro Bowler set his sights on one of the league’s most respected minds.",
-    "url": "https://www.essentiallysports.com/nfl-active-news-wish-i-was-more-like-andy-reid-jason-kelce-reveals-the-biggest-weakness-driving-him-to-emulate-chiefs-hc/",
-    "image": "https://s.yimg.com/lo/mysterio/api/246221a8001b2093649340e8fce16a600ffccb23cdc18ea74ddf8d52f28931fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fessentiallysports_articles_591%2F3e2cdd2247dce5f2abcde3722ca15e21.jpg",
-    "publishedAt": "2026-08-20T11:10:00Z",
-    "author": "Ishani Jayara"
   }
 ]
 ;
