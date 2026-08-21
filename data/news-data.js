@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "RPCAU, IPL Foundation sign MoU to boost sustainable farming",
+    "description": "RPCAU Pusa and IPL Foundation sign MoU to promote sustainable, climate-resilient farming and soil health, launching Amrit Internship for 50 students with Rs 6,000 stipend.",
+    "url": "https://timesofindia.indiatimes.com/city/patna/rpcau-ipl-foundation-sign-mou-to-boost-sustainable-farming/articleshow/133375801.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-20T11:28:28Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "Financial Post",
+    "title": "Flash Sports & Media Holdings, Inc. (Nasdaq: FLZH) Named Official Title Sponsor of the Swiss National Cricket Men’s Team",
+    "description": "Title sponsorship secured through Liberty Gaming – FZCO, working in partnership with Cricket Switzerland to assist the growth of T20 cricket in Switzerland, with options exercisable by Flash for two further seasons Flash to be designated Official Title Sponso…",
+    "url": "https://financialpost.com/globe-newswire/flash-sports-media-holdings-inc-nasdaq-flzh-named-official-title-sponsor-of-the-swiss-national-cricket-mens-team",
+    "image": null,
+    "publishedAt": "2026-08-20T11:12:40Z",
+    "author": "GlobeNewswire"
+  },
+  {
+    "source": "Essentially Sports",
+    "title": "“Wish I Was More Like Andy Reid”: Jason Kelce Reveals the Biggest Weakness Driving Him To Emulate Chiefs HC",
+    "description": "Jason Kelce has never been shy about calling out his own flaws, even years after hanging up his cleats. And this time, the seven-time Pro Bowler set his sights on one of the league’s most respected minds.",
+    "url": "https://www.essentiallysports.com/nfl-active-news-wish-i-was-more-like-andy-reid-jason-kelce-reveals-the-biggest-weakness-driving-him-to-emulate-chiefs-hc/",
+    "image": "https://s.yimg.com/lo/mysterio/api/246221a8001b2093649340e8fce16a600ffccb23cdc18ea74ddf8d52f28931fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fessentiallysports_articles_591%2F3e2cdd2247dce5f2abcde3722ca15e21.jpg",
+    "publishedAt": "2026-08-20T11:10:00Z",
+    "author": "Ishani Jayara"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL generation playing good Test cricket a mystery, says Sanjay Manjrekar",
+    "description": "Sanjay Manjrekar finds it a mystery how IPL players adapt to Test cricket. Modern batters seamlessly transition from T20s to the longest format of the game. This generation grew up playing T20 cricket and makes technical adjustments. The ability to switch for…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-generation-playing-good-test-cricket-a-mystery-says-sanjay-manjrekar/articleshow/133374703.cms",
+    "image": "https://img.etimg.com/thumb/msid-133375002,width-1200,height-630,imgsize-50462,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-20T10:57:05Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC makes U-turn on Gaddafi Stadium pitch demerit point",
+    "description": "The ICC has withdrawn the demerit point given to Lahore’s Gaddafi Stadium pitch after reviewing an appeal by the PCB. The Appeals Panel examined match footage, referee reports and captains’ comments before finding the pitch satisfactory. It said the surface d…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-makes-u-turn-on-gaddafi-stadium-pitch-demerit-point/articleshow/133374469.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133374646,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T10:50:10Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Sachin Tendulkar vs Virat Kohli in Test cricket: Comparing their home, away and SENA records",
     "description": "Sachin Tendulkar vs Virat Kohli in Test cricket: comparing their home, away and SENA records, including averages, runs and centuries.",
@@ -106,33 +151,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/64d195c1846e4b34d4819f9d0abc03f392a5e1c80e04ac1a7aef3eab069f5739/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F3b1aea428d58ca7f07c28d7b067af8bc.jpg",
     "publishedAt": "2026-08-20T03:09:59Z",
     "author": "Josh Buckhalter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Strong values around Test cricket’: Gary Kirsten reveals key talking point with Gautam Gambhir in Galle",
-    "description": "Gautam Gambhir and Gary Kirsten engaged in an enlightening conversation about the myriad challenges of coaching and the foundational principles of Test cricket. With Gambhir leading India and Kirsten at the helm for Sri Lanka, their aligned perspectives on te…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/strong-values-around-test-cricket-gary-kirsten-reveals-key-talking-point-with-gautam-gambhir-in-galle/articleshow/133361812.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133361852,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T02:06:25Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "BREAKING: Buccaneers Reach Deal with DT Vita Vea on Extension",
-    "description": "The Tampa Bay Buccaneers' primary offseason noise has concerned the future of two-time Pro Bowler and behemoth nose tackle Vita Vea.\nVea had previously requested a trade from South Florida, as he looked to improve upon his four-year, $71 million contract – of…",
-    "url": "https://biztoc.com/x/8fd106ac592390c9",
-    "image": "https://biztoc.com/cdn/8fd106ac592390c9_s.webp",
-    "publishedAt": "2026-08-20T01:53:56Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "USA Today",
-    "title": "Bucs Sign Vita Vea to Massive $30 Million Extension",
-    "description": "The Buccaneers and Vita Vea have agreed to a one-year, $30 million extension that keeps the two-time Pro Bowler in Tampa Bay for the next two seasons.",
-    "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/08/19/buccaneers-sign-vita-vea-to-one-year-30-million-contract-extension/91379257007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/204b37b189de254d372ec6b24d474dde7c9a4a451a5522fe728d027480873049/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftampa_bay_buccaneers_wire_usa_today_sports_articles_162%2Fa7f9ee258e22b2a9c15d74a8fee9db4b.jpg",
-    "publishedAt": "2026-08-19T23:15:24Z",
-    "author": "Mason Riney, Buccaneers Wire"
   }
 ]
 ;
