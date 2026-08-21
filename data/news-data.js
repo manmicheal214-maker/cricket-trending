@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Joe Root equals Sachin Tendulkar’s record for most fifties in Test cricket",
+    "description": "Joe Root achieved a significant milestone by equaling Sachin Tendulkar's record for most Test half-centuries. He scored his 68th fifty during England's first Test against Pakistan at Headingley. Root and Cox built a crucial partnership to give England a first…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-equals-sachin-tendulkars-record-for-most-fifties-in-test-cricket/articleshow/133383152.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133383239,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T16:31:33Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "'It was a huge wake-up call for Australia... and a good thing for cricket': STEVE WAUGH on the Aussies' shock defeat by Bangladesh, why Bazball deserves praise and the reason England job will be an eye-opener for Stephen Fleming",
+    "description": "EXCLUSIVE INTERVIEW: More than 20 years since Aussie legend Steve Waugh last tormented England, his opinions still pack a punch, his judgments still sting.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16067423/steve-waugh-australia-bangladesh-bazball-fleming.html",
+    "image": "https://i.dailymail.com/1s/2026/08/20/16/110755865-0-image-m-77_1787240916725.jpg",
+    "publishedAt": "2026-08-20T16:03:26Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cricketers banned over 'irresponsible' fireworks",
+    "description": "Cheltenham residents are alarmed as fireworks are set off following a cricket tournament.",
+    "url": "https://www.bbc.com/news/articles/cx2renn0mmgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7f68a827bafd2a5a81369ea584a5d21f3d63a41206288053bd6b3f7831a0d963/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F289dacd4cf7d60f5f0f52bf3215b8268.jpg",
+    "publishedAt": "2026-08-20T15:47:32Z",
+    "author": "Esme Ashcroft - Political reporter for Gloucestershire"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Virat Kohli a stronger batsman than Sachin Tendulkar? Former India bowler ridicules AB de Villiers' controversial statement",
     "description": "A former India bowler ridiculed AB de Villiers' claim that Virat Kohli was a stronger overseas Test batsman than Sachin Tendulkar. Read the stats and reactions.",
@@ -178,24 +205,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/255ea533127655aa1dbadf6c862e87ee10de9a936ebb7933cfa7fb37b2b3d0c3/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5cdbf2705b1504513e5cd4fa711e1c15.jpg",
     "publishedAt": "2026-08-20T07:45:37Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Don’t go chasing the IPL’: Cheteshwar Pujara’s plea for Manav Suthar after Galle heroics",
-    "description": "Cheteshwar Pujara has encouraged young spinner Manav Suthar to prioritize his development in Test cricket, emphasizing the importance of maintaining his natural bowling style for the longer format instead of adapting to white-ball games. Having performed admi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-go-chasing-the-ipl-cheteshwar-pujaras-plea-for-manav-suthar-after-galle-heroics/articleshow/133368356.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133368462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T07:21:17Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "India-Pakistan Handshake Stirs Debate",
-    "description": "Wednesday's India-Pakistan World Cup match in Amstelveen saw players exchange handshakes, a gesture that has become contentious in India-Pakistan sporting encounters, particularly in cricket. While the Indian team dominated on the field, winning 5-3, the post…",
-    "url": "https://www.rediff.com/sports/report/india-pakistan-handshake-stirs-debate/20260820.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/aug/20ind-pak1.jpg",
-    "publishedAt": "2026-08-20T07:12:14Z",
-    "author": "sports@rediff.co.in (REDIFF SPORTS)"
   }
 ]
 ;
