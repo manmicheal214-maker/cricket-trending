@@ -1,6 +1,24 @@
 [
   {
     "source": "The Times of India",
+    "title": "Spain break 23-year-old international cricket record held by Ricky Ponting and Steve Waugh's Australia",
+    "description": "Spain are currently playing in the Men's T20 World Cup Sub Regional Europe Qualifiers in Southern Finland and have won all their matches in the tournament so far. Their latest victory came against Bulgaria on August 18, when they chased down a target of 60 in…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/spain-break-23-year-old-international-cricket-record-held-by-ricky-ponting-and-steve-waughs-australia/articleshow/133366383.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133366659,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T06:34:37Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Naturalnews.com",
+    "title": "Sanctions on ICC Judges: Washington’s Assault on International Justice",
+    "description": "ICC Denounces Sanctions on Two Officials The International Criminal Court said Aug. 19 that sanctions imposed the previous day by the U.S. State Department are a “flagrant attack” on judicial independence. The court said the measures targeted ICC President To…",
+    "url": "https://www.naturalnews.com/2026-08-20-sanctions-iccjudges-washingtons-assualt-international-justice.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/international-criminal-court-us-sanctions-judicial-independence-3489-original.jpg",
+    "publishedAt": "2026-08-20T06:00:00Z",
+    "author": "Garrison Vance"
+  },
+  {
+    "source": "The Times of India",
     "title": "The Sanju Samson void and search for Kerala’s next T20 star",
     "description": "As the Kerala Cricket League launches its thrilling third season this Thursday, fans will feel the absence of star player Sanju Samson. The Kochi Blue Tigers, known for their competitive spirit, will strive to defend their title in his absence. This year prom…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-sanju-samson-void-and-search-for-keralas-next-t20-star/articleshow/133364847.cms",
@@ -115,14 +133,5 @@
     "image": "https://static.toiimg.com/thumb/msid-133358097,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-19T19:03:46Z",
     "author": "Tushar Tere"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket: Today at the Test",
-    "description": "New captain, new coach and some old faces. England start the series at Headingley",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0030gkt/cricket-today-at-the-test-england-v-pakistan-2026-first-test-day-1?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5bjjq.jpg",
-    "publishedAt": "2026-08-19T19:00:05Z",
-    "author": null
   }
 ]
