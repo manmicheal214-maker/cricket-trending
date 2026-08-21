@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Former Rajasthan Cricket Association president Dr CP Joshi gets Rajiv Gandhi Memorial Lifetime Achievement award",
+    "description": "Former RCA president and ex-union minister Dr CP Joshi receives the 7th Rajiv Gandhi Memorial Lifetime Achievement Award at a ceremony in Jaipur.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/former-rajasthan-cricket-association-president-dr-cp-joshi-gets-rajiv-gandhi-memorial-lifetime-achievement-award/articleshow/133385719.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133385717,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T18:09:13Z",
+    "author": "Suhas Nayse"
+  },
+  {
     "source": "International Cricket Council",
     "title": "England issue fitness update on Curran and Jacks | ICC World Test Championship | ICC",
     "description": "England all-rounder Sam Curran has been dealt an unfortunate impediment to his potential return to Test cricket.\nEngland Cricket have confirmed in a statement that Curran will not feature in the remainder of their home season and will undergo surgery for a gr…",
@@ -205,24 +214,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/b35d119cddf34d0d263a5d40af6c1cb838a353c2f36cb755ccbe4d31c6b8b196/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F186ddb4c6706563f5889248b68e60f71.jpg",
     "publishedAt": "2026-08-20T10:30:26Z",
     "author": "Saino Zachariah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "England pacers cut Pakistan Test match ball in half after first innings; here's why",
-    "description": "Robinson took 5 for 51 and Tongue claimed 5 for 46 as Pakistan were bowled out for 171 on the first day of England's first Test under Joe Root's second stint as full-time captain following Ben Stokes' retirement from international cricket.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-pacers-cut-pakistan-test-match-ball-in-half-after-first-innings-heres-why/articleshow/133371925.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133372898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T09:52:33Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I practised with Kookaburra ball at home': Manav Suthar's grind behind Galle heroics",
-    "description": "Cricket News: India left-arm spinner Manav Suthar said practising with the Kookaburra ball before the Sri Lanka series helped him adapt quickly to the conditions as.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-practised-with-kookaburra-ball-at-home-manav-suthars-grind-behind-galle-heroics/articleshow/133369981.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133370650,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T08:22:12Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
