@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "ETPL 2026 tickets: Prices, weekend passes, venue passes and guide on how to book tickets for European T20 Premier League",
+    "description": "With the European T20 Premier League about to start in a few days, here's everything you will need to know about the ticket pricings and where to book them.",
+    "url": "https://www.cricketnews.com/en/cricket/news/etpl-2026-tickets-prices-weekend-venue-passes-guide-book-european-t20/a124df69fc39eda00f42950a",
+    "image": "https://s.yimg.com/lo/mysterio/api/255ea533127655aa1dbadf6c862e87ee10de9a936ebb7933cfa7fb37b2b3d0c3/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5cdbf2705b1504513e5cd4fa711e1c15.jpg",
+    "publishedAt": "2026-08-20T07:45:37Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Don’t go chasing the IPL’: Cheteshwar Pujara’s plea for Manav Suthar after Galle heroics",
+    "description": "Cheteshwar Pujara has encouraged young spinner Manav Suthar to prioritize his development in Test cricket, emphasizing the importance of maintaining his natural bowling style for the longer format instead of adapting to white-ball games. Having performed admi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-go-chasing-the-ipl-cheteshwar-pujaras-plea-for-manav-suthar-after-galle-heroics/articleshow/133368356.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133368462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-20T07:21:17Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "India-Pakistan Handshake Stirs Debate",
+    "description": "Wednesday's India-Pakistan World Cup match in Amstelveen saw players exchange handshakes, a gesture that has become contentious in India-Pakistan sporting encounters, particularly in cricket. While the Indian team dominated on the field, winning 5-3, the post…",
+    "url": "https://www.rediff.com/sports/report/india-pakistan-handshake-stirs-debate/20260820.htm",
+    "image": "https://im.rediff.com/1200-630/sports/2026/aug/20ind-pak1.jpg",
+    "publishedAt": "2026-08-20T07:12:14Z",
+    "author": "sports@rediff.co.in (REDIFF SPORTS)"
+  },
+  {
     "source": "The Times of India",
     "title": "Spain break 23-year-old international cricket record held by Ricky Ponting and Steve Waugh's Australia",
     "description": "Spain are currently playing in the Men's T20 World Cup Sub Regional Europe Qualifiers in Southern Finland and have won all their matches in the tournament so far. Their latest victory came against Bulgaria on August 18, when they chased down a target of 60 in…",
@@ -106,33 +133,6 @@ window.cricketNews = [
     "image": "https://static.dw.com/image/78420321_6.jpg",
     "publishedAt": "2026-08-19T21:20:00Z",
     "author": "Saim Dušan Inayatullah"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "The day English cricket desperately needed: Joe Root enjoys perfect return to Test captaincy as England dominate Pakistan after Ollie Robinson and Josh Tongue show match-winning credentials, writes LAWRENCE BOOTH",
-    "description": "LAWRENCE BOOTH: If Joe Root could have scripted the perfect start to his full-time return to the England captaincy, it might have looked something like this.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16064335/The-day-English-cricket-desperately-needed-Joe-Root-enjoys-perfect-return-Test-captaincy-England-dominate-Pakistan-Ollie-Robinson-Josh-Tongue-match-winning-credentials-writes-LAWRENCE-BOOTH.html",
-    "image": "https://i.dailymail.com/1s/2026/08/19/20/110735715-0-image-m-25_1787167192465.jpg",
-    "publishedAt": "2026-08-19T19:21:31Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Seahawks and 2-time Pro Bowl cornerback Trevon Diggs are working on a deal, AP source says",
-    "description": "The Seattle Seahawks and cornerback Trevon Diggs are working on a contract, a person with knowledge of the deal told The Associated Press on Wednesday. Diggs, 27, is a two-time Pro Bowler coming off a season in which he was placed on waivers by the Dallas Cow…",
-    "url": "https://sports.yahoo.com/articles/seahawks-2-time-pro-bowl-191810011.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/dbe0d4f665066f6314552f3b32f548a7596f0c6936b6579fad170c49ee621d34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fda189891747f0eff0cb72f692258d444.jpg",
-    "publishedAt": "2026-08-19T19:18:10Z",
-    "author": "ANDREW DESTIN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ex-India cricketer Jacob Martin acquitted in cheating, forgery case after 22 years",
-    "description": "Former India cricketer Jacob Martin acquitted by Delhi court in 2004 cheating and forgery case linked to alleged illegal UK migration; lack of evidence cited.",
-    "url": "https://timesofindia.indiatimes.com/city/vadodara/ex-india-cricketer-jacob-martin-acquitted-in-cheating-forgery-case-after-22-years/articleshow/133358098.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133358097,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-19T19:03:46Z",
-    "author": "Tushar Tere"
   }
 ]
 ;
