@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "'Brook as talented as Pietersen but not ready to be captain'",
+    "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agne...",
+    "url": "https://www.bbc.com/sport/cricket/articles/c8rn7jx766go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/530e001aac569d5cf592d7cace8a0dd37709dc45f2d3e5604dedf952cf6a7399/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe2aad1ad8db652c2d12219a854199596.jpg",
+    "publishedAt": "2026-08-20T20:41:39Z",
+    "author": "Jonathan Agnew - BBC cricket chief commentator"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Preview: Test history looms, Renshaw returns as Australia and Bangladesh go again",
+    "description": "Winter cricket continues in the Top End, with Australia looking for a big response in the second Test against Bangladesh in Mackay.",
+    "url": "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464",
+    "image": "https://live-production.wcms.abc-cdn.net.au/f086c16135622dcd0a25e64738d207f8?impolicy=wcms_watermark_news&cropH=2366&cropW=4207&xPos=0&yPos=154&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-20T20:41:30Z",
+    "author": "Henry Hanson"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
+    "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2202/live/16828b90-9cd4-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-08-20T20:38:45Z",
+    "author": "Jonathan Agnew"
+  },
+  {
     "source": "Dailymail.com",
     "title": "Harry Brook underlines his status as Test cricket's new No 1 batsman with sparkling 91, writes LAWRENCE BOOTH... as England dominate Pakistan to build a commanding lead",
     "description": "LAWRENCE BOOTH AT HEADINGLEY: The day after being confirmed as Test cricket's new No 1 batsman, Harry Brook celebrated his ascent with a blistering 91 off 93 balls as England dominated.",
@@ -160,24 +187,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/73d2644f2492296ca09663d53e5eaf8c0e31cb7502abf74d0167facce77ccd75/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F10944691fdeeb07aa8491b48a94bc22f.jpg",
     "publishedAt": "2026-08-20T13:50:23Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Wood looks back at Ashes performance with 'shame'",
-    "description": "Fast bowler Mark Wood says he looks back on his performance in England’s dismal Ashes campaign with “shame”.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8kl806evxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/429b/live/48e49250-9c97-11f1-a38b-8bb91d2ef80e.jpg",
-    "publishedAt": "2026-08-20T13:48:38Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "The new Clicky Ponting! Now there's another cricket 'cheating' storm as England player refuses to walk off in 16-minute saga at the Over 60s World Cup",
-    "description": "A second cricketing etiquette storm has exploded at the Over-60 World Cup in Canada just weeks after Saltburn's 'Clicky Ponting' became international news.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16065311/clicky-ponting-england-india-cricket-storm.html",
-    "image": "https://i.dailymail.com/1s/2026/08/20/10/110747727-0-image-m-18_1787219104353.jpg",
-    "publishedAt": "2026-08-20T13:04:02Z",
-    "author": "Alex Bywater"
   }
 ]
 ;
