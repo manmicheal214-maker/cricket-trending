@@ -1,5 +1,32 @@
 [
   {
+    "source": "Cricketnews.com",
+    "title": "'Bizarre cricket': Nasser Hussain slams Mohammad Rizwan for exposing Pakistan tailender in humiliating loss vs England",
+    "description": "With Pakistan losing the 1st Test at Headingly by an Innings and 103 runs, former English skipper Nasser Hussain slams Rizwan and Pakistan.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bizarre-nasser-hussain-mohammad-rizwan-exposing-pakistan-tailender-loss-england/b0d31d503b7063e5dc289a1c",
+    "image": "https://s.yimg.com/lo/mysterio/api/e987dc7d01f2449408ac8a1028cfaec2999288d44103c3715c5bf63e7ad6732e/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa485d957a0b4ce89650f850ada82243d.jpg",
+    "publishedAt": "2026-08-21T16:19:39Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Top End T20 Series: Nepal A suffers eight-wicket defeat to Northern Territory Strike",
+    "description": "KATHMANDU: Nepal A suffered an eight-wicket defeat against Northern Territory Strike in its opening match of the Top End T20 Series in Australia. Batting first after losing the toss at the Marrara Cricket Ground, Nepal A posted 122 runs. Northern Territory St…",
+    "url": "https://english.khabarhub.com/2026/21/564297/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Cricket-Pawan.jpg",
+    "publishedAt": "2026-08-21T16:08:41Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "England pacer Kate Cross announces retirement from professional cricket",
+    "description": "England fast bowler Kate Cross has announced her retirement from professional cricket, saying the ongoing English summer will be her final season. Cross, who debuted for England in 2013, made 102 international appearances across formats and took 140 wickets. …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/england-pacer-kate-cross-announces-retirement-from-professional-cricket/articleshow/133408825.cms",
+    "image": "https://img.etimg.com/thumb/msid-133408824,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-21T16:04:26Z",
+    "author": "ANI"
+  },
+  {
     "source": "BBC News",
     "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
     "description": "Who should be plugged in as attack leader? Which England batter's dismissal is a problem? Player ratings from the hosts' victory over Pakistan.",
@@ -187,23 +214,5 @@
     "image": "https://www.rte.ie/images/0024dfca-1600.jpg",
     "publishedAt": "2026-08-21T06:57:54Z",
     "author": "RTÉ Entertainment"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BCB chief Tamim Iqbal hints India series date shift, BPL unlikely this year",
-    "description": "India have already scheduled a three-match T20 International series against Afghanistan in New Delhi from September 13 to 17",
-    "url": "https://www.business-standard.com/cricket/news/bcb-chief-tamim-iqbal-hints-india-series-date-shift-bpl-unlikely-this-year-126082100230_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/resize/1200X628/1787293178-3038.jpg",
-    "publishedAt": "2026-08-21T06:20:54Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "“Empathy is not a soft skill; it is the hardest skill we learn,” says Microsoft CEO Satya Nadella: Here’s how cricket taught him about leadership",
-    "description": "Satya Nadella believes empathy deserves to be treated as a leadership strength rather than a conventional soft skill. The Microsoft CEO says genuinely understanding people is difficult but crucial for innovation, employee performance and customer needs. Shape…",
-    "url": "https://timesofindia.indiatimes.com/education/news/empathy-is-not-a-soft-skill-it-is-the-hardest-skill-we-learn-says-microsoft-ceo-satya-nadella-heres-how-cricket-taught-him-about-leadership/articleshow/133394506.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133394506,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-21T05:57:19Z",
-    "author": "TOI Education"
   }
 ]
