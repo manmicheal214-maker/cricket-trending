@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "TCS joins European T20 Premier League as digital transformation partner",
+    "description": "Tata Consultancy Services will partner with the European T20 Premier League. They will develop an AI-powered digital ecosystem for the new cricket league. This partnership aims to enhance fan engagement and live match experiences. Technology will be central t…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/tcs-joins-european-t20-premier-league-as-digital-transformation-partner/articleshow/133397094.cms",
+    "image": "https://img.etimg.com/thumb/msid-133397123,width-1200,height-630,imgsize-48218,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-21T07:48:11Z",
+    "author": "ET Online"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "Australian Hussey open to Ashes Test role as England make approach",
     "description": "Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.",
@@ -142,33 +151,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/de0adc6a0f54c4faa23cc259479e034048c80035afaef4039982229a9dc13167/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F50b748468f2ec9a54b86747b6c72a20e.jpg",
     "publishedAt": "2026-08-20T22:30:00Z",
     "author": "Jack Freeman"
-  },
-  {
-    "source": "BBC News",
-    "title": "'Brook as talented as Pietersen but not ready to be captain'",
-    "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agne...",
-    "url": "https://www.bbc.com/sport/cricket/articles/c8rn7jx766go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/530e001aac569d5cf592d7cace8a0dd37709dc45f2d3e5604dedf952cf6a7399/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe2aad1ad8db652c2d12219a854199596.jpg",
-    "publishedAt": "2026-08-20T20:41:39Z",
-    "author": "Jonathan Agnew - BBC cricket chief commentator"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Preview: Test history looms, Renshaw returns as Australia and Bangladesh go again",
-    "description": "Winter cricket continues in the Top End, with Australia looking for a big response in the second Test against Bangladesh in Mackay.",
-    "url": "https://www.abc.net.au/news/2026-08-21/australia-vs-bangladesh-second-test-when-is-it-where-is-it/107060464",
-    "image": "https://live-production.wcms.abc-cdn.net.au/f086c16135622dcd0a25e64738d207f8?impolicy=wcms_watermark_news&cropH=2366&cropW=4207&xPos=0&yPos=154&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-20T20:41:30Z",
-    "author": "Henry Hanson"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
-    "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2202/live/16828b90-9cd4-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-08-20T20:38:45Z",
-    "author": "Jonathan Agnew"
   }
 ]
 ;
