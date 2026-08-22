@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'They won because they were taller': Rashid Latif's hilarious justification for Pakistan's 1st Test defeat to England",
+    "description": "While Pakistan might have lost the first Test against England, the internet was sent rolling with laughter as former Pakistan cricketer made hilarious justifications for the loss.",
+    "url": "https://www.cricketnews.com/en/cricket/news/won-taller-rashid-latif-justification-pakistan-test-defeat-england/eaa1bafc801ce6a02f95f0ac",
+    "image": "https://s.yimg.com/lo/mysterio/api/bf3405763d8b21d3aa7a913428f5f0818f494e513da5a9cde196f876256c33a6/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99415fd084b5f5d95fa7948b00260dda.jpg",
+    "publishedAt": "2026-08-21T19:18:32Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cricket: Today at the Test",
+    "description": "Day 3 highlights from the Test match between England and Pakistan at Headingley.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m0030g25/cricket-today-at-the-test-england-v-pakistan-2026-first-test-day-3?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5qk3z.jpg",
+    "publishedAt": "2026-08-21T19:01:00Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "BCA welcomes Supreme Court appointment of administrator, rejects reports of fresh elections",
     "description": "Bihar Cricket Association welcomes Supreme Court-appointed administrator Justice Chakradhari Sharan Singh, vows cooperation, denies order for fresh elections amid irregularity claims.",
@@ -205,15 +223,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133403187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-21T11:37:54Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The-independent.com",
-    "title": "Family and fans to gather for funeral of ‘like a light’ Jimmy Cricket",
-    "description": "The Northern Irish performer died on August 3 at the age of 80 following a short illness",
-    "url": "https://www.the-independent.com/arts-entertainment/tv/news/jimmy-cricket-funeral-comedian-the-good-old-days-b3036947.html",
-    "image": "https://static.the-independent.com/2026/08/03/16/66303bb183b55238bc7bf600b2affd12Y29udGVudHNlYXJjaGFwaSwxNzg1ODU2NTcw-2.1097816.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-    "publishedAt": "2026-08-21T10:05:58Z",
-    "author": "Erik Olsson"
   }
 ]
 ;
