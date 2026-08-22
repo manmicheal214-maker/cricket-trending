@@ -205,15 +205,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/cc5288e333b93bece421afdc07dbbe4c8e757e7ae24d7a14a3f935a330125b06/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9e881dad625eaef2d0151373fed9f034.jpg",
     "publishedAt": "2026-08-21T12:42:31Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Joe Root creates history in Headingly against Pakistan, moves past Steve Smith in Test cricket",
-    "description": "In a remarkable achievement, Joe Root has eclipsed Steve Smith to become the foremost fielder for Test cricket catches. This significant milestone was celebrated with a crisp catch at leg slip during the opening Test. With a strategic bowling effort, England'…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-in-headingly-against-pakistan-moves-past-steve-smith-in-test-cricket/articleshow/133403351.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133404275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-21T12:14:56Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
