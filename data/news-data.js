@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Chargers WR named potential first-time Pro Bowler for 2026",
+    "description": "This Chargers player was tabbed as a potential first-time Pro Bowler for the 2026 season.",
+    "url": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2026/08/20/chargers-land-mcconkey-potential-pro-bowl/91393668007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/acd59e754e348e4bc9093348eb98d83b4bdabf7d329ad7feff29ce11e9535cb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_chargers_wire_usa_today_sports_articles_602%2Fe8e48744718379e063d4bc863eca8e5a.jpg",
+    "publishedAt": "2026-08-21T00:40:29Z",
+    "author": "Ricardo Sandoval , Chargers Wire"
+  },
+  {
     "source": "Roundtable.io",
     "title": "Potential First-Time Pro Bowler Picked For Jaguars",
     "description": "Dual-threat phenom Travis Hunter headlines a group of rising Jacksonville stars looking to make their first Pro Bowl this season.",
@@ -151,24 +160,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/20/16/110755865-0-image-m-77_1787240916725.jpg",
     "publishedAt": "2026-08-20T16:03:26Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricketers banned over 'irresponsible' fireworks",
-    "description": "Cheltenham residents are alarmed as fireworks are set off following a cricket tournament.",
-    "url": "https://www.bbc.com/news/articles/cx2renn0mmgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/7f68a827bafd2a5a81369ea584a5d21f3d63a41206288053bd6b3f7831a0d963/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F289dacd4cf7d60f5f0f52bf3215b8268.jpg",
-    "publishedAt": "2026-08-20T15:47:32Z",
-    "author": "Esme Ashcroft - Political reporter for Gloucestershire"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli a stronger batsman than Sachin Tendulkar? Former India bowler ridicules AB de Villiers' controversial statement",
-    "description": "A former India bowler ridiculed AB de Villiers' claim that Virat Kohli was a stronger overseas Test batsman than Sachin Tendulkar. Read the stats and reactions.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-sachin-former-india-bowler-ridicules-ab-de-villiers/85d9ea5ccf17c4c6406f9e5d",
-    "image": "https://s.yimg.com/lo/mysterio/api/c3739bb352395319241384fa2a7be9ac658c8326d9a917fd26344c779bf54ad0/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff516928653fae102e164fae19b396eba.jpg",
-    "publishedAt": "2026-08-20T15:20:25Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
