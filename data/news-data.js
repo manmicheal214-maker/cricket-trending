@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Pakistan's worst Test side in 50 years': English media rips Pakistan after two days of mediocre cricket at Headingley",
+    "description": "English media and pundits have ripped into Pakistan after two days of one-sided, mediocre cricket at the Headingley Test.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistans-worst-test-side-50-years-english-media-headingley/cf918a0e660869e324d0a210",
+    "image": "https://s.yimg.com/lo/mysterio/api/b48ba9eb97cbabc93d594b3280aaedec705bb1dc99e2fbf1ebcb485f91600abb/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbc8888f049d6a25e075a52a016409491.jpg",
+    "publishedAt": "2026-08-21T05:31:21Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I would not say no': CSK legend considers England batting coach role for Ashes",
+    "description": "Cricket News: Former Australia batter Mike Hussey has said he is open to helping England with their batting during next year’s Ashes series after being approached b.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-not-say-no-csk-legend-considers-england-batting-coach-role-for-ashes/articleshow/133393141.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133393141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T05:18:42Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Prtimes.jp",
+    "title": "株式会社AtoJ、ICC KYOTO 2026「ガーディアン・アワード」に参加",
+    "description": "[株式会社AtoJ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/126490/27/126490-27-10d42a715b9881482a5e440f089f44cf-3900x2048.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000126490.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/126490/27/126490-27-10d42a715b9881482a5e440f089f44cf-3900x2048.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "publishedAt": "2026-08-21T05:08:03Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "India series dates could move around; BPL unlikely this year: BCB chief Tamim Iqbal",
+    "description": "Bangladesh Cricket Board President Tamim Iqbal indicated potential date shifts for the India series.  The flagship Bangladesh Premier League may not occur this year due to significant financial losses.  The Board incurred losses totaling forty crore Taka over…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-series-dates-could-move-around-bpl-unlikely-this-year-bcb-chief-tamim-iqbal/articleshow/133393316.cms",
+    "image": "https://img.etimg.com/thumb/msid-133393355,width-1200,height-630,imgsize-73400,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-21T04:47:17Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Top End T20: Nepal to face NT Strike in opening match today",
+    "description": "KATHMANDU: Nepal will take on hosts NT Strike in their opening match of the ongoing Top End T20 cricket tournament in Australia today. The match is scheduled to begin at 2:15 pm Nepali time. The Cricket Association of Nepal (CAN) has sent a 15-member Nepal ‘A…",
+    "url": "https://english.khabarhub.com/2026/21/564169/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/cricket-nepal.jpg",
+    "publishedAt": "2026-08-21T04:45:06Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "New Zealand Herald",
     "title": "England batter refuses to walk causing more controversy weeks after ‘Clicky Ponting’ scandal",
     "description": "The controversial behaviour comes weeks after the 'Clicky Ponting' scandal.",
@@ -124,15 +169,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5bh6f.jpg",
     "publishedAt": "2026-08-20T19:00:05Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Former Rajasthan Cricket Association president Dr CP Joshi gets Rajiv Gandhi Memorial Lifetime Achievement award",
-    "description": "Former RCA president and ex-union minister Dr CP Joshi receives the 7th Rajiv Gandhi Memorial Lifetime Achievement Award at a ceremony in Jaipur.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/former-rajasthan-cricket-association-president-dr-cp-joshi-gets-rajiv-gandhi-memorial-lifetime-achievement-award/articleshow/133385719.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133385717,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T18:09:13Z",
-    "author": "Suhas Nayse"
   }
 ]
 ;
