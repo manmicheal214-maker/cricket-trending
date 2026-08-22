@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "BCA welcomes Supreme Court appointment of administrator, rejects reports of fresh elections",
+    "description": "Bihar Cricket Association welcomes Supreme Court-appointed administrator Justice Chakradhari Sharan Singh, vows cooperation, denies order for fresh elections amid irregularity claims.",
+    "url": "https://timesofindia.indiatimes.com/city/patna/bca-welcomes-supreme-court-appointment-of-administrator-rejects-reports-of-fresh-elections/articleshow/133412022.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133412021,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T18:23:04Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "The Young and the Restless S53E221 720p WEB h264-DiRT",
+    "description": "Adam and Chelsea share a difference of opinion at the office, Cricket and Traci reunite with Nina, and Sally worries about Billy’s latest revenge plot.Links: HOMEPAGE – TVDBThe.Young.And.The.Restless.S53E221.720p.WEB.H264-DiRTMKV | AAC | 365MBNFO – Subtitles …",
+    "url": "https://post.rlsbb.cc/the-young-and-the-restless-s53e221-720p-web-h264-dirt/",
+    "image": null,
+    "publishedAt": "2026-08-21T18:08:22Z",
+    "author": "Robotnico"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Online tickets launched for second leg of UP T20 League beginning from Aug 28",
+    "description": "UPCA launches online tickets for UP T20 League’s Kanpur leg at Green Park (Aug 28–Sep 6); prices Rs 49–349, daily lucky draws, final on Sep 6.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/online-tickets-launched-for-second-leg-of-up-t20-league-beginning-from-aug-28/articleshow/133411550.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-21T17:58:30Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket fears losing ground to padel at Khar Gymkhana",
+    "description": "Khar Gymkhana members oppose plan to build 2–4 padel courts on its small ground, warning it could end cricket and disrupt MCA tournaments.",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/cricket-fears-losing-ground-to-padel-at-khar-gymkhana/articleshow/133410756.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-21T17:33:12Z",
+    "author": "The Times Of India"
+  },
+  {
     "source": "Slickdeals.net",
     "title": "Cricket Wireless: 128GB Apple iPhone 16e (Locked) + 3-Mo. Supreme Unlimited Plan $190 w/ Port-In + Free S&H",
     "description": "Apple iPhone 16e black (Locked to Cricket for 1 year) [cricketwireless.com] at $9.99 + 3 months of Supreme Unlimited Plan prepaid at $60/month. After 3 months, you can change your plan to a cheaper...",
@@ -178,60 +214,6 @@ window.cricketNews = [
     "image": "https://static.the-independent.com/2026/08/03/16/66303bb183b55238bc7bf600b2affd12Y29udGVudHNlYXJjaGFwaSwxNzg1ODU2NTcw-2.1097816.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
     "publishedAt": "2026-08-21T10:05:58Z",
     "author": "Erik Olsson"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Definitely in the scheme of things': India refuse to panic over Kuldeep Yadav after poor Galle outing",
-    "description": "Cricket News: India spin bowling coach Sairaj Bahutule has backed Kuldeep Yadav after his quiet outing in the first Test against Sri Lanka, saying the left-arm wris.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/definitely-in-the-scheme-of-things-india-refuse-to-panic-over-kuldeep-yadav-after-poor-galle-outing/articleshow/133399458.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133399812,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-21T09:38:50Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Must-win Test, injury-hit squad: Mendis, Chandimal out as Sri Lanka revamp for Colombo clash",
-    "description": "Cricket News: Sri Lanka have added off-spin all-rounder Sahan Arachchige and batter Kamil Mishara to their squad for the second and final Test against India, starti.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/must-win-test-injury-hit-squad-mendis-chandimal-out-as-sri-lanka-revamp-for-colombo-clash/articleshow/133397235.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133397913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-21T09:01:59Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "TCS joins European T20 Premier League as digital transformation partner",
-    "description": "Tata Consultancy Services will partner with the European T20 Premier League. They will develop an AI-powered digital ecosystem for the new cricket league. This partnership aims to enhance fan engagement and live match experiences. Technology will be central t…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/tcs-joins-european-t20-premier-league-as-digital-transformation-partner/articleshow/133397094.cms",
-    "image": "https://img.etimg.com/thumb/msid-133397123,width-1200,height-630,imgsize-48218,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-21T07:48:11Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Australian Hussey open to Ashes Test role as England make approach",
-    "description": "Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.",
-    "url": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250411__39ZK39P__v1__HighRes__CricketIndIplT20ChennaiKolkata-1787295679.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-08-21T07:37:35Z",
-    "author": null
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
-    "description": "Storms cause flood, tornado warnings in New York City, Tri-State | Live UpdatesABC7 New York Tornado confirmed in Del. as storms moved through Philly regionNBC10 Philadelphia Storms batter Mid-Atlantic, sparking several tornadoes and widespread flash flooding…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185080046",
-    "image": null,
-    "publishedAt": "2026-08-21T07:32:50Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "RTE",
-    "title": "Family pay tribute to Jimmy Cricket ahead of his funeral",
-    "description": "Mourners are to gather to honour Co Tyrone-born comedian James Mulgrew, known by his stage name Jimmy Cricket, at his funeral in Salford Cathedral, Greater Manchester, this afternoon.",
-    "url": "https://www.rte.ie/entertainment/2026/0821/1588733-family-pay-tribute-to-jimmy-cricket-ahead-of-his-funeral/",
-    "image": "https://www.rte.ie/images/0024dfca-1600.jpg",
-    "publishedAt": "2026-08-21T06:57:54Z",
-    "author": "RTÉ Entertainment"
   }
 ]
 ;
