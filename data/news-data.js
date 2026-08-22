@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "BCB chief Tamim Iqbal hints India series date shift, BPL unlikely this year",
+    "description": "India have already scheduled a three-match T20 International series against Afghanistan in New Delhi from September 13 to 17",
+    "url": "https://www.business-standard.com/cricket/news/bcb-chief-tamim-iqbal-hints-india-series-date-shift-bpl-unlikely-this-year-126082100230_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/resize/1200X628/1787293178-3038.jpg",
+    "publishedAt": "2026-08-21T06:20:54Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "“Empathy is not a soft skill; it is the hardest skill we learn,” says Microsoft CEO Satya Nadella: Here’s how cricket taught him about leadership",
+    "description": "Satya Nadella believes empathy deserves to be treated as a leadership strength rather than a conventional soft skill. The Microsoft CEO says genuinely understanding people is difficult but crucial for innovation, employee performance and customer needs. Shape…",
+    "url": "https://timesofindia.indiatimes.com/education/news/empathy-is-not-a-soft-skill-it-is-the-hardest-skill-we-learn-says-microsoft-ceo-satya-nadella-heres-how-cricket-taught-him-about-leadership/articleshow/133394506.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133394506,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T05:57:19Z",
+    "author": "TOI Education"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Pass on the weed': Ex-India cricketer mocks AB de Villiers over Virat Kohli- Sachin Tendulkar take",
+    "description": "In a recent discussion, former Indian cricketer Dodda Ganesh shared his thoughts on AB de Villiers' statement comparing Virat Kohli and Sachin Tendulkar. While de Villiers lauded Kohli's performance in overseas Test matches, Tendulkar's statistics suggest a m…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pass-on-the-weed-ex-india-cricketer-mocks-ab-de-villiers-over-virat-kohli-sachin-tendulkar-take/articleshow/133394111.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133394253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T05:35:23Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'Pakistan's worst Test side in 50 years': English media rips Pakistan after two days of mediocre cricket at Headingley",
     "description": "English media and pundits have ripped into Pakistan after two days of one-sided, mediocre cricket at the Headingley Test.",
@@ -115,60 +142,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2202/live/16828b90-9cd4-11f1-aed2-8d6da8d75094.jpg",
     "publishedAt": "2026-08-20T20:38:45Z",
     "author": "Jonathan Agnew"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Harry Brook underlines his status as Test cricket's new No 1 batsman with sparkling 91, writes LAWRENCE BOOTH... as England dominate Pakistan to build a commanding lead",
-    "description": "LAWRENCE BOOTH AT HEADINGLEY: The day after being confirmed as Test cricket's new No 1 batsman, Harry Brook celebrated his ascent with a blistering 91 off 93 balls as England dominated.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16067779/harry-brook-world-number-one-batsman-headingley.html",
-    "image": "https://i.dailymail.com/1s/2026/08/20/20/110759839-0-image-a-20_1787254858952.jpg",
-    "publishedAt": "2026-08-20T19:45:20Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Could US sanctions destroy the International Criminal Court?",
-    "description": "Washington's new measures against the ICC have been widely condemned but welcomed by Israel.",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787252825.jpg?resize=1920%2C1080&quality=80",
-    "publishedAt": "2026-08-20T19:38:29Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ranji captaincy incident taught me valuable lessons: Karan",
-    "description": "Karan Sharma reflects on Ranji captaincy removal lessons, discusses UP captaincy hopes, IPL auction snub, and focus on UP T20 League and domestic form.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/ranji-captaincy-incident-taught-me-valuable-lessons-karan/articleshow/133387195.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133387193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T19:27:48Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Man strangles friend to death at cricket ground, held",
-    "description": "Greater Noida murder: Man arrested for allegedly strangling cricket ground worker Jasveer Maurya after a drinking session dispute; case filed under BNS Section 103(1).",
-    "url": "https://timesofindia.indiatimes.com/city/noida/man-strangles-friend-to-death-at-cricket-ground-held/articleshow/133387162.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131882392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T19:21:53Z",
-    "author": "Advitya Bahl"
-  },
-  {
-    "source": "The Times of India",
-    "title": "NGT gives Jaipur, Raipur stadiums one week to reply on water use",
-    "description": "NGT gives Jaipur and Raipur cricket stadiums one week to reply on water use amid scarcity; CGWA to review filings. Next hearing set for Sept 28.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/ngt-gives-jaipur-raipur-stadiums-one-week-to-reply-on-water-use/articleshow/133387097.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-20T19:14:04Z",
-    "author": "Ajay Singh Ugras"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket: Today at the Test",
-    "description": "Day 2 highlights from the Test match between England and Pakistan at Headingley.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0030gkk/cricket-today-at-the-test-england-v-pakistan-2026-first-test-day-2?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5bh6f.jpg",
-    "publishedAt": "2026-08-20T19:00:05Z",
-    "author": null
   }
 ]
 ;
