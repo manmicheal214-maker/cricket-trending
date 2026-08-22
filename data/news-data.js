@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Gossiplankanews.com",
+    "title": "Hashan Tillakaratne is appointed as the new batting coach of the Sri Lanka Cricket team",
+    "description": "Steps have been taken to appoint former strong batsman Hashan Tillakaratne as the new batting coach of the Sri Lanka national cricket team. This appointment, effective from August 20th of this year, will remain valid until December 31st of next year.\r\n<!--gos…",
+    "url": "https://english.gossiplankanews.com/2026/08/hashan-tillakaratne-is-appointed-as-new.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tn5FAdtnAoY9SjaoYpQh_4bg_9uQlcEJfzcrqv92u0yWvkWYARfK7aCRVdqbQ0hL3G2_xjsAUDeGddnMbuvNevdjbaOcLXsTTYXqwOA6cSGZ87AUFE-UXxWc0nmDj0F0OlFP9pNwAP9-Crm9oNHsQB70-cK13fDoz_Ag=w1600",
+    "publishedAt": "2026-08-21T14:20:13Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
     "source": "Dailymail.com",
     "title": "Catchphrase star Roy Walker leads mourners at comedian Jimmy Cricket's funeral alongside TV greats Tommy Cannon and Syd Little in Greater Manchester",
     "description": "Jimmy died aged 80, it was reported on August 3, after taking a break from his tour due to a bout of ill health.",
@@ -223,15 +232,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133393355,width-1200,height-630,imgsize-73400,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-21T04:47:17Z",
     "author": "PTI"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Top End T20: Nepal to face NT Strike in opening match today",
-    "description": "KATHMANDU: Nepal will take on hosts NT Strike in their opening match of the ongoing Top End T20 cricket tournament in Australia today. The match is scheduled to begin at 2:15 pm Nepali time. The Cricket Association of Nepal (CAN) has sent a 15-member Nepal ‘A…",
-    "url": "https://english.khabarhub.com/2026/21/564169/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/cricket-nepal.jpg",
-    "publishedAt": "2026-08-21T04:45:06Z",
-    "author": "Khabarhub"
   }
 ]
 ;
