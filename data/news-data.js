@@ -1,6 +1,15 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Must-win Test, injury-hit squad: Mendis, Chandimal out as Sri Lanka revamp for Colombo clash",
+    "description": "Cricket News: Sri Lanka have added off-spin all-rounder Sahan Arachchige and batter Kamil Mishara to their squad for the second and final Test against India, starti.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/must-win-test-injury-hit-squad-mendis-chandimal-out-as-sri-lanka-revamp-for-colombo-clash/articleshow/133397235.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133397913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T09:01:59Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "TCS joins European T20 Premier League as digital transformation partner",
     "description": "Tata Consultancy Services will partner with the European T20 Premier League. They will develop an AI-powered digital ecosystem for the new cricket league. This partnership aims to enhance fan engagement and live match experiences. Technology will be central t…",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/tcs-joins-european-t20-premier-league-as-digital-transformation-partner/articleshow/133397094.cms",
