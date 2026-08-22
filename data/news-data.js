@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Al Jazeera English",
+    "title": "Australian Hussey open to Ashes Test role as England make approach",
+    "description": "Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England's new red-ball coach.",
+    "url": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20250411__39ZK39P__v1__HighRes__CricketIndIplT20ChennaiKolkata-1787295679.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-08-21T07:37:35Z",
+    "author": null
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "Storms cause flood, tornado warnings in New York City, Tri-State | Live Updates - ABC7 New York",
+    "description": "Storms cause flood, tornado warnings in New York City, Tri-State | Live UpdatesABC7 New York Tornado confirmed in Del. as storms moved through Philly regionNBC10 Philadelphia Storms batter Mid-Atlantic, sparking several tornadoes and widespread flash flooding…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185080046",
+    "image": null,
+    "publishedAt": "2026-08-21T07:32:50Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "RTE",
+    "title": "Family pay tribute to Jimmy Cricket ahead of his funeral",
+    "description": "Mourners are to gather to honour Co Tyrone-born comedian James Mulgrew, known by his stage name Jimmy Cricket, at his funeral in Salford Cathedral, Greater Manchester, this afternoon.",
+    "url": "https://www.rte.ie/entertainment/2026/0821/1588733-family-pay-tribute-to-jimmy-cricket-ahead-of-his-funeral/",
+    "image": "https://www.rte.ie/images/0024dfca-1600.jpg",
+    "publishedAt": "2026-08-21T06:57:54Z",
+    "author": "RTÉ Entertainment"
+  },
+  {
     "source": "Business Standard",
     "title": "BCB chief Tamim Iqbal hints India series date shift, BPL unlikely this year",
     "description": "India have already scheduled a three-match T20 International series against Afghanistan in New Delhi from September 13 to 17",
