@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Delhi leg-spinner Medhavi Bidhuri goes viral with '6-7' celebration, switches No. 12 to No. 67 jersey on sister's suggestion",
+    "description": "Gen Z trends might be catching up with DPL T20's stars as Central Delhi Queens' Medhavi Bidhuri goes viral after her hilarious '6-7' celebration.",
+    "url": "https://www.cricketnews.com/en/cricket/news/delhi-medhavi-bidhuri-viral-6-7-celebration/755607788dea2a12a1fce062",
+    "image": "https://s.yimg.com/lo/mysterio/api/cc5288e333b93bece421afdc07dbbe4c8e757e7ae24d7a14a3f935a330125b06/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9e881dad625eaef2d0151373fed9f034.jpg",
+    "publishedAt": "2026-08-21T12:42:31Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Joe Root creates history in Headingly against Pakistan, moves past Steve Smith in Test cricket",
+    "description": "In a remarkable achievement, Joe Root has eclipsed Steve Smith to become the foremost fielder for Test cricket catches. This significant milestone was celebrated with a crisp catch at leg slip during the opening Test. With a strategic bowling effort, England'…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-in-headingly-against-pakistan-moves-past-steve-smith-in-test-cricket/articleshow/133403351.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133404275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T12:14:56Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan's Ali Usman becomes first visiting left-arm spinner in 16 years to achieve this feat in England",
+    "description": "Usman was Pakistan's standout bowler. He finished with 5/95 from 24 overs and claimed his first five-wicket haul in England. The left-arm spinner also became the first visiting left-arm spinner since Shakib Al Hasan in 2010 to take five wickets in a Test inni…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-ali-usman-becomes-first-visiting-left-arm-spinner-in-16-years-to-achieve-this-feat-in-england/articleshow/133403135.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133403187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T11:37:54Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The-independent.com",
     "title": "Family and fans to gather for funeral of ‘like a light’ Jimmy Cricket",
     "description": "The Northern Irish performer died on August 3 at the age of 80 following a short illness",
@@ -151,15 +178,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133391857,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-21T03:30:40Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "USA Today",
-    "title": "Chargers WR named potential first-time Pro Bowler for 2026",
-    "description": "This Chargers player was tabbed as a potential first-time Pro Bowler for the 2026 season.",
-    "url": "https://chargerswire.usatoday.com/story/sports/nfl/chargers/2026/08/20/chargers-land-mcconkey-potential-pro-bowl/91393668007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/acd59e754e348e4bc9093348eb98d83b4bdabf7d329ad7feff29ce11e9535cb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_chargers_wire_usa_today_sports_articles_602%2Fe8e48744718379e063d4bc863eca8e5a.jpg",
-    "publishedAt": "2026-08-21T00:40:29Z",
-    "author": "Ricardo Sandoval , Chargers Wire"
   }
 ]
 ;
