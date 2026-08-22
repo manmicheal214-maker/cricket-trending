@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The-independent.com",
+    "title": "Family and fans to gather for funeral of ‘like a light’ Jimmy Cricket",
+    "description": "The Northern Irish performer died on August 3 at the age of 80 following a short illness",
+    "url": "https://www.the-independent.com/arts-entertainment/tv/news/jimmy-cricket-funeral-comedian-the-good-old-days-b3036947.html",
+    "image": "https://static.the-independent.com/2026/08/03/16/66303bb183b55238bc7bf600b2affd12Y29udGVudHNlYXJjaGFwaSwxNzg1ODU2NTcw-2.1097816.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "publishedAt": "2026-08-21T10:05:58Z",
+    "author": "Erik Olsson"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Definitely in the scheme of things': India refuse to panic over Kuldeep Yadav after poor Galle outing",
+    "description": "Cricket News: India spin bowling coach Sairaj Bahutule has backed Kuldeep Yadav after his quiet outing in the first Test against Sri Lanka, saying the left-arm wris.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/definitely-in-the-scheme-of-things-india-refuse-to-panic-over-kuldeep-yadav-after-poor-galle-outing/articleshow/133399458.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133399812,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T09:38:50Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Must-win Test, injury-hit squad: Mendis, Chandimal out as Sri Lanka revamp for Colombo clash",
     "description": "Cricket News: Sri Lanka have added off-spin all-rounder Sahan Arachchige and batter Kamil Mishara to their squad for the second and final Test against India, starti.",
