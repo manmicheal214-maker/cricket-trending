@@ -160,24 +160,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/acd59e754e348e4bc9093348eb98d83b4bdabf7d329ad7feff29ce11e9535cb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_chargers_wire_usa_today_sports_articles_602%2Fe8e48744718379e063d4bc863eca8e5a.jpg",
     "publishedAt": "2026-08-21T00:40:29Z",
     "author": "Ricardo Sandoval , Chargers Wire"
-  },
-  {
-    "source": "Roundtable.io",
-    "title": "Potential First-Time Pro Bowler Picked For Jaguars",
-    "description": "Dual-threat phenom Travis Hunter headlines a group of rising Jacksonville stars looking to make their first Pro Bowl this season.",
-    "url": "https://roundtable.io/sports/nfl/jaguars/news/potential-first-time-pro-bowler-picked-for-jaguars",
-    "image": "https://s.yimg.com/lo/mysterio/api/202fa72eb64edbf035b94adcd3b9224563a48afd36bdeb6e142821214d333bc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_jacksonville_jaguars_392%2F0c3bc379c909fc70642f84a72f838ad2.jpg",
-    "publishedAt": "2026-08-20T23:28:51Z",
-    "author": "Jason Klingensmith"
-  },
-  {
-    "source": "Field Gulls",
-    "title": "What Trevon Diggs said in his introductory Seahawks press conference",
-    "description": "The two-time Pro Bowler said he’s trying to show he’s still one of the best in the game.",
-    "url": "https://www.fieldgulls.com/seattle-seahawks-news/172830/seahawks-cornerback-trevon-diggs-press-conference-quotes-video",
-    "image": "https://s.yimg.com/lo/mysterio/api/de0adc6a0f54c4faa23cc259479e034048c80035afaef4039982229a9dc13167/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F50b748468f2ec9a54b86747b6c72a20e.jpg",
-    "publishedAt": "2026-08-20T22:30:00Z",
-    "author": "Jack Freeman"
   }
 ]
 ;
