@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "England batter refuses to walk causing more controversy weeks after ‘Clicky Ponting’ scandal",
+    "description": "The controversial behaviour comes weeks after the 'Clicky Ponting' scandal.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/england-batter-refuses-to-walk-causing-more-controversy-weeks-after-clicky-ponting-scandal/FERR6I2KNNHWZHHECSVLEXSBP4/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/GT4MFDGXJJAJFLEBZLSCXXNXNE.jpg?auth=67ce57416e4bb82dcef937d47bf2e82f8efd695f1963f77fcffe9483247d9f0c&width=1200&height=675&quality=70&focal=1459%2C685&smart=false",
+    "publishedAt": "2026-08-21T03:51:31Z",
+    "author": "Samuel Sherry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Losses, betting probe, corruption: BCB suspends Bangladesh Premier League after years of chaos",
+    "description": "The BPL began in 2012 and is Bangladesh’s biggest domestic cricket tournament. However, it has struggled to match the success of other franchise leagues such as IPL.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/losses-betting-probe-corruption-bcb-suspends-bangladesh-premier-league-after-years-of-chaos/articleshow/133391570.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133391857,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-21T03:30:40Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "USA Today",
     "title": "Chargers WR named potential first-time Pro Bowler for 2026",
     "description": "This Chargers player was tabbed as a potential first-time Pro Bowler for the 2026 season.",
@@ -115,42 +133,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133385717,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-20T18:09:13Z",
     "author": "Suhas Nayse"
-  },
-  {
-    "source": "International Cricket Council",
-    "title": "England issue fitness update on Curran and Jacks | ICC World Test Championship | ICC",
-    "description": "England all-rounder Sam Curran has been dealt an unfortunate impediment to his potential return to Test cricket.\nEngland Cricket have confirmed in a statement that Curran will not feature in the remainder of their home season and will undergo surgery for a gr…",
-    "url": "https://www.icc-cricket.com/news/england-issue-fitness-update-on-curran-and-jacks",
-    "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/jphembslrplcjoqq2fdg",
-    "publishedAt": "2026-08-20T17:29:03Z",
-    "author": "Ellis Callaghan"
-  },
-  {
-    "source": "USA Today",
-    "title": "WR named 'obvious choice' for Panthers' most likely 1st-time Pro Bowler in 2026",
-    "description": "Which Panthers player is most likely to become a first-time Pro Bowler in 2026? One analyst says it's an \"obvious choice.\"",
-    "url": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2026/08/20/tetairoa-mcmillan-panthers-most-likely-1st-time-pro-bowler/91386621007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/2b03cd746dd0828f765e19311ac24a3f60eba6da3157123d0508ce18c03e1317/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcarolina_panthers_wire_usa_today_sports_articles_855%2F8b822855ea8126b61201ae2afcc0d9a1.jpg",
-    "publishedAt": "2026-08-20T17:15:43Z",
-    "author": "Tim Weaver, Panthers Wire"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'They can do something special in 2027': Michael Vaughan feels England can win second ODI World Cup in South Africa",
-    "description": "Michael Vaughan backed England to win their second 50-over title at the 2027 ICC ODI World Cup in South Africa.",
-    "url": "https://www.cricketnews.com/en/cricket/news/michael-vaughan-england-win-second-odi-world-cup-south-africa/0ad866c2c8b116ea4e413eca",
-    "image": "https://s.yimg.com/lo/mysterio/api/1e62abb3e0c4e72303c10100a1c461304a59488c35188033324c6dee82c3781e/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ff013218f9a13e9060fd6021087d35b.jpg",
-    "publishedAt": "2026-08-20T16:47:56Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Joe Root equals Sachin Tendulkar’s record for most fifties in Test cricket",
-    "description": "Joe Root achieved a significant milestone by equaling Sachin Tendulkar's record for most Test half-centuries. He scored his 68th fifty during England's first Test against Pakistan at Headingley. Root and Cox built a crucial partnership to give England a first…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-equals-sachin-tendulkars-record-for-most-fifties-in-test-cricket/articleshow/133383152.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133383239,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-20T16:31:33Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
