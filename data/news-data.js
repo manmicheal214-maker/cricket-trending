@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Punch",
+    "title": "Brentford batter shambolic Spurs 3-0",
+    "description": "Tottenham’s big spending couldn’t prevent a woeful 3-0 defeat to Brentford in their Premier League opener. Discover how Brentford exposed Spurs’ flaws.\n\nRead More: https://punchng.com/brentford-batter-shambolic-spurs-3-0/",
+    "url": "https://punchng.com/brentford-batter-shambolic-spurs-3-0/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/22201055/AFP__20260822__C6AR6Y8__v1__Mockup__FblEngPrBrentfordTottenham_1787425855-1200x630.webp",
+    "publishedAt": "2026-08-22T19:54:32Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Big City Greens S05E08 720p DSNP WEB-DL H264-NTb",
+    "description": "Season 5, Episode 08 – \"Trainer Tilly\"Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Cricke…",
+    "url": "https://post.rlsbb.cc/big-city-greens-s05e08-720p-dsnp-web-dl-h264-ntb/",
+    "image": null,
+    "publishedAt": "2026-08-22T19:37:28Z",
+    "author": "Robotnico"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Big City Greens S05E07 720p DSNP WEB-DL H264-NTb",
+    "description": "Season 5, Episode 07 – “Caging Cricket”Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Crick…",
+    "url": "https://post.rlsbb.cc/big-city-greens-s05e07-720p-dsnp-web-dl-h264-ntb/",
+    "image": null,
+    "publishedAt": "2026-08-22T19:37:28Z",
+    "author": "Robotnico"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Big City Greens S05E06 720p DSNP WEB-DL H264-NTb",
+    "description": "Season 5, Episode 06 – \"Potted Meat\"Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Cricket’…",
+    "url": "https://post.rlsbb.cc/big-city-greens-s05e06-720p-dsnp-web-dl-h264-ntb/",
+    "image": null,
+    "publishedAt": "2026-08-22T19:37:28Z",
+    "author": "Robotnico"
+  },
+  {
     "source": "The Big Lead",
     "title": "Yankees pitcher suddenly leaves game vs Blue Jays with apparent injury",
     "description": "Pitcher Ryan Weathers was suddenly removed from the New York Yankees’ game against the Toronto Blue Jays on Saturday, Aug. 22 with an apparent injury. After throwing a pitch to Blue Jays batter Myles Straw in the fourth inning, he…",
