@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Officials appointed for UP T20 cricket league",
+    "description": "UPCA appoints Sanjay Tiwari as venue director for UP T20 League’s Kanpur leg at Green Park Stadium, starting Aug 28, 2026, with coordinators named.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/officials-appointed-for-up-t20-cricket-league/articleshow/133429610.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-22T17:59:57Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "101 Great Goals",
+    "title": "WATCH: Lewis-Potter and Janelt on target as Brentford batter big-spending Tottenham",
+    "description": "Tottenham endured a dismal start to their Premier League opener at Brentford as a starting XI featuring four new signings fell 2-0 behind.",
+    "url": "https://www.101greatgoals.com/football/premier-league/lewis-potter-janelt-brentford-batter-tottenham/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3FB4JXC-2.jpg",
+    "publishedAt": "2026-08-22T17:26:59Z",
+    "author": "Nicholas McGee"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'Gambhir has no work': Kris Srikkanth slams India coach over handling of Devdutt Padikkal in Indian team",
     "description": "With Devdutt Padikkal fresh off a century against Sri Lanka, former Indian batter Kris Srikkanth slams the Indian coaching staff over the RCB star's handling...",
