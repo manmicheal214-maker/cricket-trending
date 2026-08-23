@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "RT",
+    "title": "The new world won’t be ruled by the ICC’s bias – or Washington’s overreach",
+    "description": "The clash over sanctions on judges reveals a fading order in which neither moral monopoly nor financial coercion can claim legitimacy Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/644535-icc-bias-us-overreach/",
+    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a89c0d785f540426d148679.jpg",
+    "publishedAt": "2026-08-22T16:18:09Z",
+    "author": "RT"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From tape-ball cricket to 'dream of Harmanpreet’s wicket', Maryam Bibi follows her father’s unfulfilled dream",
+    "description": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India. Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage. With aspirations to honor her father's dream, Bibi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-tape-ball-cricket-to-dream-of-harmanpreets-wicket-maryam-bibi-follows-her-fathers-unfulfilled-dream/articleshow/133427056.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133427137,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T15:45:17Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "RT",
     "title": "ICC head decries US sanctions",
     "description": "ICC head Tomoko Akane warned of the collapse of international law after Washington sanctioned her and a senior trial lawyer Read Full Article at RT.com",
     "url": "https://www.rt.com/news/644525-icc-head-us-sanctions-threat/",
@@ -168,60 +186,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youre-paid-the-bigger-bucks-mitchell-starc-and-healys-conversation-lights-up-social-media/articleshow/133419693.cms",
     "image": "https://static.toiimg.com/thumb/msid-133420033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-22T07:52:09Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Say no to captaincy’: Ex-India cricketer’s big warning for Rishabh Pant",
-    "description": "Rishabh Pant's comeback to the Delhi Capitals ignites discussions regarding future captaincy. Former batsman Wasim Jaffer advises Pant to concentrate on regaining his batting form rather than taking on leadership duties just yet. Meanwhile, Axar Patel's capta…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/say-no-to-captaincy-ex-india-cricketers-big-warning-for-rishabh-pant-after-dc-return/articleshow/133418547.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133418700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T06:05:59Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Naturalnews.com",
-    "title": "U.S. Imposes Sanctions On ICC President and Senior Trial Lawyer",
-    "description": "U.S. Secretary of State Marco Rubio designated International Criminal Court President (ICC) Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal for sanctions on Tuesday, Aug. 18, according to BBC News. The action is part of the Trump admin…",
-    "url": "https://www.naturalnews.com/2026-08-22-us-sanctions-icc-president-senior-trial-lawyer.html",
-    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/us-sanctions-international-criminal-court-tomoko-akane-3494-original.jpg",
-    "publishedAt": "2026-08-22T06:00:00Z",
-    "author": "Garrison Vance"
-  },
-  {
-    "source": "BBC News",
-    "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-    "description": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c5yr18gp9j9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/f7c141dc04cff07001858d051b34aea6c80594a57e9bd94da53dac5fe074ca4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F581ab986f9e8ad9c29e4a4d47f7958c7.jpg",
-    "publishedAt": "2026-08-22T05:47:06Z",
-    "author": "Stephan Shemilt - Cricket Correspondent at Headingley"
-  },
-  {
-    "source": "BBC News",
-    "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-    "description": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-08-22T05:47:00Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Starc claims five wickets as Australia rattle Bangladesh in opening session",
-    "description": "Mitchell Starc removed Bangladesh opener Shadman Islam with the first ball of the match and the veteran Australian fast bowler took five wickets in the first session of the second cricket test Saturday.\nAfter Australia won the toss and decided to bowl, with c…",
-    "url": "https://www.business-standard.com/cricket/news/starc-claims-five-wickets-as-australia-rattle-bangladesh-in-opening-session-126082200124_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/03/thumb/fitandfill/1200X628/1725350043-2137.jpg",
-    "publishedAt": "2026-08-22T05:46:24Z",
-    "author": "AP"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Starc scripts history vs Bangladesh, breaks James Anderson's unique first over record",
-    "description": "After winning the toss, Australia captain Pat Cummins chose to field and Mitchell Starc made an impact with the first ball. He dismissed Shadman Islam for a duck, registering his ninth first-over wicket in Test cricket and moving past England's James Anderson…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-scripts-history-vs-bangladesh-breaks-james-andersons-unique-first-over-record/articleshow/133418068.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133418068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T05:46:15Z",
     "author": "TOI Sports Desk"
   }
 ]
