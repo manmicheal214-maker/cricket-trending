@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Don't see what we're losing': Ricky Ponting urges Australia selectors to move on from Marnus Labuschagne in Test cricket",
+    "description": "Ricky Ponting explains why Australia to move on from Marnus Labuschagne in Test cricket, highlighting his technical issues, poor form and players who should replace him.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ricky-ponting-australia-selectors-move-marnus-labuschagne-test-cricket/980e7645f9066035094819ce",
+    "image": "https://s.yimg.com/lo/mysterio/api/81b1d952740f5848c8ebde032151c6e1e157798d262de4f468d47f5b0a734f71/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa2ceb07549c3d7619d0f43773f090bb2.jpg",
+    "publishedAt": "2026-08-22T11:14:08Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Test cricket is dying': Chaminda Vaas urges boards to protect format",
+    "description": "The former Sri Lanka pacer made the comments amid a growing debate over the future of bilateral cricket and the increasing importance of franchise-based T20 leagues. Vaas, who took 400 wickets in ODIs and 355 in Tests, said cricket boards need to work togethe…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/test-cricket-is-dying-chaminda-vaas-urges-boards-to-protect-format/articleshow/133422464.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133422766,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T11:05:52Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "No Headingley Ashes Test next year makes no sense - imagine Australia leaving the Gabbatoir off their roster, writes RICHARD GIBSON",
+    "description": "RICHARD GISBON: As England celebrated their historic Headingley success, the absence of Test cricket here next summer made less and less sense. The home of Graves.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16071847/england-ashes-headingley-richard-gibson.html",
+    "image": "https://i.dailymail.com/1s/2026/08/22/11/110788721-0-image-m-64_1787395658346.jpg",
+    "publishedAt": "2026-08-22T11:00:46Z",
+    "author": "Richard Gibson"
+  },
+  {
     "source": "The Times of India",
     "title": "‘Real life has a lot of Test matches’: Jaishankar says diplomacy cannot always be reduced to T20-style quick wins",
     "description": "S Jaishankar, the External Affairs Minister, articulated that effective diplomacy requires a long-term perspective and patience, much like the unfolding of a Test cricket match. He highlighted the challenges of achieving quick resolutions in the realm of inte…",
@@ -187,24 +214,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/6cf3fd512feff0244769e5ec7b5a6f092abc6853dcde27d0abfbf18b49287150/lightyear_networkapi/resizefill_w1047_h590%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fbce8edab215e68ffe3d99fc97130fb5d.jpg",
     "publishedAt": "2026-08-21T23:18:18Z",
     "author": "Parker Hurley"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Texans Expected to Pass on Pro Bowler Amid Apparent Interest",
-    "description": "The Houston Texans are not expected to pursue an option in free agency that could fill the void left by Jayden Higgins in DeAndre Hopkins. The post Texans Expected to Pass on Pro Bowler Amid Apparent Interest appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/houston-texans/hopkins-georgia-tech-higgins-injury-hutchinson/",
-    "image": "https://s.yimg.com/lo/mysterio/api/86e69dd0591aca34050f78d429d857ef79aa64aac6c12e325340125a773f4735/lightyear_networkapi/resizefill_w735_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F47cee845bcfffb55f10c873e769c085e.jpg",
-    "publishedAt": "2026-08-21T22:12:44Z",
-    "author": "Josh Buckhalter"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'They won because they were taller': Rashid Latif's hilarious justification for Pakistan's 1st Test defeat to England",
-    "description": "While Pakistan might have lost the first Test against England, the internet was sent rolling with laughter as former Pakistan cricketer made hilarious justifications for the loss.",
-    "url": "https://www.cricketnews.com/en/cricket/news/won-taller-rashid-latif-justification-pakistan-test-defeat-england/eaa1bafc801ce6a02f95f0ac",
-    "image": "https://s.yimg.com/lo/mysterio/api/bf3405763d8b21d3aa7a913428f5f0818f494e513da5a9cde196f876256c33a6/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99415fd084b5f5d95fa7948b00260dda.jpg",
-    "publishedAt": "2026-08-21T19:18:32Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
