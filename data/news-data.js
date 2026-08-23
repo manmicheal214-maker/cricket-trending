@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "New Zealand to play controversial England cricket team in Over-60 World Cup final",
+    "description": "The batter refused to leave the pitch after being given out in the Over-60 World Cup.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/new-zealand-to-play-controversial-england-cricket-team-in-over-60-world-cup-final/P23PFTRTP5DBPAJ3AQ5ZBCTTU4/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/AUEFA6CGGBAIHHCBJFWYYZR5LE.png?auth=c11198e3947b5175e85d2f8fb36dc67d9728c07b59d8651f150d2ff6959d900c&width=1200&height=675&quality=70&focal=319%2C640&smart=false",
+    "publishedAt": "2026-08-22T01:23:12Z",
+    "author": "Samuel Sherry"
+  },
+  {
     "source": "Heavy.com",
     "title": "Lions Named Best Fit for Former Pro Bowl Playmaker",
     "description": "The injury status of Detroit Lions tight end Sam LaPorta remains unclear. That, and a thin room behind him, make the Lions a great fit for veteran free agent Jonnu Smith, according to Kristopher Knox of Bleacher Report.Knox notes that Smith was a Pro Bowler a…",
@@ -151,69 +160,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/21/14/110773743-0-image-m-26_1787318808099.jpg",
     "publishedAt": "2026-08-21T13:33:45Z",
     "author": "Rebecca Davison"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-England bowler Cross to retire at end of summer",
-    "description": "Former England bowler Kate Cross, praised for her \"incredible contribution\" to the women's game, to retire from cricket at the end of the summer.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cx2med7kv2yo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/4659838400db48e1abe5cb2372fed1919a534e52cbed6cb546347be69f58a02c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8488cf54ecd8af8598190729f90d9308.jpg",
-    "publishedAt": "2026-08-21T13:22:50Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-England bowler Cross to retire at end of summer",
-    "description": "Former England bowler Kate Cross, praised for her \"incredible contribution\" to the women's game, to retire from cricket at the end of the summer.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2med7kv2yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fceb/live/dd786700-9d61-11f1-a291-b542ee92de7c.jpg",
-    "publishedAt": "2026-08-21T13:22:45Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "The Times of India",
-    "title": "TCS makes a fresh push into cricket with new digital partnership",
-    "description": "Under the partnership, TCS will work on the league's digital ecosystem, including fan engagement, ticketing, live match experiences and personalised content. The company will also use data and artificial intelligence across areas such as player development an…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tcs-makes-a-fresh-push-into-cricket-with-new-digital-partnership/articleshow/133405644.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133405673,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-21T13:17:00Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Trump's war on the ICC sparks warning over 'the demise of the international rule of law'",
-    "description": "International Criminal Court President Tomoko Akane of Japan warned on Friday against 'the demise of international rule of law' after the United States targeted her with sanctions.",
-    "url": "https://www.dailymail.com/news/article-16069915/Trumps-war-ICC-demise-international-rule-law.html",
-    "image": "https://i.dailymail.com/1s/2026/08/21/14/110773595-0-image-a-9_1787317426945.jpg",
-    "publishedAt": "2026-08-21T13:07:07Z",
-    "author": "Imogen Garfinkel"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ET World Leaders Forum: Broader media economics key to cricket's success, says JioStar's Uday Shankar",
-    "description": "JioStar Vice Chairman Uday Shankar said cricket’s long-term success depends on broader media economics, beyond stadium attendance, as traditional media faces pressure from changing advertising models. Speaking at the ET World Leaders Forum, he also discussed …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/et-world-leaders-forum-broader-media-economics-key-to-crickets-success-says-jiostars-uday-shankar/articleshow/133405479.cms",
-    "image": "https://img.etimg.com/thumb/msid-133405467,width-1200,height-630,imgsize-75826,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-21T13:05:20Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ET World Leaders Forum: Broader media economics key to cricket's success, says JioStar's Uday Shankar",
-    "description": "JioStar Vice Chairman Uday Shankar said cricket’s long-term success depends on broader media economics, beyond stadium attendance, as traditional media faces pressure from changing advertising models. Speaking at the ET World Leaders Forum, he also discussed …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/et-world-leaders-forum-broader-media-economics-key-to-crickets-success-says-jiostars-uday-shankar/articleshow/133405358.cms",
-    "image": "https://img.etimg.com/thumb/msid-133405467,width-1200,height-630,imgsize-75826,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-21T13:05:20Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'CSK for life': Khaleel Ahmed responds to IPL 2027 trade rumours after R Ashwin's release claim",
-    "description": "After R Ashwin had some comments to say on Khaleel Ahmed's position in the 2027 trade saga, the CSK star quickly responded to the statement by a digging Instagram post.",
-    "url": "https://www.cricketnews.com/en/cricket/news/csk-khaleel-ahmed-ipl-2027-trade-rumours-r-ashwin-release-claim/da9a8f2df322b7c552f9df9b",
-    "image": "https://s.yimg.com/lo/mysterio/api/62924cc3fd95fc2b4f3899ece6c6e91d56bda2f02ea59ce18887fc264aaa86d8/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F872cef530524665ba344d34dbe737acb.jpg",
-    "publishedAt": "2026-08-21T13:05:13Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
