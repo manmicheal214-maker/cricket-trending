@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Ashwin, Rahane's presence will lift ETPL profile: Glasgow Cosmic's Keshav Maharaj",
+    "description": "Keshav Maharaj expects Indian stars Ashwin and Rahane to boost the European T20 Premier League's profile. Their participation will attract fans and create awareness for the inaugural competition. Maharaj respects both cricketers for their talent and leadershi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ashwin-rahanes-presence-will-lift-etpl-profile-glasgow-cosmics-keshav-maharaj/articleshow/133424648.cms",
+    "image": "https://img.etimg.com/thumb/msid-133424657,width-1200,height-630,imgsize-144952,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-22T12:45:57Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Mumbai Indians land former RR director who scouted Vaibhav Sooryavanshi and Yashasvi Jaiswal ahead of IPL 2027",
+    "description": "Mumbai Indians have appointed former RR head of cricket Zubin Bharucha, who scouted Yashasvi Jaiswal and Vaibhav Sooryavanshi, as Director of Performance.",
+    "url": "https://www.cricketnews.com/en/cricket/news/mumbai-indians-former-rr-director-scouted-sooryavanshi-jaiswal/11aa5d75af6a70ebfcf8dcaa",
+    "image": "https://s.yimg.com/lo/mysterio/api/f77613851c41b48083e2269a32bf7355bae181ef36f701d0fd557185bef76648/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb7b5b4c624d85b9bd6bb0708d7c96ac6.jpg",
+    "publishedAt": "2026-08-22T12:40:32Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "A prediction about Suryavanshi from Rahul Dravid",
+    "description": "Rahul Dravid, former captain and head coach of the Indian cricket team, states that the rising 15-year-old batting prodigy Vaibhav Suryavanshi could be a key factor in the revival of future Test cricket. Speaking at a press conference in Dublin, where he join…",
+    "url": "https://english.gossiplankanews.com/2026/08/a-prediction-about-suryavanshi-from.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tL47ClHJm9SyW7kX8Z40uHM5Ru3vwrCe4yZSfAHtLqmhy6he01Z0MlnSGm3AfWkG6P1quBtiWjwXd876VvEtM_Isbl8CatVsztaK2hKZYBU1hWBTk6N1p1Bi0n_FzYDo_EIrPrg0muM_FINmh0o4_v0W_Nq1jwMmQBsnc=w1600",
+    "publishedAt": "2026-08-22T12:30:30Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After Joe Root, Ben Stokes calls ECB decision 'shambolic' over Headingley’s 2027 Ashes exclusion",
+    "description": "Ben Stokes has taken a bold stance against the England and Wales Cricket Board after they decided to exclude Headingley and Old Trafford from the 2027 men's Ashes lineup. This controversial move has sparked backlash among players and fans due to the historica…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-joe-root-ben-stokes-calls-ecb-decision-shambolic-over-headingleys-2027-ashes-exclusion/articleshow/133423450.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133423554,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T11:53:38Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "\"Rankings do not matter\": Gambhir says India heading in right direction in Tests amid team transition",
+    "description": "Coach Gautam Gambhir stated India is undergoing a Test cricket transition phase.  He dismissed concerns over rankings, asserting the team is moving forward.  Young players Devdutt Padikkal and Manav Suthar made immediate impacts in the first Test.  Gambhir pr…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rankings-do-not-matter-gambhir-says-india-heading-in-right-direction-in-tests-amid-team-transition/articleshow/133423169.cms",
+    "image": "https://img.etimg.com/thumb/msid-133423199,width-1200,height-630,imgsize-14296,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-22T11:31:46Z",
+    "author": "ANI"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'Don't see what we're losing': Ricky Ponting urges Australia selectors to move on from Marnus Labuschagne in Test cricket",
     "description": "Ricky Ponting explains why Australia to move on from Marnus Labuschagne in Test cricket, highlighting his technical issues, poor form and players who should replace him.",
@@ -196,24 +241,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/22/04/110786717-0-image-m-24_1787368887156.jpg",
     "publishedAt": "2026-08-22T03:22:19Z",
     "author": "Savanna Young"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "New Zealand to play controversial England cricket team in Over-60 World Cup final",
-    "description": "The batter refused to leave the pitch after being given out in the Over-60 World Cup.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/new-zealand-to-play-controversial-england-cricket-team-in-over-60-world-cup-final/P23PFTRTP5DBPAJ3AQ5ZBCTTU4/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/AUEFA6CGGBAIHHCBJFWYYZR5LE.png?auth=c11198e3947b5175e85d2f8fb36dc67d9728c07b59d8651f150d2ff6959d900c&width=1200&height=675&quality=70&focal=319%2C640&smart=false",
-    "publishedAt": "2026-08-22T01:23:12Z",
-    "author": "Samuel Sherry"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Lions Named Best Fit for Former Pro Bowl Playmaker",
-    "description": "The injury status of Detroit Lions tight end Sam LaPorta remains unclear. That, and a thin room behind him, make the Lions a great fit for veteran free agent Jonnu Smith, according to Kristopher Knox of Bleacher Report.Knox notes that Smith was a Pro Bowler a…",
-    "url": "https://heavy.com/sports/nfl/detroit-lions/jonnu-smith-sign-laporta/",
-    "image": "https://s.yimg.com/lo/mysterio/api/6cf3fd512feff0244769e5ec7b5a6f092abc6853dcde27d0abfbf18b49287150/lightyear_networkapi/resizefill_w1047_h590%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fbce8edab215e68ffe3d99fc97130fb5d.jpg",
-    "publishedAt": "2026-08-21T23:18:18Z",
-    "author": "Parker Hurley"
   }
 ]
 ;
