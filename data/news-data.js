@@ -1,6 +1,60 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "‘Say no to captaincy’: Ex-India cricketer’s big warning for Rishabh Pant",
+    "description": "Rishabh Pant's comeback to the Delhi Capitals ignites discussions regarding future captaincy. Former batsman Wasim Jaffer advises Pant to concentrate on regaining his batting form rather than taking on leadership duties just yet. Meanwhile, Axar Patel's capta…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/say-no-to-captaincy-ex-india-cricketers-big-warning-for-rishabh-pant-after-dc-return/articleshow/133418547.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133418700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T06:05:59Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Naturalnews.com",
+    "title": "U.S. Imposes Sanctions On ICC President and Senior Trial Lawyer",
+    "description": "U.S. Secretary of State Marco Rubio designated International Criminal Court President (ICC) Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal for sanctions on Tuesday, Aug. 18, according to BBC News. The action is part of the Trump admin…",
+    "url": "https://www.naturalnews.com/2026-08-22-us-sanctions-icc-president-senior-trial-lawyer.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/us-sanctions-international-criminal-court-tomoko-akane-3494-original.jpg",
+    "publishedAt": "2026-08-22T06:00:00Z",
+    "author": "Garrison Vance"
+  },
+  {
+    "source": "BBC News",
+    "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
+    "description": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c5yr18gp9j9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/f7c141dc04cff07001858d051b34aea6c80594a57e9bd94da53dac5fe074ca4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F581ab986f9e8ad9c29e4a4d47f7958c7.jpg",
+    "publishedAt": "2026-08-22T05:47:06Z",
+    "author": "Stephan Shemilt - Cricket Correspondent at Headingley"
+  },
+  {
+    "source": "BBC News",
+    "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
+    "description": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-08-22T05:47:00Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Starc claims five wickets as Australia rattle Bangladesh in opening session",
+    "description": "Mitchell Starc removed Bangladesh opener Shadman Islam with the first ball of the match and the veteran Australian fast bowler took five wickets in the first session of the second cricket test Saturday.\nAfter Australia won the toss and decided to bowl, with c…",
+    "url": "https://www.business-standard.com/cricket/news/starc-claims-five-wickets-as-australia-rattle-bangladesh-in-opening-session-126082200124_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/03/thumb/fitandfill/1200X628/1725350043-2137.jpg",
+    "publishedAt": "2026-08-22T05:46:24Z",
+    "author": "AP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mitchell Starc scripts history vs Bangladesh, breaks James Anderson's unique first over record",
+    "description": "After winning the toss, Australia captain Pat Cummins chose to field and Mitchell Starc made an impact with the first ball. He dismissed Shadman Islam for a duck, registering his ninth first-over wicket in Test cricket and moving past England's James Anderson…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-scripts-history-vs-bangladesh-breaks-james-andersons-unique-first-over-record/articleshow/133418068.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133418068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T05:46:15Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "Kuldeep Yadav or Saransh Jain? India face selection dilemma ahead of Colombo Test",
     "description": "Kuldeep Yadav is currently navigating a challenging phase in his cricketing career after being excluded from the latest series. His IPL stint with Delhi Capitals has not met expectations, and he only managed to secure one wicket in the initial Test against Sr…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-india-face-selection-dilemma-ahead-of-colombo-test/articleshow/133418057.cms",
@@ -151,42 +205,6 @@ window.cricketNews = [
     "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21348456.thumb",
     "publishedAt": "2026-08-21T17:18:50Z",
     "author": "thegoatgamer"
-  },
-  {
-    "source": "Sky Sports",
-    "title": "Hussain: Not trying to emulate Stokes - Root was just Root",
-    "description": "Nasser Hussain praised Joe Root’s “maturity” after England’s win over Pakistan at Headingley, while Stuart Broad hailed Josh Tongue as “England’s best bowler”; watch the second Test at Lord’s live on Sky Sports Cricket from 10am Thursday",
-    "url": "https://www.skysports.com/cricket/news/12080/13575426/england-vs-pakistan-nasser-hussain-praises-maturity-in-joe-roots-return-as-captain-after-dominant-three-day-win-at-headingley",
-    "image": "https://e0.365dm.com/26/08/1600x900/skysports-joe-root_7326657.jpg?20260820161411",
-    "publishedAt": "2026-08-21T17:00:00Z",
-    "author": "Nasser Hussain"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Bizarre cricket': Nasser Hussain slams Mohammad Rizwan for exposing Pakistan tailender in humiliating loss vs England",
-    "description": "With Pakistan losing the 1st Test at Headingly by an Innings and 103 runs, former English skipper Nasser Hussain slams Rizwan and Pakistan.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bizarre-nasser-hussain-mohammad-rizwan-exposing-pakistan-tailender-loss-england/b0d31d503b7063e5dc289a1c",
-    "image": "https://s.yimg.com/lo/mysterio/api/e987dc7d01f2449408ac8a1028cfaec2999288d44103c3715c5bf63e7ad6732e/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa485d957a0b4ce89650f850ada82243d.jpg",
-    "publishedAt": "2026-08-21T16:19:39Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Top End T20 Series: Nepal A suffers eight-wicket defeat to Northern Territory Strike",
-    "description": "KATHMANDU: Nepal A suffered an eight-wicket defeat against Northern Territory Strike in its opening match of the Top End T20 Series in Australia. Batting first after losing the toss at the Marrara Cricket Ground, Nepal A posted 122 runs. Northern Territory St…",
-    "url": "https://english.khabarhub.com/2026/21/564297/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Cricket-Pawan.jpg",
-    "publishedAt": "2026-08-21T16:08:41Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "England pacer Kate Cross announces retirement from professional cricket",
-    "description": "England fast bowler Kate Cross has announced her retirement from professional cricket, saying the ongoing English summer will be her final season. Cross, who debuted for England in 2013, made 102 international appearances across formats and took 140 wickets. …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/england-pacer-kate-cross-announces-retirement-from-professional-cricket/articleshow/133408825.cms",
-    "image": "https://img.etimg.com/thumb/msid-133408824,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-21T16:04:26Z",
-    "author": "ANI"
   }
 ]
 ;
