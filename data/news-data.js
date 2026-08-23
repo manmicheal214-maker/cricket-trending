@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Starc unleashes havoc as Australia bowl Bangladesh out for 64 in second Test",
+    "description": "After winning the toss, Australia captain Pat Cummins chose to bowl first, and Mitchell Starc made an immediate impact. The left-arm fast bowler finished with 6/12 after completing the sixth-fastest five-wicket haul in Test cricket.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-unleashes-havoc-as-australia-bowl-bangladesh-out-for-64-after-darwin-disaster/articleshow/133416924.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133417084,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T04:04:00Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "CNA",
+    "title": "Bangladesh bowled out for 64 in first innings of second test v Australia",
+    "description": "Aug 22 : Australia fast bowler Mitchell Starc took five wickets in 22 balls as Bangladesh were bowled out for 64 in their first innings after lunch on day one of the second test in Mackay, Queensland on Saturday.• Left-armer Starc finished with 6-12 after com…",
+    "url": "https://www.channelnewsasia.com/sport/bangladesh-bowled-out-64-in-first-innings-second-test-v-australia-6334586",
+    "image": "https://dam.mediacorp.sg/image/upload/s--svt8XEB1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-22T034945Z_1_LYNXMPEM7L01C_RTROPTP_3_CRICKET-ASHES.JPG?itok=MvcvXpPf",
+    "publishedAt": "2026-08-22T03:49:45Z",
+    "author": null
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal A takes on Bangladesh High Performance in search of first win",
+    "description": "KATHMANDU: Nepal A will face Bangladesh High Performance today in the ongoing Top End T20 Series in Australia, hoping to secure its first victory after losing its opening match to Northern Territory Strike by eight wickets. According to the Nepal Cricket Asso…",
+    "url": "https://english.khabarhub.com/2026/22/564319/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Cricket-Pawan.jpg",
+    "publishedAt": "2026-08-22T03:45:18Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Lowest score in Test cricket history: Full list of lowest team totals",
+    "description": "Compiling a list of the lowest scores in Test cricket history, including New Zealand’s 26, West Indies’ 27 and the lowest team totals ever.",
+    "url": "https://www.cricketnews.com/en/cricket/news/lowest-score-test-cricket-history-full-list-team-totals/16c6acbc2f58cbe8968dbc30",
+    "image": "https://s.yimg.com/lo/mysterio/api/4c9317de2d0594f449c9b26e899aeaac235a51a5967fd9e88e352a3885be9f84/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd34b6404fe2a03d491735f08d5aab5c0.jpg",
+    "publishedAt": "2026-08-22T03:45:00Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Cricketer Georgia Voll keeps a low profile as she returns to Australia following explosive cheating scandal",
+    "description": "The woman at the centre of the cheating scandal that rocked Australian women's cricket has quietly returned home.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16071429/georgia-voll-ashleigh-gardner-monica-wright-affair-cricket.html",
+    "image": "https://i.dailymail.com/1s/2026/08/22/04/110786717-0-image-m-24_1787368887156.jpg",
+    "publishedAt": "2026-08-22T03:22:19Z",
+    "author": "Savanna Young"
+  },
+  {
     "source": "New Zealand Herald",
     "title": "New Zealand to play controversial England cricket team in Over-60 World Cup final",
     "description": "The batter refused to leave the pitch after being given out in the Over-60 World Cup.",
@@ -124,33 +169,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133408824,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-21T16:04:26Z",
     "author": "ANI"
-  },
-  {
-    "source": "BBC News",
-    "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
-    "description": "Who should be plugged in as attack leader? Which England batter's dismissal is a problem? Player ratings from the hosts' victory over Pakistan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c78g2v5ge26o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/f91ed6e63250d7b44f37c0e3620db7e33d9d8db59149cc4d195b38105860fe54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff189cc0b79e250bf16ad6e4648b4c030.jpg",
-    "publishedAt": "2026-08-21T15:06:07Z",
-    "author": "Matthew Henry - BBC Sport Journalist at Headingley"
-  },
-  {
-    "source": "BBC News",
-    "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
-    "description": "Who should be plugged in as attack leader? Which England batter's dismissal is a problem? Player ratings from the hosts' victory over Pakistan.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c78g2v5ge26o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b315/live/e99e38e0-9d6e-11f1-a291-b542ee92de7c.jpg",
-    "publishedAt": "2026-08-21T14:59:05Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Hashan Tillakaratne is appointed as the new batting coach of the Sri Lanka Cricket team",
-    "description": "Steps have been taken to appoint former strong batsman Hashan Tillakaratne as the new batting coach of the Sri Lanka national cricket team. This appointment, effective from August 20th of this year, will remain valid until December 31st of next year.\r\n<!--gos…",
-    "url": "https://english.gossiplankanews.com/2026/08/hashan-tillakaratne-is-appointed-as-new.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tn5FAdtnAoY9SjaoYpQh_4bg_9uQlcEJfzcrqv92u0yWvkWYARfK7aCRVdqbQ0hL3G2_xjsAUDeGddnMbuvNevdjbaOcLXsTTYXqwOA6cSGZ87AUFE-UXxWc0nmDj0F0OlFP9pNwAP9-Crm9oNHsQB70-cK13fDoz_Ag=w1600",
-    "publishedAt": "2026-08-21T14:20:13Z",
-    "author": "noreply@blogger.com (Unknown)"
   }
 ]
 ;
