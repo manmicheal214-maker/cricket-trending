@@ -1,5 +1,23 @@
 [
   {
+    "source": "RT",
+    "title": "ICC head decries US sanctions",
+    "description": "ICC head Tomoko Akane warned of the collapse of international law after Washington sanctioned her and a senior trial lawyer Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/644525-icc-head-us-sanctions-threat/",
+    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a89acbd20302747922add02.jpg",
+    "publishedAt": "2026-08-22T15:12:41Z",
+    "author": "RT"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "NHTSA Expands Probe Into 997,000 GM V-8 Trucks and SUVs After Reported Post-Recall Engine Failures",
+    "description": "On Thursday, the National Highway Traffic Safety Administration's (NHTSA) Office of Defects Investigation (ODI) announced it has opened an engineering analysis investigation regarding continued consumer complaints surrounding post-remedy engine failures in ve…",
+    "url": "https://biztoc.com/x/9cea377ee0c2c911",
+    "image": "https://biztoc.com/cdn/9cea377ee0c2c911_s.webp",
+    "publishedAt": "2026-08-22T15:06:26Z",
+    "author": "roadandtrack.com"
+  },
+  {
     "source": "Biztoc.com",
     "title": "England's new era has lift-off after win over pitiful Pakistan | The Telegraph Cricket Podcast",
     "description": "England are up and running in the post Bazball era! Jake, Nick and Will reflect on their dominant win over Pakistan and ask how ...",
@@ -205,23 +223,5 @@
     "image": "https://static.toiimg.com/thumb/msid-133418068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-22T05:46:15Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kuldeep Yadav or Saransh Jain? India face selection dilemma ahead of Colombo Test",
-    "description": "Kuldeep Yadav is currently navigating a challenging phase in his cricketing career after being excluded from the latest series. His IPL stint with Delhi Capitals has not met expectations, and he only managed to secure one wicket in the initial Test against Sr…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-india-face-selection-dilemma-ahead-of-colombo-test/articleshow/133418057.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133418105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T05:33:45Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Starc tears through Bangladesh with six-wicket haul as Australia dominate second Test at Mackay",
-    "description": "Mitchell Starc took six wickets for twelve runs as Bangladesh was bowled out for sixty-four. He became the first bowler to take a wicket on the opening ball nine times. Captain Pat Cummins also contributed three wickets to the visitors' low score. Australia l…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mitchell-starc-tears-through-bangladesh-with-six-wicket-haul-as-australia-dominate-second-test-at-mackay/articleshow/133417840.cms",
-    "image": "https://img.etimg.com/thumb/msid-133417876,width-1200,height-630,imgsize-80026,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-22T05:28:38Z",
-    "author": "ET Online"
   }
 ]
