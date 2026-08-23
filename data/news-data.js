@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Gambhir has no work': Kris Srikkanth slams India coach over handling of Devdutt Padikkal in Indian team",
+    "description": "With Devdutt Padikkal fresh off a century against Sri Lanka, former Indian batter Kris Srikkanth slams the Indian coaching staff over the RCB star's handling...",
+    "url": "https://www.cricketnews.com/en/cricket/news/gambhir-kris-srikkanth-slams-india-coach-handling-devdutt-padikkal/fe885ef553983f217c688229",
+    "image": "https://s.yimg.com/lo/mysterio/api/26b43df3ef708f9623193f469acafbbc687b33af52bd0fc4991ea993b2ef856f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc44beeda9a8a894e132ab1fc100c5805.jpg",
+    "publishedAt": "2026-08-22T16:35:15Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "RT",
     "title": "The new world won’t be ruled by the ICC’s bias – or Washington’s overreach",
     "description": "The clash over sanctions on judges reveals a fading order in which neither moral monopoly nor financial coercion can claim legitimacy Read Full Article at RT.com",
@@ -169,24 +178,6 @@ window.cricketNews = [
     "image": "https://live-production.wcms.abc-cdn.net.au/d80657cfe3dd7467041b5cc3af386f9b?impolicy=wcms_watermark_news&cropH=2628&cropW=4672&xPos=0&yPos=185&width=862&height=485&imformat=generic",
     "publishedAt": "2026-08-22T09:11:19Z",
     "author": "Danielle Jesser, Jeremy Jones, and Cristy-Lee Macqueen"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Vaibhav Sooryavanshi hasn’t played as much red-ball cricket’: Rahul Dravid’s blunt assessment of Test prospects",
-    "description": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavans…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133420090,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T07:53:11Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'You're paid the bigger bucks': Mitchell Starc and Healy's conversation lights up social media",
-    "description": "Cricket News: Australia responded to their nine-wicket defeat in the first Test by bowling Bangladesh out for 64 on the opening day of the second Test in Mackay on .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youre-paid-the-bigger-bucks-mitchell-starc-and-healys-conversation-lights-up-social-media/articleshow/133419693.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133420033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T07:52:09Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
