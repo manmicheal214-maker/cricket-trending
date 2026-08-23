@@ -1,6 +1,33 @@
 [
   {
     "source": "The Times of India",
+    "title": "FDA shuts down all restaurants and bars at MCA's BKC facility in Mumbai",
+    "description": "The FDA suspended the Mumbai Cricket Association's Bandra-Kurla Complex facility food license. This action followed similar suspensions for The Bombay Presidency Radio Club and Khar Gymkhana. McDonald's Colaba also faced license suspension due to hygiene viol…",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/fda-shuts-down-all-restaurants-and-bars-at-mcas-bkc-facility-in-mumbai/articleshow/133420809.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133421216,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-22T09:21:56Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "T20 is the future, but boards should preserve Test and ODI formats: Chaminda Vaas",
+    "description": "Chaminda Vaas advocates for preserving Test and 50-over cricket formats. He believes T20 cricket is the game for the future. Vaas stresses the need for boards to support traditional formats. He suggests improving Sri Lanka's domestic cricket structure. Identi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/preserving-test-and-odi-cricket-chaminda-vaas-advocates-for-tradition-amid-t20-boom/articleshow/133421039.cms",
+    "image": "https://img.etimg.com/thumb/msid-133421136,width-1200,height-630,imgsize-124600,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-22T09:13:56Z",
+    "author": "PTI"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Mackay makes cricket history as day one of inaugural Test match sells out",
+    "description": "Barry Jansen mortgaged his house to help build a cricket arena in the Queensland city of Mackay. Forty years later his club is hosting its first international Test match.",
+    "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
+    "image": "https://live-production.wcms.abc-cdn.net.au/d80657cfe3dd7467041b5cc3af386f9b?impolicy=wcms_watermark_news&cropH=2628&cropW=4672&xPos=0&yPos=185&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-22T09:11:19Z",
+    "author": "Danielle Jesser, Jeremy Jones, and Cristy-Lee Macqueen"
+  },
+  {
+    "source": "The Times of India",
     "title": "‘Vaibhav Sooryavanshi hasn’t played as much red-ball cricket’: Rahul Dravid’s blunt assessment of Test prospects",
     "description": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavans…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
@@ -169,14 +196,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/bf3405763d8b21d3aa7a913428f5f0818f494e513da5a9cde196f876256c33a6/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99415fd084b5f5d95fa7948b00260dda.jpg",
     "publishedAt": "2026-08-21T19:18:32Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket: Today at the Test",
-    "description": "Day 3 highlights from the Test match between England and Pakistan at Headingley.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0030g25/cricket-today-at-the-test-england-v-pakistan-2026-first-test-day-3?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p5qk3z.jpg",
-    "publishedAt": "2026-08-21T19:01:00Z",
-    "author": null
   }
 ]
