@@ -196,15 +196,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-08-21T17:33:12Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "Slickdeals.net",
-    "title": "Cricket Wireless: 128GB Apple iPhone 16e (Locked) + 3-Mo. Supreme Unlimited Plan $190 w/ Port-In + Free S&H",
-    "description": "Apple iPhone 16e black (Locked to Cricket for 1 year) [cricketwireless.com] at $9.99 + 3 months of Supreme Unlimited Plan prepaid at $60/month. After 3 months, you can change your plan to a cheaper...",
-    "url": "https://slickdeals.net/f/19905795-cricket-iphone-16e-locked-3-months-of-service-189-99",
-    "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21348456.thumb",
-    "publishedAt": "2026-08-21T17:18:50Z",
-    "author": "thegoatgamer"
   }
 ]
 ;
