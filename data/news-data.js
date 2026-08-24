@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "New York Post",
+    "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
+    "description": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
+    "url": "https://nypost.com/2026/08/23/sports/ceedee-lamb-had-300k-worth-of-property-stolen-during-home-burglary/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+    "image": "https://s.yimg.com/lo/mysterio/api/4a206e70ec7015b29437db08f5cf3bb12f917be876d06681ad83b9af9df25237/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F83e6ca9dceb0e833832e31da8f43d7d0.jpg",
+    "publishedAt": "2026-08-23T17:23:33Z",
+    "author": "Zach Braziller"
+  },
+  {
+    "source": "New York Post",
+    "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
+    "description": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
+    "url": "https://nypost.com/2026/08/23/sports/ceedee-lamb-had-300k-worth-of-property-stolen-during-home-burglary/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40473252.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-08-23T17:23:33Z",
+    "author": "Zach Braziller"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Always at the scene of crime’: Fans react as Ben Stokes spotted while Brydon Carse is handcuffed in Derby nightclub incident",
+    "description": "England fans don't get a moment of respite after Durham bowler Brydon Carse was handcuffed outside a Derby nightclub where Ben Stokes was at the scene.",
+    "url": "https://www.cricketnews.com/en/cricket/news/fans-react-ben-stokes-spotted-brydon-carse-derby-nightclub-incident/6f49114075e6fc8c03d75460",
+    "image": "https://s.yimg.com/lo/mysterio/api/697523798dd24d6a696258b7f56ed4d8dda24475ffdc418cb99187349d9da0f3/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6455523a2ca2e4474ed870693271db70.jpg",
+    "publishedAt": "2026-08-23T17:21:40Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "England cricketer Brydon Carse under investigation after ‘nightclub incident’",
+    "description": "Videos appear to show Carse in handcuffs outside a Derby nightclub.",
+    "url": "https://www.nzherald.co.nz/sport/england-cricketer-brydon-carse-under-investigation-after-nightclub-incident/LHJOGEKXSNGG7GT7V2RPEO6LCE/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/NTSLJQCDEZEA7FUGSWSZMIMQ6U.JPG?auth=72437e388c9cfb3b7a027a431d6b471dd756fbad2f125e2083e29deee2a41f2f&width=1200&height=675&quality=70&focal=1537%2C220&smart=false",
+    "publishedAt": "2026-08-23T17:16:53Z",
+    "author": "NZ Herald"
+  },
+  {
     "source": "BusinessLine",
     "title": "The Bharat opportunity is real for Apollo Tyres: Neeraj Kanwar",
     "description": "Neeraj Kanwar discusses Apollo Tyres' strategic investments in cricket and their impact on brand growth and market penetration.",
@@ -232,42 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c3d5e987ae345a600b38d314de23e4850e61d148c5b10aad91245c455606dfdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1acffc6295d22e9030d733eb576b315b.png",
     "publishedAt": "2026-08-23T07:01:26Z",
     "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Can you name the top 20 Test batters in the world?",
-    "description": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/clyxyj73d0mo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285a/live/576f64e0-9e26-11f1-b109-879e35c24276.png",
-    "publishedAt": "2026-08-23T07:01:20Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "No-balls explained: Different types of no balls in cricket",
-    "description": "With No-balls being the nightmare of every bowler, here are all the types of no-balls one can encounter in a cricket match.",
-    "url": "https://www.cricketnews.com/en/cricket/news/no-balls-explained-different-types-no-balls-cricket/59114d428af0034220216f37",
-    "image": "https://s.yimg.com/lo/mysterio/api/8a14d09737727718bb2ee1d2acace38df5b785bd2475812ed2e15b9af11a86fa/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc57c62595a43f2540427bff2319eb8cc.png",
-    "publishedAt": "2026-08-23T06:43:23Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Strong crowds turn out as Sydney Swans hit field for first time since alleged sexual assault probe - but some fans walk out: 'Respect women'",
-    "description": "Large crowds donned red and white to watch the men's team take on North Melbourne at the Sydney Cricket Ground on Sunday.",
-    "url": "https://www.dailymail.com/news/article-16073411/Sydney-Swans-scg-match-sexual-assault.html",
-    "image": "https://i.dailymail.com/1s/2026/08/23/07/110799325-0-image-m-75_1787465234602.jpg",
-    "publishedAt": "2026-08-23T06:20:19Z",
-    "author": "Australian Associated"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket legend backs memorial match for Covid victim",
-    "description": "The annual Lee Nurse memorial match takes place at May's Bounty in Basingstoke on Sunday.",
-    "url": "https://www.bbc.com/news/articles/ce349g33l9wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/c88f0ba849165d7e9458f09f00a136a07dc1be10c4115c44e15cfbc6dd2e5a89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F00fd2d1866b4887cf4dd17b0682bde24.jpg",
-    "publishedAt": "2026-08-23T06:17:05Z",
-    "author": "Naj Modak - South of England; Steve Humphrey"
   }
 ]
 ;
