@@ -1,6 +1,33 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "ET World Leaders Forum: Cricket is a great investment but rights costs have run out of control, says JioStar's Uday Shankar",
+    "description": "JioStar vice chairman Uday Shankar said sports, particularly cricket, has been a major investment for the company, helping it build a digital audience of 600 million monthly active users. However, he said soaring cricket media rights costs have made the busin…",
+    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/et-world-leaders-forum-cricket-is-a-great-investment-but-rights-costs-have-run-out-of-control-says-jiostars-uday-shankar/articleshow/133446318.cms",
+    "image": "https://img.etimg.com/thumb/msid-133446240,width-1200,height-630,imgsize-122400,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T19:40:45Z",
+    "author": "ET Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ET World Leaders Forum: Cricket is a great investment but rights costs have run out of control, says JioStar's Uday Shankar",
+    "description": "JioStar vice chairman Uday Shankar said sports, particularly cricket, has been a major investment for the company, helping it build a digital audience of 600 million monthly active users. However, he said soaring cricket media rights costs have made the busin…",
+    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/et-world-leaders-forum-cricket-is-a-great-investment-but-rights-costs-have-run-out-of-control-says-jiostars-uday-shankar/articleshow/133446241.cms",
+    "image": "https://img.etimg.com/thumb/msid-133446240,width-1200,height-630,imgsize-122400,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T19:40:45Z",
+    "author": "ET Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MP’s Saransh spins his way into Test cricket",
+    "description": "33-year-old MP off-spinner Saransh Jain makes his India Test debut vs Sri Lanka, receiving his cap from Ravindra Jadeja after strong domestic form.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/mps-saransh-spins-his-way-into-test-cricket/articleshow/133446277.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133446276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T19:35:56Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
     "title": "Cricket: Devdutt Padikkal straight hundred puts India in command after Sri Lanka squander early openings",
     "description": "After losing the toss, Sri Lanka’s bowlers will feel that they did not allow India to run away with the game. There is a grain of truth in this, but a closer examination of how things panned out tells a different story. India’s openers, KL Rahul and Yashasvi …",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-devdutt-padikkal-straight-hundred-puts-india-in-command-after-sri-lanka-squander-early-openings/articleshow/133446187.cms",
@@ -205,42 +232,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133437931,width-1200,height-630,imgsize-82248,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-23T10:23:49Z",
     "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "AUS vs BAN Test becomes only 28th two-day Test in 2632-match history",
-    "description": "Australia's win created a rare piece of Test cricket history. The Mackay Test was only the 28th Test to finish in two days from the 2632 Tests played so far. In simple terms, only around 1.1% of all Tests have ended within two days. The numbers show how rare …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-vs-bangladesh-test-becomes-only-28th-two-day-test-in-2632-match-history/articleshow/133437607.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133437642,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T09:51:00Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'There is no point in playing anymore': Karn Sharma, winner of 4 IPL titles, retires from all forms of cricket",
-    "description": "Former India leg-spinner Karn Sharma has retired from all forms of cricket at 38 after a career spanning more than two decades. He played one Test, two ODIs and one T20I for India, along with 97 First-Class matches and over 90 IPL games. A four-time IPL champ…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-point-in-playing-anymore-karn-sharma-winner-of-4-ipl-titles-retires-from-all-forms-of-cricket/articleshow/133437556.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133437593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T09:47:45Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Yashasvi Jaiswal vs Asitha Fernando: Will India opener face suspension for allegedly headbutting opponent?",
-    "description": "Will Yashasvi Jaiswal face a match suspension for allegedly headbutting Asitha Fernando? Check the ICC Code of Conduct rules, demerit points, and potential penalties.",
-    "url": "https://www.cricketnews.com/en/cricket/news/yashasvi-jaiswal-asitha-fernando-suspension-allegedly-headbutting/9ca29055979fac84466f20fc",
-    "image": "https://s.yimg.com/lo/mysterio/api/c914b14bc9160c1450b25bafbfba5dccfc39cf839b493488f97811d2412cd0e6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0d76f3a840c29a42b69c1ce3d0d9f23d.jpg",
-    "publishedAt": "2026-08-23T09:47:44Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Starc turns back the clock with 10-wicket haul, vows to 'milk his body' for Test cricket",
-    "description": "Mitchell Starc put on a spectacular display in the second Test versus Bangladesh, claiming ten wickets and securing a decisive innings victory for Australia, thereby equalizing the two-match series. His incredible performance elevated him to tenth place on th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-turns-back-the-clock-with-10-wicket-haul-vows-to-milk-his-body-for-test-cricket/articleshow/133437475.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133437529,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T09:42:11Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
