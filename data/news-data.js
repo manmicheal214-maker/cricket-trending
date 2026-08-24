@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Slickdeals.net",
+    "title": "iPhone 17e (Cricket locked 1 yr) + 2 months prepaid Supreme Unlimited $419.99 + Free Shipping (2 replies)",
+    "description": "Apple iPhone 16e black (Locked to Cricket for 1 year) [cricketwireless.com] at $299.99 + 2 months of Supreme Unlimited Plan prepaid at $60/month. After 2 months, you can change your plan to a cheaper",
+    "url": "https://slickdeals.net/f/19912980-iphone-17e-cricket-locked-1-yr-2-months-prepaid-supreme-unlimited-419-99-free-shipping",
+    "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21363915.thumb",
+    "publishedAt": "2026-08-23T11:13:08Z",
+    "author": "thegoatgamer"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rishabh Pant walks off injured after blow to left arm in second Test against Sri Lanka",
+    "description": "Indian wicketkeeper-batter Rishabh Pant retired hurt during the second Test match. He sustained an injury to his left arm after being struck by a short ball. The Sri Lankan bowler Lahiru Kumara delivered the delivery which hit Pant. He was attended by the tea…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rishabh-pant-walks-off-injured-after-blow-to-left-arm-in-second-test-against-sri-lanka/articleshow/133438552.cms",
+    "image": "https://img.etimg.com/thumb/msid-133438570,width-1200,height-630,imgsize-116284,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T11:10:15Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Dropped on 0 and 1, Devdutt Padikkal makes Sri Lanka pay with another century in Colombo",
+    "description": "Devdutt Padikkal, who was batting on 91, needed only a few deliveries to reach three figures. He hit Prabath Jayasuriya for two consecutive boundaries before taking a single to complete his century. The hundred is Padikkal's second century in Test cricket.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dropped-on-0-and-1-devdutt-padikkal-makes-sri-lanka-pay-with-another-century-in-colombo/articleshow/133438511.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133438688,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T11:07:09Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Two 50s, seven wickets: How Ben Stokes fared on his red-ball return after international retirement",
     "description": "Ben Stokes made a stunning return to red-ball cricket, scoring 53 and an unbeaten 66 before taking seven wickets against Derbyshire. His 5-17 spell included three wickets in four balls, helping Durham secure a massive 338-run victory. The win moved Durham to …",
@@ -241,33 +268,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-08-23T01:30:07Z",
     "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
-    "description": "Shedeur Sanders threw a touchdown pass and made good decisions in perhaps his last chance to convince coach Todd Monken he should be Cleveland's starting quarterback in the Browns' 31-7 preseason loss to the Buffalo Bills on Saturday. Sanders, competing with …",
-    "url": "https://sports.yahoo.com/articles/shedeur-sanders-throws-td-pass-205733582.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/dae4141d32875dc1a3dfbf0814d297aa530977746b61630ded6f868f72709043/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe078bfd5686d7b6984a0d984e08aa9a8.jpg",
-    "publishedAt": "2026-08-22T20:57:33Z",
-    "author": "TOM WITHERS"
-  },
-  {
-    "source": "The Punch",
-    "title": "Brentford batter shambolic Spurs 3-0",
-    "description": "Tottenham’s big spending couldn’t prevent a woeful 3-0 defeat to Brentford in their Premier League opener. Discover how Brentford exposed Spurs’ flaws.\n\nRead More: https://punchng.com/brentford-batter-shambolic-spurs-3-0/",
-    "url": "https://punchng.com/brentford-batter-shambolic-spurs-3-0/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/22201055/AFP__20260822__C6AR6Y8__v1__Mockup__FblEngPrBrentfordTottenham_1787425855-1200x630.webp",
-    "publishedAt": "2026-08-22T19:54:32Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Big City Greens S05E08 720p DSNP WEB-DL H264-NTb",
-    "description": "Season 5, Episode 08 – \"Trainer Tilly\"Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Cricke…",
-    "url": "https://post.rlsbb.cc/big-city-greens-s05e08-720p-dsnp-web-dl-h264-ntb/",
-    "image": null,
-    "publishedAt": "2026-08-22T19:37:28Z",
-    "author": "Robotnico"
   }
 ]
 ;
