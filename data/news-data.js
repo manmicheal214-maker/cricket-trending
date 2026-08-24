@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Shoriful Islam makes Bangladesh history with record seven-wicket haul against Australia",
+    "description": "Shoriful Islam achieved a historic seven-wicket haul against Australia in the second Test. His exceptional bowling figures of 7/48 marked a significant achievement for Bangladesh cricket. Australia secured a first-innings lead of 146 runs after being bowled o…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shoriful-islam-makes-bangladesh-history-with-record-seven-wicket-haul-against-australia/articleshow/133433725.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133433754,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T03:10:51Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Duleep Trophy: 15-year-old Vaibhav Sooryavanshi faces red-ball test",
+    "description": "In Sri Lanka, Indian domestic cricket players Saransh Jain and Manav Suthar are gearing up for the Test series ahead. As the Duleep Trophy launches this Sunday, the excitement of the domestic season begins. Watch out for 15-year-old Vaibhav Sooryavanshi, a st…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-15-year-old-vaibhav-sooryavanshi-faces-red-ball-test/articleshow/133433561.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133433568,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T02:31:31Z",
+    "author": "Ashim Sunam"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Starc's double-strike helps Australia tighten grip in 2nd test against Bangladesh",
+    "description": "Fresh from taking six wickets in the first innings, Australia's Mitchell Starc's again tormented Bangladesh's top order as the tourists were reduced to 39-3 at lunch in its second innings on Day 2 of a fast-moving second cricket test. The evergreen left-arm b…",
+    "url": "https://sports.yahoo.com/articles/starcs-double-strike-helps-australia-022648733.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/a3b99128356ccc9712ff7c0dbe1cc98c8e67de9f2ab630fea878c570cece2c54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F40125c33c612b21352c36d8adf1cc15e.jpg",
+    "publishedAt": "2026-08-23T02:26:48Z",
+    "author": "Associated Press"
+  },
+  {
     "source": "Pypi.org",
     "title": "rater-agreement 0.1.0",
     "description": "Chance-corrected agreement statistics for any raters, human or model — kappa, weighted kappa, Fleiss, Krippendorff's alpha, ICC, intra-rater reliability, kappa-paradox diagnostics, with bootstrap CIs.",
@@ -151,33 +178,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/b6c135f8e966120f_s.webp",
     "publishedAt": "2026-08-22T13:22:03Z",
     "author": "autos.yahoo.com"
-  },
-  {
-    "source": "Turf Show Times",
-    "title": "Josaiah Stewart looks like “Pro Bowler” in Rams-Saints practice",
-    "description": "Stewart could be Les Snead’s latest draft gem",
-    "url": "https://www.turfshowtimes.com/los-angeles-rams-news/146589/rams-josaiah-stewart-saints-brenda-song",
-    "image": "https://s.yimg.com/lo/mysterio/api/ec3844efa8310a5a85fdf21971caea91d37a04441e9008896382d81ba9550356/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F364a0440e13ab0883e8aac75e77c6156.jpg",
-    "publishedAt": "2026-08-22T13:00:00Z",
-    "author": "Danny Stone"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ashwin, Rahane's presence will lift ETPL profile: Glasgow Cosmic's Keshav Maharaj",
-    "description": "Keshav Maharaj expects Indian stars Ashwin and Rahane to boost the European T20 Premier League's profile. Their participation will attract fans and create awareness for the inaugural competition. Maharaj respects both cricketers for their talent and leadershi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ashwin-rahanes-presence-will-lift-etpl-profile-glasgow-cosmics-keshav-maharaj/articleshow/133424648.cms",
-    "image": "https://img.etimg.com/thumb/msid-133424657,width-1200,height-630,imgsize-144952,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-22T12:45:57Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mumbai Indians land former RR director who scouted Vaibhav Sooryavanshi and Yashasvi Jaiswal ahead of IPL 2027",
-    "description": "Mumbai Indians have appointed former RR head of cricket Zubin Bharucha, who scouted Yashasvi Jaiswal and Vaibhav Sooryavanshi, as Director of Performance.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mumbai-indians-former-rr-director-scouted-sooryavanshi-jaiswal/11aa5d75af6a70ebfcf8dcaa",
-    "image": "https://s.yimg.com/lo/mysterio/api/f77613851c41b48083e2269a32bf7355bae181ef36f701d0fd557185bef76648/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb7b5b4c624d85b9bd6bb0708d7c96ac6.jpg",
-    "publishedAt": "2026-08-22T12:40:32Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
