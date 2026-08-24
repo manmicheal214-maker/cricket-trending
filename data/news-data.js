@@ -1,6 +1,33 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Two 50s, seven wickets: How Ben Stokes fared on his red-ball return after international retirement",
+    "description": "Ben Stokes made a stunning return to red-ball cricket, scoring 53 and an unbeaten 66 before taking seven wickets against Derbyshire. His 5-17 spell included three wickets in four balls, helping Durham secure a massive 338-run victory. The win moved Durham to …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/two-50s-seven-wickets-how-ben-stokes-fared-on-his-red-ball-return-after-international-retirement/articleshow/133437944.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133438218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T10:46:41Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nathan Lyon joins Shane Warne, becomes second Australian spinner to complete 600 international wickets",
+    "description": "On August 23, 2026, Nathan Lyon celebrated a monumental milestone by reaching 600 international wickets, marking his place as the fifth Australian bowler and the second spin bowler to achieve this feat. He took three crucial wickets during the second innings …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nathan-lyon-joins-shane-warne-becomes-second-australian-spinner-to-complete-600-international-wickets/articleshow/133437929.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133437962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T10:23:56Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Four-time IPL champion Karn Sharma announces retirement from all formats during UPT20 League 2026",
+    "description": "Veteran Indian leg-spinner Karn Sharma announced his retirement from all cricket formats. His final professional game will be on Tuesday, August 25, concluding a long career. Sharma expressed gratitude to institutions and people who supported his cricketing j…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/four-time-ipl-champion-karn-sharma-announces-retirement-from-all-formats-during-upt20-league-2026/articleshow/133437932.cms",
+    "image": "https://img.etimg.com/thumb/msid-133437931,width-1200,height-630,imgsize-82248,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T10:23:49Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
     "title": "AUS vs BAN Test becomes only 28th two-day Test in 2632-match history",
     "description": "Australia's win created a rare piece of Test cricket history. The Mackay Test was only the 28th Test to finish in two days from the 2632 Tests played so far. In simple terms, only around 1.1% of all Tests have ended within two days. The numbers show how rare …",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-vs-bangladesh-test-becomes-only-28th-two-day-test-in-2632-match-history/articleshow/133437607.cms",
@@ -241,33 +268,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-08-22T19:37:28Z",
     "author": "Robotnico"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Big City Greens S05E07 720p DSNP WEB-DL H264-NTb",
-    "description": "Season 5, Episode 07 – “Caging Cricket”Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Crick…",
-    "url": "https://post.rlsbb.cc/big-city-greens-s05e07-720p-dsnp-web-dl-h264-ntb/",
-    "image": null,
-    "publishedAt": "2026-08-22T19:37:28Z",
-    "author": "Robotnico"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Big City Greens S05E06 720p DSNP WEB-DL H264-NTb",
-    "description": "Season 5, Episode 06 – \"Potted Meat\"Follow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Cricket’…",
-    "url": "https://post.rlsbb.cc/big-city-greens-s05e06-720p-dsnp-web-dl-h264-ntb/",
-    "image": null,
-    "publishedAt": "2026-08-22T19:37:28Z",
-    "author": "Robotnico"
-  },
-  {
-    "source": "The Big Lead",
-    "title": "Yankees pitcher suddenly leaves game vs Blue Jays with apparent injury",
-    "description": "Pitcher Ryan Weathers was suddenly removed from the New York Yankees’ game against the Toronto Blue Jays on Saturday, Aug. 22 with an apparent injury. After throwing a pitch to Blue Jays batter Myles Straw in the fourth inning, he…",
-    "url": "https://www.thebiglead.com/yankees-pitcher-suddenly-leaves-game-vs-blue-jays-with-apparent-injury/",
-    "image": "https://s.yimg.com/lo/mysterio/api/c9af2488f2af155abacdabba43cbb3436692c4cd39230d3d612d523570dcee40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Ff1713fdc4c66379274d1e78edffbffd2.jpg",
-    "publishedAt": "2026-08-22T18:52:55Z",
-    "author": "J.P. Hoornstra"
   }
 ]
 ;
