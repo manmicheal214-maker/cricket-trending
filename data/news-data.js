@@ -1,6 +1,51 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "AUS vs BAN Test becomes only 28th two-day Test in 2632-match history",
+    "description": "Australia's win created a rare piece of Test cricket history. The Mackay Test was only the 28th Test to finish in two days from the 2632 Tests played so far. In simple terms, only around 1.1% of all Tests have ended within two days. The numbers show how rare …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-vs-bangladesh-test-becomes-only-28th-two-day-test-in-2632-match-history/articleshow/133437607.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133437642,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T09:51:00Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'There is no point in playing anymore': Karn Sharma, winner of 4 IPL titles, retires from all forms of cricket",
+    "description": "Former India leg-spinner Karn Sharma has retired from all forms of cricket at 38 after a career spanning more than two decades. He played one Test, two ODIs and one T20I for India, along with 97 First-Class matches and over 90 IPL games. A four-time IPL champ…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-point-in-playing-anymore-karn-sharma-winner-of-4-ipl-titles-retires-from-all-forms-of-cricket/articleshow/133437556.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133437593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T09:47:45Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Yashasvi Jaiswal vs Asitha Fernando: Will India opener face suspension for allegedly headbutting opponent?",
+    "description": "Will Yashasvi Jaiswal face a match suspension for allegedly headbutting Asitha Fernando? Check the ICC Code of Conduct rules, demerit points, and potential penalties.",
+    "url": "https://www.cricketnews.com/en/cricket/news/yashasvi-jaiswal-asitha-fernando-suspension-allegedly-headbutting/9ca29055979fac84466f20fc",
+    "image": "https://s.yimg.com/lo/mysterio/api/c914b14bc9160c1450b25bafbfba5dccfc39cf839b493488f97811d2412cd0e6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0d76f3a840c29a42b69c1ce3d0d9f23d.jpg",
+    "publishedAt": "2026-08-23T09:47:44Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mitchell Starc turns back the clock with 10-wicket haul, vows to 'milk his body' for Test cricket",
+    "description": "Mitchell Starc put on a spectacular display in the second Test versus Bangladesh, claiming ten wickets and securing a decisive innings victory for Australia, thereby equalizing the two-match series. His incredible performance elevated him to tenth place on th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-turns-back-the-clock-with-10-wicket-haul-vows-to-milk-his-body-for-test-cricket/articleshow/133437475.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133437529,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T09:42:11Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Saransh's Test journey: Letting go a chance to be in IPL to work on red-ball game",
+    "description": "Earning his Test cap, Saransh Jain chose to refine his red-ball techniques over pursuing IPL roles. Chandrakant Pandit, his coach, admired Jain's relentless pursuit of bowling skill enhancement. Jain's exceptional around-the-wicket technique caught the attent…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/saranshs-test-journey-letting-go-a-chance-to-be-in-ipl-to-work-on-red-ball-game/articleshow/133437269.cms",
+    "image": "https://img.etimg.com/thumb/msid-133437277,width-1200,height-630,imgsize-75754,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T09:06:26Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
     "title": "Shubman Gill joins 3,000-run club in Tests during Colombo second Test",
     "description": "Indian skipper Shubman Gill achieved 3,000 Test runs on Sunday. He reached this milestone during the second Test against Sri Lanka. Gill has scored 3,004 runs in 43 matches at an average of 43.53. He is the fourth-youngest Indian batter to achieve this signif…",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/shubman-gill-joins-3000-run-club-in-tests-during-colombo-second-test/articleshow/133436862.cms",
@@ -223,24 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c9af2488f2af155abacdabba43cbb3436692c4cd39230d3d612d523570dcee40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Ff1713fdc4c66379274d1e78edffbffd2.jpg",
     "publishedAt": "2026-08-22T18:52:55Z",
     "author": "J.P. Hoornstra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Officials appointed for UP T20 cricket league",
-    "description": "UPCA appoints Sanjay Tiwari as venue director for UP T20 League’s Kanpur leg at Green Park Stadium, starting Aug 28, 2026, with coordinators named.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/officials-appointed-for-up-t20-cricket-league/articleshow/133429610.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-22T17:59:57Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "101 Great Goals",
-    "title": "WATCH: Lewis-Potter and Janelt on target as Brentford batter big-spending Tottenham",
-    "description": "Tottenham endured a dismal start to their Premier League opener at Brentford as a starting XI featuring four new signings fell 2-0 behind.",
-    "url": "https://www.101greatgoals.com/football/premier-league/lewis-potter-janelt-brentford-batter-tottenham/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3FB4JXC-2.jpg",
-    "publishedAt": "2026-08-22T17:26:59Z",
-    "author": "Nicholas McGee"
   }
 ]
 ;
