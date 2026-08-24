@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Can you name the top 20 Test batters in the world?",
+    "description": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
+    "url": "https://www.bbc.com/sport/cricket/articles/clyxyj73d0mo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c3d5e987ae345a600b38d314de23e4850e61d148c5b10aad91245c455606dfdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1acffc6295d22e9030d733eb576b315b.png",
+    "publishedAt": "2026-08-23T07:01:26Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Can you name the top 20 Test batters in the world?",
+    "description": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/clyxyj73d0mo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285a/live/576f64e0-9e26-11f1-b109-879e35c24276.png",
+    "publishedAt": "2026-08-23T07:01:20Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "No-balls explained: Different types of no balls in cricket",
+    "description": "With No-balls being the nightmare of every bowler, here are all the types of no-balls one can encounter in a cricket match.",
+    "url": "https://www.cricketnews.com/en/cricket/news/no-balls-explained-different-types-no-balls-cricket/59114d428af0034220216f37",
+    "image": "https://s.yimg.com/lo/mysterio/api/8a14d09737727718bb2ee1d2acace38df5b785bd2475812ed2e15b9af11a86fa/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc57c62595a43f2540427bff2319eb8cc.png",
+    "publishedAt": "2026-08-23T06:43:23Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Strong crowds turn out as Sydney Swans hit field for first time since alleged sexual assault probe - but some fans walk out: 'Respect women'",
+    "description": "Large crowds donned red and white to watch the men's team take on North Melbourne at the Sydney Cricket Ground on Sunday.",
+    "url": "https://www.dailymail.com/news/article-16073411/Sydney-Swans-scg-match-sexual-assault.html",
+    "image": "https://i.dailymail.com/1s/2026/08/23/07/110799325-0-image-m-75_1787465234602.jpg",
+    "publishedAt": "2026-08-23T06:20:19Z",
+    "author": "Australian Associated"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cricket legend backs memorial match for Covid victim",
+    "description": "The annual Lee Nurse memorial match takes place at May's Bounty in Basingstoke on Sunday.",
+    "url": "https://www.bbc.com/news/articles/ce349g33l9wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c88f0ba849165d7e9458f09f00a136a07dc1be10c4115c44e15cfbc6dd2e5a89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F00fd2d1866b4887cf4dd17b0682bde24.jpg",
+    "publishedAt": "2026-08-23T06:17:05Z",
+    "author": "Naj Modak - South of England; Steve Humphrey"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Quick hits: A Shoriful stunner amid more left-arm carnage in the 29th two-day Test",
+    "description": "Mitchell Starc delivers once more but it's another left-arm seamer who delivers the ball of the series, as Test cricket is blessed with its 29th two-day match. Here are the quick hits from day two of the second Test between Australia and Bangladesh.",
+    "url": "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-quick-hits-day-two-starc-shoriful/107065248",
+    "image": "https://live-production.wcms.abc-cdn.net.au/93be514beafc2edd677404ff26d539d7?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=55&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-23T06:08:39Z",
+    "author": "Henry Hanson and Simon Smale"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Back-to-back fours, then out! Sooryavanshi falls cheaply in Duleep Trophy - Watch",
+    "description": "Vaibhav Sooryavanshi's Duleep Trophy campaign began with a disappointing dismissal for just eight runs. He edged a delivery from Bishworjit Konthoujam to gully after a brief aggressive start. The young batter is yet to establish himself in first-class cricket…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/back-to-back-fours-then-out-vaibhav-sooryavanshi-falls-cheaply-in-duleep-trophy-watch/articleshow/133435366.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133435385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T06:06:01Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Farah Khan's Kadhi Pakora recipe: 3 secret hacks for fluffy pakoras and delicious Punjabi kadhi",
     "description": "Farah Khan is known for her cooking skills and has shared her Punjabi Kadhi Pakora recipe in one of her vlogs. Her three useful hacks include adding yogurt to the pakora batter for softer, fluffier pakoras, crushed raw garlic to the yogurt-besan mixture for d…",
@@ -160,15 +223,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/26b43df3ef708f9623193f469acafbbc687b33af52bd0fc4991ea993b2ef856f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc44beeda9a8a894e132ab1fc100c5805.jpg",
     "publishedAt": "2026-08-22T16:35:15Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "RT",
-    "title": "The new world won’t be ruled by the ICC’s bias – or Washington’s overreach",
-    "description": "The clash over sanctions on judges reveals a fading order in which neither moral monopoly nor financial coercion can claim legitimacy Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/644535-icc-bias-us-overreach/",
-    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a89c0d785f540426d148679.jpg",
-    "publishedAt": "2026-08-22T16:18:09Z",
-    "author": "RT"
   }
 ]
 ;
