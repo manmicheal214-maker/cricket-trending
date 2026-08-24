@@ -1,5 +1,23 @@
 [
   {
+    "source": "Pypi.org",
+    "title": "rater-agreement 0.1.0",
+    "description": "Chance-corrected agreement statistics for any raters, human or model — kappa, weighted kappa, Fleiss, Krippendorff's alpha, ICC, intra-rater reliability, kappa-paradox diagnostics, with bootstrap CIs.",
+    "url": "https://pypi.org/project/rater-agreement/0.1.0/",
+    "image": null,
+    "publishedAt": "2026-08-23T01:30:07Z",
+    "author": null
+  },
+  {
+    "source": "Pypi.org",
+    "title": "rater-agreement added to PyPI",
+    "description": "Chance-corrected agreement statistics for any raters, human or model — kappa, weighted kappa, Fleiss, Krippendorff's alpha, ICC, intra-rater reliability, kappa-paradox diagnostics, with bootstrap CIs.",
+    "url": "https://pypi.org/project/rater-agreement/",
+    "image": null,
+    "publishedAt": "2026-08-23T01:30:07Z",
+    "author": null
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
     "description": "Shedeur Sanders threw a touchdown pass and made good decisions in perhaps his last chance to convince coach Todd Monken he should be Cleveland's starting quarterback in the Browns' 31-7 preseason loss to the Buffalo Bills on Saturday. Sanders, competing with …",
@@ -160,23 +178,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/f77613851c41b48083e2269a32bf7355bae181ef36f701d0fd557185bef76648/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb7b5b4c624d85b9bd6bb0708d7c96ac6.jpg",
     "publishedAt": "2026-08-22T12:40:32Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "A prediction about Suryavanshi from Rahul Dravid",
-    "description": "Rahul Dravid, former captain and head coach of the Indian cricket team, states that the rising 15-year-old batting prodigy Vaibhav Suryavanshi could be a key factor in the revival of future Test cricket. Speaking at a press conference in Dublin, where he join…",
-    "url": "https://english.gossiplankanews.com/2026/08/a-prediction-about-suryavanshi-from.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tL47ClHJm9SyW7kX8Z40uHM5Ru3vwrCe4yZSfAHtLqmhy6he01Z0MlnSGm3AfWkG6P1quBtiWjwXd876VvEtM_Isbl8CatVsztaK2hKZYBU1hWBTk6N1p1Bi0n_FzYDo_EIrPrg0muM_FINmh0o4_v0W_Nq1jwMmQBsnc=w1600",
-    "publishedAt": "2026-08-22T12:30:30Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After Joe Root, Ben Stokes calls ECB decision 'shambolic' over Headingley’s 2027 Ashes exclusion",
-    "description": "Ben Stokes has taken a bold stance against the England and Wales Cricket Board after they decided to exclude Headingley and Old Trafford from the 2027 men's Ashes lineup. This controversial move has sparked backlash among players and fans due to the historica…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-joe-root-ben-stokes-calls-ecb-decision-shambolic-over-headingleys-2027-ashes-exclusion/articleshow/133423450.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133423554,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-22T11:53:38Z",
-    "author": "TOI Sports Desk"
   }
 ]
