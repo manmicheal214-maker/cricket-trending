@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "BusinessLine",
+    "title": "The Bharat opportunity is real for Apollo Tyres: Neeraj Kanwar",
+    "description": "Neeraj Kanwar discusses Apollo Tyres' strategic investments in cricket and their impact on brand growth and market penetration.",
+    "url": "https://www.thehindubusinessline.com/catalyst/the-bharat-opportunity-is-real-for-apollo-tyres-neeraj-kanwar/article71380038.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/nj0ymv/article71381963.ece/alternates/LANDSCAPE_1200/BL2408_Brand_EPL_Neeraj%20Kanwar1.jpg",
+    "publishedAt": "2026-08-23T16:34:13Z",
+    "author": "Chitra Narayanan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ECB launches investigation into Brydon Carse after England pacer seen in handcuffs outside nightclub",
+    "description": "Following a celebratory event marking their County Championship win, England bowler Brydon Carse found himself at the center of an investigation by the ECB. Shocking footage captured police officers escorting him away in handcuffs. Though he was briefly detai…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ecb-launches-investigation-into-brydon-carse-after-england-pacer-seen-in-handcuffs-outside-nightclub/articleshow/133442672.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133442803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T16:24:17Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "English cricket investigates reported nightclub incident involving test bowler Brydon Carse",
+    "description": "England's cricket authorities are investigating a reported nightclub incident involving fast bowler Brydon Carse, who is in the test squad for an upcoming match against Pakistan. Videos circulating on social media on Sunday appeared to show Carse in handcuffs…",
+    "url": "https://sports.yahoo.com/articles/english-cricket-investigates-reported-nightclub-160243344.html",
+    "image": null,
+    "publishedAt": "2026-08-23T16:02:43Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Yashasvi Jaiswal fight: 'Shouldn't have gone so close,' says India batting coach Sitanshu Kotak",
+    "description": "Yashasvi Jaiswal charged toward the bowler, making visible contact with Fernando's head. The Sri Lankan players stepped in, separated the two and prevented the situation from escalating. India's batting coach Sitanshu Kotak felt Jaiswal shouldn't have gone so…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/yashasvi-jaiswal-fight-shouldnt-have-gone-so-close-says-india-batting-coach-sitanshu-kotak/articleshow/133442265.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133442312,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-23T15:50:02Z",
+    "author": "Sahil Malhotra"
+  },
+  {
     "source": "CNA",
     "title": "England's Carse being investigated after incident, says ECB",
     "description": "LONDON, Aug 23 : England fast bowler Brydon Carse is being investigated over an incident in Derby on Saturday night, the England and Wales Cricket Board (ECB) said on Sunday.\"We are aware of an incident which is reported to have taken place in Derby last nigh…",
@@ -232,42 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c88f0ba849165d7e9458f09f00a136a07dc1be10c4115c44e15cfbc6dd2e5a89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F00fd2d1866b4887cf4dd17b0682bde24.jpg",
     "publishedAt": "2026-08-23T06:17:05Z",
     "author": "Naj Modak - South of England; Steve Humphrey"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Quick hits: A Shoriful stunner amid more left-arm carnage in the 29th two-day Test",
-    "description": "Mitchell Starc delivers once more but it's another left-arm seamer who delivers the ball of the series, as Test cricket is blessed with its 29th two-day match. Here are the quick hits from day two of the second Test between Australia and Bangladesh.",
-    "url": "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-quick-hits-day-two-starc-shoriful/107065248",
-    "image": "https://live-production.wcms.abc-cdn.net.au/93be514beafc2edd677404ff26d539d7?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=55&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-23T06:08:39Z",
-    "author": "Henry Hanson and Simon Smale"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Back-to-back fours, then out! Sooryavanshi falls cheaply in Duleep Trophy - Watch",
-    "description": "Vaibhav Sooryavanshi's Duleep Trophy campaign began with a disappointing dismissal for just eight runs. He edged a delivery from Bishworjit Konthoujam to gully after a brief aggressive start. The young batter is yet to establish himself in first-class cricket…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/back-to-back-fours-then-out-vaibhav-sooryavanshi-falls-cheaply-in-duleep-trophy-watch/articleshow/133435366.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133435385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T06:06:01Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Farah Khan's Kadhi Pakora recipe: 3 secret hacks for fluffy pakoras and delicious Punjabi kadhi",
-    "description": "Farah Khan is known for her cooking skills and has shared her Punjabi Kadhi Pakora recipe in one of her vlogs. Her three useful hacks include adding yogurt to the pakora batter for softer, fluffier pakoras, crushed raw garlic to the yogurt-besan mixture for d…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/farah-khans-kadhi-pakora-recipe-3-secret-hacks-for-fluffy-pakoras-and-delicious-punjabi-kadhi/articleshow/133433919.cms",
-    "image": "https://img.etimg.com/thumb/msid-133434355,width-1200,height-630,imgsize-154123,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-08-23T05:11:44Z",
-    "author": "Tanisha Sarkar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ravindra Jadeja creates history in Colombo, becomes first Indian to achieve this feat",
-    "description": "Ravindra Jadeja reached a remarkable milestone on Sunday by playing his 50th World Test Championship match, becoming the first Indian cricketer to achieve this feat. In the Colombo Test, India announced a change in their lineup, with Saransh Jain receiving hi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadeja-creates-history-in-colombo-becomes-first-indian-to-achieve-this-feat/articleshow/133434278.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133434601,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T05:05:09Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
