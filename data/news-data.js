@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Cricket: Devdutt Padikkal straight hundred puts India in command after Sri Lanka squander early openings",
+    "description": "After losing the toss, Sri Lanka’s bowlers will feel that they did not allow India to run away with the game. There is a grain of truth in this, but a closer examination of how things panned out tells a different story. India’s openers, KL Rahul and Yashasvi …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-devdutt-padikkal-straight-hundred-puts-india-in-command-after-sri-lanka-squander-early-openings/articleshow/133446187.cms",
+    "image": "https://img.etimg.com/thumb/msid-133446200,width-1200,height-630,imgsize-54870,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-23T19:27:22Z",
+    "author": "Anand Vasu"
+  },
+  {
     "source": "New York Post",
     "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
     "description": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
@@ -231,33 +240,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-turns-back-the-clock-with-10-wicket-haul-vows-to-milk-his-body-for-test-cricket/articleshow/133437475.cms",
     "image": "https://static.toiimg.com/thumb/msid-133437529,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-23T09:42:11Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Saransh's Test journey: Letting go a chance to be in IPL to work on red-ball game",
-    "description": "Earning his Test cap, Saransh Jain chose to refine his red-ball techniques over pursuing IPL roles. Chandrakant Pandit, his coach, admired Jain's relentless pursuit of bowling skill enhancement. Jain's exceptional around-the-wicket technique caught the attent…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/saranshs-test-journey-letting-go-a-chance-to-be-in-ipl-to-work-on-red-ball-game/articleshow/133437269.cms",
-    "image": "https://img.etimg.com/thumb/msid-133437277,width-1200,height-630,imgsize-75754,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-23T09:06:26Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill joins 3,000-run club in Tests during Colombo second Test",
-    "description": "Indian skipper Shubman Gill achieved 3,000 Test runs on Sunday. He reached this milestone during the second Test against Sri Lanka. Gill has scored 3,004 runs in 43 matches at an average of 43.53. He is the fourth-youngest Indian batter to achieve this signif…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shubman-gill-joins-3000-run-club-in-tests-during-colombo-second-test/articleshow/133436862.cms",
-    "image": "https://img.etimg.com/thumb/msid-133436861,width-1200,height-630,imgsize-112328,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-23T08:34:56Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill joins Sachin Tendulkar, Virender Sehwag in elite Test list",
-    "description": "Shubman Gill marked a remarkable achievement by crossing the 3,000 Test run milestone, becoming the fourth-youngest Indian cricketer to do so. This significant moment took place on the inaugural day of the second Test, as he eclipsed the record previously hel…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-joins-sachin-tendulkar-virender-sehwag-in-elite-test-list/articleshow/133436343.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133436398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T07:52:33Z",
     "author": "TOI Sports Desk"
   }
 ]
