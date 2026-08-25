@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "England drop fast bowler Carse after nightclub incident",
+    "description": "England fast bowler Brydon Carse has been dropped from the squad for the second Test against Pakistan following an investigation into an incident at a club in Derby.",
+    "url": "https://www.abc.net.au/news/2026-08-25/england-drop-fast-bowler-brydon-carse/107073970",
+    "image": "https://live-production.wcms.abc-cdn.net.au/92b08b9315d6fffd8de5467b458be8ad?impolicy=wcms_watermark_news&cropH=2709&cropW=4816&xPos=0&yPos=245&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-24T19:18:28Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Cricket: Dhruv Jurel hits unbeaten 115, Rishabh Pant 63 as India, 1-0 ahead, take charge of series",
     "description": "Pant's batting was best encapsulated by a falling pull off Lahiru Kumara in the 90th over. The contact with the ball was so clean that it disappeared in the gap between the Col. FC de Saram Pavilion and the Members' Enclosure and landed onto Gregory's Road. T…",
@@ -151,33 +160,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/10/thumb/fitandfill/1200X628/1765352985-9949.JPG",
     "publishedAt": "2026-08-24T14:07:57Z",
     "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "FDA suspends licenses of five restaurants at Mumbai Cricket Association over hygiene issues",
-    "description": "Maharashtra Food and Drug Administration suspended five restaurant licenses due to hygiene concerns.  The FDA also urged consumers to avoid unsealed edible oil, citing safety issues.  This action follows the Chief Minister's directive to frame standard operat…",
-    "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fda-suspends-licenses-of-five-restaurants-at-mumbai-cricket-association-over-hygiene-issues/articleshow/133468574.cms",
-    "image": "https://img.etimg.com/thumb/msid-133468809,width-1200,height-630,imgsize-71558,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-24T13:40:15Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "Worcestershire sign Sussex batter Thomas",
-    "description": "Worcestershire sign former England Under-19 batter George Thomas on a two-year deal.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cje82w87kywo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/e31a75161cbe771d2e2cb7b9ca7bbf998a1b63ee6bda6845d504c36b3770bb1a/lightyear_networkapi/resizefill_w703_h395%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F83415c72ba7214889edbf3c5bb4bd599.jpg",
-    "publishedAt": "2026-08-24T13:37:20Z",
-    "author": "BBC"
-  },
-  {
-    "source": "ANI News",
-    "title": "\"We want him to get best treatment\": Kapil Dev on letter to Pakistan PM over \"friend\" Imran Khan's health",
-    "description": "Former India captain Kapil Dev said the appeal by 22 former international cricket captains to Pakistan Prime Minister Shehbaz Sharif, seeking proper medical treatment for former Pakistan cricket captain Imran Khan, was motivated by friendship and admiration f…",
-    "url": "https://www.aninews.in/news/sports/cricket/we-want-him-to-get-best-treatment-kapil-dev-on-letter-to-pakistan-pm-over-friend-imran-khans-health20260824175607",
-    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824122548-thumbnail-320x180-70.jpg",
-    "publishedAt": "2026-08-24T13:31:36Z",
-    "author": null
   }
 ]
 ;
