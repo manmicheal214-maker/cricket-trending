@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Punishment to send a shiver needed - Vaughan",
+    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cx2zn3exqj7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e087fdff7d6c3520e7df434a7a2ddcb6e3c33bef33a11211c8a5ecefd40b9e54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fffcb589eed64fe2419083dc94ac1bd85.jpg",
+    "publishedAt": "2026-08-24T22:42:43Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "Punishment that sends shiver down whole England team needed - Vaughan",
+    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cde/live/9ed1ceb0-9ff5-11f1-b150-d3e6f0a6b415.jpg",
+    "publishedAt": "2026-08-24T22:42:38Z",
+    "author": "Stephan Shemilt"
+  },
+  {
     "source": "Truthout",
     "title": "Trump Sanctioned ICC Officials to Shield Israeli Leaders. Rights Groups Sued.",
     "description": "Supporters of Trump-sanctioned individuals or entities face maximums of $1 million in fines and 20 years imprisonment.",
@@ -124,15 +142,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/24/16/110821353-0-image-m-14_1787585137833.jpg",
     "publishedAt": "2026-08-24T15:31:51Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "CNA",
-    "title": "England drop Carse after investigation into club incident",
-    "description": "LONDON, Aug 24 : England fast bowler Brydon Carse has been dropped from the squad for the second test against Pakistan following an investigation into an incident at a club in Derby, the England and Wales Cricket Board (ECB) said on Monday.\"Following a referr…",
-    "url": "https://www.channelnewsasia.com/sport/england-drop-carse-after-investigation-club-incident-6338211",
-    "image": "https://dam.mediacorp.sg/image/upload/s--S5E4Ypw_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-24T150129Z_1_LYNXMPEM7N136_RTROPTP_3_CRICKET-ASHES.JPG?itok=RVpIGQ31",
-    "publishedAt": "2026-08-24T15:01:29Z",
-    "author": null
   }
 ]
 ;
