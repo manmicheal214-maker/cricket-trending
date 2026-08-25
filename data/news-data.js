@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Rishabh Pant leapfrogs Shubman Gill to become India’s leading WTC run-scorer",
+    "description": "Rishabh Pant has etched his name in cricket history as India's top scorer in World Test Championship, successfully surpassing Shubman Gill's record during the thrilling second Test against Sri Lanka. Moreover, he has broken MS Dhoni's record for the highest r…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-leapfrogs-shubman-gill-to-become-indias-leading-wtc-run-scorer/articleshow/133454628.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133454949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T06:58:11Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pant surpasses Dhoni, becomes first India wicketkeeper to achieve this feat",
+    "description": "Rishabh Pant has etched his name in Indian cricket history by surpassing MS Dhoni as the leading run-scorer for Indian wicketkeepers in away Tests. Achieving this remarkable milestone in a gripping match, Pant maintained an impressive batting average. Notably…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-surpasses-ms-dhoni-becomes-first-india-wicketkeeper-to-score-2500-away-test-runs/articleshow/133453359.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133453423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T06:15:43Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "New Zealand forced to share Over-60 Cricket World Cup title with controversial England side",
+    "description": "An England batter was banned after refusing to walk in an LBW row.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/new-zealand-forced-to-share-over-60-cricket-world-cup-title-with-controversial-england-side/7TNHCMPALJDXPCPZXQGQKQS5DI/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/WBVOX3WA55HXZNDAG5YYBBE3TE.png?auth=ba24a0cab667bb169b92323426387571664224dfa0477bef7ee4fa6577fb1754&width=1200&height=675&quality=70&focal=1020%2C805&smart=false",
+    "publishedAt": "2026-08-24T06:05:00Z",
+    "author": "Samuel Sherry"
+  },
+  {
     "source": "The Irish Times",
     "title": "Irish cricket pads up for launch of T20 league with franchises worth millions",
     "description": "Franchises in Belfast and Dublin will compete in the inaugural European T20 league, with high profile players from India and Australia among the team owners",
@@ -151,60 +178,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133446200,width-1200,height-630,imgsize-54870,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-23T19:27:22Z",
     "author": "Anand Vasu"
-  },
-  {
-    "source": "New York Post",
-    "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
-    "description": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
-    "url": "https://nypost.com/2026/08/23/sports/ceedee-lamb-had-300k-worth-of-property-stolen-during-home-burglary/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-    "image": "https://s.yimg.com/lo/mysterio/api/4a206e70ec7015b29437db08f5cf3bb12f917be876d06681ad83b9af9df25237/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F83e6ca9dceb0e833832e31da8f43d7d0.jpg",
-    "publishedAt": "2026-08-23T17:23:33Z",
-    "author": "Zach Braziller"
-  },
-  {
-    "source": "New York Post",
-    "title": "Cowboys star CeeDee Lamb had $300K worth of property stolen during home burglary",
-    "description": "The five-time Pro Bowler is the second Cowboys player to have his property burglarized in the last three years.",
-    "url": "https://nypost.com/2026/08/23/sports/ceedee-lamb-had-300k-worth-of-property-stolen-during-home-burglary/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40473252.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-08-23T17:23:33Z",
-    "author": "Zach Braziller"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Always at the scene of crime’: Fans react as Ben Stokes spotted while Brydon Carse is handcuffed in Derby nightclub incident",
-    "description": "England fans don't get a moment of respite after Durham bowler Brydon Carse was handcuffed outside a Derby nightclub where Ben Stokes was at the scene.",
-    "url": "https://www.cricketnews.com/en/cricket/news/fans-react-ben-stokes-spotted-brydon-carse-derby-nightclub-incident/6f49114075e6fc8c03d75460",
-    "image": "https://s.yimg.com/lo/mysterio/api/697523798dd24d6a696258b7f56ed4d8dda24475ffdc418cb99187349d9da0f3/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6455523a2ca2e4474ed870693271db70.jpg",
-    "publishedAt": "2026-08-23T17:21:40Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "England cricketer Brydon Carse under investigation after ‘nightclub incident’",
-    "description": "Videos appear to show Carse in handcuffs outside a Derby nightclub.",
-    "url": "https://www.nzherald.co.nz/sport/england-cricketer-brydon-carse-under-investigation-after-nightclub-incident/LHJOGEKXSNGG7GT7V2RPEO6LCE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/NTSLJQCDEZEA7FUGSWSZMIMQ6U.JPG?auth=72437e388c9cfb3b7a027a431d6b471dd756fbad2f125e2083e29deee2a41f2f&width=1200&height=675&quality=70&focal=1537%2C220&smart=false",
-    "publishedAt": "2026-08-23T17:16:53Z",
-    "author": "NZ Herald"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "The Bharat opportunity is real for Apollo Tyres: Neeraj Kanwar",
-    "description": "Neeraj Kanwar discusses Apollo Tyres' strategic investments in cricket and their impact on brand growth and market penetration.",
-    "url": "https://www.thehindubusinessline.com/catalyst/the-bharat-opportunity-is-real-for-apollo-tyres-neeraj-kanwar/article71380038.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/nj0ymv/article71381963.ece/alternates/LANDSCAPE_1200/BL2408_Brand_EPL_Neeraj%20Kanwar1.jpg",
-    "publishedAt": "2026-08-23T16:34:13Z",
-    "author": "Chitra Narayanan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ECB launches investigation into Brydon Carse after England pacer seen in handcuffs outside nightclub",
-    "description": "Following a celebratory event marking their County Championship win, England bowler Brydon Carse found himself at the center of an investigation by the ECB. Shocking footage captured police officers escorting him away in handcuffs. Though he was briefly detai…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ecb-launches-investigation-into-brydon-carse-after-england-pacer-seen-in-handcuffs-outside-nightclub/articleshow/133442672.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133442803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T16:24:17Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
