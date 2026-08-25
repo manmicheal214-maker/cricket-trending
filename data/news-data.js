@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Irish Times",
+    "title": "Irish cricket pads up for launch of T20 league with franchises worth millions",
+    "description": "Franchises in Belfast and Dublin will compete in the inaugural European T20 league, with high profile players from India and Australia among the team owners",
+    "url": "https://www.irishtimes.com/business/2026/08/24/irish-cricket-pads-up-for-launch-of-t20-league-with-franchises-worth-millions/",
+    "image": "https://www.irishtimes.com/resizer/v2/H2QBHB56BFBZ5D4ORUCKLRSG4I.jpg?smart=true&auth=7c3821f7ad0f331f158f295cc261570e6a7670ee69f59cc573e3f7d7cc5892f5&width=1200&height=630",
+    "publishedAt": "2026-08-24T05:00:01Z",
+    "author": "Nathan Johns"
+  },
+  {
     "source": "Biztoc.com",
     "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
     "description": "A group of former cricket captains, including Indian batting legend Sunil Gavaskar and one of England's longest-serving skippers Sir Alastair Cook, have called on Pakistan to ensure its ex-PM Imran Khan be given proper care while in custody.\nThe cricketer-tur…",
@@ -196,33 +205,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133442803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-23T16:24:17Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "English cricket investigates reported nightclub incident involving test bowler Brydon Carse",
-    "description": "England's cricket authorities are investigating a reported nightclub incident involving fast bowler Brydon Carse, who is in the test squad for an upcoming match against Pakistan. Videos circulating on social media on Sunday appeared to show Carse in handcuffs…",
-    "url": "https://sports.yahoo.com/articles/english-cricket-investigates-reported-nightclub-160243344.html",
-    "image": null,
-    "publishedAt": "2026-08-23T16:02:43Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Yashasvi Jaiswal fight: 'Shouldn't have gone so close,' says India batting coach Sitanshu Kotak",
-    "description": "Yashasvi Jaiswal charged toward the bowler, making visible contact with Fernando's head. The Sri Lankan players stepped in, separated the two and prevented the situation from escalating. India's batting coach Sitanshu Kotak felt Jaiswal shouldn't have gone so…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/yashasvi-jaiswal-fight-shouldnt-have-gone-so-close-says-india-batting-coach-sitanshu-kotak/articleshow/133442265.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133442312,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T15:50:02Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "CNA",
-    "title": "England's Carse being investigated after incident, says ECB",
-    "description": "LONDON, Aug 23 : England fast bowler Brydon Carse is being investigated over an incident in Derby on Saturday night, the England and Wales Cricket Board (ECB) said on Sunday.\"We are aware of an incident which is reported to have taken place in Derby last nigh…",
-    "url": "https://www.channelnewsasia.com/sport/englands-carse-being-investigated-after-incident-says-ecb-6336271",
-    "image": "https://dam.mediacorp.sg/image/upload/s--gHrW3X_k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-23T154417Z_1_LYNXMPEM7M08G_RTROPTP_3_CRICKET-ASHES.JPG?itok=U5aAi4DK",
-    "publishedAt": "2026-08-23T15:44:17Z",
-    "author": null
   }
 ]
 ;
