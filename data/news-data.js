@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "Biztoc.com",
+    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+    "description": "A group of former cricket captains, including Indian batting legend Sunil Gavaskar and one of England's longest-serving skippers Sir Alastair Cook, have called on Pakistan to ensure its ex-PM Imran Khan be given proper care while in custody.\nThe cricketer-tur…",
+    "url": "https://biztoc.com/x/420aee69d8fae7e3",
+    "image": "https://biztoc.com/cdn/420aee69d8fae7e3_s.webp",
+    "publishedAt": "2026-08-24T04:29:43Z",
+    "author": "yahoo.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Another nightclub incident hits England: Fast bowler handcuffed, detained by police; ECB launches probe",
+    "description": "Videos circulating on social media appeared to show Carse being led away from a club in handcuffs by four police officers. Carse, who is part of England's squad for the second Test against Pakistan, was seen outside a nightclub in Derby.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/another-nightclub-incident-hits-england-fast-bowler-handcuffed-detained-by-police-ecb-launches-probe/articleshow/133450658.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133450921,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T04:13:37Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Everything to know about European T20 Premier League: Players, teams, owners and format of new ETPL cricket league",
+    "description": "With the inaugural season of the European Premier League set to kick off, here's everything you need to know about the players, teams, owners, and format of the ETPL tournament.",
+    "url": "https://www.cricketnews.com/en/cricket/news/european-t20-premier-league-players-teams-owners-format-etpl/830e5848d6ce3e35b18577f0",
+    "image": "https://s.yimg.com/lo/mysterio/api/9ef609e4d072bbc1dede1bf3ebf711e38316539d998dd4a8750b8f2e628e7299/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5359f386759c9f12a7859ac87c5e0de1.jpg",
+    "publishedAt": "2026-08-24T04:12:11Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Ex-cricket captains call on Pakistan to ensure 'proper medical care' for Imran Khan",
+    "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+    "url": "https://www.bbc.com/news/articles/cx2z889l0dxo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
+    "publishedAt": "2026-08-24T04:01:15Z",
+    "author": "Kelly Ng"
+  },
+  {
+    "source": "BBC News",
+    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+    "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
+    "publishedAt": "2026-08-24T03:55:35Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Retired hurt after hit on wrist: Will Rishabh Pant bat on day 2 of Sri Lanka Test? India coach answers",
+    "description": "Cricket News: India wicketkeeper-batter Rishabh Pant retired hurt after being hit on his left arm during the opening day of the second Test against Sri Lanka in Col.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/retired-hurt-after-hit-on-wrist-will-rishabh-pant-bat-on-day-2-of-sri-lanka-test-india-coach-answers/articleshow/133450153.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133450268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T03:26:41Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Devdutt Padikkal aces SSC Test: Second successive ton anchors India despite Rishabh Pant injury scare",
     "description": "Devdutt Padikkal continued his impressive run, hitting his second consecutive century, leading India to a total of 300 for five. Yashasvi Jaiswal contributed 45 runs but was involved in a heated exchange with the bowler after his dismissal. Captain Shubman Gi…",
@@ -169,51 +223,6 @@ window.cricketNews = [
     "image": "https://dam.mediacorp.sg/image/upload/s--gHrW3X_k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-23T154417Z_1_LYNXMPEM7M08G_RTROPTP_3_CRICKET-ASHES.JPG?itok=U5aAi4DK",
     "publishedAt": "2026-08-23T15:44:17Z",
     "author": null
-  },
-  {
-    "source": "Vanguard",
-    "title": "NGE Conference: Onaiyekan, Mbah, Osigwe, others to speak in Enugu",
-    "description": "The Nigerian Guild of Editors (NGE) has announced that its 2026 All Nigeria Editors Conference (ANEC) will hold at the International Conference Centre (ICC), Enugu, on September 24 and 25. More than 500 editors from across the country, alongside other disting…",
-    "url": "https://www.vanguardngr.com/2026/08/nge-conference-onaiyekan-mbah-osigwe-others-to-speak-in-enugu/",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/07/Cardinal-John-Onaiyekan.jpg",
-    "publishedAt": "2026-08-23T15:24:10Z",
-    "author": "Nwafor"
-  },
-  {
-    "source": "BBC News",
-    "title": "ECB investigating Carse 'nightclub incident'",
-    "description": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cg5l53d2ejmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-08-23T15:12:50Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "ECB investigating Carse 'nightclub incident'",
-    "description": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-    "publishedAt": "2026-08-23T15:07:04Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "England cricketer Brydon Carse handcuffed after nightclub incident - with former captain Ben Stokes spotted watching on",
-    "description": "Footage of Carse, 31, surrounded by police officers outside of a club in Derby has been circulating on social media.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16073861/England-cricketer-Brydon-Carse-handcuffed-nightclub.html",
-    "image": "https://i.dailymail.com/1s/2026/08/23/15/110803737-0-image-a-37_1787497186842.jpg",
-    "publishedAt": "2026-08-23T15:02:38Z",
-    "author": "Harry Bamforth"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli's friend Harry Kane reveals special India and IPL connection amid Ballon d'Or 2026 chances",
-    "description": "With the 2026 Ballon d'Or ceremony just weeks away, Bayern star Harry Kane recently revealed his connection to India and the IPL.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-friend-harry-kane-special-india-ipl-ballon-dor-chances/df65e69cb7fcfeaa54707fe9",
-    "image": "https://s.yimg.com/lo/mysterio/api/ddc6d51a01f537d268132efaf42671fba2d6b626dc077fb83e292fe9a5933744/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F83060ba1a9292a61994dd3d4e0014e02.jpg",
-    "publishedAt": "2026-08-23T14:59:29Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
