@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "Thephoblographer.com",
+    "title": "We Should Be Able to Calibrate a Camera’s Screen",
+    "description": "In 2026, something has occurred to me. Lots of my friends don't rate images in-camera partially because they don't trust their screens -- not to mention sometimes just being lazy. But I've thought about this at times, why can't I give an ICC profile to my cam…",
+    "url": "https://www.thephoblographer.com/2026/08/24/we-should-be-able-to-calibrate-a-cameras-screen/",
+    "image": "https://www.thephoblographer.com/wp-content/uploads/2026/06/Chris-Gampat-The-Phoblographer-Leica-SL3P-review-product-images-LEICA-SL2-SLUMIX-S-50-F1.8-21-50s400-5.jpg",
+    "publishedAt": "2026-08-24T13:00:00Z",
+    "author": "Chris Gampat"
+  },
+  {
+    "source": "RTE",
+    "title": "Irish players prepare for European T20 Premier League",
+    "description": "A new era for Irish cricket begins this week with the Belfast Wolves and the Dublin Guardians preparing for life in the new European T20 Premier League, while a host of other Irish players will represent other teams.",
+    "url": "https://www.rte.ie/sport/cricket/2026/0824/1589011-irish-players-prepare-for-european-t20-premier-league/",
+    "image": "https://www.rte.ie/images/0023cb98-1600.jpg",
+    "publishedAt": "2026-08-24T12:44:12Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "State cricket body can’t keep its polls in limbo, BCCI tells HC",
+    "description": "BCCI tells Orissa High Court Odisha Cricket Association must hold elections immediately; polls delayed since Oct 2025, term limits and cooling-off rules apply.",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/state-cricket-body-cant-keep-its-polls-in-limbo-bcci-tells-hc/articleshow/133466481.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-24T12:37:16Z",
+    "author": "Lalmohan Patnaik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Afghanistan annouces squad for T20I series against India: Ibrahim Zadran takes charge, Naveen-ul-Haq returns",
+    "description": "The Afghanistan Cricket Board has appointed Ibrahim Zadran as the new captain for the T20I series against India. Pacer Naveen-ul-Haq, returning from injury, is also back in the lineup. This series marks the first bilateral T20I clash between both nations. Fea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-annouces-squad-for-t20i-series-against-india-ibrahim-zadran-takes-charge-naveen-ul-haq-returns/articleshow/133463727.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133465906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T12:29:10Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Business Standard",
+    "title": "ICC penalises Jaiswal, Fernando with 25% match fee fine for heated exchange",
+    "description": "India opener Yashasvi Jaiswal and Sri Lanka seamer Asitha Fernando were on Monday fined 25 per cent of their match fee for an on-field altercation on day one of the second Test in Colombo.\nThe duo was also handed a demerit point each.\nThe players were involve…",
+    "url": "https://www.business-standard.com/cricket/news/icc-penalises-jaiswal-fernando-with-25-match-fee-fine-for-heated-exchange-126082400647_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/resize/1200X628/1787573960-607.jpg",
+    "publishedAt": "2026-08-24T12:19:47Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Abcnews.com",
+    "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
+    "description": "Famous cricketers from around the world have renewed their appeal for the medical treatment of former star player turned politician Imran Khan in a letter to Pakistan Prime Minister Shehbaz Sharif",
+    "url": "https://abcnews.com/International/wireStory/cricket-captains-world-renew-appeal-medical-treatment-imran-135895324",
+    "image": "https://i.abcnewsfe.com/a/44070860-3cab-473f-8b0f-6cbd6b6c907b/wirestory_ef31563b0a9122c6752c09b9b6b73782_16x9.jpg?w=1600",
+    "publishedAt": "2026-08-24T12:13:28Z",
+    "author": "RIZWAN ALI Associated Press, MUNIR AHMED Associated Press"
+  },
+  {
+    "source": "Foodiecrush.com",
+    "title": "Corn Fritters",
+    "description": "Super crispy on the outside and tender in the middle, these sweet corn fritters are packed with fresh corn kernels cut right off the cob. The batter is mixed together in one bowl, and there's no deep frying required. \nThe post Corn Fritters appeared first on …",
+    "url": "https://www.foodiecrush.com/corn-fritters/",
+    "image": "https://www.foodiecrush.com/wp-content/uploads/2026/08/Corn-Fritters-foodiecrush.com-9a.jpg",
+    "publishedAt": "2026-08-24T12:00:00Z",
+    "author": "Heidi Larsen"
+  },
+  {
     "source": "Business Standard",
     "title": "Jaiswal responds to Bhogle over Asitha clash assessment during Colombo Test",
     "description": "Both Jaiswal and Asitha Fernando have been fined 25% of their match fees and handed one demerit point by the ICC a day after the clash",
@@ -205,69 +268,6 @@ window.cricketNews = [
     "image": "https://www.nzherald.co.nz/resizer/v2/WBVOX3WA55HXZNDAG5YYBBE3TE.png?auth=ba24a0cab667bb169b92323426387571664224dfa0477bef7ee4fa6577fb1754&width=1200&height=675&quality=70&focal=1020%2C805&smart=false",
     "publishedAt": "2026-08-24T06:05:00Z",
     "author": "Samuel Sherry"
-  },
-  {
-    "source": "The Irish Times",
-    "title": "Irish cricket pads up for launch of T20 league with franchises worth millions",
-    "description": "Franchises in Belfast and Dublin will compete in the inaugural European T20 league, with high profile players from India and Australia among the team owners",
-    "url": "https://www.irishtimes.com/business/2026/08/24/irish-cricket-pads-up-for-launch-of-t20-league-with-franchises-worth-millions/",
-    "image": "https://www.irishtimes.com/resizer/v2/H2QBHB56BFBZ5D4ORUCKLRSG4I.jpg?smart=true&auth=7c3821f7ad0f331f158f295cc261570e6a7670ee69f59cc573e3f7d7cc5892f5&width=1200&height=630",
-    "publishedAt": "2026-08-24T05:00:01Z",
-    "author": "Nathan Johns"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-    "description": "A group of former cricket captains, including Indian batting legend Sunil Gavaskar and one of England's longest-serving skippers Sir Alastair Cook, have called on Pakistan to ensure its ex-PM Imran Khan be given proper care while in custody.\nThe cricketer-tur…",
-    "url": "https://biztoc.com/x/420aee69d8fae7e3",
-    "image": "https://biztoc.com/cdn/420aee69d8fae7e3_s.webp",
-    "publishedAt": "2026-08-24T04:29:43Z",
-    "author": "yahoo.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Another nightclub incident hits England: Fast bowler handcuffed, detained by police; ECB launches probe",
-    "description": "Videos circulating on social media appeared to show Carse being led away from a club in handcuffs by four police officers. Carse, who is part of England's squad for the second Test against Pakistan, was seen outside a nightclub in Derby.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/another-nightclub-incident-hits-england-fast-bowler-handcuffed-detained-by-police-ecb-launches-probe/articleshow/133450658.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133450921,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T04:13:37Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Everything to know about European T20 Premier League: Players, teams, owners and format of new ETPL cricket league",
-    "description": "With the inaugural season of the European Premier League set to kick off, here's everything you need to know about the players, teams, owners, and format of the ETPL tournament.",
-    "url": "https://www.cricketnews.com/en/cricket/news/european-t20-premier-league-players-teams-owners-format-etpl/830e5848d6ce3e35b18577f0",
-    "image": "https://s.yimg.com/lo/mysterio/api/9ef609e4d072bbc1dede1bf3ebf711e38316539d998dd4a8750b8f2e628e7299/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5359f386759c9f12a7859ac87c5e0de1.jpg",
-    "publishedAt": "2026-08-24T04:12:11Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-cricket captains call on Pakistan to ensure 'proper medical care' for Imran Khan",
-    "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-    "url": "https://www.bbc.com/news/articles/cx2z889l0dxo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
-    "publishedAt": "2026-08-24T04:01:15Z",
-    "author": "Kelly Ng"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-    "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-    "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
-    "publishedAt": "2026-08-24T03:55:35Z",
-    "author": "https://www.facebook.com/bbcnews"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Retired hurt after hit on wrist: Will Rishabh Pant bat on day 2 of Sri Lanka Test? India coach answers",
-    "description": "Cricket News: India wicketkeeper-batter Rishabh Pant retired hurt after being hit on his left arm during the opening day of the second Test against Sri Lanka in Col.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/retired-hurt-after-hit-on-wrist-will-rishabh-pant-bat-on-day-2-of-sri-lanka-test-india-coach-answers/articleshow/133450153.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133450268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T03:26:41Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
