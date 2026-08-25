@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "Brydon Carse dropped by England as investigation into nightclub incident - which saw him handcuffed by police - continues",
+    "description": "Carse has been dropped from England's squad for Thursday's second Test against Pakistan at Lord's while the Cricket Regulator investigate the events that led to police handcuffing him.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16076111/Brydon-Carse-dropped-England-investigation.html",
+    "image": "https://i.dailymail.com/1s/2026/08/24/15/110819841-0-image-m-15_1787581949444.jpg",
+    "publishedAt": "2026-08-24T14:32:50Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mumbai food safety crackdown: FDA shuts 5 MCA restaurants over hygiene violations",
+    "description": "India News: NEW DELHI: The Food and Drug Administration (FDA) has suspended the licences of five restaurants operating at the Mumbai Cricket Association (MCA) pre.",
+    "url": "https://timesofindia.indiatimes.com/india/mumbai-food-safety-crackdown-fda-shuts-5-mca-restaurants-over-hygiene-violations/articleshow/133470417.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133470477,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T14:16:33Z",
+    "author": "Vijaya Srivastava"
+  },
+  {
+    "source": "BBC News",
+    "title": "England drop Carse after nightclub incident",
+    "description": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by polic...",
+    "url": "https://www.bbc.com/sport/cricket/articles/cn74lg8xzpvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/07ab0a9201d92403ed2a27fbfdd3defd94fbac3b84f52deb1884742f034a1eda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2e7638d0640aac72d5ec72322fe089a4.jpg",
+    "publishedAt": "2026-08-24T14:13:27Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "England drop Carse after nightclub incident",
+    "description": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg",
+    "publishedAt": "2026-08-24T14:08:56Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "Business Standard",
+    "title": "FDA suspends licences of 5 food outlets at Mumbai Cricket Association site",
+    "description": "The Maharashtra Food and Drug Administration (FDA) has suspended the food licences of five outlets at the Mumbai Cricket Association (MCA) premises over the alleged violation of food safety norms, flagging deficiencies in food handling, storage, refrigeration…",
+    "url": "https://www.business-standard.com/india-news/fda-suspends-licences-of-5-food-outlets-at-mumbai-cricket-association-site-126082401100_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/10/thumb/fitandfill/1200X628/1765352985-9949.JPG",
+    "publishedAt": "2026-08-24T14:07:57Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "FDA suspends licenses of five restaurants at Mumbai Cricket Association over hygiene issues",
+    "description": "Maharashtra Food and Drug Administration suspended five restaurant licenses due to hygiene concerns.  The FDA also urged consumers to avoid unsealed edible oil, citing safety issues.  This action follows the Chief Minister's directive to frame standard operat…",
+    "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fda-suspends-licenses-of-five-restaurants-at-mumbai-cricket-association-over-hygiene-issues/articleshow/133468574.cms",
+    "image": "https://img.etimg.com/thumb/msid-133468809,width-1200,height-630,imgsize-71558,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-24T13:40:15Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "BBC News",
+    "title": "Worcestershire sign Sussex batter Thomas",
+    "description": "Worcestershire sign former England Under-19 batter George Thomas on a two-year deal.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cje82w87kywo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e31a75161cbe771d2e2cb7b9ca7bbf998a1b63ee6bda6845d504c36b3770bb1a/lightyear_networkapi/resizefill_w703_h395%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F83415c72ba7214889edbf3c5bb4bd599.jpg",
+    "publishedAt": "2026-08-24T13:37:20Z",
+    "author": "BBC"
+  },
+  {
+    "source": "ANI News",
+    "title": "\"We want him to get best treatment\": Kapil Dev on letter to Pakistan PM over \"friend\" Imran Khan's health",
+    "description": "Former India captain Kapil Dev said the appeal by 22 former international cricket captains to Pakistan Prime Minister Shehbaz Sharif, seeking proper medical treatment for former Pakistan cricket captain Imran Khan, was motivated by friendship and admiration f…",
+    "url": "https://www.aninews.in/news/sports/cricket/we-want-him-to-get-best-treatment-kapil-dev-on-letter-to-pakistan-pm-over-friend-imran-khans-health20260824175607",
+    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824122548-thumbnail-320x180-70.jpg",
+    "publishedAt": "2026-08-24T13:31:36Z",
+    "author": null
+  },
+  {
     "source": "Thephoblographer.com",
     "title": "We Should Be Able to Calibrate a Camera’s Screen",
     "description": "In 2026, something has occurred to me. Lots of my friends don't rate images in-camera partially because they don't trust their screens -- not to mention sometimes just being lazy. But I've thought about this at times, why can't I give an ICC profile to my cam…",
@@ -196,78 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133456182,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-24T07:35:30Z",
     "author": "Naseer Ganai"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma joins LightFury Games as investor; eCricket closed beta to begin in September",
-    "description": "Rohit Sharma has joined LightFury Games as an investor and officially licensed player in its upcoming cricket title, eCricket. The game will enter closed beta in September 2026, with over 300,000 sign-ups. Rohit becomes the eighth marquee cricketer to invest …",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/rohit-sharma-joins-lightfury-games-as-investor-ecricket-closed-beta-to-begin-in-september/articleshow/133455978.cms",
-    "image": "https://img.etimg.com/thumb/msid-133456046,width-1200,height-630,imgsize-70984,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-24T07:26:43Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Report: No takers for BCCI’s India cricket title sponsorship rights as 15.5% hike causes hesitation",
-    "description": "The BCCI might be the richest cricket board, but a recent sponsorship price hike has left the Indian team without any takers ahead of the new home season.",
-    "url": "https://www.cricketnews.com/en/cricket/news/no-takers-bcci-india-cricket-title-sponsorship-hike-hesitation/0e68ea9a23e2b2d81b273d43",
-    "image": "https://s.yimg.com/lo/mysterio/api/45d0c7c3b52060969fe78176c8b4897e87dbcd88f02360480564fd169b103989/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1287d2cf7ed650e70c751164bc80d0f0.jpg",
-    "publishedAt": "2026-08-24T07:24:46Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pant, Jurel guide India to 419-6 at lunch on Day 2 of the 2nd cricket test against Sri Lanka",
-    "description": "Rishabh Pant and Druv Jurel scored half-centuries and shared an unbeaten 112-run partnership for the seventh wicket as India reached 419 for six at lunch on Day 2 of the second cricket test against Sri Lanka. India resumed Monday at 300-5 and lost their sixth…",
-    "url": "https://sports.yahoo.com/articles/pant-jurel-guide-india-419-072003975.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/d4378b0179e1dc24091c1bfb1327fda5f33d65c84541e495908779ed2a4b9067/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd66481bf02a6aae44f601617b11f279f.jpg",
-    "publishedAt": "2026-08-24T07:20:03Z",
-    "author": "KRISHAN FRANCIS"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pant scripts history, surpasses Dhoni to become India's leading wicketkeeper run-scorer in away Tests",
-    "description": "Rishabh Pant has become India's leading wicketkeeper-batter in away Test matches. He surpassed the legendary MS Dhoni's long-standing run-scoring record during the recent match. Pant achieved this significant milestone while batting against Sri Lanka in Colom…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rishabh-pant-breaks-dhonis-record-to-become-indias-top-wicketkeeper-run-scorer-in-away-tests/articleshow/133455604.cms",
-    "image": "https://img.etimg.com/thumb/msid-133455845,width-1200,height-630,imgsize-71660,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-24T07:18:17Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "Can you name world's top 20 men's Test bowlers?",
-    "description": "Can you name the top 20 men's bowlers in the world based on the International Cricket Council's Test rankings?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckgdgvyv2zdo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/95e8/live/54f98a40-9e23-11f1-b109-879e35c24276.png",
-    "publishedAt": "2026-08-24T07:06:06Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rishabh Pant leapfrogs Shubman Gill to become India’s leading WTC run-scorer",
-    "description": "Rishabh Pant has etched his name in cricket history as India's top scorer in World Test Championship, successfully surpassing Shubman Gill's record during the thrilling second Test against Sri Lanka. Moreover, he has broken MS Dhoni's record for the highest r…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-leapfrogs-shubman-gill-to-become-indias-leading-wtc-run-scorer/articleshow/133454628.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133454949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T06:58:11Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pant surpasses Dhoni, becomes first India wicketkeeper to achieve this feat",
-    "description": "Rishabh Pant has etched his name in Indian cricket history by surpassing MS Dhoni as the leading run-scorer for Indian wicketkeepers in away Tests. Achieving this remarkable milestone in a gripping match, Pant maintained an impressive batting average. Notably…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-surpasses-ms-dhoni-becomes-first-india-wicketkeeper-to-score-2500-away-test-runs/articleshow/133453359.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133453423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T06:15:43Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "New Zealand forced to share Over-60 Cricket World Cup title with controversial England side",
-    "description": "An England batter was banned after refusing to walk in an LBW row.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/new-zealand-forced-to-share-over-60-cricket-world-cup-title-with-controversial-england-side/7TNHCMPALJDXPCPZXQGQKQS5DI/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/WBVOX3WA55HXZNDAG5YYBBE3TE.png?auth=ba24a0cab667bb169b92323426387571664224dfa0477bef7ee4fa6577fb1754&width=1200&height=675&quality=70&focal=1020%2C805&smart=false",
-    "publishedAt": "2026-08-24T06:05:00Z",
-    "author": "Samuel Sherry"
   }
 ]
 ;
