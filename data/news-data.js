@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Cricket: Dhruv Jurel hits unbeaten 115, Rishabh Pant 63 as India, 1-0 ahead, take charge of series",
+    "description": "Pant's batting was best encapsulated by a falling pull off Lahiru Kumara in the 90th over. The contact with the ball was so clean that it disappeared in the gap between the Col. FC de Saram Pavilion and the Members' Enclosure and landed onto Gregory's Road. T…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-dhruv-jurel-hits-unbeaten-115-rishabh-pant-63-as-india-1-0-ahead-take-charge-of-series/articleshow/133476863.cms",
+    "image": "https://img.etimg.com/thumb/msid-133476955,width-1200,height-630,imgsize-57988,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-24T18:42:21Z",
+    "author": "Anand Vasu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MCA seeks permission to develop and maintain Shivaji Park ground",
+    "description": "Mumbai Cricket Association seeks BMC approval to develop and maintain Shivaji Park at its own cost, aiming to preserve the heritage ground and curb dust pollution.",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/mca-seeks-permission-to-develop-and-maintain-shivaji-park-ground/articleshow/133476187.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-24T18:16:11Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Offline ticket sales for second leg of UP T20 League begins in city",
+    "description": "Offline ticket sales for UP T20 League’s second leg begin in Kanpur; tickets available at multiple city outlets and Green Park mega box office ahead of Aug 28 start.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/offline-ticket-sales-for-second-leg-of-up-t20-league-begins-in-city/articleshow/133475681.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-24T17:56:41Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Girl brings laurels to city by claiming six wickets in four matches",
+    "description": "Kanpur’s Priyanshi Dixit, India women’s deaf cricket star, took 6 wickets vs Sri Lanka in 2026 T20 series; DM Jitendra Pratap Singh felicitated her.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/girl-brings-laurels-to-city-by-claiming-six-wickets-in-four-matches/articleshow/133475599.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-24T17:55:07Z",
+    "author": "The Times Of India"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Did Jaiswal get away with a lenient fine for Asitha Fernando head butt? What do the rules say?",
     "description": "Did Yashasvi Jaiswal get away with a lenient fine for the Asitha Fernando headbutt clash? Explore the ICC Code of Conduct rules, Article 2.12, and penalties.",
@@ -142,132 +178,6 @@ window.cricketNews = [
     "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824122548-thumbnail-320x180-70.jpg",
     "publishedAt": "2026-08-24T13:31:36Z",
     "author": null
-  },
-  {
-    "source": "Thephoblographer.com",
-    "title": "We Should Be Able to Calibrate a Camera’s Screen",
-    "description": "In 2026, something has occurred to me. Lots of my friends don't rate images in-camera partially because they don't trust their screens -- not to mention sometimes just being lazy. But I've thought about this at times, why can't I give an ICC profile to my cam…",
-    "url": "https://www.thephoblographer.com/2026/08/24/we-should-be-able-to-calibrate-a-cameras-screen/",
-    "image": "https://www.thephoblographer.com/wp-content/uploads/2026/06/Chris-Gampat-The-Phoblographer-Leica-SL3P-review-product-images-LEICA-SL2-SLUMIX-S-50-F1.8-21-50s400-5.jpg",
-    "publishedAt": "2026-08-24T13:00:00Z",
-    "author": "Chris Gampat"
-  },
-  {
-    "source": "RTE",
-    "title": "Irish players prepare for European T20 Premier League",
-    "description": "A new era for Irish cricket begins this week with the Belfast Wolves and the Dublin Guardians preparing for life in the new European T20 Premier League, while a host of other Irish players will represent other teams.",
-    "url": "https://www.rte.ie/sport/cricket/2026/0824/1589011-irish-players-prepare-for-european-t20-premier-league/",
-    "image": "https://www.rte.ie/images/0023cb98-1600.jpg",
-    "publishedAt": "2026-08-24T12:44:12Z",
-    "author": "RTÉ Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "State cricket body can’t keep its polls in limbo, BCCI tells HC",
-    "description": "BCCI tells Orissa High Court Odisha Cricket Association must hold elections immediately; polls delayed since Oct 2025, term limits and cooling-off rules apply.",
-    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/state-cricket-body-cant-keep-its-polls-in-limbo-bcci-tells-hc/articleshow/133466481.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-24T12:37:16Z",
-    "author": "Lalmohan Patnaik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Afghanistan annouces squad for T20I series against India: Ibrahim Zadran takes charge, Naveen-ul-Haq returns",
-    "description": "The Afghanistan Cricket Board has appointed Ibrahim Zadran as the new captain for the T20I series against India. Pacer Naveen-ul-Haq, returning from injury, is also back in the lineup. This series marks the first bilateral T20I clash between both nations. Fea…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-annouces-squad-for-t20i-series-against-india-ibrahim-zadran-takes-charge-naveen-ul-haq-returns/articleshow/133463727.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133465906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T12:29:10Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Business Standard",
-    "title": "ICC penalises Jaiswal, Fernando with 25% match fee fine for heated exchange",
-    "description": "India opener Yashasvi Jaiswal and Sri Lanka seamer Asitha Fernando were on Monday fined 25 per cent of their match fee for an on-field altercation on day one of the second Test in Colombo.\nThe duo was also handed a demerit point each.\nThe players were involve…",
-    "url": "https://www.business-standard.com/cricket/news/icc-penalises-jaiswal-fernando-with-25-match-fee-fine-for-heated-exchange-126082400647_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/resize/1200X628/1787573960-607.jpg",
-    "publishedAt": "2026-08-24T12:19:47Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Abcnews.com",
-    "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
-    "description": "Famous cricketers from around the world have renewed their appeal for the medical treatment of former star player turned politician Imran Khan in a letter to Pakistan Prime Minister Shehbaz Sharif",
-    "url": "https://abcnews.com/International/wireStory/cricket-captains-world-renew-appeal-medical-treatment-imran-135895324",
-    "image": "https://i.abcnewsfe.com/a/44070860-3cab-473f-8b0f-6cbd6b6c907b/wirestory_ef31563b0a9122c6752c09b9b6b73782_16x9.jpg?w=1600",
-    "publishedAt": "2026-08-24T12:13:28Z",
-    "author": "RIZWAN ALI Associated Press, MUNIR AHMED Associated Press"
-  },
-  {
-    "source": "Foodiecrush.com",
-    "title": "Corn Fritters",
-    "description": "Super crispy on the outside and tender in the middle, these sweet corn fritters are packed with fresh corn kernels cut right off the cob. The batter is mixed together in one bowl, and there's no deep frying required. \nThe post Corn Fritters appeared first on …",
-    "url": "https://www.foodiecrush.com/corn-fritters/",
-    "image": "https://www.foodiecrush.com/wp-content/uploads/2026/08/Corn-Fritters-foodiecrush.com-9a.jpg",
-    "publishedAt": "2026-08-24T12:00:00Z",
-    "author": "Heidi Larsen"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Jaiswal responds to Bhogle over Asitha clash assessment during Colombo Test",
-    "description": "Both Jaiswal and Asitha Fernando have been fined 25% of their match fees and handed one demerit point by the ICC a day after the clash",
-    "url": "https://www.business-standard.com/cricket/news/jaiswal-responds-to-bhogle-over-asitha-clash-assessment-during-colombo-test-126082400791_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/resize/1200X628/1787569317-7965.jpg",
-    "publishedAt": "2026-08-24T11:02:37Z",
-    "author": "BS Web Team"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Yashasvi Jaiswal, Asitha Fernando sanctioned by ICC for on-field clash during Colombo Test",
-    "description": "Indian opener Yashasvi Jaiswal and Sri Lankan pacer Asitha Fernando received sanctions from the ICC. Both players were found guilty of breaching the ICC Code of Conduct for inappropriate physical contact. They were each fined 25 percent of their match fees an…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/yashasvi-jaiswal-and-asitha-fernando-fined-and-penalized-by-icc-for-on-field-clash-in-colombo-test/articleshow/133462657.cms",
-    "image": "https://img.etimg.com/thumb/msid-133462962,width-1200,height-630,imgsize-90696,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-24T11:00:56Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'One tip one hand': English batter out in bizarre fashion in County match - Watch",
-    "description": "Northamptonshire pacer Luke Procter bowled a short delivery that angled into left-handed Moores. The batter went back and defended the ball, which bounced close to the crease and appeared to be heading towards the stumps.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-tip-one-hand-english-batter-out-in-bizarre-fashion-in-county-match-watch/articleshow/133460702.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133461149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T10:43:22Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Too lenient': Fans react as Yashasvi Jaiswal avoids ban, escapes with 25% fine after Asitha Fernando head clash",
-    "description": "After an altercation with Sri Lanka's Asitha Fernando, opener Yashasvi Jaiswal risked a hefty fine under ICC rules but escaped with just a 25% fine.",
-    "url": "https://www.cricketnews.com/en/cricket/news/fans-react-yashasvi-jaiswal-avoids-ban-escapes-25-fine-fernando/1c2fb0dfe9fccc0d8301da16",
-    "image": "https://s.yimg.com/lo/mysterio/api/c914b14bc9160c1450b25bafbfba5dccfc39cf839b493488f97811d2412cd0e6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0d76f3a840c29a42b69c1ce3d0d9f23d.jpg",
-    "publishedAt": "2026-08-24T10:42:21Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Stone signs new Nottinghamshire deal",
-    "description": "Nottinghamshire pace bowler Olly Stone signs a two-year contract extension to remain at Trent Bridge until the end of the 2028 season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cwyz4jn74gro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2e7e80c495ba57d710359c1d4ed0b01982e748fa712b20b39b0e604f8fba7f80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F10053e7bf43eb862e56cfd223f3bb786.jpg",
-    "publishedAt": "2026-08-24T09:49:59Z",
-    "author": "Andrew Aloia - BBC Sport, East Midlands"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
-    "description": "Yashasvi Jaiswal and Asitha Fernando faced penalties for their on-field clash during a recent match. The International Cricket Council announced Level 1 sanctions after both athletes acknowledged their wrongdoing. The tension flared up following Fernando's di…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yashasvi-jaiswal-asitha-fernando-fined-25-match-fee-for-colombo-test-altercation/articleshow/133459925.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133460003,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T09:42:10Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Khalid Al Zarooni elected as ACC's Vice-President, ACB added to body's full member board",
-    "description": "Khalid Al Zarooni's election as vice-president of the Asian Cricket Council reflects a pivotal moment for cricket in the region. With the Afghanistan Cricket Board attaining full membership status, it can now aspire to presidency within the council. This deve…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/khalid-al-zarooni-elected-as-accs-vice-president-acb-added-to-bodys-full-member-board/articleshow/133459797.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133459853,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T09:35:49Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
