@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Devdutt Padikkal aces SSC Test: Second successive ton anchors India despite Rishabh Pant injury scare",
+    "description": "Devdutt Padikkal continued his impressive run, hitting his second consecutive century, leading India to a total of 300 for five. Yashasvi Jaiswal contributed 45 runs but was involved in a heated exchange with the bowler after his dismissal. Captain Shubman Gi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-aces-ssc-test-second-successive-ton-anchors-india-despite-pant-injury-scare/articleshow/133449823.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133449854,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T02:50:46Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "England cricket’s nightclub incidents: A look at controversies involving English players since 2025",
+    "description": "With the recent Brydon Carse incident just being the latest in a long line of controversies, here's a look at the scandals team England faced.",
+    "url": "https://www.cricketnews.com/en/cricket/news/england-cricket-nightclub-incidents-players-2025-26/045dc68a525d6e4b5417ec64",
+    "image": "https://s.yimg.com/lo/mysterio/api/7fbe8180b22afde436d2a6f1c6b5e67b2e2917a11a9d7bad82bc17a16b1a1989/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fde8dfcfd17c6025166eb75361d3490e3.jpg",
+    "publishedAt": "2026-08-24T02:17:19Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
     "title": "‘If you can’t take it back, don’t say it’: Ajay Jadeja’s blunt message to Yashasvi Jaiswal after Asitha Fernando spat",
     "description": "Yashasvi Jaiswal has come under fire for his altercation with Sri Lanka's Asitha Fernando. Former cricketer Ajay Jadeja cautioned Jaiswal about the potential repercussions of his aggressive behaviour. India’s batting coach acknowledged that Jaiswal should hav…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/if-you-cant-take-it-back-dont-say-it-ajay-jadejas-blunt-message-to-yashasvi-jaiswal-after-asitha-fernando-spat/articleshow/133449070.cms",
@@ -196,24 +214,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/ddc6d51a01f537d268132efaf42671fba2d6b626dc077fb83e292fe9a5933744/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F83060ba1a9292a61994dd3d4e0014e02.jpg",
     "publishedAt": "2026-08-23T14:59:29Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Yashasvi Jaiswal shouldn't have gone so close': Team India coach on heated on-field exchange with Asitha Fernando",
-    "description": "Yashasvi Jaiswal was batting well on 45 when Fernando dismissed him in the 17th over. The Sri Lankan pacer gave Jaiswal an animated send-off and appeared to exchange words with the batter. Jaiswal initially walked away but then turned back towards Fernando. T…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/yashasvi-jaiswal-shouldnt-have-gone-so-close-team-india-coach-on-heated-on-field-exchange-with-asitha-fernando/articleshow/133440711.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133440769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T13:46:47Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Pleasing to the eye': Ex-India cricketer calls Devdutt Padikkal 'boost' for No. 3 spot after another Test ton",
-    "description": "Devdutt Padikkal scored 117 to register his second Test century and help India reach 300-5 against Sri Lanka on the opening day. Irfan Pathan praised the batter, calling him a boost for India's No. 3 spot. Padikkal shared key partnerships with Shubman Gill an…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/pleasing-to-the-eye-ex-india-cricketer-calls-devdutt-padikkal-boost-for-no-3-spot-after-another-test-ton/articleshow/133440468.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133440553,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T13:26:20Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
