@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "Jaiswal responds to Bhogle over Asitha clash assessment during Colombo Test",
+    "description": "Both Jaiswal and Asitha Fernando have been fined 25% of their match fees and handed one demerit point by the ICC a day after the clash",
+    "url": "https://www.business-standard.com/cricket/news/jaiswal-responds-to-bhogle-over-asitha-clash-assessment-during-colombo-test-126082400791_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/24/thumb/resize/1200X628/1787569317-7965.jpg",
+    "publishedAt": "2026-08-24T11:02:37Z",
+    "author": "BS Web Team"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Yashasvi Jaiswal, Asitha Fernando sanctioned by ICC for on-field clash during Colombo Test",
+    "description": "Indian opener Yashasvi Jaiswal and Sri Lankan pacer Asitha Fernando received sanctions from the ICC. Both players were found guilty of breaching the ICC Code of Conduct for inappropriate physical contact. They were each fined 25 percent of their match fees an…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/yashasvi-jaiswal-and-asitha-fernando-fined-and-penalized-by-icc-for-on-field-clash-in-colombo-test/articleshow/133462657.cms",
+    "image": "https://img.etimg.com/thumb/msid-133462962,width-1200,height-630,imgsize-90696,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-24T11:00:56Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'One tip one hand': English batter out in bizarre fashion in County match - Watch",
+    "description": "Northamptonshire pacer Luke Procter bowled a short delivery that angled into left-handed Moores. The batter went back and defended the ball, which bounced close to the crease and appeared to be heading towards the stumps.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-tip-one-hand-english-batter-out-in-bizarre-fashion-in-county-match-watch/articleshow/133460702.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133461149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-24T10:43:22Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Too lenient': Fans react as Yashasvi Jaiswal avoids ban, escapes with 25% fine after Asitha Fernando head clash",
+    "description": "After an altercation with Sri Lanka's Asitha Fernando, opener Yashasvi Jaiswal risked a hefty fine under ICC rules but escaped with just a 25% fine.",
+    "url": "https://www.cricketnews.com/en/cricket/news/fans-react-yashasvi-jaiswal-avoids-ban-escapes-25-fine-fernando/1c2fb0dfe9fccc0d8301da16",
+    "image": "https://s.yimg.com/lo/mysterio/api/c914b14bc9160c1450b25bafbfba5dccfc39cf839b493488f97811d2412cd0e6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0d76f3a840c29a42b69c1ce3d0d9f23d.jpg",
+    "publishedAt": "2026-08-24T10:42:21Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "BBC News",
     "title": "Stone signs new Nottinghamshire deal",
     "description": "Nottinghamshire pace bowler Olly Stone signs a two-year contract extension to remain at Trent Bridge until the end of the 2028 season.",
@@ -231,33 +267,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/retired-hurt-after-hit-on-wrist-will-rishabh-pant-bat-on-day-2-of-sri-lanka-test-india-coach-answers/articleshow/133450153.cms",
     "image": "https://static.toiimg.com/thumb/msid-133450268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-24T03:26:41Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Devdutt Padikkal aces SSC Test: Second successive ton anchors India despite Rishabh Pant injury scare",
-    "description": "Devdutt Padikkal continued his impressive run, hitting his second consecutive century, leading India to a total of 300 for five. Yashasvi Jaiswal contributed 45 runs but was involved in a heated exchange with the bowler after his dismissal. Captain Shubman Gi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-aces-ssc-test-second-successive-ton-anchors-india-despite-pant-injury-scare/articleshow/133449823.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133449854,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T02:50:46Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "England cricket’s nightclub incidents: A look at controversies involving English players since 2025",
-    "description": "With the recent Brydon Carse incident just being the latest in a long line of controversies, here's a look at the scandals team England faced.",
-    "url": "https://www.cricketnews.com/en/cricket/news/england-cricket-nightclub-incidents-players-2025-26/045dc68a525d6e4b5417ec64",
-    "image": "https://s.yimg.com/lo/mysterio/api/7fbe8180b22afde436d2a6f1c6b5e67b2e2917a11a9d7bad82bc17a16b1a1989/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fde8dfcfd17c6025166eb75361d3490e3.jpg",
-    "publishedAt": "2026-08-24T02:17:19Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘If you can’t take it back, don’t say it’: Ajay Jadeja’s blunt message to Yashasvi Jaiswal after Asitha Fernando spat",
-    "description": "Yashasvi Jaiswal has come under fire for his altercation with Sri Lanka's Asitha Fernando. Former cricketer Ajay Jadeja cautioned Jaiswal about the potential repercussions of his aggressive behaviour. India’s batting coach acknowledged that Jaiswal should hav…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/if-you-cant-take-it-back-dont-say-it-ajay-jadejas-blunt-message-to-yashasvi-jaiswal-after-asitha-fernando-spat/articleshow/133449070.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133449118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T01:34:34Z",
     "author": "TOI Sports Desk"
   }
 ]
