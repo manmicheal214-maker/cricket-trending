@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "England bowler Brydon Carse under investigation over nightclub video",
+    "description": "England bowler Brydon Carse is being investigated over a video appearing to show him being led away from a nightclub in handcuffs by police.",
+    "url": "https://www.abc.net.au/news/2026-08-24/england-brydon-carse-under-investigation-over-nightclub-video/107072944",
+    "image": "https://live-production.wcms.abc-cdn.net.au/92b08b9315d6fffd8de5467b458be8ad?impolicy=wcms_watermark_news&cropH=2709&cropW=4816&xPos=0&yPos=245&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-24T08:33:35Z",
+    "author": null
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "\"It's the worst Pakistan team I've seen\" | The Telegraph Cricket podcast",
+    "description": "Nick Hoult reflects on England's win over Pakistan at Headingley and says it's the worst version of a Pakistan side he has ever ...",
+    "url": "https://biztoc.com/x/8c95e2a7360d65e1",
+    "image": "https://biztoc.com/cdn/8c95e2a7360d65e1_s.webp",
+    "publishedAt": "2026-08-24T08:12:50Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Batters with most sixes in Test international cricket: Rishabh Pant overtakes Adam Gilchrist's 100 sixes tally",
+    "description": "Rishabh Pant became only the fourth batter in Test history to hit 100 sixes in his career while also crossing Adam Gilchrist's mark.",
+    "url": "https://www.cricketnews.com/en/cricket/news/batters-most-sixes-test-cricket/7e4e646ea880d922185a1b3b",
+    "image": "https://s.yimg.com/lo/mysterio/api/c943f64d15a44aba9bfa041f5a1a480f3280970a71e53d51042b62e554532206/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5e956f7314335b7eae0a488566ebd77c.jpg",
+    "publishedAt": "2026-08-24T08:08:12Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Indian player Jaiswal protests after being dismissed by Asitha (video)",
+    "description": "Indian opening batsman Yashasvi Jaiswal has commented on the heated dispute with Sri Lankan fast bowler Asitha Fernando during the second Test match between Sri Lanka and India at the SSC Ground in Colombo.He says that if anyone crosses the line, India is rea…",
+    "url": "https://english.gossiplankanews.com/2026/08/indian-player-jaiswal-protests-after.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vMaNuAzad1mW36-CTGaI_nClFKL7kWjy28m8hOE3Al-dZPlBTx52i6c4XF6Dp6sfsQ5exSPIpZI6vFk3JGMGGx2VXec4wkJQMFMRBCWdLv-mMe1CpjmzH_r97DKerD0ddB-Hd6tMIO5rSFH-bRZFVzlS7puVXr2NxD0cQ=w1600",
+    "publishedAt": "2026-08-24T08:05:24Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
     "source": "The Times of India",
     "title": "In Pulwama, one man’s big bet on cricket and all eyes are on it across J&K",
     "description": "Irfan Ahmad Bhat is significantly impacting cricket in Pulwama by organizing vibrant tournaments. Last year, he pioneered night cricket events featuring floodlights and digital scoreboards, which have gained immense popularity. This year's Royal Premier Leagu…",
@@ -196,42 +232,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/27d3/live/f597c250-9f36-11f1-b109-879e35c24276.jpg",
     "publishedAt": "2026-08-23T21:39:38Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "ET World Leaders Forum: Cricket is a great investment but rights costs have run out of control, says JioStar's Uday Shankar",
-    "description": "JioStar vice chairman Uday Shankar said sports, particularly cricket, has been a major investment for the company, helping it build a digital audience of 600 million monthly active users. However, he said soaring cricket media rights costs have made the busin…",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/et-world-leaders-forum-cricket-is-a-great-investment-but-rights-costs-have-run-out-of-control-says-jiostars-uday-shankar/articleshow/133446318.cms",
-    "image": "https://img.etimg.com/thumb/msid-133446240,width-1200,height-630,imgsize-122400,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-23T19:40:45Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ET World Leaders Forum: Cricket is a great investment but rights costs have run out of control, says JioStar's Uday Shankar",
-    "description": "JioStar vice chairman Uday Shankar said sports, particularly cricket, has been a major investment for the company, helping it build a digital audience of 600 million monthly active users. However, he said soaring cricket media rights costs have made the busin…",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/et-world-leaders-forum-cricket-is-a-great-investment-but-rights-costs-have-run-out-of-control-says-jiostars-uday-shankar/articleshow/133446241.cms",
-    "image": "https://img.etimg.com/thumb/msid-133446240,width-1200,height-630,imgsize-122400,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-23T19:40:45Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MP’s Saransh spins his way into Test cricket",
-    "description": "33-year-old MP off-spinner Saransh Jain makes his India Test debut vs Sri Lanka, receiving his cap from Ravindra Jadeja after strong domestic form.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/mps-saransh-spins-his-way-into-test-cricket/articleshow/133446277.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133446276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-23T19:35:56Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Cricket: Devdutt Padikkal straight hundred puts India in command after Sri Lanka squander early openings",
-    "description": "After losing the toss, Sri Lanka’s bowlers will feel that they did not allow India to run away with the game. There is a grain of truth in this, but a closer examination of how things panned out tells a different story. India’s openers, KL Rahul and Yashasvi …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-devdutt-padikkal-straight-hundred-puts-india-in-command-after-sri-lanka-squander-early-openings/articleshow/133446187.cms",
-    "image": "https://img.etimg.com/thumb/msid-133446200,width-1200,height-630,imgsize-54870,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-23T19:27:22Z",
-    "author": "Anand Vasu"
   }
 ]
 ;
