@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Truthout",
+    "title": "Trump Sanctioned ICC Officials to Shield Israeli Leaders. Rights Groups Sued.",
+    "description": "Supporters of Trump-sanctioned individuals or entities face maximums of $1 million in fines and 20 years imprisonment.",
+    "url": "https://truthout.org/articles/trump-sanctioned-icc-officials-to-shield-israeli-leaders-rights-groups-sued/",
+    "image": "https://truthout.org/app/uploads/2026/08/GettyImages-2209924672-scaled.jpg",
+    "publishedAt": "2026-08-24T21:23:13Z",
+    "author": "Marjorie Cohn"
+  },
+  {
     "source": "The Times of India",
     "title": "Chikara eyes IPL return after stellar UP T20 League run",
     "description": "Swastik Chikara tops UP T20 League runs (237, SR 182) as Meerut Mavericks reach playoffs, boosting his hopes of an IPL comeback after going unsold.",
@@ -133,42 +142,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/24/15/110819841-0-image-m-15_1787581949444.jpg",
     "publishedAt": "2026-08-24T14:32:50Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mumbai food safety crackdown: FDA shuts 5 MCA restaurants over hygiene violations",
-    "description": "India News: NEW DELHI: The Food and Drug Administration (FDA) has suspended the licences of five restaurants operating at the Mumbai Cricket Association (MCA) pre.",
-    "url": "https://timesofindia.indiatimes.com/india/mumbai-food-safety-crackdown-fda-shuts-5-mca-restaurants-over-hygiene-violations/articleshow/133470417.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133470477,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T14:16:33Z",
-    "author": "Vijaya Srivastava"
-  },
-  {
-    "source": "BBC News",
-    "title": "England drop Carse after nightclub incident",
-    "description": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by polic...",
-    "url": "https://www.bbc.com/sport/cricket/articles/cn74lg8xzpvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/07ab0a9201d92403ed2a27fbfdd3defd94fbac3b84f52deb1884742f034a1eda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2e7638d0640aac72d5ec72322fe089a4.jpg",
-    "publishedAt": "2026-08-24T14:13:27Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "England drop Carse after nightclub incident",
-    "description": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg",
-    "publishedAt": "2026-08-24T14:08:56Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Business Standard",
-    "title": "FDA suspends licences of 5 food outlets at Mumbai Cricket Association site",
-    "description": "The Maharashtra Food and Drug Administration (FDA) has suspended the food licences of five outlets at the Mumbai Cricket Association (MCA) premises over the alleged violation of food safety norms, flagging deficiencies in food handling, storage, refrigeration…",
-    "url": "https://www.business-standard.com/india-news/fda-suspends-licences-of-5-food-outlets-at-mumbai-cricket-association-site-126082401100_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/10/thumb/fitandfill/1200X628/1765352985-9949.JPG",
-    "publishedAt": "2026-08-24T14:07:57Z",
-    "author": "Press Trust of India"
   }
 ]
 ;
