@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Rasamalaysia.com",
+    "title": "Vietnamese Shrimp Cake",
+    "description": "This easy 15-minute Vietnamese shrimp cake recipe uses crisp rice paper sheets to hold a savory, seasoned shrimp filling. Pan-fried to golden perfection, it comes together smoothly without any messy flour batter.",
+    "url": "https://rasamalaysia.com/vietnamese-shrimp-cake/",
+    "image": "https://rasamalaysia.com/wp-content/uploads/2026/08/vietnamese-shrimp-cake-1.jpg",
+    "publishedAt": "2026-08-25T08:12:58Z",
+    "author": "Rasa Malaysia"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "MCA Kitchens Under Scrutiny: Bombay HC Orders Fresh FDA Inspection",
+    "description": "The Bombay High Court has directed the FDA to conduct a fresh inspection of the Mumbai Cricket Association's kitchens after serious food safety and hygiene violations were found, including insects. The court also humorously questioned if cricketers were aware…",
+    "url": "https://www.rediff.com/sports/report/mca-kitchens-infested-hc-quips-non-veg-tea-orders-reinspection/20260825.htm",
+    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+    "publishedAt": "2026-08-25T08:11:43Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Prasidh Krishna takes 3-35 for India. Sri Lanka reaches 130-4 at lunch on Day 3 of 2nd cricket test",
+    "description": "Pasindu Sooriyabandara scored an unbeaten half-century but India's Prasidh Krishna made a vital breakthrough to end an important partnership and have Sri Lanka in trouble at 130 for four at lunch on Day 3 of the second cricket test. At the first interval Tues…",
+    "url": "https://sports.yahoo.com/articles/prasidh-krishna-takes-3-35-074528082.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/00fdffbfccfeee39ce49534f8978b1a3bb96c211a232cd47533609fe0d617a65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7fad9b1677a3ed2dd1b55d0dd4a3ee48.jpg",
+    "publishedAt": "2026-08-25T07:45:28Z",
+    "author": "KRISHAN FRANCIS"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Zeeshan Ansari: 'India A and IPL exposure has made me a better leg-spinner'",
+    "description": "After years in the wilderness, Zeeshan Ansari's IPL and India A exposure has helped the leg-spinner understand his craft better, with the UP T20 league providing the breakthrough that revived his career.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/zeeshan-ansari-india-a-and-ipl-exposure-has-made-me-a-better-leg-spinner/articleshow/133499070.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133499395,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T07:35:41Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Over 1.1 million GM vehicles, including EVs, are under NHTSA investigation",
+    "description": "cles are now under a broader investigation after drivers reported losing brake assist, including several EVs and models built for Honda.\nGM vehicles under investigation by the ODI\nThe National Highway Traffic Safety Administration (NHTSA) expanded its investi…",
+    "url": "https://biztoc.com/x/5147a7f96f2ae137",
+    "image": "https://biztoc.com/cdn/5147a7f96f2ae137_s.webp",
+    "publishedAt": "2026-08-25T07:22:14Z",
+    "author": "electrek.co"
+  },
+  {
     "source": "The Times of India",
     "title": "'Punishment that sends shiver down the team': Ex-England captain on Brydon Carse nightclub incident",
     "description": "Brydon Carse is under investigation by the England and Wales Cricket Board after a nightclub incident resulted in his arrest. Consequently, he has been removed from the Test squad. Former captain Michael Vaughan insists that a severe punishment is necessary f…",
@@ -97,51 +142,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c1975ed6fda35a81d4aeeff17b12745ea17e6eb2a437910168868364e05f0069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5642a2c659c12c72b2319b37d4191be9.jpg",
     "publishedAt": "2026-08-25T00:18:23Z",
     "author": "Eduardo Razo"
-  },
-  {
-    "source": "BBC News",
-    "title": "Punishment to send a shiver needed - Vaughan",
-    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cx2zn3exqj7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/e087fdff7d6c3520e7df434a7a2ddcb6e3c33bef33a11211c8a5ecefd40b9e54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fffcb589eed64fe2419083dc94ac1bd85.jpg",
-    "publishedAt": "2026-08-24T22:42:43Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Punishment that sends shiver down whole England team needed - Vaughan",
-    "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cde/live/9ed1ceb0-9ff5-11f1-b150-d3e6f0a6b415.jpg",
-    "publishedAt": "2026-08-24T22:42:38Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Truthout",
-    "title": "Trump Sanctioned ICC Officials to Shield Israeli Leaders. Rights Groups Sued.",
-    "description": "Supporters of Trump-sanctioned individuals or entities face maximums of $1 million in fines and 20 years imprisonment.",
-    "url": "https://truthout.org/articles/trump-sanctioned-icc-officials-to-shield-israeli-leaders-rights-groups-sued/",
-    "image": "https://truthout.org/app/uploads/2026/08/GettyImages-2209924672-scaled.jpg",
-    "publishedAt": "2026-08-24T21:23:13Z",
-    "author": "Marjorie Cohn"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Chikara eyes IPL return after stellar UP T20 League run",
-    "description": "Swastik Chikara tops UP T20 League runs (237, SR 182) as Meerut Mavericks reach playoffs, boosting his hopes of an IPL comeback after going unsold.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/chikara-eyes-ipl-return-after-stellar-up-t20-league-run/articleshow/133478197.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133478196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T19:43:04Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "England drop fast bowler Carse after nightclub incident",
-    "description": "England fast bowler Brydon Carse has been dropped from the squad for the second Test against Pakistan following an investigation into an incident at a club in Derby.",
-    "url": "https://www.abc.net.au/news/2026-08-25/england-drop-fast-bowler-brydon-carse/107073970",
-    "image": "https://live-production.wcms.abc-cdn.net.au/92b08b9315d6fffd8de5467b458be8ad?impolicy=wcms_watermark_news&cropH=2709&cropW=4816&xPos=0&yPos=245&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-24T19:18:28Z",
-    "author": null
   }
 ]
 ;
