@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘Badly bruised’: Morne Morkel reveals why Rishabh Pant did not keep as Dhruv Jurel took gloves",
+    "description": "Rishabh Pant is dealing with a severely bruised shoulder that is affecting his performance as a wicketkeeper. On day three of the Test match, India's bowlers had a challenging time dismissing the Sri Lankan team, but Prasidh Krishna exhibited commendable skil…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/badly-bruised-morne-morkel-reveals-why-rishabh-pant-did-not-keep-as-dhruv-jurel-took-gloves/articleshow/133510805.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133511074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T12:40:19Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Falcoholic",
+    "title": "The Falcoholic Reacts Survey: How big of an impact will Za’Darius Smith have?",
+    "description": "The three-time Pro Bowler looks to prove he has plenty left in the tank.",
+    "url": "https://www.thefalcoholic.com/atlanta-falcons-news/95374/the-falcoholic-reacts-survey-how-big-of-an-impact-will-zadarius-smith-have",
+    "image": "https://s.yimg.com/lo/mysterio/api/769105cf995bcb6aa529882cbe3764c8a0d849c2d17172bd20bef30b96430115/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdb8ad4cb3e3c042ac068819d595ac936.jpg",
+    "publishedAt": "2026-08-25T12:38:57Z",
+    "author": "Allen Strk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Root 'hacked off' and 'disappointed' at Carse incident",
+    "description": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c4g5z5p8w17o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-25T12:26:54Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Root 'hacked off' and 'disappointed' at Carse incident",
+    "description": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "publishedAt": "2026-08-25T12:26:50Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Slickdeals.net",
+    "title": "Cricket Wireless In-Store: 128GB Apple iPhone 16e (Locked) + 1-Mo. Supreme Unlimited Plan $114.99 (16 replies)",
+    "description": "Offer only available in-store at Cricket Wireless stores for customers porting in a number. Apple iPhone 16e (Locked to Cricket for 1 year) [cricketwireless.com] at $29.99 + 1 month of Supreme Unlimit",
+    "url": "https://slickdeals.net/f/19922448-cricket-wireless-in-store-128gb-apple-iphone-16e-locked-1-mo-supreme-unlimited-plan-114-99",
+    "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21384735.thumb",
+    "publishedAt": "2026-08-25T11:52:03Z",
+    "author": "thegoatgamer"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Look at your Virat Kohli': Ex-Pakistan star drags India legend's record in England to slam Dinesh Karthik for his Babar Azam comment",
+    "description": "Dinesh Karthik's comments on Babar Azam generated a strong reply from ex-Pakistani star Tanveer Ahmed, who told the wicketkeeper to look at Virat Kohli's record in England instead.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-ex-pakistan-star-england-dinesh-karthik-babar-azam-comment/347d8374236c8a0782edc18f",
+    "image": "https://s.yimg.com/lo/mysterio/api/5a4b7fd6172c7de00b5979ed5d5b8233779d5af46c928793dcb045f009a18d4f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fefdc5ef0b00dbf041b74a355a7b123b4.jpg",
+    "publishedAt": "2026-08-25T11:48:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Late-night incidents shaming English cricket: Cook says ‘Just have some kind of brain cells’",
+    "description": "The recent late-night incident involving England cricketer Brydon Carse has reignited questions about the team's off-field behavior. This incident mirrors past occurrences with teammates like Harry Brook and Ben Duckett. With the England Cricket Regulator inv…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/late-night-incidents-shaming-english-cricket-cook-says-just-have-some-kind-of-brain-cells/articleshow/133508250.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133508508,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T11:37:26Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shah Rukh Khan’s Darr heroine Juhi Chawla’s net worth is Rs 7,790 crore. Her Malabar Hills home has indoor pool, white fountains, golden doors and terrace with a grand view of Arabian Sea",
+    "description": "Juhi Chawla was one of the most prominent actresses in the 1990s. Today, she is a successful businesswoman who co-owns cricket team Kolkata Knight Riders with Shah Rukh Khan. Her Malabar Hills home is a study in opulence and features many beautiful art works …",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/shah-rukh-khans-darr-heroine-juhi-chawlas-net-worth-is-rs-7790-crore-her-malabar-hills-home-has-indoor-pool-white-fountains-golden-doors-and-terrace-with-a-grand-view-of-arabian-sea/articleshow/133508073.cms",
+    "image": "https://img.etimg.com/thumb/msid-133508403,width-1200,height-630,imgsize-278617,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-08-25T11:36:58Z",
+    "author": "ET Online"
+  },
+  {
     "source": "BBC News",
     "title": "Are left-handers better and when will Root catch Tendulkar? Cricket Q&A",
     "description": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
@@ -142,33 +214,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133494255,width-1200,height-630,imgsize-82424,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-08-25T05:21:29Z",
     "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'State tried to airbrush Imran khan out of existence': Atherton on appeal for former Pakistan PM",
-    "description": "In a compelling show of solidarity, Michael Atherton, the former England cricket captain, along with 21 fellow international cricketers, has launched an appeal for the medical treatment of ex-Pakistan Prime Minister Imran Khan, who is currently imprisoned. At…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/state-tried-to-airbrush-imran-khan-out-of-existence-atherton-on-appeal-for-former-pakistan-pm/articleshow/133489095.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133489396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T03:56:17Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Sri Lanka 2nd Test: Yashasvi Jaiswal, Asitha Fernando cop fines for on-field clash",
-    "description": "The ICC said both players had breached Article 2.12 of its code of conduct for players and player support personnel, which relates to “inappropriate physical contact with a player, support personnel, umpire, match referee or any other person, including a spec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-2nd-test-yashasvi-jaiswal-asitha-fernando-cop-fines-for-on-field-clash/articleshow/133490086.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133490123,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T03:53:31Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Marlins' Pete Fairbanks leaves with nerve irritation and numbness after facing 1 batter vs. Red Sox",
-    "description": "Marlins closer Pete Fairbanks felt nerve irritation and numbness in his throwing arm and departed after facing one batter in Miami’s 4-2 loss to the Boston Red Sox on Monday night. Fairbanks started the ninth but left after issuing a leadoff walk to Mickey Ga…",
-    "url": "https://sports.yahoo.com/articles/marlins-pete-fairbanks-leaves-nerve-031533748.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/16874908dcff8e8fab793f2f71c8cd57c726ce3d486790d0cbf5097f46f832a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F52fb67486c977e85c9cff10905b15881.jpg",
-    "publishedAt": "2026-08-25T03:15:33Z",
-    "author": "Associated Press"
   }
 ]
 ;
