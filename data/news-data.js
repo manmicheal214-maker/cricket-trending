@@ -1,6 +1,87 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "‘Really hacked off’: Carse in handcuffs leaves Root ‘really disappointed’ as England face fresh scrutiny",
+    "description": "England captain Joe Root is deeply disappointed by another player's off-field incident. Fast bowler Brydon Carse was seen in handcuffs outside a nightclub early Sunday. This event has prompted an investigation by the England Cricket Regulator. Root stated tha…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/really-hacked-off-carse-in-handcuffs-leaves-root-really-disappointed-as-england-face-fresh-scrutiny/articleshow/133513732.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133514243,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T14:05:12Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Bombshell as retired Aussie test cricketer Will Pucovski sues his old school Brighton Grammar over alleged mishandling of concussion injury",
+    "description": "He missed months of school following the incident, and it was the first of a worrying 13 brain injuries which would cut short his sporting career when he was forced to retire in 2025.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16078353/Bombshell-retired-Aussie-test-cricketer-Pucovski-sues-old-school-Brighton-Grammar-alleged-mishandling-concussion-injury.html",
+    "image": "https://i.dailymail.com/1s/2026/08/25/14/97287779-0-image-m-24_1787666119546.jpg",
+    "publishedAt": "2026-08-25T14:03:52Z",
+    "author": "Ashley Nickel"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Joe Root admits he was 'hacked off' by nightclub arrest of Brydon Carse as England stars 'keep making stupid mistakes' - and reveals bowler was 'very upset and apologetic'",
+    "description": "Joe Root has said he is 'hacked off' by Brydon Carse's arrest in Derby on Saturday night, and frustrated that England's cricketers 'keep making stupid mistakes away from the game'.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16078517/Joe-Root-admits-hacked-nightclub-arrest-Brydon-Carse-reveals-England-bowler-upset-apologetic.html",
+    "image": "https://i.dailymail.com/1s/2026/08/25/13/110821353-0-image-a-10_1787662389493.jpg",
+    "publishedAt": "2026-08-25T13:41:29Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Bringatrailer.com",
+    "title": "2008 Volkswagen Touareg V8 at No Reserve",
+    "description": "This 2008 Volkswagen Touareg was initially sold in Nevada and spent time in California through the seller's purchase on BaT in November 2025. Now with 65k miles, it is finished in Alaska Gray Metallic over Sienna Cricket leather and is powered by a 4.2-liter …",
+    "url": "https://bringatrailer.com/listing/2008-volkswagen-touareg-2-13/",
+    "image": "https://bringatrailer.com/wp-content/uploads/2026/08/2008_volkswagen_touareg-2_2008_volkswagen_touareg-2_e63bfc1a-fdb8-46fa-a01b-499f6fc915d7-XYSUvW-19263-19264-scaled.jpg",
+    "publishedAt": "2026-08-25T13:34:32Z",
+    "author": "bringatrailer"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Odisha Cricket Association defends election delay in high court",
+    "description": "Odisha Cricket Association tells Orissa HC election deferment was approved by General Body; petition challenges delay; next hearing Aug 27; BCCI seeks immediate polls.",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-cricket-association-defends-election-delay-in-high-court/articleshow/133512962.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133512960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T13:30:57Z",
+    "author": "Lalmohan Patnaik"
+  },
+  {
+    "source": "Sporting News",
+    "title": "How to watch Oman Cricket D50 Series on Dafanews: Live stream, schedule for Oman cricket tournament",
+    "description": "Sporting News brings you everything you need to watch the Oman Cricket D50 Series on Dafanews, including live streaming details and the full match schedule",
+    "url": "https://www.sportingnews.com/in/cricket/news/how-watch-oman-cricket-d50-series-dafanews-live-stream-schedule-oman-cricket-tournament/e54b7a73da21bb4d573bd837",
+    "image": "https://s.yimg.com/lo/mysterio/api/af68b8dbd005f768db34738dc69a3c7c44846c603d35af76fbeafeed95e1ba15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd123ba6bf8bb1133c1d9889925aaddf0",
+    "publishedAt": "2026-08-25T13:30:01Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Sporting News",
+    "title": "When does Women's Asia Cup 2026 start? Dates, schedule, live stream and TV channel for cricket tournament",
+    "description": "The tenth edition of the Women's Asia Cup 2026 will take place later this month. Here is the team and schedule information.",
+    "url": "https://www.sportingnews.com/in/cricket/news/when-womens-asia-cup-2026-start-dates-schedule-live-stream-tv-channel/4c39cd9e809ef96b92745103",
+    "image": "https://s.yimg.com/lo/mysterio/api/8faf0e44183828d8b438e79b0ab56dad268c3d195e134e4536b6b81b98f96556/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F84e44f7af54590c578befa91396dc8b6",
+    "publishedAt": "2026-08-25T13:22:28Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "A break from the buzz: Fireflies.ai CEO Krish Ramineni on success, solitude and the luxury of time",
+    "description": "Fireflies.ai co-founder and CEO Krish Ramineni on personal growth, sneaking out to play cricket and the importance of an empty schedule",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/a-break-from-the-buzz-fireflies-ai-ceo-krish-ramineni-on-success-solitude-and-the-luxury-of-time/articleshow/133512101.cms",
+    "image": "https://img.etimg.com/thumb/msid-133512429,width-1200,height-630,imgsize-93195,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-08-25T13:19:27Z",
+    "author": "Khushi Vora"
+  },
+  {
+    "source": "The Times of India",
+    "title": "First in 48 years! Sonal Dinusha joins Zaheer Abbas, Everton Weekes in rare Test feat against India",
+    "description": "Sonal Dinusha marked a remarkable achievement in his early Test career against India, scoring three consecutive innings of over 80 runs, a feat shared with cricket legends Everton Weekes and Zaheer Abbas. His determination visibly rattled the Indian bowlers, …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/first-in-48-years-sonal-dinusha-joins-zaheer-abbas-everton-weekes-in-rare-test-feat-against-india/articleshow/133512425.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133512501,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T13:16:41Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "‘Badly bruised’: Morne Morkel reveals why Rishabh Pant did not keep as Dhruv Jurel took gloves",
     "description": "Rishabh Pant is dealing with a severely bruised shoulder that is affecting his performance as a wicketkeeper. On day three of the Test match, India's bowlers had a challenging time dismissing the Sri Lankan team, but Prasidh Krishna exhibited commendable skil…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/badly-bruised-morne-morkel-reveals-why-rishabh-pant-did-not-keep-as-dhruv-jurel-took-gloves/articleshow/133510805.cms",
@@ -151,69 +232,6 @@ window.cricketNews = [
     "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
     "publishedAt": "2026-08-25T08:11:43Z",
     "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Prasidh Krishna takes 3-35 for India. Sri Lanka reaches 130-4 at lunch on Day 3 of 2nd cricket test",
-    "description": "Pasindu Sooriyabandara scored an unbeaten half-century but India's Prasidh Krishna made a vital breakthrough to end an important partnership and have Sri Lanka in trouble at 130 for four at lunch on Day 3 of the second cricket test. At the first interval Tues…",
-    "url": "https://sports.yahoo.com/articles/prasidh-krishna-takes-3-35-074528082.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/00fdffbfccfeee39ce49534f8978b1a3bb96c211a232cd47533609fe0d617a65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7fad9b1677a3ed2dd1b55d0dd4a3ee48.jpg",
-    "publishedAt": "2026-08-25T07:45:28Z",
-    "author": "KRISHAN FRANCIS"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Zeeshan Ansari: 'India A and IPL exposure has made me a better leg-spinner'",
-    "description": "After years in the wilderness, Zeeshan Ansari's IPL and India A exposure has helped the leg-spinner understand his craft better, with the UP T20 league providing the breakthrough that revived his career.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/zeeshan-ansari-india-a-and-ipl-exposure-has-made-me-a-better-leg-spinner/articleshow/133499070.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133499395,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T07:35:41Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Over 1.1 million GM vehicles, including EVs, are under NHTSA investigation",
-    "description": "cles are now under a broader investigation after drivers reported losing brake assist, including several EVs and models built for Honda.\nGM vehicles under investigation by the ODI\nThe National Highway Traffic Safety Administration (NHTSA) expanded its investi…",
-    "url": "https://biztoc.com/x/5147a7f96f2ae137",
-    "image": "https://biztoc.com/cdn/5147a7f96f2ae137_s.webp",
-    "publishedAt": "2026-08-25T07:22:14Z",
-    "author": "electrek.co"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Punishment that sends shiver down the team': Ex-England captain on Brydon Carse nightclub incident",
-    "description": "Brydon Carse is under investigation by the England and Wales Cricket Board after a nightclub incident resulted in his arrest. Consequently, he has been removed from the Test squad. Former captain Michael Vaughan insists that a severe punishment is necessary f…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/punishment-that-sends-shiver-down-the-team-ex-england-captain-on-brydon-carse-nightclub-incident/articleshow/133496608.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133497376,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T06:46:17Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "RT",
-    "title": "Global cricketing greats make new appeal for Imran Khan’s medical treatment",
-    "description": "Twenty-two former cricketing greats have written to Pakistan’s PM to give jailed former PM and cricketer Imran Khan the medical treatment ordered by the country’s top court",
-    "url": "https://www.rt.com/india/644612-imran-khan-cricketers-appeal/",
-    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a8d380e85f54011bb0266da.jpg",
-    "publishedAt": "2026-08-25T06:44:09Z",
-    "author": "RT"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ex-Australia star picks 'perfect' coach for Chennai Super Kings",
-    "description": "Stephen Fleming had been in charge of CSK for close to 16 years and guided the franchise to five IPL titles and two Champions League crowns. However, after a couple of disappointing seasons, Fleming stepped down. Hayden described the decision as a bold one wh…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-australia-star-picks-perfect-coach-for-chennai-super-kings/articleshow/133493643.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133494382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T05:25:05Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kumar Sangakkara’s Galle Fort Home: How the cricket legend transformed a 120-year-old villa without losing its heritage charm",
-    "description": "Cricket icon Kumar Sangakkara and his spouse have revitalized a crumbling villa in Galle Fort, marrying historical charm with modern aesthetics. Their renovation journey was significantly inspired by a prominent sculpture, which guided design choices. The new…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/kumar-sangakkaras-galle-fort-home-how-the-cricket-legend-transformed-a-120-year-old-villa-without-losing-its-heritage-charm/articleshow/133493816.cms",
-    "image": "https://img.etimg.com/thumb/msid-133494255,width-1200,height-630,imgsize-82424,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-25T05:21:29Z",
-    "author": "Trending Desk"
   }
 ]
 ;
