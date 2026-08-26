@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "'I will continue to play for my father': Saransh Jain gets emotional after India Test debut",
+    "description": "Saransh Jain made his Test debut for India against Sri Lanka, becoming the country’s 320th Test player. He dedicated the achievement to his father, who inspired him to play cricket. Receiving his cap from Ravindra Jadeja made the moment special. Jadeja praise…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-will-continue-to-play-for-my-father-saransh-jain-gets-emotional-after-india-test-debut/articleshow/133503987.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133505791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T10:29:06Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Sri Lanka: Colombo Test sees third ICC punishment as Jayasuriya joins Jaiswal, Fernando",
+    "description": "Sri Lanka spinner Prabath Jayasuriya received an official reprimand and one demerit point. This sanction occurred after he breached the ICC Code of Conduct during the Colombo Test. Jayasuriya struck boundary wedges with his bat after being dismissed leg-befor…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-colombo-test-sees-third-icc-punishment-as-jayasuriya-joins-jaiswal-fernando/articleshow/133504472.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133504846,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T10:03:28Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "Prabath Jayasuriya reprimanded, handed one demerit point for breaching ICC Code of Conduct",
     "description": "Sri Lanka spinner Prabath Jayasuriya received a reprimand and one demerit point.  He breached the ICC Code of Conduct by abusing cricket equipment.  This incident occurred on the second day of the Test match against India.  Jayasuriya admitted his offense and…",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/prabath-jayasuriya-reprimanded-handed-one-demerit-point-for-breaching-icc-code-of-conduct/articleshow/133504144.cms",
