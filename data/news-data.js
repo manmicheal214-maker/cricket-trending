@@ -1,6 +1,24 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
+    "description": "Salman Butt defended Pakistan's cricket team against harsh British media criticism. He argued the team never claimed to be world champions or a dominant force. Butt highlighted England's diverse player origins while defending Pakistan's homegrown talent. Engl…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-do-you-think-of-yourself-ex-pakistan-cricketer-responds-after-worst-team-tag/articleshow/133488173.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133488361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T02:51:34Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Duleep Trophy: J&K spinner Abid Mushtaq's five-for tightens North Zone’s grip",
+    "description": "The Jammu and Kashmir leftarm spinner was at his methodical best against West Zone on Day Two of the Duleep Trophy at the BCCI Centre of Excellence here on Monday. On a red-soil pitch he described as his “favourite”, Abid claimed a five-wicket haul to bowl We…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-jk-spinner-abid-mushtaqs-five-for-tightens-north-zones-grip/articleshow/133487772.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133487896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T02:32:36Z",
+    "author": "Ashim Sunam"
+  },
+  {
+    "source": "The Times of India",
     "title": "'You’re going to get in trouble': Ex-India cricketer warns Yashasvi Jaiswal after ugly clash",
     "description": "Former Indian cricketers expressed their disappointment over Yashasvi Jaiswal's fiery exchange with Sri Lanka's Asitha Fernando during the second Test match, which followed Jaiswal's dismissal. Both players faced fines and demerit points from the ICC as a con…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
@@ -78,24 +96,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/city/mumbai/mca-seeks-permission-to-develop-and-maintain-shivaji-park-ground/articleshow/133476187.cms",
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-08-24T18:16:11Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Offline ticket sales for second leg of UP T20 League begins in city",
-    "description": "Offline ticket sales for UP T20 League’s second leg begin in Kanpur; tickets available at multiple city outlets and Green Park mega box office ahead of Aug 28 start.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/offline-ticket-sales-for-second-leg-of-up-t20-league-begins-in-city/articleshow/133475681.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-24T17:56:41Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Girl brings laurels to city by claiming six wickets in four matches",
-    "description": "Kanpur’s Priyanshi Dixit, India women’s deaf cricket star, took 6 wickets vs Sri Lanka in 2026 T20 series; DM Jitendra Pratap Singh felicitated her.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/girl-brings-laurels-to-city-by-claiming-six-wickets-in-four-matches/articleshow/133475599.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-24T17:55:07Z",
     "author": "The Times Of India"
   }
 ]
