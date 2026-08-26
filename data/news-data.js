@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Prabath Jayasuriya reprimanded, handed one demerit point for breaching ICC Code of Conduct",
+    "description": "Sri Lanka spinner Prabath Jayasuriya received a reprimand and one demerit point.  He breached the ICC Code of Conduct by abusing cricket equipment.  This incident occurred on the second day of the Test match against India.  Jayasuriya admitted his offense and…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/prabath-jayasuriya-reprimanded-handed-one-demerit-point-for-breaching-icc-code-of-conduct/articleshow/133504144.cms",
+    "image": "https://img.etimg.com/thumb/msid-133504218,width-1200,height-630,imgsize-132752,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-25T09:49:54Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The New Humanitarian",
+    "title": "Landmark ICC trial on Libya migrant abuses must lead to more scrutiny of EU complicity",
+    "description": "Testimony from migrant and refugee victims in the El Hishri case exposes the links between detention crimes in Libya and European migration policy.",
+    "url": "https://www.thenewhumanitarian.org/opinion/2026/08/25/landmark-icc-trial-libya-migrant-abuses-must-lead-more-scrutiny-eu-complicity",
+    "image": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/2026-08/header-icc-migration-eu.jpg?itok=0omr1q0D",
+    "publishedAt": "2026-08-25T09:26:22Z",
+    "author": "sofia"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Federal MP accused of assault is charged with breaching bail after allegedly going to the cricket",
+    "description": "Federal Labor MP Luke Gosling allegedly broke his bail conditions while watching day two of the First Test between Australia and Bangladesh in Darwin.",
+    "url": "https://www.dailymail.com/news/article-16077917/Luke-Gosling-assault-bail-Labor.html",
+    "image": "https://i.dailymail.com/1s/2026/08/25/09/110834977-0-image-m-13_1787648372013.jpg",
+    "publishedAt": "2026-08-25T09:00:04Z",
+    "author": "Ashley Nickel"
+  },
+  {
     "source": "Rasamalaysia.com",
     "title": "Vietnamese Shrimp Cake",
     "description": "This easy 15-minute Vietnamese shrimp cake recipe uses crisp rice paper sheets to hold a savory, seasoned shrimp filling. Pan-fried to golden perfection, it comes together smoothly without any messy flour batter.",
@@ -124,24 +151,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133487896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-25T02:32:36Z",
     "author": "Ashim Sunam"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'You’re going to get in trouble': Ex-India cricketer warns Yashasvi Jaiswal after ugly clash",
-    "description": "Former Indian cricketers expressed their disappointment over Yashasvi Jaiswal's fiery exchange with Sri Lanka's Asitha Fernando during the second Test match, which followed Jaiswal's dismissal. Both players faced fines and demerit points from the ICC as a con…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133486185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T01:16:21Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "49ers Get Major Aaron Donald Prediction for Rams Game in Australia",
-    "description": "The San Francisco 49ers are a handful of days away from their Week 1 game against the Los Angeles Rams on Sept. 10 at Melbourne Cricket Ground in Australia. Moreover, the Niners will be the first team to face Myles Garrett in a Rams uniform in a regular-seaso…",
-    "url": "https://heavy.com/sports/nfl/san-francisco-49ers/aaron-donald-prediction-rams-game-australia/",
-    "image": "https://s.yimg.com/lo/mysterio/api/c1975ed6fda35a81d4aeeff17b12745ea17e6eb2a437910168868364e05f0069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5642a2c659c12c72b2319b37d4191be9.jpg",
-    "publishedAt": "2026-08-25T00:18:23Z",
-    "author": "Eduardo Razo"
   }
 ]
 ;
