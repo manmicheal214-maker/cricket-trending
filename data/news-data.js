@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Biztoc.com",
+    "title": "Second-Round Pick Named Possible Cowboys Cut Candidate",
+    "description": "The Dallas Cowboys spent the offseason revamping the defensive side of the ball, particularly at pass-rusher.\nThe team traded for Pro Bowler Rashan Gary, signed former All-Pro Von Miller, and drafted Malachi Lawrence and Jaishawn Barham, which could make some…",
+    "url": "https://biztoc.com/x/64abb00c3996851f",
+    "image": "https://biztoc.com/cdn/64abb00c3996851f_s.webp",
+    "publishedAt": "2026-08-25T21:32:30Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "Detroit Free Press",
+    "title": "Kareem Hunt, former Pro Bowl RB, visits Detroit Lions",
+    "description": "The Detroit Lions brought in former Kansas City Chiefs running back Kareem Hunt, a former Pro Bowler, for a visit Tuesday, Aug. 25.",
+    "url": "https://www.freep.com/story/sports/nfl/lions/2026/08/25/detroit-lions-bring-in-pro-bowl-rb-kareem-hunt-for-visit/91464028007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/9b679f14e3f4601191984f1b6a2e8fc2805b0198814386fd90971eb5e0761972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_free_press_usa_today_sports_articles_655%2F78508006261485d20b76c81715673796.jpg",
+    "publishedAt": "2026-08-25T21:15:41Z",
+    "author": "Rainer Sabin, Detroit Free Press"
+  },
+  {
     "source": "The Times of India",
     "title": "Bombay HC tells Maharashtra FDA to re-inspect Mumbai Cricket Association",
     "description": "Bombay HC tells Maharashtra FDA to re-inspect Mumbai Cricket Association premises on Aug 27, citing inconsistency, and allows tea/coffee via vending machines.",
@@ -124,69 +142,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/8faf0e44183828d8b438e79b0ab56dad268c3d195e134e4536b6b81b98f96556/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F84e44f7af54590c578befa91396dc8b6",
     "publishedAt": "2026-08-25T13:22:28Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "A break from the buzz: Fireflies.ai CEO Krish Ramineni on success, solitude and the luxury of time",
-    "description": "Fireflies.ai co-founder and CEO Krish Ramineni on personal growth, sneaking out to play cricket and the importance of an empty schedule",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/a-break-from-the-buzz-fireflies-ai-ceo-krish-ramineni-on-success-solitude-and-the-luxury-of-time/articleshow/133512101.cms",
-    "image": "https://img.etimg.com/thumb/msid-133512429,width-1200,height-630,imgsize-93195,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-08-25T13:19:27Z",
-    "author": "Khushi Vora"
-  },
-  {
-    "source": "The Times of India",
-    "title": "First in 48 years! Sonal Dinusha joins Zaheer Abbas, Everton Weekes in rare Test feat against India",
-    "description": "Sonal Dinusha marked a remarkable achievement in his early Test career against India, scoring three consecutive innings of over 80 runs, a feat shared with cricket legends Everton Weekes and Zaheer Abbas. His determination visibly rattled the Indian bowlers, …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/first-in-48-years-sonal-dinusha-joins-zaheer-abbas-everton-weekes-in-rare-test-feat-against-india/articleshow/133512425.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133512501,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T13:16:41Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Badly bruised’: Morne Morkel reveals why Rishabh Pant did not keep as Dhruv Jurel took gloves",
-    "description": "Rishabh Pant is dealing with a severely bruised shoulder that is affecting his performance as a wicketkeeper. On day three of the Test match, India's bowlers had a challenging time dismissing the Sri Lankan team, but Prasidh Krishna exhibited commendable skil…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/badly-bruised-morne-morkel-reveals-why-rishabh-pant-did-not-keep-as-dhruv-jurel-took-gloves/articleshow/133510805.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133511074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T12:40:19Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Falcoholic",
-    "title": "The Falcoholic Reacts Survey: How big of an impact will Za’Darius Smith have?",
-    "description": "The three-time Pro Bowler looks to prove he has plenty left in the tank.",
-    "url": "https://www.thefalcoholic.com/atlanta-falcons-news/95374/the-falcoholic-reacts-survey-how-big-of-an-impact-will-zadarius-smith-have",
-    "image": "https://s.yimg.com/lo/mysterio/api/769105cf995bcb6aa529882cbe3764c8a0d849c2d17172bd20bef30b96430115/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdb8ad4cb3e3c042ac068819d595ac936.jpg",
-    "publishedAt": "2026-08-25T12:38:57Z",
-    "author": "Allen Strk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Root 'hacked off' and 'disappointed' at Carse incident",
-    "description": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c4g5z5p8w17o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-08-25T12:26:54Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Root 'hacked off' and 'disappointed' at Carse incident",
-    "description": "England captain Joe Root says he is \"hacked off\" and \"disappointed\" at the incident involving fast bowler Brydon Carse at a Derby nightclub.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g5z5p8w17o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-    "publishedAt": "2026-08-25T12:26:50Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Slickdeals.net",
-    "title": "Cricket Wireless In-Store: 128GB Apple iPhone 16e (Locked) + 1-Mo. Supreme Unlimited Plan $114.99 (16 replies)",
-    "description": "Offer only available in-store at Cricket Wireless stores for customers porting in a number. Apple iPhone 16e (Locked to Cricket for 1 year) [cricketwireless.com] at $29.99 + 1 month of Supreme Unlimit",
-    "url": "https://slickdeals.net/f/19922448-cricket-wireless-in-store-128gb-apple-iphone-16e-locked-1-mo-supreme-unlimited-plan-114-99",
-    "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21384735.thumb",
-    "publishedAt": "2026-08-25T11:52:03Z",
-    "author": "thegoatgamer"
   }
 ]
 ;
