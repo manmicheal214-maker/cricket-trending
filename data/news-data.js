@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Bombay HC tells Maharashtra FDA to re-inspect Mumbai Cricket Association",
+    "description": "Bombay HC tells Maharashtra FDA to re-inspect Mumbai Cricket Association premises on Aug 27, citing inconsistency, and allows tea/coffee via vending machines.",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/bombay-hc-tells-maharashtra-fda-to-re-inspect-mumbai-cricket-association/articleshow/133522312.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133522311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T18:17:12Z",
+    "author": "Swati Deshpande"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UPT20 trophy to be taken to various schools in city on Aug 27",
+    "description": "UP T20 League trophy tour hits Kanpur on Aug 27, 2026, visiting five schools and a college; Kanpur leg starts Aug 28 with 8 matches, tickets on sale.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/upt20-trophy-to-be-taken-to-various-schools-in-city-on-aug-27/articleshow/133521805.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-25T17:58:05Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "Slickdeals.net",
+    "title": "Cricket Wireless: 128GB Apple iPhone 16e (Locked) + 1-Mo. Supreme Unlimited Plan $115 w/ Port-In (Valid In-Store only)",
+    "description": "Cricket Wireless Stores [store locator] are offering 128GB Apple iPhone 16e (Locked) + 1-Month Prepaid Supreme Unlimited Plan for $114.99 when you port in a number from an eligible carrier. This offer",
+    "url": "https://slickdeals.net/f/19922448-cricket-wireless-128gb-apple-iphone-16e-locked-1-mo-supreme-unlimited-plan-115-w-port-in-valid-in-store-only",
+    "image": "https://slickdeals.net/attachment/2/5/4/6/2/4/450x450/21386409.thumb",
+    "publishedAt": "2026-08-25T16:38:25Z",
+    "author": "thegoatgamer"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Joe Root's first reaction to Brydon Carse nightclub handcuff incident ahead of ENG vs PAK 2nd Test",
     "description": "With Brydon Carse's handcuff incident leaving English cricket in shambles, Test skipper Joe Root gives his first reaction before the second match.",
@@ -160,87 +187,6 @@ window.cricketNews = [
     "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21384735.thumb",
     "publishedAt": "2026-08-25T11:52:03Z",
     "author": "thegoatgamer"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Look at your Virat Kohli': Ex-Pakistan star drags India legend's record in England to slam Dinesh Karthik for his Babar Azam comment",
-    "description": "Dinesh Karthik's comments on Babar Azam generated a strong reply from ex-Pakistani star Tanveer Ahmed, who told the wicketkeeper to look at Virat Kohli's record in England instead.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-ex-pakistan-star-england-dinesh-karthik-babar-azam-comment/347d8374236c8a0782edc18f",
-    "image": "https://s.yimg.com/lo/mysterio/api/5a4b7fd6172c7de00b5979ed5d5b8233779d5af46c928793dcb045f009a18d4f/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fefdc5ef0b00dbf041b74a355a7b123b4.jpg",
-    "publishedAt": "2026-08-25T11:48:00Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Late-night incidents shaming English cricket: Cook says ‘Just have some kind of brain cells’",
-    "description": "The recent late-night incident involving England cricketer Brydon Carse has reignited questions about the team's off-field behavior. This incident mirrors past occurrences with teammates like Harry Brook and Ben Duckett. With the England Cricket Regulator inv…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/late-night-incidents-shaming-english-cricket-cook-says-just-have-some-kind-of-brain-cells/articleshow/133508250.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133508508,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T11:37:26Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shah Rukh Khan’s Darr heroine Juhi Chawla’s net worth is Rs 7,790 crore. Her Malabar Hills home has indoor pool, white fountains, golden doors and terrace with a grand view of Arabian Sea",
-    "description": "Juhi Chawla was one of the most prominent actresses in the 1990s. Today, she is a successful businesswoman who co-owns cricket team Kolkata Knight Riders with Shah Rukh Khan. Her Malabar Hills home is a study in opulence and features many beautiful art works …",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/shah-rukh-khans-darr-heroine-juhi-chawlas-net-worth-is-rs-7790-crore-her-malabar-hills-home-has-indoor-pool-white-fountains-golden-doors-and-terrace-with-a-grand-view-of-arabian-sea/articleshow/133508073.cms",
-    "image": "https://img.etimg.com/thumb/msid-133508403,width-1200,height-630,imgsize-278617,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-08-25T11:36:58Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "Are left-handers better and when will Root catch Tendulkar? Cricket Q&A",
-    "description": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyz3qp1deno",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5ae/live/d6f75ff0-a075-11f1-bf10-9547e884d7b7.jpg",
-    "publishedAt": "2026-08-25T11:24:44Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "HC To MCA: Are Cricketers Drinking \"Non-Vegetarian Tea\"?",
-    "description": "The Bombay High Court humorously questioned if cricketers were consuming \"non-vegetarian tea\" due to unhygienic conditions at Mumbai Cricket Association (MCA) eateries. The court ordered the MCA to clean its premises before a fresh FDA inspection, following t…",
-    "url": "https://www.rediff.com/sports/report/high-court-questions-mca-on-non-veg-tea-amid-roaches/20260825.htm",
-    "image": "https://im.rediff.com/1200-630/money/2016/may/15food.jpg",
-    "publishedAt": "2026-08-25T11:22:11Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I will continue to play for my father': Saransh Jain gets emotional after India Test debut",
-    "description": "Saransh Jain made his Test debut for India against Sri Lanka, becoming the country’s 320th Test player. He dedicated the achievement to his father, who inspired him to play cricket. Receiving his cap from Ravindra Jadeja made the moment special. Jadeja praise…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-will-continue-to-play-for-my-father-saransh-jain-gets-emotional-after-india-test-debut/articleshow/133503987.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133505791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T10:29:06Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Sri Lanka: Colombo Test sees third ICC punishment as Jayasuriya joins Jaiswal, Fernando",
-    "description": "Sri Lanka spinner Prabath Jayasuriya received an official reprimand and one demerit point. This sanction occurred after he breached the ICC Code of Conduct during the Colombo Test. Jayasuriya struck boundary wedges with his bat after being dismissed leg-befor…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-colombo-test-sees-third-icc-punishment-as-jayasuriya-joins-jaiswal-fernando/articleshow/133504472.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133504846,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T10:03:28Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Prabath Jayasuriya reprimanded, handed one demerit point for breaching ICC Code of Conduct",
-    "description": "Sri Lanka spinner Prabath Jayasuriya received a reprimand and one demerit point.  He breached the ICC Code of Conduct by abusing cricket equipment.  This incident occurred on the second day of the Test match against India.  Jayasuriya admitted his offense and…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/prabath-jayasuriya-reprimanded-handed-one-demerit-point-for-breaching-icc-code-of-conduct/articleshow/133504144.cms",
-    "image": "https://img.etimg.com/thumb/msid-133504218,width-1200,height-630,imgsize-132752,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-25T09:49:54Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The New Humanitarian",
-    "title": "Landmark ICC trial on Libya migrant abuses must lead to more scrutiny of EU complicity",
-    "description": "Testimony from migrant and refugee victims in the El Hishri case exposes the links between detention crimes in Libya and European migration policy.",
-    "url": "https://www.thenewhumanitarian.org/opinion/2026/08/25/landmark-icc-trial-libya-migrant-abuses-must-lead-more-scrutiny-eu-complicity",
-    "image": "https://assets.thenewhumanitarian.org/s3fs-public/styles/social_large/public/2026-08/header-icc-migration-eu.jpg?itok=0omr1q0D",
-    "publishedAt": "2026-08-25T09:26:22Z",
-    "author": "sofia"
   }
 ]
 ;
