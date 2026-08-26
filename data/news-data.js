@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'You’re going to get in trouble': Ex-India cricketer warns Yashasvi Jaiswal after ugly clash",
+    "description": "Former Indian cricketers expressed their disappointment over Yashasvi Jaiswal's fiery exchange with Sri Lanka's Asitha Fernando during the second Test match, which followed Jaiswal's dismissal. Both players faced fines and demerit points from the ICC as a con…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133486185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-25T01:16:21Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "49ers Get Major Aaron Donald Prediction for Rams Game in Australia",
+    "description": "The San Francisco 49ers are a handful of days away from their Week 1 game against the Los Angeles Rams on Sept. 10 at Melbourne Cricket Ground in Australia. Moreover, the Niners will be the first team to face Myles Garrett in a Rams uniform in a regular-seaso…",
+    "url": "https://heavy.com/sports/nfl/san-francisco-49ers/aaron-donald-prediction-rams-game-australia/",
+    "image": "https://s.yimg.com/lo/mysterio/api/c1975ed6fda35a81d4aeeff17b12745ea17e6eb2a437910168868364e05f0069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5642a2c659c12c72b2319b37d4191be9.jpg",
+    "publishedAt": "2026-08-25T00:18:23Z",
+    "author": "Eduardo Razo"
+  },
+  {
     "source": "BBC News",
     "title": "Punishment to send a shiver needed - Vaughan",
     "description": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
@@ -79,69 +97,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-08-24T17:55:07Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Did Jaiswal get away with a lenient fine for Asitha Fernando head butt? What do the rules say?",
-    "description": "Did Yashasvi Jaiswal get away with a lenient fine for the Asitha Fernando headbutt clash? Explore the ICC Code of Conduct rules, Article 2.12, and penalties.",
-    "url": "https://www.cricketnews.com/en/cricket/news/jaiswal-get-away-lenient-fine-asitha-fernando-head-butt-rules/27f2e654244e4a5321715912",
-    "image": "https://s.yimg.com/lo/mysterio/api/c914b14bc9160c1450b25bafbfba5dccfc39cf839b493488f97811d2412cd0e6/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0d76f3a840c29a42b69c1ce3d0d9f23d.jpg",
-    "publishedAt": "2026-08-24T17:27:57Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Slickdeals.net",
-    "title": "Cricket Wireless: 256GB Apple iPhone 17e (Locked) + 2-Mo. Supreme Unlimited Plan $420 w/ Port-In + Free S&H",
-    "description": "Apple iPhone 16e black (Locked to Cricket for 1 year) [cricketwireless.com] at $299.99 + 2 months of Supreme Unlimited Plan prepaid at $60/month. After 2 months, you can change your plan to a cheaper...",
-    "url": "https://slickdeals.net/f/19912980-cricket-wireless-256gb-apple-iphone-17e-locked-2-mo-supreme-unlimited-plan-420-w-port-in-free-s-h",
-    "image": "https://slickdeals.net/attachment/1/4/9/0/5/7/1/5/450x450/21363915.thumb",
-    "publishedAt": "2026-08-24T17:26:29Z",
-    "author": "thegoatgamer"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Rishabh Pant over MS Dhoni: Former India batter picks all-time Asia XI, makes big statement on ex-India captain",
-    "description": "Former India batter Wasim Jaffer picked Rishabh Pant over MS Dhoni as wicketkeeper in his all-time Asian Test XI.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rishabh-pant-ms-dhoni-former-india-batter-picks-all-time-asia-xi/b2f67a831b7848345cdc3328",
-    "image": "https://s.yimg.com/lo/mysterio/api/6ecd05f34d1f310e99cf0dbc98424025fa5c4df4ca8411c395fe71c7e1ea4203/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faf675073ec92fce9f6fb4e5f501baea1.jpg",
-    "publishedAt": "2026-08-24T16:45:05Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After handcuff footage, ECB takes big call on Brydon Carse ahead of Pakistan 2nd Test",
-    "description": "England drop Brydon Carse from the second Test against Pakistan after footage shows the fast bowler in handcuffs outside a Derby nightclub. The Cricket Regulator is investigating the incident. Carse was reportedly released without charge after celebrating Dur…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-handcuff-footage-ecb-takes-big-call-on-brydon-carse-ahead-of-pakistan-2nd-test/articleshow/133472971.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133473293,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-24T16:24:03Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "England drop fast bowler Bryden Carse amid investigation into club incident",
-    "description": "The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.",
-    "url": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c5e84-1787584132_0b83ea-1787584314.jpg?resize=1200%2C630&quality=80",
-    "publishedAt": "2026-08-24T16:05:43Z",
-    "author": null
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Deshaun Watson hasn’t taken accountability for any of this mess. Why would he start now? - The New York Times",
-    "description": "Deshaun Watson hasn’t taken accountability for any of this mess. Why would he start now?The New York Times ‘You Know What They Did to Sam Darnold?’ — 6-Time Pro Bowler Gives Deshaun Watson a Reality Check Over Fans Booing HimYahoo Sports It's Time For The Bro…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185130760",
-    "image": null,
-    "publishedAt": "2026-08-24T15:32:27Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Revealed: Brydon Carse WAS arrested on suspicion of being drunk and disorderly during nightclub visit with Ben Stokes - with police now RE-OPENING investigation into England bowler",
-    "description": "Brydon Carse was briefly arrested on suspicion of being 'drunk and disorderly' in Derby on Saturday night, before being de-arrested, it has emerged.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16076317/Brydon-Carse-arrested-suspicion-drunk-disorderly-nightclub-visit-Ben-Stokes-police-OPENING-investigation-England-bowler.html",
-    "image": "https://i.dailymail.com/1s/2026/08/24/16/110821353-0-image-m-14_1787585137833.jpg",
-    "publishedAt": "2026-08-24T15:31:51Z",
-    "author": "Lawrence Booth"
   }
 ]
 ;
