@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Are left-handers better and when will Root catch Tendulkar? Cricket Q&A",
+    "description": "Data analysts CricViz answer your questions on successful reviews, hat-tricks, Joe Root and more.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyz3qp1deno",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5ae/live/d6f75ff0-a075-11f1-bf10-9547e884d7b7.jpg",
+    "publishedAt": "2026-08-25T11:24:44Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "HC To MCA: Are Cricketers Drinking \"Non-Vegetarian Tea\"?",
+    "description": "The Bombay High Court humorously questioned if cricketers were consuming \"non-vegetarian tea\" due to unhygienic conditions at Mumbai Cricket Association (MCA) eateries. The court ordered the MCA to clean its premises before a fresh FDA inspection, following t…",
+    "url": "https://www.rediff.com/sports/report/high-court-questions-mca-on-non-veg-tea-amid-roaches/20260825.htm",
+    "image": "https://im.rediff.com/1200-630/money/2016/may/15food.jpg",
+    "publishedAt": "2026-08-25T11:22:11Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
     "source": "The Times of India",
     "title": "'I will continue to play for my father': Saransh Jain gets emotional after India Test debut",
     "description": "Saransh Jain made his Test debut for India against Sri Lanka, becoming the country’s 320th Test player. He dedicated the achievement to his father, who inspired him to play cricket. Receiving his cap from Ravindra Jadeja made the moment special. Jadeja praise…",
@@ -151,24 +169,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/16874908dcff8e8fab793f2f71c8cd57c726ce3d486790d0cbf5097f46f832a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F52fb67486c977e85c9cff10905b15881.jpg",
     "publishedAt": "2026-08-25T03:15:33Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
-    "description": "Salman Butt defended Pakistan's cricket team against harsh British media criticism. He argued the team never claimed to be world champions or a dominant force. Butt highlighted England's diverse player origins while defending Pakistan's homegrown talent. Engl…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-do-you-think-of-yourself-ex-pakistan-cricketer-responds-after-worst-team-tag/articleshow/133488173.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133488361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T02:51:34Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Duleep Trophy: J&K spinner Abid Mushtaq's five-for tightens North Zone’s grip",
-    "description": "The Jammu and Kashmir leftarm spinner was at his methodical best against West Zone on Day Two of the Duleep Trophy at the BCCI Centre of Excellence here on Monday. On a red-soil pitch he described as his “favourite”, Abid claimed a five-wicket haul to bowl We…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-jk-spinner-abid-mushtaqs-five-for-tightens-north-zones-grip/articleshow/133487772.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133487896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-25T02:32:36Z",
-    "author": "Ashim Sunam"
   }
 ]
 ;
