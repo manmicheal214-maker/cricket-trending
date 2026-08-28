@@ -1,174 +1,138 @@
 window.cricketNews = [
   {
-    "source": "The Times of India",
-    "title": "Asian Games 2026 Cricket Full Schedule: Check match dates, timings, fixtures and India squads led by Shreyas Iyer and Harmanpreet Kaur",
-    "description": "The schedules for cricket competitions at the Asian Games 2026, set to take place in Japan, have just been announced. India’s men’s and women’s teams, defending champions for both tournaments, will mark their participation soon. The women kick off their campa…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/asian-games-2026-cricket-full-schedule-check-match-dates-timings-fixtures-and-india-squads-led-by-shreyas-iyer-and-harmanpreet-kaur/articleshow/133555034.cms",
-    "image": "https://img.etimg.com/thumb/msid-133555214,width-1200,height-630,imgsize-964147,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-27T03:44:17Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Australia has given me pathway, not a place in team’: Anaya Bangar on WBBL dream",
-    "description": "Anaya Bangar sets her sights on breaking into elite women's cricket in Australia by March 2027. With the support of Cricket Australia, she intends to follow a clear pathway toward achieving her ambition. However, her eligibility hinges on specific policy crit…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-has-given-me-pathway-not-a-place-in-team-anaya-bangar-on-wbbl-dream/articleshow/133555039.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133555100,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T03:34:15Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Transgender athlete who was born a male cleared to play in Australia's Women's Big Bash League after not receiving a response from India",
-    "description": "Transgender cricketer Anaya Bangar has been cleared to pursue a place in Australia's Women's Big Bash League from March 2027",
-    "url": "https://www.dailymail.com/sport/cricket/article-16082835/Anaya-Bangar.html",
-    "image": "https://i.dailymail.com/1s/2026/08/27/00/110874921-0-image-m-12_1787786243325.jpg",
-    "publishedAt": "2026-08-27T03:20:49Z",
-    "author": "Josh Alston"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Asia Cup exposure will be huge for Hong Kong cricket': Mamatha Maben",
-    "description": "Cricket News: BENGALURU: Mamatha Maben holds a special place in Indian women's cricket. She once returned to the national side after eight years and 161 days, a com.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/asia-cup-exposure-will-be-huge-for-hong-kong-cricket-mamatha-maben/articleshow/133554861.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133554960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T03:20:29Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Duleep Trophy: Abid Mushtaq, Sindhu wrap up tail as North set up semis date with South Zone",
-    "description": "Cricket News: Bengaluru: With West Zone needing 67 runs and North Zone three wickets away from victory, both teams began the fourth and final day of their Duleep Tr.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-abid-mushtaq-sindhu-wrap-up-tail-as-north-set-up-semis-date-with-south-zone/articleshow/133554347.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133554345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T02:36:29Z",
-    "author": "Ashim Sunam"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch England vs. Pakistan 2nd Test in India? Live stream, TV channel, start time, lineups for cricket match",
-    "description": "With the second Test between England and Pakistan about to start, here's where you can grab the game live without missing a single over.",
-    "url": "https://www.sportingnews.com/in/cricket/news/watch-england-pakistan-2nd-test-india-live-stream-tv-channel-start-time-lineups/0133c4ce3f888a81ef689724",
-    "image": "https://s.yimg.com/lo/mysterio/api/f69ec9d6dde846668467b8eb274545a086553b27a835e6f81dc874c8e1230926/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F2a48dbf386c63f537d5fdd5e4d2f026f",
-    "publishedAt": "2026-08-26T22:30:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Starc hits top of ICC's Test bowling rankings for first time",
-    "description": "Mitchell Starc's run of hot form is rewarded handsomely after a dominant Test series against Bangladesh.",
-    "url": "https://www.abc.net.au/news/2026-08-27/cricket-mitchell-starc-top-of-icc-test-bowling-rankings/107083186",
-    "image": "https://live-production.wcms.abc-cdn.net.au/cdb27e8c930ef360d9af42fde1e1faf2?impolicy=wcms_watermark_news&cropH=2538&cropW=4512&xPos=0&yPos=147&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-08-26T22:29:47Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "'I hate what this is doing to our game'... deep divisions in Irish cricket as six times aborted T20 tournament finally gets off the ground and people question who really benefits besides a handful of washed-up stars",
-    "description": "rsday morning sees a T20 fixture which has many Irish cricket followers licking their lips.\nA tasty encounter between sides called the Dublin Guardians.Except it is not that simple",
-    "url": "https://www.dailymail.com/sport/cricket/article-16082619/I-hate-doing-game-deep-divisions-Irish-cricket-six-times-aborted-T20-tournament-finally-gets-ground-people-question-really-benefits-handful-washed-stars.html",
-    "image": "https://i.dailymail.com/1s/2026/08/26/21/110872327-0-image-a-15_1787776778103.jpg",
-    "publishedAt": "2026-08-26T21:45:44Z",
-    "author": "Ger Siggins"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Police investigating alleged assault in connection with Brydon Carse arrest after cricketer was handcuffed outside Derby nightclub in another shocking moment for England team",
-    "description": "Carse, 31, was seen in handcuffs in footage which circulated online after he was arrested - then de-arrested - on suspicion of being drunk and disorderly following the incident.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16082689/brydon-carse-arrest-derby-assault.html",
-    "image": "https://i.dailymail.com/1s/2026/08/26/21/110872341-0-image-a-10_1787776869042.jpg",
-    "publishedAt": "2026-08-26T20:41:38Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Test cricket: How India turn the screw against Sri Lanka",
-    "description": "Sooriyabandara was compact against the quicks and deadly against the spinners. He swept with great effect, while Indian spinners were guilty of not bowling the right length often enough to create chances. The sweep is an effective shot when played well, but o…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/test-cricket-how-india-turn-the-screw-against-sri-lanka/articleshow/133550639.cms",
-    "image": "https://img.etimg.com/thumb/msid-133550646,width-1200,height-630,imgsize-126756,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-26T19:55:19Z",
-    "author": "Anand Vasu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "The smartest team in the room needs a tougher classroom",
-    "description": "India's consistent success in the Asia Cup raises questions about its developmental strategy. The team's dominance highlights a gap between India and other Asian cricket nations. Former captain Anjum Chopra suggests focusing on player skill over age for team …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/the-smartest-team-in-the-room-needs-a-tougher-classroom/articleshow/133550488.cms",
-    "image": "https://img.etimg.com/thumb/msid-133550498,width-1200,height-630,imgsize-94406,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-26T19:28:40Z",
-    "author": "Amit Chaudhary"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Srinath urges MP youngsters to invest in red-ball cricket",
-    "description": "Javagal Srinath tells MP youngsters to focus on Test cricket at MPCA Season Awards in Indore; MPCA gives Rs 2.94 crore, honours teams and players.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/srinath-urges-mp-youngsters-to-invest-in-red-ball-cricket/articleshow/133550347.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-26T19:08:43Z",
-    "author": "Litha Achari"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gujarat: 2-wheeler parking punch-ups now batter urban-rural divide",
-    "description": "Gujarat police FIRs show two-wheeler parking disputes rising in villages, escalating into assaults, vandalism and injuries amid more vehicles and limited space.",
-    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-2-wheeler-parking-punch-ups-now-batter-urban-rural-divide/articleshow/133549766.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-26T18:46:36Z",
-    "author": "Ashish Chauhan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "CCI seeks more details on Rajasthan Royals deal",
-    "description": "The Competition Commission of India requested additional details on the Rajasthan Royals acquisition. This deal involves three cricket franchises and is valued at $1.65 billion. Westview Cricket and Poonawalla Sports are acquiring stakes in the franchises. Ex…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cci-seeks-more-details-on-rajasthan-royals-deal-lakshmi-mittal-adar-poonawalla-ipl/articleshow/133548749.cms",
-    "image": "https://img.etimg.com/thumb/msid-133549631,width-1200,height-630,imgsize-91402,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-26T18:42:47Z",
-    "author": "Javed Farooqui and Maulik Vyas"
-  },
-  {
-    "source": "Lokmattimes.com",
-    "title": "PAK vs ENG: Babar Azam Gives Big Fitness Update Ahead of England vs Pakistan 2nd Test at Lord’s",
-    "description": "PAK vs ENG: Babar Azam Gives Big Fitness Update Ahead of England vs Pakistan 2nd Test at Lord’s - Pakistan National Cricket Team captain Babar Azam has given an update on his fitness ahead of the second Test ... - Latest News. Find Breaking Headlines, Current…",
-    "url": "https://www.lokmattimes.com/cricket/news/pak-vs-eng-babar-azam-gives-big-fitness-update-ahead-of-england-vs-pakistan-2nd-test-at-lords-a507/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/686x514/pak-vs-eng-babar-azam-gives-big-fitness-update-ahead-of-england-vs-pakistan-2nd-test-at-lords_2026081130993.jpg",
-    "publishedAt": "2026-08-26T18:01:10Z",
-    "author": "Lokmat Times Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Green Park stadium: LED panels raised to curb waterlogging",
-    "description": "UP T20 League 2026: UPCA raises Green Park Stadium LED boundary panels 5 inches to improve rainwater drainage and prevent waterlogging in Kanpur.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/green-park-stadium-led-panels-raised-to-curb-waterlogging/articleshow/133548071.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-26T17:49:25Z",
-    "author": "The Times Of India"
+    "source": "Yahoo Entertainment",
+    "title": "Seattle Seahawks: Ink 3x-Pro Bowler With Top 5 Salary",
+    "description": "The Seattle Seahawks’ elite defensive tackle Leonard Williams enters the final year of his contract and is slated to become a free agent next March. The 32-year-old Williams is coming off a strong second full season in Seattle, helping the team win a Super Bo…",
+    "url": "https://sports.yahoo.com/articles/seattle-seahawks-ink-3x-pro-164814675.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/be912cf2680afc2fcd6498187037d0294f2681811b24f74774c95f63dab27ce0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ff51b0eeb764d01af473616fdf3d73edf.jpg",
+    "publishedAt": "2026-08-27T16:48:14Z",
+    "author": "Jackson Loschko"
   },
   {
     "source": "Cricketnews.com",
-    "title": "ICYMI: Esha Oza ready to showcase her growth with UAE at Asia Cup",
-    "description": "In our regular series looking back at the biggest stories of the week in cricket, The Cricket News' Arya Shah focuses on Esha Oza, who has been picked to lead the UAE's challenge at the upcoming Asia Cup on home soil.",
-    "url": "https://www.cricketnews.com/en/cricket/cricket-features/esha-oza-uae-asia-cup-cricket/6bba068fbb8e029a74b9b001",
-    "image": "https://s.yimg.com/lo/mysterio/api/3372895ed72db0702f8a0c5224747996e8ad1e9c644707ca547d060140577267/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F64cae8db0fca3a548034827425bf5970.jpg",
-    "publishedAt": "2026-08-26T17:11:08Z",
-    "author": "Arya Shah"
+    "title": "'Not mercurial anymore': Nasser Hussain launches scathing attack on Pakistan, calls IND-PAK matches one-sided",
+    "description": "Nasser Hussain launched a scathing critique of Pakistan cricket, calling IND-PAK matches one-sided and highlighting a lack of fight.",
+    "url": "https://www.cricketnews.com/en/cricket/news/nasser-hussain-attack-pakistan-calls-ind-pak-matches-one-sided/683a2c887992b89c150002d4",
+    "image": "https://s.yimg.com/lo/mysterio/api/70ebc21a95e2babdb0a83a7dd773a8602f6fa6868772c705ffd96a210de881c9/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F967830315e55efe48f4dc89e145aeedb.jpg",
+    "publishedAt": "2026-08-27T16:28:04Z",
+    "author": "Soham Mukherjee"
   },
   {
     "source": "The Times of India",
-    "title": "'I want to play all three formats': Arshdeep Singh reveals India's Test ambitions",
-    "description": "Arshdeep Singh is using domestic red-ball cricket to push for an India Test debut. The 27-year-old pacer, who has played 18 ODIs and 91 T20Is, impressed for North Zone in the Duleep Trophy after working on his red-ball skills. Having missed a Test chance last…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-to-play-all-three-formats-arshdeep-singh-reveals-indias-test-ambitions/articleshow/133546205.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133546524,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-26T16:50:30Z",
-    "author": "Ashim Sunam"
+    "title": "From washing utensils in Kolkata to a career-best 167: Shahbaz Ahmed's remarkable cricket journey",
+    "description": "Shahbaz Ahmed left civil engineering studies in Haryana to chase cricket dreams in Kolkata, 1,500km from home. Facing financial hardship, he washed dishes and lived in modest club quarters while training. His breakthrough came with Tapan Memorial, followed by…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-washing-utensils-in-kolkata-to-a-career-best-167-shahbaz-ahmeds-remarkable-cricket-journey/articleshow/133573044.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133573425,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T16:21:23Z",
+    "author": "TOI Sports Desk"
   },
   {
-    "source": "Slickdeals.net",
-    "title": "12-Ct 1.83-Oz Perfect Bar Oaties Brownie Batter Gluten-Free Protein Bars $14.94 w/ S&S + Free Shipping w/ Prime or on $35+",
-    "description": "Amazon [amazon.com] has *12-Ct 1.83-Oz Perfect Bar Oaties Brownie Batter Gluten-Free Protein Bars* for $15.73 - 5% when you checkout with Subscribe & Save = *$14.94*. Shipping is free w/ Prime or on...",
-    "url": "https://slickdeals.net/f/19928436-12-ct-1-83-oz-perfect-bar-oaties-brownie-batter-gluten-free-protein-bars-14-94-w-s-s-free-shipping-w-prime-or-on-35",
-    "image": "https://slickdeals.net/attachment/1/4/8/5/3/3/0/450x450/21400002.thumb",
-    "publishedAt": "2026-08-26T15:29:17Z",
-    "author": "Eragorn"
+    "source": "The Times of India",
+    "title": "Anushka Sharma to lead India A in T20s; Yastika Bhatia named captain for ODIs and multi-day game",
+    "description": "The BCCI women's selection committee announced the squads for Australia's upcoming tour of India on Thursday. Sayali Satghare has been named Anushka's deputy in the T20s, while Anushka will be Bhatia's vice-captain in the One-Day and multi-day teams.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/anushka-sharma-to-lead-india-a-in-t20s-yastika-bhatia-named-captain-for-odis-and-multi-day-game/articleshow/133573335.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133573403,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T16:17:31Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Wisden Cricket Monthly - Issue 100 2026",
+    "description": "Founded in 1864 by the Victorian cricketer-cum-entrepreneur John Wisden - a tiny fast bowler from Brighton who is still the only player to have bowled all 10 batsmen in the same first-class innings - the Almanack has long been the most prestigious name in spo…",
+    "url": "https://post.rlsbb.cc/wisden-cricket-monthly-issue-100-2026/",
+    "image": null,
+    "publishedAt": "2026-08-27T16:05:50Z",
+    "author": "saamaan1@yahoo.com (Master)"
+  },
+  {
+    "source": "CNET",
+    "title": "England vs. Pakistan: How to Watch 2nd Test Cricket Live From Anywhere - CNET",
+    "description": "The hosts look to build on their dominant display in the first Test as the action moves to iconic Lord's.",
+    "url": "https://www.cnet.com/tech/services-and-software/england-vs-pakistan-how-to-watch-2nd-test-cricket-live-from-anywhere/",
+    "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2291960706.jpg",
+    "publishedAt": "2026-08-27T14:29:58Z",
+    "author": "Kevin Lynch"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Test cricket won': Shubman Gill after Sri Lanka force draw in Colombo",
+    "description": "Following a thrilling second Test match, India captain Shubman Gill hailed the outcome as a victory after Sri Lanka's determined resistance led to a draw. The Sri Lankan team batted fiercely for 154 overs, earning a hard-fought tie. Gill commended their fight…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/test-cricket-won-shubman-gill-after-sri-lanka-force-draw-in-colombo/articleshow/133570202.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133570330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T13:45:22Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey 'building attacking style' for 2027 World Cup bid",
+    "description": "Head coach Neil MacCrae says Jersey are aiming to reach the 2027 Cricket World Cup with an \"exciting\" brand.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c783143rlnmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/74805772b3fb911a0f4460beb1c1e960c00f07e24266bcb807a53ea99f7814a8/lightyear_networkapi/resizefill_w1197_h673%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F35e0e5c0ed99f64f82a9adbcecab8a4b.png",
+    "publishedAt": "2026-08-27T13:35:43Z",
+    "author": "Dan Wareing - BBC Sport; Danny Parkinson - Jersey"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stumped podcast: Cricket's latest rivalry - vicars v imams",
+    "description": "We hear about how cricket is bringing communities together in Lancashire.",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct99fp?at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p6kc69.jpg",
+    "publishedAt": "2026-08-27T13:30:00Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Guernsey T20 World Cup hopes still alive after review",
+    "description": "Guernsey thought their hopes of reaching the tournament had ended but a review of the qualification pathway by the ICC has given them another chance.",
+    "url": "https://www.bbc.com/sport/cricket/articles/ce8xd84ld2do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/bd82d742f201ea29bc149b795c5b5274cc45471763e9f5db753e6ff82ee3183f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F78c2968afff70948fcce02e99d2167b1.jpg",
+    "publishedAt": "2026-08-27T13:00:32Z",
+    "author": "Dan Wareing - BBC Sport; Danny Parkinson - Guernsey"
+  },
+  {
+    "source": "BBC News",
+    "title": "Guernsey T20 World Cup hopes still alive after review",
+    "description": "Guernsey thought their hopes of reaching the tournament had ended but a review of the qualification pathway by the ICC has given them another chance.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8xd84ld2do",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e050/live/5c09fbe0-56ba-11f1-a8ac-b93df832a6b3.jpg",
+    "publishedAt": "2026-08-27T13:00:27Z",
+    "author": "Dan Wareing, Danny Parkinson"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Women's Asia Cup: Anything less than title will be a 'major disappointment' for Harmanpreet Kaur's India",
+    "description": "Given the historic dominance of the Indian team in the tournament, former India cricketer and ex-women's team coach WV Raman believes anything less than a title in the upcoming 2026 Women's Asia Cup would be a \"major disappointment\" for Harmanpreet Kaur's tea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/womens-asia-cup-anything-less-than-title-will-be-a-major-disappointment-for-harmanpreet-kaurs-india/articleshow/133565586.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133565802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T12:41:51Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'GCL feels like IPL of chess': Indian Grandmaster Nihal Sarin ahead of new season",
+    "description": "Chess News: NEW DELHI: For someone who has spent most of his life competing alone across a chequered board, Nihal Sarin lights up when the conversation turns to t.",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/gcl-feels-like-ipl-of-chess-indian-grandmaster-nihal-sarin-ahead-of-new-season/articleshow/133567892.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133567999,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T12:09:47Z",
+    "author": "Daniyal Abdulla"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Sport-loving girl, 14, dies after collapsing at village cricket club as devastated family pay tribute",
+    "description": "Amélia Jones, 14, was rushed to hospital last Thursday evening by air ambulance after collapsing at Grampound Road Cricket Club, near St Austell.",
+    "url": "https://www.dailymail.com/news/article-16084211/girl-dies-collapsing-village-cricket-club.html",
+    "image": "https://i.dailymail.com/1s/2026/08/27/12/110883807-0-image-m-42_1787830338886.jpg",
+    "publishedAt": "2026-08-27T11:36:34Z",
+    "author": "Elizabeth Haigh"
+  },
+  {
+    "source": "CNA",
+    "title": "Sri Lanka salvage draw after battling Dinusha denies India",
+    "description": "COLOMBO, Aug 27 : Sri Lanka's middle-order batter Sonal Dinusha engineered a remarkable rearguard action to help the hosts salvage a draw and deny India a series sweep in the second test on Thursday.Dinusha made a stellar 133 not out, his second hundred of th…",
+    "url": "https://www.channelnewsasia.com/sport/sri-lanka-salvage-draw-after-battling-dinusha-denies-india-6345251",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-08-27T11:27:07Z",
+    "author": null
   }
 ]
 ;
