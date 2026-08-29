@@ -1,6 +1,159 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "ED traces Rs 81 cr liquor scam trail to Rolexes, SUVs, land deals",
+    "description": "ED chargesheet in AP liquor transport scam traces funds to Rolex watches, Land Rover, vehicle EMIs, astrologer, cricket kits and land deals under PMLA.",
+    "url": "https://timesofindia.indiatimes.com/city/hyderabad/ed-traces-rs-81-cr-liquor-scam-trail-to-rolexes-suvs-land-deals/articleshow/133597820.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-28T18:01:54Z",
+    "author": "U Sudhakar Reddy"
+  },
+  {
+    "source": "Noblepig.com",
+    "title": "Chipotle Hot Honey Skillet Cornbread",
+    "description": "Chipotle hot honey skillet cornbread has smoky chipotle and adobo in the batter, while fresh jalapeños and hot honey cook underneath it in a hot cast-iron skillet. A final drizzle of hot honey adds the sweetness and heat back at the end. Cast-Iron Cornbread w…",
+    "url": "https://noblepig.com/chipotle-hot-honey-skillet-cornbread/",
+    "image": "https://noblepig.com/site/wp-content/uploads/2026/08/chipotle-hot-honey-skillet-cornbread-close-up.jpg",
+    "publishedAt": "2026-08-28T17:47:17Z",
+    "author": "Cathy Pollak"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘Just Want To Hate The Young Man’ — Super Bowl Champion Ryan Clark Calls Out Shedeur Sanders’ Detractors",
+    "description": "The Cleveland Browns chose to give the starting quarterback job to Deshaun Watson. After a long battle for the starter’s role, the three-time Pro Bowler got the nod over Shedeur Sanders.",
+    "url": "https://www.profootballnetwork.com/ryan-clark-calls-out-shedeur-sanders-detractors/",
+    "image": "https://s.yimg.com/lo/mysterio/api/9840fad8af619c405c09ae259f8a7c7e2f8cbf162a19f390f1ffb721f1c21053/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F36c21de5475e23d1d9f5f04b4d715e21.jpg",
+    "publishedAt": "2026-08-28T17:22:44Z",
+    "author": "Priyanshu Choudhary"
+  },
+  {
+    "source": "Daytona Beach News-Journal",
+    "title": "University bowler rolls perfect 300 against Matanzas",
+    "description": "University senior Nathan Tillis bowled a 300 during the Titans' varsity match against Matanzas on Aug. 26.",
+    "url": "https://www.news-journalonline.com/story/sports/high-school/bowling/2026/08/28/fhsaa-bowling-university-nathan-tillis-perfect-game-300/91509203007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/02b61d0dcea88b601a6e01abc5513f0355f9e93875a9a12e6325cbfbd095f749/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F8f536d6478c75fa745635d59e62d6f0c.jpg",
+    "publishedAt": "2026-08-28T17:20:06Z",
+    "author": "Zach Allen, Daytona Beach News-Journal"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Embarrassing', 'Staring at humiliation': Cricket World reacts after Pakistan’s dismal batting in Lord's Test vs England",
+    "description": "The Pakistani cricket team once again comes under heat as the whole cricketing world takes a dig on their dismal batting at Lord's.",
+    "url": "https://www.cricketnews.com/en/cricket/news/cricket-world-reacts-pakistan-dismal-batting-lords-test-vs-england/4c3d90a2e6c086fb1f8f43c1",
+    "image": "https://s.yimg.com/lo/mysterio/api/ad2533c27b7ba776881ee354ace5b7963983fe3859f9ec99f65a6cb03752efb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb9b4d42659813959f10ba11e3b5e09db",
+    "publishedAt": "2026-08-28T17:16:59Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Dutch beat Scotland women by 58 runs in first ODI",
+    "description": "The Netherlands comfortably beat a youthful Scotland side to take the lead in a three-match ODI series.",
+    "url": "https://www.bbc.com/sport/cricket/articles/crl6n1gx8nxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-28T17:02:08Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Netherlands beat Scotland by 58 runs in first ODI",
+    "description": "The Netherlands comfortably beat a youthful Scotland side to take the lead in a three-match ODI series.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/crl6n1gx8nxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb86/live/7a35a7e0-a2f5-11f1-8d5b-155abe464768.jpg",
+    "publishedAt": "2026-08-28T17:02:04Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Essentially Sports",
+    "title": "“Seems Like a Grumpy Old Man”: Ex-Browns Pro Bowler Rips Cleveland Voice for Calling Shedeur Sanders an “Adolescent Goof”",
+    "description": "After the Cleveland Browns‘ second preseason matchup against the Buffalo Bills and their decision to name Deshaun Watson the starting quarterback, Shedeur Sanders has once again come under scrutiny. This time, however, the criticism has nothing to do with his…",
+    "url": "https://www.essentiallysports.com/nfl-active-news-browns-seems-like-a-grumpy-old-man-ex-browns-pro-bowler-tj-ward-rips-cleveland-voice-for-calling-shedeur-sanders-an-adolescent-goof/",
+    "image": "https://s.yimg.com/lo/mysterio/api/bd13e94dd81208a8e99e81b47f168b4671d0021a7d3b9b07fc26b58e86efd51a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fessentiallysports_articles_591%2F546fbc21ad7593e9f873fe2667523e16.jpg",
+    "publishedAt": "2026-08-28T16:54:31Z",
+    "author": "Keshav Pareek"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hill fifty helps Yorkshire to 263 against Leics",
+    "description": "George Hill posts 62 and Josh Hull completes a three-wicket haul as Yorkshire and Leicestershire play out a heavily weather-interrupted day of County Championship cricket at Scarborough.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cly4v1yle3po?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/1a1e59cfcb735efd1f6381237d034e10257ff34253578f7c8ae62d667d42edde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F78b1467a0f9831354ce12e715fa3722e.jpg",
+    "publishedAt": "2026-08-28T16:49:20Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hill fifty helps Yorkshire to 263 against Leics",
+    "description": "George Hill posts 62 and Josh Hull completes a three-wicket haul as Yorkshire and Leicestershire play out a heavily weather-interrupted day of County Championship cricket at Scarborough.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cly4v1yle3po",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf62/live/c166b550-a2ff-11f1-80b3-bf1a174ac193.jpg",
+    "publishedAt": "2026-08-28T16:49:15Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Namibia's biggest upsets in international cricket after stunning win over South Africa again",
+    "description": "With today's 18-run victory over South Africa, here's a look at Namibia's biggest victories in international cricket.",
+    "url": "https://www.cricketnews.com/en/cricket/news/namibias-biggest-upsets-international-cricket-win/5d9721b18b19a9b3447800ff",
+    "image": "https://s.yimg.com/lo/mysterio/api/f3ecd4cebcef7d5d3cadf2577d7effe524bf14d164f137700e8af34c1768aabd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faa90bc8f129de92336179b71d84f6fbb",
+    "publishedAt": "2026-08-28T16:43:38Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Kashmirnewsbureau.com",
+    "title": "J&K Super Cup: Team Managers’ Meeting Held, Arrangements Finalised",
+    "description": "Srinagar 28 Aug(KNB): Kashmir is set to witness a major cricket extravaganza next week, with six of J&K’s top teams gearing up to enthral fans in the J&K Super Cup at Bakshi Stadium, Srinagar. The six-team league will feature fan-favourite sides Sultan Warrio…",
+    "url": "https://kashmirnewsbureau.com/jk-super-cup-team-managers-meeting-held-arrangements-finalised/",
+    "image": "https://kashmirnewsbureau.com/wp-content/uploads/2026/08/IMG-20260828-WA0082-scaled.jpg",
+    "publishedAt": "2026-08-28T16:28:04Z",
+    "author": "Online Editor"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Packers ‘In Early’ on Cardinals’ $76 Million Pro Bowler as Trade Rumors Heat Up",
+    "description": "Preseason finale week is typically reserved for roster-bubble drama and bottom-of-the-depth-chart battle chatter, but Green Bay was entirely gripped by a prospective blockbuster.Beyond the obvious storyline of Mike LaFleur matching wits with his brother Matt,…",
+    "url": "https://heavy.com/sports/nfl/arizona-cardinals/packers-76-million-pro-bowler-trade-rumors-heat/",
+    "image": "https://s.yimg.com/lo/mysterio/api/70bfb70496ed2ba77b182c53e9f03c51700b9840390b3cf81076a7ac2095591f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F3c8f26a10e31682aa79386701c3c4d08.jpg",
+    "publishedAt": "2026-08-28T16:06:13Z",
+    "author": "Pankti Parmar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Which team struggles to dismiss tailenders in Test cricket? Full stats of teams vs lower-order in Tests since May 2024",
+    "description": "After Pakistan failed to limit England to a small total at Lord's, here's a look at the teams which struggle the most to dismiss tailenders in Tests.",
+    "url": "https://www.cricketnews.com/en/cricket/news/which-team-struggles-dismiss-tailenders-test-cricket-full-stats-teams/5308c52a8dcd43f5b0309b31",
+    "image": "https://s.yimg.com/lo/mysterio/api/ad2533c27b7ba776881ee354ace5b7963983fe3859f9ec99f65a6cb03752efb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb9b4d42659813959f10ba11e3b5e09db",
+    "publishedAt": "2026-08-28T16:03:19Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brilliant bowling - Relentless Robinson stars with the ball",
+    "description": "England bowler Ollie Robinson finishes with four wickets for just 11 runs as Pakistan are bowled out for 110, giving England a lead of 180 on the second day of the second Test at Lord's.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyz1jkpn3no",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6c8f/live/f344d350-a2f4-11f1-b109-879e35c24276.jpg",
+    "publishedAt": "2026-08-28T15:37:50Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rs200cr sports complex planned at Darbhanga’s Nehru Stadium",
+    "description": "Bihar govt plans Rs 200 crore national-level sports complex at Nehru Stadium, Darbhanga, with cricket stadium, indoor hall, hostel, sports science and parking.",
+    "url": "https://timesofindia.indiatimes.com/city/patna/rs200cr-sports-complex-planned-at-darbhangas-nehru-stadium/articleshow/133594778.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133594777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-28T15:22:06Z",
+    "author": "Jai Narain Pandey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From Anaya Bangar’s cricket return to Imane Khelif’s Olympic gold controversy: The biggest transgender and gender-eligibility debates in sport",
+    "description": "Anaya Bangar's comeback in cricket reignites discussions on transgender athletes worldwide. The involvement of Laurel Hubbard in the Olympics represented a historic moment for diversity in sports. Lia Thomas's NCAA victory sparked intense conversations about …",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/from-anaya-bangars-cricket-return-to-imane-khelifs-olympic-gold-controversy-the-biggest-transgender-and-gender-eligibility-debates-in-sport/articleshow/133594137.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133594351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-28T14:58:20Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
     "title": "‘Go and educate yourself’: Anaya Bangar hits back at Marizanne Kapp over cricket return",
     "description": "Anaya Bangar urged critics to educate themselves on transgender inclusion in sports. She is seeking a pathway back into competitive women's cricket after surgery. Cricket Australia has cleared her for elite play under specific policy requirements. Bangar aims…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/go-and-educate-yourself-anaya-bangar-hits-back-at-marizanne-kapp-over-cricket-return/articleshow/133593498.cms",
@@ -43,105 +196,6 @@ window.cricketNews = [
     "image": "https://i.abcnewsfe.com/a/65979738-c3eb-456f-8bf7-ec3cbebd5e8f/wirestory_e71dbed50bbdc710372f96deead36665_16x9.jpg?w=1600",
     "publishedAt": "2026-08-28T13:16:05Z",
     "author": "HANNA ARHIROVA Associated Press, BARRY HATTON Associated Press"
-  },
-  {
-    "source": "USA Today",
-    "title": "Is Aaron Donald actually coming back to Rams?",
-    "description": "Sean McVay has an update regarding the 10-time Pro Bowler",
-    "url": "https://ftw.usatoday.com/story/sports/nfl/2026/08/28/aaron-donald-nfl-comeback-rams-sean-mcvay/91505325007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/a76e69024f53fb85ade73d7c86a5bf68da3aefff0987a85d603b400e210e71ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2F1dc8788ca9517233cc0cd0818290cb41.jpg",
-    "publishedAt": "2026-08-28T13:07:52Z",
-    "author": "Wajih AlBaroudi, For The Win"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Shelar Takes Helm As ESGF President",
-    "description": "Maharashtra minister and Asian Cricket Council board member Adv. Ashish Shelar has been unanimously elected as the president of the E Sports Games Federation (ESGF) in India. Shelar, who also holds portfolios for Electronics, IT, AI, and Cultural Affairs, aim…",
-    "url": "https://www.rediff.com/sports/report/ashish-shelar-elected-president-of-e-sports-games-federation/20260828.htm",
-    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-    "publishedAt": "2026-08-28T12:21:35Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "Abcnews.com",
-    "title": "Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day",
-    "description": "Russian forces have resumed drone attacks on Ukraine’s Kyiv region, hitting numerous buildings and storage depots",
-    "url": "https://abcnews.com/International/wireStory/russian-drones-batter-ukraines-kyiv-region-hitting-apartments-136024871",
-    "image": "https://i.abcnewsfe.com/a/65979738-c3eb-456f-8bf7-ec3cbebd5e8f/wirestory_e71dbed50bbdc710372f96deead36665_16x9.jpg?w=1600",
-    "publishedAt": "2026-08-28T11:29:14Z",
-    "author": "HANNA ARHIROVA Associated Press, BARRY HATTON Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Test cricket needs character': Gautam Gambhir's message after India's draw against Sri Lanka in Colombo",
-    "description": "In a gripping Test series finale, India emerged victorious against Sri Lanka with a narrow 1-0 win. This triumph was characterized by Shubman Gill's resilient team, exhibiting great mental fortitude. Sri Lanka’s Sonal Dinusha proved to be a formidable opponen…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/test-cricket-needs-character-gautam-gambhirs-message-after-indias-draw-against-sri-lanka-in-colombo/articleshow/133589967.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133590236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-28T11:24:14Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Treated with the dignity anyone deserves’: Pat Cummins backs campaign for Imran Khan",
-    "description": "Australian cricket captain Pat Cummins has thrown his weight behind a call for better medical treatment for Imran Khan amid growing concerns for Khan’s health since his incarceration in 2023. Former international cricket captains are uniting to demand humane …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/treated-with-the-dignity-anyone-deserves-pat-cummins-backs-campaign-for-imran-khan/articleshow/133589763.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133589838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-28T11:00:29Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hundred schedule impact worth the price - ECB chair",
-    "description": "Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c4gmx41ylm0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/e634273e1cb08dc3e0f63d8bb744cb853ed481e02dfc0513484a49cf0e9e46f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe4f43ea8a2cd54d1afe7088def9c9ad6.jpg",
-    "publishedAt": "2026-08-28T10:55:32Z",
-    "author": "Matthew Henry - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hundred scheduling issues a price worth paying - ECB chair",
-    "description": "Scheduling issues caused by The Hundred are a \"price worth paying\", says England and Wales Cricket Board chair Richard Thompson.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gmx41ylm0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f72/live/0c456aa0-a2cc-11f1-b109-879e35c24276.jpg",
-    "publishedAt": "2026-08-28T10:48:24Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Asian Games 2026: BCCI considers sending India's second-string team to Japan over poor player facilities - report",
-    "description": "BCCI is mulling over sending a second-string 'B' squad to Japan due to major concerns over tented dressing rooms and cramped hotel sizes in Nagoya.",
-    "url": "https://www.cricketnews.com/en/cricket/news/asian-games-2026-bcci-b-team-japan-india-poor-player-facilities/f99a279a164f80813fc56b0a",
-    "image": "https://s.yimg.com/lo/mysterio/api/8e1a5ad061bc2b59afafd6aeb83abb0adc16c64217f06c00c2ec1a3cb2e8ce32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F983f3f97f0bd277485845f33e11b67ef",
-    "publishedAt": "2026-08-28T10:32:53Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Can be one of Sri Lanka’s greats': Chetashwar Pujara draws Sangakkara, Jayawardene parallel for Sonal Dinusha",
-    "description": "In the recent Test series, Sri Lankan batter Sonal Dinusha showcased remarkable talent, scoring three centuries and amassing an impressive 420 runs, which topped the series charts. Former Indian cricketer Cheteshwar Pujara praised Dinusha's remarkable resilie…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/can-be-one-of-sri-lankas-greats-chetashwar-pujara-draws-sangakkara-jayawardene-parallel-for-sonal-dinusha/articleshow/133588929.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133589235,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-28T10:24:08Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Absolutely ridiculous’: Marizanne Kapp slams Cricket Australia’s decision on Anaya Bangar",
-    "description": "Cricket Australia has cleared Anaya Bangar for a return to competitive women's cricket. She can play community cricket until March 2027, meeting policy requirements. After this date, elite cricket eligibility depends on sustained testosterone levels. South Af…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/absolutely-ridiculous-marizanne-kapp-slams-cricket-australias-decision-on-anaya-bangar/articleshow/133588743.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133588972,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-28T10:14:44Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "‘Is This Real?’ ‘Being Cruel to Strangers for No Reason’ — Steelers’ DK Metcalf Faces Intense Backlash for Body-Shaming Grocery Store Employee",
-    "description": "Pittsburgh Steelers wide receiver DK Metcalf made headlines for all the wrong reasons this week. A post on his Instagram story instantly drew backlash as the two-time Pro Bowler made fun of a grocery story employee.",
-    "url": "https://www.profootballnetwork.com/steelers-dk-metcalf-backlash-body-shaming-grocery-store-employee/",
-    "image": "https://s.yimg.com/lo/mysterio/api/698259584b440f3be5e0502156335f535979c576a3b461a7d99c73e356092cf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F57a62ca9b19357a90bc7e8ef3febc449.jpg",
-    "publishedAt": "2026-08-28T09:07:19Z",
-    "author": "Pritish Ganguly"
   }
 ]
 ;
