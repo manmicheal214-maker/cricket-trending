@@ -1,5 +1,113 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "PCB threatens player protest after Atherton’s interview with Imran Khan’s sons at Lord’s",
+    "description": "The Pakistan Cricket Board objected to Sky Sports airing an interview with Imran Khan's sons. The interview focused on their father's health and safety concerns while imprisoned. Sky Sports initially delayed the broadcast before showing it during the lunch in…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-threatens-player-protest-after-athertons-imran-khan-sons-interview-at-lords/articleshow/133581072.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133581091,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-28T01:40:12Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Punch",
+    "title": "W’Cup qualifiers: Junior Female Yellow Greens arrive Tanzania",
+    "description": "Nigeria’s U-19 women’s cricket team, the Junior Female Yellow Greens, have arrived in Tanzania as they bid to return to the ICC Women’s T20 World Cup, which will be held in Bangladesh and Nepal next year, PUNCH Sports Extra reports. The ICC U-19 Women’s T20 W…",
+    "url": "https://punchng.com/wcup-qualifiers-junior-female-yellow-greens-arrive-tanzania/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/28000607/Yellow-Green_1787871967.webp",
+    "publishedAt": "2026-08-28T00:51:34Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "USA Today",
+    "title": "Colts’ Alec Pierce reveals what he’s learning from Keenan Allen's game",
+    "description": "Colts WR Alec Pierce explained what he has already picked up from six-time Pro Bowler Keenan Allen after returning to practice Thursday.",
+    "url": "https://coltswire.usatoday.com/story/sports/nfl/colts/2026/08/27/alec-pierce-keenan-allen-learning-colts/91495648007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/4fe24bb7116e5b15700303ae30cfc1ffcd6dd8974c0e73126ae159daefdcb2d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findianapolis_colts_wire_usa_today_sports_articles_945%2Fad6625443c5573fdec176ee865c54af9.jpg",
+    "publishedAt": "2026-08-27T21:07:22Z",
+    "author": "Colts Wire"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Dragons Den S23E09 1080p IP WEB-DL H264-RAWR",
+    "description": "Season 23, Episode 09 – The pitches to the Dragons are nut-and-seed-based snacks, a gadget for tackling water waste, a vision for upscaling a mural installation business and cricket gear designed to empower girls and women. Links: HOMEPAGE – TVMDragons.Den.S2…",
+    "url": "https://post.rlsbb.cc/dragons-den-s23e09-1080p-ip-web-dl-h264-rawr/",
+    "image": null,
+    "publishedAt": "2026-08-27T20:53:17Z",
+    "author": "Lisa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket: Sonal Dinusha, backed by the lower order, denies India series-sweeping win in second Test",
+    "description": "India were on the hunt for World Test Championship points, but more critically, having enforced the follow-on, they would have believed they had the bowlers to take 10 Sri Lankan wickets. As it turned out, the Day 5 pitch was not quite as dry as anticipated —…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-sonal-dinusha-backed-by-the-lower-order-denies-india-series-sweeping-win-in-second-test/articleshow/133577791.cms",
+    "image": "https://img.etimg.com/thumb/msid-133577806,width-1200,height-630,imgsize-67720,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-27T19:41:49Z",
+    "author": "Anand Vasu"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Pakistan cricket chiefs complain to Sky Sports over interview with sons of imprisoned former captain and prime minister Imran Khan",
+    "description": "LAWRENCE BOOTH AT LORD'S: The heavily politicised PCB are sensitive to any criticism of government policy, and have denied mistreating the 73-year-old Imran.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16085561/Pakistan-cricket-chiefs-complain-Sky-Sports-interview-sons-imprisoned-former-captain-prime-minister-Imran-Khan.html",
+    "image": "https://i.dailymail.com/1s/2026/08/27/20/110893933-0-image-m-25_1787859444786.jpg",
+    "publishedAt": "2026-08-27T19:39:50Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Eagles’ Struggling 3-Time Pro Bowler Faces Early Exit From Philly",
+    "description": "This preseason hasn’t gone quite the way the Philadelphia Eagles hoped, with losses to the Baltimore Ravens and the New England Patriots.Many of the team’s concerns have been inconsistency at quarterback and in the passing game. Tanner McKee got his groove ba…",
+    "url": "https://heavy.com/sports/nfl/philadelphia-eagles/eagles-andy-dalton-early-exit-philly/",
+    "image": "https://s.yimg.com/lo/mysterio/api/d283f211fad54b86e2f9c58746be830cb01039cc7008d7238a3ea22e8f6c854d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Ff8d1c8ca7bbdc1bff976ef45d87a8da9.jpg",
+    "publishedAt": "2026-08-27T19:17:42Z",
+    "author": "Anthony Miller"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cricket: Today at the Test",
+    "description": "Day 1 highlights from the second Test match between England and Pakistan at Lord's.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m0030rbk/cricket-today-at-the-test-england-v-pakistan-2026-second-test-day-1?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6k9q5.jpg",
+    "publishedAt": "2026-08-27T19:00:25Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rajasthan’s Kushagra Ojha and Rajat Baghel selected in India Under-19 cricket team for Australia series",
+    "description": "Rajasthan’s Kushagra Ojha and Rajat Baghel named in India U-19 squads for Australia series; Ojha in one-day and multi-day teams, Baghel in ODIs.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthans-kushagra-ojha-and-rajat-baghel-selected-in-india-under-19-cricket-team-for-australia-series/articleshow/133577229.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133577224,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-27T18:58:46Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "BBC News",
+    "title": "Durham will pick bowler Carse until told otherwise",
+    "description": "Durham coach Ryan Campbell says he is comfortable with selecting Brydon Carse, and will continue to do so unless they are told otherwise.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cwyz9xp7npvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c76f10bcc3acd54d52ac9e98191c59e9b86f0327fc29919b94fb3f529031d880/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faab6c76d84caca1d41248b0f59760b45.jpg",
+    "publishedAt": "2026-08-27T18:39:46Z",
+    "author": "Matthew Henry - BBC Sport journalist at Chester-le-Street"
+  },
+  {
+    "source": "BBC News",
+    "title": "Durham will pick bowler Carse until told otherwise",
+    "description": "Durham coach Ryan Campbell says he is comfortable with selecting Brydon Carse, and will continue to do so unless they are told otherwise.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyz9xp7npvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d75/live/1f6ceed0-a242-11f1-b109-879e35c24276.jpg",
+    "publishedAt": "2026-08-27T18:29:23Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rudras eye change of fortunes as UPT20 League enters second leg",
+    "description": "Defending champs Kashi Rudras face Noida Kings as UP T20 League’s Kanpur leg starts at Green Park; rain-hit pitch prep, standings, and fan offers.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/rudras-eye-change-of-fortunes-as-upt20-league-enters-second-leg/articleshow/133576669.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-27T18:28:55Z",
+    "author": "TNN"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Seattle Seahawks: Ink 3x-Pro Bowler With Top 5 Salary",
     "description": "The Seattle Seahawks’ elite defensive tackle Leonard Williams enters the final year of his contract and is slated to become a free agent next March. The 32-year-old Williams is coming off a strong second full season in Seattle, helping the team win a Super Bo…",
@@ -52,87 +160,6 @@ window.cricketNews = [
     "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2291960706.jpg",
     "publishedAt": "2026-08-27T14:29:58Z",
     "author": "Kevin Lynch"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Test cricket won': Shubman Gill after Sri Lanka force draw in Colombo",
-    "description": "Following a thrilling second Test match, India captain Shubman Gill hailed the outcome as a victory after Sri Lanka's determined resistance led to a draw. The Sri Lankan team batted fiercely for 154 overs, earning a hard-fought tie. Gill commended their fight…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/test-cricket-won-shubman-gill-after-sri-lanka-force-draw-in-colombo/articleshow/133570202.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133570330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T13:45:22Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Jersey 'building attacking style' for 2027 World Cup bid",
-    "description": "Head coach Neil MacCrae says Jersey are aiming to reach the 2027 Cricket World Cup with an \"exciting\" brand.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c783143rlnmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/74805772b3fb911a0f4460beb1c1e960c00f07e24266bcb807a53ea99f7814a8/lightyear_networkapi/resizefill_w1197_h673%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F35e0e5c0ed99f64f82a9adbcecab8a4b.png",
-    "publishedAt": "2026-08-27T13:35:43Z",
-    "author": "Dan Wareing - BBC Sport; Danny Parkinson - Jersey"
-  },
-  {
-    "source": "BBC News",
-    "title": "Stumped podcast: Cricket's latest rivalry - vicars v imams",
-    "description": "We hear about how cricket is bringing communities together in Lancashire.",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct99fp?at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p6kc69.jpg",
-    "publishedAt": "2026-08-27T13:30:00Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Guernsey T20 World Cup hopes still alive after review",
-    "description": "Guernsey thought their hopes of reaching the tournament had ended but a review of the qualification pathway by the ICC has given them another chance.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ce8xd84ld2do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/bd82d742f201ea29bc149b795c5b5274cc45471763e9f5db753e6ff82ee3183f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F78c2968afff70948fcce02e99d2167b1.jpg",
-    "publishedAt": "2026-08-27T13:00:32Z",
-    "author": "Dan Wareing - BBC Sport; Danny Parkinson - Guernsey"
-  },
-  {
-    "source": "BBC News",
-    "title": "Guernsey T20 World Cup hopes still alive after review",
-    "description": "Guernsey thought their hopes of reaching the tournament had ended but a review of the qualification pathway by the ICC has given them another chance.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8xd84ld2do",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e050/live/5c09fbe0-56ba-11f1-a8ac-b93df832a6b3.jpg",
-    "publishedAt": "2026-08-27T13:00:27Z",
-    "author": "Dan Wareing, Danny Parkinson"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women's Asia Cup: Anything less than title will be a 'major disappointment' for Harmanpreet Kaur's India",
-    "description": "Given the historic dominance of the Indian team in the tournament, former India cricketer and ex-women's team coach WV Raman believes anything less than a title in the upcoming 2026 Women's Asia Cup would be a \"major disappointment\" for Harmanpreet Kaur's tea…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/womens-asia-cup-anything-less-than-title-will-be-a-major-disappointment-for-harmanpreet-kaurs-india/articleshow/133565586.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133565802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T12:41:51Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'GCL feels like IPL of chess': Indian Grandmaster Nihal Sarin ahead of new season",
-    "description": "Chess News: NEW DELHI: For someone who has spent most of his life competing alone across a chequered board, Nihal Sarin lights up when the conversation turns to t.",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/gcl-feels-like-ipl-of-chess-indian-grandmaster-nihal-sarin-ahead-of-new-season/articleshow/133567892.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133567999,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T12:09:47Z",
-    "author": "Daniyal Abdulla"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Sport-loving girl, 14, dies after collapsing at village cricket club as devastated family pay tribute",
-    "description": "Amélia Jones, 14, was rushed to hospital last Thursday evening by air ambulance after collapsing at Grampound Road Cricket Club, near St Austell.",
-    "url": "https://www.dailymail.com/news/article-16084211/girl-dies-collapsing-village-cricket-club.html",
-    "image": "https://i.dailymail.com/1s/2026/08/27/12/110883807-0-image-m-42_1787830338886.jpg",
-    "publishedAt": "2026-08-27T11:36:34Z",
-    "author": "Elizabeth Haigh"
-  },
-  {
-    "source": "CNA",
-    "title": "Sri Lanka salvage draw after battling Dinusha denies India",
-    "description": "COLOMBO, Aug 27 : Sri Lanka's middle-order batter Sonal Dinusha engineered a remarkable rearguard action to help the hosts salvage a draw and deny India a series sweep in the second test on Thursday.Dinusha made a stellar 133 not out, his second hundred of th…",
-    "url": "https://www.channelnewsasia.com/sport/sri-lanka-salvage-draw-after-battling-dinusha-denies-india-6345251",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-08-27T11:27:07Z",
-    "author": null
   }
 ]
 ;
