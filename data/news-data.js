@@ -1,6 +1,69 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "In 1936, Cotar Ramaswami made India Test debut; he was later listed as ‘death unknown’",
+    "description": "Cricket News: Only 13 cricketers in the history of Test cricket have made their debuts after turning 40. Two of them were Indians — Rustomji Jamshedji Dorabji Jamsh.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/in-1936-cotar-ramaswami-became-only-second-indian-to-make-test-debut-after-turning-40-he-also-played-at-wimbledon-disappeared-from-his-home-in-1985-and-remains-listed-as-death-unknown/articleshow/133585928.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133586386,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-28T07:34:11Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Not cricket': documents reveal rare Australia-New Zealand diplomatic spat",
+    "description": "New Zealand officials expressed strong disapproval of Australia's unilateral tax treaty changes.  They described the action as poor form and not in the spirit of cricket.  This dispute arose after Australia altered laws affecting New Zealand property investor…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/not-cricket-documents-reveal-rare-australia-new-zealand-diplomatic-spat/articleshow/133585488.cms",
+    "image": "https://img.etimg.com/thumb/msid-133585518,width-1200,height-630,imgsize-72984,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-28T06:39:55Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI dissatisfied with facilities in Japan, could send 'B' team for Asian Games: Board source",
+    "description": "India may send a second-string squad to the Asian Games cricket tournament.  Concerns exist regarding the facilities and arrangements provided for players in Japan.  A BCCI observer will assess the situation and report back to the board.  If conditions remain…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-dissatisfied-with-facilities-in-japan-could-send-b-team-for-asian-games-board-source/articleshow/133585422.cms",
+    "image": "https://img.etimg.com/thumb/msid-133585421,width-1200,height-630,imgsize-203414,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-28T06:35:05Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Coolie's son left school after failing Class 6; one teacher changed his life, leading him to IIM Bangalore and a Rs 681 crore business",
+    "description": "PC Musthafa left school to work but later returned to education, studying engineering before earning an MBA. He eventually returned to India and co-founded iD Fresh Food with his cousins. The business began in a small kitchen making idli and dosa batter. Toda…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/coolies-son-left-school-after-failing-class-6-one-teacher-changed-his-life-leading-him-to-iim-bangalore-and-a-rs-681-crore-business/articleshow/133584461.cms",
+    "image": "https://img.etimg.com/thumb/msid-133584858,width-1200,height-630,imgsize-1839147,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-28T06:14:25Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Groom seeks helicopter from wedding to play at Lord's",
+    "description": "Peter Melhuish needs to captain his cricket team less than 24 hours after he ties the knot.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gdvv2dwgdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec24/live/c03a4120-a22c-11f1-bd6a-3d72a7f54a3e.jpg",
+    "publishedAt": "2026-08-28T05:46:43Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "Sporting News",
+    "title": "How to watch Women's Asia Cup 2026 in India? Live stream, TV channel, schedule for cricket tournament",
+    "description": "How to watch Women's Asia Cup 2026 in India: Get complete live streaming details, TV channels, full schedule, and India match times.",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-womens-asia-cup-2026-india-live-stream-tv-channel-schedule/ae21b9927c22e1030a75be7f",
+    "image": "https://s.yimg.com/lo/mysterio/api/a088374f058602d87a0f8d12cacddc1ff679878d6f9ed5a27f99115540432704/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F9f0c820488b55fa0b2bb63e5fbdf0d38",
+    "publishedAt": "2026-08-28T03:30:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "NBCSports.com",
+    "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0 for 3-game sweep",
+    "description": "Sale (13-9) did not walk a batter. The left-hander posted his fourth double-digit strikeout game this season and the 95th of his career, which ranks seventh all-time.",
+    "url": "https://www.nbcsports.com/mlb/news/chris-sale-strikes-out-11-in-5-hit-shutout-as-braves-beat-yamamoto-and-dodgers-1-0-for-3-game-sweep",
+    "image": "https://s.yimg.com/lo/mysterio/api/966ac1a45aa4492c782f68b6558b48236ca47930d62c74b1d8c60a368201930c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fec666936d9edb1efb565c57b191fc9b6.jpg",
+    "publishedAt": "2026-08-28T03:04:30Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
     "title": "PCB threatens player protest after Atherton’s interview with Imran Khan’s sons at Lord’s",
     "description": "The Pakistan Cricket Board objected to Sky Sports airing an interview with Imran Khan's sons. The interview focused on their father's health and safety concerns while imprisoned. Sky Sports initially delayed the broadcast before showing it during the lunch in…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-threatens-player-protest-after-athertons-imran-khan-sons-interview-at-lords/articleshow/133581072.cms",
@@ -88,78 +151,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c76f10bcc3acd54d52ac9e98191c59e9b86f0327fc29919b94fb3f529031d880/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faab6c76d84caca1d41248b0f59760b45.jpg",
     "publishedAt": "2026-08-27T18:39:46Z",
     "author": "Matthew Henry - BBC Sport journalist at Chester-le-Street"
-  },
-  {
-    "source": "BBC News",
-    "title": "Durham will pick bowler Carse until told otherwise",
-    "description": "Durham coach Ryan Campbell says he is comfortable with selecting Brydon Carse, and will continue to do so unless they are told otherwise.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyz9xp7npvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d75/live/1f6ceed0-a242-11f1-b109-879e35c24276.jpg",
-    "publishedAt": "2026-08-27T18:29:23Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rudras eye change of fortunes as UPT20 League enters second leg",
-    "description": "Defending champs Kashi Rudras face Noida Kings as UP T20 League’s Kanpur leg starts at Green Park; rain-hit pitch prep, standings, and fan offers.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/rudras-eye-change-of-fortunes-as-upt20-league-enters-second-leg/articleshow/133576669.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-27T18:28:55Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Seattle Seahawks: Ink 3x-Pro Bowler With Top 5 Salary",
-    "description": "The Seattle Seahawks’ elite defensive tackle Leonard Williams enters the final year of his contract and is slated to become a free agent next March. The 32-year-old Williams is coming off a strong second full season in Seattle, helping the team win a Super Bo…",
-    "url": "https://sports.yahoo.com/articles/seattle-seahawks-ink-3x-pro-164814675.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/be912cf2680afc2fcd6498187037d0294f2681811b24f74774c95f63dab27ce0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ff51b0eeb764d01af473616fdf3d73edf.jpg",
-    "publishedAt": "2026-08-27T16:48:14Z",
-    "author": "Jackson Loschko"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Not mercurial anymore': Nasser Hussain launches scathing attack on Pakistan, calls IND-PAK matches one-sided",
-    "description": "Nasser Hussain launched a scathing critique of Pakistan cricket, calling IND-PAK matches one-sided and highlighting a lack of fight.",
-    "url": "https://www.cricketnews.com/en/cricket/news/nasser-hussain-attack-pakistan-calls-ind-pak-matches-one-sided/683a2c887992b89c150002d4",
-    "image": "https://s.yimg.com/lo/mysterio/api/70ebc21a95e2babdb0a83a7dd773a8602f6fa6868772c705ffd96a210de881c9/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F967830315e55efe48f4dc89e145aeedb.jpg",
-    "publishedAt": "2026-08-27T16:28:04Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "From washing utensils in Kolkata to a career-best 167: Shahbaz Ahmed's remarkable cricket journey",
-    "description": "Shahbaz Ahmed left civil engineering studies in Haryana to chase cricket dreams in Kolkata, 1,500km from home. Facing financial hardship, he washed dishes and lived in modest club quarters while training. His breakthrough came with Tapan Memorial, followed by…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-washing-utensils-in-kolkata-to-a-career-best-167-shahbaz-ahmeds-remarkable-cricket-journey/articleshow/133573044.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133573425,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T16:21:23Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Anushka Sharma to lead India A in T20s; Yastika Bhatia named captain for ODIs and multi-day game",
-    "description": "The BCCI women's selection committee announced the squads for Australia's upcoming tour of India on Thursday. Sayali Satghare has been named Anushka's deputy in the T20s, while Anushka will be Bhatia's vice-captain in the One-Day and multi-day teams.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/anushka-sharma-to-lead-india-a-in-t20s-yastika-bhatia-named-captain-for-odis-and-multi-day-game/articleshow/133573335.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133573403,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-27T16:17:31Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Wisden Cricket Monthly - Issue 100 2026",
-    "description": "Founded in 1864 by the Victorian cricketer-cum-entrepreneur John Wisden - a tiny fast bowler from Brighton who is still the only player to have bowled all 10 batsmen in the same first-class innings - the Almanack has long been the most prestigious name in spo…",
-    "url": "https://post.rlsbb.cc/wisden-cricket-monthly-issue-100-2026/",
-    "image": null,
-    "publishedAt": "2026-08-27T16:05:50Z",
-    "author": "saamaan1@yahoo.com (Master)"
-  },
-  {
-    "source": "CNET",
-    "title": "England vs. Pakistan: How to Watch 2nd Test Cricket Live From Anywhere - CNET",
-    "description": "The hosts look to build on their dominant display in the first Test as the action moves to iconic Lord's.",
-    "url": "https://www.cnet.com/tech/services-and-software/england-vs-pakistan-how-to-watch-2nd-test-cricket-live-from-anywhere/",
-    "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2291960706.jpg",
-    "publishedAt": "2026-08-27T14:29:58Z",
-    "author": "Kevin Lynch"
   }
 ]
 ;
