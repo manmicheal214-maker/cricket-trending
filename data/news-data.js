@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Vaughan backs Lawrence for extended run in England team",
+    "description": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+    "url": "https://www.bbc.com/sport/cricket/articles/cgrvw52zdrpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/a64cc9b509e3a9f25b2b1ab93a29b14fdf8dbd96b62ac4ebf42f87ae3cfc17d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1fe11d00f747b1b0d94e45eb7a67fce8.jpg",
+    "publishedAt": "2026-08-29T18:23:50Z",
+    "author": "Matthew Henry - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Vaughan backs Lawrence for extended run in England team",
+    "description": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb3b/live/82d14b10-a3d2-11f1-a291-b542ee92de7c.jpg",
+    "publishedAt": "2026-08-29T18:21:55Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "It won't be easy to drop Dan Lawrence now, writes LAWRENCE BOOTH... his valour and audacity in tricky conditions has led England to the brink of victory",
+    "description": "Dan Lawrence began the second Test as the batsman most likely to make way when Jacob Bethell returns for the winter tour of South Africa, but now the selectors must pause for thought.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16089981/It-wont-easy-drop-Dan-Lawrence-writes-LAWRENCE-BOOTH-valour-audacity-tricky-conditions-led-England-brink-victory.html",
+    "image": "https://i.dailymail.com/1s/2026/08/29/19/110930127-0-image-m-14_1788027214529.jpg",
+    "publishedAt": "2026-08-29T18:15:26Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Times of India",
+    "title": "When you can watch cricket in stadium, why can’t appear in court, asks judge; orders health evaluation of Alagiri’s son by JIPMER team",
+    "description": "CBI court in Madurai orders Durai Dayanidhi to undergo JIPMER Puducherry medical exam to assess mental soundness and fitness to face trial in ED case.",
+    "url": "https://timesofindia.indiatimes.com/city/madurai/when-you-can-watch-cricket-in-stadium-why-cant-appear-in-court-asks-judge-orders-health-evaluation-of-alagiris-son-by-jipmer-team/articleshow/133616597.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133616594,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-29T17:23:22Z",
+    "author": "Kaushik Kannan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rain washes out Meerut-Lucknow clash",
+    "description": "UP T20 League: Meerut Mavericks vs Lucknow Falcons at Kanpur’s Green Park ended no-result due to rain; both get 1 point, Meerut top with 15.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/rain-washes-out-meerut-lucknow-clash/articleshow/133616519.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-29T17:20:33Z",
+    "author": "TNN"
+  },
+  {
     "source": "The Times of India",
     "title": "Ashwin picks India's greatest-ever cricketer; makes surprise calls on Rohit Sharma , Virat Kohli, MS Dhoni",
     "description": "Ravichandran Ashwin selected Sachin Tendulkar as India's greatest cricketer. He placed Rohit Sharma and Virat Kohli in surprise matchups during the selection process. Ashwin chose Jasprit Bumrah over Virat Kohli in the quarterfinals. Sachin Tendulkar was ulti…",
@@ -70,114 +115,6 @@ window.cricketNews = [
     "image": "https://www.hindustantimes.com/ht-img/img/2026/08/29/1600x900/logo/moin_1788014341344_1788014347521_abfe64f4-e0da-444f-8541-aab2e87ad715.jpg",
     "publishedAt": "2026-08-29T14:53:26Z",
     "author": "Prateek Srivastava"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Stop it': Ex-cricketer slams critics who alleged Imam-ul-Haq is faking injury in ENG vs PAK 2nd Test at Lord's",
-    "description": "Majid Majeed quickly came to the rescue of Pakistan batter Imam-ul-Haq after the former was alleged to be faking an injury.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ex-cricketer-slams-critics-imam-ul-haq-faking-injury-eng-pak-lords/7eeda825be888c2181f5d912",
-    "image": "https://s.yimg.com/lo/mysterio/api/c7781c9205c844c0d3a512f403f40fcd89cfb27f811a576a87a04d2cff5ee442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F485a753b51ca2c42ff6ac38b470c3324",
-    "publishedAt": "2026-08-29T14:27:00Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Within 48 hours of Sri Lanka series, India's top players summoned for mandatory fitness test",
-    "description": "Centrally-contracted Indian cricketers reported for mandatory fitness tests in Bengaluru.  These tests are crucial before the upcoming eight-month home cricket season.  Several prominent players, including Jadeja and Pant, participated in the rigorous drills.…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/within-48-hours-of-sri-lanka-series-indias-top-players-summoned-for-mandatory-fitness-test/articleshow/133614016.cms",
-    "image": "https://img.etimg.com/thumb/msid-133614023,width-1200,height-630,imgsize-1618621,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T14:18:38Z",
-    "author": "PTI"
-  },
-  {
-    "source": "BBC News",
-    "title": "'That's a stinker' - Gay trapped lbw by 'unplayable' Abbas delivery",
-    "description": "After a lengthy rain delay that sees play halted for over three hours, England batter Emilio Gay is dimissed almost instantly after being trapped lbw by an \"unplayable\" ball from Pakistan bowler Muhammad Abbas on day three of their second Test at Lord's.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/c14d0j85nkpo",
-    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/460e/live/961bb030-a3ae-11f1-a291-b542ee92de7c.jpg",
-    "publishedAt": "2026-08-29T13:44:21Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Man attempts 62 mile run-up to bowl a cricket ball",
-    "description": "Sam Bodoano will run 62 miles from Lord's Cricket Ground to bowl the match ball at a game in Woking.",
-    "url": "https://www.bbc.com/news/articles/c780668dnq7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/f9e7288fc7e9c121776435492b62bd41e3e72da6ad4984686d0c37a9faa898e9/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png",
-    "publishedAt": "2026-08-29T13:33:32Z",
-    "author": "Nathan Bevan - South East"
-  },
-  {
-    "source": "The Times of India",
-    "title": "\"If someone sledged, we started giving it back\": Dasgupta reflects on Ganguly captaincy's impact on Team India",
-    "description": "Former Indian cricketer Deep Dasgupta discussed Sourav Ganguly's impact on Team India's approach to sledging.  Under Ganguly, the team began to retaliate against opponents instead of just internalizing.  This shift reflected Ganguly's 'I am the king' mentalit…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/if-someone-sledged-we-started-giving-it-back-dasgupta-reflects-on-ganguly-captaincys-impact-on-team-india/articleshow/133612816.cms",
-    "image": "https://img.etimg.com/thumb/msid-133612815,width-1200,height-630,imgsize-105954,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T13:22:12Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "From five days to just two: Michael Atherton explains why Test cricket is getting shorter",
-    "description": "Test matches are wrapping up more swiftly than they did in earlier years. The rise of aggressive T20-style batting and enhanced performances from fast bowlers are driving this trend. Additionally, the preparation of bowler-friendly pitches for the World Test …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-five-days-to-just-two-michael-atherton-explains-why-test-cricket-is-getting-shorter/articleshow/133612557.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133612715,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T13:13:44Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Prasidh Krishna steps up in Bumrah’s absence, named Impact Player of Series after India’s 1-0 win in Sri Lanka",
-    "description": "Prasidh Krishna has been honored with the Impact Player of the Series award due to his remarkable bowling performance. He secured seven wickets at an average of 24.57 across the two-Test series. As India's standout fast bowler in Jasprit Bumrah's absence, Kri…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/prasidh-krishna-steps-up-in-bumrahs-absence-named-impact-player-of-series-after-indias-1-0-win-in-sri-lanka/articleshow/133612241.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133612556,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T13:04:46Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Rain delays England victory bid in second test against Pakistan",
-    "description": "Rain was delaying England's bid for victory on Day 3 of the second test against Pakistan at Lord's on Saturday. Play wasn't able to start on time at the home of cricket because of showers which are forecast for most of the day in northwest London. If play is …",
-    "url": "https://sports.yahoo.com/articles/rain-delays-england-victory-bid-124327274.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/c7c4677c545752c4cdf8520b90b984e37d3462477a27bcedbe3e4986741cc1ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F867b04ee337bb23de58f36eec58078db.jpg",
-    "publishedAt": "2026-08-29T12:43:27Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sarfaraz Ahmed denies knowing about PCB's threat to end England tour",
-    "description": "Sarfaraz Ahmed denied knowing about the Pakistan Cricket Board's tour threat.  This alleged threat surfaced after an interview with Imran Khan's sons aired.  The sons expressed deep concern for their father's well-being in prison.  The Pakistan Cricket Board …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sarfaraz-ahmed-denies-knowing-about-pcbs-threat-to-end-england-tour/articleshow/133611191.cms",
-    "image": "https://img.etimg.com/thumb/msid-133611217,width-1200,height-630,imgsize-66064,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T11:52:01Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "FDA buckles under HC heat, revives Mumbai Cricket Association's suspended eateries after fresh inspection",
-    "description": "The Bombay High Court warned food officials, leading to a license suspension withdrawal.  Restaurants on Mumbai Cricket Association premises will now reopen their services.  A recent inspection confirmed 88 percent compliance with food safety rules.  The cour…",
-    "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fda-buckles-under-hc-heat-revives-mumbai-cricket-associations-suspended-eateries-after-fresh-inspection/articleshow/133607742.cms",
-    "image": "https://img.etimg.com/thumb/msid-133607874,width-1200,height-630,imgsize-125868,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T08:24:42Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Bombay HC slams FDA for 'pedantic' view, clears reopening of 5 MCA eateries",
-    "description": "The Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of five restaurants operating on the Mumbai Cricket Association premises, after the Bombay High Court warned of stinging orders against officials for taking a \"pedantic i…",
-    "url": "https://www.business-standard.com/india-news/bombay-hc-slams-fda-for-pedantic-view-clears-reopening-of-5-mca-eateries-126082900345_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/06/thumb/featurecrop/1200X628/1680770125-6097.jpg",
-    "publishedAt": "2026-08-29T08:13:50Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "8-year-old boy crushed to death by road roller at cricket academy",
-    "description": "An eight-year-old boy tragically died after falling under a road roller at a cricket academy. The machine accidentally started while children were playing on it unsupervised. He suffered fatal injuries and passed away at the scene of the accident. His family …",
-    "url": "https://timesofindia.indiatimes.com/city/gurgaon/8-year-old-boy-crushed-to-death-by-road-roller-at-cricket-academy/articleshow/133607289.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133607289,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T08:01:47Z",
-    "author": "Nikhil Sharma"
   }
 ]
 ;
