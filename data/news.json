@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC News",
+    "title": "Blaze beat Surrey and rain to win T20 County Cup",
+    "description": "Kathryn Bryce stars with bat and ball as The Blaze win the T20 Women's County Cup, leaving Surrey as runners-up again.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cj4j9vzr9xvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-29T21:15:53Z",
+    "author": "Ged Scott - BBC Sport England"
+  },
+  {
+    "source": "BBC News",
+    "title": "Blaze beat Surrey and rain to win T20 County Cup",
+    "description": "Kathryn Bryce stars with bat and ball as The Blaze win the T20 Women's County Cup, leaving Surrey as runners-up again.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4j9vzr9xvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce43/live/e2250360-a3e9-11f1-a772-a10cca7aea58.jpg",
+    "publishedAt": "2026-08-29T21:15:47Z",
+    "author": "Ged Scott"
+  },
+  {
+    "source": "BBC News",
     "title": "Vaughan backs Lawrence for extended run in England team",
     "description": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
     "url": "https://www.bbc.com/sport/cricket/articles/cgrvw52zdrpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -106,14 +124,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/a8c08dca23c9725836c579e82b203a6653c4649c5b081e2fcbaeddd4aed368b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb40b22f18952ca1eb0dd68821277a6de",
     "publishedAt": "2026-08-29T15:20:26Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Hindustan Times",
-    "title": "After Javed Miandad, another former Pakistan cricketer expresses concerns over health of the jailed Imran Khan",
-    "description": "Moin Khan, part of the 1992 WC-winning team under Imran Khan, has urged the authorities not to overlook the deteriorating condition of the former allrounder.  | Cricket",
-    "url": "https://www.hindustantimes.com/cricket/after-javed-miandad-another-former-pakistan-cricketer-moin-khan-expresses-concerns-over-health-of-the-jailed-imran-khan-101788014037740.html",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/08/29/1600x900/logo/moin_1788014341344_1788014347521_abfe64f4-e0da-444f-8541-aab2e87ad715.jpg",
-    "publishedAt": "2026-08-29T14:53:26Z",
-    "author": "Prateek Srivastava"
   }
 ]
