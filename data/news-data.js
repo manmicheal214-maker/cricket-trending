@@ -1,5 +1,86 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Rain delays England victory bid in second test against Pakistan",
+    "description": "Rain was delaying England's bid for victory on Day 3 of the second test against Pakistan at Lord's on Saturday. Play wasn't able to start on time at the home of cricket because of showers which are forecast for most of the day in northwest London. If play is …",
+    "url": "https://sports.yahoo.com/articles/rain-delays-england-victory-bid-124327274.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/c7c4677c545752c4cdf8520b90b984e37d3462477a27bcedbe3e4986741cc1ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F867b04ee337bb23de58f36eec58078db.jpg",
+    "publishedAt": "2026-08-29T12:43:27Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sarfaraz Ahmed denies knowing about PCB's threat to end England tour",
+    "description": "Sarfaraz Ahmed denied knowing about the Pakistan Cricket Board's tour threat.  This alleged threat surfaced after an interview with Imran Khan's sons aired.  The sons expressed deep concern for their father's well-being in prison.  The Pakistan Cricket Board …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sarfaraz-ahmed-denies-knowing-about-pcbs-threat-to-end-england-tour/articleshow/133611191.cms",
+    "image": "https://img.etimg.com/thumb/msid-133611217,width-1200,height-630,imgsize-66064,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-29T11:52:01Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "FDA buckles under HC heat, revives Mumbai Cricket Association's suspended eateries after fresh inspection",
+    "description": "The Bombay High Court warned food officials, leading to a license suspension withdrawal.  Restaurants on Mumbai Cricket Association premises will now reopen their services.  A recent inspection confirmed 88 percent compliance with food safety rules.  The cour…",
+    "url": "https://economictimes.indiatimes.com/industry/cons-products/food/fda-buckles-under-hc-heat-revives-mumbai-cricket-associations-suspended-eateries-after-fresh-inspection/articleshow/133607742.cms",
+    "image": "https://img.etimg.com/thumb/msid-133607874,width-1200,height-630,imgsize-125868,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-29T08:24:42Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Bombay HC slams FDA for 'pedantic' view, clears reopening of 5 MCA eateries",
+    "description": "The Maharashtra FDA on Saturday said it would withdraw its order suspending the licences of five restaurants operating on the Mumbai Cricket Association premises, after the Bombay High Court warned of stinging orders against officials for taking a \"pedantic i…",
+    "url": "https://www.business-standard.com/india-news/bombay-hc-slams-fda-for-pedantic-view-clears-reopening-of-5-mca-eateries-126082900345_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/06/thumb/featurecrop/1200X628/1680770125-6097.jpg",
+    "publishedAt": "2026-08-29T08:13:50Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "8-year-old boy crushed to death by road roller at cricket academy",
+    "description": "An eight-year-old boy tragically died after falling under a road roller at a cricket academy. The machine accidentally started while children were playing on it unsupervised. He suffered fatal injuries and passed away at the scene of the accident. His family …",
+    "url": "https://timesofindia.indiatimes.com/city/gurgaon/8-year-old-boy-crushed-to-death-by-road-roller-at-cricket-academy/articleshow/133607289.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133607289,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-29T08:01:47Z",
+    "author": "Nikhil Sharma"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "CAN donates Rs 3 million to Bhotekoshi flood victims",
+    "description": "KATHMANDU: The Cricket Association of Nepal (CAN) has decided to donate Rs 3 million to support relief, rescue and rehabilitation efforts for families and communities affected by the Bhotekoshi flood. CAN Secretary Paras Khadka said in a press release issued …",
+    "url": "https://english.khabarhub.com/2026/29/565478/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2021/06/1200px-Cricket_Association_of_Nepal_logo.svg_.png",
+    "publishedAt": "2026-08-29T07:13:26Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Javed Miandad's emotional Imran Khan plea: 'What will happen if you let him out?'",
+    "description": "Cricket News: Pakistan batting great Javed Miandad broke down in tears while speaking about the imprisonment of his former teammate and captain Imran Khan, insistin.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/javed-miandads-emotional-imran-khan-plea-what-will-happen-if-you-let-him-out/articleshow/133606216.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133606543,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-29T07:09:53Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "My grandfather and father made me fall in love with cricket: Cheteshwar Pujara",
+    "description": "Growing up, Pujara's passion for cricket was ignited by cherished moments spent with his grandfather and father. His mother played a crucial role, consistently encouraging him and instilling confidence during tough phases. She not only taught him essential li…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/my-grandfather-and-father-made-me-fall-in-love-with-cricket-cheteshwar-pujara/articleshow/133606535.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133606535,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-29T07:04:54Z",
+    "author": "Soumitra Das"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Second division cricket’: Michael Vaughan brutally mocks Pakistan batting at Lord’s",
+    "description": "A startling collapse saw Pakistan's batting lineup bowled out for a mere 110 runs in their first innings at Lord's. Michael Vaughan, the former England captain, sharply criticized the performance, remarking that England’s bowlers faced no real challenge, comp…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/second-division-cricket-michael-vaughan-brutally-mocks-pakistan-batting-at-lords/articleshow/133606054.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133606151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-29T06:44:19Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "Asian Games 2026: What makes them different from Olympics",
     "description": "The Asian Games are a major continental multi-sport event held every four years. Athletes from across Asia compete, unlike the global Olympic Games. This year's event in Aichi-Nagoya, Japan, will feature 43 sports. Cricket's inclusion offers India significant…",
@@ -52,105 +133,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c7781c9205c844c0d3a512f403f40fcd89cfb27f811a576a87a04d2cff5ee442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F485a753b51ca2c42ff6ac38b470c3324",
     "publishedAt": "2026-08-29T04:17:29Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Autocar",
-    "title": "Dashcam policing is no match for proper traffic cops",
-    "description": "'Op Snap' is on the rise as drivers gather their own footage of wrongdoing - but we must proceed with caution\n\nThe ubiquity of video surveillance has recently given us the glorious nickname ‘Clicky Ponting’, bestowed on a player from Saltburn Cricket Club who…",
-    "url": "https://www.autocar.co.uk/opinion/features/dashcam-policing-no-match-proper-traffic-cops",
-    "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/99-bmw-x5-panning-front-quarter-police-car_0.jpg",
-    "publishedAt": "2026-08-29T04:00:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "VVS masterclass will be knowledge sharing",
-    "description": "Cricket News: Bengaluru: While the Indian cricket team made its Asian Games debut in Hangzhou in 2023, its first appearance at a multi-sport event came at the 1998 .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vvs-masterclass-will-be-knowledge-sharing/articleshow/133603254.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133603279,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T03:50:52Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘India took it for granted’: Ex-cricketer reveals how Virat Kohli could have changed Colombo result",
-    "description": "According to Mohammad Kaif, India demonstrated a lack of intensity in their recent Test match in Colombo. He emphasized that the inclusion of Virat Kohli could have sharpened the team’s focus. With Sri Lanka managing to secure a draw, India’s prospects for Wo…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-took-it-for-granted-ex-cricketer-reveals-how-virat-kohli-could-have-changed-colombo-result/articleshow/133603000.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133603066,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T03:21:11Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI stance on Sports Bill creates confusion within Board",
-    "description": "State cricket associations find themselves perplexed as the BCCI navigates the National Sports Governance Act. The board asserts that its electoral procedures must reflect its constitution, challenging the government's notice that allows for elections to be p…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-stance-on-sports-bill-creates-confusion-within-board/articleshow/133602521.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133602564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T02:38:42Z",
-    "author": "Arani Basu,Ashok Pradhan"
-  },
-  {
-    "source": "Foodgawker.com",
-    "title": "Easy Socca (Chickpea Pancake)",
-    "description": "Somewhere between a pancake and a flatbread, this simple chickpea batter is a delicious snack from Nice in the south of France.",
-    "url": "https://foodgawker.com/food-post/4083192",
-    "image": "https://admin.foodgawker.com/wp-content/uploads/2026/08/Socca-The-Flexitarian-V6_20.jpg",
-    "publishedAt": "2026-08-29T02:17:08Z",
-    "author": "theflexitarian"
-  },
-  {
-    "source": "Bluebird Banter",
-    "title": "Jays Hit 3 Home Runs, Beat Mariners",
-    "description": "Mariners 1 Blue Jays 8 Today’s game was soooo much more fun than yesterday’s. First, Dylan Cease was excellent—six innings, just four hits, one walk and eight strikeouts. The run against was a home run by the second batter of the day. We were a little worried…",
-    "url": "https://www.bluebirdbanter.com/toronto-blue-jays-scores/63511/jays-hit-3-home-runs-beat-mariners",
-    "image": "https://s.yimg.com/lo/mysterio/api/22b5ebde1851201457b2d503c7e3853b1081b06e16546bedf4285fca65bef010/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc02263ce0ff9fd7a0db69ac58a379ca6.jpg",
-    "publishedAt": "2026-08-29T02:14:57Z",
-    "author": "tom dakers"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘India messed up big time’: Ex-captain sounds alarm after costly Colombo blunder",
-    "description": "India's ambitions for World Test Championship qualification took a blow following a drawn Test match in Colombo. This result denied them a chance to sweep the series against Sri Lanka. Cricketer Krishnamachari Srikkanth expressed concerns about the implicatio…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-messed-up-big-time-ex-captain-sounds-alarm-after-costly-colombo-blunder/articleshow/133602174.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133602196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T01:40:12Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Bleeding Cool News",
-    "title": "It's Always Sunny in Philadelphia S18E04 Images: Cricket's Back!",
-    "description": "As the epic 18th season of FXX's Rob Mac, Charlie Day, Glenn Howerton, Kaitlin Olson, and Danny DeVito-starring It's Always Sunny in Philadelphia rolls on, we've got a look at what's on tap with this Monday's episode, S18E04: \"2026: A Virtual Insanity.\" For t…",
-    "url": "https://bleedingcool.com/tv/its-always-sunny-in-philadelphia-s18e04-images-crickets-back/",
-    "image": "https://bleedingcool.com/wp-content/uploads/2026/08/IASIP-1804-PG-1235-f-2000x1125.jpg",
-    "publishedAt": "2026-08-28T21:37:11Z",
-    "author": "Ray Flook"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "‘You Just Never Know’ — Browns Analyst Floats Possibility of Shedeur Sanders Getting Traded Amid Cleveland’s QB Dilemma",
-    "description": "Although three-time Pro Bowler Deshaun Watson entered the Cleveland Browns’ training camp as the favorite to become the starting quarterback, second-year signal-caller Shedeur Sanders was given opportunities to win the job. Watson, however, was named the Brow…",
-    "url": "https://www.profootballnetwork.com/browns-analyst-floats-shedeur-sanders-traded/",
-    "image": "https://s.yimg.com/lo/mysterio/api/d739eb08fb2518c3a2847665edc957798d1ea5164a22da44f492eb5e27756090/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F093466ac76c4f0f2fa7c6af68423f482.jpg",
-    "publishedAt": "2026-08-28T20:33:36Z",
-    "author": "Andrew Melnick"
-  },
-  {
-    "source": "BBC News",
-    "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
-    "description": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board (PCB) threat to the England and Wales Cricket Board (ECB) over a Sky interview with the sons of Imran Khan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c17j0y17epdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/8c3dc05f865b83ef39e01f4c923fe4e4a6f1f254e3f27e220e92d979f4a81bc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3336484de9cf65d38d7ed230a40d5775.jpg",
-    "publishedAt": "2026-08-28T19:40:41Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
-    "description": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/992d/live/e2384280-a313-11f1-b109-879e35c24276.jpg",
-    "publishedAt": "2026-08-28T19:38:35Z",
-    "author": "BBC Sport"
   }
 ]
 ;
