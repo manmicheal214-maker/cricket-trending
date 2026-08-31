@@ -1,5 +1,221 @@
 window.cricketNews = [
   {
+    "source": "Sky Sports",
+    "title": "'Any side in world cricket would find it hard against England bowling attack'",
+    "description": "England's four-pronged pace attack has skittled Pakistan for under 200 four innings in a row with Ollie Robinson taking 16 wickets in two games at an average below eight and a fit and firing Jofra Archer bowling his quickest opening spell in Tests; England ho…",
+    "url": "https://www.skysports.com/cricket/news/12080/13579236/nasser-hussain-says-any-side-in-world-cricket-would-struggle-against-england-bowling-attack-in-current-conditions",
+    "image": "https://e0.365dm.com/26/08/1600x900/skysports-ollie-robinson-jofra-archer_7336082.jpg?20260830194915",
+    "publishedAt": "2026-08-30T19:00:00Z",
+    "author": "Nasser Hussain"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Deepti Sharma scripts history! Stunning 3/0 makes her world’s leading T20I wicket-taker",
+    "description": "Deepti Sharma has made history by becoming the leading wicket-taker in Women's T20I cricket, demonstrating her exceptional skills with a remarkable three wickets for no runs in a thrilling match against Thailand in Dubai. With Shafali Verma’s explosive 64 ear…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/deepti-sharma-scripts-history-stunning-3/0-makes-her-worlds-leading-t20i-wicket-taker/articleshow/133635145.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133635343,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T18:16:19Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shafali’s 64, Deepti's 3/0 help India begin Women’s Asia Cup campaign with convincing 94-run win over Thailand",
+    "description": "India kicked off their Women's T20 Asia Cup with an impressive 94-run triumph against Thailand. Shafali Verma ignited the innings with her electrifying batting, laying a robust foundation for the team. The bowlers showcased their prowess, limiting Thailand to…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/shafalis-64-deeptis-3/0-help-india-begin-womens-asia-cup-campaign-with-convincing-94-run-win-over-thailand/articleshow/133634298.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133634392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T17:48:07Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Lucknow Falcons defeat Gorakhpur Lions by 24 runs in ninth match of UP T20 League",
+    "description": "Lucknow Falcons beat Gorakhpur Lions by 24 runs in UP T20 League at Kanpur; Ajeet Verma 75*, Kritagya Singh 52 power 170/5; Lions 146/9.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/lucknow-falcons-defeat-gorakhpur-lions-by-24-runs-in-ninth-match-of-up-t20-league/articleshow/133634570.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133634568,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T17:47:49Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asia Cup: Shafali, Deepti help India with convincing 94-run win over Thailand",
+    "description": "India kicked off their Women's T20 Asia Cup with an impressive 94-run triumph against Thailand. Shafali Verma ignited the innings with her electrifying batting, laying a robust foundation for the team. The bowlers showcased their prowess, limiting Thailand to…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafalis-64-deeptis-3/0-help-india-begin-womens-asia-cup-campaign-with-convincing-94-run-win-over-thailand/articleshow/133634298.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133634392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T17:47:40Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UPVCA elects new office-bearers",
+    "description": "UP Veterans Cricket Association elects I M Rohatgi, Girish Kapoor and Vijay Dixit; Dr Gaur Hari Singhania UP inter-district T20 league starts Oct 4 with prize money.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/upvca-elects-new-office-bearers/articleshow/133634560.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-30T17:47:23Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UP T 20 league: Kanpur Superstars beat Noida Kings by 8 wickets",
+    "description": "Sameer Rizvi’s unbeaten 91 off 39 powers Kanpur Superstars’ 8-wicket win over Noida Kings in rain-hit 12-over UP T20 League match at Green Park.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/up-t-20-league-kanpur-superstars-beat-noida-kings-by-8-wickets/articleshow/133634557.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133634551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T17:47:20Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India beat Thailand by 94 runs to open Women's T20 Asia Cup campaign",
+    "description": "In an impressive start to their T20 Asia Cup, India Women triumphed over Thailand with authority. Shafali Verma's dynamic batting display saw India set a challenging target of 159 runs. The Indian spinners took center stage, holding Thailand to only 65 runs, …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-beat-thailand-by-94-runs-to-open-womens-t20-asia-cup-campaign/articleshow/133634406.cms",
+    "image": "https://img.etimg.com/thumb/msid-133634542,width-1200,height-630,imgsize-68160,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-30T17:45:52Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India crush Thailand by 94 runs in Women's T20 Asia Cup contest",
+    "description": "India began their Women's T20 Asia Cup campaign with a dominant victory over Thailand. Shafali Verma's aggressive batting provided a strong foundation for the Indian team's score. Indian spinners then expertly dismantled the Thailand batting lineup to secure …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-crush-thailand-by-94-runs-in-womens-t20-asia-cup-contest/articleshow/133634417.cms",
+    "image": "https://img.etimg.com/thumb/msid-133634512,width-1200,height-630,imgsize-68160,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-30T17:45:34Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Disciplinary action against three cricket players for breaching code of conduct",
+    "description": "UP T20 League: UPCA disciplinary committee bans Abhishek Goswami for one match and fines three players for code of conduct breaches in Kanpur match.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/disciplinary-action-against-three-cricket-players-for-breaching-code-of-conduct/articleshow/133634323.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-08-30T17:35:18Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "BBC News",
+    "title": "'His best Test for a year' - England-Pakistan player ratings",
+    "description": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan...",
+    "url": "https://www.bbc.com/sport/cricket/articles/c70d87p74pxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7bae1ed0f1d500d8a36ab7d33438bf4b4781fca347731c7444535064b9c97977/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe26b4dd35bc219506e0542b25634985c.jpg",
+    "publishedAt": "2026-08-30T17:04:41Z",
+    "author": "Matthew Henry - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "'His best Test for a year' - England-Pakistan player ratings",
+    "description": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e51/live/d8d419d0-a494-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-08-30T17:04:35Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana scripts history in Asia Cup opener, surpasses Suzie Bates for international record",
+    "description": "In a remarkable feat during the Women’s Asia Cup match, Smriti Mandhana surpassed Suzie Bates to become the second-highest run-scorer in women's international cricket history, amassing an impressive total of 10,756 runs. Her exceptional performance supported …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/smriti-mandhana-scripts-history-in-asia-cup-opener-surpasses-suzie-bates-for-international-record/articleshow/133632978.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133633125,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T16:46:05Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Best in 100 years! Ollie Robinson breaks Jasprit Bumrah’s mark to claim Test cricket’s best bowling average",
+    "description": "Ollie Robinson has reached a remarkable milestone in Test cricket, now boasting the best bowling average for bowlers who have played at least twenty Tests. This noteworthy achievement occurred during England's second Test against Pakistan at Lord's, where Rob…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/best-in-100-years-ollie-robinson-breaks-jasprit-bumrahs-mark-to-claim-test-crickets-best-bowling-average/articleshow/133632953.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133633014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T16:32:36Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Team concedes cricket match over broken printer",
+    "description": "A team has been forced to concede a match in Northern Ireland because of a broken printer.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c4glwl90n25o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e69a7e25252fb7e331563e541eaf4e032097ad02d80eb43f6ade8e2272e2fee3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe2b2f080af4b5d6b2cb3511bfd1973f2.jpg",
+    "publishedAt": "2026-08-30T16:15:30Z",
+    "author": "Andy Gray - BBC Sport NI Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stone takes five as Notts draw with Warwickshire",
+    "description": "Fast bowler Olly Stone took a superb five-wicket haul as Nottinghamshire's County Championship match with Warwickshire ended in a rain-affected draw at Edgbaston.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c33kdv451mko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-30T16:12:45Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stone takes five as Notts draw with Warwickshire",
+    "description": "Fast bowler Olly Stone took a superb five-wicket haul as Nottinghamshire's County Championship match with Warwickshire ended in a rain-affected draw at Edgbaston.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c33kdv451mko",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dab7/live/5294bf20-a48d-11f1-8395-fb1eae51ae18.jpg",
+    "publishedAt": "2026-08-30T16:12:16Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "BBC News",
+    "title": "Team concedes cricket match over broken printer",
+    "description": "A team has been forced to concede a match in Northern Ireland because of a broken printer.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4glwl90n25o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/deb7/live/c525f530-a489-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-08-30T16:08:49Z",
+    "author": "Andy Gray"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Stuart Broad adds to Imam-ul-Haq scrutiny, calls out Pakistan opener for 'show off' after ‘faking injury’ allegations",
+    "description": "Former English pacer Stuart Broad is Imam-Ul-Haq's latest critic after the opening batter failed to get cleared ahead of Pakistan's massive chase.",
+    "url": "https://www.cricketnews.com/en/cricket/news/stuart-broad-imam-ul-haq-scrutiny-calls-out-pakistan-opener-show/57490bd5353ebb184528b1b3",
+    "image": "https://s.yimg.com/lo/mysterio/api/c7781c9205c844c0d3a512f403f40fcd89cfb27f811a576a87a04d2cff5ee442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F485a753b51ca2c42ff6ac38b470c3324",
+    "publishedAt": "2026-08-30T16:02:45Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After ODI success, Pratika Rawal makes T20I debut in Women's Asia Cup opener against Thailand",
+    "description": "Pratika Rawal made a strong impression on her T20I debut for India against Thailand in the Women's Asia Cup. Scoring twenty-two runs off just eighteen balls, she showcased her potential. This opportunity comes after her remarkable journey in ODIs, where she a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/after-odi-success-pratika-rawal-makes-t20i-debut-in-womens-asia-cup-opener-against-thailand/articleshow/133632051.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133632110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T15:19:17Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Comeback",
+    "title": "‘Taken a step back’: Outlook murky for 49ers star to return to the field",
+    "description": "Entering his 10th season this year, seven-time Pro Bowler tight end George Kittle has been working on his return to the field following a torn right Achilles tendon during the 49ers’ playoff game against the Philadelphia Eagles on January 11, 2026. After thei…",
+    "url": "https://thecomeback.com/nfl/san-francisco-49ers-george-kittle-return-in-question.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/9932f729f51faa4bd52695e5dcad6fe5c3d0793e282b7101214edaed52ccb35d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fbe91c4e77995eeb103262db18f92274e.jpg",
+    "publishedAt": "2026-08-30T15:14:33Z",
+    "author": "Barry Hunter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Imran Khan row: PCB warns Pakistan players against speaking about jailed former captain",
+    "description": "The Pakistan Cricket Board has instructed its players to refrain from making public comments about Imran Khan's health amidst his ongoing imprisonment and health concerns that have drawn international interest. The board deems an interview with Khan's sons as…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/imran-khan-row-pcb-warns-pakistan-players-against-speaking-about-jailed-former-captain/articleshow/133630940.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133630992,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T13:56:27Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "CBS Sports",
+    "title": "Colts' Keenan Allen arrested Sunday morning in Indianapolis on DWI charges",
+    "description": "The six-time Pro Bowler was signed to a one-year deal less than two weeks ago to bolster a revamped wide receiver room alongside Alec Pierce and Josh Downs",
+    "url": "https://www.cbssports.com/nfl/news/colts-keenan-allen-arrested-sunday-morning-dwi-charges/",
+    "image": "https://sportshub.cbsistatic.com/i/r/2026/08/30/28f88650-3f16-479f-99ec-0ef20b6077d8/thumbnail/1200x675/65238ac5d0185dd7aad667a89e9168b5/gettyimages-2290739397-1.jpg",
+    "publishedAt": "2026-08-30T13:41:11Z",
+    "author": "Josh Edwards"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IND vs THA live streaming: Where to watch today's Women's Asia Cup match?",
+    "description": "The live streaming of India vs Thailand Women's Asia Cup T20 match will be available on SonyLIV app and website for Indian fans",
+    "url": "https://www.business-standard.com/cricket/news/ind-vs-tha-live-streaming-where-to-watch-today-s-women-s-asia-cup-match-126083000259_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/resize/1200X628/1788077365-2732.jpg",
+    "publishedAt": "2026-08-30T13:30:24Z",
+    "author": "Our Bureau"
+  },
+  {
     "source": "The Times of India",
     "title": "Women's Asia Cup: Harmanpreet Kaur & Co eye winning start against Thailand",
     "description": "India vs Thailand Women Live Score, Women's Asia Cup 2026: India will open their Women’s T20 Asia Cup campaign against Thailand today with the pressu",
@@ -34,168 +250,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/resize/1200X628/1788092758-9004.jpg",
     "publishedAt": "2026-08-30T12:26:45Z",
     "author": "Aditya Kaushik"
-  },
-  {
-    "source": "BBC News",
-    "title": "Abbas secures place on Lord's honours board after five wicket haul",
-    "description": "Pakistan bowler Muhammad Abbas puts himself on the Lord's honours board after finishing with figures of 5-57 as he helps bowl England out for 208 early on day four of the second Test.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/cn74r5rv0dpo",
-    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5e4f/live/71691b60-a462-11f1-b109-879e35c24276.jpg",
-    "publishedAt": "2026-08-30T11:20:24Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "'Ecstatic' Abbas completes five-wicket haul early on day four",
-    "description": "Pakistan bowler Muhammad Abbas takes the wickets of Dan Lawrence and Ollie Robinson to complete a five-wicket haul early on day four of the second Test, and put himself on the honours board at Lord's.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/cn45xdyjdjpo",
-    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0937/live/34972660-a461-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-08-30T11:06:09Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Suryakumar Yadav rues T20 omission after World Cup success",
-    "description": "Former India T20 captain Suryakumar Yadav said he was disappointed after being dropped from the national T20 side and replaced as captain by Shreyas Iyer, months after leading India to a successful T20 World Cup title defence.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/suryakumar-yadav-rues-t20-omission-after-world-cup-success/articleshow/133627726.cms",
-    "image": "https://img.etimg.com/thumb/msid-133627740,width-1200,height-630,imgsize-92334,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T10:45:26Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "CNA",
-    "title": "Former India captain Suryakumar rues T20 omission after World Cup success",
-    "description": "Aug 30 : Former India captain Suryakumar Yadav said he was disappointed at being dropped from the national T20 side months after leading India to a successful defence of their men's T20 World Cup title.The 35-year-old took charge in 2024, guiding India to 42 …",
-    "url": "https://www.channelnewsasia.com/sport/former-india-captain-suryakumar-rues-t20-omission-after-world-cup-success-6350361",
-    "image": "https://dam.mediacorp.sg/image/upload/s--uvss99gB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-30T104356Z_1_LYNXMPEM7T085_RTROPTP_3_CRICKET-T20-WORLDCUP-IND-ZAF.JPG?itok=7Nb6ltuC",
-    "publishedAt": "2026-08-30T10:43:56Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'These coaches are poison': Mohammad Yousuf calls out Babar Azam and Pakistan players' poor technique amid struggle in England",
-    "description": "Former cricketer Mohammad Yousuf points out Babar Azam and his teammates' poor technique as Pakistan stare at another series defeat in England.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mohammad-yousuf-babar-azam-pakistan-players-poor-technique-england/a75bb70209f996f87297997f",
-    "image": "https://s.yimg.com/lo/mysterio/api/0f03d0eca500800b159c17504af5a9363812d19c4ff322aec6a0c97c757e9153/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5ff7b33566d1f3ba99ae7476e79052ce",
-    "publishedAt": "2026-08-30T10:22:59Z",
-    "author": "Ritabrata_Banerjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'What happened to Ruturaj Gaikwad': Fans react to Tilak Varma being considered as back-up option in India middle-order for 2027 ODI World Cup",
-    "description": "Fans reacted strongly after reports emerged that Tilak Varma is being considered for India's 2027 ODI World Cup middle-order.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ruturaj-gaikwad-fans-tilak-varma-india-middle-order-odi-world-cup/cbe25c957b77e431b1c9ba18",
-    "image": "https://s.yimg.com/lo/mysterio/api/3c8b8eafb59298fba35b10efe1d67ce27bcc1c7795cb124ca87e143378562c20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbe2f9092d3b887f9e6f8b5e5334759cb",
-    "publishedAt": "2026-08-30T09:41:00Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Fitfoodiefinds.com",
-    "title": "Sheet Pan Almond Croissant Pancakes",
-    "description": "Sheet Pan Almond Croissant Pancakes \nThese sheet pan almond croissant pancakes bake fluffy maple pancake batter with swirls of frangipane and sliced almonds for an easy breakfast that serves a crowd.\nREAD: Sheet Pan Almond Croissant Pancakes",
-    "url": "https://fitfoodiefinds.com/sheet-pan-almond-croissant-pancakes/",
-    "image": "https://fitfoodiefinds.com/wp-content/uploads/2026/08/baked-sheet-pan-almond-croissant-pancakes-edited.jpg",
-    "publishedAt": "2026-08-30T09:00:00Z",
-    "author": "Lee Funke"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kumar Sangakkara lives in a 120-year-old heritage mansion inside UNESCO-listed Galle Fort with three courtyards, rooftop pool facing Indian Ocean, lighthouse view, coral walls and modern interiors",
-    "description": "Sri Lankan cricket legend Kumar Sangakkara’s Galle Fort home combines heritage and luxury. The 120-year-old villa sits inside UNESCO-listed Galle Fort and features three courtyards, coral walls, four bedrooms and a rooftop swimming pool with views of the Indi…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/kumar-sangakkara-lives-in-a-120-year-old-heritage-mansion-inside-unesco-listed-galle-fort-with-three-courtyards-rooftop-pool-facing-indian-ocean-lighthouse-view-coral-walls-and-modern-interiors/articleshow/133626283.cms",
-    "image": "https://img.etimg.com/thumb/msid-133626348,width-1200,height-630,imgsize-186729,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T08:47:23Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Javagal Srinath travels on Bengaluru Metro with trolley bag, fans praise former India pacer's simplicity",
-    "description": "Former India fast bowler Javagal Srinath was spotted travelling on Bengaluru's Namma Metro with a trolley bag, leaving cricket fans impressed by his simple and unassuming lifestyle. The viral photograph has drawn comparisons with other Karnataka cricket legen…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/javagal-srinath-travels-on-bengaluru-metro-with-trolley-bag-fans-praise-former-india-pacers-simplicity/articleshow/133626337.cms",
-    "image": "https://img.etimg.com/thumb/msid-133626369,width-1200,height-630,imgsize-109500,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T08:45:41Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Imran Khan went from leading Pakistan to its greatest cricket triumph in 1992 to becoming the country’s prime minister, but now remains behind bars while facing more than 100 cases",
-    "description": "Concerns about Imran Khan's health have been highlighted by his sons, who allege intentional isolation and threats to their father's well-being. Appeals for compassionate treatment and access to adequate medical care have emerged from former cricketers. Since…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/imran-khan-went-from-leading-pakistan-to-its-greatest-cricket-triumph-in-1992-to-becoming-the-countrys-prime-minister-but-now-remains-behind-bars-while-facing-more-than-100-cases/articleshow/133625374.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133625467,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T07:43:50Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Youngest captain in first-class cricket: Vaibhav Sooryavanshi acts as stand-in skipper in Duleep Trophy semi-final as Ishan Kishan suffers injury",
-    "description": "15-year-old Vaibhav Sooryavanshi took over as East Zone stand-in skipper after Ishan Kishan suffered a wrist injury.",
-    "url": "https://www.cricketnews.com/en/cricket/news/youngest-captain-vaibhav-sooryavanshi-skipper-duleep-trophy/33167595b4175c00725b5599",
-    "image": "https://s.yimg.com/lo/mysterio/api/f18a24513c42991be56246de8e662bc7a5490b760edff0db6ae85426a1cd974b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9e4f18cb10b8f95fa339cd43694323b7",
-    "publishedAt": "2026-08-30T07:25:24Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Arabnews.pk",
-    "title": "Former Pakistani cricketers express concern about jailed ex-PM Imran Khan’s health",
-    "description": "ISLAMABAD: Former Pakistani cricketers, including Javed Miandad and Moin Khan, have expressed concerns about the health of jailed former prime minister Imran Khan, urging authorities to release the former cricket star. Khan took up politics as a profession in…",
-    "url": "https://www.arabnews.pk/node/2656297",
-    "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/08/30/4745464-460879404.jpg?itok=bXG20juQ",
-    "publishedAt": "2026-08-30T07:21:32Z",
-    "author": "Moin Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill-designed Fazilka Falcons jersey unveiled in father Lakhwinder’s presence ahead of 2026 Sher-E-Punjab T20 League",
-    "description": "Shubman Gill's presence added a special touch to Fazilka Falcons' jersey launch ahead of the Sher-E-Punjab T20 League 2026. Gill personally designed the jersey, inspired by Punjab's culture and heritage, while his father was present for the unveiling. Led by …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-designed-fazilka-falcons-jersey-unveiled-in-father-lakhwinders-presence-ahead-of-2026-sher-e-punjab-t20-league/articleshow/133624910.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133624986,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T06:56:04Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Please, let’s not’: Gavaskar rejects free-hit idea in Tests after India’s no-ball problem",
-    "description": "Sunil Gavaskar stands firm against the introduction of free hits for no-balls in Test cricket, arguing that this practice offers batters unearned advantages. Instead, he suggests implementing financial penalties that escalate with repeated infractions, potent…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/please-lets-not-sunil-gavaskar-rejects-free-hit-idea-after-indias-no-ball-mess/articleshow/133624092.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133624144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T06:01:05Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Unopposed again! How Arun Dhumal is set to retain IPL chairmanship as BCCI notifies governing council elections",
-    "description": "BCCI Electoral Officer AK Joti has notified elections for two IPL Governing Council posts at the September 18 AGM, with Arun Dhumal set to return unopposed.",
-    "url": "https://www.cricketnews.com/en/cricket/news/arun-dhumal-retain-ipl-chairmanship-bcci-governing-council-elections/c5eff229281b996ba57fc5fe",
-    "image": "https://s.yimg.com/lo/mysterio/api/4182ba3651d4365239edc1cb806826851b49e60de3c4e7dafb330b4bcf2a3160/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd4482c210bd421ba513a47983c9d8fe1",
-    "publishedAt": "2026-08-30T05:41:34Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "8-year-old boy crushed to death by road roller at Gurgaon cricket academy",
-    "description": "An eight-year-old boy tragically died after falling under a road roller at a cricket academy. He and three other children climbed onto the unattended machine while playing. The roller accidentally started moving, and the boy fell beneath its wheels. Relatives…",
-    "url": "https://timesofindia.indiatimes.com/city/gurgaon/8-year-old-boy-crushed-to-death-by-road-roller-at-gurgaon-cricket-academy/articleshow/133623767.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133623772,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T05:35:17Z",
-    "author": "Nikhil Sharma"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Rain disrupts Lord's Test as England stretch lead to 342 runs against PAK",
-    "description": "England extended its lead over Pakistan in the second test to 342 runs after reaching 162-6 at tea on a rain-hit Day 3 at Lord's.\nEngland's bid for victory had been delayed with no play possible on Saturday morning at the home of cricket because of showers.\nT…",
-    "url": "https://www.business-standard.com/cricket/news/rain-disrupts-lord-s-test-as-england-stretch-lead-to-342-runs-against-pak-126082900910_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/16/thumb/resize/1200X628/1752652870-5652.jpg",
-    "publishedAt": "2026-08-30T05:31:49Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Suryakumar opens up on BCCI's decision to end his T20I captaincy reign",
-    "description": "Suryakumar was subsequently left out of India's T20I squad for the United Kingdom tour, which featured matches against Ireland and England",
-    "url": "https://www.business-standard.com/cricket/news/suryakumar-opens-up-on-bcci-s-decision-to-end-his-t20i-captaincy-reign-126082900913_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/03/thumb/fitandfill/1200X628/1780508327-2949.jpg",
-    "publishedAt": "2026-08-30T05:27:58Z",
-    "author": "Press Trust of India"
   }
 ]
 ;
