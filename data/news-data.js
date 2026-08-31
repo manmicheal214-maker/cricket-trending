@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Tilak Varma in India’s ODI World Cup plans as selectors seek Shreyas Iyer backup",
+    "description": "As India's team management strategizes for the upcoming ODI World Cup, they're considering Tilak Varma as a valuable middle-order backup. His left-handed batting style could enhance the team's dynamics, alongside his potential bowling skills. With the New Zea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tilak-varma-in-indias-odi-world-cup-plans-as-selectors-seek-shreyas-iyer-backup/articleshow/133622424.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133622471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T03:13:11Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Who is Shaik Rasheed, whose idol is Joe Root, cover drive like Virat Kohli and pull shot like Rohit Sharma?",
+    "description": "Shaik Rasheed is emerging as one of India's promising young batting prospects, with the 21-year-old Andhra batter taking inspiration from England great Joe Root. A 2022 Under-19 World Cup winner, Rasheed impressed in the Ranji Trophy with 627 runs at an avera…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/who-is-shaik-rasheed-whose-idol-is-joe-root-cover-drive-like-virat-kohli-and-pull-shot-like-rohit-sharma/articleshow/133622334.cms",
+    "image": "https://img.etimg.com/photo/65498029.cms",
+    "publishedAt": "2026-08-30T03:04:15Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘CoE cannot be only for contracted players’: VVS Laxman on building India’s cricket pipeline",
+    "description": "Synopsis: Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy López gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/coe-cannot-be-only-for-contracted-players-vvs-laxman-on-building-indias-cricket-pipeline/articleshow/133622224.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133622264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T02:51:35Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘ I take the blame myself’: Suryakumar Yadav’s big regret over failed ODI career",
+    "description": "Suryakumar Yadav openly takes responsibility for his underwhelming ODI career, admitting he lacked the necessary dedication to the 50-over format. He struggles with the complexities of ODI cricket compared to T20s and expresses regret over not mastering the a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/-i-take-the-blame-myself-suryakumar-yadavs-big-regret-over-failed-odi-career/articleshow/133621822.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133621840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-30T01:05:45Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "BBC News",
     "title": "Blaze beat Surrey and rain to win T20 County Cup",
     "description": "Kathryn Bryce stars with bat and ball as The Blaze win the T20 Women's County Cup, leaving Surrey as runners-up again.",
@@ -43,87 +79,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/08/29/19/110930127-0-image-m-14_1788027214529.jpg",
     "publishedAt": "2026-08-29T18:15:26Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "When you can watch cricket in stadium, why can’t appear in court, asks judge; orders health evaluation of Alagiri’s son by JIPMER team",
-    "description": "CBI court in Madurai orders Durai Dayanidhi to undergo JIPMER Puducherry medical exam to assess mental soundness and fitness to face trial in ED case.",
-    "url": "https://timesofindia.indiatimes.com/city/madurai/when-you-can-watch-cricket-in-stadium-why-cant-appear-in-court-asks-judge-orders-health-evaluation-of-alagiris-son-by-jipmer-team/articleshow/133616597.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133616594,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T17:23:22Z",
-    "author": "Kaushik Kannan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rain washes out Meerut-Lucknow clash",
-    "description": "UP T20 League: Meerut Mavericks vs Lucknow Falcons at Kanpur’s Green Park ended no-result due to rain; both get 1 point, Meerut top with 15.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/rain-washes-out-meerut-lucknow-clash/articleshow/133616519.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-29T17:20:33Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ashwin picks India's greatest-ever cricketer; makes surprise calls on Rohit Sharma , Virat Kohli, MS Dhoni",
-    "description": "Ravichandran Ashwin selected Sachin Tendulkar as India's greatest cricketer. He placed Rohit Sharma and Virat Kohli in surprise matchups during the selection process. Ashwin chose Jasprit Bumrah over Virat Kohli in the quarterfinals. Sachin Tendulkar was ulti…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ashwin-picks-indias-greatest-ever-cricketer-makes-surprise-calls-on-rohit-virat-dhoni/articleshow/133616365.cms",
-    "image": "https://img.etimg.com/thumb/msid-133616364,width-1200,height-630,imgsize-118090,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T17:18:53Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Off-field stuff, we don’t focus on it': Muzumdar refuses to be drawn into India-Pakistan handshake debate",
-    "description": "India's cricket coach, Amol Muzumdar, skillfully sidestepped inquiries about the handshake protocol, emphasizing that the team's primary focus is on their opening match against Thailand. He indicated that the handshake matter with Pakistan will be discussed w…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/off-field-stuff-we-dont-focus-on-it-muzumdar-refuses-to-be-drawn-into-india-pakistan-handshake-debate/articleshow/133615953.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133616043,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T16:56:48Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Suryakumar Yadav admits being \"completely shocked\" by T20I omission, speaks on ODI future",
-    "description": "Suryakumar Yadav expressed shock after being dropped from the T20 team post-World Cup victory. He spent weeks contemplating his cricketing future and passion for the game. The batsman admitted to smiling during pressure situations and his name not appearing. …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/suryakumar-yadav-admits-being-completely-shocked-by-t20i-omission-speaks-on-odi-future/articleshow/133615708.cms",
-    "image": "https://img.etimg.com/thumb/msid-133615707,width-1200,height-630,imgsize-123486,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T16:26:44Z",
-    "author": "ANI"
-  },
-  {
-    "source": "BBC News",
-    "title": "Leics openers blunt Yorks attack on rain-hit day",
-    "description": "Leicestershire openers Rishi Patel and Sheridon Gumbs bat through bowler-friendly conditions on a heavily weather-affected day three against Yorkshire at Scarborough.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm2rv938zmko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c4d/live/3b344420-a3c2-11f1-b13c-0d78069132fa.jpg",
-    "publishedAt": "2026-08-29T15:59:28Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘He could be in the realms of Brian Lara and Sachin Tendulkar’: Geoffrey Boycott’s big Harry Brook warning",
-    "description": "Sir Geoffrey Boycott has high praise for Harry Brook's exceptional batting skills but expresses concern that Brook isn't fully harnessing his potential in Test cricket. He believes Brook's style is too reminiscent of white-ball play, suggesting it could hinde…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-could-be-in-the-realms-of-brian-lara-and-sachin-tendulkar-geoffrey-boycotts-big-harry-brook-warning/articleshow/133614974.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133615063,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-29T15:43:04Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Magnolia Bakery vanilla cupcakes recipe: Step-by-step recipe to try at home, ingredients, baking tips and more",
-    "description": "Magnolia Bakery's classic vanilla cupcakes feature a tender crumb and rich vanilla flavor.  The recipe combines self-rising and all-purpose flour for a light texture.  An electric mixer creams butter and sugar until fluffy for the batter.  These cupcakes are …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/magnolia-bakery-vanilla-cupcakes-recipe-step-by-step-recipe-to-try-at-home-ingredients-baking-tips-and-more/articleshow/133614883.cms",
-    "image": "https://img.etimg.com/thumb/msid-133614926,width-1200,height-630,imgsize-546379,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T15:30:54Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Because of T20': Michael Atherton explains why Test matches are ending quickly before completion 5 days of play",
-    "description": "With Test matches ending in two days, former England skipper Michael Atherton explains why games are ending so quickly, blaming T20 cricket.",
-    "url": "https://www.cricketnews.com/en/cricket/news/michael-atherton-test-matches-are-ending-quickly-5-days-play/7baf2384f33c529497a1bb98",
-    "image": "https://s.yimg.com/lo/mysterio/api/a8c08dca23c9725836c579e82b203a6653c4649c5b081e2fcbaeddd4aed368b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb40b22f18952ca1eb0dd68821277a6de",
-    "publishedAt": "2026-08-29T15:20:26Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
