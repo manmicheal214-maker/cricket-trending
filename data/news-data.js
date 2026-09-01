@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Biztoc.com",
+    "title": "Remarkable Robinson blows away Pakistan to hand England series win | The Telegraph Cricket Podcast",
+    "description": "England are two from two in the post-Bazball era and have wrapped up their series against Pakistan with a game to spare. Jake ...",
+    "url": "https://biztoc.com/x/aa51a64bc2a44eeb",
+    "image": "https://biztoc.com/cdn/aa51a64bc2a44eeb_s.webp",
+    "publishedAt": "2026-08-31T13:48:54Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan crisis deepens after Lord’s rout: Mohammad Rizwan, Imam-ul-Haq set to return home",
+    "description": "Following a string of embarrassing losses to England, significant changes are on the horizon for Pakistan's Test team. Reports indicate that wicketkeeper-batter Mohammad Rizwan and opener Imam-ul-Haq will be sent back home. In light of the team's disappointin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-crisis-deepens-after-lords-rout-mohammad-rizwan-imam-ul-haq-set-to-return-home/articleshow/133653989.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133654175,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T13:11:20Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "India batter Agarwal joins Durham for run-in",
+    "description": "With David Bedingham returning to South Africa, Durham bring in India batter Mayank Agarwal for the last four Championship games.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c89j7epw2dqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/b82ce1d1002de97ddfc5ee464790b74b74db145c0a540f8116a16fb64212c57f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F16626210aed91b9c71a11b3b8f584f5d.jpg",
+    "publishedAt": "2026-08-31T12:36:38Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "India batter Agarwal joins Durham for run-in",
+    "description": "With David Bedingham returning to South Africa, Durham bring in India batter Mayank Agarwal for the last four Championship games.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c89j7epw2dqo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7bd1/live/94e9d4e0-a538-11f1-a492-cfe8e2df591b.jpg",
+    "publishedAt": "2026-08-31T12:36:33Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Krunal Pandya international comeback: India selectors could pick RCB star for Afghanistan T20I series after impressive IPL campaign",
+    "description": "After an IPL run that has seen him lift back-to-back IPL trophies, Krunal Pandya might finally make his return for Team India.",
+    "url": "https://www.cricketnews.com/en/cricket/news/krunal-pandya-comeback-india-selectors-rcb-afghanistan-t20i-series/44046db1d2edeae67b5857d3",
+    "image": "https://s.yimg.com/lo/mysterio/api/1e602d835e91905ee02fcdb39f7875269734695c51500de8e07af5f4b330d565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd08df989e0c445a735d540fbb9765950",
+    "publishedAt": "2026-08-31T11:53:29Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "England 'just humans' as Ireland target ODI upset",
+    "description": "Ireland captain Gaby Lewis says favourites England are \"just humans\" ahead of the three-game one-day international series between the sides.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cvgyepg4pe6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-08-31T10:58:30Z",
+    "author": "Andy Gray - BBC Sport NI Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "England 'just humans' as Ireland target ODI upset",
+    "description": "Ireland captain Gaby Lewis says favourites England are \"just humans\" before the three-game ODI series between the sides.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgyepg4pe6o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97d1/live/d8302bb0-a523-11f1-960d-bf7772625996.jpg",
+    "publishedAt": "2026-08-31T10:54:32Z",
+    "author": "Andy Gray"
+  },
+  {
+    "source": "Business Standard",
+    "title": "SLC hopeful of retaining ICC Women's Champions Trophy hosting rights",
+    "description": "Sri Lanka's interim cricket Board says it would correct itself \"from the very foundation\" to ensure that the inaugural Women's Champions Trophy next year remains in the country amid speculation that the ICC might relocate the event due to government interfere…",
+    "url": "https://www.business-standard.com/cricket/news/slc-hopeful-of-retaining-icc-women-s-champions-trophy-hosting-rights-126083100680_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/31/thumb/resize/1200X628/1788157395-1404.jpg",
+    "publishedAt": "2026-08-31T10:49:52Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Tamim Iqbal hopeful on India series, admits Bangladesh ‘could have dealt’ with T20 World Cup better",
+    "description": "Tamim Iqbal, the president of Bangladesh Cricket Board, expresses optimism about arranging a white-ball series against India. He acknowledges that the earlier management regarding the withdrawal from the 2026 T20 World Cup could have been more prudent. Both c…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tamim-iqbal-hopeful-on-india-series-admits-bangladesh-could-have-dealt-with-t20-world-cup-better/articleshow/133649596.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133649703,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T10:13:16Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I felt sorry for the guy': Eight years later, Faf du Plessis revisits one of cricket’s darkest chapters; 'Sandpaper Gate', and believes Australia handled the scandal poorly",
+    "description": "Faf du Plessis has voiced his views regarding the media's portrayal of Cameron Bancroft, suggesting it was unduly severe. The former South African captain empathizes with the Australian batsman and critiques Cricket Australia's management of the situation alo…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-felt-sorry-for-the-guy-eight-years-later-faf-du-plessis-revisits-one-of-crickets-darkest-chapters-sandpaper-gate-and-believes-australia-handled-the-scandal-poorly/articleshow/133648061.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133648230,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T10:03:26Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "Business Standard",
     "title": "Anmolpreet's 12 sixes eclipse Abhishek's 17-ball fifty in T20 thriller",
     "description": "The India opener smashed 77 off 26 balls with seven sixes, but Amritsar Soormas' 258 was overhauled by Mohali Kings in a high-scoring tournament opener",
@@ -133,141 +223,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/18/thumb/fitandfill/1200X628/1773825193-3967.jpg",
     "publishedAt": "2026-08-31T06:01:14Z",
     "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "ICC WTC Points Table: Aus, Ind, Eng, Pak positions; qualification scenario",
-    "description": "Pakistan continues to trail at the bottom of the WTC 2025-27 points table with just two wins from eight matches in the ongoing cycle",
-    "url": "https://www.business-standard.com/cricket/news/icc-wtc-points-table-aus-ind-eng-pak-positions-qualification-scenario-126083100255_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/31/thumb/featurecrop/1200X628/1788153771-4384.jpg",
-    "publishedAt": "2026-08-31T05:24:38Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Worst cricket board’: Ex-Pakistan captain’s furious attack on Mohsin Naqvi-led PCB",
-    "description": "Rashid Latif, the former captain of Pakistan, has not held back in his criticism of the cricket board and its chairman, deeming their administration the most ineffective in the last seventy years. He pointed to a notable decline in the team's performance, esp…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/worst-cricket-board-ex-pakistan-captains-furious-attack-on-mohsin-naqvi-led-pcb/articleshow/133642650.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133642763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T05:19:44Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Rashid Latif slams Mohsin Naqvi's PCB as 'worst cricket board in 70 years' after Pakistan's horror Test series defeat in England",
-    "description": "Rashid Latif has slammed PCB by calling it the “worst cricket board in 70 years” after Pakistan's disastrous Test series defeat in England.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rashid-latif-slams-pcb-worst-cricket-board-pakistan-test-series-defeat/c7db97af244811a34fdbd0b7",
-    "image": "https://s.yimg.com/lo/mysterio/api/d8772b32be1be8b38cc8ff130795cb4eb2eca3a354928b549a59da077cf149f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6e8bc75f52b7b003766e13092c8ea472",
-    "publishedAt": "2026-08-31T04:41:54Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "West Zone coach Amit Dani wants Duleep Trophy’s knock-out format changed",
-    "description": "Cricket News: MUMBAI: When the Duleep Trophy semifinals began at the BCCI’s Centre of Excellence in Bengaluru on Sunday, 19-time champions West Zone were conspicuou.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-zone-coach-amit-dani-wants-duleep-trophys-knock-out-format-changed/articleshow/133641869.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133641947,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T04:41:03Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "PRNewswire",
-    "title": "Eluvio Tapped for Cricket TV: New Direct-to-Consumer Streaming Service for Live and Archive Coverage to Fans Across the Globe",
-    "description": "New Direct-to-Consumer Streaming Service: New streaming service from Cricket Australia (tv.cricket.com.au), built upon Eluvio's Content Fabric and AI Video Intelligence, is now available for early access with full commercial launch later this year Unified Pla…",
-    "url": "https://www.prnewswire.com/news-releases/eluvio-tapped-for-cricket-tv-new-direct-to-consumer-streaming-service-for-live-and-archive-coverage-to-fans-across-the-globe-302863246.html",
-    "image": "https://mmx.prnewswire.com/media/MS1977849/CricketTV-PR.jpg?id=OA2918793&p=facebook",
-    "publishedAt": "2026-08-31T04:02:00Z",
-    "author": null
-  },
-  {
-    "source": "The Punch",
-    "title": "Cricket: Nigeria U-19 girls win World Cup qualifier opener",
-    "description": "Nigeria’s U-19 female cricket team started their 2027 ICC U-19 Women’s T20 World Cup Africa Qualifier with a win, defeating Uganda by four wickets.\n\nRead More: https://punchng.com/cricket-nigeria-u-19-girls-win-world-cup-qualifier-opener/",
-    "url": "https://punchng.com/cricket-nigeria-u-19-girls-win-world-cup-qualifier-opener/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/31033107/Screenshot-2026-08-31-033046_1788143467-1200x630.webp",
-    "publishedAt": "2026-08-31T03:20:42Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mohammad Amir calls himself 'British local', says 'Pakistan chapter I had before is now closed'",
-    "description": "Amir was part of Pakistan’s title-winning campaigns at the 2009 T20 World Cup and the 2017 Champions Trophy. His standout display came in the 2017 Champions Trophy final against India, where he returned figures of 3-16 and removed Rohit Sharma, Virat Kohli an…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mohammad-amir-calls-himself-british-local-says-pakistan-chapter-i-had-before-is-now-closed/articleshow/133640444.cms",
-    "image": "https://img.etimg.com/thumb/msid-133640554,width-1200,height-630,imgsize-134196,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-31T03:19:16Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Duleep Trophy: Vidwath Kaverappa’s four-wicket haul puts South Zone in control against North",
-    "description": "Cricket News: BENGALURU: Bengaluru: On a pitch offering little assistance to the pacers, South Zone seamer Vidwath Kaverappa had to rely on his strengths and patien.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/duleep-trophy-vidwath-kaverappas-four-wicket-haul-puts-south-zone-in-control-against-north/articleshow/133640424.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133640505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T03:13:33Z",
-    "author": "Ashim Sunam"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Players will not be considered for Delhi in other formats if they dodge Ranji: DDCA president Rohan Jaitley",
-    "description": "Cricket News: New Delhi: A controversy is never far from Delhi cricket. As the third edition of the Delhi Premier League T20 comes to a close, Delhi and District Cr.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/players-will-not-be-considered-for-delhi-in-other-formats-if-they-dodge-ranji-ddca-president-rohan-jaitley/articleshow/133640156.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133640259,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T02:54:50Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Deepti Sharma spins history as India crush Thailand by 94 runs",
-    "description": "Deepti Sharma became the leading wicket-taker in Women's T20 Internationals. She achieved this milestone with a remarkable 3/0 bowling spell against Thailand. Sharma's performance also marked her as the first Indian to achieve this feat. India secured a domin…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/deepti-sharma-spins-history-as-india-crush-thailand-by-94-runs/articleshow/133640239.cms",
-    "image": "https://img.etimg.com/thumb/msid-133640238,width-1200,height-630,imgsize-100528,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-31T02:52:44Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Stuart Broad accuses Imam-ul-Haq of ‘putting on an act’ after Pakistan batter ruled out at Lord’s",
-    "description": "Stuart Broad raised eyebrows over Imam-ul-Haq's calf injury during the match, implying the Pakistani batter could be theatrical about his situation. Following a calf strain, Imam was unable to participate in the Lord's Test, while Pakistan faced another batti…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stuart-broad-accuses-imam-ul-haq-of-putting-on-an-act-after-pakistan-batter-ruled-out-at-lords/articleshow/133639967.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133640086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T02:40:24Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Explained: Why ICC stripped Sri Lanka of 2027 Women’s Champions Trophy hosting rights",
-    "description": "The ICC has removed Sri Lanka’s hosting rights for the inaugural Women’s Champions Trophy in 2027 over government interference in Sri Lanka Cricket. The tournament will be moved elsewhere, with the venue yet to be decided. Sri Lanka could also miss out as hos…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/explained-why-icc-stripped-sri-lanka-of-2027-womens-champions-trophy-hosting-rights/articleshow/133639396.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133639482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T01:30:36Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "BroBible",
-    "title": "Curacao Pitcher Shows Strong Character With Kind Gesture Before Little League World Series Celebration",
-    "description": "Curacao won the Little League World Series on Sunday with a victory over Nevada in the championship game. The team’s final pitcher demonstrated strong character with a kind gesture prior to his title celebration. Stephen Felix hit a Nevada batter in the botto…",
-    "url": "https://brobible.com/sports/article/curacao-pitcher-character-kindness-little-league-world-series/",
-    "image": "https://brobible.com/wp-content/uploads/2026/08/little-league-world-series.jpg",
-    "publishedAt": "2026-08-31T01:24:58Z",
-    "author": "Jacob Elsey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Bizarre! Cricket team loses match due to broken print - here's how",
-    "description": "Ballyspallen were forced to concede their Northern Ireland cricket match against Eglinton after a broken printer prevented officials from producing a required Duckworth-Lewis-Stern (DLS) sheet following rain. Eglinton had scored 159, while Ballyspallen were 1…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-cricket-team-loses-match-due-to-broken-print-heres-how/articleshow/133639238.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133639332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-31T01:08:36Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup: Nepal to face Bahrain in first match today",
-    "description": "KATHMANDU: Nepal will take on Bahrain in its opening match of the third edition of the Asian Cricket Council (ACC) Premier Cup today. The tournament began in Malaysia on Sunday, with Nepal entering the competition aiming to claim the title, defeat the other n…",
-    "url": "https://english.khabarhub.com/2026/31/565774/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepali-cricket.jpg",
-    "publishedAt": "2026-08-31T01:02:36Z",
-    "author": "Khabarhub"
   }
 ]
 ;
