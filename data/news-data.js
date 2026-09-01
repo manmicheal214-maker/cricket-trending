@@ -1,5 +1,131 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Rashid Latif slams Mohsin Naqvi's PCB as 'worst cricket board in 70 years' after Pakistan's horror Test series defeat in England",
+    "description": "Rashid Latif has slammed PCB by calling it the “worst cricket board in 70 years” after Pakistan's disastrous Test series defeat in England.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rashid-latif-slams-pcb-worst-cricket-board-pakistan-test-series-defeat/c7db97af244811a34fdbd0b7",
+    "image": "https://s.yimg.com/lo/mysterio/api/d8772b32be1be8b38cc8ff130795cb4eb2eca3a354928b549a59da077cf149f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6e8bc75f52b7b003766e13092c8ea472",
+    "publishedAt": "2026-08-31T04:41:54Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "The Times of India",
+    "title": "West Zone coach Amit Dani wants Duleep Trophy’s knock-out format changed",
+    "description": "Cricket News: MUMBAI: When the Duleep Trophy semifinals began at the BCCI’s Centre of Excellence in Bengaluru on Sunday, 19-time champions West Zone were conspicuou.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-zone-coach-amit-dani-wants-duleep-trophys-knock-out-format-changed/articleshow/133641869.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133641947,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T04:41:03Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "PRNewswire",
+    "title": "Eluvio Tapped for Cricket TV: New Direct-to-Consumer Streaming Service for Live and Archive Coverage to Fans Across the Globe",
+    "description": "New Direct-to-Consumer Streaming Service: New streaming service from Cricket Australia (tv.cricket.com.au), built upon Eluvio's Content Fabric and AI Video Intelligence, is now available for early access with full commercial launch later this year Unified Pla…",
+    "url": "https://www.prnewswire.com/news-releases/eluvio-tapped-for-cricket-tv-new-direct-to-consumer-streaming-service-for-live-and-archive-coverage-to-fans-across-the-globe-302863246.html",
+    "image": "https://mmx.prnewswire.com/media/MS1977849/CricketTV-PR.jpg?id=OA2918793&p=facebook",
+    "publishedAt": "2026-08-31T04:02:00Z",
+    "author": null
+  },
+  {
+    "source": "The Punch",
+    "title": "Cricket: Nigeria U-19 girls win World Cup qualifier opener",
+    "description": "Nigeria’s U-19 female cricket team started their 2027 ICC U-19 Women’s T20 World Cup Africa Qualifier with a win, defeating Uganda by four wickets.\n\nRead More: https://punchng.com/cricket-nigeria-u-19-girls-win-world-cup-qualifier-opener/",
+    "url": "https://punchng.com/cricket-nigeria-u-19-girls-win-world-cup-qualifier-opener/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/31033107/Screenshot-2026-08-31-033046_1788143467-1200x630.webp",
+    "publishedAt": "2026-08-31T03:20:42Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mohammad Amir calls himself 'British local', says 'Pakistan chapter I had before is now closed'",
+    "description": "Amir was part of Pakistan’s title-winning campaigns at the 2009 T20 World Cup and the 2017 Champions Trophy. His standout display came in the 2017 Champions Trophy final against India, where he returned figures of 3-16 and removed Rohit Sharma, Virat Kohli an…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mohammad-amir-calls-himself-british-local-says-pakistan-chapter-i-had-before-is-now-closed/articleshow/133640444.cms",
+    "image": "https://img.etimg.com/thumb/msid-133640554,width-1200,height-630,imgsize-134196,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-31T03:19:16Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Duleep Trophy: Vidwath Kaverappa’s four-wicket haul puts South Zone in control against North",
+    "description": "Cricket News: BENGALURU: Bengaluru: On a pitch offering little assistance to the pacers, South Zone seamer Vidwath Kaverappa had to rely on his strengths and patien.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/duleep-trophy-vidwath-kaverappas-four-wicket-haul-puts-south-zone-in-control-against-north/articleshow/133640424.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133640505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T03:13:33Z",
+    "author": "Ashim Sunam"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Players will not be considered for Delhi in other formats if they dodge Ranji: DDCA president Rohan Jaitley",
+    "description": "Cricket News: New Delhi: A controversy is never far from Delhi cricket. As the third edition of the Delhi Premier League T20 comes to a close, Delhi and District Cr.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/players-will-not-be-considered-for-delhi-in-other-formats-if-they-dodge-ranji-ddca-president-rohan-jaitley/articleshow/133640156.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133640259,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T02:54:50Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Deepti Sharma spins history as India crush Thailand by 94 runs",
+    "description": "Deepti Sharma became the leading wicket-taker in Women's T20 Internationals. She achieved this milestone with a remarkable 3/0 bowling spell against Thailand. Sharma's performance also marked her as the first Indian to achieve this feat. India secured a domin…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/deepti-sharma-spins-history-as-india-crush-thailand-by-94-runs/articleshow/133640239.cms",
+    "image": "https://img.etimg.com/thumb/msid-133640238,width-1200,height-630,imgsize-100528,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-31T02:52:44Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Stuart Broad accuses Imam-ul-Haq of ‘putting on an act’ after Pakistan batter ruled out at Lord’s",
+    "description": "Stuart Broad raised eyebrows over Imam-ul-Haq's calf injury during the match, implying the Pakistani batter could be theatrical about his situation. Following a calf strain, Imam was unable to participate in the Lord's Test, while Pakistan faced another batti…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stuart-broad-accuses-imam-ul-haq-of-putting-on-an-act-after-pakistan-batter-ruled-out-at-lords/articleshow/133639967.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133640086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T02:40:24Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Explained: Why ICC stripped Sri Lanka of 2027 Women’s Champions Trophy hosting rights",
+    "description": "The ICC has removed Sri Lanka’s hosting rights for the inaugural Women’s Champions Trophy in 2027 over government interference in Sri Lanka Cricket. The tournament will be moved elsewhere, with the venue yet to be decided. Sri Lanka could also miss out as hos…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/explained-why-icc-stripped-sri-lanka-of-2027-womens-champions-trophy-hosting-rights/articleshow/133639396.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133639482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T01:30:36Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BroBible",
+    "title": "Curacao Pitcher Shows Strong Character With Kind Gesture Before Little League World Series Celebration",
+    "description": "Curacao won the Little League World Series on Sunday with a victory over Nevada in the championship game. The team’s final pitcher demonstrated strong character with a kind gesture prior to his title celebration. Stephen Felix hit a Nevada batter in the botto…",
+    "url": "https://brobible.com/sports/article/curacao-pitcher-character-kindness-little-league-world-series/",
+    "image": "https://brobible.com/wp-content/uploads/2026/08/little-league-world-series.jpg",
+    "publishedAt": "2026-08-31T01:24:58Z",
+    "author": "Jacob Elsey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bizarre! Cricket team loses match due to broken print - here's how",
+    "description": "Ballyspallen were forced to concede their Northern Ireland cricket match against Eglinton after a broken printer prevented officials from producing a required Duckworth-Lewis-Stern (DLS) sheet following rain. Eglinton had scored 159, while Ballyspallen were 1…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-cricket-team-loses-match-due-to-broken-print-heres-how/articleshow/133639238.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133639332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T01:08:36Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "ACC Premier Cup: Nepal to face Bahrain in first match today",
+    "description": "KATHMANDU: Nepal will take on Bahrain in its opening match of the third edition of the Asian Cricket Council (ACC) Premier Cup today. The tournament began in Malaysia on Sunday, with Nepal entering the competition aiming to claim the title, defeat the other n…",
+    "url": "https://english.khabarhub.com/2026/31/565774/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Nepali-cricket.jpg",
+    "publishedAt": "2026-08-31T01:02:36Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL media rights: Does the BCCI have a Plan B?",
+    "description": "Cricket News: The Indian cricket board's reluctance to seek better price discovery ahead of the upcoming IPL and home bilateral media rights tender is weighing heav.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-media-rights-does-the-bcci-have-a-plan-b/articleshow/133639169.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133639192,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-31T00:43:36Z",
+    "author": "K Shriniwas Rao"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "Video: Raging floodwaters sweep away lorry in the Philippines",
     "description": "Video shows a lorry being swept away by raging floodwaters in Rodriguez as torrential rains batter the Philippines.",
@@ -70,159 +196,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133634551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-08-30T17:47:20Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India beat Thailand by 94 runs to open Women's T20 Asia Cup campaign",
-    "description": "In an impressive start to their T20 Asia Cup, India Women triumphed over Thailand with authority. Shafali Verma's dynamic batting display saw India set a challenging target of 159 runs. The Indian spinners took center stage, holding Thailand to only 65 runs, …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-beat-thailand-by-94-runs-to-open-womens-t20-asia-cup-campaign/articleshow/133634406.cms",
-    "image": "https://img.etimg.com/thumb/msid-133634542,width-1200,height-630,imgsize-68160,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T17:45:52Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India crush Thailand by 94 runs in Women's T20 Asia Cup contest",
-    "description": "India began their Women's T20 Asia Cup campaign with a dominant victory over Thailand. Shafali Verma's aggressive batting provided a strong foundation for the Indian team's score. Indian spinners then expertly dismantled the Thailand batting lineup to secure …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-crush-thailand-by-94-runs-in-womens-t20-asia-cup-contest/articleshow/133634417.cms",
-    "image": "https://img.etimg.com/thumb/msid-133634512,width-1200,height-630,imgsize-68160,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T17:45:34Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Disciplinary action against three cricket players for breaching code of conduct",
-    "description": "UP T20 League: UPCA disciplinary committee bans Abhishek Goswami for one match and fines three players for code of conduct breaches in Kanpur match.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/disciplinary-action-against-three-cricket-players-for-breaching-code-of-conduct/articleshow/133634323.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-30T17:35:18Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "'His best Test for a year' - England-Pakistan player ratings",
-    "description": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan...",
-    "url": "https://www.bbc.com/sport/cricket/articles/c70d87p74pxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/7bae1ed0f1d500d8a36ab7d33438bf4b4781fca347731c7444535064b9c97977/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe26b4dd35bc219506e0542b25634985c.jpg",
-    "publishedAt": "2026-08-30T17:04:41Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "'His best Test for a year' - England-Pakistan player ratings",
-    "description": "Who produced their best Test performance in 12 months? Which batter is building a case to test the selectors? Player ratings from England's win over Pakistan.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e51/live/d8d419d0-a494-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-08-30T17:04:35Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Smriti Mandhana scripts history in Asia Cup opener, surpasses Suzie Bates for international record",
-    "description": "In a remarkable feat during the Women’s Asia Cup match, Smriti Mandhana surpassed Suzie Bates to become the second-highest run-scorer in women's international cricket history, amassing an impressive total of 10,756 runs. Her exceptional performance supported …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/smriti-mandhana-scripts-history-in-asia-cup-opener-surpasses-suzie-bates-for-international-record/articleshow/133632978.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133633125,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T16:46:05Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Best in 100 years! Ollie Robinson breaks Jasprit Bumrah’s mark to claim Test cricket’s best bowling average",
-    "description": "Ollie Robinson has reached a remarkable milestone in Test cricket, now boasting the best bowling average for bowlers who have played at least twenty Tests. This noteworthy achievement occurred during England's second Test against Pakistan at Lord's, where Rob…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/best-in-100-years-ollie-robinson-breaks-jasprit-bumrahs-mark-to-claim-test-crickets-best-bowling-average/articleshow/133632953.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133633014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T16:32:36Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Team concedes cricket match over broken printer",
-    "description": "A team has been forced to concede a match in Northern Ireland because of a broken printer.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c4glwl90n25o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/e69a7e25252fb7e331563e541eaf4e032097ad02d80eb43f6ade8e2272e2fee3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe2b2f080af4b5d6b2cb3511bfd1973f2.jpg",
-    "publishedAt": "2026-08-30T16:15:30Z",
-    "author": "Andy Gray - BBC Sport NI Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Stone takes five as Notts draw with Warwickshire",
-    "description": "Fast bowler Olly Stone took a superb five-wicket haul as Nottinghamshire's County Championship match with Warwickshire ended in a rain-affected draw at Edgbaston.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c33kdv451mko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-08-30T16:12:45Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Stone takes five as Notts draw with Warwickshire",
-    "description": "Fast bowler Olly Stone took a superb five-wicket haul as Nottinghamshire's County Championship match with Warwickshire ended in a rain-affected draw at Edgbaston.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c33kdv451mko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dab7/live/5294bf20-a48d-11f1-8395-fb1eae51ae18.jpg",
-    "publishedAt": "2026-08-30T16:12:16Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Team concedes cricket match over broken printer",
-    "description": "A team has been forced to concede a match in Northern Ireland because of a broken printer.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c4glwl90n25o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/deb7/live/c525f530-a489-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-08-30T16:08:49Z",
-    "author": "Andy Gray"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Stuart Broad adds to Imam-ul-Haq scrutiny, calls out Pakistan opener for 'show off' after ‘faking injury’ allegations",
-    "description": "Former English pacer Stuart Broad is Imam-Ul-Haq's latest critic after the opening batter failed to get cleared ahead of Pakistan's massive chase.",
-    "url": "https://www.cricketnews.com/en/cricket/news/stuart-broad-imam-ul-haq-scrutiny-calls-out-pakistan-opener-show/57490bd5353ebb184528b1b3",
-    "image": "https://s.yimg.com/lo/mysterio/api/c7781c9205c844c0d3a512f403f40fcd89cfb27f811a576a87a04d2cff5ee442/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F485a753b51ca2c42ff6ac38b470c3324",
-    "publishedAt": "2026-08-30T16:02:45Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After ODI success, Pratika Rawal makes T20I debut in Women's Asia Cup opener against Thailand",
-    "description": "Pratika Rawal made a strong impression on her T20I debut for India against Thailand in the Women's Asia Cup. Scoring twenty-two runs off just eighteen balls, she showcased her potential. This opportunity comes after her remarkable journey in ODIs, where she a…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/after-odi-success-pratika-rawal-makes-t20i-debut-in-womens-asia-cup-opener-against-thailand/articleshow/133632051.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133632110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T15:19:17Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Comeback",
-    "title": "‘Taken a step back’: Outlook murky for 49ers star to return to the field",
-    "description": "Entering his 10th season this year, seven-time Pro Bowler tight end George Kittle has been working on his return to the field following a torn right Achilles tendon during the 49ers’ playoff game against the Philadelphia Eagles on January 11, 2026. After thei…",
-    "url": "https://thecomeback.com/nfl/san-francisco-49ers-george-kittle-return-in-question.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/9932f729f51faa4bd52695e5dcad6fe5c3d0793e282b7101214edaed52ccb35d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fbe91c4e77995eeb103262db18f92274e.jpg",
-    "publishedAt": "2026-08-30T15:14:33Z",
-    "author": "Barry Hunter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Imran Khan row: PCB warns Pakistan players against speaking about jailed former captain",
-    "description": "The Pakistan Cricket Board has instructed its players to refrain from making public comments about Imran Khan's health amidst his ongoing imprisonment and health concerns that have drawn international interest. The board deems an interview with Khan's sons as…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/imran-khan-row-pcb-warns-pakistan-players-against-speaking-about-jailed-former-captain/articleshow/133630940.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133630992,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-30T13:56:27Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "Colts' Keenan Allen arrested Sunday morning in Indianapolis on DWI charges",
-    "description": "The six-time Pro Bowler was signed to a one-year deal less than two weeks ago to bolster a revamped wide receiver room alongside Alec Pierce and Josh Downs",
-    "url": "https://www.cbssports.com/nfl/news/colts-keenan-allen-arrested-sunday-morning-dwi-charges/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2026/08/30/28f88650-3f16-479f-99ec-0ef20b6077d8/thumbnail/1200x675/65238ac5d0185dd7aad667a89e9168b5/gettyimages-2290739397-1.jpg",
-    "publishedAt": "2026-08-30T13:41:11Z",
-    "author": "Josh Edwards"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IND vs THA live streaming: Where to watch today's Women's Asia Cup match?",
-    "description": "The live streaming of India vs Thailand Women's Asia Cup T20 match will be available on SonyLIV app and website for Indian fans",
-    "url": "https://www.business-standard.com/cricket/news/ind-vs-tha-live-streaming-where-to-watch-today-s-women-s-asia-cup-match-126083000259_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/resize/1200X628/1788077365-2732.jpg",
-    "publishedAt": "2026-08-30T13:30:24Z",
-    "author": "Our Bureau"
   }
 ]
 ;
