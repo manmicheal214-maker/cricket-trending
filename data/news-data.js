@@ -1,5 +1,185 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘May land me in hot water’: Multan Sultans CEO delivers explosive take on Pak cricket",
+    "description": "Pakistan Cricket Board's recent squad and coaching changes have drawn significant criticism. Multan Sultans CEO Gohar Shah voiced concerns over player professionalism and team intensity. He also highlighted issues within the wider cricket ecosystem, including…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-may-land-me-in-hot-water-multan-sultans-ceo-gohar-shah-delivers-explosive-take-on-pakistan-cricket-turmoil/articleshow/133683885.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133684145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T14:05:38Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India squad for Afghanistan T20Is: Vaibhav Sooryavanshi named in team for three-match T20 series",
+    "description": "Vaibhav Sooryavanshi has been named in the India squad for the T20 series against Afghanistan.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-squad-afghanistan-t20is-vaibhav-sooryavanshi-named-three-match-t20-series/f0d0a3804df8d4890d995ae5",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b905e54107f00c4e03fd9ffe665727d18aed5db78b09e25fa21acfb13c1c064/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Ff32abbc94a7545bc04abac4fd3ea6240",
+    "publishedAt": "2026-09-01T13:17:32Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Fastest century in cricket: Why Percy Fender’s 35-minute first-class hundred from 1920 remains unbeaten after 106 years",
+    "description": "In 1920, Percy Fender set the remarkable record for the fastest authentic first-class cricket century, scoring a hundred in a mere thirty-five minutes while playing for Surrey against Northamptonshire. Despite other rapid centuries being noted, they lacked th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fastest-century-in-cricket-why-percy-fenders-35-minute-first-class-hundred-from-1920-remains-unbeaten-after-106-years/articleshow/133682522.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133682740,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T13:14:15Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "CNA",
+    "title": "Teenager Sooryavanshi included in India squad for Afghanistan T20s",
+    "description": "Sept 1 : Teenager Vaibhav Sooryavanshi was named in India's squad for the T20 series against Afghanistan on Tuesday after responding to a disappointing debut series in England with two half-centuries against Zimbabwe in July.• Fast bowler Jasprit Bumrah was a…",
+    "url": "https://www.channelnewsasia.com/sport/teenager-sooryavanshi-included-in-india-squad-afghanistan-t20s-6355086",
+    "image": "https://dam.mediacorp.sg/image/upload/s--Oq-plWXU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-01T125437Z_1_LYNXMPEM8037V_RTROPTP_3_CRICKET-T20-ENG-IND.JPG?itok=DdUnRAsA",
+    "publishedAt": "2026-09-01T12:54:37Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "'One-handed screamer!' - Capsey's stunning catch on wicketkeeper debut",
+    "description": "On her international debut as England's wicketkeeper, Alice Capsey takes a brilliant catch to remove Ireland's Alice Tector as England strike early in the first One Day International in Leicester.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c74em2pn0mmo",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e448/live/4e25bc30-a601-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-09-01T12:48:22Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Ex-captains question Pakistan board's 'panic-button' squad shake-up",
+    "description": "Sept 1 : The Pakistan Cricket Board's decision to axe seven players and the head coach after two crushing defeats by England triggered a furious backlash from former captains and coaches who branded the shake-up as panic-driven chaos.The PCB said it was sendi…",
+    "url": "https://www.channelnewsasia.com/sport/ex-captains-question-pakistan-boards-panic-button-squad-shake-up-6355056",
+    "image": "https://dam.mediacorp.sg/image/upload/s--VjeYjH2X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-01T124240Z_1_LYNXMPEM80377_RTROPTP_3_CRICKET-TEST-ENG-PAK.JPG?itok=DU237_Pj",
+    "publishedAt": "2026-09-01T12:42:40Z",
+    "author": null
+  },
+  {
+    "source": "USA Today",
+    "title": "Yankees push back after Red Sox announcer calls for intentional beaning",
+    "description": "Play-by-play man Will Flemming says calling Jazz Chisholm \"bush league\" and suggesting Red Sox intentionally hit a Yankees batter \"crossed a line.\"",
+    "url": "https://www.usatoday.com/story/sports/mlb/2026/09/01/will-flemming-apologizes-jazz-chisholm-comments/91558276007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/5079911b31b326501807db5c2aa88048be755fef4f72092bfb2dec66d85dd76f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F2e4e59a439e6281ece1bce27f6a047ad.jpg",
+    "publishedAt": "2026-09-01T12:39:04Z",
+    "author": "Steve Gardner, USA TODAY"
+  },
+  {
+    "source": "Thesportstak.com",
+    "title": "Sanju Samson returns as BCCI announces India's squad for Afghanistan T20Is, 4 players subject to fitness",
+    "description": "IND vs AFG: Less than two weeks ahead of the T20I series against Afghanistan, four players' participation is subject to fitness.",
+    "url": "https://thesportstak.com/cricket/story/sanju-samson-returns-bcci-announces-india-squad-afghanistan-t20is-4-players-subject-to-fitness-sear-3282790-2026-09-01#news",
+    "image": "https://cf-img-a-in.tosshub.com/lingo/stak/images/story/202609/6a96c0974048a-sanju-samson--gautam-gambhir-010859635-16x9.jpg",
+    "publishedAt": "2026-09-01T12:23:58Z",
+    "author": "Sports Tak"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shreyas Iyer-led 15-member India squad for Afghanistan T20Is announced; Jasprit Bumrah, Vaibhav Sooryavanshi included",
+    "description": "The Indian cricket team has officially unveiled their 15-member squad for the T20I series against Afghanistan, with Shreyas Iyer as captain and Tilak Varma as vice-captain. The pace attack is bolstered by the return of Jasprit Bumrah, alongside Arshdeep Singh…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-led-15-member-india-squad-for-afghanistan-t20is-announced-jasprit-bumrah-vaibhav-sooryavanshi-included/articleshow/133680680.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133680783,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T12:07:49Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "England win toss and bowl against Ireland in first women's ODI",
+    "description": "Follow live text, BBC radio commentary and in-play video clips as England face Ireland in the first one-day international at Leicester.",
+    "url": "https://www.bbc.com/sport/cricket/live/c36re1lw6wdt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3dde2203597170c01f2ca2bfd0b6022eaf18f29a2bff6161c6414b0592bebd24/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1ae3f001d83f9a7fa1a6a573e3807974.jpg",
+    "publishedAt": "2026-09-01T12:00:44Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Abhinav Bindra lauds shooting growth; Ruturaj Gaikwad confident of CSK’s IPL comeback",
+    "description": "COIMBATORE: Olympic gold medallist Abhinav Bindra on Tuesday said shooting in India had grown significantly over the years, while Chennai Super Kings .",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/abhinav-bindra-lauds-shooting-growth-ruturaj-gaikwad-confident-of-csks-ipl-comeback/articleshow/133680281.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-01T11:47:59Z",
+    "author": "Aishwarya S"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Ben Stokes joins Adelaide Strikers for BBL summer",
+    "description": "Following his shock retirement from international cricket, former England captain Ben Stokes is joining the Adelaide Strikers for the upcoming Big Bash League summer.",
+    "url": "https://www.abc.net.au/news/2026-09-01/ben-stokes-joins-adelaide-strikers-for-big-bash-league-summer/107104852",
+    "image": "https://live-production.wcms.abc-cdn.net.au/4fe9a0ac56360688c640f9fccadbb0b3?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=376&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-01T11:25:28Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "Madras HC allows pleas on recording Dhoni's evidence in defamation case",
+    "description": "Kumar, who is a defendant in Dhoni's 2014 civil suit, has sought several safeguards for the recording of the cricketer's evidence",
+    "url": "https://www.business-standard.com/cricket/news/madras-hc-allows-pleas-on-recording-dhoni-s-evidence-in-defamation-case-126090100910_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/18/thumb/resize/1200X628/1779098024-2113.jpg",
+    "publishedAt": "2026-09-01T11:23:15Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "CNA",
+    "title": "Former England Captain Stokes joins BBL side Adelaide Strikers",
+    "description": "Sept 1 : Former England all-rounder Ben Stokes has joined Australian side Adelaide Strikers ahead of the 2026-27 season that begins in December, the Big Bash League team said on Tuesday.Stokes, who retired from international cricket in June, is set to become …",
+    "url": "https://www.channelnewsasia.com/sport/former-england-captain-stokes-joins-bbl-side-adelaide-strikers-6354806",
+    "image": "https://dam.mediacorp.sg/image/upload/s--vA5r2gFt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-01T104709Z_1_LYNXMPEM802Z5_RTROPTP_3_CRICKET-ENG-NZL.JPG?itok=pOLhzoNS",
+    "publishedAt": "2026-09-01T10:47:09Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Maybe the toss should start the night before?’: Kevin Pietersen mocks Pakistan’s chaos",
+    "description": "In response to their defeats in the first two Tests, Pakistan has enacted major squad changes, parting ways with seven players and two coaches. Kevin Pietersen, the former England cricketer, lightheartedly remarked that the captain could be in for a lengthy p…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/maybe-the-toss-should-start-the-night-before-kevin-pietersen-mocks-pakistans-chaos/articleshow/133677570.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133677819,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T10:34:17Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Drama continues in Pakistan cricket: Misbah-ul-Haq resigns from PCB selection committee after 7 players were sent home from England tour",
+    "description": "Misbah-ul-Haq has resigned from the PCB selection committee after reportedly being bypassed over the decision to send 7 players home from the England Test tour.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-cricket-misbah-ul-haq-resigns-pcb-selection-committee/ad1b64ae15caa62a1154573e",
+    "image": "https://s.yimg.com/lo/mysterio/api/0063735f53d4dc0085d9113fbeaed1437e1929ce0fff4c249b3a1a50be1c7fd8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff5973dcda07c8e7f2e04be0285ff2171",
+    "publishedAt": "2026-09-01T10:29:27Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "No solitary confinement for Imran Khan, wife: Pak HC tells jail authorities",
+    "description": "A Pakistan high court on Tuesday directed jail authorities to ensure that former prime minister Imran Khan and his wife Bushra Bibi are not kept in solitary confinement.\nThe 73-year-old cricketer-turned-politician and his wife are currently detained at Adiala…",
+    "url": "https://www.business-standard.com/world-news/no-solitary-confinement-for-imran-khan-wife-pak-hc-tells-jail-authorities-126090100616_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/thumb/fitandfill/1200X628/1787724859-9659.jpg",
+    "publishedAt": "2026-09-01T10:00:56Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan cricket in chaos: Misbah-ul-Haq resigns as PCB selector amid Test squad shake-up",
+    "description": "Misbah-ul-Haq has stepped down from his role in the Pakistan Cricket Board's selection committee amid a significant shake-up of the Test team and coaching positions. After facing backlash from recent losses to England, several players and coaches have been di…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-chaos-misbah-ul-haq-resigns-as-pcb-selector-amid-test-squad-shake-up/articleshow/133676438.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133676626,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T09:58:27Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "C21media.net",
+    "title": "Cricket Australia, Eluvio swing for a six with global sports streamer roll-out",
+    "description": "Governing body Cricket Australia has launched Cricket TV, a global direct-to-consumer service featuring live matches, original documentaries and archival content. The service has been rolled out in par...",
+    "url": "https://www.c21media.net/news/cricket-australia-eluvio-swing-for-a-six-with-global-sports-streamer-roll-out/",
+    "image": "https://cdn.c21media.net/wp-content/uploads/2026/09/michelle-munson-eluvio-feat.jpg",
+    "publishedAt": "2026-09-01T09:46:29Z",
+    "author": "Neil Batey"
+  },
+  {
+    "source": "Sporting News",
+    "title": "How long is Hardik Pandya out? Injury updates, return timeline for India all-rounder",
+    "description": "Check the latest injury updates, BCCI CoE medical clearance status, and expected return timeline for Hardik Pandya.",
+    "url": "https://www.sportingnews.com/in/cricket/news/hardik-pandya-out-injury-updates-return-timeline-india-all-rounder/11ae428975716936179fff4a",
+    "image": "https://s.yimg.com/lo/mysterio/api/745ac05762ea1aba4a4baceeea9ac2d81a3d274881a3a5d6d0c6be71bae2b1e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fa9c33b9fadb376778c28ef173644e059",
+    "publishedAt": "2026-09-01T09:45:13Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "Slickdeals.net",
     "title": "10% off Cricket Wireless cards, GiftCards.com",
     "description": "GiftCards.com offers 10% off Cricket Wireless gift cards with code *DAILYDEAL*. \n \nhttps://www.giftcards.com/us/en/c...-gift-card",
@@ -88,186 +268,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/09/thumb/fitandfill/1200X628/1754719803-3251.jpg",
     "publishedAt": "2026-09-01T08:28:57Z",
     "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Bravo, Pollard, Narine honoured with stand at Queen's Park Oval in Trinidad",
-    "description": "Trinidad and Tobago's most celebrated cricketers -- Dwayne Bravo, Kieron Pollard and Sunil Narine -- unveiled a stand named after them at the historic Queen's Park Oval.\nThe stand unveiling, held on Monday, is part of the Queen's Park Cricket Club's (QPCC) ce…",
-    "url": "https://www.business-standard.com/cricket/news/bravo-pollard-narine-honoured-with-stand-at-queen-s-park-oval-in-trinidad-126090100462_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/01/thumb/featurecrop/1200X628/1788251171-607.jpg",
-    "publishedAt": "2026-09-01T08:26:25Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "PCB revamps squad after England rout; seven players and coaches sent home",
-    "description": "In an unusual move, the Pakistan Cricket Board (PCB) on Monday decided to send seven members of its touring Test squad home and replace them with a fresh set of players ahead of the third and final match against England.\nMohammad Rizwan, Imam-ul-Haq, Salman A…",
-    "url": "https://www.business-standard.com/cricket/news/pcb-revamps-squad-after-england-rout-seven-players-and-coaches-sent-home-126083101490_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/01/thumb/fitandfill/1200X628/1788250966-1693.jpg",
-    "publishedAt": "2026-09-01T08:23:17Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Elderly man allegedly bashed with cricket bat after trying to stop accused thief at charity shop",
-    "description": "Footage shows the 75-year-old being chased through the street by a man wielding a sports bat following an alleged robbery at a Salvation Army store in Melbourne.",
-    "url": "https://www.dailymail.com/news/article-16094861/melbourne-charity-worker-cricket-bat-mentone.html",
-    "image": "https://i.dailymail.com/1s/2026/09/01/06/110967853-0-image-m-20_1788241615305.jpg",
-    "publishedAt": "2026-09-01T08:08:40Z",
-    "author": "Joanna Hynds"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mahela Jayawardene likely to continue as Mumbai Indians coach; status quo on trade chatter",
-    "description": "Mahela Jayawardene is likely to continue as Mumbai Indians head coach for IPL 2027, with the franchise preferring continuity despite a disappointing 2026 season. While Hardik Pandya's future remains a major talking point, MI are keen to retain him as a player…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mahela-jayawardene-likely-to-continue-as-mumbai-indians-coach-status-quo-on-trade-chatter/articleshow/133668668.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133669178,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T08:02:17Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "Hexaware Becomes Official Partner of Dublin Guardians Playing in the Inaugural European T20 Premier League Season",
-    "description": "Hexaware Becomes Official Partner of Dublin Guardians Playing in the Inaugural European T20 Premier League Season",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/hexaware-becomes-official-partner-of-dublin-guardians-playing-in-the-inaugural-european-t20-premier-league-season/article71414229.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/bfssv2/article71414228.ece/alternates/LANDSCAPE_1200/Hexaware-Logo.jpg",
-    "publishedAt": "2026-09-01T08:00:24Z",
-    "author": "cuelive"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Good for nothing': Danish Kaneria lambasts Pakistan cricket, calls it 'a shame after 70 years'",
-    "description": "Former Pakistan spinner Danish Kaneria slammed the country’s cricket system after a 0-2 Test series defeat to England. He criticised selection, coaching, domestic cricket and PCB accountability, arguing that personnel changes alone will not fix deeper issues.…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/good-for-nothing-danish-kaneria-lambasts-pakistan-cricket-calls-it-a-shame-after-70-years/articleshow/133672539.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133673134,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T07:48:25Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Pakistan cricket has hit a panic button’: Ramiz Raja slams PCB over unprecedented England tour overhaul",
-    "description": "Ramiz Raja, the former Pakistan cricketer, expressed his discontent over the board's recent decisions, labeling the player changes as an impulsive reaction to disappointing results. With seven players sent packing and new faces introduced, along with shifts i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-has-hit-a-panic-button-ramiz-raja-slams-pcb-over-unprecedented-england-tour-overhaul/articleshow/133672638.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133672840,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T07:36:37Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Just keep bowling’: Gurnoor Brar takes the old-school fast bowler route",
-    "description": "Gurnoor Brar seeks all-format consistency after learning from Bumrah and Siraj. He aims to handle heavy workloads by strengthening his body through consistent bowling. Interactions with coaches and senior players have significantly improved his bowling craft.…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/just-keep-bowling-gurnoor-brar-takes-the-old-school-fast-bowler-route/articleshow/133672689.cms",
-    "image": "https://img.etimg.com/thumb/msid-133672826,width-1200,height-630,imgsize-61718,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-01T07:35:41Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Why Hyderabad's proposed 'biggest cricket stadium' has sparked outrage",
-    "description": "Why Hyderabad's proposed 1.32-lakh-seater stadium in Future City sparked outrage: Fans question the megaproject while Uppal Stadium maintenance remains neglected.",
-    "url": "https://www.sportingnews.com/in/cricket/news/hyderabad-proposed-biggest-cricket-stadium-has-sparked-outrage/5dadd4274e70fcca2c9973c4",
-    "image": "https://s.yimg.com/lo/mysterio/api/6645ae2afb013fda83c249be2a5010c7d6de2718a71b00dc9d46e96d99022862/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F8e598e03d0f979bfd7006309188f2fdb",
-    "publishedAt": "2026-09-01T07:15:37Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘This is the reason they are in the mess’: Ex-Pakistan coach tears into Mohsin Naqvi-led PCB",
-    "description": "Mickey Arthur, the former coach of the Pakistan cricket team, expresses his disappointment in the Pakistan Cricket Board's hasty decisions following a series of Test losses. After sending seven players packing and altering the coaching setup, Arthur argues th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-the-reason-they-are-in-the-mess-ex-pakistan-coach-tears-into-mohsin-naqvi-led-pcb/articleshow/133670998.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133671578,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T06:54:09Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Pakistan was ruined that day’: Ex-cricketer blames Babar Azam-Shaheen Afridi rift for team’s downfall",
-    "description": "Former Pakistan batter Basit Ali alleges a captaincy dispute between Babar Azam and Shaheen Afridi. This alleged rift significantly contributed to the national team's recent poor performances. Pakistan's leadership has seen frequent changes since the 2023 ODI…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-was-ruined-that-day-ex-cricketer-blames-babar-azam-shaheen-afridi-rift-for-teams-downfall/articleshow/133669141.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133669218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T05:24:36Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Is Marnus Labuschagne finally out of luck?",
-    "description": "After spending years as one of the luckiest Test cricketers in the game, Marnus Labuschagne's fortunes appear to be turning and, unfortunately for him, so has his form.",
-    "url": "https://www.abc.net.au/news/2026-09-01/marnus-labuschagne-south-africa-out-of-luck-test-cricket/107102632",
-    "image": "https://live-production.wcms.abc-cdn.net.au/3048ba6cd75562dd25aa8de337881669?impolicy=wcms_watermark_news&cropH=980&cropW=1743&xPos=352&yPos=187&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-01T05:03:41Z",
-    "author": "Poppy Penny"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'T20 players included for Tests': Shahid Afridi, Shoaib Malik slam Pakistan selectors over squad selection amid chaos in England tour",
-    "description": "Shahid Afridi slammed Pakistan selectors over bizarre squad changes and the sacking of coach Sarfaraz midway through the England tour.",
-    "url": "https://www.cricketnews.com/en/cricket/news/t20-players-tests-afridi-malik-pakistan-selectors-squad-selection/ae9129258d7eb1f3b9ee6280",
-    "image": "https://s.yimg.com/lo/mysterio/api/5536e8a269f5166a07beb565d624d76b9cf5dd84c6333435dd80fb8116d41f5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5faa7eeb4ce2db912b2e2fa40485794e",
-    "publishedAt": "2026-09-01T04:38:09Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vaibhav Sooryavanshi smashes 92, becomes youngest batter to hit Duleep Trophy fifty",
-    "description": "Vaibhav Sooryavanshi became the youngest to score fifty in the Duleep Trophy, smashing 92 runs. He and Abhimanyu Easwaran built a crucial 161-run opening partnership for East Zone. Tilak Varma then scored a patient century for South Zone in their semifinal ma…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-smashes-92-becomes-youngest-batter-to-hit-duleep-trophy-fifty/articleshow/133667407.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133667439,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T04:01:27Z",
-    "author": "Ashim Sunam"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hardik Pandya's comeback plans hit a fresh roadblock",
-    "description": "Hardik Pandya’s return to international cricket is set to face another setback due to a leg niggle, casting doubts on his participation in the upcoming T20I series against Afghanistan. He remains under observation by the medical team at BCCI CoE.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandyas-comeback-plans-hit-a-fresh-roadblock/articleshow/133667119.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133667196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T03:53:38Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Not a good decision’: Ex-Pakistan cricketer fumes at PCB, sends message to Mohsin Naqvi",
-    "description": "Kamran Akmal expressed strong disapproval of the Pakistan Cricket Board's decision to release seven players from the squad during the England Test series. He argued that this move could harm the morale of the remaining team members. Akmal questioned why senio…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-a-good-decision-ex-pakistan-cricketer-fumes-at-pcb-sends-message-to-mohsin-naqvi/articleshow/133666352.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133666410,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T02:44:51Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Sporting News",
-    "title": "When does Australia play South Africa and Zimbabwe? Full ODI, Test match schedule for 2026 cricket tour",
-    "description": "The Sporting News provides the full match schedule and broadcast details for the Australian men's cricket team's 2026 tour of South Africa and Zimbabwe.",
-    "url": "https://www.sportingnews.com/au/cricket/news/australia-south-africa-zimbabwe-cricket-tour-match-schedule/345f444bb467791093c8458e",
-    "image": "https://s.yimg.com/lo/mysterio/api/e4a524d065035d0feb7eb96ae27dda5d6dad39b3843eb1291b612a0c8b8823d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F9227358212896053ac0d25254a8dfcdb",
-    "publishedAt": "2026-09-01T02:31:51Z",
-    "author": "Peter Maniaty"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Australia lose patience as star batter left out of ODI squad for Zimbabwe and South Africa tours",
-    "description": "Australia have dropped Marnus Labuschagne from their ODI squad for tours of Zimbabwe and South Africa after a poor run of form. His Test future is also uncertain. Travis Head and Mitchell Marsh return, while Joel Davies earns his first ODI call-up. Spencer Jo…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-lose-patience-as-star-batter-left-out-of-odi-squad-for-zimbabwe-and-south-africa-tours/articleshow/133665722.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133665883,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-01T01:50:40Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch Australia vs. South Africa Tests and ODIs: Live stream, TV channel, match schedule for 2026 cricket tour",
-    "description": "The Sporting News takes you through all the broadcast and live stream details you need to follow the Australian cricket team's tour of South Africa and Zimbabwe.",
-    "url": "https://www.sportingnews.com/au/cricket/news/australia-south-africa-cricket-tour-live-stream-tv-channel-times/3ecb2976395beda4e5cefd72",
-    "image": "https://s.yimg.com/lo/mysterio/api/79984ef4b1282e36c1661bd5a61f2a16a5de2434cd886efea64f0bfb29db9ebe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F791ead48676454654087137bbc65eb4a",
-    "publishedAt": "2026-09-01T00:35:25Z",
-    "author": "Peter Maniaty"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Labuschagne axed: Australia make five changes for ODI series vs. South Africa and Zimbabwe",
-    "description": "Twelve months out from the World Cup, the writing is on the wall for Marnus Labuschagne after he was axed from Australia's ODI squad for tour Zimbabwe and South Africa.",
-    "url": "https://www.sportingnews.com/au/cricket/news/labuschagne-australia-odi-series-vs-south-africa-zimbabwe/2ea7c25f15f554a7638aa94c",
-    "image": "https://s.yimg.com/lo/mysterio/api/7042254438af1f7aab07a1c8157e12acbc41ddf8500ccd47c84ddea5662f2879/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F43803043b58714e9abf9c4879ad86011",
-    "publishedAt": "2026-09-01T00:20:47Z",
-    "author": "Kieran Francis"
   }
 ]
 ;
