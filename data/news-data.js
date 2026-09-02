@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Vaibhav Sooryavanshi smashes 92, becomes youngest batter to hit Duleep Trophy fifty",
+    "description": "Vaibhav Sooryavanshi became the youngest to score fifty in the Duleep Trophy, smashing 92 runs. He and Abhimanyu Easwaran built a crucial 161-run opening partnership for East Zone. Tilak Varma then scored a patient century for South Zone in their semifinal ma…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-smashes-92-becomes-youngest-batter-to-hit-duleep-trophy-fifty/articleshow/133667407.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133667439,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T04:01:27Z",
+    "author": "Ashim Sunam"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Hardik Pandya's comeback plans hit a fresh roadblock",
+    "description": "Hardik Pandya’s return to international cricket is set to face another setback due to a leg niggle, casting doubts on his participation in the upcoming T20I series against Afghanistan. He remains under observation by the medical team at BCCI CoE.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandyas-comeback-plans-hit-a-fresh-roadblock/articleshow/133667119.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133667196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T03:53:38Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Not a good decision’: Ex-Pakistan cricketer fumes at PCB, sends message to Mohsin Naqvi",
+    "description": "Kamran Akmal expressed strong disapproval of the Pakistan Cricket Board's decision to release seven players from the squad during the England Test series. He argued that this move could harm the morale of the remaining team members. Akmal questioned why senio…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-a-good-decision-ex-pakistan-cricketer-fumes-at-pcb-sends-message-to-mohsin-naqvi/articleshow/133666352.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133666410,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T02:44:51Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "When does Australia play South Africa and Zimbabwe? Full ODI, Test match schedule for 2026 cricket tour",
+    "description": "The Sporting News provides the full match schedule and broadcast details for the Australian men's cricket team's 2026 tour of South Africa and Zimbabwe.",
+    "url": "https://www.sportingnews.com/au/cricket/news/australia-south-africa-zimbabwe-cricket-tour-match-schedule/345f444bb467791093c8458e",
+    "image": "https://s.yimg.com/lo/mysterio/api/e4a524d065035d0feb7eb96ae27dda5d6dad39b3843eb1291b612a0c8b8823d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F9227358212896053ac0d25254a8dfcdb",
+    "publishedAt": "2026-09-01T02:31:51Z",
+    "author": "Peter Maniaty"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Australia lose patience as star batter left out of ODI squad for Zimbabwe and South Africa tours",
+    "description": "Australia have dropped Marnus Labuschagne from their ODI squad for tours of Zimbabwe and South Africa after a poor run of form. His Test future is also uncertain. Travis Head and Mitchell Marsh return, while Joel Davies earns his first ODI call-up. Spencer Jo…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-lose-patience-as-star-batter-left-out-of-odi-squad-for-zimbabwe-and-south-africa-tours/articleshow/133665722.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133665883,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-01T01:50:40Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch Australia vs. South Africa Tests and ODIs: Live stream, TV channel, match schedule for 2026 cricket tour",
+    "description": "The Sporting News takes you through all the broadcast and live stream details you need to follow the Australian cricket team's tour of South Africa and Zimbabwe.",
+    "url": "https://www.sportingnews.com/au/cricket/news/australia-south-africa-cricket-tour-live-stream-tv-channel-times/3ecb2976395beda4e5cefd72",
+    "image": "https://s.yimg.com/lo/mysterio/api/79984ef4b1282e36c1661bd5a61f2a16a5de2434cd886efea64f0bfb29db9ebe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F791ead48676454654087137bbc65eb4a",
+    "publishedAt": "2026-09-01T00:35:25Z",
+    "author": "Peter Maniaty"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Labuschagne axed: Australia make five changes for ODI series vs. South Africa and Zimbabwe",
+    "description": "Twelve months out from the World Cup, the writing is on the wall for Marnus Labuschagne after he was axed from Australia's ODI squad for tour Zimbabwe and South Africa.",
+    "url": "https://www.sportingnews.com/au/cricket/news/labuschagne-australia-odi-series-vs-south-africa-zimbabwe/2ea7c25f15f554a7638aa94c",
+    "image": "https://s.yimg.com/lo/mysterio/api/7042254438af1f7aab07a1c8157e12acbc41ddf8500ccd47c84ddea5662f2879/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F43803043b58714e9abf9c4879ad86011",
+    "publishedAt": "2026-09-01T00:20:47Z",
+    "author": "Kieran Francis"
+  },
+  {
+    "source": "The Punch",
+    "title": "W’Cup qualifiers: Junior Female Yellow Greens in pole for semis",
+    "description": "Nigeria’s Junior Female Yellow Greens continued their impressive start to the 2027 ICC U-19 Women’s T20 World Cup Africa Qualifier Division 1 with a commanding 94-run victory over Malawi in Tanzania on Monday, PUNCH Sports Extra reports. After opening their c…",
+    "url": "https://punchng.com/wcup-qualifiers-junior-female-yellow-greens-in-pole-for-semis/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/08/31214148/female-yellow-greens_1788208908-1112x630.webp",
+    "publishedAt": "2026-09-01T00:18:10Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "CNA",
     "title": "Labuschagne axed from Australia ODI squad for World Cup rehearsal",
     "description": "SYDNEY, Sept 1 : Marnus Labuschagne was dropped from the Australia squad for this month's one-day international series in Zimbabwe and South Africa on Tuesday, casting doubt over his participation in next year's World Cup defence. The South African-born batsm…",
@@ -70,15 +142,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/c3daf1ad75795d62101b480c52d0c20ff2971168b7c3fb5b5e9517360c084ade/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdd95dd91c34bb421c20cfbf186b95334",
     "publishedAt": "2026-08-31T17:51:10Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Playoffs and final shifted from Kanpur to Ekana Stadium Lucknow due to forecast of more showers",
-    "description": "UP T20 League shifts playoffs and final from Kanpur’s Green Park to Lucknow’s Ekana Stadium due to persistent rain; league matches stay in Kanpur.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/playoffs-and-final-shifted-from-kanpur-to-ekana-stadium-lucknow-due-to-forecast-of-more-showers/articleshow/133659950.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-08-31T17:34:38Z",
-    "author": "The Times Of India"
   }
 ]
 ;
