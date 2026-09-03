@@ -1,6 +1,141 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "India to host inaugural ICC Women’s Champions Trophy after shift from Sri Lanka; Check teams, dates and venues",
+    "description": "India will host the inaugural ICC Women's Champions Trophy in 2027. The six-team tournament will be played in the T20I format across two venues. Sri Lanka lost hosting rights due to governance concerns, leading to India's successful bid. Qualified teams inclu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-to-host-inaugural-icc-womens-champions-trophy-after-shift-from-sri-lanka-check-teams-dates-and-venues/articleshow/133712788.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133713025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T14:11:45Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kusal Mendis named captain as Sri Lanka announce T20I and ODI squads for England tour",
+    "description": "Sri Lanka Cricket has unveiled its squads for the highly anticipated England tour. Kusal Mendis is set to lead both the T20I and ODI teams, with Charith Asalanka stepping in as his deputy for both formats. Notably, Tharindu Rathnayake and Sachindu Colombage h…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kusal-mendis-named-captain-as-sri-lanka-announce-t20i-and-odi-squads-for-england-tour/articleshow/133711860.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133711934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T13:30:56Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "School assembly news headlines for September 3: Top India, world, sports and business updates",
+    "description": "School assembly news headlines for September 3 cover major developments from India, international affairs, sports and business. Key updates include ISRO’s upcoming EOS-05 launch, Nepal’s flood crisis, rising West Asia tensions, diplomatic visits, cricket and …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-september-3-top-india-world-sports-and-business-updates/articleshow/133710005.cms",
+    "image": "https://img.etimg.com/thumb/msid-133711067,width-1200,height-630,imgsize-160277,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T12:49:05Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Adelaide Strikers coach Tim Paine reveals Ben Stokes’ likely BBL role, hails his '360-degree' game",
+    "description": "Ben Stokes is set to make his debut with the Adelaide Strikers in the upcoming Big Bash League season. Head coach Tim Paine emphasizes Stokes' ideal fit as an opening batsman, praising his explosive batting style and versatile all-round performance. His remar…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/adelaide-strikers-coach-tim-paine-reveals-ben-stokes-likely-bbl-role-hails-his-360-degree-game/articleshow/133710111.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133710516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T12:38:54Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "JSW Sports enters international sports IP market with Hong Kong Sixes partnership",
+    "description": "JSW Sports has entered the international sports market by partnering with Hong Kong Sixes.  This partnership will manage commercial and marketing aspects of the cricket tournament.  The agreement aims to expand sponsorship and broadcast opportunities for the …",
+    "url": "https://economictimes.indiatimes.com/news/sports/jsw-sports-enters-international-sports-ip-market-with-hong-kong-sixes-partnership/articleshow/133710352.cms",
+    "image": "https://img.etimg.com/thumb/msid-133710478,width-1200,height-630,imgsize-31550,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T12:24:48Z",
+    "author": "ET Bureau"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Explained: Why Sourav Ganguly will attend BCCI's AGM in Mumbai as VVS Laxman all set to get new role",
+    "description": "With VVS Laxman all set to become the director of cricket, former teammate Sourav Ganguly would also be in attendance, and here's why.",
+    "url": "https://www.cricketnews.com/en/cricket/news/why-sourav-ganguly-attend-bcci-agm-vvs-laxman-new-role/a04bff05864e2263c1672693",
+    "image": "https://s.yimg.com/lo/mysterio/api/e5270c8962fe4ea1d9e19b6369ddab1438e46f9657bb745fc7757319c49c083c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F428d32af426f960c849d2eecbec2ef49",
+    "publishedAt": "2026-09-02T11:38:22Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I love playing Test cricket': After Duleep Trophy heroics, Tilak Varma opens up on his India ambition",
+    "description": "Tilak Varma aims to represent India in Test cricket, demonstrating a profound love for red-ball formats. His impressive batting skills have propelled South Zone to the Duleep Trophy final. Varma emphasizes his innate connection to red-ball cricket, actively s…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-love-playing-test-cricket-after-duleep-trophy-heroics-tilak-varma-opens-up-on-his-india-ambition/articleshow/133708328.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133708436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T11:24:10Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Give time to cricket': Shahid Afridi sends straightforward message to PCB chief Mohsin Naqvi amid Pakistan cricket's downfall",
+    "description": "While the PCB might be looking to blame the discharged players and selectors for Pakistan's downfall, Shahid Afridi has someone else to blame.",
+    "url": "https://www.cricketnews.com/en/cricket/news/shahid-afridi-sends-message-pcb-chief-mohsin-naqvi-pakistan/fea891dcf7cfbdb784505c58",
+    "image": "https://s.yimg.com/lo/mysterio/api/5536e8a269f5166a07beb565d624d76b9cf5dd84c6333435dd80fb8116d41f5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5faa7eeb4ce2db912b2e2fa40485794e",
+    "publishedAt": "2026-09-02T11:23:24Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Questions over 'character', players removed without communication: How Pakistan's day of chaos unfolded after England humiliation",
+    "description": "Cricket News: Pakistan cricket was thrown into chaos after the Pakistan Cricket Board (PCB) made sweeping changes following the team's defeats in the first two Test.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/questions-over-character-players-removed-without-communication-how-pakistans-day-of-chaos-unfolded-after-england-humiliation/articleshow/133707360.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133708282,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T11:16:23Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Love for Tests is in my blood: India's T20 vice-captain Tilak eyes traditional format initiation",
+    "description": "Tilak Varma scored unbeaten knocks for South Zone in the Duleep Trophy. He expressed his strong desire to play Test cricket for India. Varma stated his strength lies in red ball cricket despite white ball format appearances. He hopes to play the Duleep Trophy…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/love-for-tests-is-in-my-blood-indias-t20-vice-captain-tilak-eyes-traditional-format-initiation/articleshow/133707687.cms",
+    "image": "https://img.etimg.com/thumb/msid-133708334,width-1200,height-630,imgsize-63784,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T11:10:54Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "ICYMI: Naruemol Chaiwai and the rise of Thailand Cricket",
+    "description": "Thailand’s performances at the Asia Cup show how far they’ve come. An instrumental part of the journey has been captain Naruemol Chaiwai — one of the gems of the tournament!",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/icymi-naruemol-chaiwai-rise-thailand-cricket/103986751e20dcfe48fbf9ab",
+    "image": "https://s.yimg.com/lo/mysterio/api/58d8b766015a515f04b66727ff1159b400b9fd495e4af51f817e5a11194d058c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F18762a6a34cc1d0c69bf43b84e9aca92",
+    "publishedAt": "2026-09-02T11:10:01Z",
+    "author": "Arya Shah"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Is the Lord's pitch fit for test cricket? | The Telegraph Cricket podcast",
+    "description": "Nick Hoult discusses the state of the Lord's pitch after it came in for criticism during England's second test with Pakistan. Check out ...",
+    "url": "https://biztoc.com/x/8dbe0b40242c8415",
+    "image": "https://biztoc.com/cdn/8dbe0b40242c8415_s.webp",
+    "publishedAt": "2026-09-02T10:54:11Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "English cricket team take u-turn after backlash, confirm rape acquitted cricketer won't represent club",
+    "description": "In response to fan backlash, Hampshire Cricket has decided to withdraw Scott Kuggeleijn from their roster. The club faced significant criticism over his past allegations. Acknowledging the supporters' concerns, Hampshire confirmed that Kuggeleijn will no long…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-team-take-u-turn-after-backlash-confirm-rape-acquitted-cricketer-wont-represent-club/articleshow/133706908.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133707113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T10:50:57Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Hampshire forced into embarrassing U-turn as they confirm they will NOT select controversial former New Zealand cricketer Scott Kuggeleijn after furious fan backlash",
+    "description": "Kuggeleijn, 34, was amongst the 15 names posted on X for the County Championship fixture despite Hampshire not announcing the New Zealander as an overseas signing.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16098557/Hampshire-U-turn-Scott-Kuggeleijn.html",
+    "image": "https://i.dailymail.com/1s/2026/09/01/20/110984395-0-image-m-61_1788291560363.jpg",
+    "publishedAt": "2026-09-02T09:59:47Z",
+    "author": "Richard Gibson, Lewis Browning"
+  },
+  {
+    "source": "Business Standard",
+    "title": "BCCI to review India's poor away form; calls in Gambhir, Agarkar, Laxman",
+    "description": "With the 2027 ODI World Cup in sight, the BCCI wants the team management, selectors and CoE to work more closely, particularly on managing its fast-bowling resources",
+    "url": "https://www.business-standard.com/cricket/news/bcci-to-review-india-s-poor-away-form-calls-in-gambhir-agarkar-laxman-126090200754_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/02/thumb/resize/1200X628/1788342026-1007.jpg",
+    "publishedAt": "2026-09-02T09:41:39Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
     "title": "'Destroyed entire system': Pakistan cricketer takes 'chidiya chug gayin khet' swipe at PCB after England debacle",
     "description": "Cricket News: Pakistan leg-spinner Usama Mir has launched a veiled attack at the Pakistan Cricket Board (PCB) and the team management after the board made sweeping .",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/destroyed-entire-system-pakistan-cricketer-takes-chidiya-chug-gayin-khet-swipe-at-pcb-after-england-debacle/articleshow/133705342.cms",
@@ -16,204 +151,6 @@ window.cricketNews = [
     "image": "https://bl-i.thgim.com/public/incoming/uskfc5/article70166037.ece/alternates/LANDSCAPE_1200/2025-09-25T105808Z_1418028080_RC2VVDAIP8AL_RTRMADP_3_CRICKET-AUSTRALIA-ASHWIN.JPG",
     "publishedAt": "2026-09-02T09:24:43Z",
     "author": "Sindhu Hariharan"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Asian Games 2026: Why cricket's accommodation plan is under scrutiny",
-    "description": "The Japan Cricket Association has defended the preparations, saying the Aichi-Nagoya Asian Games Organising Committee and Asian Cricket Council have worked together on the arrangements",
-    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-why-cricket-s-accommodation-plan-is-under-scrutiny-126090200682_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/02/thumb/resize/1200X628/1788340387-1677.jpg",
-    "publishedAt": "2026-09-02T09:13:59Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill, Iyer to attend BCCI meeting to review India’s dismal UK tour",
-    "description": "Cricket News: MUMBAI: The Board of Control for Cricket in India (BCCI) has called a review meeting with head coach Gautam Gambhir, chief selector Ajit Agarkar and C.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-shreyas-iyer-to-attend-bcci-review-meeting-after-indias-dismal-uk-tour/articleshow/133704055.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133704789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T08:50:51Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gill, Bumrah slide in ICC Test rankings; Padikkal climbs five places",
-    "description": "Shubman Gill and Jasprit Bumrah have slipped in the latest ICC Test rankings. Rishabh Pant remains India's highest-ranked batter, holding steady at seventh place. Yashasvi Jaiswal maintained his position at eleventh among the world's top batters. Devdutt Padi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/gill-bumrah-slide-in-icc-test-rankings-padikkal-climbs-five-places/articleshow/133704309.cms",
-    "image": "https://img.etimg.com/thumb/msid-133704390,width-1200,height-630,imgsize-45608,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T08:43:27Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Cricketers to get best rooms at Asian Games 2026, says Japanese official",
-    "description": "Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.",
-    "url": "https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-06-14T165940Z_1269696414_UP1EM6E1B7EHU_RTRMADP_3_CRICKET-T20-WORLDCUP-IND-PAK-1788337994.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-02T08:17:20Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "BCCI scheduling crisis threatens India's WTC final bid: 60 players on NZ visa list amid overlapping Irani Cup & WI ODIs",
-    "description": "With India 5th in the WTC standings, congested scheduling, Irani Cup overlaps, and a 60-player NZ visa list leave Shubman Gill and Gambhir's prep in chaos.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bcci-scheduling-crisis-india-wtc-60-nz-visa-irani-cup-wi-odi/6d41c1ed11d648a884b0c216",
-    "image": "https://s.yimg.com/lo/mysterio/api/41208bb4ebbd367c49a049cccddef4f62a9f9b5908581d45d6d713bc7769f2ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F235987921e0cc7b5d1c3a7f37cb0c15d",
-    "publishedAt": "2026-09-02T08:03:24Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Blow to Stephen Fleming: CSK legend rejects England Test batting coach job ahead of 2027 Ashes",
-    "description": "Cricket News: Former Australia batter Michael Hussey has turned down the opportunity to become England’s Test batting coach and is instead set to join Cricket Austr.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/blow-to-stephen-fleming-csk-legend-rejects-england-test-batting-coach-job-ahead-of-2027-ashes/articleshow/133701698.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133702157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T07:41:18Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games cricket teams to get hotels amid facility concerns",
-    "description": "Cricket players at the Asian Games will receive hotel accommodation, unlike other athletes. This decision comes after concerns were raised by Sri Lankan officials regarding facilities. Organizers are using a mix of accommodations, including a cruise ship and …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-cricket-teams-to-get-hotels-amid-facility-concerns/articleshow/133701937.cms",
-    "image": "https://img.etimg.com/thumb/msid-133701993,width-1200,height-630,imgsize-125388,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T07:29:25Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sourav Ganguly to attend BCCI AGM on September 18 in Mumbai",
-    "description": "Cricket News: MUMBAI: Former India captain Sourav Ganguly will attend the BCCI Annual General Meeting on September 18 at the BCCI HQ here, as the representative of .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sourav-ganguly-to-attend-bcci-agm-on-september-18-in-mumbai/articleshow/133699948.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133701285,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T06:54:57Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Vikings Add Former Lions Pass Rusher With 57 Sacks on Pro Bowl Résumé",
-    "description": "The Minnesota Vikings moved quickly to add a Pro Bowler with 57 sacks in his career to their roster before the regular season. The post Vikings Add Former Lions Pass Rusher With 57 Sacks on Pro Bowl Résumé appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/minnesota-vikings/van-noy-free-agency-lions-patriots-ravens/",
-    "image": "https://s.yimg.com/lo/mysterio/api/75be23ca92d5f0fbe0816083186a31a34ada8b3b4672ff1664e22c8b1bdd5a35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fdfed78ac55403f5481bca97a3885200b.jpg",
-    "publishedAt": "2026-09-02T06:04:00Z",
-    "author": "Josh Buckhalter"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Ravens Pro Bowler Kyle Van Noy Signs With NFC Team",
-    "description": "Former Baltimore Ravens edge rusher and Pro Bowler Kyle Van Noy signed with an NFC team. The post Ravens Pro Bowler Kyle Van Noy Signs With NFC Team appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/baltimore-ravens/kyle-van-noy-signs-nfc-team/",
-    "image": "https://s.yimg.com/lo/mysterio/api/ae7fbc6a7fcebd8848190aa19a528898b2a522570ad2e23a66ca9a104f72726d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8fd8618ba185d9286801a4976e16be77.jpg",
-    "publishedAt": "2026-09-02T06:02:26Z",
-    "author": "Tony Adame"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan cricket in turmoil: PCB selector demands inquiry into Imam-ul-Haq injury after opener didn't bat at Lord's",
-    "description": "Aaqib Javed, who is part of Pakistan's four-member selection panel, said the Pakistan Cricket Board (PCB) will investigate how Imam was managed after suffering the injury during the match.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-turmoil-pcb-selector-demands-inquiry-into-imam-ul-haq-injury-after-opener-didnt-bat-at-lords/articleshow/133699123.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133699551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T05:59:50Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women's Asia Cup: India need to fix batting frailties against Hong Kong",
-    "description": "Seven-time champions India, who won four Asia Cup titles in the ODI format and three in the T20 format, survived some anxious moments after a batting collapse in the second half of the first innings in their opening match against Thailand.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/womens-asia-cup-india-need-to-fix-batting-frailties-against-hong-kong/articleshow/133699420.cms",
-    "image": "https://img.etimg.com/thumb/msid-133699582,width-1200,height-630,imgsize-117156,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T05:53:58Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Ashes blow for England! Michael Hussey rejects chance to be part of Stephen Fleming's staff and takes Australia gig",
-    "description": "Michael Hussey has rejected Stephen Fleming's offer to become England's Test batting coach, opting instead for a flexible consultancy deal with Cricket Australia.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ashes-england-michael-hussey-rejects-stephen-fleming-australia/6d251a8cb8dacfdebb53a542",
-    "image": "https://s.yimg.com/lo/mysterio/api/0b5ee527a5103960106de8e2aeaeb60770169c7b9981a2d7929c51e1ee25c348/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6c30c3fac4f177c7bd9a2d446a4a0668",
-    "publishedAt": "2026-09-02T04:30:22Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India A tour New Zealand for three four-day games ahead of Test series",
-    "description": "India A will play three four-day matches against New Zealand A in Christchurch from October 24, New Zealand Cricket announced on Tuesday.\nThe series will be part of India's build-up to the two-Test series against New Zealand later in the tour, with the A side…",
-    "url": "https://www.business-standard.com/cricket/news/india-a-to-tour-new-zealand-for-three-four-day-matches-ahead-of-test-series-126090101368_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/14/thumb/fitandfill/1200X628/1739527423-94.jpg",
-    "publishedAt": "2026-09-02T04:07:33Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'The more you bowl, the stronger you become': Gurnoor Brar",
-    "description": "Brar's schedule has been relentless. He flew in from Sri Lanka on Friday and turned up for the Duleep Trophy semifinal against South Zone at the BCCI Centre of Excellence on Sunday. Despite bowling 23 overs on a slow-paced surface, he maintained his intensity…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-more-you-bowl-the-stronger-you-become-gurnoor-brar/articleshow/133696962.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133696990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T04:00:53Z",
-    "author": "Ashim Sunam"
-  },
-  {
-    "source": "The Times of India",
-    "title": "WTC dreams run into scheduling roadblock: Irani Cup, Asian Games and ODIs leave little room to prepare before New Zealand and Australia series",
-    "description": "Cricket News: NEW DELHI: With India down to fifth in the World Test Championship (WTC) standings, the team management and national selectors have been left coping w.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-dreams-run-into-scheduling-roadblock-irani-cup-asian-games-and-odis-leave-little-room-to-prepare-before-new-zealand-and-australia-series/articleshow/133696564.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133696640,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T03:41:31Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "In 2014, India made mid-tour coaching shake-up during England tour, brought in Ravi Shastri and new assistant coachess; how did India perform then? Revisiting as Pakistan tear up Test squad, drop seven players and two coaches after going 0-2 down in England",
-    "description": "After a 194-run defeat at Lord's, which gave England an unassailable 2-0 lead in the three-match series, the Pakistan Cricket Board (PCB) decided to overhaul both the squad and the support staff.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/in-2014-india-made-mid-tour-coaching-shake-up-during-england-tour-brought-in-ravi-shastri-and-new-assistant-coachess-how-did-india-perform-then-revisiting-as-pakistan-tear-up-test-squad-drop-seven-players-and-two-coaches-after-going-0-2-down-in-england/articleshow/133695975.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133696234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T03:25:06Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Pakistan cricket insider launches explosive attack on players’ professionalism, agenda-driven journalists and PCB",
-    "description": "Multan Sultans Gohar Shah didn't pull back when he gave his criticism of Pakistani players and PCB calling for immediate change.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-cricket-insider-explosive-attack-players-journalists-pcb/54d58bff3b970aa6b2519460",
-    "image": "https://s.yimg.com/lo/mysterio/api/8550b79bdf8c271ba584db9d6cf45d1236ad798cfcc7cec854eb31d78a37b5a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0781bf36d63514276bfc8a55b11f4a2c",
-    "publishedAt": "2026-09-02T03:02:40Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Former Pakistan selector claims Babar Azam ‘protected’ Imam-ul-Haq in faking injury, alleges abuse of medical staff",
-    "description": "A new controversy has hit the Pakistan cricket team as a former PCB selector has claimed that Babar Azam protected Imam-ul-Haq in faking his injury.",
-    "url": "https://www.cricketnews.com/en/cricket/news/former-pakistan-selector-babar-azam-protected-imam-ul-haq-faking-injury/93e4c906c4d1e4db9499e7e3",
-    "image": "https://s.yimg.com/lo/mysterio/api/c3daf1ad75795d62101b480c52d0c20ff2971168b7c3fb5b5e9517360c084ade/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdd95dd91c34bb421c20cfbf186b95334",
-    "publishedAt": "2026-09-02T03:01:42Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Japan Cricket CEO responds to India, Pakistan concerns over Asian Games arrangements, says teams can arrange own accommodation",
-    "description": "Japan Cricket CEO says teams are free to look out for their own places after complaints from India and Pakistan ahead of the Asian Games.",
-    "url": "https://www.cricketnews.com/en/cricket/news/japan-cricket-ceo-india-pakistan-concerns-over-asian-games-arrangements/cd0d1df6a8edbcdee08069b4",
-    "image": "https://s.yimg.com/lo/mysterio/api/d9c7af6ada6d124ec44038d7f3df5af7a88dc1f22c46e932378d9c143fe52348/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3a93166d74f691c73aae2d69c645c97f",
-    "publishedAt": "2026-09-02T02:55:32Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Cricket side under fire after signing player acquitted of rape, assault charges",
-    "description": "Hampshire have faced backlash from fans after naming New Zealand cricketer Scott Kuggeleijn in their squad without announcing his signing. Kuggeleijn, who was acquitted of rape and indecent assault charges in 2017, has previously faced protests over his selec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-side-under-fire-after-signing-player-acquitted-of-rape-indecent-assault-charges/articleshow/133695578.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133695773,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T02:42:37Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "How the Cubs September Call-Ups Help Their Postseason Push",
-    "description": "Similar to most teams, the Chicago Cubs' September call-ups look to help make a playoff push happen. When September 1st comes, all major league rosters expand by two spots. This usually happens by adding another pitcher and batter, as teams can now have up to…",
-    "url": "https://sports.yahoo.com/articles/cubs-september-call-ups-help-015808936.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/cad5db25aff264f01df1b619037fd742a7462b21d5920223def956723da9e17d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Ff5e8f99f045935b105c7297758e45977.jpg",
-    "publishedAt": "2026-09-02T01:58:08Z",
-    "author": "Tyler Courtney"
   }
 ]
 ;
