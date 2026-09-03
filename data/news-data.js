@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Ledger",
+    "title": "Vote for the 2026 Polk County preseason high school bowler of the year",
+    "description": "Cast your vote for the Polk County 2026 preseason high school bowler of the year in an open poll. The nominees are listed below.",
+    "url": "https://www.theledger.com/story/sports/high-school/bowling/2026/09/01/vote-in-the-polk-county-preseason-high-school-bowler-of-the-year-poll/91405208007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/5d2dcf86e4b35e356ea96b634f8b0b3aa22b85173dd68501a81d03ee28377978/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-ledger%2F6161b7caa361907334b88fe5a6541e46.jpg",
+    "publishedAt": "2026-09-01T23:59:38Z",
+    "author": "Robert Magobet, Lakeland Ledger"
+  },
+  {
+    "source": "BBC News",
+    "title": "Watch: England v Ireland - first ODI highlights",
+    "description": "Highlights from Grace Road, Leicester, as England play Ireland in the first of three ODIs.",
+    "url": "https://www.bbc.co.uk/programmes/m00315p9",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6bx4w.jpg",
+    "publishedAt": "2026-09-01T22:05:12Z",
+    "author": null
+  },
+  {
     "source": "Dailymail.com",
     "title": "Hampshire face social media backlash from their own fans after naming controversial former New Zealand cricketer Scott Kuggeleijn in squad... without even announcing his signing",
     "description": "Relegation threatened Hampshire faced a social media backlash on Tuesday night after naming the controversial Scott Kuggeleijn in their squad to face Warwickshire.",
@@ -250,24 +268,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e448/live/4e25bc30-a601-11f1-aed2-8d6da8d75094.jpg",
     "publishedAt": "2026-09-01T12:48:22Z",
     "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "Ex-captains question Pakistan board's 'panic-button' squad shake-up",
-    "description": "Sept 1 : The Pakistan Cricket Board's decision to axe seven players and the head coach after two crushing defeats by England triggered a furious backlash from former captains and coaches who branded the shake-up as panic-driven chaos.The PCB said it was sendi…",
-    "url": "https://www.channelnewsasia.com/sport/ex-captains-question-pakistan-boards-panic-button-squad-shake-up-6355056",
-    "image": "https://dam.mediacorp.sg/image/upload/s--VjeYjH2X--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-01T124240Z_1_LYNXMPEM80377_RTROPTP_3_CRICKET-TEST-ENG-PAK.JPG?itok=DU237_Pj",
-    "publishedAt": "2026-09-01T12:42:40Z",
-    "author": null
-  },
-  {
-    "source": "USA Today",
-    "title": "Yankees push back after Red Sox announcer calls for intentional beaning",
-    "description": "Play-by-play man Will Flemming says calling Jazz Chisholm \"bush league\" and suggesting Red Sox intentionally hit a Yankees batter \"crossed a line.\"",
-    "url": "https://www.usatoday.com/story/sports/mlb/2026/09/01/will-flemming-apologizes-jazz-chisholm-comments/91558276007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/5079911b31b326501807db5c2aa88048be755fef4f72092bfb2dec66d85dd76f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F2e4e59a439e6281ece1bce27f6a047ad.jpg",
-    "publishedAt": "2026-09-01T12:39:04Z",
-    "author": "Steve Gardner, USA TODAY"
   }
 ]
 ;
