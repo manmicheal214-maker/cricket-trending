@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "Foreign Policy",
+    "title": "How U.S. Allies Can Resist Washington’s Bullying",
+    "description": "The attack on the ICC offers a chance for solidarity on shared values.",
+    "url": "http://foreignpolicy.com/2026/09/02/trump-washington-bullying-coercion-icc/",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/ICC-SANCTIONS-GettyImages-2268302332.png",
+    "publishedAt": "2026-09-02T18:04:10Z",
+    "author": "Mieczyslaw P. Boduszynski and Christopher K. Lamont"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Holkar Stadium T20: India-West Indies Tickets Announced",
+    "description": "Tickets for the upcoming T20 International match between India and West Indies at Indore's Holkar Stadium on October 11 will be sold exclusively online, with prices ranging from Rs 1,000 to Rs 12,500. The Madhya Pradesh Cricket Association has appointed 'Dist…",
+    "url": "https://www.rediff.com/sports/report/india-west-indies-t20-tickets-indore-prices-sales/20260902.htm",
+    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+    "publishedAt": "2026-09-02T17:54:47Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Towhid Hridoy creates history with 350, breaks Tamim Iqbal’s long-standing first-class record",
+    "description": "Towhid Hridoy has etched his name in cricket history with a breathtaking innings of 350 runs, becoming the first Bangladeshi player to achieve this feat in first-class cricket. He has surpassed Tamim Iqbal's former record of 334 runs while also setting the ba…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/towhid-hridoy-creates-history-with-350-breaks-tamim-iqbals-long-standing-first-class-record/articleshow/133716814.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133716953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T17:28:02Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'World laughing harder': Usman Khawaja takes brutal dig on Pakistan cricket team and Aaqib Javed",
+    "description": "With Aaqib Javed publicly crashing out on national TV, former Aussie batter Usman Khawaja quickly took a dig at him.",
+    "url": "https://www.cricketnews.com/en/cricket/news/world-laughing-harder-usman-khawaja-dig-pakistan-aaqib-javed/7beed2989baffac6d02d40de",
+    "image": "https://s.yimg.com/lo/mysterio/api/5889fdf7ebab38ca27866671d49fc8770081ef2e1d46002fdbe180eec2708e7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5a6c6d3df4e580e1bd46f113873e2a3e",
+    "publishedAt": "2026-09-02T16:52:53Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma’s future, ODI roadmap to 2027 World Cup and recent setbacks on agenda at BCCI meeting",
+    "description": "Cricket News: Mumbai/New Delhi: The future of Rohit Sharma and the shape of India’s ODI team for the next World Cup cycle are set to dominate discussions when the B.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharmas-future-odi-roadmap-to-2027-world-cup-and-recent-setbacks-on-agenda-at-bcci-meeting/articleshow/133715542.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133715833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T16:27:28Z",
+    "author": "Gaurav Gupta,Arani Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "11 coaches reset in last five years and still searching for answers: Inside Pakistan cricket’s never-ending coaching carousel",
+    "description": "Pakistan cricket has struggled with ongoing coaching instability, marked by numerous changes and management reshuffles since September 2021. The Pakistan Cricket Board has tried various structures and roles for senior management, leading to short-lived appoin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/11-coaches-reset-in-last-five-years-and-still-searching-for-answers-inside-pakistan-crickets-never-ending-coaching-carousel/articleshow/133714661.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133714888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T15:50:05Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Gautam Gambhir, Aaqib Javed part of same management team: Iceland Cricket creates hilarious 'international management personnel of nightmares'",
+    "description": "With the recent management decisions making a mockery of Pakistani cricket, Iceland Cricket has now dragged Gautam Gambhir into the fray.",
+    "url": "https://www.cricketnews.com/en/cricket/news/gambhir-aaqib-javed-iceland-cricket-international-management-personnel/eff9d034bc5083620fad8fcd",
+    "image": "https://s.yimg.com/lo/mysterio/api/a172ed9451b9ca55433d36db8b8f86817f24fa97cd45d96e18b8866d380f1ece/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faebb0572e44ffb56c73ea30a8edb7341",
+    "publishedAt": "2026-09-02T15:18:06Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "8 wickets in 4 Innings, Yet former India WK-batter urges team to look beyond Ravindra Jadeja",
+    "description": "Former wicketkeeper Deep Dasgupta advocates for India's cricket team to explore options beyond veteran all-rounder Ravindra Jadeja. He reflected on Jadeja's recent performance in Sri Lanka and found it lacking efficiency. Dasgupta also highlighted the notewor…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/8-wickets-in-4-innings-yet-former-india-wk-batter-urges-team-to-look-beyond-ravindra-jadeja/articleshow/133712617.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133712735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-02T15:02:26Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India replace Sri Lanka as hosts of inaugural Women's Champions Trophy",
+    "description": "In an unexpected twist, the ICC Women's Champions Trophy will now unfold in India, as Sri Lanka was forced to withdraw as the host due to governmental interference. The tournament promises thrilling competition among six teams, all vying for glory in a round-…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-replace-sri-lanka-as-hosts-of-inaugural-womens-champions-trophy/articleshow/133713915.cms",
+    "image": "https://img.etimg.com/thumb/msid-133713928,width-1200,height-630,imgsize-87210,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T14:50:18Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "BBC News",
+    "title": "ICC moves Champions Trophy from Sri Lanka to India",
+    "description": "The International Cricket Council moves the inaugural edition of next year's Women's Champions Trophy from Sri Lanka to India.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cgmr149w00jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c25a415b06a4a30014f6227e38f3c8ff9760283b14cf00e2e73d290f269360da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd84f0c6d227bd4064f4c1ae630124341.jpg",
+    "publishedAt": "2026-09-02T14:28:09Z",
+    "author": "Timothy Abraham - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Sri Lanka stripped of hosting Women's Champions Trophy",
+    "description": "The International Cricket Council moves the inaugural edition of next year's Women's Champions Trophy from Sri Lanka to India.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cgmr149w00jo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5099/live/1d099240-17a3-11f0-8e92-794cc8da8125.jpg",
+    "publishedAt": "2026-09-02T14:28:04Z",
+    "author": "Timothy Abraham"
+  },
+  {
     "source": "The Times of India",
     "title": "India to host inaugural ICC Women’s Champions Trophy after shift from Sri Lanka; Check teams, dates and venues",
     "description": "India will host the inaugural ICC Women's Champions Trophy in 2027. The six-team tournament will be played in the T20I format across two venues. Sri Lanka lost hosting rights due to governance concerns, leading to India's successful bid. Qualified teams inclu…",
@@ -7,150 +106,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133713025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-02T14:11:45Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kusal Mendis named captain as Sri Lanka announce T20I and ODI squads for England tour",
-    "description": "Sri Lanka Cricket has unveiled its squads for the highly anticipated England tour. Kusal Mendis is set to lead both the T20I and ODI teams, with Charith Asalanka stepping in as his deputy for both formats. Notably, Tharindu Rathnayake and Sachindu Colombage h…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kusal-mendis-named-captain-as-sri-lanka-announce-t20i-and-odi-squads-for-england-tour/articleshow/133711860.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133711934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T13:30:56Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "School assembly news headlines for September 3: Top India, world, sports and business updates",
-    "description": "School assembly news headlines for September 3 cover major developments from India, international affairs, sports and business. Key updates include ISRO’s upcoming EOS-05 launch, Nepal’s flood crisis, rising West Asia tensions, diplomatic visits, cricket and …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-september-3-top-india-world-sports-and-business-updates/articleshow/133710005.cms",
-    "image": "https://img.etimg.com/thumb/msid-133711067,width-1200,height-630,imgsize-160277,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T12:49:05Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Adelaide Strikers coach Tim Paine reveals Ben Stokes’ likely BBL role, hails his '360-degree' game",
-    "description": "Ben Stokes is set to make his debut with the Adelaide Strikers in the upcoming Big Bash League season. Head coach Tim Paine emphasizes Stokes' ideal fit as an opening batsman, praising his explosive batting style and versatile all-round performance. His remar…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/adelaide-strikers-coach-tim-paine-reveals-ben-stokes-likely-bbl-role-hails-his-360-degree-game/articleshow/133710111.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133710516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T12:38:54Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "JSW Sports enters international sports IP market with Hong Kong Sixes partnership",
-    "description": "JSW Sports has entered the international sports market by partnering with Hong Kong Sixes.  This partnership will manage commercial and marketing aspects of the cricket tournament.  The agreement aims to expand sponsorship and broadcast opportunities for the …",
-    "url": "https://economictimes.indiatimes.com/news/sports/jsw-sports-enters-international-sports-ip-market-with-hong-kong-sixes-partnership/articleshow/133710352.cms",
-    "image": "https://img.etimg.com/thumb/msid-133710478,width-1200,height-630,imgsize-31550,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T12:24:48Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Explained: Why Sourav Ganguly will attend BCCI's AGM in Mumbai as VVS Laxman all set to get new role",
-    "description": "With VVS Laxman all set to become the director of cricket, former teammate Sourav Ganguly would also be in attendance, and here's why.",
-    "url": "https://www.cricketnews.com/en/cricket/news/why-sourav-ganguly-attend-bcci-agm-vvs-laxman-new-role/a04bff05864e2263c1672693",
-    "image": "https://s.yimg.com/lo/mysterio/api/e5270c8962fe4ea1d9e19b6369ddab1438e46f9657bb745fc7757319c49c083c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F428d32af426f960c849d2eecbec2ef49",
-    "publishedAt": "2026-09-02T11:38:22Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I love playing Test cricket': After Duleep Trophy heroics, Tilak Varma opens up on his India ambition",
-    "description": "Tilak Varma aims to represent India in Test cricket, demonstrating a profound love for red-ball formats. His impressive batting skills have propelled South Zone to the Duleep Trophy final. Varma emphasizes his innate connection to red-ball cricket, actively s…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-love-playing-test-cricket-after-duleep-trophy-heroics-tilak-varma-opens-up-on-his-india-ambition/articleshow/133708328.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133708436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T11:24:10Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Give time to cricket': Shahid Afridi sends straightforward message to PCB chief Mohsin Naqvi amid Pakistan cricket's downfall",
-    "description": "While the PCB might be looking to blame the discharged players and selectors for Pakistan's downfall, Shahid Afridi has someone else to blame.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shahid-afridi-sends-message-pcb-chief-mohsin-naqvi-pakistan/fea891dcf7cfbdb784505c58",
-    "image": "https://s.yimg.com/lo/mysterio/api/5536e8a269f5166a07beb565d624d76b9cf5dd84c6333435dd80fb8116d41f5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5faa7eeb4ce2db912b2e2fa40485794e",
-    "publishedAt": "2026-09-02T11:23:24Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Questions over 'character', players removed without communication: How Pakistan's day of chaos unfolded after England humiliation",
-    "description": "Cricket News: Pakistan cricket was thrown into chaos after the Pakistan Cricket Board (PCB) made sweeping changes following the team's defeats in the first two Test.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/questions-over-character-players-removed-without-communication-how-pakistans-day-of-chaos-unfolded-after-england-humiliation/articleshow/133707360.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133708282,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T11:16:23Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Love for Tests is in my blood: India's T20 vice-captain Tilak eyes traditional format initiation",
-    "description": "Tilak Varma scored unbeaten knocks for South Zone in the Duleep Trophy. He expressed his strong desire to play Test cricket for India. Varma stated his strength lies in red ball cricket despite white ball format appearances. He hopes to play the Duleep Trophy…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/love-for-tests-is-in-my-blood-indias-t20-vice-captain-tilak-eyes-traditional-format-initiation/articleshow/133707687.cms",
-    "image": "https://img.etimg.com/thumb/msid-133708334,width-1200,height-630,imgsize-63784,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T11:10:54Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "ICYMI: Naruemol Chaiwai and the rise of Thailand Cricket",
-    "description": "Thailand’s performances at the Asia Cup show how far they’ve come. An instrumental part of the journey has been captain Naruemol Chaiwai — one of the gems of the tournament!",
-    "url": "https://www.cricketnews.com/en/cricket/cricket-features/icymi-naruemol-chaiwai-rise-thailand-cricket/103986751e20dcfe48fbf9ab",
-    "image": "https://s.yimg.com/lo/mysterio/api/58d8b766015a515f04b66727ff1159b400b9fd495e4af51f817e5a11194d058c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F18762a6a34cc1d0c69bf43b84e9aca92",
-    "publishedAt": "2026-09-02T11:10:01Z",
-    "author": "Arya Shah"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Is the Lord's pitch fit for test cricket? | The Telegraph Cricket podcast",
-    "description": "Nick Hoult discusses the state of the Lord's pitch after it came in for criticism during England's second test with Pakistan. Check out ...",
-    "url": "https://biztoc.com/x/8dbe0b40242c8415",
-    "image": "https://biztoc.com/cdn/8dbe0b40242c8415_s.webp",
-    "publishedAt": "2026-09-02T10:54:11Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "English cricket team take u-turn after backlash, confirm rape acquitted cricketer won't represent club",
-    "description": "In response to fan backlash, Hampshire Cricket has decided to withdraw Scott Kuggeleijn from their roster. The club faced significant criticism over his past allegations. Acknowledging the supporters' concerns, Hampshire confirmed that Kuggeleijn will no long…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-team-take-u-turn-after-backlash-confirm-rape-acquitted-cricketer-wont-represent-club/articleshow/133706908.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133707113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T10:50:57Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Hampshire forced into embarrassing U-turn as they confirm they will NOT select controversial former New Zealand cricketer Scott Kuggeleijn after furious fan backlash",
-    "description": "Kuggeleijn, 34, was amongst the 15 names posted on X for the County Championship fixture despite Hampshire not announcing the New Zealander as an overseas signing.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16098557/Hampshire-U-turn-Scott-Kuggeleijn.html",
-    "image": "https://i.dailymail.com/1s/2026/09/01/20/110984395-0-image-m-61_1788291560363.jpg",
-    "publishedAt": "2026-09-02T09:59:47Z",
-    "author": "Richard Gibson, Lewis Browning"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BCCI to review India's poor away form; calls in Gambhir, Agarkar, Laxman",
-    "description": "With the 2027 ODI World Cup in sight, the BCCI wants the team management, selectors and CoE to work more closely, particularly on managing its fast-bowling resources",
-    "url": "https://www.business-standard.com/cricket/news/bcci-to-review-india-s-poor-away-form-calls-in-gambhir-agarkar-laxman-126090200754_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/02/thumb/resize/1200X628/1788342026-1007.jpg",
-    "publishedAt": "2026-09-02T09:41:39Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Destroyed entire system': Pakistan cricketer takes 'chidiya chug gayin khet' swipe at PCB after England debacle",
-    "description": "Cricket News: Pakistan leg-spinner Usama Mir has launched a veiled attack at the Pakistan Cricket Board (PCB) and the team management after the board made sweeping .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/destroyed-entire-system-pakistan-cricketer-takes-chidiya-chug-gayin-khet-swipe-at-pcb-after-england-debacle/articleshow/133705342.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133705456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T09:29:23Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "CSK’s 10th-place finish in IPL 2025 pulls down FY26 financial performance",
-    "description": "Chennai Super Kings Cricket Ltd’s total revenue fell marginally to ₹636 crore in FY26 from ₹644 crore due to a decline in central rights income",
-    "url": "https://www.thehindubusinessline.com/news/sports/csks-10th-place-finish-in-ipl-2025-pulls-down-fy26-financial-performance/article71418886.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/uskfc5/article70166037.ece/alternates/LANDSCAPE_1200/2025-09-25T105808Z_1418028080_RC2VVDAIP8AL_RTRMADP_3_CRICKET-AUSTRALIA-ASHWIN.JPG",
-    "publishedAt": "2026-09-02T09:24:43Z",
-    "author": "Sindhu Hariharan"
   }
 ]
 ;
