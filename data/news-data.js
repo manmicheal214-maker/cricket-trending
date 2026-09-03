@@ -61,33 +61,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133714888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-02T15:50:05Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Gautam Gambhir, Aaqib Javed part of same management team: Iceland Cricket creates hilarious 'international management personnel of nightmares'",
-    "description": "With the recent management decisions making a mockery of Pakistani cricket, Iceland Cricket has now dragged Gautam Gambhir into the fray.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gambhir-aaqib-javed-iceland-cricket-international-management-personnel/eff9d034bc5083620fad8fcd",
-    "image": "https://s.yimg.com/lo/mysterio/api/a172ed9451b9ca55433d36db8b8f86817f24fa97cd45d96e18b8866d380f1ece/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faebb0572e44ffb56c73ea30a8edb7341",
-    "publishedAt": "2026-09-02T15:18:06Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "8 wickets in 4 Innings, Yet former India WK-batter urges team to look beyond Ravindra Jadeja",
-    "description": "Former wicketkeeper Deep Dasgupta advocates for India's cricket team to explore options beyond veteran all-rounder Ravindra Jadeja. He reflected on Jadeja's recent performance in Sri Lanka and found it lacking efficiency. Dasgupta also highlighted the notewor…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/8-wickets-in-4-innings-yet-former-india-wk-batter-urges-team-to-look-beyond-ravindra-jadeja/articleshow/133712617.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133712735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-02T15:02:26Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India replace Sri Lanka as hosts of inaugural Women's Champions Trophy",
-    "description": "In an unexpected twist, the ICC Women's Champions Trophy will now unfold in India, as Sri Lanka was forced to withdraw as the host due to governmental interference. The tournament promises thrilling competition among six teams, all vying for glory in a round-…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-replace-sri-lanka-as-hosts-of-inaugural-womens-champions-trophy/articleshow/133713915.cms",
-    "image": "https://img.etimg.com/thumb/msid-133713928,width-1200,height-630,imgsize-87210,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-02T14:50:18Z",
-    "author": "ET Online"
   }
 ]
 ;
