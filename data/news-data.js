@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Women's ODI Cricket",
+    "description": "Highlights of the second ODI between England and Ireland at the County Ground in Derby.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00315qw/womens-odi-cricket-2026-highlights-england-v-ireland-2nd-odi?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6bx4w.jpg",
+    "publishedAt": "2026-09-03T22:05:05Z",
+    "author": null
+  },
+  {
     "source": "ABC News (AU)",
     "title": "Imran Khan's sons say former PM's health declining in prison",
     "description": "Imran Khan went from swashbuckling cricketer to Pakistan PM and then political prisoner. His sons now hold grave fears for their father's health.",
@@ -178,15 +187,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133738860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-03T14:04:37Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs HK, Women's Asia Cup 2026: Harmanpreet’s side look to strengthen semi-final hopes",
-    "description": "IND-W vs HK-W Live Score: India will look to take another step towards the semi-finals of the Women’s T20 Asia Cup 2026 when they face Hong Kong in t",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-women-vs-hong-kong-women-asia-cup-2026-live-score-ind-w-vs-hk-w-cricket-match-today-scorecard-when-and-where-to-watch-records-news-harmanpreet-kaur-natasha-miles/liveblog/133737827.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133737827,width-1280,height-720,imgsize-1042949,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T13:26:09Z",
-    "author": "The Times Of India"
   }
 ]
 ;
