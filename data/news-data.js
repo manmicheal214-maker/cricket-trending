@@ -1,183 +1,129 @@
 window.cricketNews = [
   {
-    "source": "The Times of India",
-    "title": "Wasim Akram says he helped Irfan Pathan become a better bowler, says he now tweets against Pakistan",
-    "description": "Wasim Akram recalled helping Irfan Pathan with bowling tips during India’s 2004 Australia tour. Akram praised Pathan’s early progress but noted that the former India all-rounder now regularly posts about Pakistan on social media. Pathan had a strong record ag…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/wasim-akram-says-he-helped-irfan-pathan-become-a-better-bowler-now-he-tweets-against-pakistan/articleshow/133731039.cms",
-    "image": "https://img.etimg.com/thumb/msid-133731481,width-1200,height-630,imgsize-129962,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-03T09:27:18Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Auqib Nabi fails to impress, goes wicketless on day one of County debut",
-    "description": "Cricket News: Indian cricketers had a mixed first day in the latest round of the County Championship on Wednesday, with Yuzvendra Chahal picking up a wicket for Nor.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/auqib-nabi-fails-to-impress-goes-wicketless-on-day-one-of-county-debut/articleshow/133731049.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133731407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T09:14:37Z",
-    "author": "TOI Sports Desk"
-  },
-  {
     "source": "Sporting News",
-    "title": "India's away record under Gautam Gambhir: Why BCCI is concerned about India's form on foreign soil?",
-    "description": "India's struggles overseas under Gautam Gambhir have raised concerns ahead of the 2027 ODI World Cup, with their recent results highlighting a worrying trend away from home.",
-    "url": "https://www.sportingnews.com/in/cricket/news/india-away-record-under-gautam-gambhir-bcci-concerned/d3f23019fe3e0f508f24d959",
-    "image": "https://s.yimg.com/lo/mysterio/api/16af607f532a5e5dcafaf72f6e7eb6b91cf941a46689727a0b63b2617ed3d7bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F665353573a3a8179f1e4f2238aa15d87",
-    "publishedAt": "2026-09-03T08:50:24Z",
-    "author": "Anselm Noronha"
+    "title": "India player injuries on the rise: BCCI says they 'will ensure proper rest in next FTP'",
+    "description": "India player injuries on the rise: BCCI Secretary Devajit Saikia confirmed the board will overhaul scheduling in the next FTP to ensure proper rest and warm-ups.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-player-injuries-rise-bcci-ensure-proper-rest-next-ftp/b210b8981dfeb0aa9ef30cb9",
+    "image": "https://s.yimg.com/lo/mysterio/api/1c8125d111c3ec9693e172719ee1e1601384a6b6091e5db1ac7e7bd3b229ec4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0dce0a9481a4f526ab22573c753d67af",
+    "publishedAt": "2026-09-03T14:07:16Z",
+    "author": "Soham Mukherjee"
   },
   {
     "source": "The Times of India",
-    "title": "Dropped from squad, Pakistan player refuses to meet King Charles III",
-    "description": "Pakistan’s cricket team faced fresh controversy when several players dropped from the Test squad were told to attend a meeting with King Charles III. Four attended despite preferring to stay away, while one refused in protest. The meeting came after Pakistan’…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dropped-from-squad-pakistan-player-refuses-to-meet-king-charles-iii-amid-england-tour-chaos/articleshow/133730444.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133730930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T08:49:05Z",
-    "author": "Jyotirmoy Halder"
+    "title": "Why Ajit Agarkar was not present in BCCI's meeting? Devajit Saikia reveals the reason",
+    "description": "BCCI secretary Devajit Saikia clarified the situation surrounding Ajit Agarkar's absence from a recent board meeting. He shared that Agarkar was traveling and encountered connectivity problems that prevented him from joining virtually. Saikia also brushed asi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-ajit-agarkar-was-not-present-in-bccis-meeting-devajit-saikia-reveals-the-reason/articleshow/133738304.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133738860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T14:04:37Z",
+    "author": "Nitesh Dubey"
   },
   {
     "source": "The Times of India",
-    "title": "MS Dhoni rejects Impact Player role, keeping CSK’s 2027 IPL future uncertain",
-    "description": "Mahendra Singh Dhoni will not play as an Impact Player in future IPL seasons. He prefers to remain a full-time wicketkeeper for the entire duration. Subramaniam Badrinath feels the Impact Player role could benefit Chennai Super Kings tactically. Dhoni's fitne…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ms-dhoni-rejects-impact-player-role-keeping-csks-2027-ipl-future-uncertain/articleshow/133730185.cms",
-    "image": "https://img.etimg.com/thumb/msid-133730235,width-1200,height-630,imgsize-43146,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-03T08:19:07Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Rams Pro Bowler Gets Ominous Outlook in ‘Bold Prediction’",
-    "description": "The Los Angeles Rams could change some things around this coming season, including with a veteran Pro Bowler. The post Rams Pro Bowler Gets Ominous Outlook in ‘Bold Prediction’ appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/los-angeles-rams/williams-bold-prediction-corum-contract-extension/",
-    "image": "https://s.yimg.com/lo/mysterio/api/5e19ab59c439ed3f2028f7c5507a41d5e68b3c1ebc4033c0d3e3a4ba397548b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fdc89c80a414c8400c3f7a06f36aa9902.jpg",
-    "publishedAt": "2026-09-03T08:11:11Z",
-    "author": "Josh Buckhalter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "David White steps down as ILT20 CEO after three-year stint",
-    "description": "David White has stepped down as ILT20 CEO after three years at the helm, returning to New Zealand after overseeing the league’s growth into one of the world’s leading T20 tournaments.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/david-white-steps-down-as-ilt20-ceo-after-three-year-stint/articleshow/133729865.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133730035,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T08:10:40Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-    "description": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
-    "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-02T184430Z_116037912_RC23BNASDV7N_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-SIRIK-1788419182.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-03T07:41:45Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "The Times of India",
-    "title": "11 coaches in 5 years, 7 players out mid-series: Why Pakistan Cricket keeps hitting reset button",
-    "description": "Pakistan cricket has initiated another significant overhaul in its team management. Mike Hesson now leads the Test side after Sarfaraz Ahmed's removal following a series loss. Seven players were released from the Test squad, and new replacements were named. T…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/11-coaches-in-5-years-7-players-out-mid-series-why-pakistan-cricket-keeps-hitting-reset-button/articleshow/133727939.cms",
-    "image": "https://img.etimg.com/thumb/msid-133728402,width-1200,height-630,imgsize-73544,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-03T07:02:35Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup: Nepal defeat Malaysia by six wickets",
-    "description": "KATHMANDU: Nepal recorded their second consecutive victory in the ACC Premier Cup ODI tournament, defeating hosts Malaysia by six wickets on Thursday. After winning the toss and opting to field first, Nepal bowled Malaysia out for 103 runs in 32.3 overs. Nepa…",
-    "url": "https://english.khabarhub.com/2026/03/566274/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
-    "publishedAt": "2026-09-03T06:42:53Z",
-    "author": "Khabarhub"
+    "title": "IND vs HK, Women's Asia Cup 2026: Harmanpreet’s side look to strengthen semi-final hopes",
+    "description": "IND-W vs HK-W Live Score: India will look to take another step towards the semi-finals of the Women’s T20 Asia Cup 2026 when they face Hong Kong in t",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-women-vs-hong-kong-women-asia-cup-2026-live-score-ind-w-vs-hk-w-cricket-match-today-scorecard-when-and-where-to-watch-records-news-harmanpreet-kaur-natasha-miles/liveblog/133737827.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133737827,width-1280,height-720,imgsize-1042949,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T13:26:09Z",
+    "author": "The Times Of India"
   },
   {
     "source": "Cricketnews.com",
-    "title": "‘Is this from the Pakistani willow?’ ‘It’s never hit a ball’: Cricket fans roast Babar Azam after he gifts signed bat to King Charles",
-    "description": "Babar Azam faced a barrage of online mockery after gifting a signed bat to King Charles.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistani-cricket-fans-roast-babar-azam-gifts-signed-bat-king-charles/ed150b6e9aef17f2a6bde948",
-    "image": "https://s.yimg.com/lo/mysterio/api/8734fb3105042f31fd0c8340432e8ee649e333322eeba7c2c53c1dfe99b18b79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff771e783b0788612afb47d3d3daa7475",
-    "publishedAt": "2026-09-03T06:24:10Z",
-    "author": "Anselm Noronha"
+    "title": "'Don't give fodder to the speculators': BCCI secretary Devajit Saikia confirms Rohit Sharma is in contention for 2027 ODI World Cup",
+    "description": "BCCI secretary Devajit Saikia confirmed Rohit Sharma remains in contention for the 2027 ODI World Cup after his stellar form.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bcci-devajit-saikia-confirms-rohit-sharma-contention-2027-odi-world-cup/24c0c62b66f9fb1df4b1981e",
+    "image": "https://s.yimg.com/lo/mysterio/api/bcf6f13c2bb84d5dbaf7b4dbe01929a72131e04f0eab0b89e0de3069c2e46bd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F11759408dba90c82c0be92ad7bb17dd4",
+    "publishedAt": "2026-09-03T13:17:31Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘What more do you want?’: BCCI secretary Devajit Saikia’s blunt message on Rohit Sharma amid 2027 World Cup speculation",
+    "description": "BCCI secretary Devajit Saikia defended Rohit Sharma's continued high-level performance in ODIs. He questioned the ongoing speculation regarding the veteran player's future in the team. Sharma himself has previously stated that external noise does not signific…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-more-do-you-want-bcci-secretary-devajit-saikias-blunt-message-on-rohit-sharma-amid-2027-world-cup-speculation/articleshow/133737318.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133737446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T13:07:05Z",
+    "author": "Hijam Raju Singh"
   },
   {
     "source": "Dailymail.com",
-    "title": "Grace Hayden reveals brutal text messages from cricket legend dad Matthew Hayden after her TV appearances as she hits back at nepotism claims: THE DEBRIEF",
-    "description": "Grace Hayden, 24, has revealed her father Matthew doesn't hesitate to deliver a brutal reality check after watching her on screen, regularly firing off blunt text messages dissecting her deliveries",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16097919/grace-hayden-matthew-hayden-messages-sports-presenter.html",
-    "image": "https://i.dailymail.com/1s/2026/09/03/01/111014831-0-image-m-5_1788396174340.jpg",
-    "publishedAt": "2026-09-03T06:05:18Z",
-    "author": "Savanna Young"
+    "title": "King Charles shares personal fears about Iran war as he meets Pakistani diplomat who is leading negotiations at Clarence House",
+    "description": "The monarch, 77, met the Pakistan cricket team at Clarence House , and the delegation included the man leading negotiations between Washington and Tehran.",
+    "url": "https://www.dailymail.com/news/article-16101367/King-Charles-shares-personal-fears-Iran-war-meets-Pakistani-diplomat-leading-negotiations-Clarence-House.html",
+    "image": "https://i.dailymail.com/1s/2026/09/03/10/111020003-0-image-m-17_1788427354676.jpg",
+    "publishedAt": "2026-09-03T13:03:45Z",
+    "author": "Martin Robinson"
   },
   {
-    "source": "WSPA 7News",
-    "title": "Scott has big night in ‘Burgers win",
-    "description": "SPARTANBURG, S.C. — With just a one-run lead heading to the fifth, the Spartanburgers exploded for a 12-batter and seven-run inning. Hub City (24-38, 58-70) cruised past Jersey Shore (20-41, 46-80) to an 11-4 win. A.J. Russell got the game off to a rip-roarin…",
-    "url": "https://www.wspa.com/sports/scott-has-big-night-in-burgers-win/",
-    "image": "https://s.yimg.com/lo/mysterio/api/776e0b081d5cf9e9f5c28ab230f4d73b883adff37cd2b03aaab6a2c9187f4d5d/lightyear_networkapi/resizefill_w900_h599%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwspa_spartanburg_articles_284%2F162def87c44e1bfa1803388bed142e06.jpg",
-    "publishedAt": "2026-09-03T05:27:07Z",
-    "author": "WSPA Spartanburg"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India set to host ICC Women’s Champions Trophy 2027",
-    "description": "Cricket News: MUMBAI: India’s growing grip on global white-ball cricket strengthened further on Wednesday after ICC awarded hosting rights for the inaugural Women’s.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-set-to-host-icc-womens-champions-trophy-2027/articleshow/133725966.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133726020,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T05:18:16Z",
-    "author": "Gaurav Gupta"
+    "source": "Biztoc.com",
+    "title": "Imran Khan's sons say their father's health is declining in poor prison conditions | 7.30",
+    "description": "Supporters of legendary cricketer and former Pakistani prime minister Imran Khan say his health is failing as he languishes in ...",
+    "url": "https://biztoc.com/x/1d69b998876a3517",
+    "image": "https://biztoc.com/cdn/1d69b998876a3517_s.webp",
+    "publishedAt": "2026-09-03T12:58:29Z",
+    "author": "youtube.com"
   },
   {
     "source": "Cricketnews.com",
-    "title": "Mohsin Naqvi hits back at critics amid Pakistan turmoil, tells them to check ICC rankings and brings up India's Ireland loss",
-    "description": "PCB chief Mohsin Naqvi defended Pakistan's progress, citing improved ICC rankings and India's loss to Ireland.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mohsin-naqvi-hits-back-critics-pakistan-turmoil-icc-rankings/2719c714e2c808e281209112",
-    "image": "https://s.yimg.com/lo/mysterio/api/c129abb084458c952a73d0ad1ee22a72a2543327fdb9a8f4aae5e8b81951193d/lightyear_networkapi/resizefill_w606_h341%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2b1b8c6ac4db675946f83ea9bd027bec",
-    "publishedAt": "2026-09-03T04:43:45Z",
-    "author": "Anselm Noronha"
+    "title": "Mohsin Naqvi's tenure as PCB Chairman analysed: How has Pakistan cricket performed under his leadership?",
+    "description": "Mohsin Naqvi's tenure analysed: Find out how Pakistan performed under the PCB chief.",
+    "url": "https://www.cricketnews.com/en/cricket/news/mohsin-naqvi-tenure-pcb-chairman-analysed-pakistan-cricket-performed/b0334e549cea3084ee030730",
+    "image": "https://s.yimg.com/lo/mysterio/api/18950742d7163e86e725474fe596085f9f85deb30f706884db1d393e1f4da917/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F87278234fc83d01311b2177e4e641a9c",
+    "publishedAt": "2026-09-03T12:58:21Z",
+    "author": "Soham Mukherjee"
   },
   {
     "source": "The Times of India",
-    "title": "Babar Azam presents signed Pakistan team bat to King Charles III amid England tour turmoil",
-    "description": "Babar, along with the Pakistan squad and Pakistan Cricket Board (PCB) chairman Mohsin Naqvi, visited Clarence House on September 2. During the meeting, Babar handed the King a bat signed by all the players as a gesture of goodwill and sportsmanship.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-presents-signed-pakistan-team-bat-to-king-charles-amid-england-tour-turmoil/articleshow/133724951.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133725109,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T04:32:41Z",
-    "author": "Shubhanshu Dwivedi"
+    "title": "‘India lost to Ireland. Has cricket ended?’: Mohsin Naqvi hits back at critics, defends Pakistan cricket shake-up",
+    "description": "Mohsin Naqvi, chairman of the Pakistan Cricket Board, stood firm regarding the team's latest performances and selection adjustments. He questioned whether a handful of defeats should spell the end of cricket in Pakistan. Noting other teams' challenges, he hig…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-lost-to-ireland-has-cricket-ended-mohsin-naqvi-hits-back-at-critics-defends-pakistan-cricket-shake-up/articleshow/133736277.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133736333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T12:28:26Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Gautam Gambhir or VVS Laxman: Who will be head coach of India T20I team in Asian Games 2026?",
+    "description": "Gautam Gambhir or VVS Laxman? The BCCI has confirmed VVS Laxman will coach India's T20I squad at the Asian Games 2026 as Gambhir stays back for West Indies ODIs.",
+    "url": "https://www.cricketnews.com/en/cricket/news/gautam-gambhir-vvs-laxman-head-coach-india-t20i-asian-games-2026/86754b555096333058b3bfce",
+    "image": "https://s.yimg.com/lo/mysterio/api/5fb2b25032df5c8f9eb2fd16c919011f36c4b36d1065cb0f9d0e8120afb52df7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F95ae9b8eaf2aaf3dca3bc88cf4f171c7",
+    "publishedAt": "2026-09-03T11:20:03Z",
+    "author": "Soham Mukherjee"
   },
   {
     "source": "The Times of India",
-    "title": "‘We are not sending legends as replacements’: Former Pakistan batter Mohammad Yousuf lambasts PCB amid ongoing chaos",
-    "description": "Former Pakistan batter Mohammad Yousuf has criticised the major changes made during the England Test tour, saying they reflect the instability that has long troubled Pakistan cricket. He questioned whether the decisions were purely performance-based after sev…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-are-not-sending-legends-as-replacements-former-pakistan-batter-mohammad-yousuf-lambasts-pcb-amid-ongoing-chaos/articleshow/133723538.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133724839,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T04:03:56Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Current cricket schedule could hurt women's game, says Perry",
-    "description": "Australia's women no longer play elite cricket in school-holiday windows under the current schedule: something Ellyse Perry believes needs to change.",
-    "url": "https://www.abc.net.au/news/2026-09-03/ellyse-perry-cricket-schedule-issues/107110792",
-    "image": "https://live-production.wcms.abc-cdn.net.au/04e061616841086decc70065cb34c61d?impolicy=wcms_watermark_news&cropH=2041&cropW=3628&xPos=0&yPos=264&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-03T01:58:58Z",
-    "author": null
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup: Nepal to face Malaysia today",
-    "description": "KATHMANDU: Nepal will take on hosts Malaysia today in their second match of the third edition of the Asian Cricket Council (ACC) Premier Cup. Nepal made a winning start to the tournament, which began in Malaysia on Sunday, defeating Bahrain by seven wickets i…",
-    "url": "https://english.khabarhub.com/2026/03/566237/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Cricket-Nepali.png",
-    "publishedAt": "2026-09-03T01:22:01Z",
-    "author": "Khabarhub"
+    "title": "VVS Laxman to step in as Team India head coach for Asian Games 2026 in Gautam Gambhir’s absence",
+    "description": "VVS Laxman will coach the Indian men's cricket team at the 2026 Asian Games. Gautam Gambhir will remain with the senior team for the West Indies ODI series. The Indian men's team will defend its T20 title under Shreyas Iyer. Harmanpreet Kaur will lead the def…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vvs-laxman-to-step-in-as-team-india-head-coach-for-asian-games-2026-in-gautam-gambhirs-absence/articleshow/133733461.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133733681,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T10:54:49Z",
+    "author": "Nitesh Dubey"
   },
   {
     "source": "The Times of India",
-    "title": "'Look at what the rankings were before': PCB chief Mohsin Naqvi hits back at critics amid Pakistan cricket turmoil",
-    "description": "Pakistan Cricket Board Chairman Mohsin Naqvi defended sweeping Test squad and coaching changes after Pakistan’s heavy 2-0 series loss to England. Seven players were dropped and five uncapped players added, while Mike Hesson and Ashley Noffke took coaching rol…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/look-at-what-the-rankings-were-before-pcb-chief-mohsin-naqvi-hits-back-at-critics-amid-pakistan-cricket-turmoil/articleshow/133722810.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133722868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T01:06:09Z",
-    "author": "Jyotirmoy Halder"
+    "title": "VVS Laxman to coach Team India in Asian Games 2026",
+    "description": "VVS Laxman will lead the Indian men's cricket team at the upcoming Asian Games 2026.  He previously coached the team to a gold medal victory in China.  Regular coach Gautam Gambhir will be with the senior team for a home series.  The women's team, led by Harm…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/vvs-laxman-to-coach-team-india-in-asian-games-2026/articleshow/133732956.cms",
+    "image": "https://img.etimg.com/thumb/msid-133732955,width-1200,height-630,imgsize-52144,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-03T10:20:22Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "What to know about a reported US airstrike that hit a wedding in Iran - AP News",
+    "description": "What to know about a reported US airstrike that hit a wedding in IranAP News Iran war escalation raises concern over civilian death tollReuters Iran Red Crescent urges ICC probe into deadly US strike on wedding partyaljazeera.com U.S. and Iran Survey the Dama…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185398644",
+    "image": null,
+    "publishedAt": "2026-09-03T10:12:58Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "English cricketer runs 100km from Lord’s Cricket Ground in unique Guinness World record attempt",
+    "description": "Sam Bodoano undertook an impressive 100km challenge, running from Lord's Cricket Ground to Valley End Cricket Club in his full cricket whites, a cricket ball in hand. The event concluded with him bowling the first ball of a match to his father. His effort gar…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricketer-runs-100km-from-lords-cricket-ground-in-unique-guinness-world-record-attempt/articleshow/133732086.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133732448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T09:59:18Z",
+    "author": "Nitesh Dubey"
   }
 ]
 ;
