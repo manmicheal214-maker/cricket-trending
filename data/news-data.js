@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "What happened in the BCCI review meeting? Everything that was discussed in Mumbai",
+    "description": "What happened in the BCCI review meeting? Inside Mumbai talks with Gautam Gambhir, Shubman Gill, and Devajit Saikia on Rohit, injuries, and the 2027 World Cu...",
+    "url": "https://www.cricketnews.com/en/cricket/news/what-happened-bcci-review-meeting-everything-discussed-mumbai/674309e31927935769ced4df",
+    "image": "https://s.yimg.com/lo/mysterio/api/ea832e1f8eb71f4fe3a07e5a42a38edf87935f13ed8afa7c6ba4c260033a387e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0dce0a9481a4f526ab22573c753d67af",
+    "publishedAt": "2026-09-03T18:15:06Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Kashmirnewsbureau.com",
+    "title": "Is Local Cricket in Kashmir Being Hijacked? Back-to-Back Finals, Same Players and No Rest Raise Questions",
+    "description": "Srinagar, September 3 (KNB): Kashmir’s expanding local cricket circuit has come under scrutiny over scheduling, player workload and coordination among tournament organisers after Royal Goodwill Cricket Club qualified for two major finals scheduled to be playe…",
+    "url": "https://kashmirnewsbureau.com/is-local-cricket-in-kashmir-being-hijacked-back-to-back-finals-same-players-and-no-rest-raise-questions/",
+    "image": "https://kashmirnewsbureau.com/wp-content/uploads/2026/09/Royal-Premier-League-Pulwama-2026-1-696x392-1.jpg",
+    "publishedAt": "2026-09-03T17:23:43Z",
+    "author": "Online Editor"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana scripts history, surpasses Mithali Raj to become highest run-scorer in women’s cricket",
+    "description": "Smriti Mandhana has made history as the highest run-scorer in women's international cricket, breaking Mithali Raj's enduring record during the Asia Cup. Her extraordinary performance included a remarkable 124 runs off just 64 balls, establishing new benchmark…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/smriti-mandhana-scripts-history-surpasses-mithali-raj-to-become-highest-run-scorer-in-womens-cricket/articleshow/133742480.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133742661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T17:22:17Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Hampshire knew signing Scott Kuggeleijn was wrong, and did it anyway – Sonia Twigg",
+    "description": "OPINION: The Black Caps bowler was sacked by Hampshire after feedback from staff and fans.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/hampshire-knew-signing-scott-kuggeleijn-was-wrong-and-did-it-anyway-opinion/premium/46LNDGV7F5B5XCH4PEVG3AEH7A/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/2TWTKOHQ7ZAEZE67JRYSXAXPJ4.JPG?auth=5184a036e9c257b9d6210cebf556bc867a4489499f4be33bbb4d8b09ac55cf2b&width=1200&height=675&quality=70&focal=1769%2C770&smart=false",
+    "publishedAt": "2026-09-03T17:15:00Z",
+    "author": "Sonia Twigg"
+  },
+  {
+    "source": "Business Standard",
+    "title": "The hidden complexities of daily life",
+    "description": "From stories about Indian cricket to undersea cables that bring us the internet, a collection of essays uncovers the hidden systems and unseen connections that shape our interconnected lives",
+    "url": "https://www.business-standard.com/book/the-hidden-complexities-of-daily-life-126090301664_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/03/thumb/fitandfill/1200X628/1788455507-6127.jpg",
+    "publishedAt": "2026-09-03T17:12:43Z",
+    "author": "Neha Kirpal"
+  },
+  {
+    "source": "The Times of India",
+    "title": "He started playing at three-and-a-half; two decades later, reached the highest-ever T20I rating: How Abhishek Sharma conquered the fastest format",
+    "description": "Abhishek Sharma has reached unprecedented heights in the ICC T20I realm, obtaining the highest batting rating ever recorded. After impressing in domestic cricket, he secured a regular place on the Indian team. Under the guidance of Yuvraj Singh, his dynamic b…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-started-playing-at-three-and-a-half-two-decades-later-reached-the-highest-ever-t20i-rating-how-abhishek-sharma-conquered-the-fastest-format/articleshow/133741417.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133741643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T16:56:02Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI’s big plan for Vaibhav Sooryavanshi: ‘Serve like Sachin Tendulkar, not be a one-year wonder’",
+    "description": "The BCCI is diligently tracking 15-year-old Vaibhav Sooryavanshi's development in cricket. With his remarkable debut as India's youngest men's international player following an explosive IPL performance, the board aims to capitalise on his promise for a susta…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bccis-big-plan-for-vaibhav-sooryavanshi-serve-like-sachin-tendulkar-not-be-a-one-year-wonder/articleshow/133741692.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133741906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T16:52:38Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Smriti Mandhana breaks records during Women's Asia Cup 2026: Indian batter tops charts for most runs, most centuries",
+    "description": "Smriti Mandhana hit 124 vs Hong Kong in the Women's Asia Cup 2026, surpassing Mithali Raj for most runs and Meg Lanning for most international centuries.",
+    "url": "https://www.sportingnews.com/in/cricket/news/smriti-mandhana-records-womens-asia-cup-2026-indian-most-runs-most-centuries/05ee8e0e241bbb2696056283",
+    "image": "https://s.yimg.com/lo/mysterio/api/4dd7f9196a895e05e162f723c3c8a73d0b3f2fc10d75531ee61ef7af55c760ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Ffb2fc9b9818fb3c59871f470a4f6cbe1",
+    "publishedAt": "2026-09-03T16:47:18Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana creates history, surpasses Meg Lanning to become leading century-maker in women's cricket",
+    "description": "In an exhilarating display of skill, Smriti Mandhana shattered records by scoring her 18th international century, amassing 124 runs in just 64 balls. Her explosive knock led India to a formidable total of 193 runs. Shafali Verma played a vital role at the sta…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/smriti-mandhana-creates-history-surpasses-meg-lanning-to-become-leading-century-maker-in-womens-cricket/articleshow/133740969.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133741022,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T16:11:41Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI breaks silence on Asian Games concerns, promises ‘best facilities’ for Team India",
+    "description": "The BCCI has responded to worries surrounding the accommodation for Indian cricket teams during the Asian Games, with secretary Devajit Saikia assuring that there are no pressing concerns. The board is dedicated to delivering high-quality amenities for both p…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-breaks-silence-on-asian-games-concerns-saikia-promises-best-facilities-for-india-cricketers/articleshow/133740343.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133740477,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T15:39:16Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Wong takes first ODI five-wicket haul for England",
+    "description": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derby.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c86xj331nexo",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e595/live/189e6a30-a7aa-11f1-aed2-8d6da8d75094.jpg",
+    "publishedAt": "2026-09-03T15:15:36Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "End of Ajit Agarkar era? BCCI looking for new chief selector for Indian cricket team - Report",
+    "description": "BCCI could remove Ajit Agarkar as the chief selector of the Indian cricket team.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ajit-agarkar-bcci-new-chief-selector-indian-cricket-team/9c6be0871d62c2dc019d98ca",
+    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
+    "publishedAt": "2026-09-03T14:44:42Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI meeting decoded: Devajit Saikia reveals big plans for injuries, SENA tours and 2027 World Cup",
+    "description": "The BCCI is set to enhance its overseas performance strategy while tackling player injuries. They aim to craft a robust plan in preparation for the 2027 ODI World Cup, which will require adjustments in the Future Tours Programme to prioritise player rest. Rec…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-meeting-decoded-devajit-saikia-reveals-big-plans-for-injuries-sena-tours-and-2027-world-cup/articleshow/133739160.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133739258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-03T14:37:03Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
     "source": "Sporting News",
     "title": "India player injuries on the rise: BCCI says they 'will ensure proper rest in next FTP'",
     "description": "India player injuries on the rise: BCCI Secretary Devajit Saikia confirmed the board will overhaul scheduling in the next FTP to ensure proper rest and warm-ups.",
@@ -70,60 +187,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/18950742d7163e86e725474fe596085f9f85deb30f706884db1d393e1f4da917/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F87278234fc83d01311b2177e4e641a9c",
     "publishedAt": "2026-09-03T12:58:21Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘India lost to Ireland. Has cricket ended?’: Mohsin Naqvi hits back at critics, defends Pakistan cricket shake-up",
-    "description": "Mohsin Naqvi, chairman of the Pakistan Cricket Board, stood firm regarding the team's latest performances and selection adjustments. He questioned whether a handful of defeats should spell the end of cricket in Pakistan. Noting other teams' challenges, he hig…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-lost-to-ireland-has-cricket-ended-mohsin-naqvi-hits-back-at-critics-defends-pakistan-cricket-shake-up/articleshow/133736277.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133736333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T12:28:26Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Gautam Gambhir or VVS Laxman: Who will be head coach of India T20I team in Asian Games 2026?",
-    "description": "Gautam Gambhir or VVS Laxman? The BCCI has confirmed VVS Laxman will coach India's T20I squad at the Asian Games 2026 as Gambhir stays back for West Indies ODIs.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gautam-gambhir-vvs-laxman-head-coach-india-t20i-asian-games-2026/86754b555096333058b3bfce",
-    "image": "https://s.yimg.com/lo/mysterio/api/5fb2b25032df5c8f9eb2fd16c919011f36c4b36d1065cb0f9d0e8120afb52df7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F95ae9b8eaf2aaf3dca3bc88cf4f171c7",
-    "publishedAt": "2026-09-03T11:20:03Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "VVS Laxman to step in as Team India head coach for Asian Games 2026 in Gautam Gambhir’s absence",
-    "description": "VVS Laxman will coach the Indian men's cricket team at the 2026 Asian Games. Gautam Gambhir will remain with the senior team for the West Indies ODI series. The Indian men's team will defend its T20 title under Shreyas Iyer. Harmanpreet Kaur will lead the def…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vvs-laxman-to-step-in-as-team-india-head-coach-for-asian-games-2026-in-gautam-gambhirs-absence/articleshow/133733461.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133733681,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T10:54:49Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "VVS Laxman to coach Team India in Asian Games 2026",
-    "description": "VVS Laxman will lead the Indian men's cricket team at the upcoming Asian Games 2026.  He previously coached the team to a gold medal victory in China.  Regular coach Gautam Gambhir will be with the senior team for a home series.  The women's team, led by Harm…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/vvs-laxman-to-coach-team-india-in-asian-games-2026/articleshow/133732956.cms",
-    "image": "https://img.etimg.com/thumb/msid-133732955,width-1200,height-630,imgsize-52144,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-03T10:20:22Z",
-    "author": "ANI"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "What to know about a reported US airstrike that hit a wedding in Iran - AP News",
-    "description": "What to know about a reported US airstrike that hit a wedding in IranAP News Iran war escalation raises concern over civilian death tollReuters Iran Red Crescent urges ICC probe into deadly US strike on wedding partyaljazeera.com U.S. and Iran Survey the Dama…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185398644",
-    "image": null,
-    "publishedAt": "2026-09-03T10:12:58Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "English cricketer runs 100km from Lord’s Cricket Ground in unique Guinness World record attempt",
-    "description": "Sam Bodoano undertook an impressive 100km challenge, running from Lord's Cricket Ground to Valley End Cricket Club in his full cricket whites, a cricket ball in hand. The event concluded with him bowling the first ball of a match to his father. His effort gar…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricketer-runs-100km-from-lords-cricket-ground-in-unique-guinness-world-record-attempt/articleshow/133732086.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133732448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T09:59:18Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
