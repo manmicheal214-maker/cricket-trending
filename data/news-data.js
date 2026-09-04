@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Imran Khan's sons say former PM's health declining in prison",
+    "description": "Imran Khan went from swashbuckling cricketer to Pakistan PM and then political prisoner. His sons now hold grave fears for their father's health.",
+    "url": "https://www.abc.net.au/news/2026-09-04/imran-khans-sons-fear-for-their-fathers-life-in-prison/107111018",
+    "image": "https://live-production.wcms.abc-cdn.net.au/6a1b2d71c2c3ea0d5173cc91a9ae1adb?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=266&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-03T21:14:22Z",
+    "author": "Adam Harvey"
+  },
+  {
+    "source": "Daytona Beach News-Journal",
+    "title": "Father Lopez bowler rolls perfect 300 vs. Spruce Creek",
+    "description": "Just a week after Nathan Tillis did it for University, Father Lopez bowler Christopher O'Neill recorded a perfect game.",
+    "url": "https://www.news-journalonline.com/story/sports/high-school/bowling/2026/09/03/fhsaa-bowling-father-lopez-chris-oneill-300-game/91598117007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/6eeae315b87285ed631defb3380b172a5e3b4077db8f35fcf586d2ab5d572520/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2Fca0bc01d98430fd17d7a7c98d7cda1cb.jpg",
+    "publishedAt": "2026-09-03T20:16:36Z",
+    "author": "Chris Vinel, Daytona Beach News-Journal"
+  },
+  {
+    "source": "The Punch",
+    "title": "ICC dismisses anonymous petition against Nigeria",
+    "description": "The International Criminal Court has dismissed an anonymous petition seeking an investigation into alleged systemic kidnappings in Nigeria as crimes against humanity. The petition, titled, “Formal Communication Requesting Investigation into Systemic Kidnappin…",
+    "url": "https://punchng.com/icc-dismisses-anonymous-petition-against-nigeria/",
+    "image": "https://punchng.com/wp-content/uploads/2026/08/International-Criminal-Court-1062x598_1786134440.webp",
+    "publishedAt": "2026-09-03T19:38:16Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Irish Times",
+    "title": "Ireland fall to rampant Issy Wong as England secure ODI series win",
+    "description": "Seamer’s five for 33 sets up win with 27 overs to spare, and series sealed with a match still to play",
+    "url": "https://www.irishtimes.com/sport/2026/09/03/ireland-fall-to-rampant-issy-wong-as-england-secure-odi-series-win/",
+    "image": "https://www.irishtimes.com/resizer/v2/AK6Z6EA25BENDIYNRQTT7ZLT3A.jpg?smart=true&auth=2b8b9e30c285f61a869400a4b01eed5d29a5970b1833c975378e723481b95fd3&width=1200&height=630",
+    "publishedAt": "2026-09-03T19:02:56Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bookies beat bizman over unpaid cricket bet",
+    "description": "Nagpur cloth trader assaulted over Rs50,000 unpaid cricket bet; bookie and brother arrested as police probe betting transactions and file multiple charges.",
+    "url": "https://timesofindia.indiatimes.com/city/nagpur/bookies-beat-bizman-over-unpaid-cricket-bet/articleshow/133744590.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-03T18:33:01Z",
+    "author": "Soumitra Bose"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "What happened in the BCCI review meeting? Everything that was discussed in Mumbai",
     "description": "What happened in the BCCI review meeting? Inside Mumbai talks with Gautam Gambhir, Shubman Gill, and Devajit Saikia on Rohit, injuries, and the 2027 World Cu...",
@@ -142,51 +187,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133737827,width-1280,height-720,imgsize-1042949,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-03T13:26:09Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Don't give fodder to the speculators': BCCI secretary Devajit Saikia confirms Rohit Sharma is in contention for 2027 ODI World Cup",
-    "description": "BCCI secretary Devajit Saikia confirmed Rohit Sharma remains in contention for the 2027 ODI World Cup after his stellar form.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bcci-devajit-saikia-confirms-rohit-sharma-contention-2027-odi-world-cup/24c0c62b66f9fb1df4b1981e",
-    "image": "https://s.yimg.com/lo/mysterio/api/bcf6f13c2bb84d5dbaf7b4dbe01929a72131e04f0eab0b89e0de3069c2e46bd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F11759408dba90c82c0be92ad7bb17dd4",
-    "publishedAt": "2026-09-03T13:17:31Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘What more do you want?’: BCCI secretary Devajit Saikia’s blunt message on Rohit Sharma amid 2027 World Cup speculation",
-    "description": "BCCI secretary Devajit Saikia defended Rohit Sharma's continued high-level performance in ODIs. He questioned the ongoing speculation regarding the veteran player's future in the team. Sharma himself has previously stated that external noise does not signific…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-more-do-you-want-bcci-secretary-devajit-saikias-blunt-message-on-rohit-sharma-amid-2027-world-cup-speculation/articleshow/133737318.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133737446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T13:07:05Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "King Charles shares personal fears about Iran war as he meets Pakistani diplomat who is leading negotiations at Clarence House",
-    "description": "The monarch, 77, met the Pakistan cricket team at Clarence House , and the delegation included the man leading negotiations between Washington and Tehran.",
-    "url": "https://www.dailymail.com/news/article-16101367/King-Charles-shares-personal-fears-Iran-war-meets-Pakistani-diplomat-leading-negotiations-Clarence-House.html",
-    "image": "https://i.dailymail.com/1s/2026/09/03/10/111020003-0-image-m-17_1788427354676.jpg",
-    "publishedAt": "2026-09-03T13:03:45Z",
-    "author": "Martin Robinson"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Imran Khan's sons say their father's health is declining in poor prison conditions | 7.30",
-    "description": "Supporters of legendary cricketer and former Pakistani prime minister Imran Khan say his health is failing as he languishes in ...",
-    "url": "https://biztoc.com/x/1d69b998876a3517",
-    "image": "https://biztoc.com/cdn/1d69b998876a3517_s.webp",
-    "publishedAt": "2026-09-03T12:58:29Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mohsin Naqvi's tenure as PCB Chairman analysed: How has Pakistan cricket performed under his leadership?",
-    "description": "Mohsin Naqvi's tenure analysed: Find out how Pakistan performed under the PCB chief.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mohsin-naqvi-tenure-pcb-chairman-analysed-pakistan-cricket-performed/b0334e549cea3084ee030730",
-    "image": "https://s.yimg.com/lo/mysterio/api/18950742d7163e86e725474fe596085f9f85deb30f706884db1d393e1f4da917/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F87278234fc83d01311b2177e4e641a9c",
-    "publishedAt": "2026-09-03T12:58:21Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
