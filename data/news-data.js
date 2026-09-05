@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Coach Hesson says Pakistan players are more used to the 'chaos' than he is",
+    "description": "Pakistan interim red-ball cricket coach Mike Hesson believes his players are more used to the “chaos” than him after the Pakistan Cricket Board dropped seven players for next week’s dead rubber against England. “The last couple of days have been challenging f…",
+    "url": "https://sports.yahoo.com/articles/coach-hesson-says-pakistan-players-153754561.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/7a2a5eba6d59b9f79217cfbd41ef9f7e1e0274e5720b11c10084462acabae178/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8c3649a9bc691d95f3daeb55c37ec78b.jpg",
+    "publishedAt": "2026-09-04T15:37:54Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "India Is Yet to Be Transformed: Ajay Piramal and Rajiv Kumar Engage with ICC Young Leaders Forum at ICC Centenary Book Launch",
+    "description": "India Is Yet to Be Transformed: Ajay Piramal and Rajiv Kumar Engage with ICC Young Leaders Forum at ICC Centenary Book Launch",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/india-is-yet-to-be-transformed-ajay-piramal-and-rajiv-kumar-engage-with-icc-young-leaders-forum-at-icc-centenary-book-launch/article71428450.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/c6wkcf/article71428449.ece/alternates/LANDSCAPE_1200/Image-1.jpg",
+    "publishedAt": "2026-09-04T13:00:19Z",
+    "author": "cuelive"
+  },
+  {
     "source": "Sporting News",
     "title": "Asian Games 2026: India cricket schedule, squads for men's & women's tournament at Aichi-Nagoya",
     "description": "Get all the details about India's men's and women's cricket squads and schedule for Aichi-Nagoya.",
@@ -133,141 +151,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133755723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-04T08:22:29Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Opiniojuris.org",
-    "title": "Governance as Legitimacy: A Further Reflection on the Removal of the ICC Prosecutor (Part II)",
-    "description": "[Ezequiel Jimenez Martinez is an Adjunct Professor at the Pompeu Fabra Law Faculty, and a Senior Fellow at the Center for International Law Research and Policy. He is the author of Governing the International Criminal Court: the History and Practice of the As…",
-    "url": "http://opiniojuris.org/2026/09/04/governance-as-legitimacy-a-further-reflection-on-the-removal-of-the-icc-prosecutor-part-ii/",
-    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/anking_international_criminal_court_in_watercolour_af312c7e-aeab-4516-8203-001a0f86f4ca.png?fit=1024%2C1024",
-    "publishedAt": "2026-09-04T08:01:39Z",
-    "author": "Ezequiel Jimenez Martinez"
-  },
-  {
-    "source": "Opiniojuris.org",
-    "title": "Governance as Legitimacy: A Further Reflection on the Removal of the ICC Prosecutor (Part I)",
-    "description": "[Ezequiel Jimenez Martinez is an Adjunct Professor at the Pompeu Fabra Law Faculty, and a Senior Fellow at the Center for International Law Research and Policy. He is the author of Governing the International Criminal Court: the History and Practice of the As…",
-    "url": "http://opiniojuris.org/2026/09/04/governance-as-legitimacy-a-further-reflection-on-the-removal-of-the-icc-prosecutor-part-i/",
-    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/anking_international_criminal_court_in_watercolour_af312c7e-aeab-4516-8203-001a0f86f4ca.png?fit=1024%2C1024",
-    "publishedAt": "2026-09-04T08:00:19Z",
-    "author": "Ezequiel Jimenez Martinez"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "As wildfires and floods batter national parks, a developer says it’s negotiating for a piece of Yosemite",
-    "description": "The National Parks in the past year have been through a reckoning. The Grand Canyon has seen ravaging floods in the past week, sparking search and rescue missions and damaging nearly 40% of its sole water pipeline. The national park also saw wildfires on its …",
-    "url": "https://biztoc.com/x/ffe1708942486347",
-    "image": "https://biztoc.com/cdn/ffe1708942486347_s.webp",
-    "publishedAt": "2026-09-04T07:49:30Z",
-    "author": "fortune.com"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Cricket at Asian Games 2026: Check India's full contingent for Aichi-Nagoya",
-    "description": "India will field full-strength men's and women's squads as they look to defend their cricket gold medals from the 2023 Hangzhou Asian Games",
-    "url": "https://www.business-standard.com/sports/asian-games/cricket-at-asian-games-2026-check-india-s-full-contingent-for-aichi-nagoya-126090400496_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/resize/1200X628/1788092758-9004.jpg",
-    "publishedAt": "2026-09-04T07:40:36Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sanju Samson-Vaibhav Sooryavanshi to open? Ex-India cricketer suggests new opening combination",
-    "description": "In an exciting update, Sanju Samson has been reintegrated into India's T20I squad for the upcoming Afghanistan series. Deep Dasgupta, the former player, has recommended experimenting with a batting partnership of Samson and the talented Vaibhav Sooryavanshi, …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samson-vaibhav-sooryavanshi-to-open-ex-india-cricketer-suggests-new-opening-combination/articleshow/133755571.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133755690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T07:37:12Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Time to appoint Smriti Mandhana as captain of Indian team in all three formats: Diana Edulji",
-    "description": "Cricket News: MUMBAI: Former India captain Diana Edulji feels it's time to appoint vice-captain and superstar batter Smriti Mandhana as captain of the Indian women'.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/time-to-appoint-smriti-mandhana-indian-team-captain-in-all-three-formats-diana-edulji/articleshow/133755508.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133755799,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T07:36:29Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI hands Bengal leg-spinner Rohit Yadav 2-year ban for age fraud, CAB crackdown on 62 cricketers",
-    "description": "The BCCI has banned Bengal leg-spinner Rohit Yadav for two years for allegedly misrepresenting his age. The action comes weeks after he was selected for India’s Under-19 squad for the upcoming Australia series.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-hands-bengal-leg-spinner-rohit-yadav-2-year-ban-for-age-fraud-cab-crackdown-on-62-cricketers/articleshow/133755534.cms",
-    "image": "https://img.etimg.com/thumb/msid-133755651,width-1200,height-630,imgsize-90990,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T07:29:57Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Fortune",
-    "title": "As wildfires and floods batter national parks, a developer says it’s negotiating for a piece of Yosemite",
-    "description": "The national park will trade roughly 700 feet of its land for less than two acres, according to the developer involved.",
-    "url": "https://fortune.com/2026/09/04/trump-administration-yosemite-national-park-private-developer/",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2282647800-e1788470914845.jpg?resize=1200,600",
-    "publishedAt": "2026-09-04T07:00:00Z",
-    "author": "Joshua Hong"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Explained: Why BCCI wants Jasprit Bumrah to play Ranji Trophy or India A match before New Zealand Test series per new report",
-    "description": "While Prince Yadav has recently emerged as the name most likely to replace him, Jasprit Bumrah awaits a practice match even if he recovers.",
-    "url": "https://www.cricketnews.com/en/cricket/news/why-bcci-jasprit-bumrah-play-ranji-trophy-india-new-zealand-test-series/8dfc9d6659e7e774f8361763",
-    "image": "https://s.yimg.com/lo/mysterio/api/47b24f8fa87ad65c21975f46fcbf9006a1c17d7e4bd85900e2f34664e957e5d9/lightyear_networkapi/resizefill_w943_h531%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa1dda78f269e7d0f17a7a2ba79732bb7",
-    "publishedAt": "2026-09-04T06:56:47Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘World laughing at Pakistan?’: Mohsin Naqvi-led PCB slammed for turning team into a ‘laughingstock’",
-    "description": "Nasser Hussain lambasts the Pakistan Cricket Board for its recent overhaul following the Test team's disappointing performance in England. The drastic measures involved sending home seven players and two coaches, leading Hussain to declare that the team's int…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-laughing-at-pakistan-mohsin-naqvi-led-pcb-slammed-for-turning-team-into-a-laughingstock/articleshow/133754169.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133754353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T06:32:29Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Jasprit Bumrah availability update for 2026 Asian Games, Afghanistan T20Is as 'serious prospect' identified as backup: Report",
-    "description": "With Jasprit Bumrah's fitness remaining in uncertainty ahead of the upcoming T20I matches, BCCi might be looking at a replacement to fill his spot .",
-    "url": "https://www.cricketnews.com/en/cricket/news/jasprit-bumrah-availability-update-2026-asian-games-afghanistan-t20is/216fd3ed8b8a2727ed8fba84",
-    "image": "https://s.yimg.com/lo/mysterio/api/47b24f8fa87ad65c21975f46fcbf9006a1c17d7e4bd85900e2f34664e957e5d9/lightyear_networkapi/resizefill_w943_h531%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa1dda78f269e7d0f17a7a2ba79732bb7",
-    "publishedAt": "2026-09-04T06:13:06Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal",
-    "description": "In a recent legal development, former cricketer Yusuf Pathan decided to withdraw his appeal challenging a court's designation of him as an encroacher on government property in Vadodara. His lawyer indicated that they are relying on state government policy for…",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/encroacher-remark-hangs-over-yusuf-pathan-as-former-india-cricketer-turned-politician-withdraws-gujarat-high-court-appeal-over-vadodara-land-dispute-case-explained/articleshow/133752727.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133753133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T05:43:27Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India vs Pakistan women's cricket: Head‑to‑head record, wins, most runs, highest wicket-takers in T20Is & ODIs",
-    "description": "India and Pakistan renew their rivalry in the Women's Asia Cup 2026. Here's their head-to-head record and key T20I and ODI stats.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-pak-women-cricket%E2%80%91%E2%80%91head-record-highest-runs-wicket-t20i-odi/52e10bf65fada8a5d5ec95be",
-    "image": "https://s.yimg.com/lo/mysterio/api/2e35eb72311fd3b32495f23d54b551104467c2734d9a0709ea101c1f0bade0a1/lightyear_networkapi/resizefill_w728_h410%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe1d0c4c448799bd8f1ee33c132a155ba",
-    "publishedAt": "2026-09-04T05:37:58Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "BBC News",
-    "title": "'We are being priced out of watching Test cricket'",
-    "description": "Edgbaston will host the third Test of the best-of-five series between England and Australia next summer.",
-    "url": "https://www.bbc.co.uk/news/articles/ckgw2929kn8o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eebf/live/7f1b96c0-a79b-11f1-a7ad-37a1f7dc081c.jpg",
-    "publishedAt": "2026-09-04T05:26:40Z",
-    "author": "https://www.facebook.com/bbcnews"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Maxx Crosby Trade Buzz Heats Up After Cowboys’ Latest Roster Moves",
-    "description": "The Dallas Cowboys were a front-runner to land Las Vegas Raiders edge-rusher Maxx Crosby this offseason.However, those dreams were dashed when the Baltimore Ravens agreed to acquire the Pro Bowler in early March only to back out of the deal at the last minute…",
-    "url": "https://heavy.com/sports/nfl/dallas-cowboys/cowboys-maxx-crosby-trade-contract-restructure/",
-    "image": "https://s.yimg.com/lo/mysterio/api/e1b97048db13e5a870c1014f77dda0a239e0ea802c6cb23fed499e3aab9b1593/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fd85b0fdd1d3d0a11e8b08c4d8433d03c.jpg",
-    "publishedAt": "2026-09-04T05:14:54Z",
-    "author": "Michael Gallagher"
   }
 ]
 ;
