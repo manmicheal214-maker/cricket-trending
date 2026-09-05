@@ -1,5 +1,194 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "I never imagined to do that: Smriti Mandhana on surpassing Mithali's feat of leading run-scorer",
+    "description": "Smriti Mandhana has become the leading run-scorer in Women's Internationals, surpassing Mithali Raj's record. She also set a new record for the highest individual score in the Women's T20 Asia Cup and now holds the most centuries in women's international cric…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/i-never-imagined-to-do-that-smriti-mandhana-on-surpassing-mithalis-feat-of-leading-run-scorer/articleshow/133754076.cms",
+    "image": "https://img.etimg.com/thumb/msid-133757139,width-1200,height-630,imgsize-224826,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-04T08:34:58Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Too many matches': BCCI admits packed schedule is a challenge, plans better FTP",
+    "description": "Cricket News: The BCCI will look to ensure Indian cricketers get enough rest, time to acclimatise and practice matches before major series in SENA countries, secret.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/too-many-matches-bcci-admits-packed-schedule-is-a-challenge-plans-better-ftp/articleshow/133755179.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133755723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T08:22:29Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Opiniojuris.org",
+    "title": "Governance as Legitimacy: A Further Reflection on the Removal of the ICC Prosecutor (Part II)",
+    "description": "[Ezequiel Jimenez Martinez is an Adjunct Professor at the Pompeu Fabra Law Faculty, and a Senior Fellow at the Center for International Law Research and Policy. He is the author of Governing the International Criminal Court: the History and Practice of the As…",
+    "url": "http://opiniojuris.org/2026/09/04/governance-as-legitimacy-a-further-reflection-on-the-removal-of-the-icc-prosecutor-part-ii/",
+    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/anking_international_criminal_court_in_watercolour_af312c7e-aeab-4516-8203-001a0f86f4ca.png?fit=1024%2C1024",
+    "publishedAt": "2026-09-04T08:01:39Z",
+    "author": "Ezequiel Jimenez Martinez"
+  },
+  {
+    "source": "Opiniojuris.org",
+    "title": "Governance as Legitimacy: A Further Reflection on the Removal of the ICC Prosecutor (Part I)",
+    "description": "[Ezequiel Jimenez Martinez is an Adjunct Professor at the Pompeu Fabra Law Faculty, and a Senior Fellow at the Center for International Law Research and Policy. He is the author of Governing the International Criminal Court: the History and Practice of the As…",
+    "url": "http://opiniojuris.org/2026/09/04/governance-as-legitimacy-a-further-reflection-on-the-removal-of-the-icc-prosecutor-part-i/",
+    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/anking_international_criminal_court_in_watercolour_af312c7e-aeab-4516-8203-001a0f86f4ca.png?fit=1024%2C1024",
+    "publishedAt": "2026-09-04T08:00:19Z",
+    "author": "Ezequiel Jimenez Martinez"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "As wildfires and floods batter national parks, a developer says it’s negotiating for a piece of Yosemite",
+    "description": "The National Parks in the past year have been through a reckoning. The Grand Canyon has seen ravaging floods in the past week, sparking search and rescue missions and damaging nearly 40% of its sole water pipeline. The national park also saw wildfires on its …",
+    "url": "https://biztoc.com/x/ffe1708942486347",
+    "image": "https://biztoc.com/cdn/ffe1708942486347_s.webp",
+    "publishedAt": "2026-09-04T07:49:30Z",
+    "author": "fortune.com"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Cricket at Asian Games 2026: Check India's full contingent for Aichi-Nagoya",
+    "description": "India will field full-strength men's and women's squads as they look to defend their cricket gold medals from the 2023 Hangzhou Asian Games",
+    "url": "https://www.business-standard.com/sports/asian-games/cricket-at-asian-games-2026-check-india-s-full-contingent-for-aichi-nagoya-126090400496_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/30/thumb/resize/1200X628/1788092758-9004.jpg",
+    "publishedAt": "2026-09-04T07:40:36Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sanju Samson-Vaibhav Sooryavanshi to open? Ex-India cricketer suggests new opening combination",
+    "description": "In an exciting update, Sanju Samson has been reintegrated into India's T20I squad for the upcoming Afghanistan series. Deep Dasgupta, the former player, has recommended experimenting with a batting partnership of Samson and the talented Vaibhav Sooryavanshi, …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samson-vaibhav-sooryavanshi-to-open-ex-india-cricketer-suggests-new-opening-combination/articleshow/133755571.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133755690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T07:37:12Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Time to appoint Smriti Mandhana as captain of Indian team in all three formats: Diana Edulji",
+    "description": "Cricket News: MUMBAI: Former India captain Diana Edulji feels it's time to appoint vice-captain and superstar batter Smriti Mandhana as captain of the Indian women'.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/time-to-appoint-smriti-mandhana-indian-team-captain-in-all-three-formats-diana-edulji/articleshow/133755508.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133755799,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T07:36:29Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI hands Bengal leg-spinner Rohit Yadav 2-year ban for age fraud, CAB crackdown on 62 cricketers",
+    "description": "The BCCI has banned Bengal leg-spinner Rohit Yadav for two years for allegedly misrepresenting his age. The action comes weeks after he was selected for India’s Under-19 squad for the upcoming Australia series.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-hands-bengal-leg-spinner-rohit-yadav-2-year-ban-for-age-fraud-cab-crackdown-on-62-cricketers/articleshow/133755534.cms",
+    "image": "https://img.etimg.com/thumb/msid-133755651,width-1200,height-630,imgsize-90990,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-04T07:29:57Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Fortune",
+    "title": "As wildfires and floods batter national parks, a developer says it’s negotiating for a piece of Yosemite",
+    "description": "The national park will trade roughly 700 feet of its land for less than two acres, according to the developer involved.",
+    "url": "https://fortune.com/2026/09/04/trump-administration-yosemite-national-park-private-developer/",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2282647800-e1788470914845.jpg?resize=1200,600",
+    "publishedAt": "2026-09-04T07:00:00Z",
+    "author": "Joshua Hong"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Explained: Why BCCI wants Jasprit Bumrah to play Ranji Trophy or India A match before New Zealand Test series per new report",
+    "description": "While Prince Yadav has recently emerged as the name most likely to replace him, Jasprit Bumrah awaits a practice match even if he recovers.",
+    "url": "https://www.cricketnews.com/en/cricket/news/why-bcci-jasprit-bumrah-play-ranji-trophy-india-new-zealand-test-series/8dfc9d6659e7e774f8361763",
+    "image": "https://s.yimg.com/lo/mysterio/api/47b24f8fa87ad65c21975f46fcbf9006a1c17d7e4bd85900e2f34664e957e5d9/lightyear_networkapi/resizefill_w943_h531%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa1dda78f269e7d0f17a7a2ba79732bb7",
+    "publishedAt": "2026-09-04T06:56:47Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘World laughing at Pakistan?’: Mohsin Naqvi-led PCB slammed for turning team into a ‘laughingstock’",
+    "description": "Nasser Hussain lambasts the Pakistan Cricket Board for its recent overhaul following the Test team's disappointing performance in England. The drastic measures involved sending home seven players and two coaches, leading Hussain to declare that the team's int…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-laughing-at-pakistan-mohsin-naqvi-led-pcb-slammed-for-turning-team-into-a-laughingstock/articleshow/133754169.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133754353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T06:32:29Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Jasprit Bumrah availability update for 2026 Asian Games, Afghanistan T20Is as 'serious prospect' identified as backup: Report",
+    "description": "With Jasprit Bumrah's fitness remaining in uncertainty ahead of the upcoming T20I matches, BCCi might be looking at a replacement to fill his spot .",
+    "url": "https://www.cricketnews.com/en/cricket/news/jasprit-bumrah-availability-update-2026-asian-games-afghanistan-t20is/216fd3ed8b8a2727ed8fba84",
+    "image": "https://s.yimg.com/lo/mysterio/api/47b24f8fa87ad65c21975f46fcbf9006a1c17d7e4bd85900e2f34664e957e5d9/lightyear_networkapi/resizefill_w943_h531%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa1dda78f269e7d0f17a7a2ba79732bb7",
+    "publishedAt": "2026-09-04T06:13:06Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal",
+    "description": "In a recent legal development, former cricketer Yusuf Pathan decided to withdraw his appeal challenging a court's designation of him as an encroacher on government property in Vadodara. His lawyer indicated that they are relying on state government policy for…",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/encroacher-remark-hangs-over-yusuf-pathan-as-former-india-cricketer-turned-politician-withdraws-gujarat-high-court-appeal-over-vadodara-land-dispute-case-explained/articleshow/133752727.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133753133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T05:43:27Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Pakistan women's cricket: Head‑to‑head record, wins, most runs, highest wicket-takers in T20Is & ODIs",
+    "description": "India and Pakistan renew their rivalry in the Women's Asia Cup 2026. Here's their head-to-head record and key T20I and ODI stats.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-pak-women-cricket%E2%80%91%E2%80%91head-record-highest-runs-wicket-t20i-odi/52e10bf65fada8a5d5ec95be",
+    "image": "https://s.yimg.com/lo/mysterio/api/2e35eb72311fd3b32495f23d54b551104467c2734d9a0709ea101c1f0bade0a1/lightyear_networkapi/resizefill_w728_h410%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe1d0c4c448799bd8f1ee33c132a155ba",
+    "publishedAt": "2026-09-04T05:37:58Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "BBC News",
+    "title": "'We are being priced out of watching Test cricket'",
+    "description": "Edgbaston will host the third Test of the best-of-five series between England and Australia next summer.",
+    "url": "https://www.bbc.co.uk/news/articles/ckgw2929kn8o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eebf/live/7f1b96c0-a79b-11f1-a7ad-37a1f7dc081c.jpg",
+    "publishedAt": "2026-09-04T05:26:40Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Maxx Crosby Trade Buzz Heats Up After Cowboys’ Latest Roster Moves",
+    "description": "The Dallas Cowboys were a front-runner to land Las Vegas Raiders edge-rusher Maxx Crosby this offseason.However, those dreams were dashed when the Baltimore Ravens agreed to acquire the Pro Bowler in early March only to back out of the deal at the last minute…",
+    "url": "https://heavy.com/sports/nfl/dallas-cowboys/cowboys-maxx-crosby-trade-contract-restructure/",
+    "image": "https://s.yimg.com/lo/mysterio/api/e1b97048db13e5a870c1014f77dda0a239e0ea802c6cb23fed499e3aab9b1593/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fd85b0fdd1d3d0a11e8b08c4d8433d03c.jpg",
+    "publishedAt": "2026-09-04T05:14:54Z",
+    "author": "Michael Gallagher"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Pakistan Women’s Asia Cup 2026: Match date, time, venue, live telecast, streaming details and squads",
+    "description": "The Women's Asia Cup 2026 T20 tournament kicked off in Dubai on August 28 and will run until September 13, featuring eight teams vying for the prestigious title. India competes in Group A alongside Pakistan, Thailand, and Hong Kong. A key highlight is the cla…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-womens-asia-cup-2026-match-date-time-venue-live-telecast-streaming-details-and-squads/articleshow/133752430.cms",
+    "image": "https://img.etimg.com/thumb/msid-133752577,width-1200,height-630,imgsize-79838,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-04T05:08:57Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana becomes highest run-scorer and leading century-maker in Women's International Cricket",
+    "description": "Smriti Mandhana now leads women's international cricket in total runs scored. She also surpassed previous records for most international centuries achieved. Mandhana's exceptional 124-run innings powered India's victory against Hong Kong. This remarkable perf…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-becomes-highest-run-scorer-and-leading-century-maker-in-womens-international-cricket/articleshow/133751811.cms",
+    "image": "https://img.etimg.com/thumb/msid-133752413,width-1200,height-630,imgsize-88116,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-04T04:58:01Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Horrible’! Babar Azam’s ‘authority’ questioned after PCB’s dramatic shake-up",
+    "description": "Michael Atherton has expressed doubts regarding Babar Azam's effectiveness as captain, especially following the Pakistan Cricket Board's sweeping squad alterations after two consecutive Test losses. The dismissal of seven players and coaches midway through a …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/horrible-babar-azams-authority-questioned-after-pcbs-dramatic-shake-up/articleshow/133751981.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133752014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T04:42:45Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Rohit's future to Agarkar's absence: Key takeaways from BCCI review meeting",
+    "description": "Player workload and the increasing number of international matches emerged as one of the central concerns at the BCCI review meeting in Mumbai",
+    "url": "https://www.business-standard.com/cricket/news/rohit-s-future-to-agarkar-s-absence-key-takeaways-from-bcci-review-meeting-126090400192_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/resize/1200X628/1788496049-2671.jpg",
+    "publishedAt": "2026-09-04T04:28:32Z",
+    "author": "Aditya Kaushik"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Ajit Agarkar absent from key BCCI review meeting: Why did the chief selector miss it?",
     "description": "The absence of Ajit Agarkar from the BCCI review meeting has raised questions about why the chief selector wasn't present.",
@@ -79,132 +268,6 @@ window.cricketNews = [
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
     "publishedAt": "2026-09-04T02:11:17Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "Foodgawker.com",
-    "title": "Skillet Jalapeno Bacon Cornbread",
-    "description": "Fresh corn is roasted with spicy jalapeno and white onion, then swirled into a bacon studded cornbread batter topped with gooey jack cheese.",
-    "url": "https://foodgawker.com/food-post/4091405",
-    "image": "https://admin.foodgawker.com/wp-content/uploads/2026/09/jalapeno-bacon-cornbread-FG-2.jpg",
-    "publishedAt": "2026-09-04T01:56:28Z",
-    "author": "crescent moon kitchen"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "ICC leaders condemn efforts to erode international legal order",
-    "description": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
-    "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
-    "publishedAt": "2026-09-04T01:51:34Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I didn’t know all of this happened’: Smriti Mandhana reacts after rewriting women’s cricket history",
-    "description": "Smriti Mandhana set a new record by scoring 124 runs in an impressive innings against Hong Kong, playing a pivotal role in India's decisive victory in the tournament. This milestone marks her as the first Indian woman to reach this T20 international achieveme…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/i-didnt-know-all-of-this-happened-smriti-mandhana-reacts-after-rewriting-womens-cricket-history/articleshow/133749094.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133749130,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T01:02:02Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Dodgers Make Shocking Shohei Ohtani Decision Amid Multiple Injuries",
-    "description": "The Los Angeles Dodgers withheld Shohei Ohtani from their starting lineup for their series finale against the St. Louis Cardinals on Thursday.\nThe four-time MVP has been the Dodgers' best batter all season, but hasn't performed up to his regular standard as o…",
-    "url": "https://biztoc.com/x/c8ad9a4cf198a3ff",
-    "image": "https://biztoc.com/cdn/c8ad9a4cf198a3ff_s.webp",
-    "publishedAt": "2026-09-04T00:56:49Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "The Punch",
-    "title": "ICC dismisses kidnapping petition, no probe against Nigeria – FG",
-    "description": "The ICC has dismissed a petition seeking an investigation into alleged systemic kidnappings in Nigeria, the Federal Government confirms. No probe against N\n\nRead More: https://punchng.com/icc-dismisses-kidnapping-petition-no-probe-against-nigeria-fg/",
-    "url": "https://punchng.com/icc-dismisses-kidnapping-petition-no-probe-against-nigeria-fg/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/International-Criminal-Court-1062x598_1786134440.webp",
-    "publishedAt": "2026-09-04T00:50:38Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "BBC News",
-    "title": "Women's ODI Cricket",
-    "description": "Highlights of the second ODI between England and Ireland at the County Ground in Derby.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00315qw/womens-odi-cricket-2026-highlights-england-v-ireland-2nd-odi?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p6bx4w.jpg",
-    "publishedAt": "2026-09-03T22:05:05Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Imran Khan's sons say former PM's health declining in prison",
-    "description": "Imran Khan went from swashbuckling cricketer to Pakistan PM and then political prisoner. His sons now hold grave fears for their father's health.",
-    "url": "https://www.abc.net.au/news/2026-09-04/imran-khans-sons-fear-for-their-fathers-life-in-prison/107111018",
-    "image": "https://live-production.wcms.abc-cdn.net.au/6a1b2d71c2c3ea0d5173cc91a9ae1adb?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=266&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-03T21:14:22Z",
-    "author": "Adam Harvey"
-  },
-  {
-    "source": "Daytona Beach News-Journal",
-    "title": "Father Lopez bowler rolls perfect 300 vs. Spruce Creek",
-    "description": "Just a week after Nathan Tillis did it for University, Father Lopez bowler Christopher O'Neill recorded a perfect game.",
-    "url": "https://www.news-journalonline.com/story/sports/high-school/bowling/2026/09/03/fhsaa-bowling-father-lopez-chris-oneill-300-game/91598117007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/6eeae315b87285ed631defb3380b172a5e3b4077db8f35fcf586d2ab5d572520/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2Fca0bc01d98430fd17d7a7c98d7cda1cb.jpg",
-    "publishedAt": "2026-09-03T20:16:36Z",
-    "author": "Chris Vinel, Daytona Beach News-Journal"
-  },
-  {
-    "source": "The Punch",
-    "title": "ICC dismisses anonymous petition against Nigeria",
-    "description": "The International Criminal Court has dismissed an anonymous petition seeking an investigation into alleged systemic kidnappings in Nigeria as crimes against humanity. The petition, titled, “Formal Communication Requesting Investigation into Systemic Kidnappin…",
-    "url": "https://punchng.com/icc-dismisses-anonymous-petition-against-nigeria/",
-    "image": "https://punchng.com/wp-content/uploads/2026/08/International-Criminal-Court-1062x598_1786134440.webp",
-    "publishedAt": "2026-09-03T19:38:16Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "The Irish Times",
-    "title": "Ireland fall to rampant Issy Wong as England secure ODI series win",
-    "description": "Seamer’s five for 33 sets up win with 27 overs to spare, and series sealed with a match still to play",
-    "url": "https://www.irishtimes.com/sport/2026/09/03/ireland-fall-to-rampant-issy-wong-as-england-secure-odi-series-win/",
-    "image": "https://www.irishtimes.com/resizer/v2/AK6Z6EA25BENDIYNRQTT7ZLT3A.jpg?smart=true&auth=2b8b9e30c285f61a869400a4b01eed5d29a5970b1833c975378e723481b95fd3&width=1200&height=630",
-    "publishedAt": "2026-09-03T19:02:56Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Bookies beat bizman over unpaid cricket bet",
-    "description": "Nagpur cloth trader assaulted over Rs50,000 unpaid cricket bet; bookie and brother arrested as police probe betting transactions and file multiple charges.",
-    "url": "https://timesofindia.indiatimes.com/city/nagpur/bookies-beat-bizman-over-unpaid-cricket-bet/articleshow/133744590.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-03T18:33:01Z",
-    "author": "Soumitra Bose"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What happened in the BCCI review meeting? Everything that was discussed in Mumbai",
-    "description": "What happened in the BCCI review meeting? Inside Mumbai talks with Gautam Gambhir, Shubman Gill, and Devajit Saikia on Rohit, injuries, and the 2027 World Cu...",
-    "url": "https://www.cricketnews.com/en/cricket/news/what-happened-bcci-review-meeting-everything-discussed-mumbai/674309e31927935769ced4df",
-    "image": "https://s.yimg.com/lo/mysterio/api/ea832e1f8eb71f4fe3a07e5a42a38edf87935f13ed8afa7c6ba4c260033a387e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0dce0a9481a4f526ab22573c753d67af",
-    "publishedAt": "2026-09-03T18:15:06Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Kashmirnewsbureau.com",
-    "title": "Is Local Cricket in Kashmir Being Hijacked? Back-to-Back Finals, Same Players and No Rest Raise Questions",
-    "description": "Srinagar, September 3 (KNB): Kashmir’s expanding local cricket circuit has come under scrutiny over scheduling, player workload and coordination among tournament organisers after Royal Goodwill Cricket Club qualified for two major finals scheduled to be playe…",
-    "url": "https://kashmirnewsbureau.com/is-local-cricket-in-kashmir-being-hijacked-back-to-back-finals-same-players-and-no-rest-raise-questions/",
-    "image": "https://kashmirnewsbureau.com/wp-content/uploads/2026/09/Royal-Premier-League-Pulwama-2026-1-696x392-1.jpg",
-    "publishedAt": "2026-09-03T17:23:43Z",
-    "author": "Online Editor"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Smriti Mandhana scripts history, surpasses Mithali Raj to become highest run-scorer in women’s cricket",
-    "description": "Smriti Mandhana has made history as the highest run-scorer in women's international cricket, breaking Mithali Raj's enduring record during the Asia Cup. Her extraordinary performance included a remarkable 124 runs off just 64 balls, establishing new benchmark…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/smriti-mandhana-scripts-history-surpasses-mithali-raj-to-become-highest-run-scorer-in-womens-cricket/articleshow/133742480.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133742661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T17:22:17Z",
-    "author": "Hijam Raju Singh"
   }
 ]
 ;
