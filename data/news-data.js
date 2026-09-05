@@ -1,5 +1,131 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Ajit Agarkar absent from key BCCI review meeting: Why did the chief selector miss it?",
+    "description": "The absence of Ajit Agarkar from the BCCI review meeting has raised questions about why the chief selector wasn't present.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ajit-agarkar-absent-bcci-review-meeting-why-chief-selector-miss/18378b8e18a416bc85f35620",
+    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
+    "publishedAt": "2026-09-04T04:04:28Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "CNA",
+    "title": "India's Mandhana becomes women's cricket's leading run-scorer",
+    "description": "Sept 4 : India batter Smriti Mandhana became the leading run-scorer in women's international cricket after smashing a century in her side's Women's Asia Cup victory over Hong Kong on Thursday.The India vice-captain surpassed former skipper Mithali Raj's tally…",
+    "url": "https://www.channelnewsasia.com/sport/indias-mandhana-becomes-womens-crickets-leading-run-scorer-6362246",
+    "image": "https://dam.mediacorp.sg/image/upload/s--YQDQQ4o8--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-04T040139Z_1_LYNXMPEM8309J_RTROPTP_3_CRICKET-ENG-IND.JPG?itok=BTfjMhcj",
+    "publishedAt": "2026-09-04T04:01:39Z",
+    "author": null
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Auckland club cricketer Tayden Smit banned after steroid parcel sent to Howick Woolworths",
+    "description": "A tribunal found the athlete possessed and intended to use the banned steroid Dianabol.",
+    "url": "https://www.nzherald.co.nz/nz/auckland-club-cricketer-tayden-smit-banned-after-steroid-parcel-sent-to-howick-woolworths/EKJXIUS3IFBIXOBUA4DKI2RCWA/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/ERC7L3U2BFEVVOXAE7O6HNNAXE.JPG?auth=36d9d9f855989da45b7e780a538b373a892ee02d71411c4f267a898e51115365&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-09-04T04:00:00Z",
+    "author": "Samuel Sherry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "New Sachin Tendulkar plan: BCCI backing Vaibhav Sooryavanshi, doesn't want a 'one-year wonder'",
+    "description": "The BCCI is closely monitoring teenage batting sensation Vaibhav Sooryavanshi's career.  The board aims to prevent him from becoming a short-term wonder.  Sooryavanshi has already achieved remarkable records at a young age.  He recently broke a 57-year-old Du…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-wants-vaibhav-sooryavanshi-to-follow-sachin-tendulkars-path-avoid-being-a-one-year-wonder/articleshow/133750955.cms",
+    "image": "https://img.etimg.com/thumb/msid-133751031,width-1200,height-630,imgsize-59694,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-04T03:43:05Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Seven wickets in 21 balls: Sri Lanka's Chamari Athapaththu scripts history with record-breaking spell",
+    "description": "Sri Lanka were defending a modest target of 125 on a slow-paced pitch, but Athapaththu turned the match around with one of the best bowling performances in women's T20 internationals.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/seven-wickets-in-21-balls-sri-lankas-chamari-athapaththu-scripts-history-with-record-breaking-spell/articleshow/133750008.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133750145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T02:47:46Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "65m boundaries, hybrid pitch: Inside the new venue for India’s Asian Games campaign",
+    "description": "India's cricket team is set to defend its gold medal in the quarterfinals on September 28. The matches will take place in a newly constructed cricket facility in Nisshin, Japan, promising longer boundaries and hybrid pitches that enhance gameplay. The pitch p…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/65m-boundaries-hybrid-pitch-inside-the-new-venue-for-indias-asian-games-campaign/articleshow/133750026.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133750138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T02:46:47Z",
+    "author": "Dorian Melwin"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma remains in contention for 2027 World Cup, BCCI dismisses retirement speculation",
+    "description": "The BCCI confirmed that Rohit Sharma is still in the running for the 2027 ODI World Cup following impressive performances. Board secretary Devajit Saikia addressed rumors and reiterated Sharma's form during a performance review meeting at BCCI headquarters. K…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-remains-in-contention-for-2027-world-cup-bcci-dismisses-retirement-speculation/articleshow/133749931.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133749965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T02:36:53Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Jasprit Bumrah faces key fitness test before Afghanistan T20Is as Prince Yadav emerges as backup",
+    "description": "With the Afghanistan series and Asian Games on the horizon, the cricket community is keenly waiting for Jasprit Bumrah's fitness reports. Meanwhile, potential backup player Prince Yadav is being considered for the squad. This week, several players will partic…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-faces-key-fitness-test-before-afghanistan-t20is-as-prince-yadav-emerges-as-backup/articleshow/133749647.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133749694,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T02:20:15Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal ‘A’ bowl first against South Australia",
+    "description": "KATHMANDU: Nepal ‘A’ men’s cricket team is taking on South Australia in its second ODI of the ongoing tour of Australia at Gardens Oval in Darwin. South Australia opted to bat first after winning the toss and reached 54-2 in 15 overs at the time of reporting.…",
+    "url": "https://english.khabarhub.com/2026/04/566436/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
+    "publishedAt": "2026-09-04T02:11:17Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Foodgawker.com",
+    "title": "Skillet Jalapeno Bacon Cornbread",
+    "description": "Fresh corn is roasted with spicy jalapeno and white onion, then swirled into a bacon studded cornbread batter topped with gooey jack cheese.",
+    "url": "https://foodgawker.com/food-post/4091405",
+    "image": "https://admin.foodgawker.com/wp-content/uploads/2026/09/jalapeno-bacon-cornbread-FG-2.jpg",
+    "publishedAt": "2026-09-04T01:56:28Z",
+    "author": "crescent moon kitchen"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "ICC leaders condemn efforts to erode international legal order",
+    "description": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
+    "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
+    "publishedAt": "2026-09-04T01:51:34Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘I didn’t know all of this happened’: Smriti Mandhana reacts after rewriting women’s cricket history",
+    "description": "Smriti Mandhana set a new record by scoring 124 runs in an impressive innings against Hong Kong, playing a pivotal role in India's decisive victory in the tournament. This milestone marks her as the first Indian woman to reach this T20 international achieveme…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/i-didnt-know-all-of-this-happened-smriti-mandhana-reacts-after-rewriting-womens-cricket-history/articleshow/133749094.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133749130,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-04T01:02:02Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Dodgers Make Shocking Shohei Ohtani Decision Amid Multiple Injuries",
+    "description": "The Los Angeles Dodgers withheld Shohei Ohtani from their starting lineup for their series finale against the St. Louis Cardinals on Thursday.\nThe four-time MVP has been the Dodgers' best batter all season, but hasn't performed up to his regular standard as o…",
+    "url": "https://biztoc.com/x/c8ad9a4cf198a3ff",
+    "image": "https://biztoc.com/cdn/c8ad9a4cf198a3ff_s.webp",
+    "publishedAt": "2026-09-04T00:56:49Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "The Punch",
+    "title": "ICC dismisses kidnapping petition, no probe against Nigeria – FG",
+    "description": "The ICC has dismissed a petition seeking an investigation into alleged systemic kidnappings in Nigeria, the Federal Government confirms. No probe against N\n\nRead More: https://punchng.com/icc-dismisses-kidnapping-petition-no-probe-against-nigeria-fg/",
+    "url": "https://punchng.com/icc-dismisses-kidnapping-petition-no-probe-against-nigeria-fg/",
+    "image": "https://punchng.com/wp-content/uploads/2026/08/International-Criminal-Court-1062x598_1786134440.webp",
+    "publishedAt": "2026-09-04T00:50:38Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "BBC News",
     "title": "Women's ODI Cricket",
     "description": "Highlights of the second ODI between England and Ireland at the County Ground in Derby.",
@@ -79,114 +205,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133742661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-03T17:22:17Z",
     "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Hampshire knew signing Scott Kuggeleijn was wrong, and did it anyway – Sonia Twigg",
-    "description": "OPINION: The Black Caps bowler was sacked by Hampshire after feedback from staff and fans.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/hampshire-knew-signing-scott-kuggeleijn-was-wrong-and-did-it-anyway-opinion/premium/46LNDGV7F5B5XCH4PEVG3AEH7A/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/2TWTKOHQ7ZAEZE67JRYSXAXPJ4.JPG?auth=5184a036e9c257b9d6210cebf556bc867a4489499f4be33bbb4d8b09ac55cf2b&width=1200&height=675&quality=70&focal=1769%2C770&smart=false",
-    "publishedAt": "2026-09-03T17:15:00Z",
-    "author": "Sonia Twigg"
-  },
-  {
-    "source": "Business Standard",
-    "title": "The hidden complexities of daily life",
-    "description": "From stories about Indian cricket to undersea cables that bring us the internet, a collection of essays uncovers the hidden systems and unseen connections that shape our interconnected lives",
-    "url": "https://www.business-standard.com/book/the-hidden-complexities-of-daily-life-126090301664_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/03/thumb/fitandfill/1200X628/1788455507-6127.jpg",
-    "publishedAt": "2026-09-03T17:12:43Z",
-    "author": "Neha Kirpal"
-  },
-  {
-    "source": "The Times of India",
-    "title": "He started playing at three-and-a-half; two decades later, reached the highest-ever T20I rating: How Abhishek Sharma conquered the fastest format",
-    "description": "Abhishek Sharma has reached unprecedented heights in the ICC T20I realm, obtaining the highest batting rating ever recorded. After impressing in domestic cricket, he secured a regular place on the Indian team. Under the guidance of Yuvraj Singh, his dynamic b…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-started-playing-at-three-and-a-half-two-decades-later-reached-the-highest-ever-t20i-rating-how-abhishek-sharma-conquered-the-fastest-format/articleshow/133741417.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133741643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T16:56:02Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI’s big plan for Vaibhav Sooryavanshi: ‘Serve like Sachin Tendulkar, not be a one-year wonder’",
-    "description": "The BCCI is diligently tracking 15-year-old Vaibhav Sooryavanshi's development in cricket. With his remarkable debut as India's youngest men's international player following an explosive IPL performance, the board aims to capitalise on his promise for a susta…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bccis-big-plan-for-vaibhav-sooryavanshi-serve-like-sachin-tendulkar-not-be-a-one-year-wonder/articleshow/133741692.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133741906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T16:52:38Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Smriti Mandhana breaks records during Women's Asia Cup 2026: Indian batter tops charts for most runs, most centuries",
-    "description": "Smriti Mandhana hit 124 vs Hong Kong in the Women's Asia Cup 2026, surpassing Mithali Raj for most runs and Meg Lanning for most international centuries.",
-    "url": "https://www.sportingnews.com/in/cricket/news/smriti-mandhana-records-womens-asia-cup-2026-indian-most-runs-most-centuries/05ee8e0e241bbb2696056283",
-    "image": "https://s.yimg.com/lo/mysterio/api/4dd7f9196a895e05e162f723c3c8a73d0b3f2fc10d75531ee61ef7af55c760ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Ffb2fc9b9818fb3c59871f470a4f6cbe1",
-    "publishedAt": "2026-09-03T16:47:18Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Smriti Mandhana creates history, surpasses Meg Lanning to become leading century-maker in women's cricket",
-    "description": "In an exhilarating display of skill, Smriti Mandhana shattered records by scoring her 18th international century, amassing 124 runs in just 64 balls. Her explosive knock led India to a formidable total of 193 runs. Shafali Verma played a vital role at the sta…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/smriti-mandhana-creates-history-surpasses-meg-lanning-to-become-leading-century-maker-in-womens-cricket/articleshow/133740969.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133741022,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T16:11:41Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI breaks silence on Asian Games concerns, promises ‘best facilities’ for Team India",
-    "description": "The BCCI has responded to worries surrounding the accommodation for Indian cricket teams during the Asian Games, with secretary Devajit Saikia assuring that there are no pressing concerns. The board is dedicated to delivering high-quality amenities for both p…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-breaks-silence-on-asian-games-concerns-saikia-promises-best-facilities-for-india-cricketers/articleshow/133740343.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133740477,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T15:39:16Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Wong takes first ODI five-wicket haul for England",
-    "description": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derby.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/c86xj331nexo",
-    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e595/live/189e6a30-a7aa-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-09-03T15:15:36Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "End of Ajit Agarkar era? BCCI looking for new chief selector for Indian cricket team - Report",
-    "description": "BCCI could remove Ajit Agarkar as the chief selector of the Indian cricket team.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ajit-agarkar-bcci-new-chief-selector-indian-cricket-team/9c6be0871d62c2dc019d98ca",
-    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
-    "publishedAt": "2026-09-03T14:44:42Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI meeting decoded: Devajit Saikia reveals big plans for injuries, SENA tours and 2027 World Cup",
-    "description": "The BCCI is set to enhance its overseas performance strategy while tackling player injuries. They aim to craft a robust plan in preparation for the 2027 ODI World Cup, which will require adjustments in the Future Tours Programme to prioritise player rest. Rec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-meeting-decoded-devajit-saikia-reveals-big-plans-for-injuries-sena-tours-and-2027-world-cup/articleshow/133739160.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133739258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T14:37:03Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Sporting News",
-    "title": "India player injuries on the rise: BCCI says they 'will ensure proper rest in next FTP'",
-    "description": "India player injuries on the rise: BCCI Secretary Devajit Saikia confirmed the board will overhaul scheduling in the next FTP to ensure proper rest and warm-ups.",
-    "url": "https://www.sportingnews.com/in/cricket/news/india-player-injuries-rise-bcci-ensure-proper-rest-next-ftp/b210b8981dfeb0aa9ef30cb9",
-    "image": "https://s.yimg.com/lo/mysterio/api/1c8125d111c3ec9693e172719ee1e1601384a6b6091e5db1ac7e7bd3b229ec4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0dce0a9481a4f526ab22573c753d67af",
-    "publishedAt": "2026-09-03T14:07:16Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Ajit Agarkar was not present in BCCI's meeting? Devajit Saikia reveals the reason",
-    "description": "BCCI secretary Devajit Saikia clarified the situation surrounding Ajit Agarkar's absence from a recent board meeting. He shared that Agarkar was traveling and encountered connectivity problems that prevented him from joining virtually. Saikia also brushed asi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-ajit-agarkar-was-not-present-in-bccis-meeting-devajit-saikia-reveals-the-reason/articleshow/133738304.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133738860,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-03T14:04:37Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
