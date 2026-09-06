@@ -1,6 +1,78 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Massive hailstorm, torrential rain batter Toronto as 100-year storm floods streets; watch video",
+    "description": "Toronto is recovering after a severe storm brought record rainfall and widespread flooding. Many residents lost power and the Don Valley Parkway was closed due to overflow. Cleanup operations are underway, and most services are returning to normal. Officials …",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/massive-hailstorm-torrential-rain-batter-toronto-as-100-year-storm-floods-streets-watch-video/articleshow/133794198.cms",
+    "image": "https://img.etimg.com/thumb/msid-133794301,width-1200,height-630,imgsize-41728,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-05T08:37:57Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Babar Azam the next target?’: Ex-Pakistan captain launches scathing attack on PCB",
+    "description": "The Pakistan Cricket Board is under fire for its management of the national cricket team. Former captain Rashid Latif has accused the board of operating through remote control. The unexpected changes to players and coaching staff mid-series have sparked wides…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-the-next-target-ex-pakistan-captain-launches-scathing-attack-on-pcb-over-england-test-chaos/articleshow/133792583.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133793888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T08:19:36Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "BBC News",
+    "title": "Victorious disabled club to attract more cricketers",
+    "description": "Somerset Disabled Cricket Club wants to welcome more players after becoming national champions.",
+    "url": "https://www.bbc.com/news/articles/cvgynxwgd3jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/357d9a1b3a7ab97c30101ccc81f593f963b89b4259f8d860a035850e51a61c74/lightyear_networkapi/resizefill_w880_h495%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbff0e1505d67a15394334a67f3f94853.png",
+    "publishedAt": "2026-09-05T06:43:23Z",
+    "author": "Rachel Candlin - West of England; Claire Carter - BBC Bristol"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shubman Gill joins Fazilka Falcons, set to make Sher-E-Punjab T20 League 2026 debut",
+    "description": "Shubman Gill has joined the Fazilka Falcons squad for the ongoing league. He was seen preparing with the team after a difficult start. Gill is among several India stars participating in the tournament. The Falcons have secured only one win from their initial …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-joins-fazilka-falcons-set-to-make-sher-e-punjab-t20-league-2026-debut/articleshow/133791120.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133791216,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T06:37:52Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘It probably wasn’t nice’: Ricky Ponting breaks silence after his name was used in UK's viral ‘Clicky Ponting’ cheating scandal",
+    "description": "Ricky Ponting broke his silence on English club cricket's viral 'Clicky Ponting' cheating scandal and reacted to his name being dragged in.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ricky-ponting-name-used-uk-viral-clicky-ponting-cheating-scandal/f12a6a540c39a114d1989c1d",
+    "image": "https://s.yimg.com/lo/mysterio/api/be563f317f379efbced240e67c4ed565d0358c6c482edf2cc6e5374c2b4bed68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F10fd4f89f3a2c725ab72d8d12045647f",
+    "publishedAt": "2026-09-05T06:36:27Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘CSK captaincy must be changed’: Sanju Samson backed to take over from Ruturaj Gaikwad",
+    "description": "As Chennai Super Kings prepares for the 2027 season, discussions emerge around the potential of Sanju Samson taking over the captaincy, especially with Ruturaj Gaikwad's performance raising questions. Former cricketer Sadagoppan Ramesh endorses Samson for his…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/csk-captaincy-must-be-changed-sanju-samson-backed-to-take-over-from-ruturaj-gaikwad/articleshow/133789823.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133790066,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T05:58:49Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "More drama in Pakistan cricket: Mohsin Naqvi's PCB likely to remove chief selector Aaqib Javed in 'clean-up' exercise",
+    "description": "The development comes days after senior players Mohammad Rizwan, Imam-ul-Haq and Salman Ali Agha were sent home from England. The decision has raised questions over Pakistan's selection policy and team management.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/more-drama-in-pakistan-cricket-mohsin-naqvis-pcb-likely-to-remove-chief-selector-aaqib-javed-in-clean-up-exercise/articleshow/133788251.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133788583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T05:07:58Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Vaibhav Sooryavanshi does what Virat Kohli and Rohit Sharma couldn't, gets India great's wife watching Duleep Trophy",
+    "description": "Kris Srikkanth praised Vaibhav Sooryavanshi, revealing that even his wife watched the Duleep Trophy for the 15-year-old, and backed him to revive Test cricket's glory.",
+    "url": "https://www.cricketnews.com/en/cricket/news/vaibhav-sooryavanshi-gets-india-great-wife-watching-duleep-trophy/1e19bdff0706487db142ea9e",
+    "image": "https://s.yimg.com/lo/mysterio/api/33de4dd45030624797228237ed78cabbea8eef9b702586d1f47a49c764c3486b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F25c7100b8a1ebd2f5cc0856a002380f5",
+    "publishedAt": "2026-09-05T04:39:56Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
     "title": "'Want him to become a legend’: BCCI reveals plan to nurture Vaibhav Sooryavanshi like Sachin Tendulkar",
     "description": "The BCCI is skillfully overseeing the burgeoning cricket career of young Vaibhav Sooryavanshi. To foster his long-term success and avert premature burnout, officials are closely tracking his development. Sooryavanshi has swiftly distinguished himself as a rem…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/want-him-to-become-a-legend-bcci-reveals-plan-to-nurture-vaibhav-sooryavanshi-like-sachin-tendulkar/articleshow/133786181.cms",
@@ -70,69 +142,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/9358a3c2c77450cd9aa18e61ef5fba8142f91dca7f658669e8724fdcd6967e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5db6a5936b656e4106b3f980512d9153.jpg",
     "publishedAt": "2026-09-04T23:33:11Z",
     "author": "Billy Heyen"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India to face Japan for first time in T20 cricket history on September 22",
-    "description": "India, the current T20 world champions, will face Japan for the first time. This historic international T20 fixture is scheduled for September 22 in Tochigi. It marks the first time Japan will play a full ICC member in men's cricket. The two cricket boards co…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-to-face-japan-for-first-time-in-t20-cricket-history-on-september-22/articleshow/133776318.cms",
-    "image": "https://img.etimg.com/thumb/msid-133776398,width-1200,height-630,imgsize-297130,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T19:19:05Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "Breitbart News",
-    "title": "International Criminal Court Rejects Request to Probe Jihadist Kidnappings in Nigeria",
-    "description": "The International Criminal Court (ICC) dismissed a request to open an investigation into \"systemic kidnappings in Nigeria\" this week, media in the country report, on the grounds that the petition lacked \"any legal basis.\"\nThe post International Criminal Court…",
-    "url": "https://www.breitbart.com/africa/2026/09/04/international-criminal-court-rejects-request-to-probe-jihadist-kidnappings-in-nigeria/",
-    "image": "https://media.breitbart.com/media/2026/09/GettyImages-2280549545-640x335.png",
-    "publishedAt": "2026-09-04T19:05:57Z",
-    "author": "Frances Martel"
-  },
-  {
-    "source": "BBC News",
-    "title": "Foxes' Hull misses out on maiden ton against Notts",
-    "description": "Once-capped England Test bowler Josh Hull narrowly misses out on a maiden first-class century for Leicestershire against Nottinghamshire.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cwyzqlvgkvqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-04T17:33:20Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Foxes' Hull misses out on maiden ton against Notts",
-    "description": "Once-capped England Test bowler Josh Hull narrowly misses out on a maiden first-class century for Leicestershire against Nottinghamshire.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyzqlvgkvqo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be64/live/7d6c20e0-a87e-11f1-aed2-8d6da8d75094.jpg",
-    "publishedAt": "2026-09-04T17:33:15Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "England, Sri Lanka announce squads for white-ball series: Jamie Overton returns, Charith Asalanka named captain",
-    "description": "England and Sri Lanka have announced their teams for the upcoming white-ball cricket series. New England players Aneurin Donald and Henry Crocombe are set to make their international debuts. Harry Brook has been appointed as captain for both T20I and ODI form…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-sri-lanka-announce-squads-for-white-ball-series-jamie-overton-returns-charith-asalanka-named-captain/articleshow/133770748.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-04T16:53:26Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "REVEALED: Jordan Cox to win £200k England central contract along with key bowler, and the latest on Ben Stokes' pay",
-    "description": "Jordan Cox's reward for a breakthrough international summer will be to replace Ben Stokes on England's central contracts list on October 1.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16105843/Jordan-Cox-England-central-contract-Ben-Stokes.html",
-    "image": "https://i.dailymail.com/1s/2026/09/04/16/111056437-0-image-m-80_1788534145350.jpg",
-    "publishedAt": "2026-09-04T16:01:44Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women’s Asia Cup: ‘Focus on cricket, not the noise,’ Mithali Raj tells India ahead of Pakistan clash",
-    "description": "India secured a Women's Asia Cup semifinal spot after a dominant win. The team now prepares for a crucial match against Pakistan in Dubai. Former captain Mithali Raj advises players to focus on cricket and their roles. She believes India is the favourite to w…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/womens-asia-cup-focus-on-cricket-not-the-noise-mithali-raj-tells-india-ahead-of-pakistan-clash/articleshow/133769432.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133769536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T15:55:16Z",
-    "author": "Manuja Veerappa"
   }
 ]
 ;
