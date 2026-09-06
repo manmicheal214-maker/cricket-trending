@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Dolphins rookie reveals who he's studying to learn new role",
+    "description": "The Dolphins took an offensive tackle on Day 1 and have moved him to guard. Since then, the rookie has been watching tape of a former Pro Bowler.",
+    "url": "https://dolphinswire.usatoday.com/story/sports/nfl/dolphins/2026/09/05/dolphins-kadyn-proctor-watching-rodger-saffold-to-learn-to-play-guard/91632920007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/c86dc010864ff4cd4e821919b77f27ecb3e5b260efac8a3c2f588c98f5ea1821/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmiami_dophins_wire_usa_today_sports_articles_974%2F08a86ab9b6d0482111b81735f9464817.jpg",
+    "publishedAt": "2026-09-05T20:30:29Z",
+    "author": "Mike Masala, Dolphins Wire"
+  },
+  {
+    "source": "Theadanews.com",
+    "title": "Matthews’ home run provides bright spot for Ada",
+    "description": "Lone Grove ace Braylee Spence had her way with almost every batter in the Ada Lady Cougars’ lineup during their District 4A-4 matchup Tuesday at the Ada High School Softball Complex. Everyone except freshman Kendyl Matthews, that is. Matthews ripped a home ru…",
+    "url": "https://www.theadanews.com/sports/matthews-home-run-provides-bright-spot-for-ada/article_e1abac19-8a61-4677-b720-f44c5c8139b0.html",
+    "image": null,
+    "publishedAt": "2026-09-05T19:53:00Z",
+    "author": "JEFF CALI, The Ada News, Okla."
+  },
+  {
+    "source": "The Times of India",
+    "title": "Falcons eye maiden UPT20 title against Mavericks",
+    "description": "Lucknow Falcons chase maiden UP T20 title vs Meerut Mavericks in final at Ekana; Bhuvneshwar Kumar faces Rinku Singh as Mavericks seek 2nd crown.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/falcons-eye-maiden-upt20-title-against-mavericks/articleshow/133814458.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133814457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T19:50:18Z",
+    "author": "Fazal Khan"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "No handshakes as India routs Pakistan at Women's Asia Cup cricket",
+    "description": "Pakistan stumbled to its lowest-ever score in a Twenty20 international cricket match after being dismissed by India for 55 runs at the Women's Asia Cup in Dubai on Saturday. There were no handshakes between players for the two arch-rivals as India went on to …",
+    "url": "https://sports.yahoo.com/articles/no-handshakes-india-routs-pakistan-192408821.html",
+    "image": null,
+    "publishedAt": "2026-09-05T19:24:08Z",
+    "author": "Associated Press"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "India crush Pakistan at T20 Asia Cup with record-breaking bowling display",
     "description": "India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55.",
@@ -61,33 +97,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133806766,width-1200,height-630,imgsize-91284,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-05T15:39:54Z",
     "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur creates history, becomes first cricketer ever to captain in 150 T20Is",
-    "description": "In a remarkable achievement, Harmanpreet Kaur captained her 150th T20I match during the Women's Asia Cup against Pakistan, solidifying her status as a leading figure in women's cricket. Her focus remains on enjoying the sport rather than tallying numbers, and…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaur-creates-history-becomes-first-cricketer-ever-to-captain-in-150-t20is/articleshow/133804547.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133804726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T14:28:23Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Embarrassing,’ ‘Cringe’: India fans slam Rohit Sharma's Sony reality TV show amid 2027 ODI World Cup selection debate",
-    "description": "With Rohit Sharma all set to make his reality TV debut, fans were quick to take digs on the former Indian skipper and expressed their disappointment.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-fans-slam-rohit-sharmas-reality-tv-show-2027-world-cup-selection/d181374f7028f268ac7d8d34",
-    "image": "https://s.yimg.com/lo/mysterio/api/4a899f7371cc6ea2a5673ea6386de6baa396e7f311204e0ae98aba6c61cc91a5/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ccf4ec78bb568dfe0fc32770ee016ea",
-    "publishedAt": "2026-09-05T14:25:07Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BCCI retains top spot; check net worth of top 10 richest cricket boards",
-    "description": "The BCCI remains the world's richest cricket board by a huge margin, while Australia, England and Pakistan complete the top four in global cricket's financial pecking order.",
-    "url": "https://www.business-standard.com/sports/business/bcci-retains-top-spot-check-net-worth-of-top-10-richest-cricket-boards-126090500879_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/02/thumb/fitandfill/1200X628/1738517045-3558.jpg",
-    "publishedAt": "2026-09-05T14:24:03Z",
-    "author": "Our Bureau"
   }
 ]
 ;
