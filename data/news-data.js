@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Cricketer Arshdeep Singh and girlfriend Samreen Kaur got matching tattoos, but there’s a sweet twist",
+    "description": "Matching tattoos are nothing new. Couples often choose the same symbol, date, quote or tiny design to mark their relationship. But Arshdeep Singh and actor Samreen Kaur have taken the idea in a much more personal direction.The Indian cricketer and actor recen…",
+    "url": "https://timesofindia.indiatimes.com/life-style/beauty/cricketer-arshdeep-singh-and-girlfriend-samreen-kaur-got-matching-tattoos-but-theres-a-sweet-twist/photostory/133807979.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133808331,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T16:31:05Z",
+    "author": "ETimes.in"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "PCB confiscate mobile phones of Pakistan cricketers until the end of 3rd Test vs England at Edgbaston - Report",
+    "description": "Pakistani cricket continues their routine of weird decisions after reports mention that the PCB has confiscated the phones of all players till the 3rd Test ends.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pcb-confiscate-mobile-pakistan-cricketers-3rd-test-england-edgbaston/9a67b4cc35d32ad82a9006ad",
+    "image": "https://s.yimg.com/lo/mysterio/api/34f510f6b0f8d5374c22b82505965db76ee401d63c353c73f43786d2713775a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbad36d1ce87b5d00ab0377382b16d481",
+    "publishedAt": "2026-09-05T16:24:33Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indian skipper Harmanpreet Kaur becomes first cricketer to captain in 150 T20Is",
+    "description": "Harmanpreet Kaur has made history as the first captain to lead her national team in 150 T20 Internationals. This historic moment unfolded during the Women's Asia Cup league stage, where Kaur's exceptional leadership was evident with 86 victories out of 149 ma…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indian-skipper-harmanpreet-kaur-becomes-first-cricketer-to-captain-in-150-t20is/articleshow/133806693.cms",
+    "image": "https://img.etimg.com/thumb/msid-133806766,width-1200,height-630,imgsize-91284,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-05T15:39:54Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet Kaur creates history, becomes first cricketer ever to captain in 150 T20Is",
+    "description": "In a remarkable achievement, Harmanpreet Kaur captained her 150th T20I match during the Women's Asia Cup against Pakistan, solidifying her status as a leading figure in women's cricket. Her focus remains on enjoying the sport rather than tallying numbers, and…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaur-creates-history-becomes-first-cricketer-ever-to-captain-in-150-t20is/articleshow/133804547.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133804726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T14:28:23Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Embarrassing,’ ‘Cringe’: India fans slam Rohit Sharma's Sony reality TV show amid 2027 ODI World Cup selection debate",
+    "description": "With Rohit Sharma all set to make his reality TV debut, fans were quick to take digs on the former Indian skipper and expressed their disappointment.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-fans-slam-rohit-sharmas-reality-tv-show-2027-world-cup-selection/d181374f7028f268ac7d8d34",
+    "image": "https://s.yimg.com/lo/mysterio/api/4a899f7371cc6ea2a5673ea6386de6baa396e7f311204e0ae98aba6c61cc91a5/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ccf4ec78bb568dfe0fc32770ee016ea",
+    "publishedAt": "2026-09-05T14:25:07Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Business Standard",
+    "title": "BCCI retains top spot; check net worth of top 10 richest cricket boards",
+    "description": "The BCCI remains the world's richest cricket board by a huge margin, while Australia, England and Pakistan complete the top four in global cricket's financial pecking order.",
+    "url": "https://www.business-standard.com/sports/business/bcci-retains-top-spot-check-net-worth-of-top-10-richest-cricket-boards-126090500879_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/02/thumb/fitandfill/1200X628/1738517045-3558.jpg",
+    "publishedAt": "2026-09-05T14:24:03Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Punch",
+    "title": "Nigeria secure back-to-back U-19 Women’s Cricket World Cup tickets",
+    "description": "Nigeria’s Junior Female Yellow Greens secure back-to-back ICC U-19 Women’s T20 World Cup tickets, defeating Zimbabwe in a thrilling qualifier.\n\nRead More: https://punchng.com/nigeria-secure-back-to-back-u-19-womens-cricket-world-cup-tickets/",
+    "url": "https://punchng.com/nigeria-secure-back-to-back-u-19-womens-cricket-world-cup-tickets/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/05151649/Junior-Female-Yellow-Greens_1788617809-1200x630.webp",
+    "publishedAt": "2026-09-05T14:23:49Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Suresh Raina’s bold blueprint for India: Backs Abhishek Sharma for Test leap, calls Rishabh Pant white-ball 'X-factor'",
+    "description": "Suresh Raina expressed confidence in Abhishek Sharma's potential to succeed in Test cricket. He also highlighted Rishabh Pant as an impressive asset in white-ball formats. Notably, Pant has become a pivotal figure in India's red-ball squad. Raina's insights o…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/suresh-rainas-bold-blueprint-for-india-backs-abhishek-sharma-for-test-leap-calls-rishabh-pant-white-ball-x-factor/articleshow/133803154.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133803311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-05T13:41:31Z",
+    "author": "Nitesh Dubey"
+  },
+  {
     "source": "Business Standard",
     "title": "IND vs PAK live streaming: Where to watch today's Women's Asia Cup match?",
     "description": "The live streaming of India vs Pakistan Women's Asia Cup T20 match will be available on the SonyLIV app and website for Indian fans",
@@ -151,87 +223,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-133794301,width-1200,height-630,imgsize-41728,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-05T08:37:57Z",
     "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Babar Azam the next target?’: Ex-Pakistan captain launches scathing attack on PCB",
-    "description": "The Pakistan Cricket Board is under fire for its management of the national cricket team. Former captain Rashid Latif has accused the board of operating through remote control. The unexpected changes to players and coaching staff mid-series have sparked wides…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-the-next-target-ex-pakistan-captain-launches-scathing-attack-on-pcb-over-england-test-chaos/articleshow/133792583.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133793888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T08:19:36Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "BBC News",
-    "title": "Victorious disabled club to attract more cricketers",
-    "description": "Somerset Disabled Cricket Club wants to welcome more players after becoming national champions.",
-    "url": "https://www.bbc.com/news/articles/cvgynxwgd3jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/357d9a1b3a7ab97c30101ccc81f593f963b89b4259f8d860a035850e51a61c74/lightyear_networkapi/resizefill_w880_h495%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbff0e1505d67a15394334a67f3f94853.png",
-    "publishedAt": "2026-09-05T06:43:23Z",
-    "author": "Rachel Candlin - West of England; Claire Carter - BBC Bristol"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill joins Fazilka Falcons, set to make Sher-E-Punjab T20 League 2026 debut",
-    "description": "Shubman Gill has joined the Fazilka Falcons squad for the ongoing league. He was seen preparing with the team after a difficult start. Gill is among several India stars participating in the tournament. The Falcons have secured only one win from their initial …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-joins-fazilka-falcons-set-to-make-sher-e-punjab-t20-league-2026-debut/articleshow/133791120.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133791216,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T06:37:52Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘It probably wasn’t nice’: Ricky Ponting breaks silence after his name was used in UK's viral ‘Clicky Ponting’ cheating scandal",
-    "description": "Ricky Ponting broke his silence on English club cricket's viral 'Clicky Ponting' cheating scandal and reacted to his name being dragged in.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ricky-ponting-name-used-uk-viral-clicky-ponting-cheating-scandal/f12a6a540c39a114d1989c1d",
-    "image": "https://s.yimg.com/lo/mysterio/api/be563f317f379efbced240e67c4ed565d0358c6c482edf2cc6e5374c2b4bed68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F10fd4f89f3a2c725ab72d8d12045647f",
-    "publishedAt": "2026-09-05T06:36:27Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘CSK captaincy must be changed’: Sanju Samson backed to take over from Ruturaj Gaikwad",
-    "description": "As Chennai Super Kings prepares for the 2027 season, discussions emerge around the potential of Sanju Samson taking over the captaincy, especially with Ruturaj Gaikwad's performance raising questions. Former cricketer Sadagoppan Ramesh endorses Samson for his…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/csk-captaincy-must-be-changed-sanju-samson-backed-to-take-over-from-ruturaj-gaikwad/articleshow/133789823.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133790066,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T05:58:49Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "More drama in Pakistan cricket: Mohsin Naqvi's PCB likely to remove chief selector Aaqib Javed in 'clean-up' exercise",
-    "description": "The development comes days after senior players Mohammad Rizwan, Imam-ul-Haq and Salman Ali Agha were sent home from England. The decision has raised questions over Pakistan's selection policy and team management.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/more-drama-in-pakistan-cricket-mohsin-naqvis-pcb-likely-to-remove-chief-selector-aaqib-javed-in-clean-up-exercise/articleshow/133788251.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133788583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T05:07:58Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Vaibhav Sooryavanshi does what Virat Kohli and Rohit Sharma couldn't, gets India great's wife watching Duleep Trophy",
-    "description": "Kris Srikkanth praised Vaibhav Sooryavanshi, revealing that even his wife watched the Duleep Trophy for the 15-year-old, and backed him to revive Test cricket's glory.",
-    "url": "https://www.cricketnews.com/en/cricket/news/vaibhav-sooryavanshi-gets-india-great-wife-watching-duleep-trophy/1e19bdff0706487db142ea9e",
-    "image": "https://s.yimg.com/lo/mysterio/api/33de4dd45030624797228237ed78cabbea8eef9b702586d1f47a49c764c3486b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F25c7100b8a1ebd2f5cc0856a002380f5",
-    "publishedAt": "2026-09-05T04:39:56Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Want him to become a legend’: BCCI reveals plan to nurture Vaibhav Sooryavanshi like Sachin Tendulkar",
-    "description": "The BCCI is skillfully overseeing the burgeoning cricket career of young Vaibhav Sooryavanshi. To foster his long-term success and avert premature burnout, officials are closely tracking his development. Sooryavanshi has swiftly distinguished himself as a rem…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/want-him-to-become-a-legend-bcci-reveals-plan-to-nurture-vaibhav-sooryavanshi-like-sachin-tendulkar/articleshow/133786181.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133786226,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T03:29:18Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Unacceptable journalism': Pakistan coach denies Salman Ali Agha refused to meet King Charles",
-    "description": "Cricket News: Pakistan's interim Test coach Mike Hesson has denied reports that Salman Ali Agha refused to attend a meeting with King Charles III, saying the story .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unacceptable-journalism-pakistan-coach-denies-salman-ali-agha-refused-to-meet-king-charles/articleshow/133785698.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133785959,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-05T03:29:07Z",
-    "author": "Shubhanshu Dwivedi"
   }
 ]
 ;
