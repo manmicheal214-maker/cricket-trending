@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Pypi.org",
+    "title": "calibrate-pro 2.0.0",
+    "description": "Windows display calibration toolkit with evidence-labeled sensorless and measured workflows, DDC/CI, ICC/LUT output, and reports",
+    "url": "https://pypi.org/project/calibrate-pro/2.0.0/",
+    "image": null,
+    "publishedAt": "2026-09-06T21:30:52Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Raina backs Bhuvi for 2027 WC, wants Rinku to lead KKR",
+    "description": "Suresh Raina urges selectors to consider Bhuvneshwar Kumar for the 2027 ODI World Cup after strong IPL, and backs Rinku Singh for KKR captaincy.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/raina-backs-bhuvi-for-2027-wc-wants-rinku-to-lead-kkr/articleshow/133850992.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133850990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T20:00:58Z",
+    "author": "Fazal Khan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Portion of roof collapses at Tau Devi Lal Stadium pavilion",
+    "description": "Portion of Tau Devi Lal Stadium’s cricket pavilion roof in Gurgaon collapsed after monsoon damage; no injuries reported. GMDA says repairs will be done.",
+    "url": "https://timesofindia.indiatimes.com/city/gurgaon/portion-of-roof-collapses-at-tau-devi-lal-stadium-pavilion/articleshow/133850210.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133850207,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T19:25:48Z",
+    "author": "Anjali Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "11-year-old Cricket Trainee Jumps From Moving Auto, Foils Knife-point Abduction Bid",
+    "description": "Nagpur: 11-year-old cricket trainee jumps from moving auto to escape knife-point abduction; police probe CCTV on Hingna Road and advise parents on safety.",
+    "url": "https://timesofindia.indiatimes.com/city/nagpur/11-year-old-cricket-trainee-jumps-from-moving-auto-foils-knife-point-abduction-bid/articleshow/133850078.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-06T19:20:50Z",
+    "author": "Soumitra Bose"
+  },
+  {
+    "source": "The Times of India",
+    "title": "FDA awaiting response from restaurants at Mumbai Cricket Association premises: Mundhe",
+    "description": "Maharashtra FDA awaits replies from five MCA BKC restaurants over third-party operations using MCA’s food licence; action to follow Bombay High Court directive.",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/fda-awaiting-response-from-restaurants-at-mumbai-cricket-association-premises-mundhe/articleshow/133848973.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133848970,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T18:45:41Z",
+    "author": "PTI"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Shubman Gill loses his wicket to CSK's intern bowler in his first match of Sher-e-Punjab T20 league",
     "description": "While fans expected Arshdeep Singh to be Shubman Gill's arch-nemesis in the Sher-e-Punjab Trophy, instead it is a CSK intern bowler who took his wicket.",
@@ -160,105 +205,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
     "publishedAt": "2026-09-06T09:30:54Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'They play second-team players': Former India cricketer warns BCCI over SENA warm-up matches",
-    "description": "After the review meeting in Mumbai, Saikia said the BCCI plans to give players enough time for rest, acclimatisation and practice matches through future tour scheduling.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/they-play-second-team-players-former-india-cricketer-warns-bcci-over-sena-warm-up-matches/articleshow/133831565.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133831788,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T09:06:57Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Watch: Tilak Varma’s intense exchange with Vaibhav Sooryavanshi in Duleep Trophy final",
-    "description": "South Zone captain Tilak Varma spoke to Vaibhav Sooryavanshi during the Duleep Trophy final. The 15-year-old batter showed aggression against experienced bowlers like Mohammed Siraj. Sooryavanshi reached a promising start but missed another century, falling f…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-tilak-varmas-intense-exchange-with-vaibhav-sooryavanshi-in-duleep-trophy-final/articleshow/133831210.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133831353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T08:46:45Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup: Nepal defeat Saudi Arabia by five wickets",
-    "description": "KATHMANDU: The Nepali national cricket team has registered its third consecutive victory in the ACC Premier Cup, defeating Saudi Arabia by five wickets on Sunday. With the win, Nepal has secured a place in the semi-finals with one group-stage match to spare. …",
-    "url": "https://english.khabarhub.com/2026/06/566735/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal-Sandeep.jpg",
-    "publishedAt": "2026-09-06T08:16:51Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India vs Pakistan outside ICC tournaments? ICC could organise multi-nation series featuring arch-rivals - Report",
-    "description": "India vs Pakistan outside ICC tournaments? The ICC is exploring staging a multi-nation tri-series at neutral venues to unlock cricket's biggest rivalry via the FTP.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-pakistan-icc-multi-nation-series-featuring/862f45cb4c0e9228031145e7",
-    "image": "https://s.yimg.com/lo/mysterio/api/e290f59d3ebac603e0f0d1b0bb34d3434990c895cdee1f7f3f3c3918cf6dcd78/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7a42b074c13e1315d140a9a0e92196bf",
-    "publishedAt": "2026-09-06T08:07:10Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Eight runs from one ball: Andrew Symonds produced one of Test cricket’s strangest feats, but it still wasn’t the highest ever",
-    "description": "In an extraordinary cricket moment, Andrew Symonds managed to score eight runs from a single ball during a 2008 Test matchup with New Zealand. This bizarre achievement happened when Symonds pulled the ball and capitalized on multiple overthrows by the New Zea…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/eight-runs-from-one-ball-andrew-symonds-produced-one-of-test-crickets-strangest-feats-but-it-still-wasnt-the-highest-ever/articleshow/133829611.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133830047,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T07:50:21Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Did Sreesanth ignore Sanju Samson in KCL 2026 final? Viral video makes fans speculate about strained relationship between Kerala cricket legends",
-    "description": "Did Sreesanth ignore Sanju Samson at the KCL 2026 final? A viral video of the two Kerala cricket stars sparked fan speculation about a strained relationship.",
-    "url": "https://www.cricketnews.com/en/cricket/news/sreesanth-ignore-sanju-samson-kcl-2026-final-video-fans-speculate/2e3252d937b3799a12e02bd9",
-    "image": "https://s.yimg.com/lo/mysterio/api/bca59f3cc867775e6cf04911fefa69bd1211a2bd07f62f1adfe3cce90e5fd075/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
-    "publishedAt": "2026-09-06T07:48:26Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Shouldn’t have closed door on Mohammed Shami’: Ex-India coach questions Ajit Agarkar-led selectors",
-    "description": "Former India bowling coach Bharat Arun questions Mohammed Shami's current exclusion from the national team. He believes the veteran pacer still possesses significant talent and durability for cricket. Shami has not played for India since the March 2025 Champi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shouldnt-have-closed-door-on-mohammed-shami-ex-india-coach-questions-ajit-agarkar-led-selectors/articleshow/133827609.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133827708,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T06:02:27Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Indian spinner takes five-for in England, seals 213-run win in County Championship",
-    "description": "Cricket News: Indian left-arm spinner Sai Kishore starred with the ball as Gloucestershire defeated Derbyshire by 213 runs in the County Championship Division Two m.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-spinner-takes-five-for-in-england-seals-213-run-win-in-county-championship/articleshow/133826931.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133827006,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T05:38:04Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Match-fixing fears? PCB seizes Pakistan players' phones ahead of final England Test",
-    "description": "Pakistan Cricket Board took national team members' mobile phones before the final Test.  These devices will remain with the board until the match concludes.  ICC regulations restrict phone use in certain areas during matches.  However, anti-corruption officia…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/match-fixing-fears-pcb-seizes-pakistan-players-phones-ahead-of-final-england-test/articleshow/133825647.cms",
-    "image": "https://img.etimg.com/thumb/msid-133825754,width-1200,height-630,imgsize-93218,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-06T04:28:20Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup: Nepal to field against Saudi Arabia",
-    "description": "KATHMANDU: Nepal has been asked to field first after losing the toss against Saudi Arabia in the third edition of the ACC Premier Cup One-Day Cricket Tournament in Malaysia. The match is being played at Bayuemas Cricket Oval, where Nepal will look to continue…",
-    "url": "https://english.khabarhub.com/2026/06/566702/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Nepal-cricket.jpg",
-    "publishedAt": "2026-09-06T04:18:31Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "25_Jai_ST_Tonk police seize online cricket betting accounts worth over 1 crore rupees and arrest three",
-    "description": "Tonk police raided Batwalan during the England vs Pakistan T20 match, seizing online cricket betting accounts worth Rs 1.27 crore and arresting three men.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/25_jai_st_tonk-police-seize-online-cricket-betting-accounts-worth-over-1-crore-rupees-and-arrest-three/articleshow/133825079.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-06T03:57:28Z",
-    "author": "The Times Of India"
   }
 ]
 ;
