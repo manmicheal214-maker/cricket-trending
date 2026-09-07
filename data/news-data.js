@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "24_Del_DM_Deva-MinorMurder",
+    "description": "15-year-old boy dies after cricket match fight with three juveniles in Tilak Nagar park, West Delhi; FIR filed and all three apprehended.",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/24_del_dm_deva-minormurder/articleshow/133819460.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-05T23:17:13Z",
+    "author": "Devanshi Mehta"
+  },
+  {
     "source": "USA Today",
     "title": "Dolphins rookie reveals who he's studying to learn new role",
     "description": "The Dolphins took an offensive tackle on Day 1 and have moved him to guard. Since then, the rookie has been watching tape of a former Pro Bowler.",
