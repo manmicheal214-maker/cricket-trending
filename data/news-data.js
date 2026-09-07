@@ -1,5 +1,131 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Victory vs India in 2021 damaged us': Mohammad Yousuf reveals what led to Pakistan cricket's downfall",
+    "description": "With Pakistan cricket continuing to suffer new lows, former star batter Mohammad Yousuf reveals what has caused this downfall.",
+    "url": "https://www.cricketnews.com/en/cricket/news/victory-india-mohammad-yousuf-pakistan-crickets-downfall/0ca13dc61b57578f02e17f8f",
+    "image": "https://s.yimg.com/lo/mysterio/api/d50ceaa6e18e95b47a91ddb5d49c718bfc9852947c347b69ffa3c406f3ed6e92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff2522c0392f9c2fc26710660d6b373f1",
+    "publishedAt": "2026-09-06T11:29:25Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Ireland's Kelly retires from international cricket",
+    "description": "All-rounder Arlene Kelly announces her retirement from all forms of professional cricket at the conclusion of Ireland's one-day international series with England.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cr5089lzr2mo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/79fefaededde08b660416c6a43be2a72bf4c025d39e83ffe0ac47c7819f9905b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcad8218776aa31e490eefa6b5e4ad0b2.jpg",
+    "publishedAt": "2026-09-06T11:11:33Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Village cricket club set for Lord's showdown",
+    "description": "A small village cricket club in Nottinghamshire will play at Lord's after reaching the final.",
+    "url": "https://www.bbc.com/news/articles/c20l9ql5ln9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/536dcf8a98787b322b4899f9a3575be4a32e43795cd1b41ba1e4e84090372cf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fee3835ba3a815084facce92dcc0bde57.jpg",
+    "publishedAt": "2026-09-06T10:53:26Z",
+    "author": "Jake Garner; Owen Shipton - BBC East Midlands Today"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Pakistan cricket in shambles, all-time low': Ex-cricketer tears into PCB amid England turmoil",
+    "description": "Seven players, head coach Sarfaraz Ahmed and bowling coach Umar Gul were sent home. White-ball coaches Mike Hesson and Ashley Noffke were asked to take charge of the red-ball team, while former captain Misbah-ul-Haq resigned from the selection panel and also …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-shambles-all-time-low-ex-cricketer-tears-into-pcb-amid-england-turmoil/articleshow/133834107.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133834227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T10:46:34Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "BBC News",
+    "title": "Notts lose Verreynne to South Africa for final games",
+    "description": "Nottinghamshire lose wicketkeeper Kyle Verreynne for their last three Championship matches, following his call-up by South Africa.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cy8znm5kp2zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/0cc2019ed547f6a3f47e0aae54a36aa00dffaf4aa0892eb0ce9392aa42911080/lightyear_networkapi/resizefill_w921_h518%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc2944b0de974f92c03223edf4c98954f.jpg",
+    "publishedAt": "2026-09-06T10:18:48Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Notts lose Verreynne to South Africa for final games",
+    "description": "Nottinghamshire lose wicketkeeper Kyle Verreynne for their last three Championship matches, following his call-up by South Africa.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cy8znm5kp2zo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/82a9/live/bd18add0-a9d7-11f1-803f-7f2a9199ddc4.jpg",
+    "publishedAt": "2026-09-06T10:18:43Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Ajit Agarkar attends Duleep Trophy final at Chepauk: India's chief selector attends South Zone vs East Zone game days after missing BCCI review meeting",
+    "description": "Chief selector Ajit Agarkar attended the Duleep Trophy 2026 final at Chepauk, days after missing BCCI's review meeting in Mumbai amid contract extension talk...",
+    "url": "https://www.cricketnews.com/en/cricket/news/ajit-agarkar-duleep-trophy-final-chepauk-chief-selector-bcci-meeting/ac714f4bec8532838b282578",
+    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
+    "publishedAt": "2026-09-06T09:30:54Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'They play second-team players': Former India cricketer warns BCCI over SENA warm-up matches",
+    "description": "After the review meeting in Mumbai, Saikia said the BCCI plans to give players enough time for rest, acclimatisation and practice matches through future tour scheduling.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/they-play-second-team-players-former-india-cricketer-warns-bcci-over-sena-warm-up-matches/articleshow/133831565.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133831788,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T09:06:57Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Watch: Tilak Varma’s intense exchange with Vaibhav Sooryavanshi in Duleep Trophy final",
+    "description": "South Zone captain Tilak Varma spoke to Vaibhav Sooryavanshi during the Duleep Trophy final. The 15-year-old batter showed aggression against experienced bowlers like Mohammed Siraj. Sooryavanshi reached a promising start but missed another century, falling f…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-tilak-varmas-intense-exchange-with-vaibhav-sooryavanshi-in-duleep-trophy-final/articleshow/133831210.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133831353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T08:46:45Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "ACC Premier Cup: Nepal defeat Saudi Arabia by five wickets",
+    "description": "KATHMANDU: The Nepali national cricket team has registered its third consecutive victory in the ACC Premier Cup, defeating Saudi Arabia by five wickets on Sunday. With the win, Nepal has secured a place in the semi-finals with one group-stage match to spare. …",
+    "url": "https://english.khabarhub.com/2026/06/566735/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal-Sandeep.jpg",
+    "publishedAt": "2026-09-06T08:16:51Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Pakistan outside ICC tournaments? ICC could organise multi-nation series featuring arch-rivals - Report",
+    "description": "India vs Pakistan outside ICC tournaments? The ICC is exploring staging a multi-nation tri-series at neutral venues to unlock cricket's biggest rivalry via the FTP.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-pakistan-icc-multi-nation-series-featuring/862f45cb4c0e9228031145e7",
+    "image": "https://s.yimg.com/lo/mysterio/api/e290f59d3ebac603e0f0d1b0bb34d3434990c895cdee1f7f3f3c3918cf6dcd78/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7a42b074c13e1315d140a9a0e92196bf",
+    "publishedAt": "2026-09-06T08:07:10Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Eight runs from one ball: Andrew Symonds produced one of Test cricket’s strangest feats, but it still wasn’t the highest ever",
+    "description": "In an extraordinary cricket moment, Andrew Symonds managed to score eight runs from a single ball during a 2008 Test matchup with New Zealand. This bizarre achievement happened when Symonds pulled the ball and capitalized on multiple overthrows by the New Zea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/eight-runs-from-one-ball-andrew-symonds-produced-one-of-test-crickets-strangest-feats-but-it-still-wasnt-the-highest-ever/articleshow/133829611.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133830047,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T07:50:21Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Did Sreesanth ignore Sanju Samson in KCL 2026 final? Viral video makes fans speculate about strained relationship between Kerala cricket legends",
+    "description": "Did Sreesanth ignore Sanju Samson at the KCL 2026 final? A viral video of the two Kerala cricket stars sparked fan speculation about a strained relationship.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sreesanth-ignore-sanju-samson-kcl-2026-final-video-fans-speculate/2e3252d937b3799a12e02bd9",
+    "image": "https://s.yimg.com/lo/mysterio/api/bca59f3cc867775e6cf04911fefa69bd1211a2bd07f62f1adfe3cce90e5fd075/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
+    "publishedAt": "2026-09-06T07:48:26Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Shouldn’t have closed door on Mohammed Shami’: Ex-India coach questions Ajit Agarkar-led selectors",
+    "description": "Former India bowling coach Bharat Arun questions Mohammed Shami's current exclusion from the national team. He believes the veteran pacer still possesses significant talent and durability for cricket. Shami has not played for India since the March 2025 Champi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shouldnt-have-closed-door-on-mohammed-shami-ex-india-coach-questions-ajit-agarkar-led-selectors/articleshow/133827609.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133827708,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-06T06:02:27Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "Indian spinner takes five-for in England, seals 213-run win in County Championship",
     "description": "Cricket News: Indian left-arm spinner Sai Kishore starred with the ball as Gloucestershire defeated Derbyshire by 213 runs in the County Championship Division Two m.",
@@ -142,33 +268,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-09-05T19:24:08Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "India crush Pakistan at T20 Asia Cup with record-breaking bowling display",
-    "description": "India claim seven-wicket win after Pakistan lose 10 wickets for just 28 runs as they are bowled out for 55.",
-    "url": "https://www.aljazeera.com/sports/2026/9/5/india-crush-pakistan-at-t20-asia-cup-with-record-breaking-bowling-display",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2293661733-1788622457.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-05T18:10:50Z",
-    "author": "Kevin Hand"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Irfan Pathan brings back viral 'Sunday' jibe as India beat Pakistan by 7 wickets in Women's Asia Cup 2026: Reason behind the famous banter revealed",
-    "description": "After India Women beat their subcontinent rival Pakistan in a dominant seven-wicket victory, former India bowler Irfan Pathan brought his Sunday jibe back.",
-    "url": "https://www.cricketnews.com/en/cricket/news/irfan-pathan-sunday-jibe-india-pakistan-7-wickets-womens-asia-cup-2026/bc53bb3136b328d64b0b08a5",
-    "image": "https://s.yimg.com/lo/mysterio/api/d5817772e4603054b04fb2553d78d099a9652d9be83d590cd1aadb235d63bd57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F177c64b86e1e7b6b08ab93f1edfe9278",
-    "publishedAt": "2026-09-05T18:10:31Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "European dream: ETPL looks to redraw cricket’s map",
-    "description": "Cricket faces financial imbalances, with wealth concentrated in few areas.  The European T20 Premier League aims to create new opportunities for players.  This league provides more consistent fixtures against better international competition.  It offers a via…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/european-dream-etpl-looks-to-redraw-crickets-map/articleshow/133811588.cms",
-    "image": "https://img.etimg.com/thumb/msid-133811678,width-1200,height-630,imgsize-58170,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-05T18:09:33Z",
-    "author": "ET CONTRIBUTORS"
   }
 ]
 ;
