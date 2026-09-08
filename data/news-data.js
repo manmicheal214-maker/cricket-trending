@@ -1,5 +1,149 @@
 window.cricketNews = [
   {
+    "source": "CNA",
+    "title": "Pietersen back in England colours as mentor in build-up to 2027 World Cup",
+    "description": "Sept 7 : Kevin Pietersen will return to the England setup for the first time since retiring in 2014 after being appointed specialist mentor to the white-ball teams ahead of next year's World Cup in southern Africa, the England Cricket Board said on Monday.The…",
+    "url": "https://www.channelnewsasia.com/sport/pietersen-back-in-england-colours-mentor-in-build-up-2027-world-cup-6367331",
+    "image": "https://dam.mediacorp.sg/image/upload/s--R5z8VAha--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-07T104506Z_1_LYNXMPEM860SG_RTROPTP_3_CRICKET-TEST-ENG-AUS.JPG?itok=b5UGogvS",
+    "publishedAt": "2026-09-07T10:45:06Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan cricket’s match-fixing ghost returns as PCB launches England tour inquiry",
+    "description": "The Pakistan Cricket Board has initiated an internal investigation regarding potential disciplinary breaches amid match-fixing speculations. Reports have emerged regarding player behavior during the recent England series, where seven players were dismissed fo…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-crickets-match-fixing-ghost-returns-as-pcb-launches-england-tour-inquiry/articleshow/133876326.cms",
+    "image": "https://img.etimg.com/thumb/msid-133876564,width-1200,height-630,imgsize-83682,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-07T10:41:18Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Madhya Pradesh’s Bittu Tabahi cleans polluted Ajnar river alone, gets job offer from The Ocean Cleanup after Kevin Pietersen praise",
+    "description": "Surendra Singh Choudhary, known as Bittu Tabahi, received a job offer from The Ocean Cleanup. This development followed his solo effort to clean a polluted river which gained international attention. Former England cricketer Kevin Pietersen praised Choudhary’…",
+    "url": "https://economictimes.indiatimes.com/news/india/madhya-pradeshs-bittu-tabahi-cleans-polluted-ajnar-river-alone-gets-job-offer-from-the-ocean-cleanup-after-kevin-pietersen-praise/articleshow/133876422.cms",
+    "image": "https://img.etimg.com/thumb/msid-133876753,width-1200,height-630,imgsize-196262,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-07T10:34:14Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Nothing is taken for granted': Devdutt Padikkal on cementing his place in Test team",
+    "description": "Devdutt Padikkal has taken over the important No. 3 position, a spot previously occupied by India greats such as Rahul Dravid and Cheteshwar Pujara. However, the batter said he does not want to worry about comparisons with the legends who played the position …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nothing-is-taken-for-granted-devdutt-padikkal-on-cementing-his-place-in-test-team/articleshow/133876449.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133876581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T10:31:37Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Kevin Pietersen makes surprise return to England setup as he's named 'specialist mentor' for World Cup build-up",
+    "description": "Pietersen will join up with Brendon McCullum's white ball teams for this month's T20 and ODI series against Sri Lanka and also be involved in this winter's white ball tours to Australia and South Africa.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16111279/Kevin-Pietersen-makes-surprise-return-England-setup-hes-named-specialist-mentor-World-Cup-build-up.html",
+    "image": "https://i.dailymail.com/1s/2026/09/07/11/111094859-0-image-a-9_1788776109401.jpg",
+    "publishedAt": "2026-09-07T10:15:21Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "BBC News",
+    "title": "Pietersen joins England's white-ball coaching team",
+    "description": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cz6zggqp190o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-09-07T10:03:06Z",
+    "author": "Marc Higginson - BBC Sport Senior Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Pietersen joins England's white-ball coaching team",
+    "description": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "publishedAt": "2026-09-07T10:03:02Z",
+    "author": "Marc Higginson"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "Zaggle Brings Cricket and Business Together in Hyderabad; Hosts Padma Bhushan Dr. Sunil Gavaskar",
+    "description": "Zaggle Brings Cricket and Business Together in Hyderabad; Hosts Padma Bhushan Dr. Sunil Gavaskar",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/zaggle-brings-cricket-and-business-together-in-hyderabad-hosts-padma-bhushan-dr-sunil-gavaskar/article71438171.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/wgce64/article71438170.ece/alternates/LANDSCAPE_1200/Zaggle_Hyderabad.jpg",
+    "publishedAt": "2026-09-07T10:00:52Z",
+    "author": "cuelive"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Cricket Australia green lights BBL privatisation, defying power states",
+    "description": "The Big Bash League is set to look like it never has before as Cricket Australia prepares to welcome private ownership to the competition.",
+    "url": "https://www.abc.net.au/news/2026-09-07/cricket-australia-big-bash-league-privatisation-plans/107126080",
+    "image": "https://live-production.wcms.abc-cdn.net.au/28b1ae65731ee6e9c2eac3b81be425ed?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=213&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-07T09:22:03Z",
+    "author": "Chris Rowbottom"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ishan Kishan scripts history, becomes fifth batter to hit double century in Duleep Trophy final",
+    "description": "After ending the opening day with a century, Ishan Kishan continued his attacking batting on Day 2 against Tilak Varma's South Zone. He went on to complete a double century, becoming only the fifth batter in Duleep Trophy history to score 200 or more runs in …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-scripts-history-becomes-fifth-batter-to-hit-double-century-in-duleep-trophy-final/articleshow/133873179.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133873350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T09:10:07Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India vs Japan match key step in cricket's global push: BCCI's Saikia",
+    "description": "BCCI secretary Devajit Saikia on Monday said the historic one-off T20 International between India and Japan this month will be a significant moment in cricket's journey to become a global sport by connecting to a new audience.\nIndia and Japan are set to lock …",
+    "url": "https://www.business-standard.com/sports/asian-games/india-vs-japan-match-key-step-in-cricket-s-global-push-bcci-s-saikia-126090700309_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/10/thumb/resize/1200X628/1786345640-0133.jpg",
+    "publishedAt": "2026-09-07T09:01:18Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Phones confiscated, players sent home: Match-fixing cloud hangs over Pakistan cricket again",
+    "description": "Pakistan cricket is facing fresh integrity questions after seven players were dropped, two coaches were released and players' phones were reportedly confiscated during the England Test series. With PCB officials defending the sweeping changes and no explanati…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/phones-confiscated-players-sent-home-match-fixing-cloud-hangs-over-pakistan-cricket-again/articleshow/133871424.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133871683,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T08:29:29Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Report: Another India-Mohsin Naqvi trophy standoff on cards as PCB chief set to attend Women's Asia Cup final in Dubai",
+    "description": "Mohsin Naqvi is reportedly set to attend the Women's T20 Asia Cup final, potentially setting up another trophy presentation controversy if India reach the decider.",
+    "url": "https://www.cricketnews.com/en/cricket/news/report-india-mohsin-naqvi-trophy-standoff-women-asia-cup-final/5983d04740cc33ac5af4c4e6",
+    "image": "https://s.yimg.com/lo/mysterio/api/48282b996d704d62de506f1e160ea5715064397886e7fe6316b0dc97e08378ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F654cad51765583d548a69d24194f0234",
+    "publishedAt": "2026-09-07T07:46:19Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Not enough guts': AB de Villiers questions Pakistan players’ hunger after England rout",
+    "description": "AB de Villiers, the former captain of South Africa, has expressed concerns about the character and determination of Pakistan's cricket players. He firmly believes that a lack of fight and hard work is hindering their success. Additionally, he pointed out the …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-enough-guts-ab-de-villiers-questions-pakistan-players-hunger-after-england-rout/articleshow/133869620.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133869816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T07:40:35Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli and Anushka Sharma's ₹1,300 crore empire: How India's power couple built a business portfolio beyond cricket and Bollywood",
+    "description": "Virat Kohli and Anushka Sharma have crafted an impressive business empire, boasting a net worth of over ₹1,300 crore through diverse investments. Kohli has ventured into sectors such as fashion, hospitality, and technology startups. Meanwhile, Sharma has made…",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/virat-kohli-and-anushka-sharmas-1300-crore-empire-how-indias-power-couple-built-a-business-portfolio-beyond-cricket-and-bollywood/articleshow/133864937.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133867024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T06:17:12Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India-Japan match important step in cricket's drive to become global: BCCI secretary Saikia",
+    "description": "Mark your calendars for September 22 as India takes on Japan in a momentous T20 International match, celebrating 75 years of diplomatic ties. This event aims to enhance cricket's international footprint and engage diverse audiences. Additionally, it serves as…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-japan-match-important-step-in-crickets-drive-to-become-global-bcci-secretary-saikia/articleshow/133866313.cms",
+    "image": "https://img.etimg.com/thumb/msid-133866775,width-1200,height-630,imgsize-44742,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-07T06:10:52Z",
+    "author": "PTI"
+  },
+  {
     "source": "Business Standard",
     "title": "PSL may move to January 2027 as organisers seek to avoid IPL clash",
     "description": "Next year's Pakistan Super League could be held in January after the media rights holders of the T20 event complained about limited advertising revenues during the April-May window when IPL is held in India.\nThis year the PSL again clashed with the Indian Pre…",
@@ -97,105 +241,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/09/07/00/111087455-0-image-a-8_1788739143702.jpg",
     "publishedAt": "2026-09-07T01:57:46Z",
     "author": "Josh Alston"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Pakistan on ventilator': Shoaib Akhtar reveals PCB’s 'nothing' expectation",
-    "description": "Pakistan Cricket Board is undertaking a significant rebuilding phase following poor tour performances. Senior players have been removed from the squad for the final Test match. Former bowler Shoaib Akhtar believes the board has lost confidence in the current …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-on-a-ventilator-shoaib-akhtars-brutal-verdict-as-nothing-is-expected-from-squad/articleshow/133857846.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133857946,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T00:53:16Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia retain Labuschagne for test series in South Africa",
-    "description": "SYDNEY, Sept 7 : Top-order batsman Marnus Labuschagne was named in the Australia squad for next month's three-test tour of South Africa on Monday despite a run of poor recent form that has called into question his international future. The right-hander, who w…",
-    "url": "https://www.channelnewsasia.com/sport/australia-retain-labuschagne-test-series-in-south-africa-6366186",
-    "image": "https://dam.mediacorp.sg/image/upload/s--VIaNRXO2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-07T004404Z_1_LYNXMPEM8601H_RTROPTP_3_CRICKET-ASHES.JPG?itok=VsAcJy0X",
-    "publishedAt": "2026-09-07T00:44:04Z",
-    "author": null
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Buccaneers QB Baker Mayfield Receives Massive Contract Prediction",
-    "description": "Bleacher Report has a lofty contract prediction for Tampa Bay Buccaneers QB and 2-time Pro Bowler Baker Mayfield. The post Buccaneers QB Baker Mayfield Receives Massive Contract Prediction appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/tampa-bay-buccaneers/quarterback-baker-mayfield-new-contract-prediction/",
-    "image": "https://s.yimg.com/lo/mysterio/api/2f95c23b5f9e355de201ae28d874e2cd94cce6f5ee39ac141ab8be03b199c82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Ff4013638eedf2b77589b9af9191096d4.jpg",
-    "publishedAt": "2026-09-07T00:28:52Z",
-    "author": "Tony Adame"
-  },
-  {
-    "source": "BBC News",
-    "title": "Watch: England v Ireland - third ODI highlights",
-    "description": "The third and final ODI of the series between England and Ireland at New Road, Worcester.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0031fdx/womens-odi-cricket-2026-highlights-england-v-ireland-3rd-odi?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p82cx2.jpg",
-    "publishedAt": "2026-09-06T22:05:03Z",
-    "author": null
-  },
-  {
-    "source": "Pypi.org",
-    "title": "calibrate-pro 2.0.0",
-    "description": "Windows display calibration toolkit with evidence-labeled sensorless and measured workflows, DDC/CI, ICC/LUT output, and reports",
-    "url": "https://pypi.org/project/calibrate-pro/2.0.0/",
-    "image": null,
-    "publishedAt": "2026-09-06T21:30:52Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Raina backs Bhuvi for 2027 WC, wants Rinku to lead KKR",
-    "description": "Suresh Raina urges selectors to consider Bhuvneshwar Kumar for the 2027 ODI World Cup after strong IPL, and backs Rinku Singh for KKR captaincy.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/raina-backs-bhuvi-for-2027-wc-wants-rinku-to-lead-kkr/articleshow/133850992.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133850990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T20:00:58Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Portion of roof collapses at Tau Devi Lal Stadium pavilion",
-    "description": "Portion of Tau Devi Lal Stadium’s cricket pavilion roof in Gurgaon collapsed after monsoon damage; no injuries reported. GMDA says repairs will be done.",
-    "url": "https://timesofindia.indiatimes.com/city/gurgaon/portion-of-roof-collapses-at-tau-devi-lal-stadium-pavilion/articleshow/133850210.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133850207,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T19:25:48Z",
-    "author": "Anjali Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "11-year-old Cricket Trainee Jumps From Moving Auto, Foils Knife-point Abduction Bid",
-    "description": "Nagpur: 11-year-old cricket trainee jumps from moving auto to escape knife-point abduction; police probe CCTV on Hingna Road and advise parents on safety.",
-    "url": "https://timesofindia.indiatimes.com/city/nagpur/11-year-old-cricket-trainee-jumps-from-moving-auto-foils-knife-point-abduction-bid/articleshow/133850078.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-06T19:20:50Z",
-    "author": "Soumitra Bose"
-  },
-  {
-    "source": "The Times of India",
-    "title": "FDA awaiting response from restaurants at Mumbai Cricket Association premises: Mundhe",
-    "description": "Maharashtra FDA awaits replies from five MCA BKC restaurants over third-party operations using MCA’s food licence; action to follow Bombay High Court directive.",
-    "url": "https://timesofindia.indiatimes.com/city/mumbai/fda-awaiting-response-from-restaurants-at-mumbai-cricket-association-premises-mundhe/articleshow/133848973.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133848970,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T18:45:41Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Shubman Gill loses his wicket to CSK's intern bowler in his first match of Sher-e-Punjab T20 league",
-    "description": "While fans expected Arshdeep Singh to be Shubman Gill's arch-nemesis in the Sher-e-Punjab Trophy, instead it is a CSK intern bowler who took his wicket.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shubman-gill-loses-wicket-csk-intern-bowler-shere-e-punjab-t20/d06a5af957b4c84a13606e87",
-    "image": "https://s.yimg.com/lo/mysterio/api/f4d445e60903934a93a0c3b39337233dd639593d266c4b339b619652430bb55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe10914ce67529cf634c69a35031986ad",
-    "publishedAt": "2026-09-06T18:00:47Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'If your idol backs you, you don't need anything more': Rajat Patidar on Virat Kohli's support",
-    "description": "Rajat Patidar quickly showed why the franchise trusted him with the captaincy. Under his leadership, RCB won their first IPL title in 2025, ending an 18-year wait for the trophy. The team then defended the title in 2026. Patidar became only the third captain …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-your-idol-backs-you-you-dont-need-anything-more-rajat-patidar-on-virat-kohlis-support/articleshow/133846330.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133846538,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T17:32:58Z",
-    "author": "Amit Kumar"
   }
 ]
 ;
