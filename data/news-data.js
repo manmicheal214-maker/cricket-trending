@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Watch: England v Ireland - third ODI highlights",
+    "description": "The third and final ODI of the series between England and Ireland at New Road, Worcester.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m0031fdx/womens-odi-cricket-2026-highlights-england-v-ireland-3rd-odi?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p82cx2.jpg",
+    "publishedAt": "2026-09-06T22:05:03Z",
+    "author": null
+  },
+  {
     "source": "Pypi.org",
     "title": "calibrate-pro 2.0.0",
     "description": "Windows display calibration toolkit with evidence-labeled sensorless and measured workflows, DDC/CI, ICC/LUT output, and reports",
@@ -160,51 +169,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/79fefaededde08b660416c6a43be2a72bf4c025d39e83ffe0ac47c7819f9905b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcad8218776aa31e490eefa6b5e4ad0b2.jpg",
     "publishedAt": "2026-09-06T11:11:33Z",
     "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Village cricket club set for Lord's showdown",
-    "description": "A small village cricket club in Nottinghamshire will play at Lord's after reaching the final.",
-    "url": "https://www.bbc.com/news/articles/c20l9ql5ln9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/536dcf8a98787b322b4899f9a3575be4a32e43795cd1b41ba1e4e84090372cf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fee3835ba3a815084facce92dcc0bde57.jpg",
-    "publishedAt": "2026-09-06T10:53:26Z",
-    "author": "Jake Garner; Owen Shipton - BBC East Midlands Today"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Pakistan cricket in shambles, all-time low': Ex-cricketer tears into PCB amid England turmoil",
-    "description": "Seven players, head coach Sarfaraz Ahmed and bowling coach Umar Gul were sent home. White-ball coaches Mike Hesson and Ashley Noffke were asked to take charge of the red-ball team, while former captain Misbah-ul-Haq resigned from the selection panel and also …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-in-shambles-all-time-low-ex-cricketer-tears-into-pcb-amid-england-turmoil/articleshow/133834107.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133834227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-06T10:46:34Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "BBC News",
-    "title": "Notts lose Verreynne to South Africa for final games",
-    "description": "Nottinghamshire lose wicketkeeper Kyle Verreynne for their last three Championship matches, following his call-up by South Africa.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cy8znm5kp2zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/0cc2019ed547f6a3f47e0aae54a36aa00dffaf4aa0892eb0ce9392aa42911080/lightyear_networkapi/resizefill_w921_h518%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc2944b0de974f92c03223edf4c98954f.jpg",
-    "publishedAt": "2026-09-06T10:18:48Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Notts lose Verreynne to South Africa for final games",
-    "description": "Nottinghamshire lose wicketkeeper Kyle Verreynne for their last three Championship matches, following his call-up by South Africa.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cy8znm5kp2zo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/82a9/live/bd18add0-a9d7-11f1-803f-7f2a9199ddc4.jpg",
-    "publishedAt": "2026-09-06T10:18:43Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Ajit Agarkar attends Duleep Trophy final at Chepauk: India's chief selector attends South Zone vs East Zone game days after missing BCCI review meeting",
-    "description": "Chief selector Ajit Agarkar attended the Duleep Trophy 2026 final at Chepauk, days after missing BCCI's review meeting in Mumbai amid contract extension talk...",
-    "url": "https://www.cricketnews.com/en/cricket/news/ajit-agarkar-duleep-trophy-final-chepauk-chief-selector-bcci-meeting/ac714f4bec8532838b282578",
-    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
-    "publishedAt": "2026-09-06T09:30:54Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
