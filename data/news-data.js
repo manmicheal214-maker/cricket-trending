@@ -1,5 +1,86 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "BCCI ropes in Campa Cola, ChatGPT and SBI Life as associate partners for Team India matches till 2028",
+    "description": "The BCCI has appointed Campa Cola, ChatGPT and SBI Life as associate partners for 35 bilateral matches in India through March 2028. Campa Cola emerged as the highest bidder at ₹1.31 crore per match, while ChatGPT and SBI Life bid ₹1.2 crore each, as the board…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-ropes-in-campa-cola-chatgpt-and-sbi-life-as-associate-partners-for-team-india-matches-till-2028/articleshow/133893434.cms",
+    "image": "https://img.etimg.com/thumb/msid-133894076,width-1200,height-630,imgsize-224846,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-07T18:44:48Z",
+    "author": "Javed Farooqui"
+  },
+  {
+    "source": "The Times of India",
+    "title": "I’ve learned from Virat Kohli to thrive under pressure: Venkatesh Iyer",
+    "description": "Cricketer Venkatesh Iyer returned to Bengaluru over the weekend, after his team won the recently concluded league. This time, it was for a new sport —.",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/ive-learned-from-virat-kohli-to-thrive-under-pressure-venkatesh-iyer/articleshow/133886100.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133886007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T18:30:00Z",
+    "author": "Trisha Majumder"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps: Mark Chapman to be released from NZ Cricket central contract to chase Australian deal",
+    "description": "The Herald understands Mark Chapman has penned a one-year Big Bash deal.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-mark-chapman-to-be-released-from-nz-cricket-central-contract-to-chase-australian-deal/43WMNWPLN5FVHCEDWOP4TF2JAI/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/WOLCMF5S5NCCZKS2R6YDT67RMY.JPG?auth=5f2e6013ee1a4ea758995e56daef5f4546da4231465390c0a15f716e3a47b96f&width=1200&height=675&quality=70&focal=1686%2C949&smart=false",
+    "publishedAt": "2026-09-07T18:01:00Z",
+    "author": "Alex Powell"
+  },
+  {
+    "source": "BBC News",
+    "title": "Leicestershire sign Bears bowler Gilchrist on loan",
+    "description": "Leicestershire sign Warwickshire fast bowler Nathan Gilchrist on a two-game County Championship loan.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cy5zwgzzq6eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/14c30f98a47ae21e5bbedf1b127c87949991103514f17207cb66d4904d424f16/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F95a26838fa16172a5400acf6736fdbbe.jpg",
+    "publishedAt": "2026-09-07T17:50:56Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "BBL privatisation and what it means: Will we see IPL teams invest in the Big Bash League?",
+    "description": "With Cricket Australia announcing the privatisation of the Big Bash League, fans across the cricketing world ponder what the T20 league would look from next season onwards.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bbl-privatisation-means-will-ipl-teams-invest-big-bash-league/a87661b8b044a672a711d1c9",
+    "image": "https://s.yimg.com/lo/mysterio/api/c4d556e27ec9f43ba87d650c265774338146e2ab2034df58a264fefa8ce393b8/lightyear_networkapi/resizefill_w612_h344%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcfbda1390d28e3a1d352c5b64b822e1d",
+    "publishedAt": "2026-09-07T17:22:30Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Former Sussex bowler Tony Buss dies at 87",
+    "description": "Former Sussex bowler Tony Buss, who took 1,098 wickets for the cricket club across all formats, dies aged 87.",
+    "url": "https://www.bbc.com/sport/cricket/articles/crern3p3dwwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/ec0db33bfc5a84b605b7dfd1af1c309847de7507bd94430d9408701c8caeae4a/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F038ac32b1c53bb2b1887e576ad685857.jpg",
+    "publishedAt": "2026-09-07T17:20:48Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'The board itself has demotivated the players': Saeed Ajmal launches scathing attack on Mohsin Naqvi-led PCB",
+    "description": "Pakistan Cricket Board comes under attack from one more former national player as Saeed Ajmal calls out the Mohsin Naqvi-led national board as he claims players have become demotivated.",
+    "url": "https://www.cricketnews.com/en/cricket/news/saeed-ajmal-launches-scathing-attack-mohsin-naqvi-led-pcb/688b3db8676a05d19f220de6",
+    "image": "https://s.yimg.com/lo/mysterio/api/1f9e28d175dbf701d59cfa685cabfd4ee293debd5999bea6c7629b31a2a19634/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6db7a803e1dd5dfdd897948c6b9c948b",
+    "publishedAt": "2026-09-07T17:00:19Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "WATCH: Abhishek Sharma picks Shubman Gill's wicket in Sher-e-Punjab T20 League 2026 match",
+    "description": "Abhishek Sharma continues to prove that power-hitting isn't his only forte as he scalps India skipper Shubman Gill's wicket in the Sher-e-Punjab trophy.",
+    "url": "https://www.cricketnews.com/en/cricket/news/abhishek-sharma-shubman-gill-wicket-sher-e-punjab-t20-league-2026/7ad77ca30de7c1e7cf4ba625",
+    "image": "https://s.yimg.com/lo/mysterio/api/f3f27c34b05f97b110c759318fcddc3cc63976357fd550d1e5f7b5e46a0ac9a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb4236c72827c535277821a362f7ff465",
+    "publishedAt": "2026-09-07T16:44:08Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Will Rohit Sharma and Virat Kohli play the 2027 ODI World Cup? Ashish Nehra says 'Why not?'",
+    "description": "Former India pacer Ashish Nehra said performances can change the situation quickly and it is too early to say whether Rohit and Kohli will still be part of India's ODI plans. The next 50-over World Cup will be held in South Africa, Zimbabwe and Namibia in 202…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-rohit-sharma-and-virat-kohli-play-the-2027-odi-world-cup-ashish-nehra-says-why-not/articleshow/133889011.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133889457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T16:32:50Z",
+    "author": "Amit Kumar"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "KL Rahul stays with DC: Delhi Capitals co-owner Parth Jindal's viral tweet quashes trade rumours ahead of IPL 2027",
     "description": "Delhi Capitals co-owner Parthi Jindal quashed all trade rumours related to KL Rahul with a viral tweet.",
@@ -187,87 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/2746bbcd35dac1e46249f91b6b25b0d4145d9a929443a1c0a46a0a5053c783c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F75a36197bbd78ebd32a9b1b75f8168fe",
     "publishedAt": "2026-09-07T11:35:11Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pietersen named a specialist mentor for England's white-ball team prior to next year's World Cup",
-    "description": "Former England batsman Kevin Pietersen has been named a specialist mentor to help England’s men white-ball team succeed at next years’ World Cup in southern Africa, the England and Wales Cricket Board said on Monday. Pietersen will join up with England men’s …",
-    "url": "https://sports.yahoo.com/articles/pietersen-named-specialist-mentor-englands-113029688.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/bde70de109bd86f5a5ccf8df8949b7fcd97e07c39e9636f7b20952c339288bc1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4ede98db8ec064147a8b1305e933de3e.jpg",
-    "publishedAt": "2026-09-07T11:30:29Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan cricket hit by match-fixing controversy again: Players’ phones confiscated as seven players sent home",
-    "description": "Pakistan cricket has come under scrutiny after the PCB made sweeping changes during the England Test series. Seven players were dropped, several new players were added, and the board confirmed an internal disciplinary inquiry following reports concerning disc…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-cricket-hit-by-match-fixing-controversy-again-players-phones-confiscated-as-seven-players-sent-home/articleshow/133878364.cms",
-    "image": "https://img.etimg.com/thumb/msid-133878575,width-1200,height-630,imgsize-60898,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T11:23:15Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "CNA",
-    "title": "Pietersen back in England colours as mentor in build-up to 2027 World Cup",
-    "description": "Sept 7 : Kevin Pietersen will return to the England setup for the first time since retiring in 2014 after being appointed specialist mentor to the white-ball teams ahead of next year's World Cup in southern Africa, the England Cricket Board said on Monday.The…",
-    "url": "https://www.channelnewsasia.com/sport/pietersen-back-in-england-colours-mentor-in-build-up-2027-world-cup-6367331",
-    "image": "https://dam.mediacorp.sg/image/upload/s--R5z8VAha--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-07T104506Z_1_LYNXMPEM860SG_RTROPTP_3_CRICKET-TEST-ENG-AUS.JPG?itok=b5UGogvS",
-    "publishedAt": "2026-09-07T10:45:06Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan cricket’s match-fixing ghost returns as PCB launches England tour inquiry",
-    "description": "The Pakistan Cricket Board has initiated an internal investigation regarding potential disciplinary breaches amid match-fixing speculations. Reports have emerged regarding player behavior during the recent England series, where seven players were dismissed fo…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-crickets-match-fixing-ghost-returns-as-pcb-launches-england-tour-inquiry/articleshow/133876326.cms",
-    "image": "https://img.etimg.com/thumb/msid-133876564,width-1200,height-630,imgsize-83682,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T10:41:18Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Madhya Pradesh’s Bittu Tabahi cleans polluted Ajnar river alone, gets job offer from The Ocean Cleanup after Kevin Pietersen praise",
-    "description": "Surendra Singh Choudhary, known as Bittu Tabahi, received a job offer from The Ocean Cleanup. This development followed his solo effort to clean a polluted river which gained international attention. Former England cricketer Kevin Pietersen praised Choudhary’…",
-    "url": "https://economictimes.indiatimes.com/news/india/madhya-pradeshs-bittu-tabahi-cleans-polluted-ajnar-river-alone-gets-job-offer-from-the-ocean-cleanup-after-kevin-pietersen-praise/articleshow/133876422.cms",
-    "image": "https://img.etimg.com/thumb/msid-133876753,width-1200,height-630,imgsize-196262,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T10:34:14Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Nothing is taken for granted': Devdutt Padikkal on cementing his place in Test team",
-    "description": "Devdutt Padikkal has taken over the important No. 3 position, a spot previously occupied by India greats such as Rahul Dravid and Cheteshwar Pujara. However, the batter said he does not want to worry about comparisons with the legends who played the position …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nothing-is-taken-for-granted-devdutt-padikkal-on-cementing-his-place-in-test-team/articleshow/133876449.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133876581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T10:31:37Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Kevin Pietersen makes surprise return to England setup as he's named 'specialist mentor' for World Cup build-up",
-    "description": "Pietersen will join up with Brendon McCullum's white ball teams for this month's T20 and ODI series against Sri Lanka and also be involved in this winter's white ball tours to Australia and South Africa.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16111279/Kevin-Pietersen-makes-surprise-return-England-setup-hes-named-specialist-mentor-World-Cup-build-up.html",
-    "image": "https://i.dailymail.com/1s/2026/09/07/11/111094859-0-image-a-9_1788776109401.jpg",
-    "publishedAt": "2026-09-07T10:15:21Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "BBC News",
-    "title": "Pietersen joins England's white-ball coaching team",
-    "description": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cz6zggqp190o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-07T10:03:06Z",
-    "author": "Marc Higginson - BBC Sport Senior Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Pietersen joins England's white-ball coaching team",
-    "description": "England appoint former Ashes-winning batter Kevin Pietersen to their white-ball coaching team in the build-up to the 2027 ICC Cricket World Cup.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cz6zggqp190o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-    "publishedAt": "2026-09-07T10:03:02Z",
-    "author": "Marc Higginson"
   }
 ]
 ;
