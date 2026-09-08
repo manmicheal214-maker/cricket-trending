@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Bleed Cubbie Blue",
+    "title": "Brewers 4, Cubs 3: In which Craig Counsell again leaves his starting pitcher in one batter too long",
+    "description": "Pete Crow-Armstrong homered and stole two bases, but it wasn’t enough.",
+    "url": "https://www.bleedcubbieblue.com/chicago-cubs-scores/232536/cubs-brewers-score-pete-crow-armstrong-matthew-boyd-mlb",
+    "image": "https://s.yimg.com/lo/mysterio/api/bdf3329d7a0373041dfd37ac78209c69285d5a20c7ed1f18ab39d8ad30ceb83d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fcfc961a8c852bd4351193394189e62b0.jpg",
+    "publishedAt": "2026-09-07T22:00:57Z",
+    "author": "Al Yellon"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cowboys guard Tyler Smith will miss at least a month with thumb injury that needs surgery",
+    "description": "Dallas Cowboys left guard Tyler Smith will miss at least the first month of the season because of a left thumb injury that needs surgery. Coach Brian Schottenheimer said Monday the three-time Pro Bowler would go on injured reserve, which means he would have t…",
+    "url": "https://sports.yahoo.com/articles/cowboys-guard-tyler-smith-miss-204501887.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b058b29c9bad65bdd19225d146441150ada2941455a1126265e91afff1b700a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc2a5b205020ecaeedb025d11f0c4d602.jpg",
+    "publishedAt": "2026-09-07T20:45:01Z",
+    "author": "SCHUYLER DIXON"
+  },
+  {
+    "source": "CBS Sports",
+    "title": "Cowboys three-time Pro Bowler Tyler Smith to undergo thumb surgery, out 4-6 weeks",
+    "description": "Dallas has 'a ton of confidence' in Smith's replacement to hold down the fort in his absence",
+    "url": "https://www.cbssports.com/nfl/news/cowboys-tyler-smith-to-undergo-thumb-surgery/",
+    "image": "https://sportshub.cbsistatic.com/i/r/2026/09/07/700d3804-e97d-42f0-84f3-ea725cd510ee/thumbnail/1200x675/bd4604db6afdf373d2aca7ed7db1017b/gettyimages-2235812039.jpg",
+    "publishedAt": "2026-09-07T20:27:28Z",
+    "author": "Garrett Podell"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UP cricketers need stronger Ranji Trophy show: Shukla",
+    "description": "BCCI vice-president Rajeev Shukla says UP must improve Ranji Trophy red-ball results, praises UPT20 League, and says Varanasi stadium nears completion.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/up-cricketers-need-stronger-ranji-trophy-show-shukla/articleshow/133895701.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133895700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-07T19:50:20Z",
+    "author": "Fazal Khan"
+  },
+  {
     "source": "The Times of India",
     "title": "BCCI ropes in Campa Cola, ChatGPT and SBI Life as associate partners for Team India matches till 2028",
     "description": "The BCCI has appointed Campa Cola, ChatGPT and SBI Life as associate partners for 35 bilateral matches in India through March 2028. Campa Cola emerged as the highest bidder at ₹1.31 crore per match, while ChatGPT and SBI Life bid ₹1.2 crore each, as the board…",
@@ -169,105 +205,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/ffcbd99001866d40c99f545ebd9e81d3f4853ccef4edd27a15647f3809c6c6d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F81eb72cc08a8cd92657cd46bda25dff2.jpg",
     "publishedAt": "2026-09-07T14:05:00Z",
     "author": "Eric Stephen"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Who will broadcast India vs. Japan cricket match in India? Search on for TV rights for historic clash",
-    "description": "With Japan Cricket all set for their historic clash against powerhouse India at the 2026 Asian Games, here's a look at who the broadcaster for this must-see game could be.",
-    "url": "https://www.sportingnews.com/in/cricket/news/who-broadcast-india-japan-cricket-match-search-tv-rights-historic-clash/c2539cdeef2231c60d3564ce",
-    "image": "https://s.yimg.com/lo/mysterio/api/92dbff2b5bd853fb45794ba8676564c20ed6d51fa0ec5720fbf0d0c8cc29d8f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0c6a8c92a965fca8897ef9a44f0ffcc5",
-    "publishedAt": "2026-09-07T12:43:13Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Kevin Pietersen appointed specialist mentor of England white-ball teams",
-    "description": "Former captain Kevin Pietersen was on Monday appointed as a specialist mentor of England's white-ball teams in the build-up to next year's ICC Cricket World Cup in Africa.\nPietersen will join head coach Brendon McCullum's white-ball set up for the T20I and OD…",
-    "url": "https://www.business-standard.com/cricket/news/kevin-pietersen-appointed-specialist-mentor-of-england-white-ball-teams-126090700870_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-05/15/thumb/resize/1200X628/1557929179-969.jpg",
-    "publishedAt": "2026-09-07T12:31:42Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma-Virat Kohli threat looms over New Zealand: Mitchell Santner says 'not this time'",
-    "description": "Mitchell Santner said New Zealand's first target will be to win the ODI series against India at home. The Blackcaps will play five ODIs against India, followed by three ODIs against Sri Lanka at home. They will then travel to England for World Cup preparation…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-virat-kohli-threat-looms-over-new-zealand-mitchell-santner-says-not-this-time/articleshow/133880928.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133881177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T12:28:50Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sachin Tendulkar buys 3.86-acre land parcel in Lonavala",
-    "description": "Cricketer Sachin Tendulkar has acquired over 3.9 acres of land in Lonavala for a combined ₹70 crore through three registered transactions. The parcels, spanning 15,601.78 sq m, include an existing built-up structure. Tendulkar paid about ₹4.20 crore in stamp …",
-    "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/sachin-tendulkar-buys-3-86-acre-land-parcel-in-lonavala/articleshow/133880975.cms",
-    "image": "https://img.etimg.com/thumb/msid-133881035,width-1200,height-630,imgsize-137286,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T12:21:43Z",
-    "author": "Kailash Babar"
-  },
-  {
-    "source": "BBC News",
-    "title": "Nottinghamshire add Hay as Verreynne replacement",
-    "description": "Nottinghamshire sign New Zealand wicketkeeper-batter Mitchell Hay to replace Kyle Verreynne for the remainder of the season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cj06m7rzp7go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2a40d9ae443469cd803abc76cc2c32f39603e67e5a0b42aff7b06eb9e7d9253b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F399a39750887e09459bd7f887c1d37c5.jpg",
-    "publishedAt": "2026-09-07T12:21:42Z",
-    "author": "Andrew Aloia - BBC Sport, East Midlands"
-  },
-  {
-    "source": "BBC News",
-    "title": "Northants seamer Conway extends deal until 2028",
-    "description": "Australian pace bowler Harry Conway will remain with Northamptonshire until the end of 2028.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ckgx34gmdz4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/086a4e6f9c568671bf1088482e186b836eeb20f0453446db91dc295f760e6059/lightyear_networkapi/resizefill_w822_h463%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faa69eae8909f907703b9b9dbab98b15c.jpg",
-    "publishedAt": "2026-09-07T12:09:52Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Hopefully, not this time’: New Zealand captain Mitchell Santner duo don't enjoy conditions again ahead of India series",
-    "description": "New Zealand captain Mitchell Santner expects tough competition from Indian stalwarts Virat Kohli and Rohit Sharma.  The upcoming five-match ODI series will serve as crucial preparation for the 2027 ODI World Cup.  Santner believes New Zealand's home condition…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/hopefully-not-this-time-new-zealand-captain-mitchell-santner-duo-dont-enjoy-conditions-again-ahead-of-india-series/articleshow/133880114.cms",
-    "image": "https://img.etimg.com/thumb/msid-133880394,width-1200,height-630,imgsize-221678,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T12:06:39Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "CNA",
-    "title": "Bavuma to captain South Africa ODI squad against Australia",
-    "description": "Sept 7 : Temba Bavuma will captain South Africa in their one-day international series against Australia from September 24 to 30, with fast bowler Gerald Coetzee recalled in the 50-over format.• Fast bowler Kagiso Rabada will miss the series with injury but is…",
-    "url": "https://www.channelnewsasia.com/sport/bavuma-captain-south-africa-odi-squad-against-australia-6367461",
-    "image": "https://dam.mediacorp.sg/image/upload/s--DVdZw622--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-07T115748Z_1_LYNXMPEM860X8_RTROPTP_3_CRICKET-ODI-ZAF-NLD.JPG?itok=hrsIxoJ5",
-    "publishedAt": "2026-09-07T11:57:48Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Pakistan captain was penalised after Asia Cup loss to India",
-    "description": "The International Cricket Council (ICC) said on Monday that Fatima had breached Article 2.5 of the Code of Conduct for Players and Player Support Personnel. The rule relates to ‘using language, actions or gestures which disparage, or which could provoke an ag…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-pakistan-captain-fatima-sana-was-penalised-after-womens-asia-cup-loss-to-india/articleshow/133879631.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133879917,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T11:53:59Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan captain Fatima Sana fined 10% for gesture following Shafali Verma’s dismissal in Women’s Asia Cup match",
-    "description": "Pakistan captain Fatima Sana faced a fine and a demerit point for her actions. She breached the ICC Code of Conduct after dismissing an Indian batter. This incident occurred during the Women's Asia Cup match against India in Dubai. Fatima admitted the offense…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-captain-fatima-sana-fined-10-for-gesture-following-shafali-vermas-dismissal-in-womens-asia-cup-match/articleshow/133879531.cms",
-    "image": "https://img.etimg.com/thumb/msid-133879758,width-1200,height-630,imgsize-39716,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T11:50:14Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "England turn to Kevin Pietersen as he lands new role ahead of Ashes winter and 2027 ODI World Cup",
-    "description": "England gets a major boost ahead of the build-up to the 2027 Ashes as former star batsman Kevin Pieterson joins the coaching staff with a new role.",
-    "url": "https://www.cricketnews.com/en/cricket/news/england-kevin-pietersen-new-role-ashes-winter-2027-odi-world-cup/b4fb357e8f8dc2b568891d75",
-    "image": "https://s.yimg.com/lo/mysterio/api/2746bbcd35dac1e46249f91b6b25b0d4145d9a929443a1c0a46a0a5053c783c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F75a36197bbd78ebd32a9b1b75f8168fe",
-    "publishedAt": "2026-09-07T11:35:11Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
