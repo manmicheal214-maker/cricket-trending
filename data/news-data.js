@@ -1,5 +1,185 @@
 window.cricketNews = [
   {
+    "source": "Khabarhub.com",
+    "title": "Nepal suffer 15-run defeat to Hong Kong in ACC Premier Cup",
+    "description": "KATHMANDU: Nepal suffered a 15-run defeat against Hong Kong in their final group-stage match of the ongoing ACC Premier Cup cricket tournament in Malaysia. Chasing a target of 262 runs set by Hong Kong, Nepal were bowled out for 246 in 49.1 overs. Ishan Pande…",
+    "url": "https://english.khabarhub.com/2026/08/567019/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/IMG_1324.png",
+    "publishedAt": "2026-09-08T12:45:04Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Duleep Trophy Final: Shami turns the screw as South stumble at 242/6, trail by 466",
+    "description": "South Zone finds itself in a challenging position after East Zone set a formidable first innings score. Veteran bowler Mohammad Shami claimed two essential wickets, intensifying the pressure on South Zone. Despite Captain Tilak Varma's unbeaten efforts, the t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-mohammed-shami-turns-the-screw-as-south-zone-stumble-at-242/6-trail-by-466-at-stumps-on-day-3/articleshow/133923988.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133924425,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T12:12:22Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Star Sports, FanCode secure India rights for India–Japan T20I",
+    "description": "Star Sports and FanCode will broadcast the India-Japan T20I match.  This historic encounter is scheduled for September twenty-second in Japan.  ITW Universe holds global rights for this unique cricket fixture.  The match celebrates seventy-five years of diplo…",
+    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/star-sports-fancode-secure-india-rights-for-indiajapan-t20i/articleshow/133923959.cms",
+    "image": "https://img.etimg.com/thumb/msid-133923937,width-1200,height-630,imgsize-224846,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-08T11:52:31Z",
+    "author": "ET Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Star Sports, FanCode secure India rights for India–Japan T20I",
+    "description": "Star Sports and FanCode will broadcast the India-Japan T20I match.  This historic encounter is scheduled for September twenty-second in Japan.  ITW Universe holds global rights for this unique cricket fixture.  The match celebrates seventy-five years of diplo…",
+    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/star-sports-fancode-secure-india-rights-for-indiajapan-t20i/articleshow/133923895.cms",
+    "image": "https://img.etimg.com/thumb/msid-133923937,width-1200,height-630,imgsize-224846,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-08T11:52:31Z",
+    "author": "ET Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shubman Gill turns 27: 10 records that chart his rise from prodigy to record-breaking India captain",
+    "description": "On his 27th birthday, Shubman Gill reflects on a remarkable cricketing journey filled with extraordinary accomplishments. As the fastest Indian to reach 1,000, 2,000, and 3,000 ODI runs, he continues to break barriers. Additionally, Gill is celebrated for his…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-turns-27-10-records-that-chart-his-rise-from-prodigy-to-record-breaking-india-captain/articleshow/133923227.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133923735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T11:50:22Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Vaibhav Sooryavanshi’s sharp cricket brain shines! 15-year-old plots two big wickets in Duleep Trophy final – Watch",
+    "description": "In the Duleep Trophy final, young talent Vaibhav Sooryavanshi, only 15, demonstrated remarkable tactical skills that greatly benefitted the East Zone team. He was instrumental in achieving two important dismissals and showcased his sharp decision-making throu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-sharp-cricket-brain-shines-15-year-old-plots-two-big-wickets-in-duleep-trophy-final-watch/articleshow/133921575.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133922000,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T11:06:57Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cricket Australia opens Big Bash to privatisation",
+    "description": "Cricket Australia opens the Big Bash to private investment - with some owners of franchises in The Hundred showing interest.",
+    "url": "https://www.bbc.com/sport/cricket/articles/clyr87p70yjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/9a75ca6e2b0c1cec0957f2ad32fef3acf8f3fa1cd469075bd848f3e9f20a7019/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa33de5e26be6cd136f8a01701d240b1c.jpg",
+    "publishedAt": "2026-09-08T10:56:33Z",
+    "author": "Timothy Abraham - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hundred owners show interest in stakes in Big Bash franchises",
+    "description": "Cricket Australia opens the Big Bash to private investment - with some owners of franchises in The Hundred showing interest.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/clyr87p70yjo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/34aa/live/831aa6f0-ab63-11f1-9647-01c7ddc5a2b1.jpg",
+    "publishedAt": "2026-09-08T10:56:28Z",
+    "author": "Timothy Abraham"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Afghanistan to host Bangladesh, Zimbabwe in UAE for multi-format home season",
+    "description": "In an exciting cricketing lineup, Afghanistan will bring Bangladesh and Zimbabwe to the UAE for an action-packed series. The international campaign commences with a solo Test match against Bangladesh, followed by an ODI tri-series that includes all three team…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-to-host-bangladesh-zimbabwe-in-uae-for-multi-format-home-season/articleshow/133921166.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133921452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T10:56:18Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From Mamaearth to Phool: Shilpa Shetty, MS Dhoni, Sachin Tendulkar, Alia Bhatt among celebrity investors to back startups",
+    "description": "Celebrity investments: Bollywood stars and cricket legends are increasingly backing Indian startups. A Tracxn report identifies 10 celebrities investing in 34 startups and 49 funding rounds worth $458 million collectively across diverse sectors.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-mamaearth-to-phool-shilpa-shetty-ms-dhoni-sachin-tendulkar-alia-bhatt-among-celebrity-investors-to-back-startups/articleshow/133921076.cms",
+    "image": "https://img.etimg.com/thumb/msid-133921179,width-1200,height-630,imgsize-384474,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-09-08T10:46:08Z",
+    "author": "Debaroti Adhikary"
+  },
+  {
+    "source": "RTE",
+    "title": "Hunter on the rise in the batting rankings",
+    "description": "Amy Hunter, after an impressive batting display in the recent series against England, is up to a career-best 11th in the women's ODI batting rankings.",
+    "url": "https://www.rte.ie/sport/cricket/2026/0908/1590730-hunter-on-the-rise-in-the-batting-rankings/",
+    "image": "https://www.rte.ie/images/0024f86d-1600.jpg",
+    "publishedAt": "2026-09-08T10:39:36Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "BBL privatisation: Everything to know about Big Bash League's historic move as Cricket Australia calls decision a 1bn dollar move",
+    "description": "BBL privatisation: Everything to know about Cricket Australia's $1 billion move opening the Big Bash League to private investors, starting with the Melbourne Renegades.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bbl-privatisation-big-bash-league-move-cricket-australia/1ac4b0d258274f2ec4b548e6",
+    "image": "https://s.yimg.com/lo/mysterio/api/12867f98b135fdd926405d8f6fa56f2f21355f20b3ae7c75df244102f0356013/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff1da1ffd478eb47674a6fe2041589b25",
+    "publishedAt": "2026-09-08T09:32:48Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Deepti Sharma rises to 6th spot in ICC Women's T20I ranking for bowlers",
+    "description": "Deepti Sharma has climbed to sixth place in the ICC Women's T20I bowler rankings. She achieved this by taking eight wickets in three matches during the Asia Cup. Other players like Marufa Akter and Chamari Athapaththu also made significant gains. Charlie Dean…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/deepti-sharma-climbs-to-6th-place-in-icc-womens-t20i-bowler-rankings-after-stellar-asia-cup-performance/articleshow/133918136.cms",
+    "image": "https://img.etimg.com/thumb/msid-133918135,width-1200,height-630,imgsize-100528,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-08T09:22:06Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Exclusive: Daryl Mitchell backs ETPL to produce cricket's next superstars",
+    "description": "Daryl Mitchell is one of the big names taking part in the inaugural European T20 Premier League this season with the Dublin Guardians, and the New Zealand international is backing the new franchise league to make a huge mark.",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/daryl-mitchell-etpl-cricket/b4817c2d5e2c111c3e58ee08",
+    "image": "https://s.yimg.com/lo/mysterio/api/4e7cbdd2b5ed2161fc684ad3a3dc7785670c5fb0de2af31ef7b7e4a0393e3c30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4ee72f310632a48fd91ffbe2759643f6",
+    "publishedAt": "2026-09-08T09:12:10Z",
+    "author": "Jamie Alter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Renegades first team up for sale as Big Bash opens door for private investment",
+    "description": "Cricket News: Cricket Australia (CA) has opened the door to private investment in the Big Bash League (BBL), with the Melbourne Renegades set to become the first fr.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/melbourne-renegades-first-team-up-for-sale-as-big-bash-opens-door-for-private-investment-in-historic-move-what-it-means/articleshow/133916516.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133916929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T08:45:08Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "BBC News",
+    "title": "Leicestershire charged over Grace Road pitch",
+    "description": "Leicestershire are charged with breaching the England and Wales Cricket Board's pitch regulations.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c5yl918d38zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/b877e72974d68e044390c335de880b649ab1c8d8c39973e3efdfe1ee821bf702/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fda980016d8b451b21f0e703dce740ead.jpg",
+    "publishedAt": "2026-09-08T08:31:07Z",
+    "author": "Emily Herbert - BBC Sport, East Midlands"
+  },
+  {
+    "source": "BBC News",
+    "title": "Leicestershire charged over Grace Road pitch",
+    "description": "Leicestershire are charged with breaching the England and Wales Cricket Board's pitch regulations.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yl918d38zo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d8f/live/c76d8360-ab5c-11f1-9647-01c7ddc5a2b1.jpg",
+    "publishedAt": "2026-09-08T08:31:03Z",
+    "author": "Emily Herbert"
+  },
+  {
+    "source": "Business Standard",
+    "title": "What challenges await India's Test side in New Zealand? Santner explains",
+    "description": "Mitchell Santner calls Virat Kohli and Rohit Sharma ODI masters ahead of India's New Zealand tour, discusses the Test challenge and explains the two-Test format.",
+    "url": "https://www.business-standard.com/cricket/news/india-tour-new-zealand-2026-santner-kohli-rohit-odi-test-series-126090800604_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/20/thumb/resize/1200X628/1768906031-1068.jpg",
+    "publishedAt": "2026-09-08T08:15:24Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Asian Games 2026: Star-studded India ready to make mark",
+    "description": "India is set to field a strong contingent at the Asian Games 2026 in Aichi-Nagoya, Japan, from September 19 to October 4, with key athletes like PV Sindhu, Mirabai Chanu, and Lovlina Borgohain leading the charge to defend titles in cricket, kabaddi, and men's…",
+    "url": "https://www.rediff.com/sports/report/asian-games-2026-star-studded-india-ready-to-make-mark/20260908.htm",
+    "image": "https://im.rediff.com/1200-630/sports/2026/sep/08asian-games.jpg",
+    "publishedAt": "2026-09-08T07:36:28Z",
+    "author": "sports@rediff.co.in (REDIFF SPORTS)"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'Is Maldives holiday included?': KL Rahul's hilarious reaction to Kevin Pietersen's appointment as England mentor revealed",
+    "description": "KL Rahul roasted Kevin Pietersen with a hilarious IPL throwback comment as the ex-captain returns as England's white-ball mentor.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fbd8ce83-65e7-4fd7-a41f-26b5a514d9b6",
+    "image": null,
+    "publishedAt": "2026-09-08T07:32:39Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Japan name Asian Games squad for historic T20I against India in Sano",
     "description": "Japan will host India in a historic one-off T20 International match. This game commemorates seventy-five years of India-Japan diplomatic relations. The Japanese squad selected for this match will also compete in the Asian Games. India, ranked number one, are …",
@@ -88,132 +268,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/20/thumb/fitandfill/1200X628/1740065608-2019.jpg",
     "publishedAt": "2026-09-08T04:26:06Z",
     "author": "AP"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Breaking: Cricket Australia agrees to bring private investment to Big Bash",
-    "description": "Cricket Australia agrees to bring private investment into the Big Bash League, starting with the sale of the Melbourne Renegades.",
-    "url": "https://www.abc.net.au/news/2026-09-08/cricket-australia-agrees-to-bring-private-investment-to-big-bash/107129450",
-    "image": "https://live-production.wcms.abc-cdn.net.au/055db7346c4157ec59047e464a7df393?impolicy=wcms_watermark_news&cropH=2788&cropW=4957&xPos=0&yPos=258&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-08T04:08:01Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Stage set for Rajasthan Cricket Association elections on September 29 as administrator Sawant issues notice",
-    "description": "Cricket News: JAIPUR: The wheels are officially in motion for the Rajasthan Cricket Association (RCA) elections, following a formal notification issued on Monday by.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stage-set-for-rajasthan-cricket-association-elections-on-september-29-as-administrator-sawant-issues-notice/articleshow/133905867.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133906090,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T03:57:12Z",
-    "author": "Mandakini Shalya"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jasprit Bumrah will hold key to NZ series, says Mitchell Santner",
-    "description": "Cricket News: CHENNAI: The road to the World Test Championship (WTC) final for India is getting tougher, with every series carrying greater significance. The task h.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-will-hold-key-to-nz-series-says-mitchell-santner/articleshow/133904742.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133904766,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T03:03:56Z",
-    "author": "M Sudharshan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Duleep Trophy final: Ishan Kishan signals red-ball intent with mammoth 270",
-    "description": "Kishan smashed 270 off 334 balls (30x4, 7x6), taking East to a mammoth 708 all out, Kumar Kushagra chipping in with 101 as well. The double century, his second in first-class cricket, came after a gap of 10 years and has further strengthened his case for a re…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-ishan-kishan-signals-red-ball-intent-with-mammoth-270/articleshow/133904100.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133904182,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T02:38:39Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Pakistan cricket has gone back 10 years’: Saeed Ajmal launches scathing PCB attack",
-    "description": "Saeed Ajmal, the former spinner from Pakistan, has voiced serious concerns regarding the Pakistan Cricket Board's management, asserting that it has demoralized players and stunted their development. He also shifted blame towards Aaqib Javed and Mike Hesson fo…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-has-gone-back-10-years-saeed-ajmal-launches-scathing-pcb-attack/articleshow/133902589.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-08T01:15:00Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "'I let my country down. People are going to be on our case for a while and rightly so': BEN DUCKETT on England's drinking scandals, how he's making up for it under new captain Joe Root and why he prioritised Test cricket over the IPL",
-    "description": "EXCLUSIVE INTERVIEW BY LAWRENCE BOOTH: It's possible no English summer has generated as many uses of the phrase 'the penny has dropped' than 2026, but for Duckett it feels more than a cliche.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16111739/Ben-Duckett-England-Root-IPL.html",
-    "image": "https://i.dailymail.com/1s/2026/09/07/15/111099771-0-image-m-82_1788791645385.jpg",
-    "publishedAt": "2026-09-08T01:00:49Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Punch",
-    "title": "Cricket: Chukwuonye relishes Nigeria’s U-19 World Cup qualifier triumph",
-    "description": "Nigeria’s U-19 women’s cricket captain, Christabel Chukwuonye, shares her emotional reaction to their dramatic World Cup qualifier triumph over Zimbabwe.\n\nRead More: https://punchng.com/cricket-chukwuonye-relishes-nigerias-u-19-world-cup-qualifier-triumph/",
-    "url": "https://punchng.com/cricket-chukwuonye-relishes-nigerias-u-19-world-cup-qualifier-triumph/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/07212457/Cricket-players_1788812697-1200x630.webp",
-    "publishedAt": "2026-09-08T00:23:08Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "HITC - Football, Gaming, Movies, TV, Music",
-    "title": "‘Greatest receiver’ – Michael Irvin labels Miami WR as the greatest he has ever seen",
-    "description": "Michael Irvin was one of the stars on the Dallas Cowboys team that won three Super Bowls in the 90s. The former wide receiver was a five-time Pro Bowler and made multiple All-Pro teams in his career.",
-    "url": "https://www.hitc.com/greatest-receiver-michael-irvin-labels-miami-wr-as-the-greatest-he-has-ever-seen/",
-    "image": "https://s.yimg.com/lo/mysterio/api/7ee33ad289ab0c41af9450b0243dc644ab378335f2ceaa79cd472620a8fa4f1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F1a6e0eb90edf34fca78b3854445d43a6.jpg",
-    "publishedAt": "2026-09-08T00:11:54Z",
-    "author": "Godwin Mathew"
-  },
-  {
-    "source": "Bleed Cubbie Blue",
-    "title": "Brewers 4, Cubs 3: In which Craig Counsell again leaves his starting pitcher in one batter too long",
-    "description": "Pete Crow-Armstrong homered and stole two bases, but it wasn’t enough.",
-    "url": "https://www.bleedcubbieblue.com/chicago-cubs-scores/232536/cubs-brewers-score-pete-crow-armstrong-matthew-boyd-mlb",
-    "image": "https://s.yimg.com/lo/mysterio/api/bdf3329d7a0373041dfd37ac78209c69285d5a20c7ed1f18ab39d8ad30ceb83d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fcfc961a8c852bd4351193394189e62b0.jpg",
-    "publishedAt": "2026-09-07T22:00:57Z",
-    "author": "Al Yellon"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Cowboys guard Tyler Smith will miss at least a month with thumb injury that needs surgery",
-    "description": "Dallas Cowboys left guard Tyler Smith will miss at least the first month of the season because of a left thumb injury that needs surgery. Coach Brian Schottenheimer said Monday the three-time Pro Bowler would go on injured reserve, which means he would have t…",
-    "url": "https://sports.yahoo.com/articles/cowboys-guard-tyler-smith-miss-204501887.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/8b058b29c9bad65bdd19225d146441150ada2941455a1126265e91afff1b700a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc2a5b205020ecaeedb025d11f0c4d602.jpg",
-    "publishedAt": "2026-09-07T20:45:01Z",
-    "author": "SCHUYLER DIXON"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "Cowboys three-time Pro Bowler Tyler Smith to undergo thumb surgery, out 4-6 weeks",
-    "description": "Dallas has 'a ton of confidence' in Smith's replacement to hold down the fort in his absence",
-    "url": "https://www.cbssports.com/nfl/news/cowboys-tyler-smith-to-undergo-thumb-surgery/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2026/09/07/700d3804-e97d-42f0-84f3-ea725cd510ee/thumbnail/1200x675/bd4604db6afdf373d2aca7ed7db1017b/gettyimages-2235812039.jpg",
-    "publishedAt": "2026-09-07T20:27:28Z",
-    "author": "Garrett Podell"
-  },
-  {
-    "source": "The Times of India",
-    "title": "UP cricketers need stronger Ranji Trophy show: Shukla",
-    "description": "BCCI vice-president Rajeev Shukla says UP must improve Ranji Trophy red-ball results, praises UPT20 League, and says Varanasi stadium nears completion.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/up-cricketers-need-stronger-ranji-trophy-show-shukla/articleshow/133895701.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133895700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T19:50:20Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI ropes in Campa Cola, ChatGPT and SBI Life as associate partners for Team India matches till 2028",
-    "description": "The BCCI has appointed Campa Cola, ChatGPT and SBI Life as associate partners for 35 bilateral matches in India through March 2028. Campa Cola emerged as the highest bidder at ₹1.31 crore per match, while ChatGPT and SBI Life bid ₹1.2 crore each, as the board…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-ropes-in-campa-cola-chatgpt-and-sbi-life-as-associate-partners-for-team-india-matches-till-2028/articleshow/133893434.cms",
-    "image": "https://img.etimg.com/thumb/msid-133894076,width-1200,height-630,imgsize-224846,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-07T18:44:48Z",
-    "author": "Javed Farooqui"
-  },
-  {
-    "source": "The Times of India",
-    "title": "I’ve learned from Virat Kohli to thrive under pressure: Venkatesh Iyer",
-    "description": "Cricketer Venkatesh Iyer returned to Bengaluru over the weekend, after his team won the recently concluded league. This time, it was for a new sport —.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/ive-learned-from-virat-kohli-to-thrive-under-pressure-venkatesh-iyer/articleshow/133886100.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133886007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T18:30:00Z",
-    "author": "Trisha Majumder"
   }
 ]
 ;
