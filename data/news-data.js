@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "'I let my country down. People are going to be on our case for a while and rightly so': BEN DUCKETT on England's drinking scandals, how he's making up for it under new captain Joe Root and why he prioritised Test cricket over the IPL",
+    "description": "EXCLUSIVE INTERVIEW BY LAWRENCE BOOTH: It's possible no English summer has generated as many uses of the phrase 'the penny has dropped' than 2026, but for Duckett it feels more than a cliche.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16111739/Ben-Duckett-England-Root-IPL.html",
+    "image": "https://i.dailymail.com/1s/2026/09/07/15/111099771-0-image-m-82_1788791645385.jpg",
+    "publishedAt": "2026-09-08T01:00:49Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Punch",
+    "title": "Cricket: Chukwuonye relishes Nigeria’s U-19 World Cup qualifier triumph",
+    "description": "Nigeria’s U-19 women’s cricket captain, Christabel Chukwuonye, shares her emotional reaction to their dramatic World Cup qualifier triumph over Zimbabwe.\n\nRead More: https://punchng.com/cricket-chukwuonye-relishes-nigerias-u-19-world-cup-qualifier-triumph/",
+    "url": "https://punchng.com/cricket-chukwuonye-relishes-nigerias-u-19-world-cup-qualifier-triumph/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/07212457/Cricket-players_1788812697-1200x630.webp",
+    "publishedAt": "2026-09-08T00:23:08Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "HITC - Football, Gaming, Movies, TV, Music",
+    "title": "‘Greatest receiver’ – Michael Irvin labels Miami WR as the greatest he has ever seen",
+    "description": "Michael Irvin was one of the stars on the Dallas Cowboys team that won three Super Bowls in the 90s. The former wide receiver was a five-time Pro Bowler and made multiple All-Pro teams in his career.",
+    "url": "https://www.hitc.com/greatest-receiver-michael-irvin-labels-miami-wr-as-the-greatest-he-has-ever-seen/",
+    "image": "https://s.yimg.com/lo/mysterio/api/7ee33ad289ab0c41af9450b0243dc644ab378335f2ceaa79cd472620a8fa4f1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F1a6e0eb90edf34fca78b3854445d43a6.jpg",
+    "publishedAt": "2026-09-08T00:11:54Z",
+    "author": "Godwin Mathew"
+  },
+  {
     "source": "Bleed Cubbie Blue",
     "title": "Brewers 4, Cubs 3: In which Craig Counsell again leaves his starting pitcher in one batter too long",
     "description": "Pete Crow-Armstrong homered and stole two bases, but it wasn’t enough.",
