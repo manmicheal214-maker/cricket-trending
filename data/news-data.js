@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Japan name Asian Games squad for historic T20I against India in Sano",
+    "description": "Japan will host India in a historic one-off T20 International match. This game commemorates seventy-five years of India-Japan diplomatic relations. The Japanese squad selected for this match will also compete in the Asian Games. India, ranked number one, are …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/japan-name-asian-games-squad-for-historic-t20i-against-india-in-sano/articleshow/133913841.cms",
+    "image": "https://img.etimg.com/thumb/msid-133914123,width-1200,height-630,imgsize-82640,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-08T07:17:17Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Melbourne Renegades up for sale as CA opens BBL to private investors",
+    "description": "The Renegades sale follows months of discussion within Australian cricket over whether private investment could provide a stronger financial and commercial foundation for the BBL and WBBL",
+    "url": "https://www.business-standard.com/sports/business/melbourne-renegades-up-for-sale-as-ca-opens-bbl-to-private-investors-126090800448_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/resize/1200X628/1788850757-8998.jpg",
+    "publishedAt": "2026-09-08T07:00:49Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli mania in Pakistan: Fans react as members of Pakistan women's cricket team spotted wearing Kohli's One8 shoes during Women's Asia Cup 2026",
+    "description": "Fans reacted after spinner Nashra Sandhu was spotted wearing Kohli's one8 brand shoes during her 6/7 spell at the Women's Asia Cup 2026.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-pakistan-pakistan-womenone8-shoes-womens-asia-cup-2026/b8beb2d8087c620171d13ec3",
+    "image": "https://s.yimg.com/lo/mysterio/api/2cbae4566768662f903a38c94952357a774b7a6d028cd19fcc184963e8d22cb5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9aa377358c14d8062f009ae182e2992c",
+    "publishedAt": "2026-09-08T06:39:08Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "England cricket legend Andrew Flintoff puts stunning Cheshire mansion on the market for £6.75million - complete with its own cinema, swimming pool and games room - four years after his Top Gear car crash",
+    "description": "Flintoff bought the mansion in 2021 from former Manchester United star Phil Neville, who moved to the US to coach Inter Miami, the MLS team owned by David Beckham.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16111667/andrew-flintoff-cheshire-mansion-sale.html",
+    "image": "https://i.dailymail.com/1s/2026/09/07/14/111098015-0-image-m-12_1788787237733.jpg",
+    "publishedAt": "2026-09-08T06:30:46Z",
+    "author": "David Kent"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Kadowaki named captain as Japan announces 15-member squad for India T20I",
+    "description": "The match, to be played under the Suzuki Cup banner, will be Japan's first meeting with India in men's international cricket",
+    "url": "https://www.business-standard.com/cricket/news/kadowaki-named-captain-as-japan-announces-15-member-squad-for-india-t20i-126090800277_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/08/thumb/featurecrop/1200X628/1788844463-7867.jpg",
+    "publishedAt": "2026-09-08T05:14:05Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Patriots' CB Christian Gonzalez reportedly signs record-setting 4-year, $135 million extension",
+    "description": "Christian Gonzalez was an All-Pro in 2024 and a Pro Bowler last season.",
+    "url": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-cb-christian-gonzalez-reportedly-signs-record-setting-4-year-135-million-extension-050259905.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8f4545c90736edee6b01772a52d42647e258fc26333394ba4e6f7f3d5ec360e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F85349edc-682a-4849-b008-efeee1e839d5",
+    "publishedAt": "2026-09-08T05:02:59Z",
+    "author": "Sean Leahy"
+  },
+  {
+    "source": "USA Today",
+    "title": "Cowboys' 3-time Pro Bowler to miss Week 2 vs. Commanders",
+    "description": "The Dallas Cowboys will be without one of their best players for 4-6 weeks, which means he'll miss the Week 2 game vs. Commanders.",
+    "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/09/08/cowboys-pro-bowl-tyler-smith-miss-week-2-game-commanders/91653783007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/9e9ca86263ce016d8002bf599b0e2c6ef2f2457e9476061a046a8c2ab383ae38/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_football_wire_usa_today_sports_articles_166%2F0daed573766c97f242c0803e0e356007.jpg",
+    "publishedAt": "2026-09-08T04:58:36Z",
+    "author": "Bryan Manning, Commanders Wire"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Ishan Kishan reflects on captaincy journey, says it has helped him grow",
+    "description": "Ishan Kishan on Monday said taking up Jharkhand's captaincy role in 2024 helped him grow as a person, as a cricketer and as a leader of men, keeping him away from his wild child days.\nAfter losing the BCCI central contract in late 2023, Kishan returned to his…",
+    "url": "https://www.business-standard.com/cricket/news/ishan-kishan-reflects-on-captaincy-journey-says-it-has-helped-him-grow-126090701271_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788775239-4505.jpg",
+    "publishedAt": "2026-09-08T04:44:49Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Gill will only get better from here, remains a work in progress: Nehra",
+    "description": "India Test and ODI captain Shubman Gill is still a \"work in progress\" as a leader and will get better with experience, his Gujarat Titans team head coach Ashish Nehra said on Monday.\nNehra and Hardik Pandya forged a highly successful captain-coach partnership…",
+    "url": "https://www.business-standard.com/cricket/news/gill-will-only-get-better-from-here-remains-a-work-in-progress-nehra-126090701382_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/resize/1200X628/1787302321-4479.jpg",
+    "publishedAt": "2026-09-08T04:42:09Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Bavuma to lead South Africa in Australia ODIs; de Kock and Coetzee included",
+    "description": "Captain Temba Bavuma was named in South Africa's one-day international cricket squad on Monday for a three-game series at home against Australia this month.\nBavuma will lead the Proteas after being rested for an ODI series away against Namibia starting on Wed…",
+    "url": "https://www.business-standard.com/cricket/news/bavuma-to-lead-south-africa-in-australia-odis-de-kock-and-coetzee-included-126090701528_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/20/thumb/fitandfill/1200X628/1740065608-2019.jpg",
+    "publishedAt": "2026-09-08T04:26:06Z",
+    "author": "AP"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Breaking: Cricket Australia agrees to bring private investment to Big Bash",
+    "description": "Cricket Australia agrees to bring private investment into the Big Bash League, starting with the sale of the Melbourne Renegades.",
+    "url": "https://www.abc.net.au/news/2026-09-08/cricket-australia-agrees-to-bring-private-investment-to-big-bash/107129450",
+    "image": "https://live-production.wcms.abc-cdn.net.au/055db7346c4157ec59047e464a7df393?impolicy=wcms_watermark_news&cropH=2788&cropW=4957&xPos=0&yPos=258&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-08T04:08:01Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Stage set for Rajasthan Cricket Association elections on September 29 as administrator Sawant issues notice",
+    "description": "Cricket News: JAIPUR: The wheels are officially in motion for the Rajasthan Cricket Association (RCA) elections, following a formal notification issued on Monday by.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stage-set-for-rajasthan-cricket-association-elections-on-september-29-as-administrator-sawant-issues-notice/articleshow/133905867.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133906090,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T03:57:12Z",
+    "author": "Mandakini Shalya"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Jasprit Bumrah will hold key to NZ series, says Mitchell Santner",
+    "description": "Cricket News: CHENNAI: The road to the World Test Championship (WTC) final for India is getting tougher, with every series carrying greater significance. The task h.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-will-hold-key-to-nz-series-says-mitchell-santner/articleshow/133904742.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133904766,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T03:03:56Z",
+    "author": "M Sudharshan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Duleep Trophy final: Ishan Kishan signals red-ball intent with mammoth 270",
+    "description": "Kishan smashed 270 off 334 balls (30x4, 7x6), taking East to a mammoth 708 all out, Kumar Kushagra chipping in with 101 as well. The double century, his second in first-class cricket, came after a gap of 10 years and has further strengthened his case for a re…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-ishan-kishan-signals-red-ball-intent-with-mammoth-270/articleshow/133904100.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133904182,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-08T02:38:39Z",
+    "author": "Diptayan Hazra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Pakistan cricket has gone back 10 years’: Saeed Ajmal launches scathing PCB attack",
+    "description": "Saeed Ajmal, the former spinner from Pakistan, has voiced serious concerns regarding the Pakistan Cricket Board's management, asserting that it has demoralized players and stunted their development. He also shifted blame towards Aaqib Javed and Mike Hesson fo…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-has-gone-back-10-years-saeed-ajmal-launches-scathing-pcb-attack/articleshow/133902589.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-08T01:15:00Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "Dailymail.com",
     "title": "'I let my country down. People are going to be on our case for a while and rightly so': BEN DUCKETT on England's drinking scandals, how he's making up for it under new captain Joe Root and why he prioritised Test cricket over the IPL",
     "description": "EXCLUSIVE INTERVIEW BY LAWRENCE BOOTH: It's possible no English summer has generated as many uses of the phrase 'the penny has dropped' than 2026, but for Duckett it feels more than a cliche.",
@@ -79,159 +214,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133886007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-07T18:30:00Z",
     "author": "Trisha Majumder"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps: Mark Chapman to be released from NZ Cricket central contract to chase Australian deal",
-    "description": "The Herald understands Mark Chapman has penned a one-year Big Bash deal.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-mark-chapman-to-be-released-from-nz-cricket-central-contract-to-chase-australian-deal/43WMNWPLN5FVHCEDWOP4TF2JAI/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/WOLCMF5S5NCCZKS2R6YDT67RMY.JPG?auth=5f2e6013ee1a4ea758995e56daef5f4546da4231465390c0a15f716e3a47b96f&width=1200&height=675&quality=70&focal=1686%2C949&smart=false",
-    "publishedAt": "2026-09-07T18:01:00Z",
-    "author": "Alex Powell"
-  },
-  {
-    "source": "BBC News",
-    "title": "Leicestershire sign Bears bowler Gilchrist on loan",
-    "description": "Leicestershire sign Warwickshire fast bowler Nathan Gilchrist on a two-game County Championship loan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cy5zwgzzq6eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/14c30f98a47ae21e5bbedf1b127c87949991103514f17207cb66d4904d424f16/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F95a26838fa16172a5400acf6736fdbbe.jpg",
-    "publishedAt": "2026-09-07T17:50:56Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "BBL privatisation and what it means: Will we see IPL teams invest in the Big Bash League?",
-    "description": "With Cricket Australia announcing the privatisation of the Big Bash League, fans across the cricketing world ponder what the T20 league would look from next season onwards.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bbl-privatisation-means-will-ipl-teams-invest-big-bash-league/a87661b8b044a672a711d1c9",
-    "image": "https://s.yimg.com/lo/mysterio/api/c4d556e27ec9f43ba87d650c265774338146e2ab2034df58a264fefa8ce393b8/lightyear_networkapi/resizefill_w612_h344%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcfbda1390d28e3a1d352c5b64b822e1d",
-    "publishedAt": "2026-09-07T17:22:30Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Former Sussex bowler Tony Buss dies at 87",
-    "description": "Former Sussex bowler Tony Buss, who took 1,098 wickets for the cricket club across all formats, dies aged 87.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crern3p3dwwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/ec0db33bfc5a84b605b7dfd1af1c309847de7507bd94430d9408701c8caeae4a/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F038ac32b1c53bb2b1887e576ad685857.jpg",
-    "publishedAt": "2026-09-07T17:20:48Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'The board itself has demotivated the players': Saeed Ajmal launches scathing attack on Mohsin Naqvi-led PCB",
-    "description": "Pakistan Cricket Board comes under attack from one more former national player as Saeed Ajmal calls out the Mohsin Naqvi-led national board as he claims players have become demotivated.",
-    "url": "https://www.cricketnews.com/en/cricket/news/saeed-ajmal-launches-scathing-attack-mohsin-naqvi-led-pcb/688b3db8676a05d19f220de6",
-    "image": "https://s.yimg.com/lo/mysterio/api/1f9e28d175dbf701d59cfa685cabfd4ee293debd5999bea6c7629b31a2a19634/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6db7a803e1dd5dfdd897948c6b9c948b",
-    "publishedAt": "2026-09-07T17:00:19Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "WATCH: Abhishek Sharma picks Shubman Gill's wicket in Sher-e-Punjab T20 League 2026 match",
-    "description": "Abhishek Sharma continues to prove that power-hitting isn't his only forte as he scalps India skipper Shubman Gill's wicket in the Sher-e-Punjab trophy.",
-    "url": "https://www.cricketnews.com/en/cricket/news/abhishek-sharma-shubman-gill-wicket-sher-e-punjab-t20-league-2026/7ad77ca30de7c1e7cf4ba625",
-    "image": "https://s.yimg.com/lo/mysterio/api/f3f27c34b05f97b110c759318fcddc3cc63976357fd550d1e5f7b5e46a0ac9a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb4236c72827c535277821a362f7ff465",
-    "publishedAt": "2026-09-07T16:44:08Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Will Rohit Sharma and Virat Kohli play the 2027 ODI World Cup? Ashish Nehra says 'Why not?'",
-    "description": "Former India pacer Ashish Nehra said performances can change the situation quickly and it is too early to say whether Rohit and Kohli will still be part of India's ODI plans. The next 50-over World Cup will be held in South Africa, Zimbabwe and Namibia in 202…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/will-rohit-sharma-and-virat-kohli-play-the-2027-odi-world-cup-ashish-nehra-says-why-not/articleshow/133889011.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133889457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T16:32:50Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "KL Rahul stays with DC: Delhi Capitals co-owner Parth Jindal's viral tweet quashes trade rumours ahead of IPL 2027",
-    "description": "Delhi Capitals co-owner Parthi Jindal quashed all trade rumours related to KL Rahul with a viral tweet.",
-    "url": "https://www.cricketnews.com/en/cricket/news/kl-rahul-stays-dc-delhi-capitals-parth-jindal-quashes-rumours/835893649e4cdb1493371271",
-    "image": "https://s.yimg.com/lo/mysterio/api/d813e5ce3fd2a9ece856775fa0d7a17b017763f82b4dec3bca3bf36af22ffb5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F728086c55a1f839a8585eb4d4bb2db2f",
-    "publishedAt": "2026-09-07T16:24:02Z",
-    "author": "Ritabrata_Banerjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Gloucestershire sign Bears bowler Simmons",
-    "description": "Gloucestershire sign fast bowler Che Simmons on loan for the rest of the season ahead of agreeing a permanent deal for 2027.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cj6419220g5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f3874a57bcbc995774364fef26dfdc9239c7faca94f67be8da68b328d991d5d/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffd19f2c9da13ce7d132e3939a0f7627e.jpg",
-    "publishedAt": "2026-09-07T16:12:36Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'North pole and south pole': Ashish Nehra compares Shubman Gill and Hardik Pandya as captains",
-    "description": "Shubman Gill took over as Gujarat Titans captain after Hardik Pandya left the franchise. He led the team to the IPL final in 2026, after Pandya and Nehra had guided GT to the title in their first season in 2022 and another final in 2023. Nehra said Gill and P…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/north-pole-and-south-pole-ashish-nehra-compares-shubman-gill-and-hardik-pandya-as-captains/articleshow/133888610.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133888753,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T16:05:37Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Thesportingtribune.com",
-    "title": "How Rookie IGL vora led 100 Thieves to the VALORANT World Championships",
-    "description": "100 Thieves in-game leader vora is ready to lead the team to their first VALORANT Champions trophy.",
-    "url": "https://www.thesportingtribune.com/2026/09/06/100-thieves-vora-vct-americas-stage-2-2026",
-    "image": "https://s.yimg.com/lo/mysterio/api/96d9c8cc4674e733f60db74e22ee044718d6b011ffbc5c1c7afa23f394701bb0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_tribune_articles_423%2F3393fd1cb96647e25071f85884b8ec05.jpg",
-    "publishedAt": "2026-09-07T16:00:00Z",
-    "author": "Sage Datuin"
-  },
-  {
-    "source": "BBC News",
-    "title": "Captain Du Plooy and boss Coleman to leave Middlesex",
-    "description": "Middlesex captain Leus du Plooy and director of cricket Alan Coleman will both leave the club at the end of the year.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cdr73k3nm3yo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-07T15:55:42Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Rohit Sharma and Virat Kohli ODI record in New Zealand: Mitchell Santner looking forward to face 'masters of ODI' as India tour NZ",
-    "description": "With Rohit Sharma and Virat Kohli all set to be part of India's squad for the 5-match ODI series in New Zealand, skipper Mitchell Santner is looking forward to facing the duo.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-virat-kohli-odi-record-new-zealand/48a0e3d835a6ebd93f288eb1",
-    "image": "https://s.yimg.com/lo/mysterio/api/a1356134bc4ed878c0f492aee5094f64e57f603a0c594b6d89bc3692294c4dd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb4f81b91a4bb21f46fcb09cde5cf84b4",
-    "publishedAt": "2026-09-07T15:55:28Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sachin Tendulkar buys 3.86 acres of land in Lonavala for around Rs 70 crore; pays Rs 63.69 crore for largest 3.09-acre parcel, acquires two other properties through 50% undivided shares",
-    "description": "Sachin Tendulkar has purchased 3.86 acres of land in Lonavala for around Rs 70 crore through three separate deals. The cricket legend paid Rs 63.69 crore for the largest 3.09-acre parcel, acquiring 100% ownership. He also purchased 50% undivided shares in two…",
-    "url": "https://timesofindia.indiatimes.com/real-estate/news/sachin-tendulkar-buys-3-86-acres-of-land-in-lonavala-for-around-rs-70-crore-pays-rs-63-69-crore-for-largest-3-09-acre-parcel-acquires-two-other-properties-through-50-undivided-shares/articleshow/133887287.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133887445,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T15:24:21Z",
-    "author": "TOI Real Estate Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pakistan Cricket Board initiates inquiry after recalling 7 players from tour of England",
-    "description": "The Pakistan Cricket Board is conducting an internal “disciplinary” inquiry against unnamed players after recalling seven cricketers and two coaches midway through the tour of England. “The PCB has initiated an internal disciplinary inquiry following media re…",
-    "url": "https://sports.yahoo.com/articles/pakistan-cricket-board-initiates-inquiry-150843667.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/19a34d0867cd9480e5efc54f1d18f5ded8d7258d45160ed2751d4a76aba6baac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F64ac1a3e448de2ac190f7a20f68e657f.jpg",
-    "publishedAt": "2026-09-07T15:08:43Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "I’ve learned from Virat Kohli to thrive under pressure: Venkatesh Iyer",
-    "description": "Cricketer Venkatesh Iyer returned to Bengaluru over the weekend, after his team won the recently concluded league. This time, it was for a new sport —.",
-    "url": "https://timesofindia.indiatimes.com/entertainment/events/bangalore/ive-learned-from-virat-kohli-to-thrive-under-pressure-venkatesh-iyer/articleshow/133885976.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133886007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-07T14:44:36Z",
-    "author": "Trisha Majumder"
-  },
-  {
-    "source": "True Blue LA",
-    "title": "Edwin Díaz starts rehab assignment, Zach Ehrhard leads Oklahoma City to sweep",
-    "description": "Dodgers closer Edwin Díaz started a rehab assignment on Sunday with Oklahoma City, and pitched a scoreless inning, though it wasn’t clean. He walked a batter and threw only seven strikes among his 16 pitches, and did not induce a swinging strike, though did g…",
-    "url": "https://www.truebluela.com/los-angeles-dodgers-prospects/123513/edwin-diaz-zach-ehrhard",
-    "image": "https://s.yimg.com/lo/mysterio/api/ffcbd99001866d40c99f545ebd9e81d3f4853ccef4edd27a15647f3809c6c6d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F81eb72cc08a8cd92657cd46bda25dff2.jpg",
-    "publishedAt": "2026-09-07T14:05:00Z",
-    "author": "Eric Stephen"
   }
 ]
 ;
