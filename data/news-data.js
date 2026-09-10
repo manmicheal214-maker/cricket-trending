@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Rlsbb.cc",
+    "title": "Help We Bought A Village S05E03 1080p WEB-DL H264-5Pr1N680K",
+    "description": "Season 5, Episode 03 – As storms continue to batter Portugal, Steve and Sarah pick up the pieces and prevent further damage. In France, Adrian and Rachel learn new skills to shore up their hamlet’s collapsing barns. Links: HOMEPAGE – TVDBHelp.We.Bought.A.Vill…",
+    "url": "https://post.rlsbb.cc/help-we-bought-a-village-s05e03-1080p-web-dl-h264-5pr1n680k/",
+    "image": null,
+    "publishedAt": "2026-09-09T20:11:04Z",
+    "author": "Robotnico"
+  },
+  {
+    "source": "BBC News",
+    "title": "Gay should open for England in South Africa - Cook",
+    "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cj4jwpn94k2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7286da19bc2e5c6b749417f3a3d2ddfd8cd9d1e378055bdc18efc427a3caac1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb628c635b4b8d26fed124ded612079f4.jpg",
+    "publishedAt": "2026-09-09T19:24:02Z",
+    "author": "Timothy Abraham - BBC Sport journalist at Edgbaston"
+  },
+  {
+    "source": "BBC News",
+    "title": "Gay should open for England in South Africa - Cook",
+    "description": "England batter Emilio Gay has done enough to lock in an opener's spot for their winter tour of South Africa, according to Sir Alastair Cook.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4jwpn94k2o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cef3/live/c6ae8c90-ac82-11f1-994b-c7df927931ed.jpg",
+    "publishedAt": "2026-09-09T19:22:25Z",
+    "author": "Timothy Abraham"
+  },
+  {
     "source": "Biztoc.com",
     "title": "Cowboys Add Former First-Round Offensive Lineman After Injury to Pro Bowler",
     "description": "The Dallas Cowboys recently learned that they have lost three-time Pro Bowl guard Tyler Smith for at least four weeks as he is set to have thumb surgery. So, the team has since decided to add some much-needed depth and insurance at the position.\nAccording to …",
@@ -88,24 +115,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-133971777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-09T13:50:05Z",
     "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "Thecownews.com",
-    "title": "Wasim Akram Raises Concern Over Imran Khan Health",
-    "description": "LAHORE (The COW News Digital) Former Pakistan cricket captain Wasim Akram has expressed concern over the health of former Prime Minister Imran Khan, saying",
-    "url": "https://www.thecownews.com/pakistan/wasim-akram-raises-concern-over-imran-khan-health/",
-    "image": "https://www.thecownews.com/wp-content/uploads/2026/09/Wasim-Akram-Raises-Concern-Over-Imran-Khan-Health.webp",
-    "publishedAt": "2026-09-09T12:31:07Z",
-    "author": "News Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'I don't know how to defend': Helpless Ramiz Raja reacts to the turmoil in current Pakistan cricket team",
-    "description": "With Pakistan once again struggling against England and Babar Azam helpless to defend his team, former skipper Ramiz Raja looks at the turmoil surrounding PC...",
-    "url": "https://www.cricketnews.com/en/cricket/news/ramiz-raja-reacts-turmoil-current-pakistan-cricket-team/76e5c088f7be1bc44c81469d",
-    "image": "https://s.yimg.com/lo/mysterio/api/731e8b49a9e4b5c1240aac1c482ed629db7aaaf3410bf3139e2cbd25443172f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8cd1051fb0973e169528891d74af71fb",
-    "publishedAt": "2026-09-09T11:35:52Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
