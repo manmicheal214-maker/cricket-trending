@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Least successful Test captains XI': Sachin Tendulkar, Brian Lara, Kapil Dev and Shan Masood feature in Iceland Cricket's unique Test team",
+    "description": "While individually, any of them might be an all-time legend, Iceland Cricket's latest tweet has branded 11 players as a team of losers, including Lara and Tendulkar.",
+    "url": "https://www.cricketnews.com/en/cricket/news/least-successful-test-captains-xi-tendulkar-lara-iceland-cricket/ad5bd0459e4ae458590f72f1",
+    "image": "https://s.yimg.com/lo/mysterio/api/0fdbea7bb8c4659eb148bb4d7216ba00403221b23e11eca6bfc4b50c6c482113/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cde58f4c10037b81670053e2199bede",
+    "publishedAt": "2026-09-09T13:54:38Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Varun Chakravarthy's second act: Why India's mystery spinner still believes he's only halfway through his career",
+    "description": "After a T20 World Cup triumph and having recovered from the first muscle injury of his career, Varun Chakravarthy says he still feels he's only in the 'first half' of his cricket journey. The mystery spinner reflects on rehab, the importance of equipment, con…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/varun-chakravarthys-second-act-why-indias-mystery-spinner-still-believes-hes-only-halfway-through-his-career/articleshow/133971642.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133971777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T13:50:05Z",
+    "author": "Tanuj Lakhina"
+  },
+  {
+    "source": "Thecownews.com",
+    "title": "Wasim Akram Raises Concern Over Imran Khan Health",
+    "description": "LAHORE (The COW News Digital) Former Pakistan cricket captain Wasim Akram has expressed concern over the health of former Prime Minister Imran Khan, saying",
+    "url": "https://www.thecownews.com/pakistan/wasim-akram-raises-concern-over-imran-khan-health/",
+    "image": "https://www.thecownews.com/wp-content/uploads/2026/09/Wasim-Akram-Raises-Concern-Over-Imran-Khan-Health.webp",
+    "publishedAt": "2026-09-09T12:31:07Z",
+    "author": "News Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'I don't know how to defend': Helpless Ramiz Raja reacts to the turmoil in current Pakistan cricket team",
+    "description": "With Pakistan once again struggling against England and Babar Azam helpless to defend his team, former skipper Ramiz Raja looks at the turmoil surrounding PC...",
+    "url": "https://www.cricketnews.com/en/cricket/news/ramiz-raja-reacts-turmoil-current-pakistan-cricket-team/76e5c088f7be1bc44c81469d",
+    "image": "https://s.yimg.com/lo/mysterio/api/731e8b49a9e4b5c1240aac1c482ed629db7aaaf3410bf3139e2cbd25443172f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8cd1051fb0973e169528891d74af71fb",
+    "publishedAt": "2026-09-09T11:35:52Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sri Lanka Cricket faces estimated revenue loss of USD 20 million",
+    "description": "In a blow to Sri Lanka Cricket, the organization has lost its chance to host the 2027 ICC Women's Champions Trophy, which will now be held in India in February 2027. Citing government meddling and absence of a legitimate administration, the ICC's decision und…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sri-lanka-cricket-faces-estimated-revenue-loss-of-usd-20-million/articleshow/133965358.cms",
+    "image": "https://img.etimg.com/thumb/msid-133965832,width-1200,height-630,imgsize-74136,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-09T11:02:06Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "In 1936, an Indian fast bowler's delivery killed a bird at Lord's. The bird was stuffed and mounted on the same ball and now sits in the MCC Museum",
+    "description": "Cricket News: Every corner of Lord's Cricket Ground has a story. Since opening in 1814, the venue in London's St John's Wood has become one of cricket's most iconic.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/in-1936-an-indian-fast-bowlers-delivery-killed-a-bird-at-lords-the-bird-was-stuffed-and-mounted-on-the-same-ball-and-now-sits-in-the-mcc-museum/articleshow/133962435.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133962976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T10:51:16Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Just grab the piece of wood': Rashid Khan recalls growing up without a proper bat",
+    "description": "Cricket News: Rashid Khan has become the most recognised figure in Afghanistan cricket and the country’s first global cricket superstar. He now has franchise contra.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-grab-the-piece-of-wood-rashid-khan-recalls-growing-up-without-a-proper-bat/articleshow/133964976.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133965158,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T10:49:01Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Robinson gives England perfect start as he takes 100th Test wicket",
+    "description": "England bowler Ollie Robinson's perfect summer continues as he removes Pakistan opener Saim Ayub early on day one of the Third Test at Edgbaston, with the batter becoming Robinson's 100th wicket in Test Cricket.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c2kwz4k4yw3o",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0b57/live/774d3290-ac38-11f1-b1d1-571ed4d7ff2c.jpg",
+    "publishedAt": "2026-09-09T10:35:04Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "MasterChef quarter-finalist told customers her burger van was closed for 'family emergency' when she was actually transporting 20kg of cannabis",
+    "description": "Kayleigh Bowler, 40, who reached the quarter finals of the BBC cooking show last year, was spared jail after travelling 250 miles to pick up the drugs, blaming declining custom at her catering business.",
+    "url": "https://www.dailymail.com/news/article-16116989/MasterChef-quarter-finalist-burger-van-closed-family-emergency-transporting-cannabis.html",
+    "image": "https://i.dailymail.com/1s/2026/09/09/10/111137487-0-image-a-11_1788947928838.jpg",
+    "publishedAt": "2026-09-09T10:14:17Z",
+    "author": "James Tozer"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "France's Champagne Output Set To Crash 48% As Harvest Crisis, Sliding Chinese Demand Batter Vineyards",
+    "description": "France's Champagne Output Set To Crash 48% As Harvest Crisis, Sliding Chinese Demand Batter Vineyards \n \nA perfect storm of sliding demand, shrinking vineyard acreage, and weather-damaged yields has sent France's Champagne output forecast for this year plungi…",
+    "url": "https://biztoc.com/x/212754335093e3cc",
+    "image": "https://biztoc.com/cdn/212754335093e3cc_s.webp",
+    "publishedAt": "2026-09-09T09:56:26Z",
+    "author": "zerohedge.com"
+  },
+  {
+    "source": "BBC News",
+    "title": "Australian Poulton appointed England women's chief",
+    "description": "The England and Wales Cricket Board appoints Australian Leah Poulton as the managing director of England women.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cd08dkv0x51o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/90b899da7e2ad881dc57344ba4719af33560a1f24475248e1b3502e92fe271cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6347dc6fe9884d6cb1a511556893a7df.jpg",
+    "publishedAt": "2026-09-09T09:49:08Z",
+    "author": "Mandeep Sanghera - BBC Sport journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Australian Poulton appointed England women's chief",
+    "description": "The England and Wales Cricket Board appoints Australian Leah Poulton as the managing director of England women.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cd08dkv0x51o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea74/live/715803f0-ac2f-11f1-b483-f5be285e6b7e.jpg",
+    "publishedAt": "2026-09-09T09:49:03Z",
+    "author": "Mandeep Sanghera"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs AUS: Ruturaj Gaikwad, Devdutt Padikkal to lead squad; Hardik Pandya's role subject to fitness",
+    "description": "The Board of Control for Cricket in India has announced India A squads. Devdutt Padikkal will lead the team in two multi-day matches. Ruturaj Gaikwad captains the side for three one-day games. Hardik Pandya is included in the one-day squad pending fitness cle…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-aus-ruturaj-gaikwad-devdutt-padikkal-to-lead-squad-hardik-pandyas-role-subject-to-fitness-clearance-rajat-patidar-sai-sudharsan/articleshow/133962330.cms",
+    "image": "https://img.etimg.com/thumb/msid-133962634,width-1200,height-630,imgsize-125452,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-09T09:39:31Z",
+    "author": "ET Online"
+  },
+  {
     "source": "The Times of India",
     "title": "Mike Fordham takes charge as ILT20 interim COO after David White's exit",
     "description": "Cricket News: The International League T20 (ILT20) has appointed Mike Fordham as its interim Chief Operating Officer with immediate effect, less than a week after c.",
@@ -70,168 +187,6 @@ window.cricketNews = [
     "image": "https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn-2560-80.jpg",
     "publishedAt": "2026-09-09T06:00:00Z",
     "author": "Krishi Chowdhary"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ishan Kishan knocking on India door with Test case",
-    "description": "Coming after a season in which Ishan has consistently delivered in both white-ball and red-ball cricket, it offered a strong indication that he has developed the temperament and game to succeed in the longest format.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-knocking-on-india-door-with-test-case/articleshow/133953171.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133953258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T04:47:42Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Supreme Court cracks the whip! CJI Surya Kant asks BCCI and state units why the NSG Act 2025 shouldn't govern them",
-    "description": "Tired of 12 years of endless cricket disputes, the Supreme Court asked the BCCI and state bodies why they should not be brought under the NSG Act 2025.",
-    "url": "https://www.cricketnews.com/en/cricket/news/supreme-court-cji-surya-kant-bcci-nsg-act-2025/262e826fb14627c903d56d07",
-    "image": "https://s.yimg.com/lo/mysterio/api/f493e4f023321dde87e94afc86271b920c9d66551c04c1a9303547d1dc24b1b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F22b7bf475599126412844251cbcba85f",
-    "publishedAt": "2026-09-09T04:30:13Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pakistan squad overhaul was news to me says Babar ahead of England Test",
-    "description": "Pakistan captain Babar Azam admitted he was blindsided by the decision to tear up his squad ahead of this week's final cricket test against England, saying the drastic cull was \"news to me.\"\nBabar learned of the wholesale changes only after an official statem…",
-    "url": "https://www.business-standard.com/cricket/news/pakistan-squad-overhaul-was-news-to-me-says-babar-ahead-of-england-test-126090801704_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/21/thumb/fitandfill/1200X628/1724238593-734.jpg",
-    "publishedAt": "2026-09-09T04:21:32Z",
-    "author": "AP"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Who is Laila Faisal, the fashion entrepreneur linked to Abhishek Sharma? Here’s what to know about the cricketer’s rumoured girlfriend",
-    "description": "Laila Faisal, a prominent fashion entrepreneur from Delhi, has sparked dating rumors with cricketer Abhishek Sharma thanks to her frequent appearances at his matches and intriguing social media shares. As the co-founder of LRF Designs, a luxury brand dedicate…",
-    "url": "https://timesofindia.indiatimes.com/relationships/who-is-laila-faisal-the-fashion-entrepreneur-linked-to-abhishek-sharma-heres-what-to-know-about-the-cricketers-rumoured-girlfriend/articleshow/133951451.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133951459,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T03:47:46Z",
-    "author": "TIMESOFINDIA.COM"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI relents on Asian Games stay, agrees to stay in designated hotels",
-    "description": "Cricket News: NEW DELHI: The Indian cricket board (BCCI) has relented on the accommodation issue for the Asian Games, agreeing that the country's cricketers will st.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-relents-on-asian-games-stay-agrees-to-stay-in-designated-hotels/articleshow/133950849.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133950924,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T03:28:26Z",
-    "author": "Sabi Hussain"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Major state fears cricket will be worse off with private investment",
-    "description": "The decision to introduce private investment into the Big Bash leagues risks leaving cricket in Australia \"strategically and financially worse off\", according to Cricket NSW.",
-    "url": "https://www.abc.net.au/news/2026-09-09/nsw-cricket-private-investment-big-bash-reply/107133326",
-    "image": "https://live-production.wcms.abc-cdn.net.au/e6817622a098c9e42e7981c740ef19a7?impolicy=wcms_watermark_news&cropH=2158&cropW=3836&xPos=0&yPos=317&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-09T03:23:47Z",
-    "author": "Michael Doyle"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why shouldn’t National Sports Governance Act apply to BCCI, asks Supreme Court",
-    "description": "If the BCCI and state cricket associations agree to be covered under the NSG Act and the Rules framed thereunder, then all the litigation pending before the SC relating to the functioning and management of cricket bodies would get transferred to the sports tr…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-shouldnt-national-sports-governance-act-apply-to-bcci-state-bodies-asks-supreme-court/articleshow/133950604.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133950702,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T03:18:02Z",
-    "author": "Dhananjay Mahapatra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Washington Sundar declared fit, Jasprit Bumrah awaits nod",
-    "description": "Cricket News: MUMBAI: Off-spinning allrounder Washington Sundar, who missed the two-Test series in Sri Lanka due to a hamstring injury, has been cleared to play in .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/washington-sundar-declared-fit-jasprit-bumrah-awaits-nod/articleshow/133950539.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133950538,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T03:12:08Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Punch",
-    "title": "Cricket: Akpata rewards W’Cup-bound U-19 girls with scholarships",
-    "description": "Nigeria’s U-19 women’s cricket team has been awarded full university scholarships after qualifying for the 2027 ICC T20 World Cup. Read more.\n\nRead More: https://punchng.com/cricket-akpata-rewards-wcup-bound-u-19-girls-with-scholarships/",
-    "url": "https://punchng.com/cricket-akpata-rewards-wcup-bound-u-19-girls-with-scholarships/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/09034038/Screenshot-2026-09-09-033837_1788921638-1066x630.webp",
-    "publishedAt": "2026-09-09T03:10:45Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Duleep Trophy final: Mukesh Kumar, Mohammed Shami help East take control",
-    "description": "Cricket News: CHENNAI: Mohammed Shami and Mukesh Kumar may currently find themselves outside India's red-ball set-up, but the two Bengal pacers offered a timely rem.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-mukesh-kumar-mohammed-shami-help-east-take-control/articleshow/133950425.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133950424,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T03:06:11Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Disrespectful' to say Pakistan showed no fight: Joe Root defends Babar Azam's side ahead of third Test",
-    "description": "Cricket News: England captain Joe Root has defended Pakistan ahead of the third Test at Edgbaston, saying it is \\\"disrespectful\\\" to claim the visitors have shown \\\"no.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/disrespectful-to-say-pakistan-showed-no-fight-joe-root-defends-babar-azams-side-ahead-of-third-test/articleshow/133949481.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133949700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T02:39:06Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "‘We Didn’t Get Invited’ — 3-Time Pro Bowler Reveals Whether He’s Still Close With Travis Kelce After Surprise Wedding Snub",
-    "description": "Taylor Lewan spent part of the summer wondering how a decade-long friendship with Travis Kelce somehow failed to produce a wedding invitation. Two months later, the former Tennessee Titans star sounds considerably less concerned about where they stand.",
-    "url": "https://www.profootballnetwork.com/taylor-lewan-travis-kelce-taylor-swift-surprise-wedding-snub/?utm_medium=rss&amp;utm_source=nordot",
-    "image": "https://s.yimg.com/lo/mysterio/api/02a0cfaf9a4852e6b53952622f2b2754a7665b137a6f04d86c35e63e315d597e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F48bd6d38e814451a78e6cb1e56bff139.jpg",
-    "publishedAt": "2026-09-09T02:35:56Z",
-    "author": "Colin Witte"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I knew before the series': Wasim Akram predicts Pakistan's 3-0 England whitewash",
-    "description": "Pakistan's poor performances have attracted criticism, but the Pakistan Cricket Board's major changes after the second Test have also shocked the cricket world. The PCB sent seven players from the squad back home and sacked head coach Sarfaraz Ahmed and his s…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-knew-we-were-going-to-lose-3-0-wasim-akrams-brutal-verdict-on-pakistan-cricket-crisis/articleshow/133948687.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133948794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T02:09:58Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘The series is lost but we have nothing to lose’: Babar Azam rallies Pakistan for Edgbaston Test against England",
-    "description": "Pakistan captain Babar Azam wants his team to play freely in the final Test. The Pakistan Cricket Board made significant changes after two heavy defeats. Seven players were released and new faces joined the touring squad. Babar Azam expressed surprise at the …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-series-is-lost-but-we-have-nothing-to-lose-babar-azam-rallies-pakistan-for-edgbaston-test-against-england/articleshow/133935541.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133935641,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-09T00:56:47Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Rams Pro Bowler States Clear Goal for the 2026 Season",
-    "description": "Los Angeles Rams EDGE rusher Byron Young states his goals for the 2026 season as he enters the final year of his rookie contract The post Rams Pro Bowler States Clear Goal for the 2026 Season appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/los-angeles-rams/rams-byron-young-goal-super-bowl/",
-    "image": "https://s.yimg.com/lo/mysterio/api/f46db6a89dead57bd80db4974aa85aaaaa9e409931cc1be1801898796c44594e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Ffebd3c4eaedd4e76f6f2106df12959d5.jpg",
-    "publishedAt": "2026-09-09T00:55:40Z",
-    "author": "Jason Garcia"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Netanyahu heads to UN as New York mayor Zohran Mamdani calls for his arrest",
-    "description": "Israeli Prime Minister Benjamin Netanyahu will attend the UN gathering this month.  New York's mayor urged his arrest, which the envoy called political maneuvering.  Netanyahu faces an ICC arrest warrant for alleged war crimes in Gaza.  He will address the UN…",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-heads-to-un-as-new-york-mayor-zohran-mamdani-calls-for-his-arrest/articleshow/133947687.cms",
-    "image": "https://img.etimg.com/thumb/msid-133947705,width-1200,height-630,imgsize-104254,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-09T00:55:20Z",
-    "author": "AP"
-  },
-  {
-    "source": "The Punch",
-    "title": "MBF seeks El-Rufai’s ICC prosecution over Kaduna killings",
-    "description": "The Middle Belt Forum is demanding Nasir El-Rufai’s prosecution at the ICC over the Kaduna killings during his tenure as governor of the state.\n\nRead More: https://punchng.com/mbf-seeks-el-rufais-icc-prosecution-over-kaduna-killings/",
-    "url": "https://punchng.com/mbf-seeks-el-rufais-icc-prosecution-over-kaduna-killings/",
-    "image": "https://punchng.com/wp-content/uploads/2026/06/El-Rufai.webp",
-    "publishedAt": "2026-09-08T23:20:07Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "San Francisco Chronicle",
-    "title": "49ers will avoid facing Rams DT Aaron Donald, who won't travel to Australia",
-    "description": "Good news for the San Francisco 49ers: Rams defensive tackle Aaron Donald won't play on Thursday night in the season opener at Melbourne Cricket Ground.",
-    "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-won-t-face-rams-dt-aaron-donald-staying-22422736.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-    "image": "https://s.yimg.com/lo/mysterio/api/07031a81572df90e0f74fea1eeaadefcb412661b6873ca91e54a5794a5c70376/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F67439936c1b02970f9cfabc996502c58.jpg",
-    "publishedAt": "2026-09-08T21:49:09Z",
-    "author": "Eric Branch"
   }
 ]
 ;
