@@ -1,6 +1,105 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Mike Fordham takes charge as ILT20 interim COO after David White's exit",
+    "description": "Cricket News: The International League T20 (ILT20) has appointed Mike Fordham as its interim Chief Operating Officer with immediate effect, less than a week after c.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mike-fordham-takes-charge-as-ilt20-interim-coo-after-david-whites-exit/articleshow/133959496.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133959671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T08:04:01Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs New Zealand: Ticket sales soar past 50,000",
+    "description": "New Zealand Cricket has sold over fifty thousand tickets for the upcoming India series.  India will play five T20 Internationals, five One Day Internationals, and two Test matches.  Several matches are nearing sell-out status, indicating strong public interes…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-new-zealand-ticket-sales-soar-past-50000/articleshow/133957049.cms",
+    "image": "https://img.etimg.com/thumb/msid-133959241,width-1200,height-630,imgsize-123850,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-09T07:49:22Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Namibia vs South Africa 1st ODI Live Score",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/namibia-vs-south-africa-nam-vs-sa-1st-odi-live-score-updates-commentary-windhoek/liveblog/133958437.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133958437,width-1280,height-720,imgsize-79084,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T07:27:42Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Why isn't BCCI under national sports law? Supreme Court seeks answers from Indian cricket bodies again",
+    "description": "The long-running matter had previously resulted in significant changes to the administration of Indian cricket. The apex court had appointed a committee led by former Chief Justice of India R M Lodha to recommend reforms for the BCCI, including the drafting o…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/why-isnt-bcci-under-national-sports-law-supreme-court-seeks-answers-from-indian-cricket-bodies-again/articleshow/133958009.cms",
+    "image": "https://img.etimg.com/thumb/msid-133958135,width-1200,height-630,imgsize-225108,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-09T07:19:13Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Former Raiders Pro Bowler calls out team over decision to trade Maxx Crosby",
+    "description": "Were the Raiders in the right?",
+    "url": "https://www.sportingnews.com/us/nfl/las-vegas-raiders/news/former-raiders-pro-bowler-calls-out-decision-maxx-crosby/c2172f23bb18388371eaf41f",
+    "image": "https://s.yimg.com/lo/mysterio/api/05cf18e0727df5409e65263b29820cd35c620dde8bd317287078971dee919fad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb7928e705d777bf0de0e7072b182a5c2",
+    "publishedAt": "2026-09-09T06:38:31Z",
+    "author": "Jon Conahan"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Threatens the entire system!' NSW rebels against Cricket Australia over $1BN BBL privatisation plan",
+    "description": "Cricket NSW slammed Cricket Australia's decision to privatise the BBL, warning that siphoning profits to external investors threatens grassroots investment.",
+    "url": "https://www.cricketnews.com/en/cricket/news/nsw-rebels-against-cricket-australia-bbl-privatisation/700243a4a665917d84d2f0e2",
+    "image": "https://s.yimg.com/lo/mysterio/api/c4d556e27ec9f43ba87d650c265774338146e2ab2034df58a264fefa8ce393b8/lightyear_networkapi/resizefill_w612_h344%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcfbda1390d28e3a1d352c5b64b822e1d",
+    "publishedAt": "2026-09-09T06:30:14Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Campa, SBI Life and ChatGPT announced as BCCI's new associate partners",
+    "description": "The three partnerships will begin with India's home series against the West Indies and cover the Board's home international cricket commitments until March 2028",
+    "url": "https://www.business-standard.com/sports/business/campa-sbi-life-and-chatgpt-announced-as-bcci-s-new-associate-partners-126090900384_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/resize/1200X628/1788934658-5567.jpg",
+    "publishedAt": "2026-09-09T06:18:45Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "TechRadar",
+    "title": "How to watch England vs Pakistan 3rd Test: Free Streams, TV Channels & TIckets",
+    "description": "All the ways to watch the 3rd Test match between England and Pakistan at Edgbaston, including free streams as the cricket series concludes in Birmingham.",
+    "url": "https://www.techradar.com/how-to-watch/cricket/england-vs-pakistan-3rd-test-free-streams",
+    "image": "https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn-2560-80.jpg",
+    "publishedAt": "2026-09-09T06:00:00Z",
+    "author": "Krishi Chowdhary"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ishan Kishan knocking on India door with Test case",
+    "description": "Coming after a season in which Ishan has consistently delivered in both white-ball and red-ball cricket, it offered a strong indication that he has developed the temperament and game to succeed in the longest format.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-knocking-on-india-door-with-test-case/articleshow/133953171.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133953258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-09T04:47:42Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Supreme Court cracks the whip! CJI Surya Kant asks BCCI and state units why the NSG Act 2025 shouldn't govern them",
+    "description": "Tired of 12 years of endless cricket disputes, the Supreme Court asked the BCCI and state bodies why they should not be brought under the NSG Act 2025.",
+    "url": "https://www.cricketnews.com/en/cricket/news/supreme-court-cji-surya-kant-bcci-nsg-act-2025/262e826fb14627c903d56d07",
+    "image": "https://s.yimg.com/lo/mysterio/api/f493e4f023321dde87e94afc86271b920c9d66551c04c1a9303547d1dc24b1b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F22b7bf475599126412844251cbcba85f",
+    "publishedAt": "2026-09-09T04:30:13Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Pakistan squad overhaul was news to me says Babar ahead of England Test",
+    "description": "Pakistan captain Babar Azam admitted he was blindsided by the decision to tear up his squad ahead of this week's final cricket test against England, saying the drastic cull was \"news to me.\"\nBabar learned of the wholesale changes only after an official statem…",
+    "url": "https://www.business-standard.com/cricket/news/pakistan-squad-overhaul-was-news-to-me-says-babar-ahead-of-england-test-126090801704_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/21/thumb/fitandfill/1200X628/1724238593-734.jpg",
+    "publishedAt": "2026-09-09T04:21:32Z",
+    "author": "AP"
+  },
+  {
+    "source": "The Times of India",
     "title": "Who is Laila Faisal, the fashion entrepreneur linked to Abhishek Sharma? Here’s what to know about the cricketer’s rumoured girlfriend",
     "description": "Laila Faisal, a prominent fashion entrepreneur from Delhi, has sparked dating rumors with cricketer Abhishek Sharma thanks to her frequent appearances at his matches and intriguing social media shares. As the co-founder of LRF Designs, a luxury brand dedicate…",
     "url": "https://timesofindia.indiatimes.com/relationships/who-is-laila-faisal-the-fashion-entrepreneur-linked-to-abhishek-sharma-heres-what-to-know-about-the-cricketers-rumoured-girlfriend/articleshow/133951451.cms",
@@ -133,60 +232,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/07031a81572df90e0f74fea1eeaadefcb412661b6873ca91e54a5794a5c70376/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F67439936c1b02970f9cfabc996502c58.jpg",
     "publishedAt": "2026-09-08T21:49:09Z",
     "author": "Eric Branch"
-  },
-  {
-    "source": "Deadline",
-    "title": "Prime Video Adds ‘The Test’ Season 4 & True-Crime Docs On Backpacker Poisonings And Killer Trio To Australian Slate",
-    "description": "EXCLUSIVE: Prime Video has ordered a pair of true crime docs and a fourth season of cricket series The Test to its originals cabinet in Australia. Free Spirits: The Backpacker Poisonings (working title) and Madness of Three comprise the new orders at the Amaz…",
-    "url": "http://deadline.com/2026/09/prime-video-true-crime-docs-the-test-season-4-1237069374/",
-    "image": "https://deadline.com/wp-content/uploads/2026/09/Free-Spirits-The-Backpacker-Poisonings-and-Madness-of-Three-1.jpg?w=1024",
-    "publishedAt": "2026-09-08T20:00:00Z",
-    "author": "Jesse Whittock"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI’s Under-23 T20 shift puts UPT20 performers in spotlight",
-    "description": "BCCI shifts Men’s Under-23 State A Trophy to T20, boosting UPT20 League’s role in UP selection and attracting more IPL scout attention.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/bccis-under-23-t20-shift-puts-upt20-performers-in-spotlight/articleshow/133940206.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133940202,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T19:38:30Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Four UPCA directors likely to be appointed at AGM on Sept 30",
-    "description": "UPCA AGM on Sept 30 in Kanpur may reappoint four directors, keep office-bearers, renominate chairman Sanjay Kapoor, name UP T20 Council and selectors.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/four-upca-directors-likely-to-be-appointed-at-agm-on-sept-30/articleshow/133939824.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-08T19:23:22Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps: Mitchell Santner turns down huge Australian T20 deal to commit to New Zealand captaincy, test schedule",
-    "description": "The Black Caps’ white ball captain has turned down a huge contract to play in Australia.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-mitchell-santner-turns-down-huge-australian-t20-deal-to-commit-to-new-zealand-captaincy-test-schedule/RPAIRBJSAVGYZNKFONBANW4IA4/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/BCPMWLYFR5D2HEQ3IBG5Z3M6FE.JPG?auth=327ba9aa00f8c5770d146d8771243fcf2b627dcf2011e7d45806d17a5e050b32&width=1200&height=675&quality=70&focal=651%2C208&smart=false",
-    "publishedAt": "2026-09-08T19:01:00Z",
-    "author": "Alex Powell"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PU coach faces harassment complaint, ICC proceedings underway",
-    "description": "Panjab University coach accused of harassing woman student; complaint filed with ICC two weeks ago. Inquiry underway; evidence submitted; no findings yet.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pu-coach-faces-harassment-complaint-icc-proceedings-underway/articleshow/133938607.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131753692,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T18:47:27Z",
-    "author": "Akashdeep Virk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Andrew Flintoff puts £6.75 million Cheshire mansion on market, bought in 2021 from Phil Neville, 4 years after Top Gear car crash; 10,000 sq ft home features 6 bedrooms and 4 floors",
-    "description": "England cricket legend Andrew Flintoff has put his £6.75 million Cheshire mansion on the market, four years after his life-changing Top Gear car crash. Bought from former Manchester United star Phil Neville in 2021, the 10,000 sq ft luxury property features s…",
-    "url": "https://timesofindia.indiatimes.com/real-estate/news/andrew-flintoff-puts-6-75-million-cheshire-mansion-on-market-bought-in-2021-from-phil-neville-4-years-after-top-gear-car-crash-10000-sq-ft-home-features-6-bedrooms-and-4-floors/articleshow/133932615.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133933068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-08T16:34:56Z",
-    "author": "TOI Real Estate Desk"
   }
 ]
 ;
