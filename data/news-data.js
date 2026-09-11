@@ -1,129 +1,192 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
-    "title": "October 2027 is still far away, we will see then: Rohit Sharm on World Cup",
-    "description": "Rohit Sharma stated October 2027 is far away for the ODI World Cup. He also indicated a bus parade would not be possible now. The BCCI secretary emphasised Rohit is batting well and playing superbly. He recently scored a century in his last ODI match. Specula…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/october-2027-is-still-far-away-we-will-see-then-rohit-sharm-on-world-cup/articleshow/134001874.cms",
-    "image": "https://img.etimg.com/thumb/msid-134002079,width-1200,height-630,imgsize-83530,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-10T09:24:03Z",
-    "author": "PTI"
+    "title": "Sri Lanka to play tri-series with England during Pakistan tour",
+    "description": "Sri Lanka will tour Pakistan for a T20 series and a tri-nation ODI tournament.  This tournament will also feature England, beginning in October.  The series will then shift to Lahore for the final match.  Following the limited-overs contests, two Test matches…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sri-lanka-to-play-tri-series-with-england-during-pakistan-tour/articleshow/134013428.cms",
+    "image": "https://img.etimg.com/thumb/msid-134013483,width-1200,height-630,imgsize-185836,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-10T13:57:33Z",
+    "author": "AFP"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stumped",
+    "description": "The India opener has set a new record for runs in women’s international cricket.",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct99fr?at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p8yt87.jpg",
+    "publishedAt": "2026-09-10T13:57:00Z",
+    "author": null
   },
   {
     "source": "The Times of India",
-    "title": "Zaheer Khan joins Yuvraj Singh as co-owner of Vancouver Anchors in Canada Super 60",
-    "description": "Former Indian fast bowler Zaheer Khan has joined the Vancouver Anchors ownership group. He reunites with his former teammate Yuvraj Singh in this new venture. The Canada Super 60 season two will be held in Vancouver. This event will feature elite men's and wo…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/zaheer-khan-joins-yuvraj-singh-as-co-owner-of-vancouver-anchors-in-canada-super-60/articleshow/134000286.cms",
-    "image": "https://img.etimg.com/thumb/msid-134000487,width-1200,height-630,imgsize-57284,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-10T08:35:49Z",
-    "author": "PTI"
+    "title": "ILT20 Season 5 launched in style as Brett Lee, Shoaib Akhtar headline glittering Dubai evening",
+    "description": "The grand unveiling of the International League T20 Season 5 took place in Dubai, graced by cricket icons such as Brett Lee and Shoaib Akhtar. The event showcased the league's pivotal role in enhancing cricket's popularity within the region. As the defending …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-launched-in-style-as-brett-lee-shoaib-akhtar-headline-glittering-dubai-evening/articleshow/134012643.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134012785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-10T13:43:30Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IND vs BAN live streaming: How to watch today's Women's Asia Cup S/F match?",
+    "description": "The live streaming of India vs Bangladesh Women's Asia Cup T20 semifinal match will be available on the SonyLIV app and website for Indian fans",
+    "url": "https://www.business-standard.com/cricket/news/ind-vs-ban-live-streaming-how-to-watch-today-s-women-s-asia-cup-s-f-match-126091000665_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/10/thumb/resize/1200X628/1789031838-7792.jpg",
+    "publishedAt": "2026-09-10T13:32:06Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "VVIP convoys and 35,000 cricket fans: India-Afghanistan T20 to clash with BRICS traffic in Delhi",
+    "description": "The India-Afghanistan T20I match will proceed as scheduled on September 13. Delhi Traffic Police had requested a postponement due to the BRICS Summit. The Delhi and District Cricket Association confirmed the match will go ahead. Necessary support and arrangem…",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/vvip-convoys-and-35000-cricket-fans-india-afghanistan-t20-to-clash-with-brics-traffic-in-delhi/articleshow/134011962.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134012333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-10T13:28:34Z",
+    "author": "Siddhi Dharmadhikari"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
+    "description": "The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.",
+    "url": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa2af4aaa-1789046602.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-10T13:25:06Z",
+    "author": "Anushe Engineer"
   },
   {
     "source": "Cricketnews.com",
-    "title": "India squad for Afghanistan T20I series 2026: Full list of players as Sanju Samson returns for IND vs AFG T20Is",
-    "description": "With Sanju Samson finally back in the T20 squad, here's a look at the full list of players India will field against Afghanistan.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-squad-afghanistan-t20i-series-2026-full-list-players/7657830d8d7792d1a8c86af6",
-    "image": "https://s.yimg.com/lo/mysterio/api/de55e62f84e0681021589daed8d45820d03bdb92f44a1a5f191778b4ade571b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9168a250eba517b8691ed998349f1f0b",
-    "publishedAt": "2026-09-10T08:30:00Z",
+    "title": "India women vs Bangladesh women's Asia Cup 2026 semi-final live score, toss winner, result and highlights from Dubai",
+    "description": "India vs Bangladesh Women's Asia Cup 2026 semi-final: Live cricket score, toss winner, scorecard updates, match result, and video highlights from Dubai.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-bangladesh-women-asia-cup-2026-semi-final-score-result-highlights/63e9fef67b77ef1e544ac018",
+    "image": "https://s.yimg.com/lo/mysterio/api/60b1bd6afb3009d84b2aaa05bbdc2ae99c25cde57f5b6b7618374684bf3ff5a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffb2fc9b9818fb3c59871f470a4f6cbe1",
+    "publishedAt": "2026-09-10T13:24:19Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "No postponement of India-Afghanistan opening T20 on September 13: DDCA",
+    "description": "India's first T20 clash against Afghanistan is set to proceed as planned at Arun Jaitley Stadium. Although Delhi traffic police sought to reschedule due to the BRICS Summit, the DDCA has confirmed the match will go on as scheduled. Officials have guaranteed t…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/no-postponement-of-india-afghanistan-opening-t20-on-september-13-ddca/articleshow/134011834.cms",
+    "image": "https://img.etimg.com/thumb/msid-134011890,width-1200,height-630,imgsize-240506,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-10T13:16:38Z",
+    "author": "PTI"
+  },
+  {
+    "source": "BBC News",
+    "title": "Smith racks up England's fourth half-century of the innings",
+    "description": "Jamie Smith reaches his half-century, becoming England's fourth batter to score a 50 in the innings against Pakistan, helping them build a strong lead in day two of the third Test at Edgbaston.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dzw8ljjo",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/fc70/live/1460e1f0-ad18-11f1-bc1f-3f186ca4140c.jpg",
+    "publishedAt": "2026-09-10T13:08:45Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Team India absence can't slow Mohammed Shami down: ‘Eyes always on next level’",
+    "description": "Mohammed Shami remains fiercely dedicated to his domestic cricket career, recently celebrating his 100th first-class match with a Duleep Trophy victory. He emphasises the importance of self-motivation at this level, striving to seize every chance to contribut…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/more-than-a-year-away-from-team-india-but-mohammed-shami-refuses-to-slow-down-eyes-must-always-be-set-on-the-next-level/articleshow/134011348.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134011549,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-10T13:08:00Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India vs Bangladesh LIVE SCORE Women's Asia Cup 2026 S/F: IND eyeing final's spot; toss at 7:30 PM",
+    "description": "Women's Asia Cup LIVE UPDATES: Harmanpreet Kaur-led India will look to secure their tenth straight Asia Cup final appearance with a win against Nigar Sultana-led Bangladesh women's cricket team",
+    "url": "https://www.business-standard.com/cricket/news/womens-asia-cup-2026-semifinal-india-vs-bangladesh-live-score-updates-ind-vs-ban-full-scorecard-highlights-key-moments-126091000675_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/10/thumb/resize/1200X628/1789032089-6655.jpg",
+    "publishedAt": "2026-09-10T13:01:03Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "Simply Wall St",
+    "title": "What Should Investors Make Of Philips (ENXTAM:PHIA) New Health Tech Push?",
+    "description": "Koninklijke Philips (ENXTAM:PHIA) introduced the Philips Lumea IPL 9900 Pro at-home hair removal device with real-time audio feedback and motion guidance.\nThe business expanded its women’s health ultrasound range with the eV14-2v transvaginal transducer for o…",
+    "url": "https://simplywall.st/stocks/nl/healthcare/ams-phia/koninklijke-philips-shares/news/what-should-investors-make-of-philips-enxtamphia-new-health",
+    "image": "https://images.simplywall.st/asset/industry/6021000-choice2-card/1788934354473?w=1600&h=900&fit=cover",
+    "publishedAt": "2026-09-10T13:00:59Z",
+    "author": "Simply Wall St"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Rally in oil prices continues to batter the INR",
+    "description": "The Indian rupee slumped sharply on Thursday as Brent oil hit 104 and soaring nearly 15% since the start of September amid escalatory strikes between Iran and the US. INR depreciated 38 paise to close at 95.46 (provisional) against the US dollar. Brent crude …",
+    "url": "https://www.business-standard.com/markets/capital-market-news/rally-in-oil-prices-continues-to-batter-the-inr-126091001200_1.html",
+    "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+    "publishedAt": "2026-09-10T12:46:02Z",
+    "author": "Capital Market"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'It's depressing': Pakistan's batting hits new low as Saud Shakeel concedes team 'not used to facing' conditions in England",
+    "description": "After yet another batting collapse on Day 1 of the third Test against England, Pakistani batter Saud Shakeel mentioned that it is depressing for the national team.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistans-batting-saud-shakeel-concedes-team-not-used-england/295d4bebbeadc0ca2c39a265",
+    "image": "https://s.yimg.com/lo/mysterio/api/3bed93984f158add3881fe1b6c726ec65f9f6147daa11dcefc85a2fb88c67bbd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbc9ac7c9832d3a84106860f72dd1d3ed",
+    "publishedAt": "2026-09-10T12:06:43Z",
     "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "'There's not many bigger than that': New Zealand cricketer rejects T20 league contract to play India Test series",
-    "description": "Santner was approached by the Strikers but decided that New Zealand’s international schedule should take priority. New Zealand are set to host India in a full series, including two Tests, from October 22 to December 1 before travelling to Australia for a four…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-not-many-bigger-than-that-new-zealand-cricketer-rejects-t20-league-contract-to-play-india-test-series/articleshow/133998419.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133998801,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T07:53:31Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pakistan cricket's problems too deep for me to fix alone, says Wasim Akram",
-    "description": "Pakistan's fast bowling great and former captain, Wasim Akram believes that the problems in the Pakistan Cricket eco system are so deep rooted that it is not possible even for him to resolve them single handedly.\nWasim was Pakistan was struggling at the inter…",
-    "url": "https://www.business-standard.com/cricket/news/pakistan-cricket-s-problems-too-deep-for-me-to-fix-alone-says-wasim-akram-126090901415_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/thumb/featurecrop/1200X628/1644302178-0948.jpg",
-    "publishedAt": "2026-09-10T07:50:34Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Sri Lanka Cricket faces Rs 188 crore loss as ICC pulls women's event rights",
-    "description": "Sri Lanka Cricket (SLC) is facing an estimated revenue loss of USD 20 million (Rs 188 crore) after being stripped of the hosting rights for next year's inaugural ICC Women's Champions Trophy tournament.\nThe tournament, originally slated to be hosted by Sri La…",
-    "url": "https://www.business-standard.com/cricket/news/sri-lanka-cricket-faces-rs-188-crore-loss-as-icc-pulls-women-s-event-rights-126090901022_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/15/thumb/featurecrop/1200X628/1707994847-6325.jpg",
-    "publishedAt": "2026-09-10T07:11:38Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Scientific evidence backing my case': Anaya Bangar hits back at critics, claims no 'unfair advantage'",
-    "description": "Bangar, the daughter of former India cricketer and ex-batting coach Sanjay Bangar, played age-group men’s cricket for Mumbai before beginning her gender transition in 2022. She underwent gender-affirming surgery in March 2026.",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/scientific-evidence-backing-my-case-anaya-bangar-hits-back-at-critics-claims-no-unfair-advantage/articleshow/133995729.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133997421,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T06:55:17Z",
+    "title": "JP Atray Tournament ends 34-year innings as packed cricket calendar forces closure",
+    "description": "After 34 years of cricketing history, the All India JP Atray Cricket Tournament has come to a close. Esteemed as a pre-season event held 30 times in honor of Jai Prakash Atray, the decision to end the tournament comes from both the organising committee and th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jp-atray-tournament-ends-34-year-innings-as-packed-cricket-calendar-forces-closure/articleshow/134008102.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134008863,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-10T12:05:37Z",
     "author": "TOI Sports Desk"
   },
   {
     "source": "Cricketnews.com",
-    "title": "Pakistan cricket team mistaken for asylum seekers by masked protesters in Portsmouth, caught in tense situation",
-    "description": "Things have been taking a turn for the worse for Pakistan in England as the U19 side gets embroiled in a tense situation with masked protestors.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-team-mistaken-asylum-seekers-masked-protesters-portsmout/4ef3e0a800fa00bc25289a99",
-    "image": "https://s.yimg.com/lo/mysterio/api/3c71264c66d4c8e5134ae875b72c5483bb3d9ba49a7200f8b06a147c2af44839/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4b0b759388e29d6ff426b37acf6642ca",
-    "publishedAt": "2026-09-10T06:12:00Z",
+    "title": "Mumbai Indians star rejects 'lucrative' Big Bash League offer to play more Test cricket",
+    "description": "Big Bash League has already lost one of its biggest probable stars after getting privatized as Mitchell Santner rejects a big money offer to play more Test matches.",
+    "url": "https://www.cricketnews.com/en/cricket/news/mumbai-indians-star-rejects-lucrative-big-bash-league-play-test-cricket/b999d51e1ce4663adcdb9305",
+    "image": "https://s.yimg.com/lo/mysterio/api/5c242512a3368569fdbadf77ce33195dce06bfe57e4b733c52eef59e850eecc8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F598161d29e0e00172e62fd6335757d62",
+    "publishedAt": "2026-09-10T12:03:57Z",
     "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Asian Games 2026: Can India retain both men’s and women’s gold medals in cricket?",
-    "description": "India aims to defend two gold medals in cricket at the Asian Games. The men's team, ranked number one, faces challenges from regional rivals. India's women's team, ranked third, is a strong contender without top global competition. Both squads feature experie…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-can-india-retain-both-mens-and-womens-gold-medals-in-cricket/articleshow/133995367.cms",
-    "image": "https://img.etimg.com/thumb/msid-133995550,width-1200,height-630,imgsize-1320817,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-10T05:57:31Z",
-    "author": "ET Online"
+    "title": "Plenty of reasons to stay motivated as eyes must always be set on next level: Mohammed Shami",
+    "description": "Veteran pacer Mohammed Shami remains highly motivated for his cricket career. He expressed his desire to reach the next level in his game. Shami achieved a special milestone in his 100th first-class match. He enjoyed mentoring younger players during the Dulee…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/plenty-of-reasons-to-stay-motivated-as-eyes-must-always-be-set-on-next-level-mohammed-shami/articleshow/134007357.cms",
+    "image": "https://img.etimg.com/thumb/msid-134007890,width-1200,height-630,imgsize-96662,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-10T11:46:19Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘If I’m Bryce Underwood, I’m Done With Michigan’ — Former Bengals Pro Bowler Pushes $12M Wolverines QB To Walk Out of Ann Arbor",
+    "description": "Michigan quarterback Bryce Underwood has been criticized for his performance in the Wolverines’ controversial Week 1 13-12 win over the Western Michigan Broncos. This week, Michigan coach Kyle Whittingham suggested Underwood’s QB1 status in Ann Arbor was not …",
+    "url": "https://www.profootballnetwork.com/cfb/bryce-underwood-done-with-michigan-bengals-pro-bowler-ann-arbor/",
+    "image": "https://s.yimg.com/lo/mysterio/api/569a130192288c80d88622f1939797a2a5eae6bd3a3362818733a5a48ea6e06b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F28012f688df6aff5bf5e8d35d6e9ae37.jpg",
+    "publishedAt": "2026-09-10T11:31:33Z",
+    "author": "Cabral Opiyo"
   },
   {
     "source": "The Times of India",
-    "title": "Unbelievable stat! Shubman Gill did it alone, Pakistan still can't do it as a team",
-    "description": "Pakistan's cricket team has reached a new low in their batting performance during the ongoing Test series against England. Their total runs have not only been disappointing but even fell short of Shubman Gill's impressive solo efforts last year. Despite tryin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unbelievable-stat-shubman-gill-did-it-alone-pakistan-still-cant-do-it-as-a-team/articleshow/133994575.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133994875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T05:28:21Z",
-    "author": "Pranav Shukla"
+    "title": "India Women vs Bangladesh Women Playing 11: Check pitch report, where and when to watch, weather forecast and more",
+    "description": "India Women vs Bangladesh Women Live streaming: India will face Bangladesh in the Women’s Asia Cup 2026 semi-final on September 10 at the Dubai International Cricket Stadium. The match begins at 8 pm IST, with live telecast available on Sony Sports Network an…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-women-vs-bangladesh-women-playing-11-live-streaming-pitch-report-weather-prediction-ind-w-vs-ban-w-2026/articleshow/134005169.cms",
+    "image": "https://img.etimg.com/thumb/msid-134006889,width-1200,height-630,imgsize-98452,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-10T11:31:20Z",
+    "author": "Trending Desk"
   },
   {
     "source": "The Times of India",
-    "title": "Hardik Pandya set for India ‘A’ stint before India return",
-    "description": "Hardik Pandya has made the cut for the India A one-day series despite missing the West Indies ODI series due to injury recovery. Currently undergoing rehabilitation in Bengaluru, he has returned to bowling. The selectors aim to evaluate his match fitness at t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-for-india-a-stint-before-india-return/articleshow/133993730.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133993755,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T04:22:28Z",
-    "author": "Gaurav Gupta"
+    "title": "He won IPL purple cap at age 40, now Imran Tahir breaks world record at 47; becomes the oldest to take five-wicket haul in T20s",
+    "description": "Imran Tahir made history by taking a phenomenal five-wicket haul in the Caribbean Premier League, earning the title of the oldest cricketer to achieve such a milestone in men's T20 cricket. This outstanding performance not only led the Guyana Amazon Warriors …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-won-ipl-purple-cap-at-age-40-now-imran-tahir-breaks-world-record-at-47-becomes-the-oldest-to-take-five-wicket-haul-in-t20s/articleshow/134005545.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134006377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-10T11:26:40Z",
+    "author": "Nitesh Dubey"
   },
   {
-    "source": "The Times of India",
-    "title": "India vs Bangladesh: Harmanpreet Kaur’s side eyes Asia Cup final after dominant run",
-    "description": "As India faces Bangladesh in the Asia Cup semifinal, they enter as favorites despite ongoing political tensions affecting bilateral cricket relations. With standout performances from Smriti Mandhana and Shafali Verma, India topped their group and seeks to rec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/india-vs-bangladesh-harmanpreet-kaurs-side-eyes-asia-cup-final-after-dominant-run/articleshow/133993633.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133993665,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T04:19:52Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harshit Rana, Nitish Reddy doubtful for Afghanistan series; Jasprit Bumrah call on Thursday",
-    "description": "Harshit Rana and Nitish Kumar Reddy's participation in the upcoming Afghanistan T20 series remains uncertain. After undergoing match simulation tests in Bengaluru, Rana appears to be sidelined, while Reddy has a chance of featuring in a few matches. BCCI offi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harshit-rana-nitish-reddy-doubtful-for-afghanistan-series-jasprit-bumrah-call-on-thursday/articleshow/133993265.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133993310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T04:05:11Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I knew we'd lose 3-0': Wasim Akram tears into Pakistan cricket setup",
-    "description": "Wasim Akram states Pakistan cricket's deep issues extend beyond the national team. He notes problems exist in batting, bowling, and fielding across the sport. Akram believes the domestic structure lacks necessary systems and stability. Inconsistent decisions …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-knew-wed-lose-3-0-wasim-akram-tears-into-pakistan-cricket-setup/articleshow/133990885.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133990931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T02:49:27Z",
-    "author": "Pranav Shukla"
+    "source": "BBC News",
+    "title": "Lawrence races to 50 in a strong morning session",
+    "description": "England batter Dan Lawrence races to a half-century during the morning session in day two of the third Test against Pakistan at Edgbaston, as he chases his first Test hundred.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c1e5dl27v22o",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8087/live/8526af30-ad06-11f1-b1d1-571ed4d7ff2c.jpg",
+    "publishedAt": "2026-09-10T11:00:37Z",
+    "author": null
   }
 ]
 ;
