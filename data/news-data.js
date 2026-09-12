@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Esterhuizen's maiden ODI century, Jansen's four-for power South Africa to series win over Namibia",
+    "description": "In an impressive display, Connor Esterhuizen achieved his first ODI century, propelling South Africa to a dominant win over Namibia. Duan Jansen's stellar four-wicket haul dismantled Namibia's lineup, securing their early downfall. South Africa set a formidab…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/esterhuizens-maiden-odi-century-jansens-four-for-power-south-africa-to-series-win-over-namibia/articleshow/134079126.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134079418,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T16:49:48Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Wasim Akram rues Pakistan's failure to produce quality batting talent",
+    "description": "Fast bowling great Wasim Akram expressed disappointment over Pakistan's batting talent drought.  He stated the Pakistan Super League has not produced noteworthy batting talent.  Akram believes reviving club cricket is essential for improving red ball performa…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/wasim-akram-rues-pakistans-failure-to-produce-quality-batting-talent/articleshow/134079435.cms",
+    "image": "https://img.etimg.com/thumb/msid-134079560,width-1200,height-630,imgsize-54022,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-11T16:47:04Z",
+    "author": "PTI"
+  },
+  {
+    "source": "ClutchPoints",
+    "title": "49ers news: Trent Williams demands you put some respect on Brock Purdy's name",
+    "description": "San Francisco 49ers offensive tackle Trent Williams heaped praise on quarterback Brock Purdy following the team’s 27-7 regular-season opener win over the Los Angeles Rams at the Melbourne Cricket Ground on Thursday. Williams was asked to describe the 49ers’ s…",
+    "url": "https://clutchpoints.com/nfl/san-francisco-49ers/49ers-news-trent-williams-demands-respect-on-brock-purdy-name",
+    "image": "https://s.yimg.com/lo/mysterio/api/939b16cc29e7c3b387413507f5f971077c5642df1a35b31defae6cd387c68c53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F1b006fceff2c84c1164ad341dc998544.png",
+    "publishedAt": "2026-09-11T16:46:35Z",
+    "author": "Nitish Singh, ClutchPoints"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Kohli And Shinde Meet In London For Sports Development Talks",
+    "description": "Former India cricket captain Virat Kohli met Maharashtra Deputy Chief Minister Eknath Shinde in London to discuss enhancing sports infrastructure, athlete development, and the state's progress. The dialogue focused on policy improvements, upcoming sports faci…",
+    "url": "https://www.rediff.com/sports/report/virat-kohli-meets-dy-cm-shinde-in-london-on-sports-development/20260911.htm",
+    "image": "https://im.rediff.com/1200-630/cricket/2014/sep/01kohli1.jpg",
+    "publishedAt": "2026-09-11T16:44:25Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MCA raises corpus to Rs 500-cr; Wankhede lounges to be named after Tendulkar, Rahane and Mantri",
+    "description": "The Mumbai Cricket Association will increase its subsidy corpus to Rs 500 crore. This significant funding will support affiliated clubs over the next ten years. Lounges at the Wankhede Stadium will be named after Sachin Tendulkar and Ajinkya Rahane. Late Madh…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mca-raises-corpus-to-rs-500-cr-wankhede-lounges-to-be-named-after-tendulkar-rahane-and-mantri/articleshow/134078440.cms",
+    "image": "https://img.etimg.com/thumb/msid-134078506,width-1200,height-630,imgsize-154612,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-11T16:22:32Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Kohli, Shinde Meet In London Over Sports and State Development",
+    "description": "Former India cricket captain Virat Kohli met Maharashtra Deputy Chief Minister Eknath Shinde in London to discuss enhancing sports infrastructure, athlete development, and state progress. The meeting focused on policy improvements for sports facilities in Mah…",
+    "url": "https://www.rediff.com/sports/report/virat-kohli-meets-maharashtra-dy-cm-shinde-in-london/20260911.htm",
+    "image": "https://im.rediff.com/1200-630/cricket/2014/sep/01kohli1.jpg",
+    "publishedAt": "2026-09-11T16:14:27Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ACA Cricket Academy unveils one of India's largest indoor cricket facilities",
+    "description": "Assam's ACA Cricket Academy now boasts a large indoor cricket facility. This modern setup features nine wickets and advanced training amenities. Players will benefit from year-round practice and enhanced player development programs. The facility includes a gy…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/aca-cricket-academy-unveils-one-of-indias-largest-indoor-cricket-facilities/articleshow/134077180.cms",
+    "image": "https://img.etimg.com/thumb/msid-134077179,width-1200,height-630,imgsize-123968,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-11T15:55:22Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Hogs Haven",
+    "title": "Commanders release veteran offensive tackle just before Week 1 vs. Eagles",
+    "description": "The Commanders have released backup offensive tackle D.J. Humphries, a former Pro Bowler who wasn’t in Washington long",
+    "url": "https://www.hogshaven.com/washington-commanders-news/439069/commanders-release-dj-humphries-week-1-vs-eagles",
+    "image": "https://s.yimg.com/lo/mysterio/api/a25e269d0e305a2f8abb637d7e62d21617668b3177d72d7d3266c855fcbf1d71/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff62528d0ea291366df6b7aa519e167a0.jpg",
+    "publishedAt": "2026-09-11T15:23:32Z",
+    "author": "Scott Bair"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ILT20 season 5 turns up the pace with 100-mph legends Brett Lee and Shoaib Akhtar",
+    "description": "In an exciting announcement at a Dubai launch event, cricket icons Brett Lee and Shoaib Akhtar have been appointed as ambassadors for ILT20 Season 5. The upcoming season promises a thrilling spectacle as several international stars make their debuts, alongsid…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-turns-up-the-pace-with-100-mph-legends-brett-lee-and-shoaib-akhtar/articleshow/134074981.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134075236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T15:09:19Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli could return to play for Delhi in Vijay Hazare Trophy before 2027 ODI World Cup",
+    "description": "Fans can get to see Virat Kohli once again playing for Delhi very soon, as DDCA president Rohan Jaitley was quick to confirm his availability for the Vijay Hazare Trophy ahead of the World Cup",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-return-delhi-vijay-hazare-trophy-2027-odi-world-cup/3e0ed3e9bd93e2fac8227df1",
+    "image": "https://s.yimg.com/lo/mysterio/api/0f99418b44142c1a44c8d1d2399cda69316cece1101e30da607a1a6050c763eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7f2e41e0f8b5b89dad09a72c41e9b2a6",
+    "publishedAt": "2026-09-11T14:27:37Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hampshire need miracle to avoid relegation - Domingo",
+    "description": "Hampshire cricket head coach Russell Domingo believes his side need \"a bit of a miracle\" if they are to remain a Division One side in the County Championship...",
+    "url": "https://www.bbc.com/sport/cricket/articles/cvgy08kl91xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/4aa44765e4c8bb7eddafb2660a71b1a6ae2048100358b058fa35d00f04df2841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb483ee3ad7f785149baea56f304773fe.jpg",
+    "publishedAt": "2026-09-11T14:11:45Z",
+    "author": "Dan George - BBC Sport, Hampshire"
+  },
+  {
+    "source": "BBC News",
+    "title": "Hampshire need miracle to avoid relegation - Domingo",
+    "description": "Hampshire cricket head coach Russell Domingo believes his side need \"a bit of a miracle\" if they are to remain a Division One side in the County Championship.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy08kl91xo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8790/live/59aadfd0-ade6-11f1-9a5c-a7a4083eb832.jpg",
+    "publishedAt": "2026-09-11T14:06:20Z",
+    "author": "Dan George"
+  },
+  {
+    "source": "BBC News",
+    "title": "Calm, classy but no century - Brilliant Masood frustrates England",
+    "description": "Watch the best shots from Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century with the Pakistan batter caught brilliantly for 95 by Dan Lawrence at Edgbaston.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a1ee/live/78fc3ad0-ade8-11f1-a540-61c3f7fc4e6c.jpg",
+    "publishedAt": "2026-09-11T14:05:20Z",
+    "author": null
+  },
+  {
     "source": "BBC News",
     "title": "Masood falls just short of century after Lawrence's stunning catch",
     "description": "Dan Lawrence makes a brilliant, diving catch to dismiss Shan Masood, with the Pakistan batter on 95, as England make a crucial breakthrough on day three of the third Test at Edgbaston.",
@@ -43,123 +160,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/86287d04c37ef378_s.webp",
     "publishedAt": "2026-09-11T13:23:36Z",
     "author": "foxnews.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "112 years later! Ollie Robinson enters rarest Test bowling club with sub-19 average",
-    "description": "In a remarkable feat, Ollie Robinson has achieved a bowling average of under nineteen after his 20th match, making him the first bowler to do so since the iconic Sydney Barnes in 1914. With two crucial wickets during Pakistan's second innings at Edgbaston, Ro…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/112-years-later-ollie-robinson-enters-rarest-test-bowling-club-with-sub-19-average/articleshow/134067814.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134068272,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T12:46:12Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pakistan trails England by 136 runs in third cricket test after Masood and Awais hit half centuries",
-    "description": "Pakistan had its most productive batting session of the tour of England but still trailed by 136 runs on Day 3 of the third and final cricket test Friday. The left-handed pair of Shan Masood and young opener Azan Awais put the off-field chaos behind and struc…",
-    "url": "https://sports.yahoo.com/articles/pakistan-trails-england-136-runs-123841302.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/e6ab64221a4f7210764e65902774e8bc84e1886725a3ac564c30bdde3db03d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa470ae913d5f9b3bdc91a69be449e3f7.jpg",
-    "publishedAt": "2026-09-11T12:38:41Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan cricket's downfall started when Imran Khan messed with domestic structure",
-    "description": "Former chief selector Haroon Rasheed believes Imran Khan's domestic cricket changes caused Pakistan's downfall. He recalled Khan insisting on reducing teams to five or six. This decision led to a decline in Pakistan's cricket standards. Rasheed suggested a hy…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-crickets-downfall-started-when-imran-khan-messed-with-domestic-structure/articleshow/134066798.cms",
-    "image": "https://img.etimg.com/thumb/msid-134066970,width-1200,height-630,imgsize-25975,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T12:23:04Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Unable to fill position since March 2025, BCCI invites applications for COE Head of Sports Science",
-    "description": "The BCCI has reopened applications for its Head of Sports Science and Medicine position. This key role has remained vacant since Nitin Patel resigned in March 2025. Several candidates, including Andrew Leipus, have previously backed out of the opportunity. Th…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/unable-to-fill-position-since-march-2025-bcci-invites-applications-for-coe-head-of-sports-science/articleshow/134066021.cms",
-    "image": "https://img.etimg.com/thumb/msid-134066061,width-1200,height-630,imgsize-26208,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T12:07:29Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Something very fishy’: Cricket analyst questions Mohammad Rizwan and Imam-ul-Haq's probe by Pakistan cyber crime agency",
-    "description": "With Mohammad Rizwan and Imam-ul-Haq coming under probing from Pakistani cyber crime agency, one cricket analyst is not convinced that things are as they appear.",
-    "url": "https://www.cricketnews.com/en/cricket/news/fishy-cricket-analyst-questions-rizwan-imam-pakistan-cyber-crime/0bd6e8b309defc4e3dbfd735",
-    "image": "https://s.yimg.com/lo/mysterio/api/b8cd740d2deca8d606b9c5d4995745b3414120f0991d4fa589fcec48c15d8208/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1f4ea6d7c2b6090ddfa300448fa24ea2",
-    "publishedAt": "2026-09-11T11:52:28Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "ICC: US sanctions based on misunderstanding",
-    "description": "International Criminal Court (ICC) Deputy Prosecutor Mame Mandiaye Niang said United States sanctions against the court stem from Washington's misunderstanding of its work, while adding that the insti...",
-    "url": "https://biztoc.com/x/afae5140a33a0505",
-    "image": "https://biztoc.com/cdn/afae5140a33a0505_s.webp",
-    "publishedAt": "2026-09-11T11:52:23Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After Pakistan's cyber crime summoned, Mohammed Rizwan and Imam-ul-Haq now face domestic cricket setback",
-    "description": "Following their recent tour in England, Pakistani cricketers Mohammad Rizwan and Imam-ul-Haq find themselves under scrutiny due to a cybercrime investigation triggered by evidence from their mobile phones. As a result of their inability to meet fitness requir…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-pakistans-cyber-crime-summoned-mohammed-rizwan-and-imam-ul-haq-now-face-domestic-cricket-setback/articleshow/134062546.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134064120,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T11:49:33Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Bittersweetblog.com",
-    "title": "Buckling Under Pressure",
-    "description": "You’ll have to believe me when I said I laid out the most beautiful design for this dessert. Graceful swooping spirals of jam marbled the batter with artfully arranged baby figs on top. They gleamed, catching the light of the oven, as I carefully closed the d…",
-    "url": "https://bittersweetblog.com/2026/09/11/fig-buckle/",
-    "image": "https://www.flickr.com/photo_download.gne?id=55389131160&secret=b63d416620&size=o&source=photoPageEngagement",
-    "publishedAt": "2026-09-11T11:10:02Z",
-    "author": "Hannah (BitterSweet)"
-  },
-  {
-    "source": "Filmibeat",
-    "title": "Rise And Fall 2 Host Name Revealed: NOT Ashneer Grover, THIS Indian Cricketer To Host Prime Video Show - DEETS",
-    "description": "Rise And Fall 2 host name has been revealed. Find out which Indian cricketer will host the Prime Video reality show and whether Ashneer Grover is involved.",
-    "url": "https://www.filmibeat.com/ott/rise-and-fall-2-host-name-revealed-not-ashneer-grover-this-indian-cricketer-to-host-prime-video-sh-530767.html",
-    "image": "https://images.filmibeat.com/img/2026/09/riseandfall2hostnamed1-94701789109249.jpg",
-    "publishedAt": "2026-09-11T10:55:26Z",
-    "author": "Aakash Kumar"
-  },
-  {
-    "source": "BBC News",
-    "title": "Gammon becomes Glamorgan Women's second full-time pro",
-    "description": "Batter Bethan Gammon is the second Glamorgan women's player to sign a professional women's contract following captain Lauren Parfitt.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c4gkq59dzrno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/d52668f6b7aa7cab36a7b5c2fe24137704ee67d5fdefb7f6c408354c598a5f28/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd46f7a02dedc4184e5539d8bfa992dfd.jpg",
-    "publishedAt": "2026-09-11T09:59:26Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Reportedly, there are no five-star hotels for the cricket teams at the Asian Games held in Japan.",
-    "description": "The organizers have officially announced that they will not be able to provide five-star hotel facilities for the cricket teams participating in the Asian Games, which are scheduled to begin on the 24th in Nagoya, Japan. This year, teams representing 10 count…",
-    "url": "https://english.gossiplankanews.com/2026/09/reportedly-there-are-no-five-star.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uLttkts631HhViiIScVENBFZOA2mwYpa5E7J1sWjKghVBwxxNaq6TvW182aMEsT3C97VFzxiGl2njfAl9hR83G3hlMhRbYPM-riTe_od7XC2mFvl00dkc_4qQQEur8-hFS04HE6Sf1k-koL7VVjwqqDxkHJPvpFOz7kw=w1600",
-    "publishedAt": "2026-09-11T09:01:24Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "ICYMI: Batters' struggle for runs throws spotlight on 2026 Asia Cup",
-    "description": "The Women’s Asia Cup has already given us plenty to talk about, but there seems to be one ongoing trend that’s been hard to miss: the batters’ struggle for runs. Cricket News' Arya Shah explains...",
-    "url": "https://www.cricketnews.com/en/cricket/cricket-features/asia-cup-2026-batters-runs-spotllight/2b11993e253bd1d433e5a6bc",
-    "image": "https://s.yimg.com/lo/mysterio/api/3e8e94ca42df30e13b3e0cc785801e0391f235cf66f16aaa95088d750c5a0eba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6808319d13608ad372f53bfc7920f95c",
-    "publishedAt": "2026-09-11T08:41:17Z",
-    "author": "Arya Shah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘My name was not even in the FIR’: How a former India cricketer's 22-year ordeal ended in acquittal after a controversial UK tour, arrest and Tihar Jail",
-    "description": "After two decades in legal turmoil, former Indian cricketer Jacob Martin has finally been acquitted of all charges related to a 2004 case of forgery and cheating. The court's ruling highlighted the absence of credible evidence against Martin, allowing him to …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-was-not-even-in-the-fir-how-a-former-india-cricketers-22-year-ordeal-ended-in-acquittal-after-a-controversial-uk-tour-arrest-and-tihar-jail/articleshow/134052754.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134052958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T07:44:26Z",
-    "author": "Pranav Shukla"
   }
 ]
 ;
