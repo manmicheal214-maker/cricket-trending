@@ -79,69 +79,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134021535,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-10T17:06:55Z",
     "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "The Cricketer Magazine - September 2026",
-    "description": "The Cricketer magazine, formerly The Wisden Cricketer, is the world’s number one cricket magazine and the sport’s most-inclusive and best read.The Cricketer Magazine - September 2026English | 100 pages | PDF | 133.5 MBDownload: UPLOADY – RAPiDGATOR",
-    "url": "https://post.rlsbb.cc/the-cricketer-magazine-september-2026/",
-    "image": null,
-    "publishedAt": "2026-09-10T16:35:46Z",
-    "author": "saamaan1@yahoo.com (Master)"
-  },
-  {
-    "source": "El Paso Times",
-    "title": "Dallas Cowboys add former Pro Bowl offensive lineman to practice squad",
-    "description": "After the injury to star guard Tyler Smith, the Dallas Cowboys have promoted one player from the practice squad and added a former Pro Bowler.",
-    "url": "https://www.elpasotimes.com/story/sports/nfl/2026/09/10/dallas-cowboys-news-cowboys-shore-up-o-line-with-addition-of-pro-bowler/91681612007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7da1d5b909841e1c7e7000aad61f441de69f1e15c07767561c1eb8858055c25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-el-paso-times%2F480584cc674bef44bdb7c0a74c919480.jpg",
-    "publishedAt": "2026-09-10T16:20:08Z",
-    "author": "Bret Bloomquist, El Paso Times"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women's T20 Asia Cup: Bangladesh opt to field against India in first semifinal",
-    "description": "In a pivotal semifinal clash, Bangladesh captain Nigar Sultana won the toss and opted to field first. India, under the leadership of Harmanpreet Kaur, entered this match unbeaten in the group stage. With ambitions to limit India's score, Bangladesh relied hea…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/womens-t20-asia-cup-bangladesh-opt-to-field-against-india-in-first-semifinal/articleshow/134018737.cms",
-    "image": "https://img.etimg.com/thumb/msid-134019182,width-1200,height-630,imgsize-193694,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-10T16:11:00Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Joe Root scripts history at Edgbaston, surpasses Steve Smith to become the fielder with most catches in Test cricket",
-    "description": "On Thursday, Joe Root made history in Test cricket by claiming his 220th catch, overtaking Steve Smith's record. This monumental achievement took place during England's third Test against Pakistan, where they built a commanding lead in the first innings. Mean…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-at-edgbaston-surpasses-steve-smith-to-become-the-fielder-with-most-catches-in-test-cricket/articleshow/134018017.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134018356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T15:59:23Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "BBC News",
-    "title": "One over, two wickets, no runs - Robinson starts with a bang",
-    "description": "England's Ollie Robinson starts the Pakistan innings by taking two wickets in a maiden over in what has been a dominant series for the bowler.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/cq5xjweejlyo",
-    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e5d4/live/3b42f980-ad2b-11f1-bc1f-3f186ca4140c.jpg",
-    "publishedAt": "2026-09-10T15:24:39Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Retrospective revocation of incentives, aversion to risks damaged Bengal’s image: Swapan Dasgupta",
-    "description": "Bengal must rebuild credibility after retrospective incentive revocations and risk aversion hurt its image, finance minister Swapan Dasgupta said at BCCI event.",
-    "url": "https://timesofindia.indiatimes.com/city/kolkata/retrospective-revocation-of-incentives-aversion-to-risks-damaged-bengals-image-swapan-dasgupta/articleshow/134016473.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134016472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-10T15:02:09Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Indian cricketers are neither machines nor sugarcane': Sunil Gavaskar lashes out at BCCI over never-ending cricket calendar",
-    "description": "Sunil Gavaskar lashed out at the BCCI over the relentless calendar, demanding mandatory breaks for players.",
-    "url": "https://www.cricketnews.com/en/cricket/news/indian-cricketers-machines-gavaskar-bcci-never-ending-cricket-calendar/b9443c018d20b3e48339fc99",
-    "image": "https://s.yimg.com/lo/mysterio/api/22f9f512a56e8f3d6c81817dc73486975703d278a7adcccffe9273b8b18e97df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2a5228db7540c59568cdc691d1644f6a",
-    "publishedAt": "2026-09-10T14:29:49Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
