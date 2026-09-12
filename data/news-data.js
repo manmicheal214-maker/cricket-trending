@@ -1,6 +1,132 @@
 window.cricketNews = [
   {
     "source": "BBC News",
+    "title": "Masood falls just short of century after Lawrence's stunning catch",
+    "description": "Dan Lawrence makes a brilliant, diving catch to dismiss Shan Masood, with the Pakistan batter on 95, as England make a crucial breakthrough on day three of the third Test at Edgbaston.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyzr2dr977o",
+    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2be7/live/d5eb8a30-ade7-11f1-a540-61c3f7fc4e6c.jpg",
+    "publishedAt": "2026-09-11T13:57:05Z",
+    "author": null
+  },
+  {
+    "source": "BusinessLine",
+    "title": "Merlin Group Partners With Yuvraj Singh to Set up the Second Yuvraj Singh Centre of Excellence in Kolkata",
+    "description": "Saket Mohta of Merlin Group expressed his delight at joining hands with cricket icon Yuvraj Singh for the second time",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/merlin-group-partners-with-yuvraj-singh-to-set-up-the-second-yuvraj-singh-centre-of-excellence-in-kolkata/article71454752.ece",
+    "image": "https://th-i.thgim.com/public/incoming/3li53q/article71454749.ece/alternates/LANDSCAPE_1200/Image-PR%203.jpeg",
+    "publishedAt": "2026-09-11T13:42:22Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "In 1988, Nezam Hafiz captained Guyana U19 against Brian Lara, later represented USA; 13 years later, the cricketer lost his life in the 9/11 attacks",
+    "description": "Nezam Hafiz, a talented cricketer originally from Guyana, lost his life in the tragic World Trade Center attacks. After relocating to the U.S., he proudly represented the American cricket team. In his honor, teammates organized memorial cricket events in New …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/in-1988-nezam-hafiz-captained-guyana-u19-against-brian-lara-later-represented-usa-13-years-later-the-cricketer-lost-his-life-in-the-9/11-attacks/articleshow/134070477.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134070804,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T13:33:24Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘He rejected it’: Ex-PCB chief selector blames Imran Khan for Pakistan cricket’s downfall",
+    "description": "Former chief selector of Pakistan cricket, Haroon Rasheed, identifies the setbacks in the sport to Imran Khan's reforms. Rasheed highlighted that Khan dismissed a hybrid model for the domestic cricket structure, significantly diminishing the first-class teams…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-rejected-it-outright-former-pcb-chief-selector-blames-imran-khans-domestic-overhaul-for-pakistan-crickets-downfall/articleshow/134070265.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134070419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T13:25:27Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Restaurant chain once frequented by Kardashians files for bankruptcy after 36 years",
+    "description": "Another longtime American restaurant chain is fighting to keep its doors open as mounting debt and financial losses batter the dining industry.\nMarmalade Cafe, a 36-year-old Southern California brunch favorite, filed for Chapter 11 bankruptcy protection Sept.…",
+    "url": "https://biztoc.com/x/86287d04c37ef378",
+    "image": "https://biztoc.com/cdn/86287d04c37ef378_s.webp",
+    "publishedAt": "2026-09-11T13:23:36Z",
+    "author": "foxnews.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "112 years later! Ollie Robinson enters rarest Test bowling club with sub-19 average",
+    "description": "In a remarkable feat, Ollie Robinson has achieved a bowling average of under nineteen after his 20th match, making him the first bowler to do so since the iconic Sydney Barnes in 1914. With two crucial wickets during Pakistan's second innings at Edgbaston, Ro…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/112-years-later-ollie-robinson-enters-rarest-test-bowling-club-with-sub-19-average/articleshow/134067814.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134068272,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T12:46:12Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pakistan trails England by 136 runs in third cricket test after Masood and Awais hit half centuries",
+    "description": "Pakistan had its most productive batting session of the tour of England but still trailed by 136 runs on Day 3 of the third and final cricket test Friday. The left-handed pair of Shan Masood and young opener Azan Awais put the off-field chaos behind and struc…",
+    "url": "https://sports.yahoo.com/articles/pakistan-trails-england-136-runs-123841302.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e6ab64221a4f7210764e65902774e8bc84e1886725a3ac564c30bdde3db03d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa470ae913d5f9b3bdc91a69be449e3f7.jpg",
+    "publishedAt": "2026-09-11T12:38:41Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan cricket's downfall started when Imran Khan messed with domestic structure",
+    "description": "Former chief selector Haroon Rasheed believes Imran Khan's domestic cricket changes caused Pakistan's downfall. He recalled Khan insisting on reducing teams to five or six. This decision led to a decline in Pakistan's cricket standards. Rasheed suggested a hy…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-crickets-downfall-started-when-imran-khan-messed-with-domestic-structure/articleshow/134066798.cms",
+    "image": "https://img.etimg.com/thumb/msid-134066970,width-1200,height-630,imgsize-25975,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-11T12:23:04Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Unable to fill position since March 2025, BCCI invites applications for COE Head of Sports Science",
+    "description": "The BCCI has reopened applications for its Head of Sports Science and Medicine position. This key role has remained vacant since Nitin Patel resigned in March 2025. Several candidates, including Andrew Leipus, have previously backed out of the opportunity. Th…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/unable-to-fill-position-since-march-2025-bcci-invites-applications-for-coe-head-of-sports-science/articleshow/134066021.cms",
+    "image": "https://img.etimg.com/thumb/msid-134066061,width-1200,height-630,imgsize-26208,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-11T12:07:29Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Something very fishy’: Cricket analyst questions Mohammad Rizwan and Imam-ul-Haq's probe by Pakistan cyber crime agency",
+    "description": "With Mohammad Rizwan and Imam-ul-Haq coming under probing from Pakistani cyber crime agency, one cricket analyst is not convinced that things are as they appear.",
+    "url": "https://www.cricketnews.com/en/cricket/news/fishy-cricket-analyst-questions-rizwan-imam-pakistan-cyber-crime/0bd6e8b309defc4e3dbfd735",
+    "image": "https://s.yimg.com/lo/mysterio/api/b8cd740d2deca8d606b9c5d4995745b3414120f0991d4fa589fcec48c15d8208/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1f4ea6d7c2b6090ddfa300448fa24ea2",
+    "publishedAt": "2026-09-11T11:52:28Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "ICC: US sanctions based on misunderstanding",
+    "description": "International Criminal Court (ICC) Deputy Prosecutor Mame Mandiaye Niang said United States sanctions against the court stem from Washington's misunderstanding of its work, while adding that the insti...",
+    "url": "https://biztoc.com/x/afae5140a33a0505",
+    "image": "https://biztoc.com/cdn/afae5140a33a0505_s.webp",
+    "publishedAt": "2026-09-11T11:52:23Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After Pakistan's cyber crime summoned, Mohammed Rizwan and Imam-ul-Haq now face domestic cricket setback",
+    "description": "Following their recent tour in England, Pakistani cricketers Mohammad Rizwan and Imam-ul-Haq find themselves under scrutiny due to a cybercrime investigation triggered by evidence from their mobile phones. As a result of their inability to meet fitness requir…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-pakistans-cyber-crime-summoned-mohammed-rizwan-and-imam-ul-haq-now-face-domestic-cricket-setback/articleshow/134062546.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134064120,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-11T11:49:33Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Bittersweetblog.com",
+    "title": "Buckling Under Pressure",
+    "description": "You’ll have to believe me when I said I laid out the most beautiful design for this dessert. Graceful swooping spirals of jam marbled the batter with artfully arranged baby figs on top. They gleamed, catching the light of the oven, as I carefully closed the d…",
+    "url": "https://bittersweetblog.com/2026/09/11/fig-buckle/",
+    "image": "https://www.flickr.com/photo_download.gne?id=55389131160&secret=b63d416620&size=o&source=photoPageEngagement",
+    "publishedAt": "2026-09-11T11:10:02Z",
+    "author": "Hannah (BitterSweet)"
+  },
+  {
+    "source": "Filmibeat",
+    "title": "Rise And Fall 2 Host Name Revealed: NOT Ashneer Grover, THIS Indian Cricketer To Host Prime Video Show - DEETS",
+    "description": "Rise And Fall 2 host name has been revealed. Find out which Indian cricketer will host the Prime Video reality show and whether Ashneer Grover is involved.",
+    "url": "https://www.filmibeat.com/ott/rise-and-fall-2-host-name-revealed-not-ashneer-grover-this-indian-cricketer-to-host-prime-video-sh-530767.html",
+    "image": "https://images.filmibeat.com/img/2026/09/riseandfall2hostnamed1-94701789109249.jpg",
+    "publishedAt": "2026-09-11T10:55:26Z",
+    "author": "Aakash Kumar"
+  },
+  {
+    "source": "BBC News",
     "title": "Gammon becomes Glamorgan Women's second full-time pro",
     "description": "Batter Bethan Gammon is the second Glamorgan women's player to sign a professional women's contract following captain Lauren Parfitt.",
     "url": "https://www.bbc.com/sport/cricket/articles/c4gkq59dzrno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -34,114 +160,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134052958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-11T07:44:26Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MS Dhoni, Virat Kohli and Rohit Sharma get stunning 80s makeover as retro AI trend goes viral",
-    "description": "The AI-generated pictures have given MS Dhoni, Virat Kohli, Rohit Sharma and Shreyas Iyer vintage hairstyles, colourful outfits and classic 1980s settings. The trend has now spread across the cricket world, with IPL teams and several cricketers joining in and…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhoni-virat-kohli-and-rohit-sharma-get-stunning-80s-makeover-as-ai-trend-goes-viral/articleshow/134051958.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134052385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T07:18:14Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "ClutchPoints",
-    "title": "Rams news: Myles Garrett hasn't matched low of awful debut since 2018",
-    "description": "It will likely be an awkward trip back to the United States for Myles Garrett and the Los Angeles Rams after getting embarrassed by the San Francisco 49ers , 27-7, at Melbourne Cricket Ground in Australia on Friday. Garrett made his much-awaited debut for the…",
-    "url": "https://clutchpoints.com/nfl/los-angeles-rams/rams-news-myles-garrett-matched-low-debut-2018-49ers",
-    "image": "https://s.yimg.com/lo/mysterio/api/75e104101e6534811bf494bf30ad1b6fabd0b0288376ff2c12311be13cf588e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fc277f7636534f7f13d47a10eba8b69fd.jpg",
-    "publishedAt": "2026-09-11T07:03:44Z",
-    "author": "Paolo Mariano, ClutchPoints"
-  },
-  {
-    "source": "Deadline",
-    "title": "Cricket Legend Virender Sehwag To Host ‘Rise And Fall’ Season 2 For Prime Video",
-    "description": "EXCLUSIVE: Indian cricket legend Virender Sehwag is swapping the bat and pads for a suit and microphone. The sporting superstar, known as the Sultan of Multan, has been unveiled as host for Season 2 of Rise and Fall, Prime Video India’s reality series to repl…",
-    "url": "http://deadline.com/2026/09/virender-sehwag-host-rise-and-fall-season-2-prime-video-1237098549/",
-    "image": "https://deadline.com/wp-content/uploads/2026/09/Rise-and-Fall-Sehwag.jpg?w=1024",
-    "publishedAt": "2026-09-11T06:25:00Z",
-    "author": "Jesse Whittock"
-  },
-  {
-    "source": "BBC News",
-    "title": "More than 100,000 watch 49ers shock Rams at MCG",
-    "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
-    "url": "https://www.bbc.com/sport/american-football/articles/cvgyq36rvxvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/cd634160c702aea7d1327830a745a7f9856edc3961c0ce2242ae73479f2c2750/lightyear_networkapi/resizefill_w997_h561%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9ce4d5e54ab36255c80d2b344f9adb5f.jpg",
-    "publishedAt": "2026-09-11T06:24:44Z",
-    "author": "Alastair Telfer - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "More than 100,000 watch 49ers shock Rams in Melbourne",
-    "description": "San Francisco 49ers record dominant 27-7 victory over Super Bowl favourites Los Angeles Rams in front of a crowd of more than 100,000 at Melbourne Cricket Ground.",
-    "url": "https://www.bbc.co.uk/sport/american-football/articles/cvgyq36rvxvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aae1/live/96e037e0-ada2-11f1-a5f6-f35a78feb48f.jpg",
-    "publishedAt": "2026-09-11T06:24:40Z",
-    "author": "Alastair Telfer"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "BBL privatisation: Why IPL franchises remain cautious over Cricket Australia terms despite billion-dollar ambition",
-    "description": "BBL privatisation: Discover why IPL franchises remain cautious about Cricket Australia's billion-dollar sale terms, from lack of control to schedule clashes.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bbl-privatisation-ipl-franchises-cautious-cricket-australia-terms/07c9e6f4ed5fb1aba1d61950",
-    "image": "https://s.yimg.com/lo/mysterio/api/8a58b7500ef1001d5e445901103e55b11e781c101af5d480d4788d1ce5c11169/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fed5a3158f199f4945446e84569d2fcbc",
-    "publishedAt": "2026-09-11T06:21:22Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BBL privatisation draws IPL owners as global franchise race widens",
-    "description": "Cricket Australia has opened the door to private investment in Big Bash League teams, drawing interest from IPL owners already building franchise networks across major T20 leagues",
-    "url": "https://www.business-standard.com/sports/business/bbl-privatisation-ipl-owners-global-franchise-expansion-126091100417_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/11/thumb/featurecrop/1200X628/1789106777-326.jpg",
-    "publishedAt": "2026-09-11T06:06:06Z",
-    "author": "Anish Kumar"
-  },
-  {
-    "source": "ClutchPoints",
-    "title": "49ers news: Jake Tonges gets ominous injury update from Kyle Shanahan",
-    "description": "The San Francisco 49ers took care of business in Australia on Friday, walloping the Los Angeles Rams, 27-7, at Melbourne Cricket Ground. It, however, could be costly after tight end Jake Tonges left the game due to a knee injury . Tonges needed assistance in …",
-    "url": "https://clutchpoints.com/nfl/san-francisco-49ers/49ers-news-jake-tonges-injury-update-kyle-shanahan",
-    "image": "https://s.yimg.com/lo/mysterio/api/69d0f6ec321e310a1f7f6f161840df38468b1ccfa0aa56948e94f6dcba2aa5ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Ff11f1f6ea1600022e735e33c9048ce8c.jpg",
-    "publishedAt": "2026-09-11T05:52:31Z",
-    "author": "Paolo Mariano, ClutchPoints"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Embarrassing': Wasim Akram slams Pakistan's shocking mid-tour changes",
-    "description": "The former Pakistan captain also asked the Pakistan Cricket Board (PCB) to give the domestic system enough time to produce results instead of making regular changes. Akram also stressed the need to strengthen cricket at the grassroots level. He called for gre…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/embarrassing-wasim-akram-slams-pakistans-shocking-mid-tour-changes/articleshow/134046752.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134046962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T05:12:45Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘He is not being neglected’: Sourav Ganguly’s blunt verdict on Mohammed Shami",
-    "description": "Sourav Ganguly stated Mohammed Shami is not overlooked by selectors and remains a champion. Shami's domestic cricket performances are encouraging, and he has achieved much. Ganguly believes it is too early to predict Shami's 2027 World Cup inclusion. He also …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-is-not-being-neglected-sourav-gangulys-blunt-verdict-on-mohammed-shami/articleshow/134046257.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134046346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T05:05:23Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Oil, yields surge batter bank stocks; Nifty Bank index sinks 1.3%",
-    "description": "Oil prices spiked to near $110 a barrel, on track to end the week at over $100 a barrel for the first time ​since mid-May.",
-    "url": "https://www.business-standard.com/markets/news/oil-yields-surge-batter-bank-stocks-nifty-bank-index-sinks-1-3-126091100266_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-01/27/thumb/fitandfill/1200X628/1737998115-2028.jpg",
-    "publishedAt": "2026-09-11T04:45:45Z",
-    "author": "Heena Ojha"
-  },
-  {
-    "source": "San Francisco Chronicle",
-    "title": "49ers crush jet-lagged Rams in Australia opener behind Brock Purdy, dominant defense",
-    "description": "The San Francisco 49ers defeated the Super Bowl favorite Los Angeles Rams in convincing fashion in their season-opener, 27-7, at Melbourne Cricket Ground.",
-    "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-crush-jet-lagged-rams-australia-behind-22426575.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-    "image": "https://s.yimg.com/lo/mysterio/api/3731f2e1038f75feb4eeab717492cab1e43cac147a801db7373eaa8d38536d09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F9bab477093cfe7e770612782c3580ebe.jpg",
-    "publishedAt": "2026-09-11T04:38:45Z",
-    "author": "Harrison Rich"
   }
 ]
 ;
