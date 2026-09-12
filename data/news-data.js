@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Chicago Bears: Make Massive 3-Year Commitment to Pro Bowler",
+    "description": "Chicago Bears running back D’Andre Swift enters the final year of his deal and is scheduled to earn a $6.39 million base salary and $7.5 million in cash, while incurring an $8.8 million cap charge, per Spotrac. Swift is coming off a strong second season in Ch…",
+    "url": "https://sports.yahoo.com/articles/chicago-bears-massive-3-commitment-203055860.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e005e762e4f7f3bf105e0e18a2b0cb0ba9dd8b8cd88ee35adafbd3e26be4813b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fa4678e30c381e5b9f7b7246fcd9416a1.jpg",
+    "publishedAt": "2026-09-11T20:30:55Z",
+    "author": "Jackson Loschko"
+  },
+  {
     "source": "The Times of India",
     "title": "LPL in limbo, CAL turns focus to Women’s Premier League",
     "description": "Cricket Association Lucknow shelves men’s Lucknow Premier League amid delays and no UPCA approval, shifts to launch a women’s premier league this month.",
@@ -142,51 +151,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134077179,width-1200,height-630,imgsize-123968,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-11T15:55:22Z",
     "author": "ANI"
-  },
-  {
-    "source": "Hogs Haven",
-    "title": "Commanders release veteran offensive tackle just before Week 1 vs. Eagles",
-    "description": "The Commanders have released backup offensive tackle D.J. Humphries, a former Pro Bowler who wasn’t in Washington long",
-    "url": "https://www.hogshaven.com/washington-commanders-news/439069/commanders-release-dj-humphries-week-1-vs-eagles",
-    "image": "https://s.yimg.com/lo/mysterio/api/a25e269d0e305a2f8abb637d7e62d21617668b3177d72d7d3266c855fcbf1d71/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff62528d0ea291366df6b7aa519e167a0.jpg",
-    "publishedAt": "2026-09-11T15:23:32Z",
-    "author": "Scott Bair"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ILT20 season 5 turns up the pace with 100-mph legends Brett Lee and Shoaib Akhtar",
-    "description": "In an exciting announcement at a Dubai launch event, cricket icons Brett Lee and Shoaib Akhtar have been appointed as ambassadors for ILT20 Season 5. The upcoming season promises a thrilling spectacle as several international stars make their debuts, alongsid…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-turns-up-the-pace-with-100-mph-legends-brett-lee-and-shoaib-akhtar/articleshow/134074981.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134075236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-11T15:09:19Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli could return to play for Delhi in Vijay Hazare Trophy before 2027 ODI World Cup",
-    "description": "Fans can get to see Virat Kohli once again playing for Delhi very soon, as DDCA president Rohan Jaitley was quick to confirm his availability for the Vijay Hazare Trophy ahead of the World Cup",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-return-delhi-vijay-hazare-trophy-2027-odi-world-cup/3e0ed3e9bd93e2fac8227df1",
-    "image": "https://s.yimg.com/lo/mysterio/api/0f99418b44142c1a44c8d1d2399cda69316cece1101e30da607a1a6050c763eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7f2e41e0f8b5b89dad09a72c41e9b2a6",
-    "publishedAt": "2026-09-11T14:27:37Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hampshire need miracle to avoid relegation - Domingo",
-    "description": "Hampshire cricket head coach Russell Domingo believes his side need \"a bit of a miracle\" if they are to remain a Division One side in the County Championship...",
-    "url": "https://www.bbc.com/sport/cricket/articles/cvgy08kl91xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/4aa44765e4c8bb7eddafb2660a71b1a6ae2048100358b058fa35d00f04df2841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb483ee3ad7f785149baea56f304773fe.jpg",
-    "publishedAt": "2026-09-11T14:11:45Z",
-    "author": "Dan George - BBC Sport, Hampshire"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hampshire need miracle to avoid relegation - Domingo",
-    "description": "Hampshire cricket head coach Russell Domingo believes his side need \"a bit of a miracle\" if they are to remain a Division One side in the County Championship.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy08kl91xo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8790/live/59aadfd0-ade6-11f1-9a5c-a7a4083eb832.jpg",
-    "publishedAt": "2026-09-11T14:06:20Z",
-    "author": "Dan George"
   }
 ]
 ;
