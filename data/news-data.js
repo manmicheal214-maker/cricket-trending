@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "England chasing the rainbow with more questions than answers",
+    "description": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cj64nxkx22jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/1050639093247fe30b73f1b155ab4c01587912d63399e46049b67a64bf6e13ab/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F57a24b5e1c98e6690a4d67949e4c96da.jpg",
+    "publishedAt": "2026-09-12T16:04:15Z",
+    "author": "Stephan Shemilt - Cricket Correspondent at Edgbaston"
+  },
+  {
+    "source": "BBC News",
+    "title": "England chasing the rainbow with more questions than answers",
+    "description": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj64nxkx22jo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c72d/live/4e778bc0-aebf-11f1-89e2-171455bb2760.jpg",
+    "publishedAt": "2026-09-12T15:59:44Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I definitely know how his mind works': Shreyas Iyer on Gautam Gambhir",
+    "description": "Shreyas Iyer and Gautam Gambhir have worked together at Kolkata Knight Riders (KKR), where they helped the franchise win the IPL title in 2024. Iyer was the captain, while Gambhir was the mentor. Iyer believes Gambhir's aggressive approach and his ability to …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/i-definitely-know-how-his-mind-works-shreyas-iyer-on-gautam-gambhir/articleshow/134141874.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134142064,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T15:50:15Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "138 years later, England-Pakistan series creates rare Test cricket feat",
+    "description": "England's batting was led by Joe Root, who remained unbeaten on 62 in the third Test, while Jordan Cox scored an unbeaten 59 as England chased down 130 with eight wickets in hand. The result gave England their second 3-0 Test series clean sweep over Pakistan,…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/138-years-later-england-pakistan-series-creates-rare-test-cricket-feat/articleshow/134132773.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134133330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T13:01:55Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Afghanistan 1st T20I 2026 predicted lineups with potential return of Sanju Samson in starting XI at Delhi",
+    "description": "With Sanju Samson all set for his return to the Indian T20 lineup against Afghanistan, former RR teammate Ajinkya Rahane prefers him over young upstart Vaibhav Sooryavanshi",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-afghanistan-1st-t20i-2026-predicted-lineups-delhi/f64c3f013359bf53d29b6eda",
+    "image": "https://s.yimg.com/lo/mysterio/api/bca59f3cc867775e6cf04911fefa69bd1211a2bd07f62f1adfe3cce90e5fd075/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
+    "publishedAt": "2026-09-12T12:31:52Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+    "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cvgy4xy8gl9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/fd88c693ae6b5b71f1b978c3c735386d28908d635025d75baf712a327d7ea009/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0eec4397c874bdc3e1ad7441a974fd89.jpg",
+    "publishedAt": "2026-09-12T12:26:13Z",
+    "author": "Timothy Abraham - BBC Sport journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+    "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4041/live/d4e0d510-aea4-11f1-8972-d5c52a82c3b8.jpg",
+    "publishedAt": "2026-09-12T12:24:31Z",
+    "author": "Timothy Abraham"
+  },
+  {
     "source": "Khabarhub.com",
     "title": "Nepal qualify for Asia Cup after 44-run victory over UAE",
     "description": "KATHMANDU: Nepal have won the title of the third edition of the ACC Premier Cup One-Day tournament after defeating the United Arab Emirates (UAE) by 44 runs in the final held in Malaysia on Saturday. With the victory, Nepal have qualified for the 2027 ODI Asi…",
@@ -106,78 +169,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134105447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-12T03:13:19Z",
     "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mumbai Cricket Association to raise Rs 500 crore corpus for grassroots cricket",
-    "description": "Cricket News: MUMBAI: The Mumbai Cricket Association (MCA) will create a Rs 500 cr corpus for grassroots cricket over the next decade, with maidan clubs, schools an.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mumbai-cricket-association-to-raise-rs-500-crore-corpus-for-grassroots-cricket/articleshow/134104811.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134105196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T03:06:34Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Debutant Razaullah equals Ben Stokes and Tim Southee’s six-hitting records as Pakistan refuse to fold at Edgbaston",
-    "description": "Cricket News: Pakistan produced their best batting performance of the series to deny England a series sweep inside three days of the final Test at Edgbaston. A coun.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/debutant-razaullah-equals-ben-stokes-and-tim-southees-six-hitting-records-as-pakistan-refuse-to-fold-at-edgbaston/articleshow/134103438.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134103958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T02:35:39Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan's Razaullah Khan scripts history, enters record books on Test debut",
-    "description": "Razaullah Khan's Test debut at Edgbaston turned heads as he launched nine sixes, establishing a new record for a No. 9 batter. Despite this impressive performance, Pakistan faced an innings defeat. His partnership with Mohammad Abbas was vital in helping the …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-razaullah-khan-scripts-history-enters-record-books-on-test-debut/articleshow/134103285.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134103523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T02:24:57Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Where will he bat?': AB de Villiers raises big Tilak Varma concern ahead of Afghanistan T20Is",
-    "description": "As India gears up for the T20I series against Afghanistan, it faces crucial decisions in batting selection. Former cricketer AB de Villiers voices concerns over Tilak Varma's positioning in the order. With the team aiming for consistency following erratic per…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/where-will-he-bat-ab-de-villiers-raises-big-tilak-varma-concern-ahead-of-afghanistan-t20is/articleshow/134102099.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134102575,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T01:56:10Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal elect to bat first against UAE in ACC Premier Cup final",
-    "description": "KATHMANDU: Nepal won the toss and elected to bat first against the United Arab Emirates (UAE) in the final of the third edition of the ACC Premier Cup One-Day Cricket Tournament. The toss took place at Bayuemas Oval in Kuala Lumpur, Malaysia, where both teams…",
-    "url": "https://english.khabarhub.com/2026/12/567475/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Nepal-vs-uae-cover.jpg",
-    "publishedAt": "2026-09-12T01:38:28Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ACC Premier Cup final: Nepal and UAE to clash today",
-    "description": "KATHMANDU: Nepal and the United Arab Emirates (UAE) will face each other today in the final of the third edition of the ACC Premier Cup One-Day Cricket Tournament. The final between Nepal and the UAE will begin at 7:15 am at Bayuemas Oval in Kuala Lumpur, Mal…",
-    "url": "https://english.khabarhub.com/2026/12/567467/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
-    "publishedAt": "2026-09-12T00:32:31Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Chicago Bears: Make Massive 3-Year Commitment to Pro Bowler",
-    "description": "Chicago Bears running back D’Andre Swift enters the final year of his deal and is scheduled to earn a $6.39 million base salary and $7.5 million in cash, while incurring an $8.8 million cap charge, per Spotrac. Swift is coming off a strong second season in Ch…",
-    "url": "https://sports.yahoo.com/articles/chicago-bears-massive-3-commitment-203055860.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/e005e762e4f7f3bf105e0e18a2b0cb0ba9dd8b8cd88ee35adafbd3e26be4813b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fa4678e30c381e5b9f7b7246fcd9416a1.jpg",
-    "publishedAt": "2026-09-11T20:30:55Z",
-    "author": "Jackson Loschko"
-  },
-  {
-    "source": "The Times of India",
-    "title": "LPL in limbo, CAL turns focus to Women’s Premier League",
-    "description": "Cricket Association Lucknow shelves men’s Lucknow Premier League amid delays and no UPCA approval, shifts to launch a women’s premier league this month.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/lpl-in-limbo-cal-turns-focus-to-womens-premier-league/articleshow/134088774.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-11T20:01:12Z",
-    "author": "Fazal Khan"
   }
 ]
 ;
