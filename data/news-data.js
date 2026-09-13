@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Khabarhub.com",
+    "title": "ACC Premier Cup final: Nepal and UAE to clash today",
+    "description": "KATHMANDU: Nepal and the United Arab Emirates (UAE) will face each other today in the final of the third edition of the ACC Premier Cup One-Day Cricket Tournament. The final between Nepal and the UAE will begin at 7:15 am at Bayuemas Oval in Kuala Lumpur, Mal…",
+    "url": "https://english.khabarhub.com/2026/12/567467/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
+    "publishedAt": "2026-09-12T00:32:31Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Chicago Bears: Make Massive 3-Year Commitment to Pro Bowler",
     "description": "Chicago Bears running back D’Andre Swift enters the final year of his deal and is scheduled to earn a $6.39 million base salary and $7.5 million in cash, while incurring an $8.8 million cap charge, per Spotrac. Swift is coming off a strong second season in Ch…",
@@ -133,24 +142,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134078506,width-1200,height-630,imgsize-154612,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-11T16:22:32Z",
     "author": "PTI"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Kohli, Shinde Meet In London Over Sports and State Development",
-    "description": "Former India cricket captain Virat Kohli met Maharashtra Deputy Chief Minister Eknath Shinde in London to discuss enhancing sports infrastructure, athlete development, and state progress. The meeting focused on policy improvements for sports facilities in Mah…",
-    "url": "https://www.rediff.com/sports/report/virat-kohli-meets-maharashtra-dy-cm-shinde-in-london/20260911.htm",
-    "image": "https://im.rediff.com/1200-630/cricket/2014/sep/01kohli1.jpg",
-    "publishedAt": "2026-09-11T16:14:27Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ACA Cricket Academy unveils one of India's largest indoor cricket facilities",
-    "description": "Assam's ACA Cricket Academy now boasts a large indoor cricket facility. This modern setup features nine wickets and advanced training amenities. Players will benefit from year-round practice and enhanced player development programs. The facility includes a gy…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/aca-cricket-academy-unveils-one-of-indias-largest-indoor-cricket-facilities/articleshow/134077180.cms",
-    "image": "https://img.etimg.com/thumb/msid-134077179,width-1200,height-630,imgsize-123968,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T15:55:22Z",
-    "author": "ANI"
   }
 ]
 ;
