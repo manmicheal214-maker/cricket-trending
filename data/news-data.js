@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'Have we produced a batter like Vaibhav Sooryavanshi?': Wasim Akram questions Pakistan's batting crisis",
+    "description": "Wasim Akram voiced concern over Pakistan's lack of batting talent emerging from their system. He questioned the Pakistan Super League's decade-long impact on developing batsmen for the national team. Akram suggested reviving club cricket and implementing long…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/have-we-produced-a-batter-like-vaibhav-sooryavanshi-wasim-akram-questions-pakistans-batting-crisis/articleshow/134111206.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134111316,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T05:49:17Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Always a big fan': Trent Boult picks KL Rahul as India batter to watch in New Zealand Tests",
+    "description": "Trent Boult, the former New Zealand bowler, predicts a tough challenge for India in the upcoming Test series. He highlighted KL Rahul and Yashasvi Jaiswal as key players to keep an eye on. With cold temperatures and green pitches in play, the Indian side will…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/always-a-big-fan-trent-boult-picks-kl-rahul-as-india-batter-to-watch-in-new-zealand-tests/articleshow/134110874.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134110978,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T05:36:30Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "ACC Premier Cup: Asif Sheikh hits century as Nepal dominate UAE final",
+    "description": "KATHMANDU: Nepal opener Asif Sheikh has scored a century against the United Arab Emirates (UAE) in the final of the ACC Premier Cup One-Day International Tournament. Playing at Bayuemas Oval Cricket Ground in Kuala Lumpur, Malaysia, Sheikh reached his century…",
+    "url": "https://english.khabarhub.com/2026/12/567499/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Asif-Seikh-cricket.jpg",
+    "publishedAt": "2026-09-12T05:17:35Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From teammate to coach, Ishank Jaggi watched Ishan rebuild himself",
+    "description": "Cricket News: Kolkata: Almost fourteen years after Ishank Jaggi was named Player of the Match when East Zone last won the Duleep Trophy, he watched Ishan Kishan col.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-teammate-to-coach-ishank-jaggi-watched-ishan-rebuild-himself/articleshow/134108685.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134108798,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T04:44:02Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Astonishing’: Piers Morgan praises Razaullah for ‘single-handedly restoring some pride to Pakistan cricket’ after historic outing in Edgbaston",
+    "description": "Piers Morgan praised Razaullah for single-handedly restoring pride to Pakistan cricket after the pacer's historic batting display at Edgbaston.",
+    "url": "https://www.cricketnews.com/en/cricket/news/piers-morgan-razaullah-restoring-pride-pakistan-cricket/c513b6ad508e1dc36af295f3",
+    "image": "https://s.yimg.com/lo/mysterio/api/b060721a142eb8700f5a1b5603296cbc6b4fd27ea7b50a2382acb9fd06983a62/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1d5fbc9071af7a629657e8acca396d7e",
+    "publishedAt": "2026-09-12T04:33:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Struggled for rhythm due to 2-month break': Mohammed Siraj",
+    "description": "Cricket News: CHENNAI: Mohammed Siraj hasn't been at his best of late. He struggled in Sri Lanka recently and also in the Duleep Trophy final that got over here on .",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/struggled-for-rhythm-due-to-2-month-break-mohammed-siraj/articleshow/134105295.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134105447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T03:13:19Z",
+    "author": "Diptayan Hazra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mumbai Cricket Association to raise Rs 500 crore corpus for grassroots cricket",
+    "description": "Cricket News: MUMBAI: The Mumbai Cricket Association (MCA) will create a Rs 500 cr corpus for grassroots cricket over the next decade, with maidan clubs, schools an.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mumbai-cricket-association-to-raise-rs-500-crore-corpus-for-grassroots-cricket/articleshow/134104811.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134105196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T03:06:34Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Debutant Razaullah equals Ben Stokes and Tim Southee’s six-hitting records as Pakistan refuse to fold at Edgbaston",
+    "description": "Cricket News: Pakistan produced their best batting performance of the series to deny England a series sweep inside three days of the final Test at Edgbaston. A coun.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/debutant-razaullah-equals-ben-stokes-and-tim-southees-six-hitting-records-as-pakistan-refuse-to-fold-at-edgbaston/articleshow/134103438.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134103958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T02:35:39Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan's Razaullah Khan scripts history, enters record books on Test debut",
+    "description": "Razaullah Khan's Test debut at Edgbaston turned heads as he launched nine sixes, establishing a new record for a No. 9 batter. Despite this impressive performance, Pakistan faced an innings defeat. His partnership with Mohammad Abbas was vital in helping the …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-razaullah-khan-scripts-history-enters-record-books-on-test-debut/articleshow/134103285.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134103523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T02:24:57Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Where will he bat?': AB de Villiers raises big Tilak Varma concern ahead of Afghanistan T20Is",
+    "description": "As India gears up for the T20I series against Afghanistan, it faces crucial decisions in batting selection. Former cricketer AB de Villiers voices concerns over Tilak Varma's positioning in the order. With the team aiming for consistency following erratic per…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/where-will-he-bat-ab-de-villiers-raises-big-tilak-varma-concern-ahead-of-afghanistan-t20is/articleshow/134102099.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134102575,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-12T01:56:10Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal elect to bat first against UAE in ACC Premier Cup final",
+    "description": "KATHMANDU: Nepal won the toss and elected to bat first against the United Arab Emirates (UAE) in the final of the third edition of the ACC Premier Cup One-Day Cricket Tournament. The toss took place at Bayuemas Oval in Kuala Lumpur, Malaysia, where both teams…",
+    "url": "https://english.khabarhub.com/2026/12/567475/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Nepal-vs-uae-cover.jpg",
+    "publishedAt": "2026-09-12T01:38:28Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "Khabarhub.com",
     "title": "ACC Premier Cup final: Nepal and UAE to clash today",
     "description": "KATHMANDU: Nepal and the United Arab Emirates (UAE) will face each other today in the final of the third edition of the ACC Premier Cup One-Day Cricket Tournament. The final between Nepal and the UAE will begin at 7:15 am at Bayuemas Oval in Kuala Lumpur, Mal…",
@@ -114,33 +213,6 @@ window.cricketNews = [
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/wasim-akram-rues-pakistans-failure-to-produce-quality-batting-talent/articleshow/134079435.cms",
     "image": "https://img.etimg.com/thumb/msid-134079560,width-1200,height-630,imgsize-54022,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-11T16:47:04Z",
-    "author": "PTI"
-  },
-  {
-    "source": "ClutchPoints",
-    "title": "49ers news: Trent Williams demands you put some respect on Brock Purdy's name",
-    "description": "San Francisco 49ers offensive tackle Trent Williams heaped praise on quarterback Brock Purdy following the team’s 27-7 regular-season opener win over the Los Angeles Rams at the Melbourne Cricket Ground on Thursday. Williams was asked to describe the 49ers’ s…",
-    "url": "https://clutchpoints.com/nfl/san-francisco-49ers/49ers-news-trent-williams-demands-respect-on-brock-purdy-name",
-    "image": "https://s.yimg.com/lo/mysterio/api/939b16cc29e7c3b387413507f5f971077c5642df1a35b31defae6cd387c68c53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F1b006fceff2c84c1164ad341dc998544.png",
-    "publishedAt": "2026-09-11T16:46:35Z",
-    "author": "Nitish Singh, ClutchPoints"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Kohli And Shinde Meet In London For Sports Development Talks",
-    "description": "Former India cricket captain Virat Kohli met Maharashtra Deputy Chief Minister Eknath Shinde in London to discuss enhancing sports infrastructure, athlete development, and the state's progress. The dialogue focused on policy improvements, upcoming sports faci…",
-    "url": "https://www.rediff.com/sports/report/virat-kohli-meets-dy-cm-shinde-in-london-on-sports-development/20260911.htm",
-    "image": "https://im.rediff.com/1200-630/cricket/2014/sep/01kohli1.jpg",
-    "publishedAt": "2026-09-11T16:44:25Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "MCA raises corpus to Rs 500-cr; Wankhede lounges to be named after Tendulkar, Rahane and Mantri",
-    "description": "The Mumbai Cricket Association will increase its subsidy corpus to Rs 500 crore. This significant funding will support affiliated clubs over the next ten years. Lounges at the Wankhede Stadium will be named after Sachin Tendulkar and Ajinkya Rahane. Late Madh…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mca-raises-corpus-to-rs-500-cr-wankhede-lounges-to-be-named-after-tendulkar-rahane-and-mantri/articleshow/134078440.cms",
-    "image": "https://img.etimg.com/thumb/msid-134078506,width-1200,height-630,imgsize-154612,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T16:22:32Z",
     "author": "PTI"
   }
 ]
