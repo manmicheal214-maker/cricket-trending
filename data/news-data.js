@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Ranji Trophy: Brabourne Stadium to be Railways home venue in 2026-27 season",
+    "description": "Brabourne Stadium will host Railways' Ranji Trophy home matches for the first time. Railways will play three home ties at the iconic venue during the 2026-27 season. This marks the return of first-class cricket to Brabourne Stadium after over three years. The…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-brabourne-stadium-to-be-railways-home-venue-in-2026-27-season/articleshow/134180687.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134180965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T05:39:40Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "DC coaching staff, IPL 2026: Full list of Delhi Capitals coach and support staff for 2027 Indian Premier League",
+    "description": "DC coaching staff IPL 2027: Full list of Delhi Capitals coaches and support staff for 2027.",
+    "url": "https://www.cricketnews.com/en/cricket/news/dc-coaching-staff-ipl-2026-delhi-capitals-coach-support-staff-2027-ipl/a05696b795fdc152ad8e03a2",
+    "image": "https://s.yimg.com/lo/mysterio/api/745581453b5181693eb5a24f887a983683ed1ccf43eb05764846bdfc9a32d9b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7061908222dcef0de995052836671024",
+    "publishedAt": "2026-09-13T05:38:38Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "DICS, Dubai pitch report, T20I records and average scores ahead of India vs. Sri Lanka Women's Asia Cup final 2026",
+    "description": "With India W's all set to avenge their loss from the 2024 Women's Asia Cup against Sri Lanka, here's a look at the pitch conditions at the Dubai International Cricket Stadium.",
+    "url": "https://www.sportingnews.com/in/cricket/news/dics-dubai-pitch-report-t20i-records-scores-india-sri-lanka-womens-asia-cup/c1e4ed390c338fc01e21c145",
+    "image": "https://s.yimg.com/lo/mysterio/api/0d25b8204bcf3870f3ec3c907efd2c7ce52f442efc17dad19db19fd3c71f6642/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fc57e4c3af3f1a6aece809eb09071df4c",
+    "publishedAt": "2026-09-13T05:30:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "How is Belfast's new pro cricket franchise creating hype with no home matches?",
+    "description": "The new Belfast Wolves will not play any matches in their home city in the first season of the European T20 league.",
+    "url": "https://www.bbc.com/news/articles/ckgvr0q04zno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/f9e7288fc7e9c121776435492b62bd41e3e72da6ad4984686d0c37a9faa898e9/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png",
+    "publishedAt": "2026-09-13T05:27:53Z",
+    "author": "Simon Doyle - BBC News NI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Still selecting Kohli & Rohit': Ex-cricketer makes big statement on Shami's India snub",
+    "description": "Cricket News: Mohammed Shami’s chances of returning to international cricket for India appear uncertain, with the pacer having not played for the national team for .",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/still-selecting-virat-kohli-and-rohit-sharma-aakash-chopra-makes-big-statement-on-mohammed-shamis-india-snub/articleshow/134179456.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134180122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T05:26:26Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Open to it’: Hesson eyes Pakistan Test role as Afridi makes red-ball return",
+    "description": "Mike Hesson has shown interest in assuming a permanent position as Pakistan's Test coach. Shaheen Afridi emphasised that red-ball cricket is his primary focus. Hesson recognises the untapped potential within Pakistan's Test setup for future advancements. Afri…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/id-be-open-to-it-mike-hesson-eyes-pakistan-test-role-as-shaheen-afridi-makes-red-ball-return/articleshow/134180063.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134180209,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T05:22:45Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Probs will go to a pub': Ben Stokes posts cheeky Instagram story as team secure promotion in County",
+    "description": "Stokes, who retired from international cricket after the New Zealand Test series, was filmed leaving a nightclub in August while his Durham teammate Brydon Carse was being handcuffed by police.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/probs-will-go-to-a-pub-ben-stokes-posts-cheeky-instagram-story-as-team-secure-promotion-in-county/articleshow/134177670.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134177821,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T04:35:20Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Women's Asia Cup: India seek payback against resilient Sri Lanka in title clash",
+    "description": "India and Sri Lanka will contest the T20 Asia Cup final on Sunday. Both teams remain undefeated after winning all four of their previous matches. India's potent spin attack will face Sri Lanka's resilient batting lineup. Explosive openers Smriti Mandhana and …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-india-seek-payback-against-resilient-sri-lanka-in-title-clash/articleshow/134174126.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134174293,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T03:07:26Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "9 years on, Mumbai gets 8 of its Azad Maidan pitches back",
+    "description": "Cricket returns to Azad Maidan as eight clubs regain renovated pitches. These grounds were occupied for Metro 3 construction, impacting sixteen clubs. Prominent clubs like Parsee Cyclists and John Bright were affected by the project. The maidan's capacity was…",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/9-years-on-mumbai-gets-8-of-its-azad-maidan-pitches-back/articleshow/134173172.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134173356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T02:44:40Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Ollie Robinson is England's most lethal bowler for more than a century - tougher tests are to come, but here's why - and how - he's grabbed his second chance by the horn, writes LAWRENCE BOOTH",
+    "description": "LAWRENCE BOOTH: Robinson finished the home Test season with numbers once thought possible only in the era of uncovered pitches and rudimentary batting techniques.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16126725/Ollie-Robinson-Englands-bowler-century.html",
+    "image": "https://i.dailymail.com/1s/2026/09/12/23/111212987-0-image-m-76_1789251223872.jpg",
+    "publishedAt": "2026-09-13T01:00:49Z",
+    "author": "Lawrence Booth"
+  },
+  {
     "source": "MLB Trade Rumors",
     "title": "Diamondbacks To Select Pavin Smith",
     "description": "Pavin Smith is back in Arizona. According to Alex Weiner of Arizona Sports, the lefty batter will be in the Diamondbacks’ lineup this evening as they take on the Rangers. The D-backs designated Smith for assignment and sent him outright to Triple-A Reno in Ju…",
@@ -106,51 +196,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134142064,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-12T15:50:15Z",
     "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "138 years later, England-Pakistan series creates rare Test cricket feat",
-    "description": "England's batting was led by Joe Root, who remained unbeaten on 62 in the third Test, while Jordan Cox scored an unbeaten 59 as England chased down 130 with eight wickets in hand. The result gave England their second 3-0 Test series clean sweep over Pakistan,…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/138-years-later-england-pakistan-series-creates-rare-test-cricket-feat/articleshow/134132773.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134133330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T13:01:55Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India vs Afghanistan 1st T20I 2026 predicted lineups with potential return of Sanju Samson in starting XI at Delhi",
-    "description": "With Sanju Samson all set for his return to the Indian T20 lineup against Afghanistan, former RR teammate Ajinkya Rahane prefers him over young upstart Vaibhav Sooryavanshi",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-afghanistan-1st-t20i-2026-predicted-lineups-delhi/f64c3f013359bf53d29b6eda",
-    "image": "https://s.yimg.com/lo/mysterio/api/bca59f3cc867775e6cf04911fefa69bd1211a2bd07f62f1adfe3cce90e5fd075/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
-    "publishedAt": "2026-09-12T12:31:52Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Who has given selectors food for thought? England-Pakistan player ratings",
-    "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cvgy4xy8gl9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/fd88c693ae6b5b71f1b978c3c735386d28908d635025d75baf712a327d7ea009/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0eec4397c874bdc3e1ad7441a974fd89.jpg",
-    "publishedAt": "2026-09-12T12:26:13Z",
-    "author": "Timothy Abraham - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Who has given selectors food for thought? England-Pakistan player ratings",
-    "description": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4041/live/d4e0d510-aea4-11f1-8972-d5c52a82c3b8.jpg",
-    "publishedAt": "2026-09-12T12:24:31Z",
-    "author": "Timothy Abraham"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal qualify for Asia Cup after 44-run victory over UAE",
-    "description": "KATHMANDU: Nepal have won the title of the third edition of the ACC Premier Cup One-Day tournament after defeating the United Arab Emirates (UAE) by 44 runs in the final held in Malaysia on Saturday. With the victory, Nepal have qualified for the 2027 ODI Asi…",
-    "url": "https://english.khabarhub.com/2026/12/567545/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/IMG_1420.jpeg",
-    "publishedAt": "2026-09-12T10:45:40Z",
-    "author": "Khabarhub"
   }
 ]
 ;
