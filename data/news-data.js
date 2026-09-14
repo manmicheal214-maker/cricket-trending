@@ -1,6 +1,123 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "South Africa cruise to nine-wicket win over Namibia, complete dominant 3-0 ODI series sweep",
+    "description": "In a stunning display, South Africa triumphed with a nine-wicket win in the last ODI against Namibia, achieving a clean sweep with a three-nil series victory. The hosts were held in check by Bjorn Fortuin's four wickets, while a fiery start from Jordan Herman…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/south-africa-cruise-to-nine-wicket-win-over-namibia-complete-dominant-3-0-odi-series-sweep/articleshow/134203357.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134204476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T13:48:32Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After Kagiso Rabada, South Africa lose another pacer as Ottneil Baartman ruled out of Australia ODIs",
+    "description": "Ottneil Baartman will miss the forthcoming ODI series against Australia due to a hamstring injury, prompting the inclusion of Duan Jansen as his replacement in the South African team. This setback intensifies South Africa's pace bowling challenges, especially…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-kagiso-rabada-south-africa-lose-another-pacer-as-ottneil-baartman-ruled-out-of-australia-odis/articleshow/134201155.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134201276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T12:49:08Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Afghanistan 1st T20I 2026 live score, toss winner, winning probability, result and highlights from Delhi",
+    "description": "Follow the Cricket News' live coverage of the India vs Afghanistan 1st T20I from Delhi including scores, win probability and match updates.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-afghanistan-1st-t20i-2026-live-score-result-highlights-delhi/54db0e4044c742657b08db0c",
+    "image": "https://s.yimg.com/lo/mysterio/api/bca59f3cc867775e6cf04911fefa69bd1211a2bd07f62f1adfe3cce90e5fd075/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
+    "publishedAt": "2026-09-13T12:32:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asia Cup Final 2026: India favourites, but Sri Lanka have a 2024 final to draw on",
+    "description": "India Women vs Sri Lanka Women Live Score: India Women and Sri Lanka Women will lock horns in a blockbuster Women’s T20 Asia Cup 2026 final at the Du",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-women-vs-sri-lanka-women-asia-cup-final-2026-live-score-ind-w-vs-sl-w-cricket-match-today-scorecard-latest-news/liveblog/134199793.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134199793,width-1280,height-720,imgsize-1121660,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T12:17:27Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Root creates 147-year Test record, becomes first to score 2,000 runs in 4th inning",
+    "description": "In an impressive display of skill, Joe Root not only surpassed two thousand runs in fourth innings but also became the first cricketer to net one thousand Test runs at Edgbaston. His unbeaten sixty-two propelled England to victory against Pakistan, marking hi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-achieves-what-no-batter-has-done-in-147-years-of-test-cricket-becomes-first-batter-to-score-2000-fourth-innings-runs/articleshow/134191220.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134191973,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T09:40:49Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Shane Warne's son Jackson shares heartbreaking FaceTime video his dad sent before his death as the children of the late cricket legend celebrate what would have been his 57th birthday",
+    "description": "Jackson Warne has shared a touching video sent to him by his father, Shane Warne, before the cricketer's untimely death.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16127465/jackson-warne-shane-warne-birthday-video-tribute-cricket.html",
+    "image": "https://i.dailymail.com/1s/2026/09/13/10/111217467-0-image-m-19_1789291079794.jpg",
+    "publishedAt": "2026-09-13T09:27:05Z",
+    "author": "Marta Jary"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Why India are playing as 'away' team in Delhi for Afghanistan T20I series: Explained",
+    "description": "Cricket News: India will begin their three-match T20I series against Afghanistan with the first match at the Arun Jaitley Stadium in Delhi on Sunday. While the matc.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-india-are-playing-as-away-team-in-delhi-for-afghanistan-t20i-series-explained/articleshow/134190392.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134190638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T09:15:09Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Women’s Asia Cup: Nigar Sultana’s handshake snub to Harmanpreet Kaur backfires as BCB distances itself, puts captaincy under review",
+    "description": "During the toss, Bangladesh's captain Nigar Sultana declined to shake hands with India's skipper, a decision that the Bangladesh Cricket Board clarified was her own. The board plans to evaluate her leadership after the Asian Games, taking into account the tea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/womens-asia-cup-nigar-sultanas-handshake-snub-to-harmanpreet-kaur-backfires-as-bcb-distances-itself-puts-captaincy-under-review/articleshow/134187311.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134187697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T08:07:22Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Quote of the day by Smriti Mandhana: 'If you keep crying and sitting on those mistakes, you’re not improving yourself or getting better...' Indian cricketer shares an important lesson on fastest way to bounce back from failure",
+    "description": "Smriti Mandhana, the Indian cricketer, champions the importance of learning from past failures. She believes it's crucial to move beyond mistakes and concentrate on personal advancement. Mandhana's impressive career showcases her commitment to this mindset, a…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-smriti-mandhana-if-you-keep-crying-and-sitting-on-those-mistakes-youre-not-improving-yourself-or-getting-better-indian-cricketer-shares-an-important-lesson-on-fastest-way-to-bounce-back-from-failure/articleshow/134184947.cms",
+    "image": "https://img.etimg.com/thumb/msid-134186684,width-1200,height-630,imgsize-95370,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-09-13T07:56:23Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "The fall of Imran Khan",
+    "description": "Former cricket star and Pakistani prime minister Imran Khan now lives in a 6ft-by-8ft prison cell in the Adiala prison in Rawalpindi, Pakistan’s fourth-largest city. According to his family, his conditions are dire: Khan, 73, prime minister from 2018 to 2022,…",
+    "url": "https://biztoc.com/x/4b123c6b2229a85b",
+    "image": "https://biztoc.com/cdn/4b123c6b2229a85b_s.webp",
+    "publishedAt": "2026-09-13T07:29:39Z",
+    "author": "theweek.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Namibia vs South Africa, 3rd ODI Live Score",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/namibia-vs-south-africa-third-odi-live-cricket-score-dewald-brevis-corbin-bosch-gerhard-erasmus/liveblog/134185331.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134185331,width-1280,height-720,imgsize-38380,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-13T07:14:06Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Crash and burn: Pakistan cricket at a new low after England humiliation",
+    "description": "Pakistan cricket hit a fresh low during the dismal 3-0 Test whitewash in England, even if a dazzling cameo by debutant Razaullah at least ensured a tour marred by mid-series sackings ended with a flicker of hope. The PCB banned then-captain Mohammad Yousuf an…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/crash-and-burn-pakistan-cricket-at-a-new-low-after-england-humiliation/articleshow/134182653.cms",
+    "image": "https://img.etimg.com/thumb/msid-134183209,width-1200,height-630,imgsize-89958,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-13T06:26:14Z",
+    "author": "AFP"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Iceland Cricket's brutal dig at Pakistan: Babar Azam and Co.'s fight vs England in 2nd innings of 3rd Test gives 'hope' to minnows Iceland",
+    "description": "Iceland Cricket took a savage dig at Pakistan, joking that Babar Azam and Co.'s second-innings struggle against England at Edgbaston gives hope to minnows.",
+    "url": "https://www.cricketnews.com/en/cricket/news/iceland-cricket-dig-pakistan-fight-england-2nd-innings-3rd-test/605e42bbc6ba0bc6bb096104",
+    "image": "https://s.yimg.com/lo/mysterio/api/61b9cbf8dd382d3edfdc0bb0b17d73b39383a2298b7645bfb639d351bd13a4c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F55f943f541c3a2d2d089d34fb77fb029",
+    "publishedAt": "2026-09-13T06:08:39Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
     "title": "Ranji Trophy: Brabourne Stadium to be Railways home venue in 2026-27 season",
     "description": "Brabourne Stadium will host Railways' Ranji Trophy home matches for the first time. Railways will play three home ties at the iconic venue during the 2026-27 season. This marks the return of first-class cricket to Brabourne Stadium after over three years. The…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-brabourne-stadium-to-be-railways-home-venue-in-2026-27-season/articleshow/134180687.cms",
@@ -88,114 +205,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/09/12/23/111212987-0-image-m-76_1789251223872.jpg",
     "publishedAt": "2026-09-13T01:00:49Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "MLB Trade Rumors",
-    "title": "Diamondbacks To Select Pavin Smith",
-    "description": "Pavin Smith is back in Arizona. According to Alex Weiner of Arizona Sports, the lefty batter will be in the Diamondbacks’ lineup this evening as they take on the Rangers. The D-backs designated Smith for assignment and sent him outright to Triple-A Reno in Ju…",
-    "url": "https://www.mlbtraderumors.com/2026/09/diamondbacks-to-select-pavin-smith.html",
-    "image": "https://cdn.mlbtraderumors.com/files/2026/09/2026-07-10T233239Z_312247401_MT1USATODAY29367562_RTRMADP_3_ARIZONA-DIAMONDBACKS-DESIGNATED-HITTER-PAVIN-SMITH-26-1024x683.jpg",
-    "publishedAt": "2026-09-12T20:32:02Z",
-    "author": "Leo Morgenstern"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Year on, net-sports rules in Ahmedabad await civic body’s final nod",
-    "description": "Ahmedabad AMC’s net-covered sports policy for box cricket and pickleball, drafted after the 2024 Rajkot fire, awaits approval; permits, safety norms proposed.",
-    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/year-on-net-sports-rules-in-ahmedabad-await-civic-bodys-final-nod/articleshow/134151380.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134151378,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T18:43:05Z",
-    "author": "Jignesh Parmar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Afghanistan 1st T20I: When and where to watch, live streaming, weather, predicted XIs - all you need to know",
-    "description": "India will begin their three-match T20I series against Afghanistan in New Delhi on Sunday, with the team facing a selection call between young sensation Vaibhav Sooryavanshi and experienced wicketkeeper-batter Sanju Samson. India have dominated Afghanistan in…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/india-vs-afghanistan-1st-t20i-when-and-where-to-watch-live-streaming-weather-predicted-xis-all-you-need-to-know/articleshow/134149196.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134149409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T18:02:17Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-    "description": "Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday's final in Dubai.",
-    "url": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292705793-1789215499.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-12T17:18:28Z",
-    "author": "Manasi Pathak"
-  },
-  {
-    "source": "New York Post",
-    "title": "Raiders sign backup Michael Mayer to $45 million extension as injuries pile up for Brock Bowers",
-    "description": "The Raiders signed a tight end to a lucrative contract extension Saturday, but it was not injured Pro Bowler Brock Bowers.",
-    "url": "https://nypost.com/2026/09/12/sports/raiders-sign-backup-michael-mayer-to-45-million-extension/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-    "image": "https://s.yimg.com/lo/mysterio/api/6c84e23c4db2e85fe1ec392f95cd172b38c1dc4214c802145da7d5634c24ebf5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F928baa02cd14ed6542152f579e80158f.jpg",
-    "publishedAt": "2026-09-12T17:02:47Z",
-    "author": "Peter Botte"
-  },
-  {
-    "source": "New York Post",
-    "title": "Raiders sign backup Michael Mayer to $45 million extension as injuries pile up for Brock Bowers",
-    "description": "The Raiders signed a tight end to a lucrative contract extension Saturday, but it was not injured Pro Bowler Brock Bowers.",
-    "url": "https://nypost.com/2026/09/12/sports/raiders-sign-backup-michael-mayer-to-45-million-extension/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-ub469k38d-1789231774494.jpg?quality=75&strip=all&1789217420&w=1200",
-    "publishedAt": "2026-09-12T17:02:47Z",
-    "author": "Peter Botte"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India-Afghanistan T20: Delhi Traffic Police issues advisory, lists routes to avoid and parking curbs",
-    "description": "Delhi Traffic Police issues advisory for India vs Afghanistan T20 at Arun Jaitley Stadium, with diversions, parking curbs and routes to avoid from 2pm-11.45pm.",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/india-afghanistan-t20-delhi-traffic-police-issues-advisory-lists-routes-to-avoid-and-parking-curbs/articleshow/134145851.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-12T17:00:47Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jasprit Bumrah, Vaibhav Sooryavanshi on Afghanistan's radar: Ibrahim Zadran reveals plans",
-    "description": "Jasprit Bumrah is set to return to international cricket after missing matches due to a left knee injury. His return gives India another major option with the ball, but Zadran said Afghanistan will not make things complicated while facing the star pacer.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-vaibhav-sooryavanshi-on-afghanistans-radar-ibrahim-zadran-reveals-plans/articleshow/134143658.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134143957,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T16:27:20Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Amazing player management approach': Shreyas Iyer heaps praise on Gautam Gambhir ahead IND vs AFG T20I series",
-    "description": "With India getting ready for their T20 series against Afghanistan, skipper Shreyas Iyer was quick to heap some praise on head coach Gautam Gambhir.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shreyas-iyer-praise-gautam-gambhir-ind-vs-afg-t20i-series/0859e6e976a493558458877d",
-    "image": "https://s.yimg.com/lo/mysterio/api/7cfc4b01346c54fcd28ec2be22d1e10aaa24a31500cc136d7ef5b4f99e8063bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F292598c7a5e1542169c25391685fe80b",
-    "publishedAt": "2026-09-12T16:08:25Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "England chasing the rainbow with more questions than answers",
-    "description": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cj64nxkx22jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/1050639093247fe30b73f1b155ab4c01587912d63399e46049b67a64bf6e13ab/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F57a24b5e1c98e6690a4d67949e4c96da.jpg",
-    "publishedAt": "2026-09-12T16:04:15Z",
-    "author": "Stephan Shemilt - Cricket Correspondent at Edgbaston"
-  },
-  {
-    "source": "BBC News",
-    "title": "England chasing the rainbow with more questions than answers",
-    "description": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj64nxkx22jo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c72d/live/4e778bc0-aebf-11f1-89e2-171455bb2760.jpg",
-    "publishedAt": "2026-09-12T15:59:44Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I definitely know how his mind works': Shreyas Iyer on Gautam Gambhir",
-    "description": "Shreyas Iyer and Gautam Gambhir have worked together at Kolkata Knight Riders (KKR), where they helped the franchise win the IPL title in 2024. Iyer was the captain, while Gambhir was the mentor. Iyer believes Gambhir's aggressive approach and his ability to …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/i-definitely-know-how-his-mind-works-shreyas-iyer-on-gautam-gambhir/articleshow/134141874.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134142064,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T15:50:15Z",
-    "author": "Amit Kumar"
   }
 ]
 ;
