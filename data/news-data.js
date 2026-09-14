@@ -151,15 +151,6 @@ window.cricketNews = [
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/IMG_1420.jpeg",
     "publishedAt": "2026-09-12T10:45:40Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "1980s AI photo trend: Jasprit Bumrah, Vaibhav Sooryavanshi, Shreyas Iyer get hilarious makeovers - WATCH",
-    "description": "The portraits, featured in a video shared by the BCCI, showed the players in classic 1980s looks, complete with bell-bottom jeans, big sunglasses and retro hairstyles. Two days before the series, the Indian players gathered at their hotel for a photo session.…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/1980s-ai-photo-trend-jasprit-bumrah-vaibhav-sooryavanshi-shreyas-iyer-get-hilarious-makeovers-watch/articleshow/134121954.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134122551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-12T09:46:58Z",
-    "author": "Amit Kumar"
   }
 ]
 ;
