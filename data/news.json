@@ -1,5 +1,32 @@
 [
   {
+    "source": "New Zealand Herald",
+    "title": "India cricket tour: Ian Smith returns to Sky commentary box",
+    "description": "Sky’s summer cricket coverage starts with an India T20 in Christchurch.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/india-cricket-tour-ian-smith-returns-to-sky-commentary-box/JVJX6JGSX5G2VOUAYXCOUIH72M/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/3JWXZCALG5GLXFPGU4OYP2E444.JPG?auth=5ca102490c7f8c37eb450814897c865b7856ee112bf7b59ee7e5ead1502e0c3d&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-09-14T22:02:52Z",
+    "author": "Mike Thorpe"
+  },
+  {
+    "source": "CNA",
+    "title": "A year after Singaporean cricket coach's murder in Malawi, his family is still fighting for answers",
+    "description": "Mr Arjun Menon was killed at his home in Malawi in May last year. His sister tells CNA that the family is still in the dark about what happened.",
+    "url": "https://www.channelnewsasia.com/singapore/arjun-menon-malawi-cricket-coach-murder-sister-6377971",
+    "image": "https://dam.mediacorp.sg/image/upload/s--cCffnlMa--/c_crop,h_898,w_1596,x_2,y_171/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/11/img_0925.jpg?itok=kKv136uy",
+    "publishedAt": "2026-09-14T22:00:00Z",
+    "author": null
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "India refuses to accept Asia Cup cricket trophy from Pakistani minister",
+    "description": "After winning the women's cricket crown in Dubai, the Indian team leaves the field without collecting the trophy because it was to be handed over by Pakistan Cricket Board chairman Moshin Naqvi.",
+    "url": "https://www.abc.net.au/news/2026-09-15/india-refuses-asia-cup-cricket-trophy-from-pakistani-minister/107153570",
+    "image": "https://live-production.wcms.abc-cdn.net.au/2cbf740179f30edcfe8bb802488f91ad?impolicy=wcms_watermark_news&cropH=1199&cropW=2131&xPos=76&yPos=140&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-14T21:30:59Z",
+    "author": null
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'How about Sachin Tendulkar, Rahul Dravid, Sourav Ganguly': Sunil Gavaskar urges BCCI to involve Indian cricket legends in CAC",
     "description": "Former Indian legend Sunil Gavaskar urges BCCI to involve former players like Sachin Tendulkar and Saurav Ganguly as part of the CAC.",
@@ -187,86 +214,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/3f1dc3c205b5c71b4878032292eb62ce4526526d1484c043a4d09773755471d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F38900736d92b98bbca42fca3b1261ed9.jpg",
     "publishedAt": "2026-09-14T12:36:07Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pakistan lose 11 WTC points, fined 50 per cent match fee for slow over-rate",
-    "description": "Pakistan were on Monday fined 50 per cent of the match fess of their third and final Test against England at Birmingham, along with a deduction of 11 World Test Championship points for maintaining slow over-rate.\nThe ICC said on their website that Pakistan, w…",
-    "url": "https://www.business-standard.com/cricket/news/pakistan-lose-11-wtc-points-fined-50-per-cent-match-fee-for-slow-over-rate-126091400274_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/14/thumb/featurecrop/1200X628/1789385972-0633.jpg",
-    "publishedAt": "2026-09-14T11:41:18Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Team India player was penalised after Women's Asia Cup final",
-    "description": "India pacer Kranti Gaud admitted the offence and accepted the sanction proposed by Supriya Rani Das of the Emirates ICC International Panel of Match Referees. As a result, there was no need for a formal hearing.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-team-india-player-was-penalised-after-womens-asia-cup-final/articleshow/134240204.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134240282,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-14T11:35:43Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND W vs SL W: Kranti Gaud fined 10% match fee for gesture after dismissal in Asia Cup 2026 final",
-    "description": "India pacer Kranti Gaud received a fine for breaching the ICC Code of Conduct. She was penalized for her actions after dismissing a Sri Lankan batter. Gaud admitted the offense and accepted the proposed sanction from the match referee. Separately, Pakistan's …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-w-vs-sl-w-kranti-gaud-fined-10-match-fee-for-gesture-after-dismissal-in-asia-cup-2026-final/articleshow/134239769.cms",
-    "image": "https://img.etimg.com/thumb/msid-134239950,width-1200,height-630,imgsize-84072,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-14T11:16:47Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "Kent bowler Mahmud recalled by Bangladesh",
-    "description": "Promotion-chasing Kent lose bowler Hasan Mahmud for the final two games of the County Championship season after he is recalled by Bangladesh.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cxp84zev425mo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-14T11:00:02Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Kent bowler Mahmud recalled by Bangladesh",
-    "description": "Promotion-chasing Kent lose bowler Hasan Mahmud for the final two games of the County Championship season after he is recalled by Bangladesh.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cxp84zev425mo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ca1/live/5e31abd0-b028-11f1-a8a9-13be82d23441.jpg",
-    "publishedAt": "2026-09-14T10:59:57Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We should not play Pakistan': World Cup winner reacts after India refuse Asia Cup trophy from Mohsin Naqvi",
-    "description": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs to win a record-extending eighth Women's Asia Cup title. However, the Indian players did not come out for the post-match presentation ceremony. Indian women's cricket team did not accept the Asia Cup tr…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-should-not-play-pakistan-world-cup-winner-reacts-after-india-refuse-asia-cup-trophy-from-mohsin-naqvi/articleshow/134239238.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134239524,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-14T10:55:11Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "BBC News",
-    "title": "Seamer Charlesworth to retire because of injury",
-    "description": "Gloucestershire seamer Luke Charlesworth is to retire from cricket aged 23 because of a back injury.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c68xkd1lz825o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-14T10:33:36Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Gloucestershire seamer Charlesworth to retire because of injury",
-    "description": "Gloucestershire seamer Luke Charlesworth is to retire from cricket aged 23 because of a back injury.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c68xkd1lz825o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c631/live/8815bac0-b025-11f1-95e6-93ee8a80cb38.jpg",
-    "publishedAt": "2026-09-14T10:33:31Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Elizabeth Hurley's son shares unseen photos of his mum's ex Shane Warne on what would have been the late cricketer's 57th birthday",
-    "description": "Damian Hurley has shared a moving tribute to the man who almost became his stepdad.",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16128715/SEO-Optimal-URL-Keywords-damian-hurley-elizabeth-hurley-shane-warne-birthday-tribute.html",
-    "image": "https://i.dailymail.com/1s/2026/09/14/11/111233393-0-image-m-37_1789380153040.jpg",
-    "publishedAt": "2026-09-14T10:05:31Z",
-    "author": "Marta Jary"
   }
 ]
