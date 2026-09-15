@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'We meet everyone': Mohsin Naqvi meets BCCI's Rajeev Shukla, Devajit Saikia after Asia Cup final as Indian team skip trophy ceremony",
+    "description": "Cricket News: The Asia Cup trophy drama continued for the second year in a row after Indian women's cricket team did not receive the trophy from Asian Cricket Counc.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/we-meet-everyone-mohsin-naqvi-meets-bccis-rajeev-shukla-devajit-saikia-after-asia-cup-final-as-indian-team-skip-trophy-ceremony/articleshow/134232027.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134232283,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-14T04:13:42Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mohsin Naqvi snubbed again by India: BCCI expalins why women's cricket team refused to take Asia cup trophy from Pakistan cricket cheif after defeating Sri Lanka in final",
+    "description": "BCCI secretary Devajit Saikia said India’s women’s team did not accept the Women’s Asia Cup trophy from ACC president Mohsin Naqvi in solidarity with the men’s team’s decision from last year. Head coach Amol Muzumdar backed the BCCI’s stand, while Saikia said…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/mohsin-naqvi-snubbed-again-by-india-bcci-expalins-why-womens-cricket-team-refused-to-take-asia-cup-trophy-from-pakistan-cricket-cheif-after-defeating-sri-lanka-in-final/articleshow/134231875.cms",
+    "image": "https://img.etimg.com/thumb/msid-134231945,width-1200,height-630,imgsize-295970,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-14T03:55:23Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India's unstoppable run to Women's T20 Asia Cup crown",
+    "description": "India produced a dominant all-round display to win its eighth Women’s T20 Asia Cup title, crushing Sri Lanka by 72 runs in Dubai. Smriti Mandhana and Shafali Verma powered a 129-run opening stand, while Sree Charani and Deepti Sharma dismantled Sri Lanka’s ch…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-women-cricket-team-indias-unstoppable-run-to-womens-t20-asia-cup-crown/articleshow/134231740.cms",
+    "image": "https://img.etimg.com/thumb/msid-134231864,width-1200,height-630,imgsize-79162,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-14T03:44:56Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "PM Modi Praises Women's Cricket Team After Asia Cup Win",
+    "description": "Prime Minister Narendra Modi congratulated the Indian women's cricket team for their Asia Cup victory against Sri Lanka, highlighting their confidence and spirit, and expressing hope that their triumph will inspire young people across the country.",
+    "url": "https://www.rediff.com/sports/report/pm-modi-congratulates-indian-womens-team-on-asia-cup-victory/20260914.htm",
+    "image": "https://im.rediff.com/1200-630/cricket/2022/sep/10lanka1.jpg",
+    "publishedAt": "2026-09-14T03:16:42Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Proud moment for Indian cricket’: PM Modi, President Murmu hail India after historic Women’s Asia Cup triumph",
+    "description": "With a stellar unbeaten run, India's women's cricket team clinched their eighth Asia Cup title. Celebrations ensued as Prime Minister Modi and President Murmu praised the team's remarkable victory. In the final, Smriti Mandhana and Shafali Verma spearheaded t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/proud-moment-for-indian-cricket-pm-modi-president-murmu-hail-india-after-historic-womens-asia-cup-triumph/articleshow/134231511.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134231572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-14T03:12:11Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Women's Asia Cup: India refuse trophy from Pakistan's Mohsin Naqvi after winning record eighth title",
+    "description": "India's women's cricket team won a record-extending eighth Asia Cup title after beating Sri Lanka by 72 runs, but did not accept the trophy from ACC chairman Mohsin Naqvi of Pakistan. The impasse mirrors last year's men's Asia Cup ceremony, when India also de…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/womens-asia-cup-india-refuse-trophy-from-pakistans-mohsin-naqvi-after-winning-record-eighth-title/articleshow/134230823.cms",
+    "image": "https://img.etimg.com/thumb/msid-134230900,width-1200,height-630,imgsize-110362,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-14T02:20:05Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Trophy chor’ comes back again: Fans chant at Mohsin Naqvi after India's triumph",
+    "description": "India's women's cricket team made headlines by refusing the Asia Cup trophy from Mohsin Naqvi, echoing a similar stand by the men's team in 2025. Citing the turbulent military and political climate with Pakistan, the players expressed their alignment with the…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/trophy-chor-comes-back-again-fans-chant-at-mohsin-naqvi-after-india-womens-asia-cup-triumph/articleshow/134230443.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134230525,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-14T01:48:03Z",
+    "author": "Vineet Ramakrishnan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘We are the champions’: Amol Muzumdar backs BCCI stand as India skip Women’s Asia Cup trophy presentation with Mohsin Naqvi",
+    "description": "In a striking stand, India's women's cricket team refused to accept the Asia Cup trophy, aligning with the BCCI's stance as articulated by head coach Amol Muzumdar. Following their spectacular eighth Asia Cup victory against Sri Lanka, the players prioritised…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-stand-by-it-amol-muzumdar-backs-bcci-stand-as-india-skip-womens-asia-cup-trophy-presentation-with-mohsin-naqvi/articleshow/134230274.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134230309,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-14T01:31:59Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘We can’t receive the trophy from him’: Why India snubbed Mohsin Naqvi again, Devajit Saikia explains",
+    "description": "India's women's cricket team made headlines by declining to participate in the Women's Asia Cup trophy presentation, standing in unity with the men's team from last year. The BCCI secretary linked this move to current military tensions with a neighboring nati…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/we-cant-receive-the-trophy-from-him-why-india-snubbed-mohsin-naqvi-again-devajit-saikia-explains/articleshow/134229998.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134230033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-14T00:59:40Z",
+    "author": "Vineet Ramakrishnan"
+  },
+  {
+    "source": "Prtimes.jp",
+    "title": "AtoJ、「ICC KYOTO 2026」ガーディアン・アワードにて総合2位、部門賞「差別化・オリジナリティ」で1位を受賞",
+    "description": "[株式会社AtoJ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/126490/29/126490-29-9e6cd9aab8801362783c0b25dd29048c-2048x1368.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000126490.html",
+    "image": "https://prcdn.freetls.fastly.net/release_image/126490/29/126490-29-5979b239506c754d66d49190571c6082-400x267.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "publishedAt": "2026-09-14T00:14:55Z",
+    "author": null
+  },
+  {
     "source": "Dailymail.com",
     "title": "Jemima Goldsmith marries multi-millionaire financier Cameron O'Reilly as her cricket legend ex-husband remains seriously ill in Pakistani prison",
     "description": "The Daily Mail can disclose that Jemima, 52, an award-winning film producer and close friend of the late Princess Diana, exchanged vows at the weekend with Cameron O'Reilly, 62.",
@@ -87,60 +177,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/big-record-abhishek-sharma-achieves-what-112-batters-couldnt-against-rashid-khan/articleshow/134214434.cms",
     "image": "https://static.toiimg.com/thumb/msid-134215076,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-13T17:24:22Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shafali Verma goes berserk in final against Sri Lanka, smashes fastest fifty in Women’s T20 Asia Cup",
-    "description": "Shafali Verma made headlines by scoring the quickest fifty ever recorded in the tournament, achieving her milestone in a mere twenty-four balls against Sri Lanka. Her explosive performance of 68 runs off only 39 balls not only set a new record but also matche…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-verma-goes-berserk-in-final-against-sri-lanka-smashes-fastest-fifty-in-womens-t20-asia-cup/articleshow/134210121.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134210332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-13T15:53:14Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘So excessive’: Fans react as India plays both Vande Mataram and national anthem in 1st T20I vs Afghanistan in Delhi",
-    "description": "BCCI gets embroiled in a new controversy with both the national anthem and the national song being played at the same time in the first T20I vs Afghanistan in Delhi.",
-    "url": "https://www.cricketnews.com/en/cricket/news/fans-react-india-plays-vande-mataram-national-anthem-1st-t20i-vs-afg-delhi/d6bd65c6aa5c14f83884e46e",
-    "image": "https://s.yimg.com/lo/mysterio/api/a064f2600e1c0336c98bc54054a9a091043943f2defcdd4eea8075f81f0e8532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe6aab28279690e394706814387968d06",
-    "publishedAt": "2026-09-13T15:16:44Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "National song 'Vande Mataram' played before India vs Afghanistan in a first for national team",
-    "description": "The national song Vande Mataram was sung before the India vs Afghanistan cricket match on Sunday. Parliament had recently passed a bill making insults to the national song a punishable offense. The full six-stanza version of Vande Mataram was sung during the …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/national-song-vande-mataram-played-before-india-vs-afghanistan-in-a-first-for-national-team/articleshow/134208336.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134208514,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-13T15:09:43Z",
-    "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Not IPL commentary': Congress takes shot at Ravi Shastri for post praising PM Modi",
-    "description": "India News: NEW DELHI: Congress on Sunday hit out at Indian cricket commentator Ravi Shastri after he praised Prime Minister Narendra Modi’s interaction with Russ.",
-    "url": "https://timesofindia.indiatimes.com/india/not-ipl-commentary-congress-takes-shot-at-ravi-shastri-for-post-praising-pm-modi/articleshow/134206697.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134207809,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-13T14:58:33Z",
-    "author": "Priyanka Jaiswal"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Chaminda Vaas, the new fast bowling coach of the Delhi Capitals",
-    "description": "Former Sri Lankan super fast bowler Chaminda Vaas is set to be appointed as the fast bowling coach of the Delhi Capitals team ahead of the upcoming Indian Premier League (IPL) tournament. Although the Delhi Capitals management has not yet officially announced…",
-    "url": "https://english.gossiplankanews.com/2026/09/chaminda-vaas-new-fast-bowling-coach-of.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vQ5UDCYyhayO6Y9Ec1Yb7YS_a1Ma75wUIcDm2RHsEePQrSffqmm9gDEqNhWYqFvqboMctGYM8fDSQ2idVceqI-zBwNX67kA4Y90z-X7nMdVqhsfVigInbD0ipo0bf5veKCeVnSx4fMYITD3qyhSGN-iXqV6rFUGr8euYs=w1600",
-    "publishedAt": "2026-09-13T14:54:59Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Vande Mataram was sung before National Anthem in IND vs AFG T20I",
-    "description": "The National Song, Vande Mataram, was sung for the first time at an international cricket match before India's opening T20I against Afghanistan at the Arun Jaitley Stadium in New Delhi on Sunday. The three-match T20I series began with an unusual moment as the…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-vande-mataram-was-sung-before-national-anthem-in-india-vs-afghanistan-t20i-in-delhi/articleshow/134206904.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134207074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-13T14:40:50Z",
     "author": "Amit Kumar"
   }
 ]
