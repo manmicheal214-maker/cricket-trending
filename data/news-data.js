@@ -1,5 +1,194 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "21-year wait over: Matt Renshaw hits Australia's first ODI century against Zimbabwe since 2004",
+    "description": "Matt Renshaw came to the crease when Australia were in trouble at 83/3 in 13 overs after opting to bat first. The left-hander took his time and kept the scoreboard moving before stepping up the attack. He brought up his fifty off 55 balls.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-year-wait-over-matt-renshaw-hits-australias-first-odi-century-against-zimbabwe-since-2004/articleshow/134263161.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134263388,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T12:43:40Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "India vs Afghanistan live: T20 cricket match",
+    "description": "Follow our live build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260913__C87D2ZM__v1__HighRes__CricketIndAfgT20-1789453456.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-15T12:33:40Z",
+    "author": "Kevin Hand"
+  },
+  {
+    "source": "Sputnikglobe.com",
+    "title": "Russia's Lavrov Calls ICC ‘Quasi-Judicial Body’",
+    "description": "MOSCOW (Sputnik) - The International Criminal Court (ICC) is a quasi-judicial body that has little in common with justice, Russian Foreign Minister Sergey Lavrov said on Tuesday.",
+    "url": "https://sputnikglobe.com/20260915/russias-lavrov-calls-icc-quasi-judicial-body-1124741538.html",
+    "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124741538.jpg?11241269031789474440",
+    "publishedAt": "2026-09-15T12:13:59Z",
+    "author": "Sputnik International"
+  },
+  {
+    "source": "True Blue LA",
+    "title": "Dodger notes: Edwin Diaz and the state of the pitching staff",
+    "description": "The Los Angeles Dodgers made Edwin Diaz the highest paid closer over the offseason. Now, he might not even make the postseason roster. Diaz had a rehab outing Sunday in which he faced eight batters, retiring only two while walking three and hitting a batter. …",
+    "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/124463/edwin-diaz-kris-bubic-pitching-staff",
+    "image": "https://s.yimg.com/lo/mysterio/api/308db91f6dddc97a18f4fdf90417c3355041b6ffce4b8326667a9211ed647012/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff0d9338e0ec5be279b60edc6629d0d8d.jpg",
+    "publishedAt": "2026-09-15T12:03:00Z",
+    "author": "Andy Lane Chapman"
+  },
+  {
+    "source": "Dineshkhabar.com",
+    "title": "David Warner to Join Kathmandu Gorkhas for Nepal Premier League",
+    "description": "Kathmandu: Renowned Australian cricketer David Warner is set to visit Nepal to play in the Nepal Premier League (NPL).\r\n\nThe NPL team Kathmandu Gorkhas announced via social media that they have signed Warner for the third edition of the tournament.\r\n\nAt 39, D…",
+    "url": "https://dineshkhabar.com/article/141357",
+    "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/devid-warner_9TVShcIdnZ_0.jpg?itok=X44EYVEd",
+    "publishedAt": "2026-09-15T12:02:33Z",
+    "author": "editor"
+  },
+  {
+    "source": "TechRadar",
+    "title": "How to watch England vs Sri Lanka 2026 T20 series: cricket live streams, schedule, tickets and preview",
+    "description": "All the ways to watch the England vs Sri Lanka 2026 T20 series from anywhere, as Harry Brook's side take on the tourists.",
+    "url": "https://www.techradar.com/how-to-watch/cricket/england-vs-sri-lanka-2026-t20-series",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZYznxsS4frRG8UwGatZXhA-2560-80.jpg",
+    "publishedAt": "2026-09-15T12:00:00Z",
+    "author": "James Roberts"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mitch Marsh's Zimbabwe connection: Father Geoff Marsh's coaching stint, childhood memories and a dream of playing for Zimbabwe",
+    "description": "Cricket was also a big part of Marsh's life in Harare. He spent hours at Harare Sports Club playing cricket with Tom, Ben and Sam Curran, the sons of his father's coaching assistant Kevin Curran. All three later played international cricket. Tom and Sam repre…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitch-marshs-zimbabwe-connection-father-geoff-marshs-coaching-stint-childhood-memories-and-a-dream-of-playing-for-zimbabwe/articleshow/134260811.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134260961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T11:41:20Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "RT",
+    "title": "Western leaders ‘don’t end up’ in ICC – ex-MEP (VIDEO)",
+    "description": "The ICC is far more likely to target weaker states than leaders of major nations, former MEP Gunnar Beck has told RT Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/645751-western-leaders-icc-beck/",
+    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aa91d892030272b8320bf67.jpg",
+    "publishedAt": "2026-09-15T10:40:07Z",
+    "author": "RT"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'I don't have to prove anything': Bhuvneshwar Kumar opens up on possible India comeback ahead of 2027 ODI World Cup",
+    "description": "Bhuvneshwar Kumar addressed a possible India comeback for the 2027 ODI World Cup, leaving the final call to national selectors.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bhuvneshwar-kumar-possible-india-comeback-2027-odi-world-cup/4cdb733e14e09489ce5f787f",
+    "image": "https://s.yimg.com/lo/mysterio/api/f814c9abf42657019887f8489a565a3d4ff6c912f2b31fa0f55510d695b99bd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1663a201ef289ec2a9867e343a0a6a57",
+    "publishedAt": "2026-09-15T10:17:55Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "David Warner in Nepal Premier League: Ex-Australia star joins NPL side Kathmandu Gorkhas",
+    "description": "David Warner in Nepal Premier League: Ex-Australia opener joins Kathmandu Gorkhas as marquee overseas signing for NPL 2026 at TU Cricket Ground.",
+    "url": "https://www.cricketnews.com/en/cricket/news/david-warner-nepal-premier-league-joins-npl-kathmandu-gorkhas/5f28ffde47e6b04c86237660",
+    "image": "https://s.yimg.com/lo/mysterio/api/42920abb41363a3e691216d51a8f37c614282e98cbad23f59b05a4d8d25765c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fafbb9db8594fcfb653fab9e8c5fef326",
+    "publishedAt": "2026-09-15T10:16:56Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC Women's T20I Rankings: Shree Charani creates history, becomes first Indian to cross 800-point mark",
+    "description": "Shree Charani played a key role in India’s Asia Cup final win over Sri Lanka, taking four wickets for 20 runs at the Dubai International Stadium. The left-arm spinner has crossed the 800-point mark for the first time and reached a career-best 804 rating point…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-shree-charani-creates-history-becomes-first-indian-to-cross-800-point-mark/articleshow/134257559.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134257662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T09:31:58Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sree Charani breaks 800-points barrier as India stars rise in ICC T20I Rankings",
+    "description": "Indian players have significantly improved their ICC Women's T20I rankings after their Asia Cup win.  Deepti Sharma and Shafali Verma achieved notable gains in the latest player rankings.  Renuka Singh became the top-ranked T20I bowler, surpassing 800 rating …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sree-charani-makes-history-first-indian-bowler-to-surpass-800-points-in-icc-t20i-rankings-after-asia-cup-triumph/articleshow/134256884.cms",
+    "image": "https://img.etimg.com/thumb/msid-134256883,width-1200,height-630,imgsize-101602,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-15T09:22:10Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rishabh Pant, Hardik Pandya in focus as selectors pick India’s ODI, T20I squads for West Indies",
+    "description": "National selectors will discuss Rishabh Pant's white ball return and Hardik Pandya's potential inclusion. The squads for the upcoming ODI and T20I series against West Indies are being finalized. Pandya's readiness to bowl and field extensively will be a key c…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rishabh-pant-hardik-pandya-in-focus-as-selectors-pick-indias-odi-t20i-squads-for-west-indies/articleshow/134257411.cms",
+    "image": "https://img.etimg.com/thumb/msid-134257433,width-1200,height-630,imgsize-159132,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-15T09:17:57Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "What impact will Kevin Pietersen have as an England coach? | The Telegraph Cricket podcast",
+    "description": "Nick Hoult and Will MacPherson discuss Kevin Pietersen's return to England as a coach and ask what impact the legendary ...",
+    "url": "https://biztoc.com/x/4d4bae2db8112afd",
+    "image": "https://biztoc.com/cdn/4d4bae2db8112afd_s.webp",
+    "publishedAt": "2026-09-15T09:05:17Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sachin Tendulkar's ODI record broken: Zimbabwe's Brendan Taylor makes history vs Australia",
+    "description": "Taylor's ODI career now spans 22 years and four months, moving him ahead of Tendulkar, whose ODI career lasted 22 years and three months before he retired from the format in 2012.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkars-odi-record-broken-zimbabwes-brendan-taylor-makes-history-vs-australia/articleshow/134256899.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134256907,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T08:59:45Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Pakistan cricket turmoil continues: Mohsin Naqvi to oversee crucial sackings after England tour debacle",
+    "description": "Pakistan cricket turmoil continues: PCB chief Mohsin Naqvi is set to oversee crucial sackings in the national team setup following the 3-0 Test whitewash in England.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-cricket-turmoil-mohsin-naqvi-sackings-england-debacle/03f8fa3aa6488a52e5b547be",
+    "image": "https://s.yimg.com/lo/mysterio/api/3c71264c66d4c8e5134ae875b72c5483bb3d9ba49a7200f8b06a147c2af44839/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4b0b759388e29d6ff426b37acf6642ca",
+    "publishedAt": "2026-09-15T08:55:57Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "England vs. Sri Lanka prediction, lineups, pitch report for 1st T20 as Harry Brook’s side chase more dominance",
+    "description": "England vs. Sri Lanka 1st T20I prediction, lineups and pitch report for the Utilita Bowl opener, as Harry Brook's side chase more dominance in Southampton",
+    "url": "https://www.cricketnews.com/en/cricket/play/england-vs-sri-lanka-prediction-lineups-pitch-report-1st-t20-harry-brook/92e19f2baa49bed5d45b9abd",
+    "image": "https://s.yimg.com/lo/mysterio/api/f489240f2438f3299623b5b1a5bc50cfbe0953925c337bc170d2e886f9c15271/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5c65d227f785026c833925225f6910af",
+    "publishedAt": "2026-09-15T08:40:41Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Delhi traffic advisory: Curbs, diversions from 2 pm for Ind vs Afg T20",
+    "description": "Delhi Traffic Advisory Today: Traffic restrictions and parking regulations will be in place around Arun Jaitley Stadium as India face Afghanistan in the second T20I on Tuesday",
+    "url": "https://www.business-standard.com/india-news/delhi-traffic-advisory-curbs-diversions-from-2-pm-for-ind-vs-afg-t20-126091500534_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/23/thumb/fitandfill/1200X628/1769163915-3987.jpg",
+    "publishedAt": "2026-09-15T08:38:47Z",
+    "author": "Apexa Rai"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Not playing to prove anything, but I'd be happy to play for India again: Bhuvneshwar Kumar",
+    "description": "Bhuvneshwar Kumar's IPL success makes him a national team contender. He expressed a desire to play for India again. Kumar last represented India in T20 internationals in 2022. He claimed 17 wickets for Royal Challengers Bengaluru in IPL 2025. Kumar also took …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/not-playing-to-prove-anything-but-id-be-happy-to-play-for-india-again-bhuvneshwar-kumar/articleshow/134256088.cms",
+    "image": "https://img.etimg.com/thumb/msid-134256087,width-1200,height-630,imgsize-90496,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-15T08:07:47Z",
+    "author": "ANI"
+  },
+  {
+    "source": "CNA",
+    "title": "Zimbabwe's Taylor takes over from Tendulkar as longest-serving ODI player",
+    "description": "Sept 15 : Brendan Taylor replaced India great Sachin Tendulkar as the longest-serving one-day international player on Tuesday after the Zimbabwe veteran took the field for the series opener against Australia in Harare.Taylor's ODI career now spans 22 years an…",
+    "url": "https://www.channelnewsasia.com/sport/zimbabwes-taylor-takes-over-tendulkar-longest-serving-odi-player-6385561",
+    "image": "https://dam.mediacorp.sg/image/upload/s--KDP6e00n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T080446Z_1_LYNXMPEM8E0MG_RTROPTP_3_CRICKET-WORLD-IND-ZIM.JPG?itok=ytawiaAU",
+    "publishedAt": "2026-09-15T08:04:46Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'This was my last World Cup': Bhuvneshwar Kumar reveals why India return hopes faded",
+    "description": "Bhuvneshwar Kumar's impressive IPL seasons have reignited discussions about his potential return to the Indian team. He admitted feeling deserving of another opportunity while stressing it is not his sole motivation. The veteran pacer has accepted his current…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-was-my-last-world-cup-bhuvneshwar-kumar-reveals-why-india-return-hopes-faded/articleshow/134255830.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134255862,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T08:00:41Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "Business Standard",
     "title": "Asian Games 2026: From cricket bat to shotgun, Mairaj's sporting journey",
     "description": "There was a time when Mairaj Ahmad Khan dreamed of making it big with a cricket bat. More than three decades later, the 50-year-old is still chasing sporting glory -- only now with a shotgun firmly in his grip.\nFrom Khurja in Uttar Pradesh's Bulandshahr distr…",
@@ -79,186 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134252262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-15T05:03:58Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "Burncitysports.com",
-    "title": "Diamondbacks get their big lefty bat, but will it be enough to help their postseason chase?",
-    "description": "PHOENIX — The Arizona Diamondbacks were able to find the impact left-handed batter they were seeking ahead of the trade deadline, but will it be enough to help them get to the playoffs? Jun 9, 2026; Toronto, Ontario, CAN; Toronto Blue Jays left fielder Jesus …",
-    "url": "https://burncitysports.com/2026/09/14/diamondbacks-get-jesus-sanchez-for-p/",
-    "image": "https://s.yimg.com/lo/mysterio/api/9bc2f5c7c6d11b4eda37e51c0cac4849f086a50a72337da394056a2f4491ad13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fburn_city_sports_articles_545%2F23fc9b01cdb6621e8c53da75f01c330d.jpg",
-    "publishedAt": "2026-09-15T04:51:20Z",
-    "author": "Wendy Lopez"
-  },
-  {
-    "source": "The Times of India",
-    "title": "From cricket to skeet: Mairaj Ahmad Khan, 50, begins fourth Asian Games chase for glory",
-    "description": "Mairaj Ahmad Khan, a 50-year-old shooter, is competing in his fourth Asian Games. He transitioned from cricket, where he played with Virender Sehwag, to shooting in 1999. This decision led him to two Olympics and World Cup medals. He missed recent Asian Games…",
-    "url": "https://economictimes.indiatimes.com/news/sports/other-sports/from-cricket-to-skeet-mairaj-ahmad-khan-50-begins-fourth-asian-games-chase-for-glory/articleshow/134252170.cms",
-    "image": "https://img.etimg.com/thumb/msid-134252204,width-1200,height-630,imgsize-92858,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-15T04:46:50Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Aqib Javed, Wahab Riaz could be shown the door in major PCB shake-up",
-    "description": "The Pakistan Cricket Board is set for a major shake-up, with chairman Mohsin Naqvi expected to take some tough calls in the coming days, including changes to the national selection committee and the release of former Test cricketer Aqib Javed from his duties …",
-    "url": "https://www.business-standard.com/cricket/news/aqib-javed-wahab-riaz-could-be-shown-the-door-in-major-pcb-shake-up-126091400860_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/17/thumb/fitandfill/1200X628/1584449987-6861.jpg",
-    "publishedAt": "2026-09-15T04:43:40Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "ECB security officials reach Pakistan to review preparations for tri-series",
-    "description": "A security delegation of the England and Wales Cricket Board (ECB) has arrived in Pakistan to review arrangements ahead of England's upcoming tour for an ODI tri-nation series.\nEngland and Pakistan will play a tri-series which also involves Sri Lanka from Oct…",
-    "url": "https://www.business-standard.com/cricket/news/ecb-security-officials-reach-pakistan-to-review-preparations-for-tri-series-126091400882_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/13/thumb/featurecrop/1200X628/1770977478-5572.jpg",
-    "publishedAt": "2026-09-15T04:39:17Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "It was our collective decision: Rajeev Shukla on Asia Cup trophy row",
-    "description": "BCCI vice-president Rajeev Shukla on Monday said Indian women team's refusal to accept the Asia Cup trophy from Mohsin Naqvi was Board's \"collective decision\" and the Asian Cricket Council chairman also \"did not raise any objection\" to it.\nIndia defeated Sri …",
-    "url": "https://www.business-standard.com/cricket/news/it-was-our-collective-decision-rajeev-shukla-on-asia-cup-trophy-row-126091401007_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/02/thumb/fitandfill/1200X628/1770027254-0347.jpg",
-    "publishedAt": "2026-09-15T04:29:06Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Varun ruled out of T20Is vs Afghanistan, Asian Games trip too in jeopardy",
-    "description": "India spinner Varun Chakaravarthy was on Monday ruled out of the ongoing T20 series against Afghanistan due to a side strain, making him doubtful for the upcoming Asian Games.\nChakaravarthy had recently recovered from a hamstring injury that he suffered on th…",
-    "url": "https://www.business-standard.com/cricket/news/varun-ruled-out-of-t20is-vs-afghanistan-asian-games-trip-too-in-jeopardy-126091400756_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/15/thumb/resize/1200X628/1789446039-4714.jpg",
-    "publishedAt": "2026-09-15T04:21:23Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "CNA",
-    "title": "England boss McCullum calls on Pietersen to shake things up",
-    "description": "Sept 15 : England's white-ball head coach Brendon McCullum said he wants newly-appointed mentor Kevin Pietersen to shake things up and has encouraged the former Ashes and Twenty20 World Cup-winning batter to speak up if he has ideas on how to improve the side…",
-    "url": "https://www.channelnewsasia.com/sport/england-boss-mccullum-calls-pietersen-shake-things-up-6385136",
-    "image": "https://dam.mediacorp.sg/image/upload/s--FwBOhDYt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T041726Z_1_LYNXMPEM8E0AQ_RTROPTP_3_CRICKET-IPL-DC-KKR.JPG?itok=Q61N7yCB",
-    "publishedAt": "2026-09-15T04:17:26Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs AFG: Nitish Reddy in focus as India look to fill in allrounders' slot",
-    "description": "Cricket News: NEW DELHI: There's growing concern in Indian cricket over the paucity of seam-bowling allrounders. The team management and the selectors are forever i.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/nitish-reddy-in-focus-as-india-look-to-fill-in-allrounders-slot/articleshow/134251368.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134251398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T04:01:51Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Will get both our trophies back,' asserts BCCI after not accepting silverware from ACC chief Mohsin Naqvi",
-    "description": "Like in case of the men's team, the women's team too returned home empty - despite triumphing in the Asia Cup women's championship in style, winning all their five matches, including recording a thumping 72-run win over Sri Lanka in a one-sided final on Sunda…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/will-get-both-our-trophies-back-asserts-bcci-after-not-accepting-silverware-from-acc-chief-mohsin-naqvi/articleshow/134251219.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134251218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T03:52:09Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I pity Sanju Samson’: Ex-India cricketer slams Gautam Gambhir and management over Vaibhav Sooryavanshi handling",
-    "description": "Kris Srikkanth questioned why Vaibhav Sooryavanshi was left out of India's T20 opening match. He emphasized Sooryavanshi's remarkable performance against Zimbabwe, where he was named Player of the Series, and criticized the team management for not giving him …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-pity-sanju-samson-ex-india-cricketer-slams-gautam-gambhir-and-management-over-vaibhav-sooryavanshi-handling/articleshow/134250892.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134250938,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T03:15:31Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘You don’t treat human beings that way’: Michael Holding slams Pakistan over Imran Khan’s treatment",
-    "description": "Michael Holding, the former cricketer, has voiced support for improved treatment of Imran Khan, advocating that the former captain deserves humane conditions. With rising worries over Khan's health and the adequacy of prison facilities, international cricket …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-dont-treat-human-beings-that-way-michael-holding-slams-pakistan-over-imran-khans-treatment/articleshow/134250588.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134250670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T02:55:59Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Eagles lose three-time Pro Bowler Landon Dickerson in major offensive line blow",
-    "description": "Philadelphia’s offensive line takes an early-season hit as three-time Pro Bowl guard Landon Dickerson heads to injured reserve with a knee injury and delivers a harsh assessment of his Week 1 performance.",
-    "url": "https://www.sportingnews.com/us/nfl/philadelphia-eagles/news/eagles-lose-three-time-pro-bowler-landon-dickerson/f4f462fc035233a8dfbbcff1",
-    "image": "https://s.yimg.com/lo/mysterio/api/ee432776fa706edac3a7a3c102bdae994ba1998674bab1d3736ab9b1e5560304/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5dfec2272e88c0b9d640ea010c35429c",
-    "publishedAt": "2026-09-15T01:53:10Z",
-    "author": "Horace Shivers"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sunil Gavaskar urges BCCI to make big change, names Sachin Tendulkar, Rahul Dravid for key role",
-    "description": "Sunil Gavaskar has put forth a suggestion to enhance the BCCI's Cricket Advisory Committee by expanding its scope. He proposes that legendary former cricketers be included to ensure diverse perspectives. This broader committee could effectively tackle challen…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sunil-gavaskar-urges-bcci-to-make-big-change-names-sachin-tendulkar-rahul-dravid-for-key-role/articleshow/134249829.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134249848,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T01:31:27Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Colts $54 Million Pro Bowler Reveals Decision to Wear Guardian Cap",
-    "description": "Indianapolis Colts wide receiver Charvarius Ward talks about his decision to wear the guardian cap in the 2026 season opener The post Colts $54 Million Pro Bowler Reveals Decision to Wear Guardian Cap appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-charvarius-ward-decision-guardian-cap/",
-    "image": "https://s.yimg.com/lo/mysterio/api/920e1634c312e938cb9dda0076988b53fe5e5178c901414b47abe16b96e61431/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8d0a9eb04b0d410dc5889003d40b5460.jpg",
-    "publishedAt": "2026-09-15T01:03:55Z",
-    "author": "Jason Garcia"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Are they living in the past?': Ex-India cricketer slams Mohsin Naqvi after Asia Cup trophy snub",
-    "description": "The celebration of India's Women's Asia Cup triumph was overshadowed when the team rejected the trophy presented by ACC president Mohsin Naqvi. This decision recalls a similar controversy during the men's Asia Cup final. Mohammad Kaif has voiced doubts regard…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/are-they-living-in-the-past-ex-india-cricketer-slams-mohsin-naqvi-after-asia-cup-trophy-snub/articleshow/134249649.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134249662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T00:57:36Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch India vs. Afghanistan free live stream, TV channel, start time for 2nd ODI match",
-    "description": "Here's everything you need to know about India vs. Afghanistan, including TV channel and streaming options for the T20 matchup.",
-    "url": "https://www.sportingnews.com/us/cricket/news/watch-india-vs-afghanistan-live-stream-tv-channel-time-odi-match/df74b16cd3bd6fdc0fffa9c0",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7cb4280e4f3fffc91496f52b90ce604f162465f824e74f4239901451a990c92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f3fabc347e65b7da25f1ee47f305154",
-    "publishedAt": "2026-09-15T00:00:01Z",
-    "author": "Dan Gibbs"
-  },
-  {
-    "source": "Bleeding Green Nation",
-    "title": "Landon Dickerson headed to IR, admits he ‘was a complete liability’ in Week 1",
-    "description": "The Eagles will be without their 3x Pro Bowler left guard for at least the next four weeks.",
-    "url": "https://www.bleedinggreennation.com/news/182874/landon-dickerson-headed-to-ir-admits-he-was-a-complete-liability-in-week-1",
-    "image": "https://s.yimg.com/lo/mysterio/api/ec3d5164859b4478ee083f0b94e6b8a0437fda88493252938ad98f3f5cde7530/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F621195a9ee2f61d55965adbe1dfa1ac0.jpg",
-    "publishedAt": "2026-09-14T23:18:55Z",
-    "author": "Alexis Chassen"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "India cricket tour: Ian Smith returns to Sky commentary box",
-    "description": "Sky’s summer cricket coverage starts with an India T20 in Christchurch.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/india-cricket-tour-ian-smith-returns-to-sky-commentary-box/JVJX6JGSX5G2VOUAYXCOUIH72M/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/3JWXZCALG5GLXFPGU4OYP2E444.JPG?auth=5ca102490c7f8c37eb450814897c865b7856ee112bf7b59ee7e5ead1502e0c3d&width=1200&height=675&quality=70&smart=true",
-    "publishedAt": "2026-09-14T22:02:52Z",
-    "author": "Mike Thorpe"
-  },
-  {
-    "source": "CNA",
-    "title": "A year after Singaporean cricket coach's murder in Malawi, his family is still fighting for answers",
-    "description": "Mr Arjun Menon was killed at his home in Malawi in May last year. His sister tells CNA that the family is still in the dark about what happened.",
-    "url": "https://www.channelnewsasia.com/singapore/arjun-menon-malawi-cricket-coach-murder-sister-6377971",
-    "image": "https://dam.mediacorp.sg/image/upload/s--cCffnlMa--/c_crop,h_898,w_1596,x_2,y_171/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/11/img_0925.jpg?itok=kKv136uy",
-    "publishedAt": "2026-09-14T22:00:00Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "India refuses to accept Asia Cup cricket trophy from Pakistani minister",
-    "description": "After winning the women's cricket crown in Dubai, the Indian team leaves the field without collecting the trophy because it was to be handed over by Pakistan Cricket Board chairman Moshin Naqvi.",
-    "url": "https://www.abc.net.au/news/2026-09-15/india-refuses-asia-cup-cricket-trophy-from-pakistani-minister/107153570",
-    "image": "https://live-production.wcms.abc-cdn.net.au/2cbf740179f30edcfe8bb802488f91ad?impolicy=wcms_watermark_news&cropH=1199&cropW=2131&xPos=76&yPos=140&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-14T21:30:59Z",
-    "author": null
   }
 ]
 ;
