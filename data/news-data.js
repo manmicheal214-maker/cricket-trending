@@ -1,5 +1,86 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Brook likened to Pietersen in SL win - how do they compare?",
+    "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmd94elvw7wvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/ad9f52953ec4b1663036487a654a90af8dc02a2ebaff733d38e16b9650931766/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F19d9117a0108afad0e42714554ac2a81.jpg",
+    "publishedAt": "2026-09-15T21:46:06Z",
+    "author": "Matthew Henry - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brook evokes Pietersen as England thrash Sri Lanka",
+    "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8fc/live/e1aad990-b14b-11f1-bc1f-3f186ca4140c.jpg",
+    "publishedAt": "2026-09-15T21:28:32Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Harry Brook's brilliant 114 not out leads England to dominant T20 win over Sri Lanka",
+    "description": "England piled up 254-4 after being put into bat in Southampton and that was mainly down to Brook, who has now scored 288 runs without getting out in the T20 format after unbeaten innings of 79 and 95 against India in July. Opener Jos Buttler also weighed in w…",
+    "url": "https://sports.yahoo.com/articles/harry-brooks-brilliant-114-not-211937474.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/d075971e4d6fbfdfd7a80639f258e952adc25f8a10ab243c811c107fca73291b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a9e55641e29f1aedbcbb92176ed07b9.jpg",
+    "publishedAt": "2026-09-15T21:19:37Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "CNA",
+    "title": "Brook hits lightning century as England crush Sri Lanka by 119 runs in opening T20",
+    "description": "SOUTHAMPTON, England, Sept 15 : Hosts England beat Sri Lanka by 119 runs in the first of three T20 internationals on Tuesday after a batting masterclass by captain Harry Brook, who hit a brilliant century off 42 balls in an unbeaten career-best 114-run knock,…",
+    "url": "https://www.channelnewsasia.com/sport/brook-hits-lightning-century-england-crush-sri-lanka-119-runs-in-opening-t20-6387236",
+    "image": "https://dam.mediacorp.sg/image/upload/s--5E9tYgLu--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T211249Z_1_LYNXMPEM8E21J_RTROPTP_3_CRICKET-T20-ENG-LKA.JPG?itok=K1gr9yzH",
+    "publishedAt": "2026-09-15T21:12:49Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Harry Brook's stunning 42-ball hundred makes you wonder what Kevin Pietersen actually has to teach him, writes LAWRENCE BOOTH",
+    "description": "LAWRENCE BOOTH IN SOUTHAMPTON: Pietersen would have been thrilled to have played such an innings, and not just because he never made a T20 hundred for England.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16134227/Harry-Brooks-stunning-42-ball-makes-you-wonder-Kevin-Pietersen-actually-teach-writes-LAWRENCE-BOOTH.html",
+    "image": "https://i.dailymail.com/1s/2026/09/15/21/111271993-0-image-a-25_1789504574581.jpg",
+    "publishedAt": "2026-09-15T20:53:06Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IDCA to nurture kids aged 10 to 12 with its training academy",
+    "description": "IDCA to launch an Under-12 cricket academy in Indore, with Sept 21-22 trials for ages 10-12 and coaching hires to build strong fundamentals early.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/idca-to-nurture-kids-aged-10-to-12-with-its-training-academy/articleshow/134272475.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134272473,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T19:08:44Z",
+    "author": "Litha Achari"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brilliant Brook bulldozes to 42-ball ton as England build huge total",
+    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the first T20 in Southampton.",
+    "url": "https://www.bbc.com/sport/cricket/live/cj94v32j91lt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c69a84e748d70315da3356308bff3f3d66b8395567f391eaccebda385660db55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9c21ad78c6bae4d7fc6d924a0ddf060c.jpg",
+    "publishedAt": "2026-09-15T19:00:15Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Plant 7k trees for 700 felled for Neelbad cricket stadium: NGT tells forest dept to complete plantation by Sept 30",
+    "description": "NGT orders MP forest department to plant 7,000 trees within 15 days for 700 felled for Neelabad cricket stadium, submit photos and action report by Sept 30.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/plant-7k-trees-for-700-felled-for-neelbad-cricket-stadium-ngt-tells-forest-dept-to-complete-plantation-by-sept-30/articleshow/134271956.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134271955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T18:43:48Z",
+    "author": "Ashutosh.Shukla"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "India beat Afghanistan by seven wickets to seal T20 series",
+    "description": "Sanju Samson's half century helps India seal three-match series with wins in first two games.",
+    "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26171547769364-1789495182.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-15T18:15:43Z",
+    "author": null
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Sanju Samson’s 57 helps India clinch T20 series against Afghanistan with 7-wicket win",
     "description": "Sanju Samson scored 57 off 22 balls as India beat Afghanistan by seven wickets to clinch their three-match T20 series with a match to spare Tuesday. Samson hit four sixes and seven fours en route to his first half-century since this year's T20 World Cup final…",
@@ -169,51 +250,6 @@ window.cricketNews = [
     "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/devid-warner_9TVShcIdnZ_0.jpg?itok=X44EYVEd",
     "publishedAt": "2026-09-15T12:02:33Z",
     "author": "editor"
-  },
-  {
-    "source": "TechRadar",
-    "title": "How to watch England vs Sri Lanka 2026 T20 series: cricket live streams, schedule, tickets and preview",
-    "description": "All the ways to watch the England vs Sri Lanka 2026 T20 series from anywhere, as Harry Brook's side take on the tourists.",
-    "url": "https://www.techradar.com/how-to-watch/cricket/england-vs-sri-lanka-2026-t20-series",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZYznxsS4frRG8UwGatZXhA-2560-80.jpg",
-    "publishedAt": "2026-09-15T12:00:00Z",
-    "author": "James Roberts"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitch Marsh's Zimbabwe connection: Father Geoff Marsh's coaching stint, childhood memories and a dream of playing for Zimbabwe",
-    "description": "Cricket was also a big part of Marsh's life in Harare. He spent hours at Harare Sports Club playing cricket with Tom, Ben and Sam Curran, the sons of his father's coaching assistant Kevin Curran. All three later played international cricket. Tom and Sam repre…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitch-marshs-zimbabwe-connection-father-geoff-marshs-coaching-stint-childhood-memories-and-a-dream-of-playing-for-zimbabwe/articleshow/134260811.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134260961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T11:41:20Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "RT",
-    "title": "Western leaders ‘don’t end up’ in ICC – ex-MEP (VIDEO)",
-    "description": "The ICC is far more likely to target weaker states than leaders of major nations, former MEP Gunnar Beck has told RT Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/645751-western-leaders-icc-beck/",
-    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aa91d892030272b8320bf67.jpg",
-    "publishedAt": "2026-09-15T10:40:07Z",
-    "author": "RT"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'I don't have to prove anything': Bhuvneshwar Kumar opens up on possible India comeback ahead of 2027 ODI World Cup",
-    "description": "Bhuvneshwar Kumar addressed a possible India comeback for the 2027 ODI World Cup, leaving the final call to national selectors.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bhuvneshwar-kumar-possible-india-comeback-2027-odi-world-cup/4cdb733e14e09489ce5f787f",
-    "image": "https://s.yimg.com/lo/mysterio/api/f814c9abf42657019887f8489a565a3d4ff6c912f2b31fa0f55510d695b99bd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1663a201ef289ec2a9867e343a0a6a57",
-    "publishedAt": "2026-09-15T10:17:55Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "David Warner in Nepal Premier League: Ex-Australia star joins NPL side Kathmandu Gorkhas",
-    "description": "David Warner in Nepal Premier League: Ex-Australia opener joins Kathmandu Gorkhas as marquee overseas signing for NPL 2026 at TU Cricket Ground.",
-    "url": "https://www.cricketnews.com/en/cricket/news/david-warner-nepal-premier-league-joins-npl-kathmandu-gorkhas/5f28ffde47e6b04c86237660",
-    "image": "https://s.yimg.com/lo/mysterio/api/42920abb41363a3e691216d51a8f37c614282e98cbad23f59b05a4d8d25765c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fafbb9db8594fcfb653fab9e8c5fef326",
-    "publishedAt": "2026-09-15T10:16:56Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
