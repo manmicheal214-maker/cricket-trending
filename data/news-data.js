@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Heavy.com",
+    "title": "Colts $54 Million Pro Bowler Reveals Decision to Wear Guardian Cap",
+    "description": "Indianapolis Colts wide receiver Charvarius Ward talks about his decision to wear the guardian cap in the 2026 season opener The post Colts $54 Million Pro Bowler Reveals Decision to Wear Guardian Cap appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/indianapolis-colts/colts-charvarius-ward-decision-guardian-cap/",
+    "image": "https://s.yimg.com/lo/mysterio/api/920e1634c312e938cb9dda0076988b53fe5e5178c901414b47abe16b96e61431/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8d0a9eb04b0d410dc5889003d40b5460.jpg",
+    "publishedAt": "2026-09-15T01:03:55Z",
+    "author": "Jason Garcia"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Are they living in the past?': Ex-India cricketer slams Mohsin Naqvi after Asia Cup trophy snub",
+    "description": "The celebration of India's Women's Asia Cup triumph was overshadowed when the team rejected the trophy presented by ACC president Mohsin Naqvi. This decision recalls a similar controversy during the men's Asia Cup final. Mohammad Kaif has voiced doubts regard…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/are-they-living-in-the-past-ex-india-cricketer-slams-mohsin-naqvi-after-asia-cup-trophy-snub/articleshow/134249649.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134249662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-15T00:57:36Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch India vs. Afghanistan free live stream, TV channel, start time for 2nd ODI match",
+    "description": "Here's everything you need to know about India vs. Afghanistan, including TV channel and streaming options for the T20 matchup.",
+    "url": "https://www.sportingnews.com/us/cricket/news/watch-india-vs-afghanistan-live-stream-tv-channel-time-odi-match/df74b16cd3bd6fdc0fffa9c0",
+    "image": "https://s.yimg.com/lo/mysterio/api/b7cb4280e4f3fffc91496f52b90ce604f162465f824e74f4239901451a990c92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f3fabc347e65b7da25f1ee47f305154",
+    "publishedAt": "2026-09-15T00:00:01Z",
+    "author": "Dan Gibbs"
+  },
+  {
+    "source": "Bleeding Green Nation",
+    "title": "Landon Dickerson headed to IR, admits he ‘was a complete liability’ in Week 1",
+    "description": "The Eagles will be without their 3x Pro Bowler left guard for at least the next four weeks.",
+    "url": "https://www.bleedinggreennation.com/news/182874/landon-dickerson-headed-to-ir-admits-he-was-a-complete-liability-in-week-1",
+    "image": "https://s.yimg.com/lo/mysterio/api/ec3d5164859b4478ee083f0b94e6b8a0437fda88493252938ad98f3f5cde7530/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F621195a9ee2f61d55965adbe1dfa1ac0.jpg",
+    "publishedAt": "2026-09-14T23:18:55Z",
+    "author": "Alexis Chassen"
+  },
+  {
     "source": "New Zealand Herald",
     "title": "India cricket tour: Ian Smith returns to Sky commentary box",
     "description": "Sky’s summer cricket coverage starts with an India T20 in Christchurch.",
@@ -178,42 +214,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134242032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-14T13:19:58Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "BBC News",
-    "title": "McCullum wants Pietersen to challenge methods",
-    "description": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crpd066l0yl9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/471d6e6d86051ec892629e11bb228cc2ce4283f2ee8d83de4342c2b24614fcd9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F925bd909933761d68adec4d85cf8544c.jpg",
-    "publishedAt": "2026-09-14T13:11:56Z",
-    "author": "Callum Matthews - BBC Sport senior journalist; Henry Moeran - BBC cricket reporter"
-  },
-  {
-    "source": "BBC News",
-    "title": "McCullum wants Pietersen to challenge methods",
-    "description": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/crpd066l0yl9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad0c/live/5774a510-b03a-11f1-9ae0-e316eeb4632d.jpg",
-    "publishedAt": "2026-09-14T13:09:06Z",
-    "author": "Callum Matthews, Henry Moeran"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Want to play as much T20 cricket as I can': Steve Smith unsure of playing next Ashes series but wants to compete at LA Olympics",
-    "description": "With the 2028 Olympics all set to feature cricket for the first time, Steve Smith wants to represent the Aussies at the event even as he remains unsure about his Test future.",
-    "url": "https://www.cricketnews.com/en/cricket/news/steve-smith-unsure-next-ashes-series-compete-la-olympics/37632ccc2967abddcad15837",
-    "image": "https://s.yimg.com/lo/mysterio/api/30e4226f192b8381fec6002812ceb587d35dc0b2743b5fe88ea4ea7815a17ff3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52de59cda0b889b9571f19c6cc9d794d",
-    "publishedAt": "2026-09-14T12:37:35Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pakistan fined and docked 11 WTC points for slow over-rate in final test against England",
-    "description": "Pakistan was sanctioned on Monday for maintaining a slow over-rate during its eight-wicket loss in the third and final test against England. The International Cricket Council said in a statement that Pakistan was ruled to be 11 overs short of the target after…",
-    "url": "https://sports.yahoo.com/articles/pakistan-fined-docked-11-wtc-123607856.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/3f1dc3c205b5c71b4878032292eb62ce4526526d1484c043a4d09773755471d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F38900736d92b98bbca42fca3b1261ed9.jpg",
-    "publishedAt": "2026-09-14T12:36:07Z",
-    "author": "Associated Press"
   }
 ]
 ;
