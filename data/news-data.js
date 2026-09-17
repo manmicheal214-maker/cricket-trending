@@ -1,5 +1,203 @@
 window.cricketNews = [
   {
+    "source": "Al Jazeera English",
+    "title": "Duterte in person at ICC for first time over ‘war on drugs’ killings",
+    "description": "Former Philippine president accused of setting up death squads faces trial starting on November 30.",
+    "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aaa6d3ef183-1789553983.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-16T13:01:13Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "The Times of India",
+    "title": "WPL 2027: BCCI announces auction date, check retention deadline and season schedule",
+    "description": "The 2027 Women's Premier League player auction is scheduled for October 28, with teams required to finalize their player retentions by September 28, 2026. Matches will take place from January 14 to February 7, 2027, across Mumbai and Vadodara. Each franchise …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wpl-2027-bcci-announces-auction-date-check-retention-deadline-and-season-schedule/articleshow/134288274.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134288322,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T12:46:28Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Chapter 9. Fighting Over Railroad Regulation",
+    "description": "Chapter 9. Fighting Over Railroad Regulation\nBarred from rate associations after 1897, the railroads formed communities of interest by buying their competitors’ stock—cartels in a disguised form. Patrick Newman details the reversal of the 1910s, when the ICC …",
+    "url": "https://biztoc.com/x/790e4d306a406e0e",
+    "image": "https://biztoc.com/cdn/790e4d306a406e0e_s.webp",
+    "publishedAt": "2026-09-16T12:41:16Z",
+    "author": "mises.org"
+  },
+  {
+    "source": "Globalsecurity.org",
+    "title": "Ex-president Duterte appears in person before ICC courtroom",
+    "description": "Former president Rodrigo Duterte appeared in public for the first time on Wednesday, more than 18 months after he was detained by the International Criminal Court (ICC) in March last year.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260916-pna01.htm",
+    "image": null,
+    "publishedAt": "2026-09-16T12:00:00Z",
+    "author": "John Pike"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Women's Premier League 2027 dates locked in from January 14 to February 7",
+    "description": "The Women's Premier Leaguefifth edition is scheduled for January 14 to February 7, 2027. This tournament will precede the Women's Champions Trophy, which is now hosted in India. The player auction for the upcoming WPL season will take place on October 28. Koc…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/womens-premier-league-2027-dates-locked-in-from-january-14-to-february-7/articleshow/134287121.cms",
+    "image": "https://img.etimg.com/thumb/msid-134287145,width-1200,height-630,imgsize-276944,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-16T11:53:11Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Rise and Fall 2: Virender Sehwag to host, check contestants and format",
+    "description": "Rise and Fall contestants List: Rise And Fall Season 2 is only getting bigger by the day. The show's new season was officially declared last week. After Ashneer Grover, cricketer Virender Sehwag will host the new season",
+    "url": "https://www.business-standard.com/entertainment/rise-and-fall-2-virender-sehwag-to-host-check-contestants-and-format-nc-126091600840_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789557646-7309.png",
+    "publishedAt": "2026-09-16T11:25:47Z",
+    "author": "Princess Sonika"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Impact player in IPL: BCCI mulling over scrapping the rule after key discussions with franchises - Report",
+    "description": "The Impact Player rule has become a unique addition to the IPL, but after all these years, it seems the BCCI is set to scrap it soon.",
+    "url": "https://www.cricketnews.com/en/cricket/news/impact-player-ipl-bcci-scrapping-rule-discussions-franchises/3473fecd7525de10d348436c",
+    "image": "https://s.yimg.com/lo/mysterio/api/ddcdb187b436299f68340de55e590760ad02675ffc8a236e10f1bc575945aeb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f99dc5248be8dc73face43bce057637",
+    "publishedAt": "2026-09-16T11:17:50Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "'He can become one of the ultimate legends of the game': England bowling guru TROY COOLEY on what he loves about his attack, how Jofra Archer is still improving, why Josh Tongue is 'unique' and the other English bowlers he's excited about",
+    "description": "It's not hard to see why Troy Cooley - world cricket's fast-bowling whisperer - gets on so well with his charges, easy to grasp why England were so keen to lure him back after 20 years away.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16135643/troy-cooley-england-fast-bowlers-archer-tongue.html",
+    "image": "https://i.dailymail.com/1s/2026/09/16/11/111283395-0-image-m-2_1789555834969.jpg",
+    "publishedAt": "2026-09-16T11:06:48Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "DW (English)",
+    "title": "Duterte makes first appearance before ICC judges",
+    "description": "Former Philippine President Rodrigo Duterte appeared in person at the ICC as judges considered claims of memory impairment and poor health. The 81-year-old is accused of crimes against humanity.",
+    "url": "https://www.dw.com/en/duterte-makes-first-appearance-before-icc-judges/a-79288207",
+    "image": "https://static.dw.com/image/79288039_6.jpg",
+    "publishedAt": "2026-09-16T11:06:00Z",
+    "author": "Emilio Reynoso"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026: India full schedule, contingent, medal prospects and more",
+    "description": "India's competitive action at the Asian Games will begin on September 17 with teqball, while the women's cricket team begins its campaign on September 18 against Japan",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-india-full-schedule-contingent-medal-prospects-and-more-126091600792_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/resize/1200X628/1789555160-6429.jpg",
+    "publishedAt": "2026-09-16T10:56:12Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Why your homemade idli batter isn't rising: 5 common reasons",
+    "description": "There is a particular kind of disappointment that comes from lifting the lid off a batter container in the morning and finding exactly what you left there the night before. No rise, no bubbles, no gentle dome pushing against the sides, just flat, dense batter…",
+    "url": "https://timesofindia.indiatimes.com/life-style/food-news/why-your-homemade-idli-batter-isnt-rising-5-common-reasons/photostory/134281338.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134281596,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T10:30:00Z",
+    "author": "TIMESOFINDIA.COM"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games Cricket: Vipraj Nigam replaces injured Varun Chakravarthy in India squad",
+    "description": "Young leg-spinner Vipraj Nigam has replaced Varun Chakravarthy in India’s Asian Games squad after the senior spinner suffered a side strain. Nigam, who plays for Delhi Capitals, has taken 13 wickets in 19 IPL matches and also boasts a strong batting strike ra…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-cricket-vipraj-nigam-replaces-injured-varun-chakravarthy-in-india-squad/articleshow/134284863.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134284901,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T10:22:26Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC T20I Rankings: Abhishek Sharma leaps past Pakistan's Sahibzada Farhan, Jasprit Bumrah breaks into top 10",
+    "description": "In the latest ICC T20I rankings, Abhishek Sharma and Varun Chakravarthy have made impressive strides, showcasing their skills on the international stage. Meanwhile, Jasprit Bumrah and Arshdeep Singh have surged up the bowling charts thanks to their recent per…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-abhishek-sharma-leaps-past-pakistans-sahibzada-farhan-jasprit-bumrah-breaks-into-top-10/articleshow/134284639.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134284830,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T10:16:08Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027 auction to be held in India after three years overseas, BCCI confirms: Report",
+    "description": "BCCI will hold the IPL 2027 mini auction in India, ending a three year run of overseas venues that included Dubai, Jeddah and Abu Dhabi, according to Cricbuzz. The decision, taken at a Governing Council meeting on September 15, follows franchise concerns over…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/ipl-2027-auction-to-be-held-in-india-after-three-years-overseas-bcci-confirms-report/articleshow/134284607.cms",
+    "image": "https://img.etimg.com/thumb/msid-134284693,width-1200,height-630,imgsize-104468,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-16T10:07:15Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI decided to bring IPL 2027 auction back to India: Report",
+    "description": "IPL 2027 auction: BCCI will hold the IPL 2027 mini auction in India, ending a three year run of overseas venues that included Dubai, Jeddah and Abu Dhabi, according to Cricbuzz. The decision, taken at a Governing Council meeting on September 15, follows franc…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/bcci-decided-to-bring-ipl-2027-auction-back-to-india-report/articleshow/134284607.cms",
+    "image": "https://img.etimg.com/thumb/msid-134284693,width-1200,height-630,imgsize-104468,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-16T10:07:15Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Duterte appears at ICC hearing for first time",
+    "description": "Former Filipino President Rodrigo Duterte appeared in person at an International Criminal ​Court (ICC) hearing on Wednesday, marking his first public appearance since he was arrested and transferred t...",
+    "url": "https://biztoc.com/x/fd51a5659cad7f94",
+    "image": "https://biztoc.com/cdn/fd51a5659cad7f94_s.webp",
+    "publishedAt": "2026-09-16T09:40:34Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "CNA",
+    "title": "Philippines ex-leader Duterte makes first appearance at ICC",
+    "description": "THE HAGUE: Former Philippines president Rodrigo Duterte appeared in person at the International Criminal Court (ICC) for the first time on Wednesday (Sep 16), as he faces charges over his \"war on drugs\"",
+    "url": "https://www.channelnewsasia.com/asia/duterte-philippines-icc-first-appearance-6388696",
+    "image": "https://dam.mediacorp.sg/image/upload/s--fFWVR7ae--/c_crop,h_1125,w_2000,x_0,y_80/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/16/2026-09-16t090033z_973450811_rc29knasvbst_rtrmadp_3_warcrimes-philippines-duterte.jpg?itok=kf1_F7-0",
+    "publishedAt": "2026-09-16T09:14:31Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Varun Chakravarthy ruled out of Asian Games with side strain, Vipraj Nigam named replacement",
+    "description": "Vipraj Nigam will replace Varun Chakravarthy in India's Asian Games cricket squad. Chakravarthy sustained a side strain and is out for an indefinite period. The young leg-spinner Nigam represents Delhi Capitals in the Indian Premier League. He has taken thirt…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/varun-chakravarthy-ruled-out-of-asian-games-with-side-strain-vipraj-nigam-named-replacement/articleshow/134282877.cms",
+    "image": "https://img.etimg.com/thumb/msid-134282893,width-1200,height-630,imgsize-62822,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-16T08:37:52Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rinku Singh to marry SP MP Priya Saroj on December 4 in Lucknow: From fan page to wedding, here's how their love story began",
+    "description": "Rinku Singh, the talented Indian cricketer, is set to marry Priya Saroj, a dedicated Samajwadi Party MP, on December 4. Their love blossomed online during the challenging days of the Covid pandemic. After a beautiful engagement in Lucknow on June 8, 2025, the…",
+    "url": "https://timesofindia.indiatimes.com/relationships/rinku-singh-to-marry-sp-mp-priya-saroj-on-december-4-in-lucknow-from-fan-page-to-wedding-heres-how-their-love-story-began/articleshow/134282723.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134282723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T08:34:47Z",
+    "author": "TOI Lifestyle Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Behind the Hitman: The family that helped Rohit Sharma pursue cricket",
+    "description": "In a heartfelt exchange, Krushna Abhishek questioned Rohit Sharma about the family support that shaped his sporting career. Rohit reflected on how his grandfather and uncles not only backed his early cricket aspirations but also funded his schooling and train…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/behind-the-hitman-the-family-that-helped-rohit-sharma-pursue-cricket/articleshow/134281382.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134281382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T07:51:43Z",
+    "author": "Akash Wadhwa"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "England plotting major overhaul of cricket calendar in hopes of boosting preparations for next summer's Ashes - following review of dismal performance in Australia",
+    "description": "England's players will have the opportunity to get match-ready for next year's Ashes under plans to add extra mid-season fixtures to the County Championship season.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16135315/England-plotting-major-overhaul-cricket-calendar-Ashes.html",
+    "image": "https://i.dailymail.com/1s/2026/09/16/08/111279415-0-image-m-18_1789544410750.jpg",
+    "publishedAt": "2026-09-16T07:40:37Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Don't make changes': Yuvraj Singh's warning to Gautam Gambhir and management ahead of 2027 World Cup",
+    "description": "As India gears up for the 2027 ODI World Cup, emphasis is being placed on maintaining a consistent squad. Yuvraj Singh advocates for the development of a core group, allowing players regular opportunities to hone their skills. This strategy minimizes disrupti…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dont-make-changes-yuvraj-singhs-warning-to-gautam-gambhir-and-management-ahead-of-2027-world-cup/articleshow/134281447.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134281484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-16T07:40:07Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "Mandakini denies Dawood Ibrahim invited her to Sharjah cricket match, says photo controversy 'did a lot of damage'",
     "description": "Veteran actress Mandakini addressed a controversial photograph with Dawood Ibrahim. She explained she was in Dubai for a show before attending a match. Mandakini stated she was not invited by the underworld don for the meeting. This photograph later caused si…",
@@ -61,195 +259,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/resize/1200X628/1789537571-3655.jpg",
     "publishedAt": "2026-09-16T05:46:00Z",
     "author": "Aditya Kaushik"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'I'm not a robot!': Sanju Samson reacts unfiltered on how he handles criticism & trolling after match-winning 57 against Afghanistan",
-    "description": "Sanju Samson opened up on handling outside noise, senior players' criticism, and the 'Wi-Fi problem' in Indian cricket.",
-    "url": "https://www.cricketnews.com/en/cricket/news/sanju-samson-handles-criticism-trolling-afghanistan/188c59b65fd08c9539ece4b5",
-    "image": "https://s.yimg.com/lo/mysterio/api/896581eb6223c6a1d65220c08cfefc34393d1a75205db71ea48ae478f214e1c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff28ff7c88f7f7f8839377da8fe398387",
-    "publishedAt": "2026-09-16T04:40:59Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pandya, Pant in focus as WI team selection puts Agarkar future in spotlight",
-    "description": "A white ball lifeline for Rishabh Pant and a possible inclusion of a fit-again Hardik Pandya will be the focal points of discussion when the national selectors pick the ODI and T20I squads for the home series against West Indies here on Wednesday.\nIndia will …",
-    "url": "https://www.business-standard.com/cricket/news/pandya-pant-in-focus-as-wi-team-selection-puts-agarkar-future-in-spotlight-126091600020_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/10/thumb/fitandfill/1200X628/1781084916-9191.jpg",
-    "publishedAt": "2026-09-16T04:12:06Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jos Buttler breaks Rohit Sharma's record, becomes second-highest T20I run-scorer",
-    "description": "Jos Buttler has now become the second-highest run-scorer in men's T20I cricket. He achieved this milestone during England's victory against Sri Lanka. Buttler scored eighty runs off forty-four balls in the match. Harry Brook also contributed significantly wit…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-breaks-rohit-sharmas-record-becomes-second-highest-t20i-run-scorer/articleshow/134277571.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134277591,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T04:10:11Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India Women land in Japan with Muzumdar eyeing golden double at Asiad",
-    "description": "The Indian women's cricket team head coach Amol Muzumdar said his players are eagerly looking forward to the unique atmosphere of the Asian Games after the defending champions landed in Japan determined to extend their recent run of success.\nFresh from their …",
-    "url": "https://www.business-standard.com/sports/asian-games/india-women-land-in-japan-with-muzumdar-eyeing-golden-double-at-asiad-126091600085_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/12/thumb/fitandfill/1200X628/1689133718-2353.jpg",
-    "publishedAt": "2026-09-16T04:07:59Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal under pressure to retain ODI status",
-    "description": "KATHMANDU: Nepal faces a crucial challenge in the final round of the ICC World Cup League 2 as it seeks to produce strong results and secure its place among the top six teams in the standings to retain its One-Day International (ODI) status. Nepal has only on…",
-    "url": "https://english.khabarhub.com/2026/16/567978/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
-    "publishedAt": "2026-09-16T02:57:57Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India squad for West Indies series: Will Ravindra Jadeja make an ODI return?",
-    "description": "India’s selectors face key ODI selection decisions for the West Indies series. With Axar Patel and Washington Sundar at the Asian Games, Ravindra Jadeja could return despite concerns over his bowling. Hardik Pandya’s fitness remains uncertain, while Rishabh P…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-squad-for-west-indies-series-will-ravindra-jadeja-make-an-odi-return/articleshow/134276568.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134276676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T02:42:35Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "TwinCities.com-Pioneer Press",
-    "title": "Kaelen Culpepper departs early as Yankees beat Twins",
-    "description": "Final Yankees 8, Twins 1 Starting pitcher performance Nothing came easy for Bailey Ober on Tuesday night, starting in the first inning when an eight-pitch battle with Ben Rice, the first batter of the game, resulted in a single. The very next hitter, Cody Bel…",
-    "url": "https://www.twincities.com/2026/09/15/kaelen-culpepper-departs-early-as-yankees-beat-twins/",
-    "image": null,
-    "publishedAt": "2026-09-16T02:38:00Z",
-    "author": "Betsy Helfand, Pioneer Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harry Brook scripts history, becomes first cricketer to achieve this feat in T20Is",
-    "description": "In a remarkable feat, Harry Brook reached a notable captaincy milestone in 2026, becoming the only Full Member captain to score two T20I centuries within the same year. His latest achievement was an explosive 114 not out against Sri Lanka in Southampton, whic…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-scripts-history-becomes-first-cricketer-to-achieve-this-feat-in-t20is/articleshow/134276459.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134276491,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T02:31:21Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘People said a lot of things’: Goenka breaks silence on Pant’s shock LSG exit",
-    "description": "Rishabh Pant's expensive IPL journey with Lucknow Super Giants concluded after two seasons. The franchise owner stated their relationship with Pant remained cordial and warm. Pant has now returned to his former team, the Delhi Capitals, for a lower fee. Luckn…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/people-said-a-lot-of-things-sanjiv-goenka-breaks-silence-on-rishabh-pants-shock-lsg-exit/articleshow/134276252.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134276273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T02:07:59Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India squad for West Indies ODI series 2026: Full team list for IND vs WI series",
-    "description": "India squads for West Indies 2026: Check the ODI and T20I teams and series schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-squad-west-indies-odi-series-2026-full-team-list-ind-vs-wi-series/e679b207071ad688e3458077",
-    "image": "https://s.yimg.com/lo/mysterio/api/d29afc234eb7d56618a89f43cc409c9b48330cee7528f254838cf7d66d6db4d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdf2f12568b9f90a135a514e12cf6be20",
-    "publishedAt": "2026-09-16T01:50:32Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Renshaw reveals secret behind milestone ODI century",
-    "description": "Matt Renshaw admits he may not have experienced his milestone moment had he opened the batting for Australia against Zimbabwe.",
-    "url": "https://www.abc.net.au/news/2026-09-16/odi-cricket-australia-zimbabwe-matt-renshaw-century/107158574",
-    "image": "https://live-production.wcms.abc-cdn.net.au/1f910bd51c8bbbbdea05cda60bfce5a6?impolicy=wcms_watermark_news&cropH=800&cropW=1423&xPos=0&yPos=38&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-16T01:28:59Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ex-Pakistan batter calls India 'arrogant' as he defends Mohsin Naqvi after Asia Cup trophy row",
-    "description": "Following their stunning victory against Sri Lanka in the Asia Cup final, India's women's cricket team made a bold statement by refusing to accept the trophy. The players chose to remain in the dressing room, adhering to the BCCI's advisement regarding the pr…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-pakistan-batter-calls-india-arrogant-as-he-defends-mohsin-naqvi-after-asia-cup-trophy-row/articleshow/134275958.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134275976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T01:24:02Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "BBC News",
-    "title": "T20 Cricket",
-    "description": "Highlights of the first game of the T20 series between England and Sri Lanka.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0031n7v/t20-cricket-2026-england-v-sri-lanka-first-t20-highlights?at_campaign=rss&at_medium=RSS",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p9rh5r.jpg",
-    "publishedAt": "2026-09-15T22:40:25Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Brook likened to Pietersen in SL win - how do they compare?",
-    "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cmd94elvw7wvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/ad9f52953ec4b1663036487a654a90af8dc02a2ebaff733d38e16b9650931766/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F19d9117a0108afad0e42714554ac2a81.jpg",
-    "publishedAt": "2026-09-15T21:46:06Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brook evokes Pietersen as England thrash Sri Lanka",
-    "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8fc/live/e1aad990-b14b-11f1-bc1f-3f186ca4140c.jpg",
-    "publishedAt": "2026-09-15T21:28:32Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Harry Brook's brilliant 114 not out leads England to dominant T20 win over Sri Lanka",
-    "description": "England piled up 254-4 after being put into bat in Southampton and that was mainly down to Brook, who has now scored 288 runs without getting out in the T20 format after unbeaten innings of 79 and 95 against India in July. Opener Jos Buttler also weighed in w…",
-    "url": "https://sports.yahoo.com/articles/harry-brooks-brilliant-114-not-211937474.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/d075971e4d6fbfdfd7a80639f258e952adc25f8a10ab243c811c107fca73291b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a9e55641e29f1aedbcbb92176ed07b9.jpg",
-    "publishedAt": "2026-09-15T21:19:37Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "CNA",
-    "title": "Brook hits lightning century as England crush Sri Lanka by 119 runs in opening T20",
-    "description": "SOUTHAMPTON, England, Sept 15 : Hosts England beat Sri Lanka by 119 runs in the first of three T20 internationals on Tuesday after a batting masterclass by captain Harry Brook, who hit a brilliant century off 42 balls in an unbeaten career-best 114-run knock,…",
-    "url": "https://www.channelnewsasia.com/sport/brook-hits-lightning-century-england-crush-sri-lanka-119-runs-in-opening-t20-6387236",
-    "image": "https://dam.mediacorp.sg/image/upload/s--5E9tYgLu--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T211249Z_1_LYNXMPEM8E21J_RTROPTP_3_CRICKET-T20-ENG-LKA.JPG?itok=K1gr9yzH",
-    "publishedAt": "2026-09-15T21:12:49Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Harry Brook's stunning 42-ball hundred makes you wonder what Kevin Pietersen actually has to teach him, writes LAWRENCE BOOTH",
-    "description": "LAWRENCE BOOTH IN SOUTHAMPTON: Pietersen would have been thrilled to have played such an innings, and not just because he never made a T20 hundred for England.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16134227/Harry-Brooks-stunning-42-ball-makes-you-wonder-Kevin-Pietersen-actually-teach-writes-LAWRENCE-BOOTH.html",
-    "image": "https://i.dailymail.com/1s/2026/09/15/21/111271993-0-image-a-25_1789504574581.jpg",
-    "publishedAt": "2026-09-15T20:53:06Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IDCA to nurture kids aged 10 to 12 with its training academy",
-    "description": "IDCA to launch an Under-12 cricket academy in Indore, with Sept 21-22 trials for ages 10-12 and coaching hires to build strong fundamentals early.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/idca-to-nurture-kids-aged-10-to-12-with-its-training-academy/articleshow/134272475.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134272473,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T19:08:44Z",
-    "author": "Litha Achari"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brilliant Brook bulldozes to 42-ball ton as England build huge total",
-    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the first T20 in Southampton.",
-    "url": "https://www.bbc.com/sport/cricket/live/cj94v32j91lt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/c69a84e748d70315da3356308bff3f3d66b8395567f391eaccebda385660db55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9c21ad78c6bae4d7fc6d924a0ddf060c.jpg",
-    "publishedAt": "2026-09-15T19:00:15Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Plant 7k trees for 700 felled for Neelbad cricket stadium: NGT tells forest dept to complete plantation by Sept 30",
-    "description": "NGT orders MP forest department to plant 7,000 trees within 15 days for 700 felled for Neelabad cricket stadium, submit photos and action report by Sept 30.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/plant-7k-trees-for-700-felled-for-neelbad-cricket-stadium-ngt-tells-forest-dept-to-complete-plantation-by-sept-30/articleshow/134271956.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134271955,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-15T18:43:48Z",
-    "author": "Ashutosh.Shukla"
   }
 ]
 ;
