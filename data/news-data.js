@@ -1,39 +1,102 @@
 window.cricketNews = [
   {
+    "source": "CNA",
+    "title": "England beat Sri Lanka by six wickets to secure T20 series 2-0",
+    "description": "CARDIFF, Sept 17 : Jos Buttler became the first player to score 15,000 career T20 runs and Liam Dawson took a three-wicket haul as a dominant England beat Sri Lanka by six wickets in Cardiff on Thursday to secure the series 2-0.The hosts won Tuesday's first T…",
+    "url": "https://www.channelnewsasia.com/sport/england-beat-sri-lanka-six-wickets-secure-t20-series-2-0-6393156",
+    "image": "https://dam.mediacorp.sg/image/upload/s--ZvE3KC4V--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-17T204533Z_1_LYNXMPEM8G21Q_RTROPTP_3_CRICKET-T20-ENG-LKA.JPG?itok=erfh-Py0",
+    "publishedAt": "2026-09-17T20:45:33Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "England crush Sri Lanka to seal T20 series win",
+    "description": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cm70dnrke6klo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/c860b3e62fd179f0eb23fc6aa367f1cd4831ba45fa9f42af98643f0a32dc36ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcb7efbd386104bc06515a3f56a1f035a.jpg",
+    "publishedAt": "2026-09-17T20:34:37Z",
+    "author": "Ffion Wynne - BBC Sport journalist in Cardiff"
+  },
+  {
+    "source": "BBC News",
+    "title": "England crush Sri Lanka to seal T20 series win",
+    "description": "England comfortably chase a below-par target of 146 to thrash Sri Lanka by six wickets and seal the three-match T20 series with a game to spare.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm70dnrke6klo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d6b/live/ccb81e80-b2d6-11f1-8586-e36059caa868.jpg",
+    "publishedAt": "2026-09-17T20:32:24Z",
+    "author": "Ffion Wynne"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Ravens linked to trade for Jaguars Pro Bowler amid pair of WR injury issues",
+    "description": "This would be quite the massive addition to the WR room for Baltimore.",
+    "url": "https://www.sportingnews.com/us/nfl/baltimore-ravens/news/ravens-linked-trade-jaguars-pro-bowler-pair-wr-injury-issues/dc8bcae8f88958634d77393d",
+    "image": "https://s.yimg.com/lo/mysterio/api/a88f5025869d13ee18d4bd42fbc79a03a60f7f8300c885388d2d95af2bcf708a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fc6a9f0b9dc4de7a14ee083572a761c8e",
+    "publishedAt": "2026-09-17T20:16:56Z",
+    "author": "Matt Sullivan"
+  },
+  {
     "source": "The Times of India",
-    "title": "CCI nod for Lakshmi Mittal-Poonawalla Rajasthan Royals stake buys",
-    "description": "The competition regulator in India has sanctioned the acquisition of three cricket franchises, with Westview Cricket and Poonawalla Sports set to buy the Rajasthan Royals along with two overseas teams. Moreover, the approval extends to deals made by Great Whi…",
-    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/cci-nod-for-lakshmi-mittal-poonawalla-rajasthan-royals-stake-buys/articleshow/134317131.cms",
-    "image": "https://img.etimg.com/thumb/msid-134317231,width-1200,height-630,imgsize-207462,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-17T16:45:53Z",
-    "author": "Twesh Mishra"
+    "title": "Asian Games women's cricket: Defending champions India begin title defence against Japan",
+    "description": "Defending champions India start their Asian Games title defense against hosts Japan.  The team enters the tournament after winning their eighth T20 Asia Cup.  Shafali Verma and Deepti Sharma are key players for India's batting and bowling.  Spinner Sree Chara…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-womens-cricket-defending-champions-india-begin-title-defence-against-japan/articleshow/134320648.cms",
+    "image": "https://img.etimg.com/thumb/msid-134320729,width-1200,height-630,imgsize-1414424,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-17T19:25:55Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India's Asian Games 2026 Schedule Today: Full List of Events and Timings",
+    "description": "India will have another busy day at the Asian Games 2026 in Aichi-Nagoya, Japan, on Friday, September 18. The Indian women's cricket team will be the main attraction as the defending champions begin their title defence against Japan in the quarter-finals. The…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-today-september-18-events-timings/articleshow/134318049.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134318227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T18:35:00Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "BBC News",
+    "title": "Dawson claims third wicket as Sri Lanka slump to 95-5 v England",
+    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the second T20 in Cardiff.",
+    "url": "https://www.bbc.com/sport/cricket/live/czexyld1ge3t?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/858fa625c89340f134a6e7b6bca3e672118a071ef42628bbe0630dc8230b5173/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6f3b3a1ed51e526a444ea38fab7eff23.jpg",
+    "publishedAt": "2026-09-17T18:24:35Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "labelzoom-sdk 1.1.0",
+    "description": "Official Python SDK for the LabelZoom API. Converts barcode labels between ZPL, EPL, IPL, TSPL, DPL, SBPL, PDF, LabelZoom XML/JSON and raster images.",
+    "url": "https://pypi.org/project/labelzoom-sdk/1.1.0/",
+    "image": null,
+    "publishedAt": "2026-09-17T18:12:26Z",
+    "author": "support@labelzoom.com"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Abhishek Sharma hits record T20 ton as India beat Afghanistan by 127 runs",
+    "description": "India opener Abhishek Sharma hits nine fours and 11 sixes in total of 221-7 as India seal 3-0 T20 series sweep.",
+    "url": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8LL42J__v2__MidRes__CricketIndAfgT20-1789660202.jpg?resize=1200%2C630",
+    "publishedAt": "2026-09-17T18:03:50Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep",
+    "description": "Abhishek Sharma's returns in international cricket haven't been the best since the T20I World Cup in March. The runs have come at a premium for him. He wasn't going to let this opportunity re-establish himself as India's undisputed first-choice opener in T20I…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134318549,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T17:42:15Z",
+    "author": "Arani Basu"
   },
   {
     "source": "BBC News",
     "title": "Abhishek hits fastest century in full-member T20s",
     "description": "Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqvgyk6x2d48o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b07b/live/9d3bbbe0-b2ad-11f1-a430-4d16ee157c41.jpg",
-    "publishedAt": "2026-09-17T15:59:09Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "RT",
-    "title": "ICC incapable of delivering ‘real justice’ – expert to RT (VIDEO)",
-    "description": "The ICC cannot deliver “real justice” as powerful states can evade accountability, international law expert Hikmahanto Juwana tells RT Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/645901-icc-real-justice-expert/",
-    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aabbb762030277a4f75b069.jpg",
-    "publishedAt": "2026-09-17T15:38:44Z",
-    "author": "RT"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Abhishek Sharma pulls off yoga celebration after smashing fastest T20I century by Indian - WATCH",
-    "description": "Abhishek Sharma smashed the fastest T20I century by an Indian batter, reaching the milestone in just 30 balls during the third and final T20I at the Arun Jaitley Stadium. Abhishek smashed 11 sixes and nine fours during his 108-run whirlwind knock off just 34 …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-pulls-off-yoga-celebration-after-smashing-fastest-t20i-century-by-indian-watch/articleshow/134315875.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134315920,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-17T15:19:02Z",
-    "author": "Amit Kumar"
+    "url": "https://www.bbc.com/sport/cricket/articles/cqvgyk6x2d48o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d417dd613543216a3bc5a2da5ec64eee7b256e3e90a8ad6fadfb68ced04c10e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F064437925a3c15ed5293f52e208e7da1.jpg",
+    "publishedAt": "2026-09-17T17:20:54Z",
+    "author": "Matthew Henry - BBC Sport journalist"
   }
 ]
 ;
