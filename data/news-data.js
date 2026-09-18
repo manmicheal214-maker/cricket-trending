@@ -1,5 +1,221 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Asian Games 2026 full cricket schedule: When do Shreyas Iyer and Harmanpreet Kaur's teams play? Full fixtures, squads and timings",
+    "description": "Asian Games 2026 cricket schedule: ndia aims to defend its twin cricket gold medals at the 2026 Asian Games.  The women's tournament begins September 17, with India playing hosts Japan on September 18.  The men's competition starts September 28, with India fa…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-full-cricket-schedule-when-do-shreyas-iyer-and-harmanpreet-kaurs-teams-play-full-fixtures-squads-and-timings/articleshow/134304067.cms",
+    "image": "https://img.etimg.com/thumb/msid-134304226,width-1200,height-630,imgsize-1320817,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-17T06:58:04Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026 LIVE UPDATES: India's Teqball event to start soon; PAK vs THA cricket underway",
+    "description": "Asiad 2026 LIVE NEWS UPDATES: Gonsalves and Beg will begin their men's doubles campaign in teqball against Vietnam before facing South Korea in their second group-stage fixture later today",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-india-teqball-live-score-pakistan-vs-thailand-cricket-live-updates-on-september-17-126091700364_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789625399-6893.jpg",
+    "publishedAt": "2026-09-17T06:43:21Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan cricket crisis deepens as Mohammad Rizwan moves Lahore High Court against cyber crime agency summons",
+    "description": "Pakistan batter Mohammad Rizwan has moved the Lahore High Court against summons issued by the National Cyber Crime Investigation Agency (NCCIA). Rizwan, questioned after Pakistan’s Test series loss in England, has challenged the investigation and the agency’s…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-crisis-deepens-as-mohammad-rizwan-moves-lahore-high-court-against-cyber-crime-agency-summons/articleshow/134303567.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134303687,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T06:35:41Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From torrential rain to typhoon threat: Asian Games face turbulent start in Aichi-Nagoya",
+    "description": "The Asian Games in Aichi-Nagoya are at risk of disruption due to an impending tropical storm. Organisers are on high alert, as ongoing heavy rain has already led to the suspension and rescheduling of numerous events. In an unfortunate turn for China's cricket…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/from-torrential-rain-to-typhoon-threat-asian-games-face-turbulent-start-in-aichi-nagoya/articleshow/134303641.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134303780,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T06:35:04Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Don’t rush them in’: Sunil Gavaskar sends warning to BCCI over two promising India all-rounders",
+    "description": "Sunil Gavaskar has urged the BCCI to be patient with two promising India all-rounders, warning against rushing them into international cricket.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sunil-gavaskar-sends-warning-bcci-two-promising-india-all-rounders/b1ba3e28a9214df1086601ac",
+    "image": "https://s.yimg.com/lo/mysterio/api/0d34da8dfa2a2395df54a8d1b1536c9828ae99509682489f7a4be5b4bd13f82b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc1e0a8a995d9bc196e805e09e978c048",
+    "publishedAt": "2026-09-17T06:20:30Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Nico Collins Claps Back at Houston Texans Fan After Bad News",
+    "description": "Houston Texans wide receiver and two-time Pro Bowler Nico Collins did not take to kindly to pointed comments and made himself quite clear. The post Nico Collins Claps Back at Houston Texans Fan After Bad News appeared first on HEAVY.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1207eac8-2053-409a-b99c-d037f4fcfc59",
+    "image": null,
+    "publishedAt": "2026-09-17T06:08:02Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asiad 2026 women's cricket: Why China bowed out without taking to the field",
+    "description": "China's quarter-final against Bangladesh was washed out, with rankings deciding who progressed, as India prepare to face hosts Japan in their opening match on September 18",
+    "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-women-s-cricket-why-china-bowed-out-without-taking-to-the-field-126091700343_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789624820-1169.jpg",
+    "publishedAt": "2026-09-17T06:00:41Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "How China’s Asian Games cricket campaign ended without a ball being bowled",
+    "description": "China's cricket journey in the Asian Games came to an unforeseen halt, as their quarter-final clash with Bangladesh was called off due to a soaked outfield. Consequently, Bangladesh moved forward to the semi-finals, taking advantage of their superior internat…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-chinas-asian-games-cricket-campaign-ended-without-a-ball-being-bowled-as-bangladesh-advanced-to-the-semis/articleshow/134302783.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134302868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T05:50:07Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "How China’s Asian Games cricket campaign ended without a ball being bowled",
+    "description": "China's cricket journey in the Asian Games came to an unforeseen halt, as their quarter-final clash with Bangladesh was called off due to a soaked outfield. Consequently, Bangladesh moved forward to the semi-finals, taking advantage of their superior internat…",
+    "url": "https://timesofindia.indiatimes.com/how-chinas-asian-games-cricket-campaign-ended-without-a-ball-being-bowled-as-bangladesh-advanced-to-the-semis/articleshow/134302783.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134302868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T05:50:07Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ravindra Jadeja recalled for ODIs vs West Indies; Jasprit Bumrah rested for T20I series",
+    "description": "Ravindra Jadeja makes a strong comeback to India's ODI squad for the upcoming West Indies series, while Hardik Pandya is sidelined due to fitness concerns, focusing on his recovery. Notably, Dhruv Jurel has been picked as the second wicket-keeper, taking prec…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/ravindra-jadeja-recalled-for-odis-vs-west-indies-jasprit-bumrah-rested-for-t20i-series/articleshow/134302134.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134302267,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T05:07:25Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal to play against Bangladesh in first-ever T20 Int’l Series",
+    "description": "KATHMANDU: Nepal’s national men’s cricket team will play a T20 international series against Bangladesh for the first time, with all three matches scheduled to be played on home soil. According to the Cricket Association of Nepal (CAN), Nepal and Bangladesh wi…",
+    "url": "https://english.khabarhub.com/2026/17/568106/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Cricket-Nepal.jpg",
+    "publishedAt": "2026-09-17T05:00:54Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Not a robot, but used to tough calls’: Samson on Sooryavanshi competition, relentless scrutiny and the fight for his place in XI",
+    "description": "Sanju Samson addressed the difficulty of achieving consistency in the T20 format. He explained that a fearless mindset is crucial for maintaining focus and performance. Samson acknowledged that team management faces tough decisions regarding player selection.…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/not-a-robot-but-used-to-tough-calls-samson-on-sooryavanshi-competition-relentless-scrutiny-and-the-fight-for-his-place-in-xi/articleshow/134301937.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134302007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T04:55:06Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "RT",
+    "title": "Turkish sailors sue Ukraine over deadly drone attack",
+    "description": "Turkish sailors have filed an ICC complaint against Ukraine over a drone attack on their cargo ship that killed a crew member Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/645885-turkiye-sues-ukraine-ship/",
+    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aab700d85f54048402af8bf.jpg",
+    "publishedAt": "2026-09-17T04:45:45Z",
+    "author": "RT"
+  },
+  {
+    "source": "CIProud.com",
+    "title": "Local sports recap for Sept. 16, 2026",
+    "description": "PEORIA, Ill. (WMBD/WYZZ) — Eureka’s Jessi Rokey had 17 kills to lead Illinois Central College to a four-set win over Lewis & Clark on Wednesday night. ICC dropped the first set but rallied to win 22-25, 25-20, 25-22, 25-16. Tremont’s Whitney Rumbold added 11 …",
+    "url": "https://www.centralillinoisproud.com/sports/local-sports/local-sports-recap-for-sept-16-2026/",
+    "image": "https://s.yimg.com/lo/mysterio/api/d65ceac66227f978d6c957f44e15a55cd24619c14c604a07acb1f77c060edbcc/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwmbd_peoria_articles_757%2Fd3159a1bd1b4ee9864b926ddda16125d.jpg",
+    "publishedAt": "2026-09-17T04:45:37Z",
+    "author": "Kurt Pegler"
+  },
+  {
+    "source": "Business Standard",
+    "title": "WPL 2027 to begin January 14; final scheduled for February 7, confirms BCCI",
+    "description": "The fifth edition of the Women's Premier League will be played from January 14 to February 7, 2027 while its auction will be held on October 28 this year in Kochi, the BCCI announced on Wednesday.\nThe BCCI however did not disclose the host cities for the WPL.…",
+    "url": "https://www.business-standard.com/cricket/news/wpl-2027-to-begin-january-14-final-scheduled-for-february-7-confirms-bcci-126091600865_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/02/thumb/fitandfill/1200X628/1777723957-6579.jpg",
+    "publishedAt": "2026-09-17T04:36:58Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After Asia Cup trophy snub, Kapil Dev dodges Mohsin Naqvi bullet with a witty one-liner",
+    "description": "India’s women’s cricket team won a record eighth Asia Cup title after beating Sri Lanka by 72 runs in Dubai. However, the celebrations were overshadowed by their decision not to receive the trophy from ACC chief Mohsin Naqvi. BCCI secretary Devajit Saikia sai…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-asia-cup-trophy-snub-kapil-dev-dodges-mohsin-naqvi-bullet-with-a-witty-one-liner/articleshow/134301077.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134301506,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T04:16:55Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "New Orleans Saints Get Positive News Regarding 5x Pro Bowler Ahead of Week 2",
+    "description": "The New Orleans Saints are looking for ways to be competitive this season, and it appeared like they made the additions to do so. Week 1 saw the team lose in overtime on the road against the Detroit Lions 31-30, but the team looked a lot better than many were…",
+    "url": "https://sports.yahoo.com/articles/orleans-saints-positive-news-regarding-040642187.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/d1d5d17aa132f970b9fa7380afbfb60ca1fdf6fc98ad5461b68e8d7c601b4008/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fad3db920d51d5fc6b111661aa3b1d775.jpg",
+    "publishedAt": "2026-09-17T04:06:42Z",
+    "author": "Vincent Pensabene"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet Kaur will rediscover batting form at Asian Games: Anjum Chopra",
+    "description": "Anjum Chopra has voiced her strong support for Harmanpreet Kaur to retain her captaincy of the Indian women's cricket team. Despite some recent challenges at the crease, Chopra advocates for Harmanpreet as the ideal leader. She anticipates that the seasoned b…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/harmanpreet-kaur-will-rediscover-batting-form-at-asian-games-anjum-chopra/articleshow/134301000.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134301047,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T03:48:54Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet Kaur will rediscover batting form at Asian Games: Anjum Chopra",
+    "description": "Anjum Chopra has voiced her strong support for Harmanpreet Kaur to retain her captaincy of the Indian women's cricket team. Despite some recent challenges at the crease, Chopra advocates for Harmanpreet as the ideal leader. She anticipates that the seasoned b…",
+    "url": "https://timesofindia.indiatimes.com/harmanpreet-kaur-will-rediscover-batting-form-at-asian-games-anjum-chopra/articleshow/134301000.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134301047,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-17T03:46:40Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India announces West Indies ODI squad: Who’s in, who’s out as Rohit, Kohli return",
+    "description": "India's ODI squad for the West Indies series features Rohit Sharma, Virat Kohli and Yashasvi Jaiswal, with Shubman Gill retaining the captaincy. Hardik Pandya and Rishabh Pant are absent, while Auqib Nabi and Naman Dhir receive maiden call-ups. Shreyas Iyer w…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-announces-west-indies-odi-squad-whos-in-whos-out-as-rohit-kohli-return/articleshow/134298245.cms",
+    "image": "https://img.etimg.com/thumb/msid-134299649,width-1200,height-630,imgsize-108130,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-17T02:12:59Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "RT",
+    "title": "Western powers use ICC to keep their former colonies ‘in line’ – ex-Duterte spokesman",
+    "description": "The indictment of former Philippines President Rodrigo Duterte is another example of Western powers using the ICC to control their former colonies, Harry Roque has told RT",
+    "url": "https://www.rt.com/news/645881-west-icc-control-former-colonies/",
+    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aab05f285f5407f770a8626.png",
+    "publishedAt": "2026-09-17T02:05:16Z",
+    "author": "RT"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Texans Facing New Injury Concern With Pro Bowler Nico Collins",
+    "description": "The Houston Texans got back on the practice field for Week 2, but they face a new injury concern with Nico Collins. The post Texans Facing New Injury Concern With Pro Bowler Nico Collins appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/houston-texans/ryans-new-injury-concern-collins-bengals/",
+    "image": "https://s.yimg.com/lo/mysterio/api/0c8a8d71ae740aae8e3aa494c911d99bd3abbc05f3eef7faacdebf78082e8812/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F7c42df934df5fa2a7bc8acf2012a0712.jpg",
+    "publishedAt": "2026-09-17T01:35:11Z",
+    "author": "Josh Buckhalter"
+  },
+  {
+    "source": "Ozbargain.com.au",
+    "title": "Cricnix Cricket Batting Starter Kit (Grip Cone, Mallet, 3 Grips, 3 Pairs of Socks, Abdo Guard) $44.99 + $10 Delivery ($0 NSW C&C",
+    "description": "Hi fellow OzBargainers, Following the fantastic support on our last post for the Cricnix Sports Socks, we’re back with another exclusive deal for the community! In anticipation of a blockbuster …",
+    "url": "https://www.ozbargain.com.au/node/975368",
+    "image": "https://files.ozbargain.com.au/n/68/975368l.jpg?h=f35bde9f",
+    "publishedAt": "2026-09-17T01:32:32Z",
+    "author": "CricNix"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Newly minted Bluey Dollarbuck features beloved backyard cricketer",
+    "description": "There will be 200,000 new Bluey coins but they will not be spotted circulating as cash.",
+    "url": "https://www.abc.net.au/news/2026-09-17/mint-new-bluey-collector-cricket-coin/107162394",
+    "image": "https://live-production.wcms.abc-cdn.net.au/5dcd9b3e30cf176a9764a341b5c6a6ea?impolicy=wcms_watermark_news&cropH=824&cropW=1465&xPos=0&yPos=2&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-17T01:17:07Z",
+    "author": "Tahlia Roy"
+  },
+  {
     "source": "CNET",
     "title": "Cricket Wireless Adds 5G Home Internet Service",
     "description": "Cricket joins the club of mobile providers bundling home internet with mobile phone service.",
@@ -25,51 +241,6 @@ window.cricketNews = [
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-o4yphii20-1789591151389.jpg?quality=75&strip=all&1789576775&w=1200",
     "publishedAt": "2026-09-16T21:24:57Z",
     "author": "Dylan Svoboda"
-  },
-  {
-    "source": "RT",
-    "title": "ICC used as ‘tool’ to target Global South – political commentator",
-    "description": "The ICC targets Western “opponents” in the Global South, political commentator Khonya Mathonsi has told RT Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/645865-icc-western-tool-global-south/",
-    "image": "https://mf.b37mrtl.ru/files/2026.09/article/6aaad81e85f5402d0b48501a.jpg",
-    "publishedAt": "2026-09-16T19:41:36Z",
-    "author": "RT"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Has this been England Cricket's most chaotic summer ever? | The Telegraph Cricket podcast",
-    "description": "Nick Hoult reflects on a chaotic summer for English cricket and where it leaves them heading into the winter Check out the full ...",
-    "url": "https://biztoc.com/x/a69835ffdfa4e56b",
-    "image": "https://biztoc.com/cdn/a69835ffdfa4e56b_s.webp",
-    "publishedAt": "2026-09-16T19:34:28Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'A star-studded series': Fans welcome Ruturaj Gaikwad's selection in the Indian team for the West Indies ODI series",
-    "description": "With Ruturaj Gaikwad finally getting named for the upcoming ODI series against West Indies, fans are all stoked to see the CSK sorry in action.",
-    "url": "https://www.cricketnews.com/en/cricket/news/fans-welcome-ruturaj-gaikwads-selection-indian-team-west-indies-odi/a260d2fb9184f745f329421d",
-    "image": "https://s.yimg.com/lo/mysterio/api/fd8b4543cfda5b083e91a60f3d9d8f064112a535b2a5776f565ad84128c9eee5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc2056ad267602e8a4695a22988c4eb0a",
-    "publishedAt": "2026-09-16T18:23:58Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Dhurv Jurel picked over Rishabh Pant in West Indies ODI series: Pant's 2027 World Cup hopes hits major roadblock",
-    "description": "With Dhruv Jurel getting selected over Rishabh Pant in the upcoming tour of West Indies, is this a sign that the wicketkeeper's World Cup dream is over?",
-    "url": "https://www.cricketnews.com/en/cricket/news/rishabh-pant-west-indies-odi-series-2027-world-cup-hopes-roadblock/bf580f0793e98162b1e2bde4",
-    "image": "https://s.yimg.com/lo/mysterio/api/2340f033d3c1cf1952b3d29470f4d3a125d09fbeccf7ca0803a5329c85f3dadc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fae1aa62beea1e3d44c684cef42bee6f8",
-    "publishedAt": "2026-09-16T17:56:28Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After England setback, Babar Azam set for first domestic first-class game in seven years",
-    "description": "In a significant move, Pakistan's cricket captain Babar Azam is set to return to domestic first-class cricket, representing OGDCL in the upcoming President's Trophy. His participation comes on the heels of Pakistan's recent Test series defeat in England. Alon…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-england-setback-babar-azam-set-for-first-domestic-first-class-game-in-seven-years/articleshow/134291362.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134291553,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-16T17:37:52Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
