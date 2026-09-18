@@ -1,5 +1,77 @@
 [
   {
+    "source": "BBC News",
+    "title": "T20 Cricket",
+    "description": "Highlights of the second game of the T20 series between England and Sri Lanka.",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m0031n7n/t20-cricket-2026-england-v-sri-lanka-second-t20-highlights?at_campaign=rss&at_medium=RSS",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0p9vkx1.jpg",
+    "publishedAt": "2026-09-17T22:36:05Z",
+    "author": null
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Beach Warning Issued in Wisconsin, Illinois as 5M Told Do Not Swim",
+    "description": "The National Weather Service (NWS) has issued beach hazard statements across Wisconsin and Illinois, warning more than 5 million people not to enter Lake Michigan as life-threatening waves and dangerous rip currents batter the lakeshore.\nThe warnings come as …",
+    "url": "https://biztoc.com/x/be2da0372ae42faa",
+    "image": "https://biztoc.com/cdn/be2da0372ae42faa_s.webp",
+    "publishedAt": "2026-09-17T22:10:44Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "BBC News",
+    "title": "Test Match Special Podcast",
+    "description": "Reaction to England’s series win over Sri Lanka with T20 World Cup winner Dawid Malan.",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pb68mn?at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pb68nm.jpg",
+    "publishedAt": "2026-09-17T21:22:00Z",
+    "author": null
+  },
+  {
+    "source": "Vanguard",
+    "title": "Tinubu hails Nigeria’s victory over Sunrise’s $2.35bn Mambilla claim",
+    "description": "President Bola Tinubu has commended the judgment of the International Chamber of Commerce (ICC) arbitration tribunal in Paris, framing it as a rebuke to “predatory and exploitative claims by corrupt local and international entities and their enablers and fund…",
+    "url": "https://www.vanguardngr.com/2026/09/tinubu-hails-nigerias-victory-over-sunrises-2-35bn-mambilla-claim/",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Bola-Ahmed-Tinubu.jpg",
+    "publishedAt": "2026-09-17T21:20:12Z",
+    "author": "Henry Oduah"
+  },
+  {
+    "source": "Vanguard",
+    "title": "Mambilla project: Nigeria wins $2.35bn arbitration battle against Sunrise Power",
+    "description": "Nigeria has won an arbitration dispute against Sunrise Power over the Mambilla hydropower project, with an International Chamber of Commerce (ICC) tribunal in Paris dismissing the company’s $2.35 billion claim against the country.\nThe post Mambilla project: N…",
+    "url": "https://www.vanguardngr.com/2026/09/mambilla-project-nigeria-wins-2-35bn-arbitration-battle-against-sunrise-power/",
+    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2021/04/d5f2e944-power.jpg",
+    "publishedAt": "2026-09-17T21:08:14Z",
+    "author": "Henry Oduah"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Jos Buttler breaks new ground as England romp to another T20 victory over Sri Lanka - Harry Brook's side are more than happy to exploit their tourists' lack of confidence, writes LAWRENCE BOOTH",
+    "description": "LAWRENCE BOOTH AT SOFIA GARDENS: Thanks to a 24-ball half-century from Tom Banton, England raced to a six-wicket thrashing of struggling Sri Lanka with nearly eight overs to spare.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16140081/Jos-Buttler-England-T20-victory-Sri-Lanka.html",
+    "image": "https://i.dailymail.com/1s/2026/09/17/21/111318161-0-image-m-71_1789678666024.jpg",
+    "publishedAt": "2026-09-17T21:00:24Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "BBC News",
+    "title": "England beat Sri Lanka by six wickets to take T20 series win",
+    "description": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de5e/live/367c9e20-b2d9-11f1-a430-4d16ee157c41.jpg",
+    "publishedAt": "2026-09-17T20:59:49Z",
+    "author": null
+  },
+  {
+    "source": "The Punch",
+    "title": "Mambilla project: Nigeria wins arbitration case at ICC as Tinubu hails Buhari, Obasanjo",
+    "description": "The International Chamber of Commerce tribunal in Paris has ruled in favour of Nigeria in the arbitration brought by Sunrise Power and Transmission Company Limited over the Mambilla Hydroelectric Power Project in Taraba State. President Bola Tinubu, in a stat…",
+    "url": "https://punchng.com/mambilla-project-nigeria-wins-arbitration-case-at-icc-as-tinubu-hails-buhari-obasanjo/",
+    "image": "https://cdn.punchng.com/2026/08/Tinubu-1_1786819717.webp",
+    "publishedAt": "2026-09-17T20:50:08Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "CNA",
     "title": "England beat Sri Lanka by six wickets to secure T20 series 2-0",
     "description": "CARDIFF, Sept 17 : Jos Buttler became the first player to score 15,000 career T20 runs and Liam Dawson took a three-wicket haul as a dominant England beat Sri Lanka by six wickets in Cardiff on Thursday to secure the series 2-0.The hosts won Tuesday's first T…",
