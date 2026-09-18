@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "CNET",
+    "title": "Cricket Wireless Adds 5G Home Internet Service",
+    "description": "Cricket joins the club of mobile providers bundling home internet with mobile phone service.",
+    "url": "https://www.cnet.com/home/internet/cricket-wireless-adds-5g-home-internet-service-2/",
+    "image": "https://www.cnet.com/wp-content/uploads/sites/2/29fb2176-fcd2-4503-8bac-33e5c5cfd825.jpg",
+    "publishedAt": "2026-09-16T23:39:46Z",
+    "author": "Jeff Carlson"
+  },
+  {
     "source": "New York Post",
     "title": "Joe Burrow shuts down ‘ridiculous’ Bengals injury concern after being limited at practice",
     "description": "The three-time Pro Bowler took several hard hits during a physical win.",
