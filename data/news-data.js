@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Mohammad Rizwan approaches ICC Anti-Corruption Unit over mobile phone seizure by Pakistan's cyber crime agency",
+    "description": "Mohammad Rizwan has reached out to the ICC Anti-Corruption Unit seeking clarification on his situation after his mobile phone was confiscated by Pakistan's cyber crime agency. Despite his efforts, the Lahore High Court dismissed his petition contesting the ag…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-approaches-icc-anti-corruption-unit-over-mobile-phone-seizure-by-pakistans-cyber-crime-agency/articleshow/134325319.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134325422,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T04:17:02Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Japan Women's Asian Games quarter-final cricket live score, winning probability, result and highlights from Nisshin",
+    "description": "India vs Japan Women Asian Games 2026 quarter-final cricket live score, toss winner, winning probability, updates, match result & Nisshin highlights.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-japan-women-asian-games-scorecard-result-highlights-nisshin/dcb972a05ddb078b811203a2",
+    "image": "https://s.yimg.com/lo/mysterio/api/a6615a1db5b1bb70f0fbab85a2bec6f452fec80b889c17afe424c4c028f318f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F62d7c0294718f62c14d20eea2de9e54d",
+    "publishedAt": "2026-09-18T04:15:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "For women’s cricket, Asiad a ‘teaser’ before 2028 LA Olympics opportunity",
+    "description": "India’s women’s cricket team begins its Asian Games title defence against Japan, but coach Amol Muzumdar and captain Harmanpreet Kaur see the tournament as preparation for cricket’s return to the Olympics at Los Angeles 2028. China’s quarterfinal against Bang…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/for-womens-cricket-asiad-a-teaser-before-2028-la-olympics-opportunity/articleshow/134325392.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134325514,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T04:05:15Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Hardik cannot bowl 10 overs’: Coach Gambhir explains Nitish Kumar Reddy’s ODI selection",
+    "description": "Cricket News: NEW DELHI: In the last few series across formats, India have rarely finished with the same personnel they started with. Injuries, breakdowns and avail.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/afghanistan-tour-of-india/hardik-cannot-bowl-10-overs-coach-gambhir-explains-nitish-kumar-reddys-odi-selection/articleshow/134325277.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134325350,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T03:56:52Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026 LIVE UPDATES: India's women's cricket team in action at 10:30 am IST",
+    "description": "Asiad 2026 LIVE NEWS UPDATES: Harmanpreet Kaur-led India's women's cricket team will kick-off thier gold medal defence with the quarterfinal match vs Japan at 10:30 AM IST",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-teqball-timing-india-vs-japan-cricket-score-ind-vs-jpn-highlights-key-updates-126091700910_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789644671-6245.jpg",
+    "publishedAt": "2026-09-18T03:56:01Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC eyes China in bid to expand cricket",
+    "description": "The International Cricket Council is targeting China for significant fan growth.  China's large population offers a huge potential audience for the sport.  The progress of their women's team has boosted cricket's presence there.  Indonesia is also identified …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/icc-eyes-china-in-bid-to-expand-cricket/articleshow/134325294.cms",
+    "image": "https://img.etimg.com/thumb/msid-134325352,width-1200,height-630,imgsize-124596,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-18T03:55:17Z",
+    "author": "AFP"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "World Cup winning White Ferns coach Ben Sawyer leaves role after four years",
+    "description": "He led New Zealand to the 2024 Women's T20 World Cup title.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/white-ferns/world-cup-winning-white-ferns-coach-ben-sawyer-leaves-role-after-four-years/AIQEVPRR7BH3NGV2C6QIUL4L5E/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/7UB6OTUBHVBR5NXHY2A3CZPW3U.jpg?auth=669c311412a76d294fe5859045642b12f87315f49361e52417d70b1ec931705d&width=1200&height=675&quality=70&focal=1073%2C533&smart=false",
+    "publishedAt": "2026-09-18T03:16:46Z",
+    "author": "Samuel Sherry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Will Asia Cup scenarios repeat at Asian Games?",
+    "description": "Cricket News: India are the reigning Asia Cup champions in both men’s and women’s cricket. But the teams are yet to receive either the trophies or their medals, owi.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/will-asia-cup-scenarios-repeat-at-asian-games/articleshow/134324336.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134324409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T02:52:14Z",
+    "author": "Sabi Hussain and Arani Basu"
+  },
+  {
+    "source": "Business Standard",
+    "title": "CCI clears Lakshmi Mittal family, Poonawalla's purchase of Rajasthan Royals",
+    "description": "Competition Commission has approved the acquisition of Rajasthan Royals (India) and two other professional cricket franchises by industrialist Lakshmi N. Mittal and his son Aditya Mittal, along with Adar Poonawalla.\nWestview Cricket Ltd and Poonawalla Sports …",
+    "url": "https://www.business-standard.com/companies/news/cci-clears-lakshmi-mittal-family-poonawalla-s-purchase-of-rajasthan-royals-126091800012_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/thumb/fitandfill/1200X628/1787710457-4705.JPG",
+    "publishedAt": "2026-09-18T02:31:40Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games Cricket Live: Defending champions India begin title defence vs Japan",
+    "description": "India vs Japan Live Score: India launch their Asian Games 2026 women's cricket title defence against hosts Japan in the quarterfinals today, just day",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/india-women-vs-japan-women-live-score-ind-w-vs-jap-w-asian-games-2026-womens-cricket-4th-quarter-final-result-scorecard/liveblog/134324165.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134324165,width-1280,height-720,imgsize-183573,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T02:30:26Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL media rights: Industry seeks best price-discovery models",
+    "description": "Cricket News: Last week, the ICC sounded the media-rights bugle by appointing a five-member working group. The group’s top priority in the coming months will be to .",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-media-rights-industry-seeks-best-price-discovery-models/articleshow/134324006.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134324042,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T02:21:11Z",
+    "author": "K Shriniwas Rao"
+  },
+  {
+    "source": "Antaranews.com",
+    "title": "Former Colombian President Iván Duque Appointed to Advance ICC and Carbon Measures' Global Product-Level Carbon Accounting Initiative",
+    "description": "-The International Chamber of Commerce (ICC) and Carbon Measures today announced that Iv&aacute;n Duque M&aacute;rquez, former President of Colombia, has been ...",
+    "url": "https://en.antaranews.com/news/431811/former-colombian-president-ivn-duque-appointed-to-advance-icc-and-carbon-measures-global-product-level-carbon-accounting-initiative",
+    "image": "https://cdn.antaranews.com/cache/1200x800/2026/09/18/WhatsApp-Image-2026-09-18-at-08.23.25.jpg",
+    "publishedAt": "2026-09-18T02:12:37Z",
+    "author": "PR Wire"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026 September 18: Schedule, live event time (IST), streaming",
+    "description": "India's women's cricket team will begin its gold medal defence at Asian Games 2026 with the quarter-final match against hosts Japan at 10:30 am IST",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-september-18-schedule-live-event-time-ist-streaming-126091700626_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789636057-805.jpg",
+    "publishedAt": "2026-09-18T01:48:35Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games Live: India’s women’s cricket title defence begins against Japan",
+    "description": "Asian Games 2026 Live Updates: Second day of India's Asian Games 2026 campaign in Aichi-Nagoya today, with athletes competing in women’s cricket, teq",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-live-updates-india-medals-athletics-cricket-soft-tennis-teqball-results-scores-20th-asian-games-japan-latest-news/liveblog/134323617.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134323617,width-1280,height-720,imgsize-171228,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T01:15:23Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Diplomat",
+    "title": "Former Philippine President Duterte Makes First In-person Appearance at ICC",
+    "description": "The physical state of the 81-year-old raised questions about his fitness to participate in what is likely to be a protracted trial.",
+    "url": "https://thediplomat.com/2026/09/former-philippine-president-duterte-makes-first-in-person-appearance-at-icc/",
+    "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-18-100257.jpg",
+    "publishedAt": "2026-09-18T00:56:00Z",
+    "author": "Sebastian Strangio"
+  },
+  {
     "source": "BBC News",
     "title": "T20 Cricket",
     "description": "Highlights of the second game of the T20 series between England and Sri Lanka.",
@@ -133,42 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/858fa625c89340f134a6e7b6bca3e672118a071ef42628bbe0630dc8230b5173/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6f3b3a1ed51e526a444ea38fab7eff23.jpg",
     "publishedAt": "2026-09-17T18:24:35Z",
     "author": "BBC"
-  },
-  {
-    "source": "Pypi.org",
-    "title": "labelzoom-sdk 1.1.0",
-    "description": "Official Python SDK for the LabelZoom API. Converts barcode labels between ZPL, EPL, IPL, TSPL, DPL, SBPL, PDF, LabelZoom XML/JSON and raster images.",
-    "url": "https://pypi.org/project/labelzoom-sdk/1.1.0/",
-    "image": null,
-    "publishedAt": "2026-09-17T18:12:26Z",
-    "author": "support@labelzoom.com"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Abhishek Sharma hits record T20 ton as India beat Afghanistan by 127 runs",
-    "description": "India opener Abhishek Sharma hits nine fours and 11 sixes in total of 221-7 as India seal 3-0 T20 series sweep.",
-    "url": "https://www.aljazeera.com/sports/2026/9/17/abhishek-sharmas-30-ball-ton-leads-india-to-127-run-win-over-afghanistan",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260917__C8LL42J__v2__MidRes__CricketIndAfgT20-1789660202.jpg?resize=1200%2C630",
-    "publishedAt": "2026-09-17T18:03:50Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Abhishek Sharma's record 30-ball century powers India to 3-0 T20I series sweep",
-    "description": "Abhishek Sharma's returns in international cricket haven't been the best since the T20I World Cup in March. The runs have come at a premium for him. He wasn't going to let this opportunity re-establish himself as India's undisputed first-choice opener in T20I…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharmas-record-30-ball-century-powers-india-to-3-0-t20i-series-sweep-vs-afghanistan/articleshow/134318394.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134318549,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-17T17:42:15Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "BBC News",
-    "title": "Abhishek hits fastest century in full-member T20s",
-    "description": "Abhishek Sharma hits a 30-ball century - the fastest in a T20 international between two full-member nations - in India's third T20 against Afghanistan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cqvgyk6x2d48o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/d417dd613543216a3bc5a2da5ec64eee7b256e3e90a8ad6fadfb68ced04c10e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F064437925a3c15ed5293f52e208e7da1.jpg",
-    "publishedAt": "2026-09-17T17:20:54Z",
-    "author": "Matthew Henry - BBC Sport journalist"
   }
 ]
 ;
