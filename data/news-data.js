@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Minnesota Vikings: Reveal Fate of 2x-Pro Bowler for Sunday’s Contest",
+    "description": "The (1-0) Minnesota Vikings play the (1-0) Chicago Bears on the road at Soldier Field in Week 2 of the regular season. One injury to monitor is Kyler Murray, who suffered a concussion during the first quarter against the Green Bay Packers and was replaced by …",
+    "url": "https://sports.yahoo.com/articles/minnesota-vikings-reveal-fate-2x-201954149.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/f3bf7d331c3e09033ea581cb8363b83134b50fe093901b800db80afd8dd3a62e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fdc624ff0ef14984896f62179d7833e71.jpg",
+    "publishedAt": "2026-09-18T20:19:54Z",
+    "author": "Jackson Loschko"
+  },
+  {
+    "source": "PEOPLE",
+    "title": "Rams Coach Sean McVay Says He Doesn’t Want to Play in Australia ‘Ever Again’ After Ugly Season-Opening Loss",
+    "description": "The Los Angles Rams lost 27-7 to the San Francisco 49ers at the Melbourne Cricket Ground less around 24-hours after the team landed",
+    "url": "https://people.com/rams-coach-sean-mcvay-never-wants-play-in-australia-again-after-season-opening-loss-12127936",
+    "image": "https://s.yimg.com/lo/mysterio/api/5f9e23811e9f8a31e55bf4a5a831242451229bef86b90672adeb03b7c7e9c445/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbb1991ae18e58be7d1c5b1c8ce7e7866.jpg",
+    "publishedAt": "2026-09-18T20:13:56Z",
+    "author": "Skyler Caruso"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+    "description": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.",
+    "url": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad88eb-1789757675.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-18T19:12:58Z",
+    "author": null
+  },
+  {
+    "source": "Premium Times",
+    "title": "$500,000 payment to Atiku’s ex-wife raises ‘significant red flags’ in Mambilla dispute - ICC tribunal",
+    "description": "“I confirm that I made a transfer of $500,000 to the Abubakars through my company China Castle Investments Ltd in early 2003,” Mr Adesanya said in his fourth witness statement, according to the tribunal award.",
+    "url": "https://www.premiumtimesng.com/news/top-news/910627-500000-payment-to-atikus-ex-wife-raises-significant-red-flags-in-mambilla-dispute-icc-tribunal.html",
+    "image": "https://media.premiumtimesng.com/wp-content/files/2026/04/Screenshot_17-4-2026_5255_x.com_.jpeg",
+    "publishedAt": "2026-09-18T18:36:51Z",
+    "author": "Omotoyosi Idowu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Lolge Interschool Cricket Tournament in Sambhajinagar to start from Saturday",
+    "description": "Lolge Interschool Cricket Tournament-2026 starts Saturday in Chhatrapati Sambhajinagar; 20 schools play till Sept 27 at ADCA and Devgiri grounds.",
+    "url": "https://timesofindia.indiatimes.com/city/aurangabad/lolge-interschool-cricket-tournament-in-sambhajinagar-to-start-from-saturday/articleshow/134342097.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134342095,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T18:10:53Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Rashid Khan reveals what is out of his 'control’ as Afghanistan women’s cricket team remains in limbo despite men's success",
+    "description": "Since the Taliban takeover of Afghanistan, the women's cricket team has remained in limbo, but Rashid Khan finally opens up on the issue to reveal that some things are out of anyone's control.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rashid-khan-reveals-afghanistan-womens-cricket-team-limbo/b28cf7a9d4f7590c63d0d808",
+    "image": "https://s.yimg.com/lo/mysterio/api/41918695a22664ade48a28a3dcc04670f35d9375079f3a7094a10260028132fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8cb4295c7da708d3bbe81083bdca8813",
+    "publishedAt": "2026-09-18T18:04:49Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "BCCI secretary Devajit Saikia sets the record straight on how much the Indian cricket board pays in taxes",
+    "description": "With the amount of revenue that BCCI generates, many have wondered how much the board pays in taxes and secretary Devajit Salkia has now revealed a number.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bcci-devajit-saikia-record-how-much-indian-cricket-board-pays-taxes/b9d0fc128047a17a0efdf5b4",
+    "image": "https://s.yimg.com/lo/mysterio/api/a064f2600e1c0336c98bc54054a9a091043943f2defcdd4eea8075f81f0e8532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe6aab28279690e394706814387968d06",
+    "publishedAt": "2026-09-18T18:00:42Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Carse assault investigation dropped by police",
+    "description": "England fast bowler Brydon Carse will face no further police action after an investigation into an alleged assault in Derby last month is dropped.",
+    "url": "https://www.bbc.com/sport/cricket/articles/crwyz98z3406o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/473a7c0c625ac1a07cb1fb0ed128bab9297a8b76d4387d61917a762ea8c65ef4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbc1f119e8a294e2db6a8f2b3a1c04371.jpg",
+    "publishedAt": "2026-09-18T17:50:48Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "Carse assault investigation dropped by police",
+    "description": "England fast bowler Brydon Carse will face no further police action after an investigation into an alleged assault in Derby last month is dropped.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/crwyz98z3406o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9ce/live/96bca970-b378-11f1-b1d1-571ed4d7ff2c.jpg",
+    "publishedAt": "2026-09-18T17:50:43Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL star Abishek Porel gets bail in rape case after arrest over medical student’s complaint",
+    "description": "IPL cricketer Abishek Porel has been granted bail by a Chinsurah court. He spent over a month in jail following his arrest on August 11. A medical student had filed a complaint alleging assault and criminal intimidation. The court had previously denied his ba…",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/ipl-star-abishek-porel-gets-bail-in-rape-case-after-arrest-over-medical-students-complaint/articleshow/134340571.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134340778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T17:42:34Z",
+    "author": "Siddhi Dharmadhikari"
+  },
+  {
     "source": "Premium Times",
     "title": "Mambilla: How Malami attempted to deceive Buhari, struck corrupt deals with Adesanya – ICC Tribunal",
     "description": "The Tribunal noted that Mr Malami failed to appear before it to give evidence, adding that he acted against Nigeria’s interest and was “motivated by other incentive(s)”.",
@@ -25,96 +115,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/09/18/16/111335501-0-image-a-26_1789746101718.jpg",
     "publishedAt": "2026-09-18T15:46:14Z",
     "author": "Lewis Browning"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games: BCCI books separate accommodation for men's cricket team, women stay in Games facilities",
-    "description": "Saikia insisted that the BCCI has faith in the local organisation committee to provide satisfactory on-ground facilities at the match venue despite reports of other Asian cricket boards raising objections about the quality of the ground",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134338536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T15:15:45Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Fifteen days is a long time': BCCI plays wait-and-watch on Ajit Agarkar's future",
-    "description": "Cricket News: The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia on Friday offered no clear answers on the future of men's selection committe.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fifteen-days-is-a-long-time-bcci-plays-wait-and-watch-on-ajit-agarkars-future/articleshow/134338343.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134338415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T15:04:44Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "BBC News",
-    "title": "Glamorgan seal signing of Smale from Lancashire",
-    "description": "Wicketkeeper/batter Seren Smale completes a move to Glamorgan following her departure from Lancashire.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6qxvdnn1521o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6191720e190521f0b98fbb20192554dd65533069e8f21fe855b143f7ff1e4dba/lightyear_networkapi/resizefill_w550_h309%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F94118203f7e3a8566d51f3d6116f7afc.jpg",
-    "publishedAt": "2026-09-18T14:36:33Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Punch",
-    "title": "Sunrise Power to review ICC arbitration on Mambilla project",
-    "description": "Sunrise Power says its legal battle with the FG over the Mambilla project is not over, stating its lawyers are reviewing the ICC arbitration decision.\n\nRead More: https://punchng.com/sunrise-power-to-review-icc-arbitration-on-mambilla-project/",
-    "url": "https://punchng.com/sunrise-power-to-review-icc-arbitration-on-mambilla-project/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2019/09/03062430/Mambilla-power-project-site.jpg",
-    "publishedAt": "2026-09-18T13:56:06Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "KKR coach tries to woo Rohit Sharma to Kolkata but veteran batter’s response wins MI hearts",
-    "description": "Rohit Sharma has remained the beating heart of the Mumbai Indians for the last 15 years, but a KKR coach recently tried to woo him for CSK's yellow army.",
-    "url": "https://www.cricketnews.com/en/cricket/news/kkr-coach-tries-woo-rohit-sharma-kolkata-batter-response-wins-mi-hearts/12967509fde7fb5aa2edea91",
-    "image": "https://s.yimg.com/lo/mysterio/api/4a899f7371cc6ea2a5673ea6386de6baa396e7f311204e0ae98aba6c61cc91a5/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ccf4ec78bb568dfe0fc32770ee016ea",
-    "publishedAt": "2026-09-18T13:25:56Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "BCCI AGM: IPL 2027 to get ‘grand’ 20th edition celebration as board begins preparations for BCCI’s 100th anniversary",
-    "description": "With IPL's 20th edition coming up, the BCCI is looking to celebrate its flagship tournament with the grand fanfare it deserves before its own 100th anniversary.",
-    "url": "https://www.cricketnews.com/en/cricket/news/bcci-agm-ipl-2027-grand-20th-edition-celebration/0afb3dc79fb974ca6b7345d3",
-    "image": "https://s.yimg.com/lo/mysterio/api/a064f2600e1c0336c98bc54054a9a091043943f2defcdd4eea8075f81f0e8532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe6aab28279690e394706814387968d06",
-    "publishedAt": "2026-09-18T12:57:43Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "After getting just one international in 2026-27 season, MCA asks BCCI to allot more matches to Wankhede Stadium",
-    "description": "The MCA's request comes after Wankhede was allotted only one international match in India's 2026-27 home season. The stadium will host the third and final ODI between India and Zimbabwe on January 9 next year.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-getting-just-one-international-in-2026-27-season-mca-asks-bcci-to-allot-more-matches-to-wankhede-stadium/articleshow/134335549.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134336018,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T12:53:47Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "100 years of BCCI! Indian cricket board to form committee for grand year-long celebrations",
-    "description": "Cricket News: The Board of Control for Cricket in India (BCCI) will complete 100 years in 2028 and plans to form a committee to organise year-long celebrations. The.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/100-years-of-bcci-indian-cricket-board-to-form-committee-for-grand-year-long-celebrations/articleshow/134335751.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134335829,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T12:44:00Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "Vanguard",
-    "title": "Mambilla: We’ll review ICC judgment – Sunrise promoter Adesanya",
-    "description": "Sunrise Power and Transmission Company Limited promoter, Leno Adesanya, has said the legal battle over the long-delayed Mambilla Hydroelectric Power Project is not over, following the recent arbitration decision involving the Federal Government.\nThe post Mamb…",
-    "url": "https://www.vanguardngr.com/2026/09/mambilla-well-review-icc-judgment-sunrise-promoter-adesanya/",
-    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/02/adesanya.jpg",
-    "publishedAt": "2026-09-18T12:16:44Z",
-    "author": "Henry Oduah"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Anvay Dravid, Aaryavir Sehwag: How Rahul Dravid, Virender Sehwag’s sons performed in IND U19 vs AUS U19 1st unofficial ODI",
-    "description": "With Rahul Dravid and Virender Sehwag's sons now part of India U-19, here's a look at how Anvay Dravid and Aaryavir Sehwag performed against AUS U-19.",
-    "url": "https://www.cricketnews.com/en/cricket/news/anvay-dravid-aaryavir-sehwag-how-performed-ind-u19-vs-aus-u19-1st-odi/1e4ee9d0fefe9e059f09624e",
-    "image": "https://s.yimg.com/lo/mysterio/api/bd844619c0981cbe901b3cc78cc4bbd8e32522718879a02e0f1787045079d09f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F824531eea9c6f1c1d7e5f4d15876d9cd",
-    "publishedAt": "2026-09-18T11:52:16Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
