@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Punch",
+    "title": "EPL: Brentford batter Chelsea 3-0 to dent Alonso’s promising start",
+    "description": "Brentford defeated Chelsea 3-0 in the Premier League, with goals from Anthony, Thiago and Carvalho denting Xabi Alonso’s promising start as Blues manager.\n\nRead More: https://punchng.com/epl-brentford-batter-chelsea-3-0-to-dent-alonsos-promising-start/",
+    "url": "https://punchng.com/epl-brentford-batter-chelsea-3-0-to-dent-alonsos-promising-start/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/18222540/AFP__20260918__C8QR82D__v1__Mockup__FblEngPrBrentfordChelsea_1789766740-1200x630.webp",
+    "publishedAt": "2026-09-18T21:35:14Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Minnesota Vikings: Reveal Fate of 2x-Pro Bowler for Sunday’s Contest",
     "description": "The (1-0) Minnesota Vikings play the (1-0) Chicago Bears on the road at Soldier Field in Week 2 of the regular season. One injury to monitor is Kyler Murray, who suffered a concussion during the first quarter against the Green Bay Packers and was replaced by …",
@@ -106,15 +115,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134339521,width-1200,height-630,imgsize-99648,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-18T16:19:59Z",
     "author": "PTI"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Police drop Brydon Carse case after England cricketer was arrested - then de-arrested - over alleged assault",
-    "description": "The police said they were looking into allegations of assault. That has now been dropped, but it remains to be seen if Carse will be disciplined by England as a cricket regulator investigates.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16142665/Police-drop-Brydon-Carse-case-England-cricketer-arrested-arrested-alleged-assault.html",
-    "image": "https://i.dailymail.com/1s/2026/09/18/16/111335501-0-image-a-26_1789746101718.jpg",
-    "publishedAt": "2026-09-18T15:46:14Z",
-    "author": "Lewis Browning"
   }
 ]
 ;
