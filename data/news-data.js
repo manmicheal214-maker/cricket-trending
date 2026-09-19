@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "Premium Times",
+    "title": "Mambilla: How Malami attempted to deceive Buhari, struck corrupt deals with Adesanya – ICC Tribunal",
+    "description": "The Tribunal noted that Mr Malami failed to appear before it to give evidence, adding that he acted against Nigeria’s interest and was “motivated by other incentive(s)”.",
+    "url": "https://www.premiumtimesng.com/business/business-news/910616-mambilla-how-malami-attempted-to-deceive-buhari-struck-corrupt-deals-with-adesanya-icc-tribunal.html",
+    "image": "https://media.premiumtimesng.com/wp-content/files/2026/09/WhatsApp-Image-2026-09-18-at-17.34.42.jpeg",
+    "publishedAt": "2026-09-18T16:43:43Z",
+    "author": "Oladeinde Olawoyin"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI revises pay structure for umpires, introduces promotion-relegation system",
+    "description": "BCCI has substantially enhanced daily pay for umpires and match referees.  A new promotion-relegation system based on merit will now be implemented.  Umpires will be assessed and assigned matches according to their performance levels.  This move aims to impro…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-revises-pay-structure-for-umpires-introduces-promotion-relegation-system/articleshow/134339485.cms",
+    "image": "https://img.etimg.com/thumb/msid-134339521,width-1200,height-630,imgsize-99648,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-18T16:19:59Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Police drop Brydon Carse case after England cricketer was arrested - then de-arrested - over alleged assault",
+    "description": "The police said they were looking into allegations of assault. That has now been dropped, but it remains to be seen if Carse will be disciplined by England as a cricket regulator investigates.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16142665/Police-drop-Brydon-Carse-case-England-cricketer-arrested-arrested-alleged-assault.html",
+    "image": "https://i.dailymail.com/1s/2026/09/18/16/111335501-0-image-a-26_1789746101718.jpg",
+    "publishedAt": "2026-09-18T15:46:14Z",
+    "author": "Lewis Browning"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games: BCCI books separate accommodation for men's cricket team, women stay in Games facilities",
+    "description": "Saikia insisted that the BCCI has faith in the local organisation committee to provide satisfactory on-ground facilities at the match venue despite reports of other Asian cricket boards raising objections about the quality of the ground",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134338536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T15:15:45Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Fifteen days is a long time': BCCI plays wait-and-watch on Ajit Agarkar's future",
+    "description": "Cricket News: The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia on Friday offered no clear answers on the future of men's selection committe.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fifteen-days-is-a-long-time-bcci-plays-wait-and-watch-on-ajit-agarkars-future/articleshow/134338343.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134338415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-18T15:04:44Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "BBC News",
+    "title": "Glamorgan seal signing of Smale from Lancashire",
+    "description": "Wicketkeeper/batter Seren Smale completes a move to Glamorgan following her departure from Lancashire.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6qxvdnn1521o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6191720e190521f0b98fbb20192554dd65533069e8f21fe855b143f7ff1e4dba/lightyear_networkapi/resizefill_w550_h309%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F94118203f7e3a8566d51f3d6116f7afc.jpg",
+    "publishedAt": "2026-09-18T14:36:33Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Punch",
+    "title": "Sunrise Power to review ICC arbitration on Mambilla project",
+    "description": "Sunrise Power says its legal battle with the FG over the Mambilla project is not over, stating its lawyers are reviewing the ICC arbitration decision.\n\nRead More: https://punchng.com/sunrise-power-to-review-icc-arbitration-on-mambilla-project/",
+    "url": "https://punchng.com/sunrise-power-to-review-icc-arbitration-on-mambilla-project/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2019/09/03062430/Mambilla-power-project-site.jpg",
+    "publishedAt": "2026-09-18T13:56:06Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "KKR coach tries to woo Rohit Sharma to Kolkata but veteran batter’s response wins MI hearts",
     "description": "Rohit Sharma has remained the beating heart of the Mumbai Indians for the last 15 years, but a KKR coach recently tried to woo him for CSK's yellow army.",
@@ -52,78 +115,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/bd844619c0981cbe901b3cc78cc4bbd8e32522718879a02e0f1787045079d09f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F824531eea9c6f1c1d7e5f4d15876d9cd",
     "publishedAt": "2026-09-18T11:52:16Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI to take call on Ajit Agarkar's future after AGM authorisation, confirms Rajeev Shukla",
-    "description": "Cricket News: The Board of Control for Cricket in India (BCCI) has authorised its office-bearers to take a decision on the future of the men's senior selection comm.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-take-call-on-ajit-agarkars-future-after-agm-authorisation-confirms-rajeev-shukla/articleshow/134331708.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134332088,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T10:15:17Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Board AGM: BCCI office-bearers 'authorized' to take call on Ajit Agarkar's future",
-    "description": "BCCI office-bearers will decide Ajit Agarkar's future as chairman of selectors.  His current contract is set to conclude early next month.  The board also plans to fill all five junior selection committee positions.  The Mumbai Cricket Association requested m…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/board-agm-bcci-office-bearers-authorized-to-take-call-on-ajit-agarkars-future/articleshow/134332143.cms",
-    "image": "https://img.etimg.com/thumb/msid-134332204,width-1200,height-630,imgsize-66996,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-18T10:14:36Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Border-Gavaskar Trophy 2027: Ranchi Test in doubt over early sunset concerns; BCCI considers venue change - report",
-    "description": "The Border-Gavaskar Trophy 2027 could see Ranchi lose its 4th Test against Australia as team management raises concerns over early sunset & reduced playing time.",
-    "url": "https://www.cricketnews.com/en/cricket/news/border-gavaskar-trophy-2027-ranchi-test-bcci-venue-change/855453d5b97b0e18659a0e16",
-    "image": "https://s.yimg.com/lo/mysterio/api/f4d445e60903934a93a0c3b39337233dd639593d266c4b339b619652430bb55a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe10914ce67529cf634c69a35031986ad",
-    "publishedAt": "2026-09-18T10:05:18Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Parthiv Patel frontrunner for chief selector if Ajit Agarkar, BCCI fail to agree extension",
-    "description": "Cricket News: NEW DELHI: Former India cricketer Parthiv Patel has emerged as a strong candidate to replace Ajit Agarkar as the men's senior selection committee chai.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/parthiv-patel-frontrunner-for-chief-selector-if-ajit-agarkar-bcci-fail-to-agree-extension/articleshow/134330891.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134330968,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T09:14:20Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "The Diplomat",
-    "title": "Arrests and Court Appearances Heighten Political Tensions in the Philippines",
-    "description": "What are the political implications of Martin Romualdez’s arrest, Rodrigo Duterte’s ICC appearance, and the new criminal case against Vice President Sara Duterte?",
-    "url": "https://thediplomat.com/2026/09/arrests-and-court-appearances-heighten-political-tensions-in-the-philippines/",
-    "image": "https://thediplomat.com/wp-content/uploads/2024/10/sizes/td-story-s-2/thediplomat_2024-10-01-020823.jpg",
-    "publishedAt": "2026-09-18T08:21:00Z",
-    "author": "Mong Palatino"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mohammad Rizwan approaches ICC over mobile phone seizure after Pakistan High Court dismisses plea amid NCCIA probe",
-    "description": "Mohammad Rizwan has approached the ICC Anti-Corruption Unit over his mobile phone seizure by the NCCIA after the Lahore High Court dismissed his petition.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mohammad-rizwan-icc-mobile-phone-seizure-pakistan-high-court-nccia-probe/c656f0dcb848ffa4bc9bd4e2",
-    "image": "https://s.yimg.com/lo/mysterio/api/4be2a1d96d639850d47dcee206fe4453e8981680269b3b104c3039d7400b964f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F22f136676bee16906dc5b64d5a779c7e",
-    "publishedAt": "2026-09-18T07:57:25Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games cricket: India storm into Asian Games semis after 8-wicket win over Japan",
-    "description": "Defending champions India advanced to the Asian Games women's cricket semifinals.  They secured a commanding eight-wicket victory over an inexperienced Japan side.  Indian spinners Charani and Shafali Verma were instrumental in restricting Japan to 57 runs.  …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-cricket-india-storm-into-asian-games-semis-after-8-wicket-win-over-japan/articleshow/134328896.cms",
-    "image": "https://img.etimg.com/thumb/msid-134328930,width-1200,height-630,imgsize-149852,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-18T07:17:51Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Blistering Head ton leads Australia to victory in second ODI in Zimbabwe",
-    "description": "Travis Head has scored his first century since last summer's Ashes, with the punchy southpaw's eighth ODI ton leading Australia to an 84-run victory over Zimbabwe in the second ODI in Harare.",
-    "url": "https://www.abc.net.au/news/2026-09-18/head-ton-leads-australia-to-odi-victory-over-zimbabwe/107169640",
-    "image": "https://live-production.wcms.abc-cdn.net.au/ed2bbf7771aee58afd66258add80c376?impolicy=wcms_watermark_news&cropH=1263&cropW=2246&xPos=0&yPos=164&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-09-18T07:17:41Z",
-    "author": null
   }
 ]
 ;
