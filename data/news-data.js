@@ -88,33 +88,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9ce/live/96bca970-b378-11f1-b1d1-571ed4d7ff2c.jpg",
     "publishedAt": "2026-09-18T17:50:43Z",
     "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL star Abishek Porel gets bail in rape case after arrest over medical student’s complaint",
-    "description": "IPL cricketer Abishek Porel has been granted bail by a Chinsurah court. He spent over a month in jail following his arrest on August 11. A medical student had filed a complaint alleging assault and criminal intimidation. The court had previously denied his ba…",
-    "url": "https://timesofindia.indiatimes.com/city/kolkata/ipl-star-abishek-porel-gets-bail-in-rape-case-after-arrest-over-medical-students-complaint/articleshow/134340571.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134340778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-18T17:42:34Z",
-    "author": "Siddhi Dharmadhikari"
-  },
-  {
-    "source": "Premium Times",
-    "title": "Mambilla: How Malami attempted to deceive Buhari, struck corrupt deals with Adesanya – ICC Tribunal",
-    "description": "The Tribunal noted that Mr Malami failed to appear before it to give evidence, adding that he acted against Nigeria’s interest and was “motivated by other incentive(s)”.",
-    "url": "https://www.premiumtimesng.com/business/business-news/910616-mambilla-how-malami-attempted-to-deceive-buhari-struck-corrupt-deals-with-adesanya-icc-tribunal.html",
-    "image": "https://media.premiumtimesng.com/wp-content/files/2026/09/WhatsApp-Image-2026-09-18-at-17.34.42.jpeg",
-    "publishedAt": "2026-09-18T16:43:43Z",
-    "author": "Oladeinde Olawoyin"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI revises pay structure for umpires, introduces promotion-relegation system",
-    "description": "BCCI has substantially enhanced daily pay for umpires and match referees.  A new promotion-relegation system based on merit will now be implemented.  Umpires will be assessed and assigned matches according to their performance levels.  This move aims to impro…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-revises-pay-structure-for-umpires-introduces-promotion-relegation-system/articleshow/134339485.cms",
-    "image": "https://img.etimg.com/thumb/msid-134339521,width-1200,height-630,imgsize-99648,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-18T16:19:59Z",
-    "author": "PTI"
   }
 ]
 ;
