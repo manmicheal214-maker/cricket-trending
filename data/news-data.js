@@ -1,5 +1,86 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana becomes leading run-scorer in women's T20Is; achieves feat during Asian Games 2026 semi-final against Bangladesh",
+    "description": "Smriti Mandhana scripted another milestone at the 2026 Asian Games, becoming the highest run-scorer in women's T20I cricket during India's semifinal against Bangladesh. She moved past New Zealand's Suzie Bates to reach 4,765 runs, before being dismissed for a…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-becomes-leading-run-scorer-in-womens-t20is-achieves-feat-during-asian-games-2026-semi-final-against-bangladesh/articleshow/134364178.cms",
+    "image": "https://img.etimg.com/thumb/msid-134364198,width-1200,height-630,imgsize-224826,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-20T05:49:14Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana creates history in Asain Games semi-final, becomes leading run-scorer in Women's T20I",
+    "description": "Smriti Mandhana became the highest run-scorer in women’s T20I cricket, surpassing Suzie Bates, and the first Indian woman to hit 100 sixes in the format during the Asian Games 2026 semi-final against Bangladesh. Her quickfire 37 off 19 balls, alongside Shafal…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/smriti-mandhana-creates-history-in-asain-games-semi-final-becomes-leading-run-scorer-in-womens-t20i/articleshow/134364106.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134364130,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T05:41:18Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'I can’t see Sooryavanshi transitioning to Test cricket': Ex-England star gives honest opinion on India wonderkid",
+    "description": "Ex-England spinner Monty Panesar questions Vaibhav's technique, but Michael Clarke fires back.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d8f50849-b612-402d-b343-bb2196ea72a0",
+    "image": null,
+    "publishedAt": "2026-09-20T05:23:41Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'I don't play bar the Hundred': Harry Brook reveals reason why he doesn't play franchise cricket",
+    "description": "Harry Brook opened up on prioritising national team over franchise T20 cricket.",
+    "url": "https://www.cricketnews.com/en/cricket/news/harry-brook-reveals-reason-why-he-doesnt-play-franchise-cricket/9393b48215a30417cfc9569b",
+    "image": "https://s.yimg.com/lo/mysterio/api/1f898602ec3b684e3bb267a87dc04ff78eaa788334f001ea5a7b12d95d4212b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37e19dce24f5ff6413116deea45c7598",
+    "publishedAt": "2026-09-20T05:22:48Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Veteran cricket commentator retires after 31 years",
+    "description": "Dick Davies says he has been \"exceptionally lucky\" to cover Essex County Cricket Club's matches.",
+    "url": "https://www.bbc.com/news/articles/c6rm9l0ddrwmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/945b2849cd28453aaf0a714fcdab3355406bf4a4f43364f75fb318ea62105e8a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa868da12a0f77090d2e4c4dc6c488705.jpg",
+    "publishedAt": "2026-09-20T05:14:21Z",
+    "author": "Lewis Adams - Essex"
+  },
+  {
+    "source": "BBC News",
+    "title": "Defender Ng predicts big wins to come for Cardiff",
+    "description": "Cardiff City defender Perry Ng says he expects the club to \"batter some teams\" moving forward as the Bluebirds finally put an end to their winless run.",
+    "url": "https://www.bbc.com/sport/football/articles/cxzdz7gvezlvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/976ddc1f8dba6ceb0ffaa0303a73e4d10141ae66b2c84104ec18a22b37b30ef3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7267ea531ffd41952feb00016b029a81.jpg",
+    "publishedAt": "2026-09-20T04:59:00Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI to comply with NSG act once cricket is notified as designated sport",
+    "description": "The BCCI’s stance on the National Sports Governance Act dominated its 95th annual general meeting, with secretary Devajit Saikia saying the board would comply once cricket is officially notified as a designated sport. Saikia maintained that the BCCI would not…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-comply-with-nsg-act-once-cricket-is-notified-as-designated-sport/articleshow/134362865.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134362914,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T02:42:26Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games India schedule today (September 20): Full list of Indian events, medal matches and key fixtures",
+    "description": "Asian Games India schedule: India’s campaign at the Asian Games 2026 will intensify on Sunday, with athletes and teams competing across multiple sports. Teqball offers two medal opportunities, while the women’s cricket team faces Bangladesh in the semifinal. …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/asian-games-india-schedule-today-september-20-full-list-of-indian-events-medal-matches-and-key-fixtures/articleshow/134362749.cms",
+    "image": "https://img.etimg.com/thumb/msid-134362782,width-1200,height-630,imgsize-235854,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-20T02:07:12Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "West Indies announce squads for India tour: John Campbell returns, Kamil Pooran earns maiden T20I call-up",
+    "description": "West Indies have recalled John Campbell for their ODI series against India, while Kamil Pooran earned his maiden T20I call-up after an impressive recent run. Shimron Hetmyer returns for the T20Is, with Jason Holder rested. The eight-match India tour will help…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-announce-squads-for-india-tour-john-campbell-returns-kamil-pooran-earns-maiden-t20i-call-up/articleshow/134362544.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134362599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T01:13:20Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
     "source": "Inautonews.com",
     "title": "Infiniti IPL G Convertible Enters Production Ahead of LA Debut",
     "description": "Infiniti has started production of the IPL G Convertible, its performance-focused open-top model, with the official launch set for the 2012 Los Angeles Auto Show.",
@@ -187,87 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134354826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-19T13:09:29Z",
     "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Only expectation from Rohit Sharma and Virat Kohli is to keep scoring runs’: Aakash Chopra ahead of West Indies ODIs",
-    "description": "Cricket News: NEW DELHI: With the 2027 ODI World Cup now just over a year away, former India batter Aakash Chopra believes Rohit Sharma and Virat Kohli do not need .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/only-expectation-from-rohit-sharma-and-virat-kohli-is-to-keep-scoring-runs-aakash-chopra-ahead-of-west-indies-odis/articleshow/134354728.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134354812,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-19T13:08:16Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Not a big deal, we’ll see’: Japan cricketer reveals teammate who has dismissed Vaibhav Sooryavanshi, 'excited' for another duel",
-    "description": "Japanese cricketer who took out Vaibhav Sooryavanshi in the U19 Asia Cup remains excited for another duel with the 15-year-old prodigy in the future.",
-    "url": "https://www.cricketnews.com/en/cricket/news/japan-cricketer-teammate-dismissed-vaibhav-sooryavanshi/6689a9dc2f9387baf0fafee0",
-    "image": "https://s.yimg.com/lo/mysterio/api/4795adecc284883edcc12ca981ae81e6601416022fd64d49d29e48321019b7de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2bd9856be32c567c60a83a23fb6624d4",
-    "publishedAt": "2026-09-19T12:40:11Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant's exclusion from West Indies ODIs",
-    "description": "The three-match ODI series against the West Indies will begin in Thiruvananthapuram on September 27. The second ODI will be played in Guwahati on September 30, while the third match will take place in New Chandigarh on October 3. Aakash Chopra said the differ…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/selection-committee-has-made-up-its-mind-ex-india-cricketer-on-rishabh-pants-exclusion-from-west-indies-odis/articleshow/134353831.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134353936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-19T12:19:03Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Business Standard",
-    "title": "ENG vs SL 3rd T20 live streaming: Where to watch today's cricket match?",
-    "description": "England vs Sri Lanka 3rd T20I begins at 7 pm IST on Tuesday, with the toss at 6:30 pm IST. Fans in India can watch on Sony Ten 5 or stream the match on the SonyLIV app and website",
-    "url": "https://www.business-standard.com/cricket/news/eng-vs-sl-3rd-t20-live-streaming-where-to-watch-today-s-cricket-match-126091900199_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/featurecrop/1200X628/1789793152-6503.jpg",
-    "publishedAt": "2026-09-19T12:03:28Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Reasons for Agarkar exit: Rohit Sharma future fiasco, difference of opinion with VVS Laxman",
-    "description": "Agarkar’s exit was driven by differences over Rohit Sharma’s future and VVS Laxman, while his absence from a key review meeting added to BCCI concerns ahead of the 2027 ODI World Cup.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/reasons-for-agarkar-exit-rohit-sharma-future-fiasco-difference-of-opinion-with-vvs-laxman/articleshow/134353278.cms",
-    "image": "https://img.etimg.com/thumb/msid-134353308,width-1200,height-630,imgsize-1504011,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-19T11:35:22Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India’s September-October cricket madness: Where every player is playing in Asian Games, West Indies series, Australia A and Irani Cup",
-    "description": "India will field multiple squads across the Asian Games, West Indies series, Australia A matches and Irani Cup in a packed September-October schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-september-october-cricket-where-playing-asian-games-wi-aus-irani-cup/8f3058c4506ee9163e387dae",
-    "image": "https://s.yimg.com/lo/mysterio/api/d3742bc375fab5186fbb464c7c65a844320f034860185a04da3ed3324a383459/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa346c3644ad40acca28cb699db59c947",
-    "publishedAt": "2026-09-19T11:00:01Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027 player auction to take place in December; no decision on venue yet",
-    "description": "The 2027 IPL season will mark the league's 20th edition, and the BCCI plans to celebrate the milestone on a larger scale",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-player-auction-to-take-place-in-december-no-decision-on-venue-yet-126091900521_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/19/thumb/fitandfill/1200X628/1702959912-1763.jpg",
-    "publishedAt": "2026-09-19T10:32:35Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "Premium Times",
-    "title": "Atiku denies corruption verdict, but fails to address ICC tribunal’s concerns over $500,000 payment",
-    "description": "Atiku denies corruption verdict, but fails to address ICC tribunal’s concerns over $500,000 paymentpremiumtimesng.com",
-    "url": "https://www.premiumtimesng.com/business/business-news/910757-atiku-denies-corruption-verdict-but-fails-to-address-icc-tribunals-concerns-over-500000-payment.html",
-    "image": "https://media.premiumtimesng.com/wp-content/files/2026/04/597442938_1557789859036086_1432183470684074258_n.jpg",
-    "publishedAt": "2026-09-19T10:21:50Z",
-    "author": "Omotoyosi Idowu"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘I want to win a World Cup for Afghanistan’: Rashid Khan reveals one major achievement still missing from his cricket career",
-    "description": "Rashid Khan opens up on the one missing milestone in his career.",
-    "url": "https://www.cricketnews.com/en/cricket/news/win-world-cup-afghanistan-rashid-khan-reveals-achievement-missing-career/05bbe01a10c0b258bd523aa2",
-    "image": "https://s.yimg.com/lo/mysterio/api/38534a1f0836c6c5785366226ab5bb219d9f49bba43cef5ac89bf6f9cd02b8cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdabefc57e3389305e8a2e5472263fb59",
-    "publishedAt": "2026-09-19T10:17:28Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
