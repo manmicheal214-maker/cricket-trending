@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Inautonews.com",
+    "title": "Infiniti IPL G Convertible Enters Production Ahead of LA Debut",
+    "description": "Infiniti has started production of the IPL G Convertible, its performance-focused open-top model, with the official launch set for the 2012 Los Angeles Auto Show.",
+    "url": "https://www.inautonews.com/infiniti-ipl-g-convertible-hits-the-production-line",
+    "image": "https://www.inautonews.com/media/licensed/2026/09/infiniti-ipl-g-convertible-enters-production-ahead-of-la-deb-dc563daa.jpg?w=1536",
+    "publishedAt": "2026-09-20T00:56:06Z",
+    "author": "Chris Wilson"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026 Day 1 Schedule, India events live time (IST), streaming",
+    "description": "India's Quimcy Joaquim Dsouza will play for bronze in teqball, while the women's cricket team face Bangladesh with hopes of qualifying for the gold medal match",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-day-1-schedule-india-event-live-time-ist-streaming-september-20-126091900426_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/resize/1200X628/1789807964-7843.jpg",
+    "publishedAt": "2026-09-20T00:04:20Z",
+    "author": "Aditya Kaushik"
+  },
+  {
     "source": "Sporting News",
     "title": "Where to watch India women vs. Bangladesh women live stream, TV channel, start time and lineups for Asian Games cricket semi-final",
     "description": "Find out where to watch India women vs Bangladesh women in the Asian Games cricket semi-final, including live streaming, TV channel, start time and lineups.",
@@ -250,24 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/38534a1f0836c6c5785366226ab5bb219d9f49bba43cef5ac89bf6f9cd02b8cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdabefc57e3389305e8a2e5472263fb59",
     "publishedAt": "2026-09-19T10:17:28Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "EMW Global enters Indian market, signs Rinku Singh as first cricket talent",
-    "description": "EMW Global has launched its India headquarters and signed Kolkata Knight Riders vice-captain Rinku Singh as its first cricket talent in the country. The agency, which works with global sports names including Lionel Messi and Neymar Jr, plans to connect Indian…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/emw-global-enters-indian-market-signs-rinku-singh-as-first-cricket-talent/articleshow/134351488.cms",
-    "image": "https://img.etimg.com/thumb/msid-134351533,width-1200,height-630,imgsize-181440,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-19T09:41:06Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games open after chaotic buildup; Manu Bhaker, Pawan Sehrawat lead India",
-    "description": "The 20th Asian Games officially began in Nagoya with a high-tech opening ceremony. India's contingent, led by Manu Bhaker and Pawan Sehrawat, paraded at the event. Some events, like women's cricket, have already started with India advancing. India is also com…",
-    "url": "https://economictimes.indiatimes.com/news/sports/other-sports/nagoya-games-open-after-chaotic-buildup-manu-bhaker-pawan-sehrawat-lead-india/articleshow/134351468.cms",
-    "image": "https://img.etimg.com/thumb/msid-134351484,width-1200,height-630,imgsize-64580,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-19T09:38:18Z",
-    "author": "PTI"
   }
 ]
 ;
