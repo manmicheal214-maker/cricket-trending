@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "Foxweather.com",
+    "title": "Developing Nor'easter to batter East Coast with strong winds, flooding and dangerous surf",
+    "description": "THE TAKEAWAY<ul><li>A developing week-long nor’easter is forming and will bring days of high surf, strong winds, coastal flooding and severe beach erosion to the East Coast.</li><li>Some areas could experience wind gusts up to 60 mph, with offshore waves reac…",
+    "url": "https://www.foxweather.com/weather-news/noreaster-days-coastal-flooding-dangerous-surf-east-coast",
+    "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/04/1024/512/gettyimages-2240648609-scaled.jpg?ve=1&tl=1",
+    "publishedAt": "2026-09-20T22:53:55Z",
+    "author": "Alexandra Myers"
+  },
+  {
+    "source": "Haaretz",
+    "title": "Houthis warn countries against joining Saudi Arabia in renewed Yemen fighting",
+    "description": "Live updates | Report: Trump admin planning to impose sweeping sanctions on ICC. Fire breaks out at East Jerusalem business; residents blame police stun grenades. Houthis warn countries against joining Saudi Arabia in Yemen's renewed war",
+    "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-21/ty-article-live/houthis-warn-countries-against-joining-saudi-arabia-in-renewed-yemen-fighting/000001a0-c0b5-d9a4-adf9-f1fd79c00000",
+    "image": "https://img.haarets.co.il/bs/000001a0-c0b5-d9a4-adf9-f1fd79c00000/5a/40/5c3ef2db4d85acd2c53a1d2d850a/472833.jpg?&width=1200&height=630&cmsprod",
+    "publishedAt": "2026-09-20T21:26:43Z",
+    "author": "Haaretz"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Report: Trump administration preparing sweeping sanctions against ICC",
+    "description": "The Trump administration is reportedly preparing broad sanctions against the ICC that could block most transactions and restrict access to US dollars.",
+    "url": "https://www.israelnationalnews.com/news/433440",
+    "image": "https://2.a7.org/files/pictures/000/1106979.jpg",
+    "publishedAt": "2026-09-20T20:46:32Z",
+    "author": "Israel National News"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Report: Trump administration preparing sweeping sanctions against ICC",
+    "description": "The Trump administration is reportedly preparing broad sanctions against the ICC that could block most transactions and restrict access to US dollars.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur i…",
+    "url": "https://www.israelnationalnews.com/flashes/693851",
+    "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+    "publishedAt": "2026-09-20T20:46:32Z",
+    "author": "Israel National News"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Ja'Marr Chase scores 2 TDs on passes from Joe Burrow to lead the Bengals past the Texans 20-6",
+    "description": "Joe Burrow threw two touchdown passes to Ja’Marr Chase to lead the Cincinnati Bengals to a 20-6 win over the Houston Texans on Sunday. The big day by Chase came a week after the five-time Pro Bowler had just two receptions for 12 yards in a win over Tampa Bay.",
+    "url": "https://sports.yahoo.com/articles/jamarr-chase-scores-2-tds-203226769.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/bca2f1d86bbd9fb3b376eb5ba70b83edc5f08f0d0f27f71dba6c68f5c8e63258/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1d20649886e9481216475c510c1ab3c0.jpg",
+    "publishedAt": "2026-09-20T20:32:26Z",
+    "author": "KRISTIE RIEKEN"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
+    "description": "This week, a special edition of Wall Street Week from the fastest growing large economy in the world: India. The country's ...",
+    "url": "https://biztoc.com/x/bf16c9266aee12f2",
+    "image": "https://biztoc.com/cdn/bf16c9266aee12f2_s.webp",
+    "publishedAt": "2026-09-20T20:01:02Z",
+    "author": "youtube.com"
+  },
+  {
     "source": "The Times of India",
     "title": "Chandigarh beat Punjab in wheelchair cricket exhibition match",
     "description": "Chandigarh beat Punjab by 5 wickets in a wheelchair cricket exhibition in Chandigarh under ‘Stronger Without Drugs’; PCA to provide wheelchairs for 24 players.",
@@ -142,60 +196,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/6d39b591ae0c1f55af5ec823010ee3b2077fccac562db4fa2837614d4bd54280/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe15ab105d93b2aebb872c5f31e7e25b1",
     "publishedAt": "2026-09-20T11:35:46Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "England set to rest Jofra Archer, Josh Tongue and Gus Atkinson for T20 Australia tour as new coach Stephen Fleming sets out ambition to lead Test side to world No 1",
-    "description": "RICHARD GIBSON: England will use a second-string bowling attack during the Twenty20 section of their upcoming tour to Australia in a bid to keep their Test artillery fresh.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16146035/england-josh-archer-gus-atkinson-josh-tongue-t20-australia.html",
-    "image": "https://i.dailymail.com/1s/2026/09/20/12/111357699-0-image-m-40_1789902651585.jpg",
-    "publishedAt": "2026-09-20T11:11:34Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
-    "description": "India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.",
-    "url": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/13769368-1789893745.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-20T09:36:23Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India tour of New Zealand: Shreyas Iyer could temporarily replace Shubman Gill as captain amid clash between ODI and Test series - Report",
-    "description": "India tour of New Zealand: Shreyas Iyer could temporarily replace Shubman Gill as ODI captain due to a scheduling clash with Test preparations. Read the report.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-tour-new-zealand-shreyas-iyer-replace-shubman-gill-captain/6db1070875a0712dda898f96",
-    "image": "https://s.yimg.com/lo/mysterio/api/eadd10c5352391ce126256abb61ba99599ad7b6debf256ac7c3734c7e485ab0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdd36b8e3b03ec38f88cba11695542a11",
-    "publishedAt": "2026-09-20T09:11:33Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games 2026: India confirm women’s cricket medal after 114-run semifinal rout of Bangladesh",
-    "description": "Defending champions India assure themselves of a women’s cricket medal at the Aichi-Nagoya Asian Games after thrashing Bangladesh by 114 runs to reach the final.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-india-confirm-womens-cricket-medal-after-114-run-semifinal-rout-of-bangladesh/articleshow/134365230.cms",
-    "image": "https://img.etimg.com/thumb/msid-134365259,width-1200,height-630,imgsize-201824,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-20T07:58:24Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "'Beat the Aussies' - new England coach Fleming's key aim",
-    "description": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6d08r79rvlgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/b11de9bcfe2573817a0c8a88f98c9d5f45722ce1e50545fdc058d498e0d1fef8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F43537c0a7508ff00e28f285b008063f5.jpg",
-    "publishedAt": "2026-09-20T07:34:36Z",
-    "author": "Stephan Shemilt - Cricket correspondent at Old Trafford"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Zimbabwe wins toss, elects to bat against Australia in third ODI",
-    "description": "Zimbabwe captain Sikandar Raza won the toss and elected to bat for the first time in the series against Australia in the third and final cricket one-day international on Sunday. Australia is favorite to complete a clean sweep after beating the home team by 59…",
-    "url": "https://sports.yahoo.com/articles/zimbabwe-wins-toss-elects-bat-073421710.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/01a5d3dc4852b5e1e79c34a582be8448f6f8d202ed9014c5c522bc7f3dbaf0d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbb4c9b2bea3e41cd09a5326c2340c941.jpg",
-    "publishedAt": "2026-09-20T07:34:21Z",
-    "author": "Associated Press"
   }
 ]
 ;
