@@ -1,6 +1,168 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Asian Games 2026 Day 1 Medal Tally: Where India rank after two shooting silvers in Aichi-Nagoya",
+    "description": "India made a striking start at the Asian Games, capturing two silver medals in shooting events. Elavenil Valarivan was a standout, winning silvers both individually and as part of the team in the 10m air rifle competition. Additionally, the women's cricket te…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-1-medal-tally-where-india-rank-after-two-shooting-silvers-in-aichi-nagoya/articleshow/134369371.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134369516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T13:34:47Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Tripura CM Announces Land For Modern Cricket Academy",
+    "description": "Tripura Chief Minister Manik Saha announced that the state government has allotted 30 acres of land to the Tripura Cricket Association (TCA) for establishing a modern cricket academy. This initiative aims to provide advanced training facilities for budding cr…",
+    "url": "https://www.rediff.com/sports/report/tripura-government-allocates-land-for-cricket-academy/20260920.htm",
+    "image": "https://im.rediff.com/1200-630/news/2023/mar/06manik.jpg",
+    "publishedAt": "2026-09-20T13:25:38Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Player of that type has been missing’: Irfan Pathan identifies MI star as India’s answer to a void in key ODI role",
+    "description": "With India getting ready for the World Cup cycle, former Indian all-rounder Irfan Pathan identified a Mumbai Indians star as the answer to the Men in Blue's missing link in a key role.",
+    "url": "https://www.cricketnews.com/en/cricket/news/irfan-pathan-mi-star-india-key-odi-role/11e79a94a968661f3798bc66",
+    "image": "https://s.yimg.com/lo/mysterio/api/d5817772e4603054b04fb2553d78d099a9652d9be83d590cd1aadb235d63bd57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F177c64b86e1e7b6b08ab93f1edfe9278",
+    "publishedAt": "2026-09-20T13:07:09Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI to draw line on Ombudsman’s jurisdiction over state-level matters | EXCLUSIVE",
+    "description": "The move is understood to aim at drawing a clearer line between issues that fall within the Ombudsman’s jurisdiction and those that the respective state associations should address first.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-draw-line-on-ombudsmans-jurisdiction-over-state-level-matters-exclusive/articleshow/134368960.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134368960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T13:00:19Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "The Times of India",
+    "title": "How one India T20I could become Japanese cricket's defining moment",
+    "description": "Japan is set to host its first-ever men's senior international cricket match against India, marking a milestone for Japanese cricket. Growth has been steady, with rising participation and increased visibility. The match aims to win hearts, boost cricket's pop…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-one-india-t20i-could-become-japanese-crickets-defining-moment/articleshow/134367678.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134368032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T12:08:47Z",
+    "author": "Tanuj Lakhina"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Lion at home, cat overseas’: Ex-India selector warns Abhishek Sharma, Vaibhav Sooryavanshi over away struggles",
+    "description": "Former Indian wicketkeeper Sandeep Patil slammed Abhishek Sharma and Vaibhav Sooryavanshi after the duo failed to make a mark outside India.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-away-struggles/ef82697c8abf851c429faf01",
+    "image": "https://s.yimg.com/lo/mysterio/api/6d39b591ae0c1f55af5ec823010ee3b2077fccac562db4fa2837614d4bd54280/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe15ab105d93b2aebb872c5f31e7e25b1",
+    "publishedAt": "2026-09-20T11:35:46Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "England set to rest Jofra Archer, Josh Tongue and Gus Atkinson for T20 Australia tour as new coach Stephen Fleming sets out ambition to lead Test side to world No 1",
+    "description": "RICHARD GIBSON: England will use a second-string bowling attack during the Twenty20 section of their upcoming tour to Australia in a bid to keep their Test artillery fresh.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16146035/england-josh-archer-gus-atkinson-josh-tongue-t20-australia.html",
+    "image": "https://i.dailymail.com/1s/2026/09/20/12/111357699-0-image-m-40_1789902651585.jpg",
+    "publishedAt": "2026-09-20T11:11:34Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
+    "description": "India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.",
+    "url": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/13769368-1789893745.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-20T09:36:23Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India tour of New Zealand: Shreyas Iyer could temporarily replace Shubman Gill as captain amid clash between ODI and Test series - Report",
+    "description": "India tour of New Zealand: Shreyas Iyer could temporarily replace Shubman Gill as ODI captain due to a scheduling clash with Test preparations. Read the report.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-tour-new-zealand-shreyas-iyer-replace-shubman-gill-captain/6db1070875a0712dda898f96",
+    "image": "https://s.yimg.com/lo/mysterio/api/eadd10c5352391ce126256abb61ba99599ad7b6debf256ac7c3734c7e485ab0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdd36b8e3b03ec38f88cba11695542a11",
+    "publishedAt": "2026-09-20T09:11:33Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: India confirm women’s cricket medal after 114-run semifinal rout of Bangladesh",
+    "description": "Defending champions India assure themselves of a women’s cricket medal at the Aichi-Nagoya Asian Games after thrashing Bangladesh by 114 runs to reach the final.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-india-confirm-womens-cricket-medal-after-114-run-semifinal-rout-of-bangladesh/articleshow/134365230.cms",
+    "image": "https://img.etimg.com/thumb/msid-134365259,width-1200,height-630,imgsize-201824,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-20T07:58:24Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "BBC News",
+    "title": "'Beat the Aussies' - new England coach Fleming's key aim",
+    "description": "New Test coach Stephen Fleming says he shares English cricket’s “obsession” with the Ashes and arrives with the goal to “beat the Aussies”.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6d08r79rvlgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/b11de9bcfe2573817a0c8a88f98c9d5f45722ce1e50545fdc058d498e0d1fef8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F43537c0a7508ff00e28f285b008063f5.jpg",
+    "publishedAt": "2026-09-20T07:34:36Z",
+    "author": "Stephan Shemilt - Cricket correspondent at Old Trafford"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Zimbabwe wins toss, elects to bat against Australia in third ODI",
+    "description": "Zimbabwe captain Sikandar Raza won the toss and elected to bat for the first time in the series against Australia in the third and final cricket one-day international on Sunday. Australia is favorite to complete a clean sweep after beating the home team by 59…",
+    "url": "https://sports.yahoo.com/articles/zimbabwe-wins-toss-elects-bat-073421710.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/01a5d3dc4852b5e1e79c34a582be8448f6f8d202ed9014c5c522bc7f3dbaf0d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbb4c9b2bea3e41cd09a5326c2340c941.jpg",
+    "publishedAt": "2026-09-20T07:34:21Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India vs Japan: All you need to know about the Japan cricket team, key players, recent results and achievements",
+    "description": "With India about to face Japan in a historic T20I at Sano, Japan here's everything you would need to know about the game.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-japan-all-you-need-know-japan-cricket-team/36526be90ef86cb3dea8948c",
+    "image": "https://s.yimg.com/lo/mysterio/api/767fc47b8f63807c1deefb6d24d9fc775f9b5d295ff566de19e7ed04f84626c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F44e251584b5ba8ab1a0eea8be3bc6f18",
+    "publishedAt": "2026-09-20T07:27:50Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shafali Verma scripts Asian Games history, becomes ever first cricketer to score century",
+    "description": "In a thrilling performance, Shafali Verma made history by scoring the first-ever century at the Asian Games 2026 semi-final against Bangladesh. Her innings was a display of explosive talent, featuring nine sixes and three fours, propelling India to a substant…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shafali-verma-scripts-asian-games-history-becomes-ever-first-cricketer-to-score-century/articleshow/134364781.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134364837,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T07:05:58Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games Cricket: Shafali's unbeaten ton fires India to 195/4 in Asian Games semifinal against Bangladesh",
+    "description": "India’s Shafali Verma smashed an unbeaten 100 off 49 balls, including nine sixes and three fours, to power India to 195/4 against Bangladesh in the Asian Games women’s cricket semifinal. Supported by Smriti Mandhana and Harmanpreet Kaur, Verma became only the…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-cricket-shafalis-unbeaten-ton-fires-india-to-195/4-in-asian-games-semifinal-against-bangladesh/articleshow/134364801.cms",
+    "image": "https://img.etimg.com/thumb/msid-134364853,width-1200,height-630,imgsize-92130,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-20T07:04:25Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "ZIM vs AUS 3rd ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Harare",
+    "description": "ZIM vs AUS 3rd ODI 2026 live cricket score: Check toss winner, win probability, playing XIs, live ball-by-ball updates, result, and match highlights from Harare.",
+    "url": "https://www.cricketnews.com/en/cricket/news/zim-vs-aus-3rd-odi-2026-live-scorecard-highlights-harare/409ebbe4d06892c5aa9e3001",
+    "image": "https://s.yimg.com/lo/mysterio/api/f46cdbb899f5cb2b82be5d0c064b5b2e17335250bb29bc7f413fd4a5353dd768/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37a4537941ea096275411af3616fb20a",
+    "publishedAt": "2026-09-20T06:58:26Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana scripts history, becomes first Indian woman to smash 100 T20I sixes",
+    "description": "In a remarkable feat, Smriti Mandhana celebrated a significant achievement by smashing her 100th T20 international six, while also clinching the title of the top run-scorer in women's T20I cricket history. Her teammate Shafali Verma shone brightly with a stun…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/smriti-mandhana-scripts-history-becomes-first-indian-woman-to-smash-100-t20i-sixes/articleshow/134364485.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134364663,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T06:40:13Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Vaibhav Sooryavanshi can't transition to Test cricket': Ex-cricketer says 'he doesn't have the technique'",
+    "description": "Cricket News: Vaibhav Sooryavanshi may still be only 15, but the sheer impact of his performances has already led to questions about whether he can eventually conqu.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-cant-transition-to-test-cricket-ex-cricketer-says-he-doesnt-have-the-technique/articleshow/134364243.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134364466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-20T06:11:41Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
     "title": "Smriti Mandhana becomes leading run-scorer in women's T20Is; achieves feat during Asian Games 2026 semi-final against Bangladesh",
     "description": "Smriti Mandhana scripted another milestone at the 2026 Asian Games, becoming the highest run-scorer in women's T20I cricket during India's semifinal against Bangladesh. She moved past New Zealand's Suzie Bates to reach 4,765 runs, before being dismissed for a…",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-becomes-leading-run-scorer-in-womens-t20is-achieves-feat-during-asian-games-2026-semi-final-against-bangladesh/articleshow/134364178.cms",
@@ -52,222 +214,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/976ddc1f8dba6ceb0ffaa0303a73e4d10141ae66b2c84104ec18a22b37b30ef3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7267ea531ffd41952feb00016b029a81.jpg",
     "publishedAt": "2026-09-20T04:59:00Z",
     "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI to comply with NSG act once cricket is notified as designated sport",
-    "description": "The BCCI’s stance on the National Sports Governance Act dominated its 95th annual general meeting, with secretary Devajit Saikia saying the board would comply once cricket is officially notified as a designated sport. Saikia maintained that the BCCI would not…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-comply-with-nsg-act-once-cricket-is-notified-as-designated-sport/articleshow/134362865.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134362914,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-20T02:42:26Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games India schedule today (September 20): Full list of Indian events, medal matches and key fixtures",
-    "description": "Asian Games India schedule: India’s campaign at the Asian Games 2026 will intensify on Sunday, with athletes and teams competing across multiple sports. Teqball offers two medal opportunities, while the women’s cricket team faces Bangladesh in the semifinal. …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/asian-games-india-schedule-today-september-20-full-list-of-indian-events-medal-matches-and-key-fixtures/articleshow/134362749.cms",
-    "image": "https://img.etimg.com/thumb/msid-134362782,width-1200,height-630,imgsize-235854,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-20T02:07:12Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "West Indies announce squads for India tour: John Campbell returns, Kamil Pooran earns maiden T20I call-up",
-    "description": "West Indies have recalled John Campbell for their ODI series against India, while Kamil Pooran earned his maiden T20I call-up after an impressive recent run. Shimron Hetmyer returns for the T20Is, with Jason Holder rested. The eight-match India tour will help…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-announce-squads-for-india-tour-john-campbell-returns-kamil-pooran-earns-maiden-t20i-call-up/articleshow/134362544.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134362599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-20T01:13:20Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Inautonews.com",
-    "title": "Infiniti IPL G Convertible Enters Production Ahead of LA Debut",
-    "description": "Infiniti has started production of the IPL G Convertible, its performance-focused open-top model, with the official launch set for the 2012 Los Angeles Auto Show.",
-    "url": "https://www.inautonews.com/infiniti-ipl-g-convertible-hits-the-production-line",
-    "image": "https://www.inautonews.com/media/licensed/2026/09/infiniti-ipl-g-convertible-enters-production-ahead-of-la-deb-dc563daa.jpg?w=1536",
-    "publishedAt": "2026-09-20T00:56:06Z",
-    "author": "Chris Wilson"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Asian Games 2026 Day 1 Schedule, India events live time (IST), streaming",
-    "description": "India's Quimcy Joaquim Dsouza will play for bronze in teqball, while the women's cricket team face Bangladesh with hopes of qualifying for the gold medal match",
-    "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-day-1-schedule-india-event-live-time-ist-streaming-september-20-126091900426_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/resize/1200X628/1789807964-7843.jpg",
-    "publishedAt": "2026-09-20T00:04:20Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch India women vs. Bangladesh women live stream, TV channel, start time and lineups for Asian Games cricket semi-final",
-    "description": "Find out where to watch India women vs Bangladesh women in the Asian Games cricket semi-final, including live streaming, TV channel, start time and lineups.",
-    "url": "https://www.sportingnews.com/in/cricket/news/watch-india-women-bangladesh-women-live-stream-tv-channel-time-lineups-asian-games/b845217366ff77a61dcb0793",
-    "image": "https://s.yimg.com/lo/mysterio/api/e5114b5cfdffbbd7ed51f594fa2b15a9b6a19c5cb4d8b6a89a393e2d10c38b71/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fcc007de73cc3c883c5ed05ff6715d109",
-    "publishedAt": "2026-09-19T19:30:02Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
-    "description": "PureCycle Technologies Inc. (NASDAQ:PCT) announced a new line of sustainable tamper-evident packaging, SnapPack Square EVO, in partnership with IPL Schoeller. This is an addition to IPL's existing sustainable packaging solutions portfolio, with each unit cont…",
-    "url": "https://biztoc.com/x/c2f912899e2ff7bc",
-    "image": "https://biztoc.com/cdn/c2f912899e2ff7bc_s.webp",
-    "publishedAt": "2026-09-19T18:48:01Z",
-    "author": "finance.yahoo.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Stay addicted to dreams, not drugs: Jitesh to youth",
-    "description": "International cricketer Jitesh Sharma urges Amravati youth to avoid drugs, back ‘Operation Kavach’ film ‘Not Normal’ busting substance abuse myths.",
-    "url": "https://timesofindia.indiatimes.com/city/nagpur/stay-addicted-to-dreams-not-drugs-jitesh-to-youth/articleshow/134359381.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134359380,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-19T18:31:07Z",
-    "author": "Anil Jadhav"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
-    "description": "PureCycle Technologies Inc. (NASDAQ:PCT) announced a new line of sustainable tamper-evident packaging, SnapPack Square EVO, in partnership with IPL Schoeller...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/378ab364d3bc3b3bdb0c70b3604d8e5ae2678e16426a48a4c2453f2dfcd78fa9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff5df9eaa281193a71f18997b7c2fe67a.jpg",
-    "publishedAt": "2026-09-19T18:21:05Z",
-    "author": "Muhammad Ali Khalid"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ajit Agarkar: A tenure defined by decisions that helped shape next generation of Indian cricket",
-    "description": "Agarkar showed that it was possible to bring a certain gravitas to the office through the work itself, rather than relying on the stature he had acquired through the cricket he played in his time. This is no mean feat in Indian cricket, especially today, when…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ajit-agarkar-a-tenure-defined-by-decisions-that-helped-shape-next-generation-of-indian-cricket/articleshow/134358540.cms",
-    "image": "https://img.etimg.com/thumb/msid-134358735,width-1200,height-630,imgsize-116604,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-19T17:58:10Z",
-    "author": "Anand Vasu"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "England surge to No 1 in T20 rankings with another dominant win over hapless Sri Lanka as Jos Buttler stars",
-    "description": "RICHARD GIBSON AT OLD TRAFFORD: Buttler finished the contest by swatting a one-handed six, symbolising the ease with which Harry Brook's team chased down their 125-run target.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16144847/England-No-1-T20-rankings.html",
-    "image": "https://i.dailymail.com/1s/2026/09/19/18/111351081-0-image-m-32_1789840418088.jpg",
-    "publishedAt": "2026-09-19T17:57:11Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "BBC News",
-    "title": "England thump Sri Lanka to sweep T20 series 3-0",
-    "description": "England steamroll Sri Lanka in their third T20 match to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/ckd68l3v3g57o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9caa/live/6b9c4180-b44d-11f1-a430-4d16ee157c41.jpg",
-    "publishedAt": "2026-09-19T17:20:26Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "England complete T20 sweep over Sri Lanka to go back on top of world rankings",
-    "description": "Chasing a modest 125, after Sri Lanka collapsed to 124 all out with seven balls remaining, the hosts were 22-1 after opener Aneurin Donald was stumped for 13 but Buttler and captain Harry Brook then stepped up and took control, ending the six-over powerplay a…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/england-complete-t20-sweep-over-sri-lanka-to-go-back-on-top-of-world-rankings/articleshow/134357678.cms",
-    "image": "https://img.etimg.com/thumb/msid-134357675,width-1200,height-630,imgsize-130924,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-19T17:08:32Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mohammad Rizwan gambling and betting allegations: Pakistan star knocks on ICC door amid NCCIA investigation",
-    "description": "With PCB investigating Mohammad Rizwan over gambling and betting allegations, the Pakistan star asks for help from ICC.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rizwan-gambling-betting-allegations-pakistan-icc-nccia-investigation/c01b81f29cabe5e004fd34d3",
-    "image": "https://s.yimg.com/lo/mysterio/api/b8cd740d2deca8d606b9c5d4995745b3414120f0991d4fa589fcec48c15d8208/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1f4ea6d7c2b6090ddfa300448fa24ea2",
-    "publishedAt": "2026-09-19T17:00:59Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'I deserved more opportunities': Former CSK and India batter feels he should have played more Test matches",
-    "description": "Former CSK star and fan favourite reveals that he still feels that he should have played more matches in the longest format for team India.",
-    "url": "https://www.cricketnews.com/en/cricket/news/former-csk-india-batter-feels-should-have-played-more-test/9911f80ff2f24539f872f2c3",
-    "image": "https://s.yimg.com/lo/mysterio/api/be0c2aa0dff188bc53c0cff9d1f0772cb869a2b33a553e2570ec78dd41ddd471/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F562d450ce28048c604b62bced108b299",
-    "publishedAt": "2026-09-19T16:57:47Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "CNA",
-    "title": "England complete T20 sweep over Sri Lanka to go back on top of world rankings",
-    "description": "MANCHESTER, Sept 19 : Jos Buttler hit an unbeaten half-century as dominant England beat a sorry Sri Lanka by eight wickets to complete a 3-0 series whitewash and replace India on top of the T20 world rankings after the final match of the series in Manchester …",
-    "url": "https://www.channelnewsasia.com/sport/england-complete-t20-sweep-over-sri-lanka-go-back-top-world-rankings-6396906",
-    "image": "https://dam.mediacorp.sg/image/upload/s--ePDMq7XF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-19T165433Z_1_LYNXMPEM8I0DL_RTROPTP_3_CRICKET-T20-ENG-LKA.JPG?itok=cwqEttfR",
-    "publishedAt": "2026-09-19T16:54:33Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "England completes series sweep over Sri Lanka in T20 cricket and back as No. 1 in the world",
-    "description": "England reclaimed top spot in the T20 cricket world ranking by thrashing Sri Lanka by eight wickets to complete a 3-0 series sweep in Manchester on Saturday. After easy wins in Southampton and Cardiff, England made it a hat trick of victories inside five days…",
-    "url": "https://sports.yahoo.com/articles/england-completes-series-sweep-over-165425555.html",
-    "image": null,
-    "publishedAt": "2026-09-19T16:54:25Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "BBC News",
-    "title": "England crush Sri Lanka to top T20 world rankings",
-    "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cr93e7w5x28do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/792d323a861db5de7ad44f0a2d2cb9b8ebc7bb71499660e359663ac398a4e079/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff6eb0c16d08da028e6c3df9a0e55d7c8.jpg",
-    "publishedAt": "2026-09-19T16:29:19Z",
-    "author": "Stephan Shemilt - Cricket Correspondent at Emirates Old Trafford"
-  },
-  {
-    "source": "BBC News",
-    "title": "England crush Sri Lanka to top T20 world rankings",
-    "description": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cr93e7w5x28do",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c792/live/4301a7b0-b43e-11f1-8eb0-59fdbbab66e7.jpg",
-    "publishedAt": "2026-09-19T16:22:50Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "WAPL takes flight with grand launch in Mangalagiri",
-    "description": "Women’s Andhra Premier League (WAPL) Season 1 launched in Mangalagiri; four teams play 13 T20 matches in 7 days, with Mithali Raj as ambassador.",
-    "url": "https://timesofindia.indiatimes.com/city/vijayawada/wapl-takes-flight-with-grand-launch-in-mangalagiri/articleshow/134356998.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134356995,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-19T16:15:04Z",
-    "author": "Venu Lanka"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Revealed: Lime Bike user who smashed taxi's back window with his HEAD is pro cricketer who went on to play the game of his life",
-    "description": "Luke Hollman's crash on the streets of central London went viral last month, and left him with a Harry Potter-esque scar on his forehead. But weeks later he was scoring runs for Middlesex.",
-    "url": "https://www.dailymail.com/news/article-16144353/Lime-Bike-user-smashed-taxis-window-HEAD-pro-cricketer-went-play-game-life.html",
-    "image": "https://i.dailymail.com/1s/2026/09/19/16/111349139-0-image-m-35_1789833418628.jpg",
-    "publishedAt": "2026-09-19T15:59:14Z",
-    "author": "Sam Lawley"
-  },
-  {
-    "source": "BBC News",
-    "title": "Sri Lanka lose last six wickets for 17 runs against clinical England",
-    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the third T20 at Emirates Old Trafford.",
-    "url": "https://www.bbc.com/sport/cricket/live/cly6832q93jt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/c15e87f6597274dbd14495dcb4930ce810d56c199fa263637f9804741ba7bf12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffb81b6cb64a7219e90468deb105030cc.jpg",
-    "publishedAt": "2026-09-19T15:05:47Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "West Indian Cricketers Refused to Grovel",
-    "description": "The Caribbean of the 1970s was marked by major political and social upheaval. Cricket became a primary vehicle for asserting West Indian independence — and defeating England was paramount.",
-    "url": "https://sports.yahoo.com/articles/west-indian-cricketers-refused-grovel-140000285.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/eb6b13441e177fc5e6f96e7509b0223a0e4a1ef4d39b3718b235e4023fde9829/lightyear_networkapi/resizefill_w420_h315%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacobin_644%2F4855e67be1554ae9dc13c843b468d645.jpg",
-    "publishedAt": "2026-09-19T14:00:00Z",
-    "author": "Meagan Day"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Let us get behind them': Rishabh Pant's message to Indian athletes ahead of Asian Games",
-    "description": "Asian Games 2026 News: India cricketer Rishabh Pant has extended his support to the Indian contingent ahead of the 2026 Asian Games. Pant urged fans across the country to su.",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/let-us-get-behind-them-rishabh-pants-message-to-indian-athletes-ahead-of-asian-games/articleshow/134354496.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134354826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-19T13:09:29Z",
-    "author": "Amit Kumar"
   }
 ]
 ;
