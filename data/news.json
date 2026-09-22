@@ -1,5 +1,23 @@
 [
   {
+    "source": "CBC News",
+    "title": "Crown withdraws criminal charges against former Cricket Canada CEO Salman Khan",
+    "description": "Criminal charges were dropped Monday against former Cricket Canada CEO Salman Khan, who was accused of misappropriating $200,000 from the Calgary and District Cricket League.",
+    "url": "https://www.cbc.ca/news/canada/calgary/salman-khan-cricket-canada-calgary-fraud-theft-charges-withdrawn-9.7352585",
+    "image": "https://i.cbc.ca/ais/b54f317f-48c6-47cd-9916-35ae07993b26,1776372532008/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+    "publishedAt": "2026-09-21T20:23:20Z",
+    "author": "Meghan Grant"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps: Adam Milne, New Zealand’s longest-serving international cricketer, sets sights on twin World Cups",
+    "description": "No active Black Cap has represented New Zealand for longer than Adam Milne.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-adam-milne-new-zealands-longest-serving-international-cricketer-sets-sights-on-twin-world-cups/Q2BEQID3DFFD3DJNHK6RESZYPU/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/U2KQ6ASTCBDZGYLK32YYZOWNIQ.jpg?auth=51053746cabf8c9babddabc57d3319135e4cb59259ae643acacfefc0a58502db&width=1200&height=675&quality=70&focal=569%2C280&smart=false",
+    "publishedAt": "2026-09-21T20:00:00Z",
+    "author": "Alex Powell"
+  },
+  {
     "source": "Sporting News",
     "title": "Where to watch India vs. Japan cricket: Live stream, TV channel, start time and squads for one-off T20 match",
     "description": "With India all set to face the Japanese in the one-off T20I match, here's everything you'll need to know about the match.",
@@ -214,41 +232,5 @@
     "image": "https://the-digital-reader.com/wp-content/uploads/2026/09/International-cricket.webp",
     "publishedAt": "2026-09-21T11:32:38Z",
     "author": "Johannes Gottwald"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Married 5 months ago, man preparing for govt exams dies after chest pain while playing cricket in Rajasthan",
-    "description": "DAUSA: A 25-year-old man died after suffering chest pain while playing cricket with his friends in the Mahwa area of Rajasthan’s Dausa district on Sun.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/married-5-months-ago-25-year-old-preparing-for-govt-exams-dies-after-chest-pain-while-playing-cricket-in-rajasthan/articleshow/134387374.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134387717,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-21T10:55:21Z",
-    "author": "Anjali Singh"
-  },
-  {
-    "source": "Business Standard",
-    "title": "192 teams, 24 cities: World's first Corporate World Cup officially launched",
-    "description": "The tournament is being organised by Pro Corporate League (PCL), one of India's pioneering corporate cricket platforms, which brings with it a 15-year legacy of organising and developing corporate cri",
-    "url": "https://www.business-standard.com/cricket/news/192-teams-24-cities-world-s-first-corporate-world-cup-officially-launched-126092000677_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/thumb/resize/1200X628/1789987164-559.jpg",
-    "publishedAt": "2026-09-21T10:39:43Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Indian market is developing rapidly, we want to grow together': EMW Global sign cricketer Rinku Singh",
-    "description": "Indian cricketer Rinku Singh is embarking on an exciting journey to elevate his brand globally with talent management agency EMW Global. The agency, founded by Michael Rocha Keys, is focused on crafting his commercial identity by forming long-lasting partners…",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/indian-market-is-developing-rapidly-we-want-to-grow-together-emw-global-sign-cricketer-rinku-singh/articleshow/134381840.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134386905,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-21T10:23:37Z",
-    "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Asiad 2026 Sept 22 schedule, India medal-event timings, live streaming",
-    "description": "India's women's cricket team will look to defend their Asian Games gold medal as they take on Sri Lanka in the final from 10:30 am IST",
-    "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-sept-22-schedule-india-medal-event-timings-live-streaming-126092100664_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/thumb/featurecrop/1200X628/1789985121-4935.jpg",
-    "publishedAt": "2026-09-21T10:16:07Z",
-    "author": "Aditya Kaushik"
   }
 ]
