@@ -1,6 +1,87 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Typhoon Dujuan forces India to miss training ahead of Japan T20I; Shreyas Iyer says ‘don’t know conditions’",
+    "description": "As Typhoon Dujuan looms, India's T20 International training sessions have been disrupted, leaving the Shreyas Iyer-led team unable to prepare for their momentous match. The storm is projected to bring intense rain and winds to eastern Japan. This encounter no…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/typhoon-dujuan-forces-india-to-miss-training-ahead-of-japan-t20i-shreyas-iyer-says-dont-know-conditions/articleshow/134385968.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134386055,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-21T09:41:59Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Bihari kahan nahi hai bhai': He studied chemistry at IIT Kanpur, now plays cricket for Japan",
+    "description": "India vs Japan T20 Cricket Match 2026: Meet Abhishek Anand, an accomplished IIT Kanpur alumnus who has taken his talent to Japan's cricket team. His journey began with his studies, eventually leading him to work in Japan. As excitement builds for the upcoming…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/bihari-kahan-nahi-hai-bhai-he-studied-chemistry-at-iit-kanpur-now-plays-cricket-for-japan/articleshow/134384991.cms",
+    "image": "https://img.etimg.com/thumb/msid-134385856,width-1200,height-630,imgsize-87360,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-21T09:32:35Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Age is just a number': Ex-India chief selector Chetan Sharma backs Rohit Sharma to continue playing ODIs",
+    "description": "Chetan Sharma, the former chief selector, champions the continued ODI careers of Rohit Sharma and Virat Kohli, emphasising that age should not hinder performance. With Rohit’s remarkable century and Virat’s unwavering scoring prowess as key factors, he advoca…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/age-is-just-a-number-ex-india-chief-selector-chetan-sharma-backs-rohit-sharma-to-continue-playing-odis/articleshow/134385075.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134385133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-21T08:55:37Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: India face Sri Lanka in women’s cricket final, eye second straight gold",
+    "description": "India will face Sri Lanka in the Asian Games 2026 women’s cricket final on Tuesday, aiming to extend their continental dominance and claim another gold. Harmanpreet Kaur’s side has impressed against Japan and Bangladesh, with Shafali Verma and the spin attack…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-india-face-sri-lanka-in-womens-cricket-final-eye-second-straight-gold/articleshow/134383032.cms",
+    "image": "https://img.etimg.com/thumb/msid-134383118,width-1200,height-630,imgsize-59248,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-21T07:19:31Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: Japan await big moment in T20 face-off against mighty India",
+    "description": "Japan hosts India for a historic one-off T20 International match on Tuesday.  This game celebrates 75 years of India-Japan diplomatic relations and Asian Games preparation.  The match offers a unique opportunity for Japanese cricketers to play against top pro…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-japan-await-big-moment-in-t20-face-off-against-mighty-india/articleshow/134382295.cms",
+    "image": "https://img.etimg.com/thumb/msid-134382569,width-1200,height-630,imgsize-134086,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-21T06:52:45Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India take on Japan in historic T20I ahead of Asian Games: When and where to watch the match live?",
+    "description": "In an exciting development, India and Japan will engage in their first-ever T20I match on Tuesday, as part of the Suzuki Cup. This pivotal fixture is a precursor to the 2026 Asian Games cricket tournament and commemorates 75 years of diplomatic relations betw…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-take-on-japan-in-historic-t20i-ahead-of-asian-games-when-and-where-to-watch-the-match-live/articleshow/134381763.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134381866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-21T06:29:37Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Is Ben Duckett at a crossroads in a post Bazball era? | The Telegraph Cricket podcast",
+    "description": "Jake, Will and Nick discuss where Ben Duckett fits into the new look England setup and if he can continue to play a prominent role ...",
+    "url": "https://biztoc.com/x/a9a43cf79345ba47",
+    "image": "https://biztoc.com/cdn/a9a43cf79345ba47_s.webp",
+    "publishedAt": "2026-09-21T05:42:40Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Qld premier refuses to reveal cost to install Gabba wicket into new stadium",
+    "description": "Brisbane's renowned Gabba cricket pitch is set to live on with a plan to preserve and install the wicket into the city's new Olympic stadium, but the premier has refused to reveal how much it will cost.",
+    "url": "https://www.abc.net.au/news/2026-09-21/queensland-premier-cost-transport-gabba-wicket-to-victoria-park/107177340",
+    "image": "https://live-production.wcms.abc-cdn.net.au/1ad4c436f722b83d6fe1020a5347ac03?impolicy=wcms_watermark_news&cropH=3074&cropW=5466&xPos=0&yPos=285&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-09-21T05:41:22Z",
+    "author": "Claudia Williams"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Born in Bihar, a master’s degree from IIT Kanpur, but with cricket still in his heart, Abhishek Anand has taken his passion to Japan",
+    "description": "Abhishek Anand, proud IIT Kanpur graduate, is set to represent Japan's national cricket team, capturing widespread social media interest with his incredible story from Bihar to this unexpected opportunity. A captivating video showcases his excitement about fa…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/born-in-bihar-a-masters-degree-from-iit-kanpur-but-with-cricket-still-in-his-heart-abhishek-anand-has-taken-his-passion-to-japan/articleshow/134380587.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134380974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-21T05:37:16Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
     "title": "'Stranded' in Chennai, Sabaorish Ravichandran’s heart beats for adopted home Japan",
     "description": "Sabaorish Ravichandran, the promising Indian-origin cricketer, will miss the chance to represent Japan against India due to a lack of logistical support and his absence of a Japanese passport. This match marks an important milestone as teams gear up for the A…",
     "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/stranded-in-chennai-sabaorish-ravichandrans-heart-beats-for-adopted-home-japan/articleshow/134378615.cms",
@@ -141,60 +222,6 @@ window.cricketNews = [
     "url": "https://www.rediff.com/sports/report/majhi-inaugurates-odisha-t-20-league-cm-trophy/20260920.htm",
     "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
     "publishedAt": "2026-09-20T17:04:33Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "Motorbiscuit.com",
-    "title": "Watch Oscar Piastri Take 100 mph Cricket Challenge with Former English Player",
-    "description": "Oscar Piastri spends quality time with former English player Kevin Pietersen in a Cricket challenge, as the Australian faces deliveries from bowling machine. The Australia and England rivalry is well known in the cricket world as the Ashes. Of course,…",
-    "url": "https://www.motorbiscuit.com/watch-oscar-piastri-take-100-mph-cricket-challenge-with-former-english-player/",
-    "image": "https://s.yimg.com/lo/mysterio/api/0cc5222c69cc2f56bf45285aebe15745fd73abe9982b51b038129203dd6187ee/lightyear_networkapi/resizefill_w768_h452%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorbiscuit_articles_333%2F25ec738fe8767b5a5d9e40f4af5eee64.jpg",
-    "publishedAt": "2026-09-20T16:49:53Z",
-    "author": "Darshan Chokhani"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Sano International Cricket Ground: Is Japan’s stadium big or small? Boundary dimensions, capacity and size explained",
-    "description": "With Japan set to face India at the Sano International Cricket Ground, here's a look at the venue's dimensions and capacity.",
-    "url": "https://www.cricketnews.com/en/cricket/news/sano-international-cricket-ground-japan-boundary-dimensions-size/aec9d2f0a897d7d78339ac1f",
-    "image": "https://s.yimg.com/lo/mysterio/api/767fc47b8f63807c1deefb6d24d9fc775f9b5d295ff566de19e7ed04f84626c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F44e251584b5ba8ab1a0eea8be3bc6f18",
-    "publishedAt": "2026-09-20T16:01:26Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Melbourne cricket community rocked after highly regarded cricket club life member charged with child sex crimes",
-    "description": "For decades, Dale McCraw was a respected figure at a community-focused cricket club in Melbourne's southeast. Now the life member has been charged with multiple child sex offences.",
-    "url": "https://www.dailymail.com/news/article-16138751/melbourne-cricket-club-life-member-dale-mccraw-child-sex.html",
-    "image": "https://i.dailymail.com/1s/2026/09/18/05/111322473-0-image-m-19_1789705580092.jpg",
-    "publishedAt": "2026-09-20T14:04:30Z",
-    "author": "Paul Shapiro"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "India @Asian Games Day 1: Elavenil Bags Silver Double; Suchika Assures MMA Bronze",
-    "description": "India has opened its Asian Games medal tally with two silvers in shooting, driven by Elavenil Valarivan's performance, and secured an unexpected podium finish in Mixed Martial Arts. The women's cricket team also advanced to the finals, aiming for a second con…",
-    "url": "https://www.rediff.com/sports/report/india-at-asian-games-2026-elavenil-bags-silver-double-suchika-assures-mma-bronze-womens-cricket-team-in-final/20260920.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/sep/20asian-wrap1.jpg",
-    "publishedAt": "2026-09-20T13:56:08Z",
-    "author": "harishk@rediff.co.in (Harish Kotian)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games 2026 Day 1 Medal Tally: Where India rank after two shooting silvers in Aichi-Nagoya",
-    "description": "India made a striking start at the Asian Games, capturing two silver medals in shooting events. Elavenil Valarivan was a standout, winning silvers both individually and as part of the team in the 10m air rifle competition. Additionally, the women's cricket te…",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-1-medal-tally-where-india-rank-after-two-shooting-silvers-in-aichi-nagoya/articleshow/134369371.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134369516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-20T13:34:47Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Tripura CM Announces Land For Modern Cricket Academy",
-    "description": "Tripura Chief Minister Manik Saha announced that the state government has allotted 30 acres of land to the Tripura Cricket Association (TCA) for establishing a modern cricket academy. This initiative aims to provide advanced training facilities for budding cr…",
-    "url": "https://www.rediff.com/sports/report/tripura-government-allocates-land-for-cricket-academy/20260920.htm",
-    "image": "https://im.rediff.com/1200-630/news/2023/mar/06manik.jpg",
-    "publishedAt": "2026-09-20T13:25:38Z",
     "author": "sports@rediff.co.in (Rediff Sports Desk)"
   }
 ]
