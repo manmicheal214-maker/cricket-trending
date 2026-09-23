@@ -1,5 +1,176 @@
 window.cricketNews = [
   {
+    "source": "Pro Football Network",
+    "title": "‘Deshaun Watson Looks Better Without You’ — Pro Bowler Gets Brutally Honest About Kevin Stefanski After Falcons’ Horrific Start",
+    "description": "Kevin Stefanski’s first season with the Atlanta Falcons has become a difficult one to explain. The offense has struggled to generate anything consistently, while uncertainty at quarterback has made the situation even harder to stabilize.",
+    "url": "https://www.profootballnetwork.com/deshaun-watson-pro-bowler-kevin-stefanski-falcons-horrific-start/?utm_medium=rss&amp;utm_source=nordot",
+    "image": "https://s.yimg.com/lo/mysterio/api/3b3c130d3390aa95c002d912d4c2561f207197edfd7b75fdf08d0760558e1bfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fed3af69d225030f83ecdae834037ce37.jpg",
+    "publishedAt": "2026-09-22T05:36:24Z",
+    "author": "Abhilasha Aditi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: Pakistan women win bronze after beating Bangladesh by 31 runs",
+    "description": "The bronze medal is Pakistan's third women's cricket medal at the Asian Games. Pakistan had previously won gold in the 2010 and 2014 editions. The victory also made amends for their defeat to Bangladesh in the bronze-medal match at the 2023 Hangzhou Asian Gam…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/asian-games-2026-pakistan-women-win-bronze-after-beating-bangladesh-by-31-runs/articleshow/134403162.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134403247,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T05:22:46Z",
+    "author": "TIMESOFINDIA.COM"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Match-fixing allegations hit IPL: 'Passed information to bookies in London via Snapchat,' admits Rachit Bhatia",
+    "description": "Fresh match-fixing claims hit the IPL after Rachit Bhatia admitted to sharing insider pitch and squad information with London-based bookmakers via Snapchat.",
+    "url": "https://www.sportingnews.com/in/cricket/news/match-fixing-allegations-hit-ipl-passed-information-bookies-london-rachit-bhatia/d85166446f77e30de11dd5cf",
+    "image": "https://s.yimg.com/lo/mysterio/api/9dd8b97ab0ae983253e5c2bd487c8c692a9befbbb2927c5c1cdca1c3a23cac87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f99dc5248be8dc73face43bce057637",
+    "publishedAt": "2026-09-22T05:18:05Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. Sri Lanka live win probability, score, chances of victory for Asian Games women's cricket final 2026",
+    "description": "India vs Sri Lanka Asian Games 2026 women's cricket final live score: Check real-time win probability, toss winner, playing XIs, and gold medal match updates...",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-sri-lanka-live-win-probability-score-asian-games-womens-cricket-final-2026/9a9b4b35058a3db4d2f1a29c",
+    "image": "https://s.yimg.com/lo/mysterio/api/0b20f4f2e07bdbb92278816b217dbb68b97b85985dc46b71d1b65d40d2bda56c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F84c136d3d82927dd7085c08be7d0d9aa",
+    "publishedAt": "2026-09-22T04:24:18Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "How to watch ENG vs SL ODI 2026 live: Start time, TV channels and streaming details",
+    "description": "How to watch ENG vs SL ODI 2026 live: Match start time in IST, UK channels on Sky Sports, SonyLIV live streaming in India, venues, and full series schedule.",
+    "url": "https://www.cricketnews.com/en/cricket/news/eng-vs-sl-odi-2026-start-time-tv-channels-streaming-details/0827f05768961f2ae2fa7215",
+    "image": "https://s.yimg.com/lo/mysterio/api/f489240f2438f3299623b5b1a5bc50cfbe0953925c337bc170d2e886f9c15271/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5c65d227f785026c833925225f6910af",
+    "publishedAt": "2026-09-22T04:13:07Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "CNA",
+    "title": "Pietersen teaching England how to face spin, says Brook",
+    "description": "Sept 22 : England's players have been learning how to play spin from Kevin Pietersen, captain Harry Brook said, as he hailed the former Ashes and Twenty20 World Cup-winning batter's impact on the side.Pietersen, England's third-highest run scorer across all f…",
+    "url": "https://www.channelnewsasia.com/sport/pietersen-teaching-england-how-face-spin-says-brook-6401226",
+    "image": "https://dam.mediacorp.sg/image/upload/s---EQtfR3C--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T040557Z_1_LYNXMPEM8L060_RTROPTP_3_CRICKET-T20-ENG-LKA.JPG?itok=3GURaCEj",
+    "publishedAt": "2026-09-22T04:05:57Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "India Women vs Sri Lanka Women Final Live Streaming: When and Where to watch IND vs SL cricket match, weather update, pitch report and playing 11",
+    "description": "India Women vs Sri Lanka Women Final Weather Updates: India Women and Sri Lanka Women meet in the Women's Asian Games 2026 final at Korogi Sports Park in Nisshin, Japan. The match starts at 10:30 AM IST, with weather conditions, pitch report, live streaming d…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-women-vs-sri-lanka-women-final-live-streaming-when-and-where-to-watch-weather-update-pitch-report-and-playing-11/articleshow/134400987.cms",
+    "image": "https://img.etimg.com/thumb/msid-134401071,width-1200,height-630,imgsize-161516,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-22T03:04:22Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Business Standard",
+    "title": "JPN vs IND one-off T20I live streaming: How to watch today's cricket match?",
+    "description": "Japan vs India one-off T20I begins at 9:30 am IST on Tuesday, with the toss at 9 am IST. Fans in India can watch on Star Sports or stream the match on the FanCode app and websit",
+    "url": "https://www.business-standard.com/cricket/news/jpn-vs-ind-one-off-t20i-live-streaming-how-to-watch-today-s-cricket-match-126092100702_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/thumb/resize/1200X628/1789986410-7263.jpg",
+    "publishedAt": "2026-09-22T02:52:29Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs JPN T20 2026 Live Streaming: When and where to watch India vs Japan match, weather update, pitch report and playing XI",
+    "description": "India vs Japan Weather Updates:India face Japan in a historic one-off T20I at the Sano International Cricket Ground on September 22. Check the latest Sano weather and rain update, pitch report, match time, live streaming, TV telecast, squad details and playin…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/ind-vs-jpn-t20-2026-live-streaming-when-and-where-to-watch-india-vs-japan-match-weather-update-pitch-report-and-playing-xi/articleshow/134400740.cms",
+    "image": "https://img.etimg.com/thumb/msid-134400848,width-1200,height-630,imgsize-180948,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-22T02:51:19Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Sporting News",
+    "title": "England vs. Sri Lanka prediction, team news, pitch report and betting tips for 1st ODI",
+    "description": "England face Sri Lanka in the first ODI at Durham. Check our prediction, team news, pitch report and betting tips for Tuesday's clash.",
+    "url": "https://www.sportingnews.com/in/cricket/news/england-vs-sri-lanka-prediction-team-news-pitch-report-betting-tips-1st-odi/8c2d29cc30dd8b10e873506f",
+    "image": "https://s.yimg.com/lo/mysterio/api/90be92de02d79bc1c3dbb497e5e4c9873ef6717252ff1208dea9deba0fa223d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5c65d227f785026c833925225f6910af",
+    "publishedAt": "2026-09-22T02:40:01Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Dominionpost.com",
+    "title": "A World Series of messages, ideas Monday at Mountaineer Middle",
+    "description": "Sep. 21—MORGANTOWN-He was back in the dugout watching the next batter when the sting kicked in. On his belly, that is. \"Yeah, I hit and bounced first-then I slid, \" Armani Guzman told a rapt audience of students at Mountaineer Middle School on Monday morning.…",
+    "url": "https://www.dominionpost.com/2026/09/21/a-world-series-of-messages-ideas-monday-at-mountaineer-middle/",
+    "image": null,
+    "publishedAt": "2026-09-22T02:37:00Z",
+    "author": "JIM BISSETT, The Dominion Post, Morgantown, W.Va."
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs SL Final: Harmanpreet's India eye another Asian Games gold",
+    "description": "India Women vs Sri Lanka Women Final Live Score: India will look to maintain their dominance in women's cricket when they face Sri Lanka in the Asian",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-women-vs-sri-lanka-women-asian-games-2026-final-live-updates-ind-w-vs-sl-w-t20-cricket-match-scorecard-live-streaming-latest-news/liveblog/134400515.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134400515,width-1280,height-720,imgsize-68655,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T02:16:41Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet Kaur's India eye Asian Games gold repeat as they face Sri Lanka in final",
+    "description": "The Indian women's cricket team is gearing up for a shot at gold in the Asian Games, preparing to face Sri Lanka in a highly anticipated rematch of the last final. With Sri Lanka's captain, Chamari Athapaththu, showcasing impressive form, India is strategizin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/harmanpreet-kaurs-india-eye-asian-games-gold-repeat-as-they-face-sri-lanka-in-final/articleshow/134400355.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134400385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T02:07:15Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Punch",
+    "title": "Nigeria secure double victory in NCF quadrangular T20 tourney",
+    "description": "Nigeria’s cricket teams secured a double victory in the NCF Quadrangular T20 Series, with the senior side beating Ghana and Nigeria A defeating Sierra Leon\n\nRead More: https://punchng.com/nigeria-secure-double-victory-in-ncf-quadrangular-t20-tourney/",
+    "url": "https://punchng.com/nigeria-secure-double-victory-in-ncf-quadrangular-t20-tourney/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2025/10/29032047/Nigeria-Cricket-Federation-NCF.png",
+    "publishedAt": "2026-09-22T01:50:07Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs JPN one-off T20I 2026 live scorecard, toss winner, winning probability, weather forecast, result and highlights from Sano",
+    "description": "IND vs JPN one-off T20I 2026 live scorecard, toss winner, winning probability, weather forecast, result, highlights, ball-by-ball updates, match result, and video highlights from Sano International Cricket Ground, Sano.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-jpn-t20i-2026-scorecard-result-highlights-sano/199e44f380d4ba60f71370fb",
+    "image": "https://s.yimg.com/lo/mysterio/api/f0009feb666c9cae94a66520ee38679e0673685e736a1996c9db5269bd66c4ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffb664d7f0a413ccf2d9d3831596836d4",
+    "publishedAt": "2026-09-22T01:50:02Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch Sri Lanka vs. England free live stream, TV channel, start time for 1st ODI cricket match",
+    "description": "All the details you need to follow the Sri Lanka vs England 1st ODI, including live streaming and TV broadcast information, and match start time.",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-sri-lanka-england-free-live-stream-tv-channel-start-time-1st-odi/e09b9de582c428a4bf20282e",
+    "image": "https://s.yimg.com/lo/mysterio/api/677e77492ddf9d546ffb90ffc76ca779800734db0a8f0da75c7fc1c7a10e1ec9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fe6aa4bbd488c5e8d27c24952e3fd4a59",
+    "publishedAt": "2026-09-22T01:30:02Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026 Day 3 schedule: Women’s cricket final, badminton quarter-finals, shooting among key events today",
+    "description": "Asian Games Day 3 schedule: Indian athletes will compete across many sports at the Asian Games 2026.  The women's cricket team aims for a second gold medal in their final.  Badminton teams face hosts Japan in crucial quarter-final matches.  Shooting events of…",
+    "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-day-3-schedule-india-sri-lanka-women-cricket-final-badminton-quarter-finals-shooting-among-key-events-today/articleshow/134399891.cms",
+    "image": "https://img.etimg.com/thumb/msid-134399890,width-1200,height-630,imgsize-123246,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-22T01:25:21Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asian Games 2026 LIVE UPDATES Day 3: Badminton - IND vs JPN underway; Kabaddi - IND vs KOR at 7:15",
+    "description": "Shooting: Elavenil, Parth assure India another medal in 10m air rifle mixed team, final at . Women's Cricket - India vs Sri Lanka in Gold medal match at 10:30 am IST",
+    "url": "https://www.business-standard.com/sports/asian-games/asian-ganes-2026-day-3-live-updates-india-vs-sri-lanka-womens-cricket-score-medal-winners-shooting-badminton-hockey-kabaddi-126092200073_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/featurecrop/1200X628/1790038627-7129.jpg",
+    "publishedAt": "2026-09-22T00:58:00Z",
+    "author": "Aditya Kaushik, Anish Kumar"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Bhutan’s national cricket team to play four practice matches in Pokhara",
+    "description": "POKHARA: Bhutan’s national men’s cricket team is set to play four friendly practice matches at the cricket ground inside Pokhara Stadium to mark World Tourism Day. The Bhutanese team is visiting Pokhara as part of its preparations for the upcoming ICC Men’s T…",
+    "url": "https://english.khabarhub.com/2026/22/568703/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Pokhara-Stadium-.jpg",
+    "publishedAt": "2026-09-22T00:34:48Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "The Times of India",
     "title": "Asian Games Live: India chase first gold as women cricket team face SL in final",
     "description": "Asian Games 2026 Day 3 Live Updates: India's women's cricket team will be in focus on September 22 as they take on Sri Lanka in the Asian Games final",
@@ -97,150 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/3afb3781c39c0385efbc1877ad92d1a783f0e63b685697927483712299abfc87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2f8dfe7e7082bf32193662497ee81f8e",
     "publishedAt": "2026-09-21T15:46:35Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia bowling attack boosted as Cummins and Starc return v S Africa",
-    "description": "JOHANNESBURG, Sept 21 : Australia’s bowling attack for their three one-day internationals against South Africa has been considerably strengthened with captain Pat Cummins and Mitchell Starc joining the squad along with all-rounder Jack Edwards, Cricket Austra…",
-    "url": "https://www.channelnewsasia.com/sport/australia-bowling-attack-boosted-cummins-and-starc-return-v-s-africa-6400141",
-    "image": "https://dam.mediacorp.sg/image/upload/s--dvTPdrvD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-21T152514Z_1_LYNXMPEM8K1BP_RTROPTP_3_CRICKET-TEST-ENG-AUS.JPG?itok=Cc2e2WLm",
-    "publishedAt": "2026-09-21T15:25:14Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "England vs Sri Lanka 1st ODI prediction, lineups and pitch report for Riverside Ground clash",
-    "description": "England host Sri Lanka in the first ODI at Chester-le-Street on Tuesday. Check predicted lineups, pitch report and match prediction for the Riverside Ground clash.",
-    "url": "https://www.cricketnews.com/en/cricket/play/england-vs-sri-lanka-1st-odi-prediction-lineups-pitch-report-riverside/cf2eccd102b42febd4e10dfe",
-    "image": "https://s.yimg.com/lo/mysterio/api/a7563a945c2a6c73e20521ba09d01256448d95f91a5560b8fc17a82530bf15d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99320b7ea8a6a4dbb79aa498b4ebcb34",
-    "publishedAt": "2026-09-21T15:20:02Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Zaheer Khan coaching history: Detailing CSK head coach's coaching record in international and franchise cricket",
-    "description": "The wait for CSK fans is finally over as Zaheer Khan has been appointed the new head coach for Chennai. So here's a look at his coaching career.",
-    "url": "https://www.cricketnews.com/en/cricket/news/zaheer-khan-coaching-csk-head-coach-coaching-record/c3f7ec18396e4cae394b5d45",
-    "image": "https://s.yimg.com/lo/mysterio/api/0b373581f3d4c574108711089cc5dc9624ce9eee48f8bb258c6883714bf4a164/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3ba9e9979114cb8f38180163e2d0c3d4",
-    "publishedAt": "2026-09-21T15:13:51Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Carse needs time away, says 'good mate' Brook",
-    "description": "England white-ball captain Harry Brook says his \"very good mate\" Brydon Carse needs time away from international cricket.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6rm9p1j0je4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2bb4fe2b3d86ea6107aee80876e74365a0bdba921b4dd7a97ff09272f9209ebe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F89802128af61af568183531c32481c34.jpg",
-    "publishedAt": "2026-09-21T15:10:11Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Carse needs time away, says 'good mate' Brook",
-    "description": "England white-ball captain Harry Brook says his \"very good mate\" Brydon Carse needs time away from international cricket.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6rm9p1j0je4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4aa/live/76562600-b5c8-11f1-abb5-85e9be42cb76.jpg",
-    "publishedAt": "2026-09-21T15:10:07Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Chennai Super Kings ropes in Zaheer Khan as Head Coach for IPL 2027",
-    "description": "Chennai Super Kings on Monday named former India pace great Zaheer Khan as their new head coach for the upcoming season.\nZaheer replaced Stephen Fleming, who was at helm for 18 seasons.\n\"Welcoming Zaheer Khan as the Head Coach of Chennai Super Kings,\" CSK ann…",
-    "url": "https://www.business-standard.com/cricket/ipl/chennai-super-kings-ropes-in-zaheer-khan-as-head-coach-for-ipl-2027-126092101012_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/13/thumb/fitandfill/1200X628/1755079095-6433.jpg",
-    "publishedAt": "2026-09-21T14:27:30Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bowler Hayes makes permanent Gloucestershire move",
-    "description": "Gloucestershire sign Nottinghamshire seamer James Hayes on a permanent deal after a successful loan spell.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cje3rpg6p2z0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/05ec/live/d556b0e0-b5c1-11f1-abb5-85e9be42cb76.jpg",
-    "publishedAt": "2026-09-21T14:23:14Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "TechRadar",
-    "title": "How to watch England vs Sri Lanka 2026 ODI Series: Live Streams, Tickets, Schedule & Preview",
-    "description": "All the ways to watch the England vs Sri Lanka 2026 ODI series from anywhere, as Harry Brook's side take on the tourists.",
-    "url": "https://www.techradar.com/how-to-watch/cricket/england-vs-sri-lanka-2026-odi-series",
-    "image": "https://cdn.mos.cms.futurecdn.net/jcjEN6SMeS8xKokQvyCji9-2560-80.jpg",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "author": "Krishi Chowdhary"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "US may have advised Netherlands to withdraw from ICC",
-    "description": "Washington supposedly \"encouraged\" the Netherlands to withdraw from the International Criminal Court (ICC), the Associated Press reported on Monday. The media outlet cited people with knowledge of the...",
-    "url": "https://biztoc.com/x/9de18f8cedd86aad",
-    "image": "https://biztoc.com/cdn/9de18f8cedd86aad_s.webp",
-    "publishedAt": "2026-09-21T13:57:37Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Brick by brick’: Trump’s campaign to dismantle the ICC enters new phase",
-    "description": "The Trump administration is preparing sanctions against the International Criminal Court as Washington escalates its campaign against the institution over its investigations involving US forces and arrest warrants for Israeli officials. The proposed measures …",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/brick-by-brick-trumps-campaign-to-dismantle-the-icc-enters-new-phase/articleshow/134390901.cms",
-    "image": "https://img.etimg.com/thumb/msid-134390969,width-1200,height-630,imgsize-154266,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-21T13:31:04Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "CNA",
-    "title": "Trump administration prepares sanctions against International Criminal Court, source says",
-    "description": "Targeting the entire organisation directly, as well as entities that cooperate with it, could severely undermine the ICC's work.",
-    "url": "https://www.channelnewsasia.com/world/us-sanctions-international-criminal-court-icc-trump-6397981",
-    "image": "https://dam.mediacorp.sg/image/upload/s--vvn5Bajz--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-20T184531Z_1_LYNXMPEM8J0JM_RTROPTP_3_WARCRIMES-IVORYCOAST.JPG?itok=f6d9Xc4K",
-    "publishedAt": "2026-09-21T13:22:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Chennai Super Kings name Zaheer Khan head coach after 18-year Fleming era",
-    "description": "Chennai Super Kings have appointed former India pacer Zaheer Khan as head coach for IPL 2027, replacing Stephen Fleming after his 18-year association with the franchise. Fleming joined CSK as a player in 2008 and became head coach in 2009, overseeing five IPL…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/chennai-super-kings-name-zaheer-khan-head-coach-after-18-year-fleming-era/articleshow/134390541.cms",
-    "image": "https://img.etimg.com/thumb/msid-134390612,width-1200,height-630,imgsize-234030,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-21T13:15:22Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "CSK appoint Zaheer Khan as head coach after Stephen Fleming's exit",
-    "description": "Cricket News: NEW DELHI: Five-time Indian Premier League (IPL) champions Chennai Super Kings (CSK) on Monday appointed former India pacer Zaheer Khan as their head .",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-appoint-zaheer-khan-as-head-coach-after-stephen-flemings-exit/articleshow/134390315.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134390456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-21T13:05:04Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Diplomat",
-    "title": "Tajikistan Eyes ICC Exit",
-    "description": "The move comes a year after Tajikistan’s refusal to arrest Russian President Vladimir Putin brought a formal rebuke from The Hague.",
-    "url": "https://thediplomat.com/2026/09/tajikistan-eyes-icc-exit/",
-    "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-21-215849.jpg",
-    "publishedAt": "2026-09-21T12:53:00Z",
-    "author": "Kulobiddin Norov"
-  },
-  {
-    "source": "Abcnews.com",
-    "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC",
-    "description": "The Netherlands is making preparations for the United States to sanction the International Criminal Court, in the last escalation of the Trump Administration’s attacks on the global tribunal",
-    "url": "https://abcnews.com/International/wireStory/netherlands-bracing-potentially-devastating-us-sanctions-icc-136616246",
-    "image": "https://i.abcnewsfe.com/a/76182f15-5bb3-4947-a075-7458badbab9a/wirestory_2c1cc314732f920c2de59396d3b556f6_16x9.jpg?w=1600",
-    "publishedAt": "2026-09-21T12:31:46Z",
-    "author": "MOLLY QUELL Associated Press"
-  },
-  {
-    "source": "The-digital-reader.com",
-    "title": "What does the future of One-Day International cricket look like?",
-    "description": "One-Day International (ODI) cricket faces an uncertain but potentially exciting future. Many matches of this variation of cricket are available at the betting site 1xBet too. As T20 cricket continues to boom, and Test cricket remains a significant part of the…",
-    "url": "https://the-digital-reader.com/what-does-the-future-of-one-day-international-cricket-look-like/",
-    "image": "https://the-digital-reader.com/wp-content/uploads/2026/09/International-cricket.webp",
-    "publishedAt": "2026-09-21T11:32:38Z",
-    "author": "Johannes Gottwald"
   }
 ]
 ;
