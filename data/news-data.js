@@ -1,6 +1,114 @@
 window.cricketNews = [
   {
     "source": "BBC News",
+    "title": "England ease to big victory as Sri Lanka crumble in first ODI",
+    "description": "England maintained their excellent one-day form as they eased to a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/32d0/live/7ced4c00-b6b8-11f1-bc1f-3f186ca4140c.jpg",
+    "publishedAt": "2026-09-22T19:43:40Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Celebrations in Rohtak after Shafali’s Asian Games performance",
+    "description": "Rohtak celebrates Shafali Verma’s Asian Games heroics: 48 off 29 and 2/3 vs Sri Lanka, as India women win cricket gold; family honoured locally.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/celebrations-in-rohtak-after-shafalis-asian-games-performance/articleshow/134419791.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134419790,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T19:26:29Z",
+    "author": "Sat Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket & Navratri to test city’s traffic & security on Oct 11",
+    "description": "Indore prepares for India-West Indies T20I at Holkar Stadium on Oct 11, coinciding with Navratri, with focus on traffic, parking, and security.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/cricket-navratri-to-test-citys-traffic-security-on-oct-11/articleshow/134419469.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-22T18:55:38Z",
+    "author": "Litha Achari"
+  },
+  {
+    "source": "USA Today",
+    "title": "Former Colts Pro Bowler lands with Eagles",
+    "description": "Former Indianapolis Colts cornerback Kenny Moore has landed with a new team.",
+    "url": "https://coltswire.usatoday.com/story/sports/nfl/colts/2026/09/22/eagles-sign-former-colts-pro-bowl-kenny-moore-one-year-deal/91891987007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/a4f7c711a89ffdf42123e51ce43a0e1908ab1575ab7fcb602cf4f71b239d0331/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findianapolis_colts_wire_usa_today_sports_articles_945%2F6cedc3e5b2359e51315d0a93c283fb16.jpg",
+    "publishedAt": "2026-09-22T18:46:07Z",
+    "author": "Paul Bretl, Colts Wire"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘A joke of an athlete’: Steven Finn and Stuart Broad reveal their current No. 1 men’s cricketer as Jasprit Bumrah loses out",
+    "description": "Former English pacers Steven Finn and Stuart Broad chose their Ashes rival Mitchell Starc as the best in the world currently over Indian pacer Jasprit Bumrah...",
+    "url": "https://www.cricketnews.com/en/cricket/news/steven-finn-stuart-broad-reveal-current-no-1-men-cricketer-2026/8c534c133373acbbcd32efc3",
+    "image": "https://s.yimg.com/lo/mysterio/api/b44427bb01d5ba3e1a6a39b493152e08370b9f41c4bb372545d2e158a516fe3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0b5fcf3742ca856db750be25ca87ecb8",
+    "publishedAt": "2026-09-22T18:41:48Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games Gold for Chandigarh cricketer Nandini Sharma",
+    "description": "Chandigarh pacer Nandini Sharma won Asian Games 2026 cricket gold with India after a 147-run final win vs Sri Lanka, following Asia Cup 2026 title.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/asian-games-gold-for-chandigarh-cricketer-nandini-sharma/articleshow/134419041.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134419038,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T18:29:19Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From 'Goa Cannon' to Kerala coach: Swapnil Asnodkar pads up for a new innings",
+    "description": "Cricket News: KOCHI: Swapnil Asnodkar once made his name with his fearless strokeplay. Now, Kerala wants him to take on a different challenge: getting its batters t.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/from-goa-cannon-to-kerala-coach-swapnil-asnodkar-pads-up-for-a-new-innings/articleshow/134416815.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134416893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T17:41:53Z",
+    "author": "Vishal Menon"
+  },
+  {
+    "source": "The Times of India",
+    "title": "HC bars Bharatpur cricket official from taking decisions",
+    "description": "Rajasthan HC restrains Bharatpur District Cricket Association secretary Shatrudhan Tiwari from key decisions amid sexual misconduct probe; notices issued.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/hc-bars-bharatpur-cricket-official-from-taking-decisions/articleshow/134417972.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134395110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T17:40:55Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'False and defamatory': CSK's Vansh Bedi says he is not the unnamed player in sting operation controversy",
+    "description": "Bedi, who was part of the Chennai Super Kings (CSK) set-up during IPL 2025 and later played for Central Delhi Kings in the Delhi Premier League (DPL), broke his silence.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134416208,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-22T17:26:20Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "USA Today",
+    "title": "India edges Japan in T20I cricket match after controversial decision",
+    "description": "The India men’s cricket team narrowly defeated Japan by two runs in their first-ever match after a controversial umpiring decision.",
+    "url": "https://www.usatoday.com/story/sports/2026/09/22/india-japan-t20i-cricket-controversial-umpiring-decision/91888881007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/69c961d865ffddb47f2b3ceef0698a1a25130f8ee16a38498e302ba4dd3bdce6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F0c3a4537c33afac143b0a2df82185948.jpg",
+    "publishedAt": "2026-09-22T17:13:03Z",
+    "author": "Elizabeth Flores, USA TODAY"
+  },
+  {
+    "source": "RTE",
+    "title": "Trump's UN takeaways: Threats, diplomacy, and the ICC",
+    "description": "President Donald Trump used his address to the UN General Assembly to defend the US-Israeli campaign against Iran while laying out his foreign policy priorities.",
+    "url": "https://www.rte.ie/news/2026/0922/1592572-trump-un-takeaways/",
+    "image": "https://www.rte.ie/images/00250d26-1600.jpg",
+    "publishedAt": "2026-09-22T17:08:25Z",
+    "author": "RTÉ News"
+  },
+  {
+    "source": "Truthout",
+    "title": "Senator Says European Nations Must Sanction Trump, Rubio Before US Wrecks ICC",
+    "description": "Sen. Chris Van Hollen said that Trump and Rubio’s attacks on the ICC seek to obstruct investigations into Netanyahu.",
+    "url": "https://truthout.org/articles/senator-says-european-nations-must-sanction-trump-rubio-before-us-wrecks-icc/",
+    "image": "https://truthout.org/app/uploads/2026/09/2026_09-22-rubio-trump.jpg",
+    "publishedAt": "2026-09-22T17:07:57Z",
+    "author": "Sharon Zhang"
+  },
+  {
+    "source": "BBC News",
     "title": "Test Match Special Podcast",
     "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
     "url": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_campaign=rss",
@@ -25,150 +133,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/09/22/16/111399265-0-image-m-15_1790092284580.jpg",
     "publishedAt": "2026-09-22T15:54:40Z",
     "author": "Siddarth Thakur"
-  },
-  {
-    "source": "Common Dreams",
-    "title": "Van Hollen Says ICC Members Would Sanction Trump and Rubio If They 'Have Any Self-Respect’",
-    "description": "As the United Nations General Assembly prepared to meet, a US senator said President Donald Trump and Secretary of State Marco Rubio should face sanctions for their role in trying to destroy the International Criminal Court in order to protect Israeli Prime M…",
-    "url": "https://www.commondreams.org/news/sanction-trump-rubio-icc",
-    "image": "https://www.commondreams.org/media-library/image.png?id=67657767&width=1200&height=600&coordinates=0%2C222%2C0%2C223",
-    "publishedAt": "2026-09-22T14:27:30Z",
-    "author": "Stephen Prager"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Tamil Nadu CM Vijay hails Indian women cricket team's Asian Games win, announces Rs 75 lakh cash reward for Kamalini",
-    "description": "CHENNAI: Tamil Nadu chief minister C Joseph on Tuesday Vijay congratulated the Indian women’s cricket team for their historic gold medal victory at th.",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-cm-vijay-hails-indian-women-cricket-teams-asian-games-win-announces-rs-75-lakh-cash-reward-for-kamalini/articleshow/134414567.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134414579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T14:21:29Z",
-    "author": "Shanmughasundaram J"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games 2026 Medal Tally: Where does India rank after women's cricket retains gold?",
-    "description": "India’s women's cricket team showcased their prowess once again, winning the gold medal at the Asian Games for the second time. Under the captaincy of Harmanpreet Kaur, they triumphed over Sri Lanka by an impressive 147 runs. This victory elevates India's med…",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-where-does-india-rank-after-womens-cricket-retains-gold/articleshow/134413865.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134414012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T14:00:51Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "England mainstay Adil Rashid to miss entire ODI cricket series against Sri Lanka with hand injury",
-    "description": "CHESTER-LE-STREET, England (AP) — England legspinner Adil Rashid will miss the entire ODI cricket series against Sri Lanka because of a right hand injury. Rashid, a mainstay in England's team for more than a decade, was initially forced out of the first match…",
-    "url": "https://sports.yahoo.com/articles/england-mainstay-adil-rashid-miss-133653002.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/3f49353e707dbec6885ab4706cbb67ef464249a482fa57cebe1d9ee03dfb43bb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd532a3a564b3809eb979fa1b195bc10f.jpg",
-    "publishedAt": "2026-09-22T13:36:53Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli's brother-in-law was once a professional cricketer, then joined merchant navy at 17. Who is Karnesh Ssharma?",
-    "description": "Anushka Sharma’s brother Karnesh Ssharma is the producer behind several critically acclaimed films and TV series, such as NH10, Bulbbul, Qala, etc. However, before he became a hot-shot producer known for interesting content, he had explored several other care…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/virat-kohlis-brother-in-law-was-once-a-professional-cricketer-then-joined-merchant-navy-at-17-who-is-karnesh-ssharma/articleshow/134413359.cms",
-    "image": "https://img.etimg.com/thumb/msid-134413411,width-1200,height-630,imgsize-117030,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-09-22T13:17:59Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?",
-    "description": "India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.",
-    "url": "https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26265301034171-1790066429.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-22T13:05:30Z",
-    "author": "Hafsa Adil"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Yash Dayal back in Uttar Pradesh Ranji Trophy camp",
-    "description": "Yash Dayal is set to return to Uttar Pradesh's Ranji Trophy setup, ending a prolonged period away from competitive cricket. He is being included in the Uttar Pradesh Ranji Trophy camp, starting on Friday in Lucknow. Dayal has not played any competitive cricke…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yash-dayal-back-in-uttar-pradesh-ranji-trophy-camp/articleshow/134412964.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134413015,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T12:57:30Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Evening news wrap: Bihar molestation accused shot in encounter; women cricket team bags India's first Asian Games gold & more",
-    "description": "India News: Nandan Yadav, the main accused in the viral Jamui molestation case involving a Class 10 student, was shot in the leg during a police encounter after a.",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-bihar-molestation-accused-shot-in-encounter-women-cricket-team-bags-indias-first-asian-games-gold-more/articleshow/134412207.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134412861,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T12:50:19Z",
-    "author": "Pranjal Pandey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "No feeling bigger than seeing tri-colour go up: Shafali Verma",
-    "description": "Shafali Verma celebrated India’s second successive Asian Games gold in women’s cricket, saying there was “no bigger feeling” than seeing the national flag go up. She starred with 48 runs and two wickets as India beat Sri Lanka by 147 runs in the final.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shafali-verma-celebrates-asian-games-gold-as-indian-womens-cricket-team-triumphs-over-sri-lanka/articleshow/134411051.cms",
-    "image": "https://img.etimg.com/thumb/msid-134411814,width-1200,height-630,imgsize-121890,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-22T11:58:16Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Livemint",
-    "title": "5 money lessons from Smriti Mandhana's record-breaking cricket career: Diversification, consistency and more",
-    "description": "Smriti Mandhana's cricket career leaves a lot to learn for investors. Here are 5 money lessons from her record-breaking journey.",
-    "url": "https://www.livemint.com/money/personal-finance/5-money-lessons-from-smriti-mandhanas-record-breaking-cricket-career-diversification-consistency-and-more-11790077774348.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/5_SMRITI_1790078153838_k9oZ_1790078166441_QYX2_80ef3b50-e2c9-4d40-a17f-3a9fd610aa88_Vty8.jpg",
-    "publishedAt": "2026-09-22T11:56:36Z",
-    "author": "Sounak Mukhopadhyay"
-  },
-  {
-    "source": "BBC News",
-    "title": "England bat first against Sri Lanka in opening ODI",
-    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the first one-day international at Chester-le-Street.",
-    "url": "https://www.bbc.com/sport/cricket/live/clyxlnz9r6gt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/86b652dbd7b72eb5b3e9d69ddd5ebf825e3a9c406c2000a293c4f46616d9c3ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F42e395434aca9df25fd4eb87ff46806a.jpg",
-    "publishedAt": "2026-09-22T11:40:46Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "India avoid shock defeat by Japan after controversial wide",
-    "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cqr7dxvv7kmyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/ff11bee94eeb92f84aba6149757ab89eb7a952cfc91617309a57955b45809a0c/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd19cd993719c5cd54dad186d97f67058.jpg",
-    "publishedAt": "2026-09-22T11:34:45Z",
-    "author": "Ffion Wynne - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "India avoid shock defeat by Japan after controversial wide",
-    "description": "World Champions India avoid a shock defeat in the one-off T20 against Japan after a wide ball is controversially overturned in the final over.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqr7dxvv7kmyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d301/live/6ef8e530-b66a-11f1-b785-7d19738c6de2.jpg",
-    "publishedAt": "2026-09-22T11:31:55Z",
-    "author": "Ffion Wynne"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Women's Cricket Team Clinches Asian Games Gold",
-    "description": "Union Home Minister Amit Shah congratulated the Indian women's cricket team for winning the gold medal at the Asian Games. Shah praised their \"bedazzling\" performance and \"unmatched cricketing prowess\" after they defeated Sri Lanka by 147 runs in the final he…",
-    "url": "https://www.rediff.com/sports/report/amit-shah-congratulates-indian-womens-team-for-asian-games-gold/20260922.htm",
-    "image": "https://im.rediff.com/1200-630/cricket/2023/sep/25women1.jpg",
-    "publishedAt": "2026-09-22T11:08:28Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India cricketers win in style as Afghan savours 'special' Games silver",
-    "description": "India's dominant women retained their Asian Games cricket crown in style on Tuesday as an Afghan cyclist who once disguised herself as a man won a \"special\" silver.- 'Really overwhelmed' -\nAn Afghan cyclist who disguised herself as a man to pursue her sportin…",
-    "url": "https://sports.yahoo.com/articles/india-cricketers-win-style-afghan-105223856.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/a557d0a96783ada5270d62f793700adc870ba1f087b33af1de370a7f7628f464/lightyear_networkapi/resizefill_w768_h511%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2431b9d8928a0dd4e019b5642d1448a4.jpg",
-    "publishedAt": "2026-09-22T10:52:23Z",
-    "author": "Peter STEBBINGS"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Art Display Captures Spirit Of Asian Games",
-    "description": "An art display at the Asian Games Main Media Centre in Nagoya features drawings by artists from across the subcontinent, offering a unique perspective on the Games. The collection includes tributes to athletes like Neeraj Chopra and calls for cricket's global…",
-    "url": "https://www.rediff.com/sports/report/asian-games-find-artistic-canvas-at-main-media-centre/20260922.htm",
-    "image": "https://im.rediff.com/1200-630/money/2021/aug/09neeraj2.jpg",
-    "publishedAt": "2026-09-22T10:46:32Z",
-    "author": "sports@rediff.co.in (Ajai Masand)"
   }
 ]
 ;
