@@ -1,6 +1,24 @@
 [
   {
     "source": "BBC News",
+    "title": "ODI Cricket",
+    "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m0031z7t/odi-cricket-2026-england-v-sri-lanka-first-odi-highlights?at_campaign=rss&at_medium=RSS",
+    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pbx97w.jpg",
+    "publishedAt": "2026-09-22T22:51:05Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Will Jacks leads the way in comprehensive England victory over Sri Lanka - as Harry Brook's ODI side find new ways to win ahead of next year's World Cup",
+    "description": "RICHARD GIBSON AT CHESTER-LE-STREET: It was not the most aesthetically pleasing performance, but with the 50-over World Cup now just 12 months away, other characteristics emerged.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16152485/Will-Jacks-leads-way-comprehensive-England-victory-Sri-Lanka-Harry-Brooks-ODI-new-ways-win-ahead-years-World-Cup.html",
+    "image": "https://i.dailymail.com/1s/2026/09/22/21/111406109-0-image-a-12_1790108400874.jpg",
+    "publishedAt": "2026-09-22T20:36:10Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "BBC News",
     "title": "England ease to big victory as Sri Lanka crumble in first ODI",
     "description": "England maintained their excellent one-day form as they eased to a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
     "url": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o",
@@ -106,32 +124,5 @@
     "image": "https://truthout.org/app/uploads/2026/09/2026_09-22-rubio-trump.jpg",
     "publishedAt": "2026-09-22T17:07:57Z",
     "author": "Sharon Zhang"
-  },
-  {
-    "source": "BBC News",
-    "title": "Test Match Special Podcast",
-    "description": "Mark Wood tells us why he’s decided now is the time to retire from international cricket.",
-    "url": "https://www.bbc.co.uk/sounds/play/p0pbxthm?at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pbxtj8.jpg",
-    "publishedAt": "2026-09-22T16:29:00Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What happens if cricket matches at Asian Games are washed out? Tie-breaker rules explained",
-    "description": "With bad weather and heavy rains threatening the cricket matches at the Asian Games, here's what will happen if a match gets washed out due to rain.",
-    "url": "https://www.cricketnews.com/en/cricket/news/what-happens-cricket-matches-asian-games-washed-out-tie-breaker-rules/645a9e14b43b803c9e3036cd",
-    "image": "https://s.yimg.com/lo/mysterio/api/47ddc52b14ccf22a1b496b66d20a8926356e4f4ce1e06fe6bd31bca41d178357/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0c6a8c92a965fca8897ef9a44f0ffcc5",
-    "publishedAt": "2026-09-22T16:23:53Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "India embroiled in cricket storm as they convince umpire to overturn wide call against Japan... and prevent one of the biggest shocks in the sport's history",
-    "description": "T20 world champions India have become embroiled in a storm after appearing to persuade the umpire to overturn his wide call - which helped avoid a humiliating defeat against minnows Japan.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16150805/India-embroiled-cricket-storm-convince-umpire-overturn-wide-call-against-Japan-prevent-one-biggest-shocks-sports-history.html",
-    "image": "https://i.dailymail.com/1s/2026/09/22/16/111399265-0-image-m-15_1790092284580.jpg",
-    "publishedAt": "2026-09-22T15:54:40Z",
-    "author": "Siddarth Thakur"
   }
 ]
