@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "England vs Sri Lanka: Jacks, Brook guide England to 89-run win in 1st ODI",
+    "description": "England extended its white-ball dominance over Sri Lanka by winning the first one-day international by 89 runs on the back of a 67 by captain Harry Brook and a five-wicket haul by part-time spinner Will Jacks.\nIt comes after England won the T20 series between…",
+    "url": "https://www.business-standard.com/cricket/news/england-vs-sri-lanka-jacks-brook-guide-england-to-89-run-win-in-1st-odi-126092300098_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/featurecrop/1200X628/1790132229-9137.jpg",
+    "publishedAt": "2026-09-23T02:57:29Z",
+    "author": "AP"
+  },
+  {
+    "source": "Business Standard",
+    "title": "New Zealand go pace-heavy, name 7 pacers for T20I series against India",
+    "description": "New Zealand picked seven frontline pace bowlers, including a fit-again Adam Milne for their upcoming five-match T20 International series against reigning World Champions India starting October 22 in Christchurch.\nWhite-ball captain Mitchell Santner will lead …",
+    "url": "https://www.business-standard.com/cricket/news/new-zealand-go-pace-heavy-name-7-pacers-for-t20i-series-against-india-126092300116_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/12/thumb/fitandfill/1200X628/1770888615-5159.jpg",
+    "publishedAt": "2026-09-23T02:56:42Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "DPL fixing: Former CSK player Bedi flags 'corrupt approach' to ACU",
+    "description": "Young keeper-batter Vansh Bedi, who had played one T20 match for Delhi in the Syed Mushtaq Ali Trophy, allegedly received a \"corrupt approach\" during the recent Delhi Premier League (DPL) and promptly reported the matter to league's Anti-Corruption Unit.\nThe …",
+    "url": "https://www.business-standard.com/cricket/news/dpl-fixing-former-csk-player-bedi-flags-corrupt-approach-to-acu-126092201500_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/featurecrop/1200X628/1790131815-7017.jpg",
+    "publishedAt": "2026-09-23T02:50:49Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Punch",
+    "title": "Sierra Leone beat Ghana in NCF Quadrangular T20 tourney",
+    "description": "Sierra Leone defeated Ghana by six wickets in the NCF Quadrangular T20 Series in Lagos, chasing down a target of 85 runs with 11 balls to spare.\n\nRead More: https://punchng.com/sierra-leone-beat-ghana-in-ncf-quadrangular-t20-tourney/",
+    "url": "https://punchng.com/sierra-leone-beat-ghana-in-ncf-quadrangular-t20-tourney/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/23024145/Screenshot-2026-09-23-024126_1790127705-960x630.webp",
+    "publishedAt": "2026-09-23T02:07:43Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India survive Japan scare, defend lowest five-over T20 total by two runs",
+    "description": "In an unexpected T20I match, India managed to hold off Japan, defending a mere total of 32 runs. The game was riddled with unusual events, including wide-ball tensions and a pivotal overturned call from the square-leg umpire. Japan rallied admirably, needing …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-survive-japan-scare-defend-lowest-five-over-t20-total-by-two-runs/articleshow/134423994.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134424006,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-23T01:55:50Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Japan gets a crash course in cricket as Asian Games bring sport to new audience",
+    "description": "Cricket, although steeped in tradition in Japan, has yet to capture a massive fan base. With approximately 7,300 registered members in the Japan Cricket Association, awareness remains limited. To bridge this gap, Korogi Sports Park has introduced visual aids …",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/japan-gets-a-crash-course-in-cricket-as-asian-games-bring-sport-to-new-audience/articleshow/134423818.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134423847,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-23T01:42:28Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet’s India make history with record 147-run win, clinch Asian Games gold",
+    "description": "In a historic achievement, India’s women's cricket team clinched their first gold medal at the Asian Games, showcasing their prowess by defeating Sri Lanka by 147 runs at Korogi Sports Park. Star players Smriti Mandhana and Richa Ghosh shone brightly, signifi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/harmanpreets-india-make-history-with-record-147-run-win-clinch-asian-games-gold/articleshow/134423775.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134423791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-23T01:29:13Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: New Zealand announce 16-member T20I squad for India series, Santner to lead",
+    "description": "New Zealand Cricket has announced a 16-member squad for the upcoming T20I series against India. The series is set to begin on October 22 at Hagley Oval in Christchurch. Several players from the ICC Men's T20 World Cup team have been included in the squad. Inj…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-nz-new-zealand-announce-16-member-t20i-squad-for-india-series-santner-to-lead/articleshow/134423564.cms",
+    "image": "https://img.etimg.com/thumb/msid-134423563,width-1200,height-630,imgsize-156780,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-23T00:53:07Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Github.com",
+    "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+    "description": "Article URL: https://github.com/pkimpel/retro-1620\nComments URL: https://news.ycombinator.com/item?id=49809935\nPoints: 7\n# Comments: 2",
+    "url": "https://github.com/pkimpel/retro-1620",
+    "image": "https://opengraph.githubassets.com/963180d52542a1cc351b27e4daefdb1693056c47fba0bff10fd8e6709e5ca47d/pkimpel/retro-1620",
+    "publishedAt": "2026-09-23T00:06:25Z",
+    "author": "abrax3141"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps v India: Finn Allen to make New Zealand homecoming as T20 squad named",
+    "description": "The 27-year-old hasn’t played an international on home soil since early 2025.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-finn-allen-to-make-new-zealand-homecoming-as-t20-squad-named/HX3TACO7MBBPDNYK6BNMFFJ6MM/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/JUJGI7G55NAO3KOIVQV7U6C6QI.JPG?auth=dccbb9532eb0850ce59958cb78814c549ab217894ce63f95fc179a2671f4da10&width=1200&height=675&quality=70&focal=755%2C182&smart=false",
+    "publishedAt": "2026-09-23T00:00:00Z",
+    "author": "Alex Powell"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Kylie Minogue kicks off AFL Grand Final rehearsals as rival NRL is thrown into chaos after Tones and I backs out of pre-match entertainment",
+    "description": "Kylie Minogue has begun rehearsals at the Melbourne Cricket Ground (MCG) for her upcoming 20-minute performance at the AFL Grand Final on Saturday.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16151547/kylie-minogue-afl-rehearsals-nrl-chaos-tones-cancels.html",
+    "image": "https://i.dailymail.com/1s/2026/09/23/00/111408953-0-image-m-36_1790118212153.jpg",
+    "publishedAt": "2026-09-22T23:43:23Z",
+    "author": "Kinta Walsh-cotton"
+  },
+  {
     "source": "BBC News",
     "title": "ODI Cricket",
     "description": "The summer of cricket concludes with a white-ball series, beginning at the Riverside",
@@ -70,60 +169,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134419038,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-22T18:29:19Z",
     "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "From 'Goa Cannon' to Kerala coach: Swapnil Asnodkar pads up for a new innings",
-    "description": "Cricket News: KOCHI: Swapnil Asnodkar once made his name with his fearless strokeplay. Now, Kerala wants him to take on a different challenge: getting its batters t.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/from-goa-cannon-to-kerala-coach-swapnil-asnodkar-pads-up-for-a-new-innings/articleshow/134416815.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134416893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T17:41:53Z",
-    "author": "Vishal Menon"
-  },
-  {
-    "source": "The Times of India",
-    "title": "HC bars Bharatpur cricket official from taking decisions",
-    "description": "Rajasthan HC restrains Bharatpur District Cricket Association secretary Shatrudhan Tiwari from key decisions amid sexual misconduct probe; notices issued.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/hc-bars-bharatpur-cricket-official-from-taking-decisions/articleshow/134417972.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134395110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T17:40:55Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'False and defamatory': CSK's Vansh Bedi says he is not the unnamed player in sting operation controversy",
-    "description": "Bedi, who was part of the Chennai Super Kings (CSK) set-up during IPL 2025 and later played for Central Delhi Kings in the Delhi Premier League (DPL), broke his silence.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134416208,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-22T17:26:20Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "USA Today",
-    "title": "India edges Japan in T20I cricket match after controversial decision",
-    "description": "The India men’s cricket team narrowly defeated Japan by two runs in their first-ever match after a controversial umpiring decision.",
-    "url": "https://www.usatoday.com/story/sports/2026/09/22/india-japan-t20i-cricket-controversial-umpiring-decision/91888881007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/69c961d865ffddb47f2b3ceef0698a1a25130f8ee16a38498e302ba4dd3bdce6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F0c3a4537c33afac143b0a2df82185948.jpg",
-    "publishedAt": "2026-09-22T17:13:03Z",
-    "author": "Elizabeth Flores, USA TODAY"
-  },
-  {
-    "source": "RTE",
-    "title": "Trump's UN takeaways: Threats, diplomacy, and the ICC",
-    "description": "President Donald Trump used his address to the UN General Assembly to defend the US-Israeli campaign against Iran while laying out his foreign policy priorities.",
-    "url": "https://www.rte.ie/news/2026/0922/1592572-trump-un-takeaways/",
-    "image": "https://www.rte.ie/images/00250d26-1600.jpg",
-    "publishedAt": "2026-09-22T17:08:25Z",
-    "author": "RTÉ News"
-  },
-  {
-    "source": "Truthout",
-    "title": "Senator Says European Nations Must Sanction Trump, Rubio Before US Wrecks ICC",
-    "description": "Sen. Chris Van Hollen said that Trump and Rubio’s attacks on the ICC seek to obstruct investigations into Netanyahu.",
-    "url": "https://truthout.org/articles/senator-says-european-nations-must-sanction-trump-rubio-before-us-wrecks-icc/",
-    "image": "https://truthout.org/app/uploads/2026/09/2026_09-22-rubio-trump.jpg",
-    "publishedAt": "2026-09-22T17:07:57Z",
-    "author": "Sharon Zhang"
   }
 ]
 ;
