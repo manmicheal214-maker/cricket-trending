@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "English cricket player Robin Das charged with 2 counts of rape",
+    "description": "English cricket player Robin Das has been charged with two counts of rape, police in London say. The 24-year-old Das, who plays for county team Essex, was arrested on Aug. 27, 2025, following an investigation into reports that a woman was raped in Brixton in …",
+    "url": "https://sports.yahoo.com/articles/english-cricket-player-robin-das-124148560.html",
+    "image": null,
+    "publishedAt": "2026-09-24T12:41:48Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Babar Azam back in domestic cricket after 7 years': Fans thrilled as Pakistan Test captain returns to first-class cricket after long break",
+    "description": "Babar Azam makes his long-awaited return to domestic first-class cricket after seven years. Here is how fans reacted and what his comeback means for Pakistan...",
+    "url": "https://www.cricketnews.com/en/cricket/news/babar-azam-domestic-cricket-7-years-fans-pakistan-first-class/69390334dbf69d1652ddd389",
+    "image": "https://s.yimg.com/lo/mysterio/api/873cf72932b51accf860fdddba7b2c9e1d9f03cacf1bc339c3b091624f5b4f74/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcdc5479738ebea3fa3e001fedb88eea6",
+    "publishedAt": "2026-09-24T12:12:18Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies ODI Schedule 2026: Check full match dates, timings, venues and live streaming details",
+    "description": "IND vs WI 2026 Schedule: India is set to clash with the West Indies in a thrilling three-match ODI series beginning on September 27, 2026. Captain Shubman Gill will lead the Indian side, while Shai Hope will helm the West Indies. The opening match is in Thiru…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-odi-schedule-2026-check-full-match-dates-timings-venues-and-live-streaming-details/articleshow/134461335.cms",
+    "image": "https://img.etimg.com/thumb/msid-134461545,width-1200,height-630,imgsize-97718,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-24T11:55:55Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Business Standard",
+    "title": "T20 Mumbai League: Aspect Sports wins ninth franchise for Rs 106.88 crore",
+    "description": "The Navi Mumbai franchise rights run for six years, with a first-season fee of Rs 12.21 crore; the MCA says the new team will widen the league's reach and create opportunities for local players",
+    "url": "https://www.business-standard.com/sports/business/t20-mumbai-league-aspect-sports-wins-ninth-franchise-for-rs-106-88-crore-126092400712_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-02/15/thumb/featurecrop/1200X628/1707994847-6325.jpg",
+    "publishedAt": "2026-09-24T09:46:13Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India's crazy month of cricket shows that strength lies in depth",
+    "description": "The numbers behind India's cricketing development are impressive, with multiple teams competing this month in tandem across various formats, age groups and for both the men's and women's game. It all points towards a cricketing pathway that is designed to pus…",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/india-cricket-shows-strength-lies-depth/e69c6297c9ae19c8350f483e",
+    "image": "https://s.yimg.com/lo/mysterio/api/19972e687d709e1301858741f2e998815f9b85027a10a18a41ed28af4ec23be3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2bd9856be32c567c60a83a23fb6624d4",
+    "publishedAt": "2026-09-24T09:23:37Z",
+    "author": "Arya Shah"
+  },
+  {
+    "source": "TheJournal.ie",
+    "title": "Netanyahu's plane again avoids Irish airspace en route to UN due to ICC arrest warrant fears",
+    "description": "Flight-tracking websites show the plane flying over Greece, Italy and then France.",
+    "url": "https://www.thejournal.ie/netanyahu-plane-7171701-Sep2026/",
+    "image": "https://img2.thejournal.ie/article/7171701/river/?height=400&version=7171791",
+    "publishedAt": "2026-09-24T09:15:29Z",
+    "author": "Rónán Duffy"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Team India hold indoor nets session ahead of Asian Games 2026 men's cricket campaign",
+    "description": "The Indian men's cricket team is gearing up for the Asian Games tournament starting on September 24. Head coach VVS Laxman supervised an intense indoor training session attended by players like Sanju Samson. The women's cricket team, captained by Harmanpreet …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/team-india-hold-indoor-nets-session-ahead-of-asian-games-2026-mens-cricket-campaign/articleshow/134456835.cms",
+    "image": "https://img.etimg.com/thumb/msid-134456833,width-1200,height-630,imgsize-40634,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-24T09:01:13Z",
+    "author": "ANI"
+  },
+  {
+    "source": "BBC News",
+    "title": "Worcestershire wicketkeeper Cullen signs new deal",
+    "description": "Wicketkeeper Henry Cullen signs a new three-year contract with Worcestershire.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cqn4kny9w8kwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d940ded8f445bd776a45d9fef6582f787a31ee100fd32cf0156899c95478fd60/lightyear_networkapi/resizefill_w1148_h645%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9ce55a3068e13593c4c9dee16c5522ee.jpg",
+    "publishedAt": "2026-09-24T08:16:58Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Worcestershire wicketkeeper Cullen signs new deal",
+    "description": "Wicketkeeper Henry Cullen signs a new three-year contract with Worcestershire.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqn4kny9w8kwo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3bed/live/04d5a070-b7ec-11f1-b86f-f9f95031dc8c.jpg",
+    "publishedAt": "2026-09-24T08:16:54Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Sporting News",
+    "title": "England vs. Sri Lanka prediction, team news, pitch report and betting tips for 2nd ODI",
+    "description": "England vs Sri Lanka 2nd ODI: prediction, team news, pitch report and best betting tips for the Headingley clash as England target a series-clinching win",
+    "url": "https://www.sportingnews.com/in/cricket/news/england-vs-sri-lanka-prediction-team-news-pitch-report-betting-tips-2nd-odi/ab9e44526162be92b0be51c7",
+    "image": "https://s.yimg.com/lo/mysterio/api/2d83120aa86098a7cb05fe1546235ce014cbb5a9056335945551f018b76e1a67/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F9ab823e596f251cf255c9549d508a79a",
+    "publishedAt": "2026-09-24T08:10:01Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "England vs Sri Lanka 2nd ODI prediction, lineups and pitch report for Headingley clash",
+    "description": "England vs Sri Lanka 2nd ODI: prediction, expected lineups and pitch report for the Headingley clash as England eye a series-clinching win.",
+    "url": "https://www.cricketnews.com/en/cricket/play/england-vs-sri-lanka-2nd-odi-prediction-lineups-pitch-report-headingley/f2a3bbaab55645a53aea738b",
+    "image": "https://s.yimg.com/lo/mysterio/api/1615798e11ecc31e3fe306d42b7aa057ce24ab814fd02925e66274d2cf637f58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99320b7ea8a6a4dbb79aa498b4ebcb34",
+    "publishedAt": "2026-09-24T08:00:02Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Australia hands debut to Edwards and fields in the first ODI against South Africa",
+    "description": "Australian all-rounder Jack Edwards made his ODI debut as captain Mitchell Marsh won the toss and elected to field in the first game of the three-match series against South Africa on Thursday. Australia is coming into the series on the back of its 3-0 clean s…",
+    "url": "https://sports.yahoo.com/articles/australia-hands-debut-edwards-fields-075456806.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/513edf94ac3a9c9dde6cc0b8df4b5e71d2eeb600eea1789e2f362288aee929a2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F56adee89704dbb499d9772d0ddcf0ad8.jpg",
+    "publishedAt": "2026-09-24T07:54:56Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Vaibhav Sooryavanshi to replace Tilak Varma or Shivam Dube in ‘six months’, predicts ex-India cricketer",
+    "description": "Mohammad Kaif has pointed out that the impressive performances of Vaibhav Sooryavanshi could lead to a tough selection issue for India. He notes that either Tilak Varma or Shivam Dube could be left out of the T20I lineup. Sooryavanshi's stellar stats in T20I …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-to-replace-tilak-varma-or-shivam-dube-in-six-months-predicts-ex-india-cricketer/articleshow/134455069.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134455595,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-24T07:54:26Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Whatever is in the interest of the team' - Gautam Gambhir drops a hint on Rohit Sharma's 2027 ODI World Cup chances",
+    "description": "Gautam Gambhir has addressed Rohit Sharma’s chances of featuring in India’s 2027 ODI World Cup campaign, stressing that the team’s interests will remain the priority.",
+    "url": "https://www.cricketnews.com/en/cricket/news/gautam-gambhir-drops-hint-rohit-sharmas-2027-odi-world-cup-chances/3da1cdd1f19f8d12ad97bd42",
+    "image": "https://s.yimg.com/lo/mysterio/api/65a1ac596472e71bd9f35d8644dbcaf06ce223c39275f3cd25fdd1833b9240dc/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb73458a93d22dacf83bd16b60bbd966f",
+    "publishedAt": "2026-09-24T07:44:46Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "SA vs AUS 1st ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Durban",
+    "description": "South Africa vs Australia 1st ODI 2026 live cricket score: All updates including win probability, toss, result and highlights from Durban.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sa-vs-aus-1st-odi-2026-live-scorecard-result-highlights-durban/bb9c9709fb1a4b96c089423c",
+    "image": "https://s.yimg.com/lo/mysterio/api/75ce85e69766840d070f83fa9a4a1ec4c1f0e3b79cf33d979d71ee1da6554702/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7b24b2518ec3827b80b0b0a302a27fc4",
+    "publishedAt": "2026-09-24T07:42:19Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "Business Standard",
     "title": "Asiad 2026: Shafali says more medals, trophies will boost women's cricket",
     "description": "Star opening batter Shafali Verma believes Indian women's cricket is on an upward trend and will only grow with more medals and trophies.\nShafali played an instrumental role in the women's team defending its gold medal at the Aichi-Nagoya Asian Games in Japan…",
@@ -70,141 +205,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/a4c184b4093e36847eb6719113bc22f11eda82d280a4c241722f1611094b765e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fc9d56f6c91632cf0a172a321ce16229b.jpg",
     "publishedAt": "2026-09-24T02:46:27Z",
     "author": "Josh Buckhalter"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Saints’ Pro Bowler Raises Unretirement for Tyler Shough Reason",
-    "description": "Tyler Shough is quickly making believers out of the New Orleans Saints faithful. That even includes at least one notable former Saints player, who said he thought about coming out of retirement just to play with Shough. That player? Offensive tackle Terron Ar…",
-    "url": "https://heavy.com/sports/nfl/new-orleans-saints/saints-pro-bowler-raises-unretirement-tyler-shough-reason/",
-    "image": "https://s.yimg.com/lo/mysterio/api/74e720e24b079d2d9695b9cfaf1ab650c8e9849e26f86a0b70b2110ebfdf0cc2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5294e8758e68b78d22e9d70d8fc4f2d1.jpg",
-    "publishedAt": "2026-09-24T01:25:10Z",
-    "author": "Billy Heyen"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch England vs. Sri Lanka ODIs in India? Live stream, TV channel and schedule for three-match series",
-    "description": "Find out how to watch the England vs Sri Lanka ODI series in India, including the TV channel, live stream and match schedule.",
-    "url": "https://www.sportingnews.com/in/cricket/news/watch-england-sri-lanka-odis-india-live-stream-tv-channel-schedule-three-match/14fc0270d89e2f2db3a8cdd9",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7019bd22230d4dca6cf3c87b329a4f45a9b78449104ffeffc86e1770ba083ba/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F55df1b2a9bbcdaf21995a4c6a161ff1b",
-    "publishedAt": "2026-09-24T00:30:02Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Essex cricket star charged with two counts of rape",
-    "description": "The Essex cricketer Robin Das has been charged with two counts of rape and will appear at London Crown Court on Friday October 9.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16155179/Essex-cricket-star-charged-two-counts-rape.html",
-    "image": "https://i.dailymail.com/1s/2026/09/23/22/111431493-0-image-a-17_1790200405153.jpg",
-    "publishedAt": "2026-09-23T22:34:36Z",
-    "author": "Daily"
-  },
-  {
-    "source": "Sinocism.com",
-    "title": "Xi arrives in DC; PLA Daily editorial on Zhang Youxia and Liu Zhenli; ODI; Nuclear weapons",
-    "description": "We do not have much more visibility today than we did yesterday about possible outcomes from Xi’s visit. \n\nTreasury Secretary Bessent met again with He Lifeng today, and in brief comments held out the possibility of an even bigger deal. \n\nPerhaps part of the …",
-    "url": "https://sinocism.com/p/xi-arrives-in-dc-pla-daily-editorial",
-    "image": "https://substackcdn.com/image/fetch/$s_!aar9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0163a56-9265-497f-a4dd-b84e7ac5e8ef_1598x916.png",
-    "publishedAt": "2026-09-23T22:28:05Z",
-    "author": "Bill Bishop"
-  },
-  {
-    "source": "Haaretz",
-    "title": "Mamdani's threat to arrest Netanyahu failed. His allies still see a victory",
-    "description": "Mamdani conceded he has no authority to enforce the ICC warrant, but his allies call his stance a political victory. Meanwhile, Jewish leaders warn of deepening tensions in the city",
-    "url": "https://www.haaretz.com/us-news/2026-09-24/ty-article-magazine/.premium/mamdanis-threat-to-arrest-netanyahu-failed-his-allies-still-see-a-victory/000001a0-cfbf-dcb9-a9a4-ffffff6f0000",
-    "image": "https://img.haarets.co.il/bs/000001a0-cfbf-dcb9-a9a4-ffffff6f0000/47/1e/50a9a30f464fbeb4fbfa8bda92c0/325053.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
-    "publishedAt": "2026-09-23T21:20:03Z",
-    "author": "Etan Nechin"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Afghanistan vs Japan Live Score, Asian Games 2026",
-    "description": "Afghanistan vs Japan Live Score, Asian Games 2026: Afghanistan will take on Japan in the men's cricket competition at the Asian Games 2026 in Japan.A",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/afghanistan-vs-japan-live-score-afg-vs-jpn-group-match-asian-games-2026-commentary-nisshin/liveblog/134440806.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134440806,width-1280,height-720,imgsize-45340,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-23T20:42:00Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "Essex cricketer Das charged with two counts of rape",
-    "description": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ckvgydgv1e31o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/c5ea86ee5832def70f7575f807e92d71f60974a5decccbc30e34b061c902ebcf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7d250fb83d33bf99d113943907de94f5.jpg",
-    "publishedAt": "2026-09-23T20:38:16Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Essex cricketer Das charged with two counts of rape",
-    "description": "Essex cricketer Robin Das is charged with two counts of rape and will appear in court in October.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvgydgv1e31o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea04/live/aae7f6c0-b788-11f1-b704-f3a72274a130.jpg",
-    "publishedAt": "2026-09-23T20:32:31Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "USA Today",
-    "title": "Five-time Pro Bowler says Tyler Shough makes him want to unretire",
-    "description": "Five-time Pro Bowl tackle Terron Armstead says Saints QB Tyler Shough made him reconsider retirement: 'He is everything you want from a franchise guy'",
-    "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/09/23/saints-terron-armstead-retirement-tyler-shough-nfl/91909421007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/a32c3dd7d60d03f03715bf19d3b9a756c3500bd257599f0cf053077d5ff38594/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_orleans_saints_wire_usa_today_sports_articles_211%2F67486a107d9e4c1d1712873f70de2bf1.jpg",
-    "publishedAt": "2026-09-23T20:10:12Z",
-    "author": "John Sigler, Saints Wire"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "R Ashwin reveals former IPL-winning Indian coach was in contention to become CSK coach before Zaheer Khan's appointment",
-    "description": "Ravichandran Ashwin reveals that before Zaheer Khan was given the go-ahead for the CSK head coach role, a former IPL-winning Indian coach was the frontrunner for the position.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ashwin-former-ipl-winning-indian-contention-csk-coach-zaheer-khan/ce8f5c59ad6688a285fb9782",
-    "image": "https://s.yimg.com/lo/mysterio/api/f73845e7801b476f1433bb23ef17ee0002ad82b356c7641ce29d5ec587ebdafb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2b5f55f89804064cfa901e3dbef3884d",
-    "publishedAt": "2026-09-23T18:20:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Human Rights Watch",
-    "title": "Central African Republic: ICC Verdict in Seleka Commander Case",
-    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Mahamat Said Abdel Kani during closing statements in the courtroom of the International Criminal Court in The Hague, Netherlands, November 25, 2025.\n © 2025 ICC-CPi\n \n \n\n\n \n(The Hague) – The International Criminal Co…",
-    "url": "https://www.hrw.org/news/2026/09/23/central-african-republic-icc-verdict-in-seleka-commander-case",
-    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/09/202609ij_afr_car_Mahamat%20Said%20Abdel%20Kani_icc.jpg?h=0365ef8b&itok=DMhXERsG",
-    "publishedAt": "2026-09-23T18:05:44Z",
-    "author": "Human Rights Watch"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IPL auction venues over the years: Every Indian Premier League mega and mini auction cities listed from 2008 to 2027",
-    "description": "Here's a list of every Indian Premier League mega and mini auction from the inaugural season 2008 till the upcoming edition.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-auction-venues-indian-premier-league-mega-mini-auction-cities/7be1c1847cf6ed581267a095",
-    "image": "https://s.yimg.com/lo/mysterio/api/b68254bb1d6548506d477e745810355b5507c31ca15c579598f1c8428c6d5dc3/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fea00472e4355667287ce3567221e37e2",
-    "publishedAt": "2026-09-23T18:01:54Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Batter Kelly out of Leics finale with rib injury",
-    "description": "Batter Nick Kelly will miss Leicestershire's last-ditch effort to avoid County Championship relegation after succumbing to a rib injury.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crd68e1qxd08o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/d0820c1026d5a849915da518bde9054dc966059c2cfdd100fcbdc7a58c24ae1a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4a0c0505aaedf5ab005cb922ff9845fc.jpg",
-    "publishedAt": "2026-09-23T17:54:58Z",
-    "author": "Andrew Aloia - BBC Sport, East Midlands"
-  },
-  {
-    "source": "BBC News",
-    "title": "Batter Kelly out of Leics finale with rib injury",
-    "description": "Batter Nick Kelly will miss Leicestershire's last-ditch effort to avoid County Championship relegation after succumbing to a rib injury.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/crd68e1qxd08o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d0e/live/31c36930-b776-11f1-a7b2-f3bdba1cd194.jpg",
-    "publishedAt": "2026-09-23T17:52:44Z",
-    "author": "Andrew Aloia"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Shreyas has that quality': Gautam Gambhir praises India's T20I captain, hails Iyer as a good leader",
-    "description": "Gautam Gambhir was quick to praise India's T20I captain Shreyas Iyer as a good leader ahead of the Asian Games, believing that the batter had the quality to lead others.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shreyas-gautam-gambhir-praises-india-t20i-captain-iyer-good-leader/c77b4f48b3a92960981521f1",
-    "image": "https://s.yimg.com/lo/mysterio/api/b0e4bb02e80e43f182b1cbf8ba9bb65a1a9aa9de435c8ab3d8e6d686d6f837bf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fda22a8b2fca936afffc412deef15fa5a",
-    "publishedAt": "2026-09-23T17:12:19Z",
-    "author": "Deepanjan Mitra"
   }
 ]
 ;
