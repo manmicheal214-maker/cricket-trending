@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "Democracy Now!",
+    "title": "The Hague Group: South Africa Leads Coalition Against U.S./Israel's \"Unilateral Bullying\" of the ICC",
+    "description": "At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of the global tribunal. The United States earlier this year imposed sanctions on the president of the ICC and a senio…",
+    "url": "https://www.democracynow.org/2026/9/25/trump_attacks_icc",
+    "image": "https://www.democracynow.org/images/story/91/83691/full_hd/SEG2-guest-split1.jpg",
+    "publishedAt": "2026-09-25T12:32:41Z",
+    "author": "webdev@democracynow.org (Democracy Now!)"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "ICC says it is insulated against US sanctions",
+    "description": "International Criminal Court (ICC) Deputy Prosecutor Nazhat Shameem Khan said on Friday that the court has taken steps to shield itself from the impact of potential United States sanctions, stressing ...",
+    "url": "https://biztoc.com/x/109ae354f99e7dcb",
+    "image": "https://biztoc.com/cdn/109ae354f99e7dcb_s.webp",
+    "publishedAt": "2026-09-25T12:08:48Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "JKCA Fund Scam: High Court Rejects ED's Plea",
+    "description": "The Jammu and Kashmir High Court has rejected a petition by the Enforcement Directorate to add charges of receiving and concealing stolen property in the alleged Jammu and Kashmir Cricket Association fund scam. While the court upheld the ED's right to file su…",
+    "url": "https://www.rediff.com/sports/report/high-court-rejects-ed-plea-to-add-charges-in-jkca-scam/20260925.htm",
+    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+    "publishedAt": "2026-09-25T11:53:40Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "Dineshkhabar.com",
+    "title": "Nepal Defeats Afghanistan by Five Wickets in Asian Games Cricket",
+    "description": "Kathmandu: Nepal has defeated Afghanistan by five wickets in the men’s cricket event of the ongoing Asian Games. Nepal secured the victory in the match held at Korogi Sports Park in Nisshin, Aichi, Japan.\r\n\nNepal chased down Afghanistan’s target of 103 runs i…",
+    "url": "https://dineshkhabar.com/article/141732",
+    "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/799383600_1654386182922272_7514238458904969166_n_0.jpg?itok=Y3FKytKq",
+    "publishedAt": "2026-09-25T11:46:00Z",
+    "author": "editor"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal rises in ICC T20 rankings after Afghanistan win",
+    "description": "KATHMANDU: Nepal’s national men’s cricket team has climbed two places in the latest ICC T20 International rankings following its five-wicket victory over Afghanistan at the 20th Asian Games on Friday. According to the latest rankings released by the Internati…",
+    "url": "https://english.khabarhub.com/2026/25/569257/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Cricket-Nepal-team.jpg",
+    "publishedAt": "2026-09-25T11:43:02Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Itsfoss.com",
+    "title": "The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC",
+    "description": "Eight municipalities are already testing DAWO, the government's NixOS-powered work environment.",
+    "url": "https://itsfoss.com/news/netherlands-dawo-initiative/",
+    "image": "https://itsfoss.com/content/images/2026/09/netherlands-dawo-banner.png",
+    "publishedAt": "2026-09-25T11:38:29Z",
+    "author": "Sourav Rudra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+    "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c32l8q4z481wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/817a86daba942245d4ac10fc12ff12d1cf9e7df9147c50c59e02d01de62773e5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9bc4c15fb48ab4d6bc391dbe12552826.jpg",
+    "publishedAt": "2026-09-25T11:03:49Z",
+    "author": "Matthew Henry - BBC Sport Journalist at Headingley"
+  },
+  {
+    "source": "BBC News",
+    "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
+    "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03c3/live/d1b4e4b0-b8c4-11f1-ad1f-538855f30ba1.jpg",
+    "publishedAt": "2026-09-25T11:00:21Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "BBC News",
+    "title": "Yorkshire keeper Duke joins Middlesex",
+    "description": "Middlesex sign wicketkeeper Harry Duke from Yorkshire until the end of 2028, following a loan spell at Lord's.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6y4zk3je0lgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d4d5a6ac675037fa0045d8e30fea2cc6f3aed406473a137538fed47563172b5c/lightyear_networkapi/resizefill_w494_h278%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0674bf08e6644b34f15cf74209d11609.jpg",
+    "publishedAt": "2026-09-25T10:47:32Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Yorkshire keeper Duke joins Middlesex",
+    "description": "Middlesex sign wicketkeeper Harry Duke from Yorkshire until the end of 2028, following a loan spell at Lord's.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6y4zk3je0lgo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/95e6/live/f2208520-b8cd-11f1-ad1f-538855f30ba1.jpg",
+    "publishedAt": "2026-09-25T10:47:28Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Explained: Why Cricket West Indies slashed player salaries by 25%, suspended Super50, & what it means for 2027 World Cup",
+    "description": "Why did Cricket West Indies slash player retainers by 25% and suspend the Super50? We explain the Caribbean cash crisis and its impact on the 2027 World Cup.",
+    "url": "https://www.cricketnews.com/en/cricket/news/explained-west-indies-slashed-player-salaries-suspended-super50/bcd3580d71a026807d88be92",
+    "image": "https://s.yimg.com/lo/mysterio/api/fb078d0da1e64e7d3243588502fab46fbe28f6fa8cf6fa05e08bd7fc63796050/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe5c247164e9c4d311fb243516e507b46",
+    "publishedAt": "2026-09-25T10:17:24Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "\"You have to beat India if you want to win a major ICC event\": West Indies coach Sammy ahead of 1st ODI",
+    "description": "Daren Sammy emphasizes the importance of the upcoming ODI series against India for their World Cup preparation. He highlights that winning in India is essential for a team's confidence and overall capability. Sammy notes the progress made by several players, …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/you-have-to-beat-india-if-you-want-to-win-a-major-icc-event-west-indies-coach-sammy-ahead-of-1st-odi/articleshow/134480932.cms",
+    "image": "https://img.etimg.com/thumb/msid-134480931,width-1200,height-630,imgsize-96164,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-25T09:29:10Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Who won the gold medal in men's cricket at the 2023 Asian Games?",
+    "description": "India, captained by Ruturaj Gaikwad, won the men's cricket gold medal at the 2023 Asian Games in Hangzhou.",
+    "url": "https://www.cricketnews.com/en/cricket/news/who-won-gold-medal-men-cricket-2023-asian-games/aeda49685d254f0a2089eb51",
+    "image": "https://s.yimg.com/lo/mysterio/api/ec3f2087160d2362ebeb532eb47095e1403882c6d2c8eb5e282dffabd4c062cd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7fccc9ca357ceb339b6a6f19af127711",
+    "publishedAt": "2026-09-25T09:27:26Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "20th Asian Games: Nepal defeats Afghanistan by five wickets",
+    "description": "KATHMANDU: Nepal made a winning start to the men’s cricket competition at the 20th Asian Games in Aichi-Nagoya, Japan, defeating Afghanistan by five wickets on Friday. Batting first after winning the toss at Korogi Sports Park in Nisshin, Aichi, Afghanistan s…",
+    "url": "https://english.khabarhub.com/2026/25/569236/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/cricket-e1790326712331.jpg",
+    "publishedAt": "2026-09-25T09:15:24Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'He was abusing him nonstop': Dhruv Jurel reveals what triggered Yashavi Jaiswal’s clash with Asitha Fernando",
+    "description": "During the second Test match in Colombo, Yashasvi Jaiswal found himself in a heated exchange with Asitha Fernando after a wicket fell. India’s wicketkeeper-batter, Dhruv Jurel, disclosed that Jaiswal endured ongoing verbal provocations from Fernando post-dism…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-abusing-him-nonstop-dhruv-jurel-reveals-what-triggered-yashavi-jaiswals-clash-with-asitha-fernando/articleshow/134478771.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134479014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-25T07:48:52Z",
+    "author": "Nitesh Dubey"
+  },
+  {
     "source": "The Times of India",
     "title": "India vs West Indies 2026: ODI squad, one day and T20 ticket booking, ticket prices, live streaming details",
     "description": "Ind vs WI ODI squad 2026, ticket booking: India vs West Indies 2026 series will feature three ODIs and five T20Is from September 27 to October 17. Check the complete ODI and T20I squads, match schedule, T20 ticket booking details, ticket prices, and live stre…",
@@ -133,60 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134469578,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-24T19:39:34Z",
     "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "11-year-old boy branded with hot iron in dispute during cricket game",
-    "description": "Rajkot: Boy, 11, allegedly branded with hot iron after cricket dispute; mother files police complaint 15 months later, naming two accused.",
-    "url": "https://timesofindia.indiatimes.com/city/rajkot/11-year-old-boy-branded-with-hot-iron-in-dispute-during-cricket-game/articleshow/134469003.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-24T18:51:32Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bowler Stevenson dies two months after Glasgow gold",
-    "description": "Commonwealth Games bowler Mary Stevenson has died just a couple of months after winning a gold medal for Scotland at Glasgow 2026, where her winning throw earned her the moniker Mary Queen of Shots.",
-    "url": "https://www.bbc.com/sport/bowls/articles/ckx2zl0ll4ego?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-09-24T18:47:14Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bowler Stevenson dies two months after Glasgow gold",
-    "description": "Commonwealth Games bowler Mary Stevenson has died just a couple of months after winning a gold medal for Scotland at Glasgow 2026, where her winning throw earned her the moniker Mary Queen of Shots.",
-    "url": "https://www.bbc.co.uk/sport/bowls/articles/ckx2zl0ll4ego",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ed4/live/5885bd50-b845-11f1-bc1f-3f186ca4140c.jpg",
-    "publishedAt": "2026-09-24T18:28:52Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "'The lads wanted me to stick one up him' - Wood relives fastest spells",
-    "description": "As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test career.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cqm27gwz9ge1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/b28f0b98ed78cdabd8444b1170efbb3b0d1e2c87ac4859f9a7190738a523881f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F30dbed791ec8bb9c2c5465436e891f42.jpg",
-    "publishedAt": "2026-09-24T18:13:07Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "'The lads wanted me to stick one up him' - Wood relives fastest spells",
-    "description": "As England bowler Mark Wood retires from international cricket, he talks through his most famous spells from his Test career.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqm27gwz9ge1o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b7db/live/ed6258b0-b83c-11f1-aeab-cbd1b7662429.jpg",
-    "publishedAt": "2026-09-24T18:13:02Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Smriti for captain: Fans trend viral hashtag as they back Mandhana to replace Harmanpreet Kaur as next India women's skipper",
-    "description": "Fans are trending 'Smriti for captain' on social media, urging BCCI to appoint Smriti Mandhana as India women's next captain to replace Harmanpreet Kaur.",
-    "url": "https://www.cricketnews.com/en/cricket/news/smriti-captain-fans-viral-hashtag-replace-harmanpreet-india-skipper/1834d4763dac0f0818184074",
-    "image": "https://s.yimg.com/lo/mysterio/api/1b9f22717507e44ecccbae10a83636c711ea68b65375b61bce5b353de3bbf8c5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffb2fc9b9818fb3c59871f470a4f6cbe1",
-    "publishedAt": "2026-09-24T17:54:39Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
