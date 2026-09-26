@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "Raw Story",
+    "title": "Trump admin risks freeing alleged mass murderers with global revenge campaign: report",
+    "description": "As the Trump administration ramps up\r\n efforts to “dismantle” the International Criminal Court (ICC), it also risks letting loose a number of the world’s most notorious alleged mass killers, legal scholar Ryan Goodman argued in a report published Friday.The U…",
+    "url": "https://www.rawstory.com/international-criminal-court/",
+    "image": "https://www.rawstory.com/media-library/image.jpg?id=67858308&width=1200&height=600&coordinates=0%2C417%2C0%2C417",
+    "publishedAt": "2026-09-25T17:02:17Z",
+    "author": "Alexander Willis"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour | Exclusive",
+    "description": "The 32-year-old was inching closer to a return to cricket but the recurring shin issue has derailed all the progress he made at the BCCI Centre of Excellence in the last few months. I",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134489699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-25T16:53:55Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "PRNewswire",
+    "title": "NCL GT20 CANADA TO STAGE 2026 TOURNAMENT IN THE CARIBBEAN",
+    "description": "Special 2026 Caribbean edition strengthens integration between Canadian and West Indies cricket ahead of the tournament's return to Canada in 2027 Canadian Tournament, Caribbean Stage: NCL GT20 Canada is a Canadian professional T20 franchise tournament. Its 2…",
+    "url": "https://www.prnewswire.com/news-releases/ncl-gt20-canada-to-stage-2026-tournament-in-the-caribbean-302890364.html",
+    "image": "https://mmx.prnewswire.com/media/MS1996545/NCL-GT20-Canada-Logo.jpg?id=OA2971385&p=facebook",
+    "publishedAt": "2026-09-25T15:15:00Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Absolutely fit for IPL but unfit to play for India’: Ex-BCCI administrator in disbelief after Gautam Gambhir’s fitness update on Hardik Pandya",
+    "description": "With Hardik Pandya's fitness remaining a major challenge for Team India, former BCCI administrator Marakand Waingankar questioned how the all-rounder is always fit for the IPL.",
+    "url": "https://www.cricketnews.com/en/cricket/news/play-ipl-unfit-india-ex-bcci-disbelief-gambhir-update-hardik-pandya/99c49e3b16662da7ff2959e3",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b3b2dde584264b4d738ebaac00034b9349566e2dc4654c2a321160760e7a156/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99be0a6738a4f42bba8f11bb1796a0f3",
+    "publishedAt": "2026-09-25T14:23:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Opiniojuris.org",
+    "title": "Positive Retorsion and the Power and Responsibilities of States Parties to Protect the ICC",
+    "description": "[Jens Iverson is an assistant professor of international law at Leiden University.] In November 2025, I wrote on this site about The Power and Responsibility of the EU to Protect the ICC from US Sanctions. There I discussed issues such as the use of the Anti-…",
+    "url": "http://opiniojuris.org/2026/09/25/positive-retorsion-and-the-power-and-responsibilities-of-states-parties-to-protect-the-icc/",
+    "image": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/160729-icc_hq-02.jpg?fit=1200%2C751",
+    "publishedAt": "2026-09-25T14:00:17Z",
+    "author": "Jens Iverson"
+  },
+  {
+    "source": "Sporting News",
+    "title": "How to watch Canada Super 60 2026 on Dafanews: Live stream, schedule for the T10 cricket tournament",
+    "description": "Here's everything you will need to know to stream the Canada Super 60 2026 T10 cricket tournament live on Dafanews.",
+    "url": "https://www.sportingnews.com/in/cricket/news/how-watch-canada-super-60-2026-dafanews-live-stream-schedule/ede45119a7dc97db9d011cbe",
+    "image": "https://s.yimg.com/lo/mysterio/api/39d6c48711cfe5d908953f800d10ed75073ca491af6c00481967d32ca3b26ef5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6a289542a4b96f623a75220a398d7fa1",
+    "publishedAt": "2026-09-25T13:27:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "Democracy Now!",
     "title": "The Hague Group: South Africa Leads Coalition Against U.S./Israel's \"Unilateral Bullying\" of the ICC",
     "description": "At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of the global tribunal. The United States earlier this year imposed sanctions on the president of the ICC and a senio…",
@@ -214,60 +268,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134472773,width-1200,height-630,imgsize-75222,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-09-25T01:12:50Z",
     "author": "Javed Farooqui"
-  },
-  {
-    "source": "BBC News",
-    "title": "ODI Cricket",
-    "description": "Highlights from the second ODI of 2026 between England and Sri Lanka.",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0031z7m/odi-cricket-2026-england-v-sri-lanka-second-odi-highlights?at_campaign=rss&at_medium=RSS",
-    "image": "https://ichef.bbci.co.uk/images/ic/1200x675/p0pc9bs7.jpg",
-    "publishedAt": "2026-09-24T22:50:15Z",
-    "author": null
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-    "description": "Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/cms-wide-thumb-dutch-pm-1790284044.png?resize=1920%2C1080&quality=80",
-    "publishedAt": "2026-09-24T21:08:30Z",
-    "author": null
-  },
-  {
-    "source": "The Big Lead",
-    "title": "Ja’Marr Chase and Tee Higgins have a chance to embarrass Steelers Pro Bowler",
-    "description": "A Steelers Pro Bowl corner just gave Ja'Marr Chase and Tee Higgins a reason to come out swinging Sunday.",
-    "url": "https://www.thebiglead.com/bengals-steelers-joey-porter-jr-jamarr-chase-tee-higgins-week-3/",
-    "image": "https://s.yimg.com/lo/mysterio/api/3956338d4572f8952b0b74574de4ee0cc9006d1abf3954d9cccab4b0c125f78b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F84ae5712e94df26e5dfca8e18fcba445.jpg",
-    "publishedAt": "2026-09-24T21:06:36Z",
-    "author": "Miracle Dimwesh"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "England are BEATEN by Sri Lanka in dramatic ODI: Injury to Jos Buttler derails huge run chase as Harry Brook's side blow chance to win series",
-    "description": "RICHARD GIBSON AT HEADINGLEY: Buttler was powering his team towards their 322 target, and series victory, it seemed when he pulled his left hamstring running two.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16157455/England-BEATEN-Sri-Lanka-dramatic-ODI-Injury-Jos-Buttler-derails-huge-run-chase-Harry-Brooks-blow-chance-win-series.html",
-    "image": "https://i.dailymail.com/1s/2026/09/24/21/111454297-0-image-m-18_1790281107005.jpg",
-    "publishedAt": "2026-09-24T20:20:27Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Sri Lanka Cricket team records first victory in England tour",
-    "description": "The Sri Lankan team managed to record their first victory in the fifth match of the England tour. The Sri Lankan team secured this victory by defeating England in the second One-Day International (ODI) cricket match held at Headingley Stadium in Leeds, thereb…",
-    "url": "https://english.gossiplankanews.com/2026/09/sri-lanka-cricket-team-records-first.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u70A_9gcCyfWBwX32Qy6iNMkWd1Z7lWoyVRz3gYNGatPdhcXR7EGKVzoJP4qaNZZfwH1yeFyd_v5UPSaJeYAete7DczR0FFF2eVfGvsoXKlA-wpVOyQOgJYFmWbPF7zFXSlMbCe4POJJqNw27OkDqTCAzEb0_AyYDU9qc=w1600",
-    "publishedAt": "2026-09-24T19:50:36Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kashi int’l stadium set for debut with Cooch Behar Trophy",
-    "description": "Varanasi’s Kashi International Cricket Stadium to host first U-19 Cooch Behar Trophy matches in December; Rs 450 crore venue seats 30,000.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/kashi-intl-stadium-set-for-debut-with-cooch-behar-trophy/articleshow/134469579.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134469578,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-24T19:39:34Z",
-    "author": "Fazal Khan"
   }
 ]
 ;
