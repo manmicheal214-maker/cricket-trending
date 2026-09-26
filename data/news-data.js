@@ -1,6 +1,78 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "India vs West Indies 2026: ODI squad, one day and T20 ticket booking, ticket prices, live streaming details",
+    "description": "Ind vs WI ODI squad 2026, ticket booking: India vs West Indies 2026 series will feature three ODIs and five T20Is from September 27 to October 17. Check the complete ODI and T20I squads, match schedule, T20 ticket booking details, ticket prices, and live stre…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-2026-odi-squad-one-day-and-t20-ticket-booking-ticket-prices-live-streaming-details/articleshow/134477110.cms",
+    "image": "https://img.etimg.com/thumb/msid-134477723,width-1200,height-630,imgsize-168010,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-25T06:43:30Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Yashasvi Jaiswal vs Asitha Fernando sledging controversy: Dhruv Jurel reveals truth behind Indian batsman's heated altercation with Sri Lankan",
+    "description": "Dhruv Jurel revealed the exact exchange between Yashasvi Jaiswal and Asitha Fernando, explaining how the Sri Lankan pacer's abuse sparked the heated confrontation.",
+    "url": "https://www.cricketnews.com/en/cricket/news/yashasvi-jaiswal-vs-asitha-fernando-sledging-controversy-dhruv-jurel/be6553af48c4faea89bd1b32",
+    "image": "https://s.yimg.com/lo/mysterio/api/3408ce2581cb6a3369958aa37c9ebf61bb521a07a9e7145aa3fb7655b6cecc83/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F153228c427df007ae46f6204da281497",
+    "publishedAt": "2026-09-25T06:41:18Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Time to measure up': Daren Sammy issues rallying cry ahead of IND vs WI ODIs to end West Indies’ 24-year series drought",
+    "description": "West Indies coach Daren Sammy views the India ODI series as a chance to end a 24-year drought and fine-tune ahead of the 2027 World Cup Qualifiers. Read more...",
+    "url": "https://www.cricketnews.com/en/cricket/news/daren-sammy-rallying-cry-ind-vs-wi-odis-west-indies-24-year-drought/8585450dced8390f844c25d0",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b768e84baefe665a99fdda2fc91cda45c994c4fe8aa9cd6f79fcb87142fb981/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f20a56c525ccaccd4813311067545c0",
+    "publishedAt": "2026-09-25T05:51:14Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey aiming to improve T20 World Cup qualifier record",
+    "description": "Jersey's women are hoping to improve their record in T20 World Cup qualifying.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cm5yewp8q5j8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7726da583219d2b41065107aa29b042b6016c5f008192dab1e1fa848743360d4/lightyear_networkapi/resizefill_w690_h388%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9cae6322c7677d89b003ee7cb71a57c7.jpg",
+    "publishedAt": "2026-09-25T05:46:19Z",
+    "author": "Danny Parkinson - BBC Jersey; Brent Pilnick - BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Changed my whole mindset': Moeen Ali explains how MS Dhoni's IPL masterclass at CSK led Falcons to CPL 2026 title",
+    "description": "Moeen Ali revealed the key captaincy lessons learnt from MS Dhoni at CSK that guided Antigua & Barbuda Falcons to the Caribbean Premier League (CPL) 2026 title.",
+    "url": "https://www.cricketnews.com/en/cricket/news/moeen-ali-ms-dhonis-ipl-masterclass-csk-led-falcons-cpl-2026-title/77d19c9ef07bce16fa664e29",
+    "image": "https://s.yimg.com/lo/mysterio/api/d1990810132d15f79a3745f35afe305bd1f7be773576d9c37cda74d3be6a6407/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F34256b1353c084349d15a87735bfb5cd",
+    "publishedAt": "2026-09-25T04:59:43Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL bets, affairs, loans, lavish lifestyle: Killer 'son' emerges from shadows as Kanpur bizman murder case takes major twist",
+    "description": "Subrat Minocha, a 34-year-old man, has been arrested for allegedly conspiring to murder his father, Vineet Minocha. Investigators reported that Subrat accumulated significant gambling debts and feared losing parental property to another woman. Following an in…",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/ipl-bets-affairs-loans-lavish-lifestyle-killer-son-emerges-from-shadows-as-kanpur-bizman-murder-case-takes-major-twist/articleshow/134473745.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134473902,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-25T03:04:43Z",
+    "author": "TNN"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Netanyahu urges Latin American leaders to join Isaac Accords, oppose ICC",
+    "description": "Netanyahu meets the leaders of Paraguay, Panama and Bolivia in New York, urges them to join the Isaac Accords and oppose the International Criminal Court.",
+    "url": "https://www.israelnationalnews.com/news/433631",
+    "image": "https://2.a7.org/files/pictures/000/1226637.jpg",
+    "publishedAt": "2026-09-25T02:39:21Z",
+    "author": "Israel National News"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+    "description": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790303144.jpg?resize=1920%2C1080&quality=80",
+    "publishedAt": "2026-09-25T02:26:16Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
     "title": "BCCI inks Rs 150 crore deal with Muthoot FinCorp for title sponsorship of Team India matches",
     "description": "BCCI has finalized a title sponsorship agreement with Muthoot FinCorp for international cricket matches through March 2028. The per-match payout of Rs 4.3 crore is slightly lower than BCCI's desired Rs 4.85 crore. Previous sponsor IDFC First paid Rs 4.2 crore…",
     "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-inks-rs-150-crore-deal-with-muthoot-fincorp-for-title-sponsorship-of-team-india-matches-chatgpt-asian-paints-sbi-life-campa/articleshow/134472727.cms",
@@ -115,15 +187,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/1b9f22717507e44ecccbae10a83636c711ea68b65375b61bce5b353de3bbf8c5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffb2fc9b9818fb3c59871f470a4f6cbe1",
     "publishedAt": "2026-09-24T17:54:39Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rain, gales batter Vijayawada; low-lying areas inundated",
-    "description": "Heavy rain and strong gales disrupt Vijayawada, flooding low-lying areas; streams overflow, flight cancelled at Gannavaram airport, and officials begin damage assessment.",
-    "url": "https://timesofindia.indiatimes.com/city/vijayawada/rain-gales-batter-vijayawada-low-lying-areas-inundated/articleshow/134467618.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134467612,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-24T17:26:30Z",
-    "author": "Sri Krishna Kummara"
   }
 ]
 ;
