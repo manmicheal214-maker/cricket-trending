@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Hope Australia gets a respectful reception in test series: Aiden Markram",
+    "description": "Aiden Markram acknowledged uncertainty regarding the reception that the Australian cricket team will receive from South African fans. The upcoming Test series marks the first meeting since the controversial 2018 ball-tampering scandal. South Africa aims to le…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/hope-australia-gets-a-respectful-reception-in-test-series-aiden-markram/articleshow/134509831.cms",
+    "image": "https://img.etimg.com/thumb/msid-134509878,width-1200,height-630,imgsize-93492,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-26T19:39:38Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Hope Australia gets a respectful reception in test series: Aiden Markram",
+    "description": "Aiden Markram acknowledged uncertainty regarding the reception that the Australian cricket team will receive from South African fans. The upcoming Test series marks the first meeting since the controversial 2018 ball-tampering scandal. South Africa aims to le…",
+    "url": "https://economictimes.indiatimes.com/news/india/hope-australia-gets-a-respectful-reception-in-test-series-aiden-markram/articleshow/134509831.cms",
+    "image": "https://img.etimg.com/thumb/msid-134509878,width-1200,height-630,imgsize-93492,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-26T19:39:38Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Spotlight on Kashi’s urban growth at ICC summit",
+    "description": "ICC’s Varanasi Rising Summit highlighted Kashi’s urban growth, focusing on infrastructure, real estate, hospitality, mobility, connectivity and heritage conservation.",
+    "url": "https://timesofindia.indiatimes.com/city/varanasi/spotlight-on-kashis-urban-growth-at-icc-summit/articleshow/134509817.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-09-26T19:24:50Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nandini feted by UTCA for Asian Games gold",
+    "description": "UTCA felicitates Chandigarh cricketer Nandini Sharma for Asian Games women’s cricket gold; Director Saurabh Arora announces Rs 3 crore reward under UT Sports Policy.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/nandini-feted-by-utca-for-asian-games-gold/articleshow/134509316.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134509315,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-26T18:42:02Z",
+    "author": "TNN"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "AB de Villiers over Virat Kohli: KKR's Ramandeep Singh picks South Africa legend as his favourite cricketer",
+    "description": "Ramandeep Singh has created a stir among cricket fans as he picked AB De Villiers over Virat Kohli.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ab-de-villiers-over-virat-kohli-kkr-ramandeep-singh-favourite-cricketer/d07ed2a60ad4a1165120f198",
+    "image": "https://s.yimg.com/lo/mysterio/api/fe4f60e1b93647d11c9f46a8b1cfddf7ffb5071088315d31f169c39ad1819334/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa5bd35e1b85f13b6b16c432734471ee8",
+    "publishedAt": "2026-09-26T18:21:35Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Elgar leads Essex fightback after Ul Hassan's five for Glamorgan",
+    "description": "A century from retiring South African batter Dean Elgar leads the Essex fight-back after Zain Ul Hassan's maiden five-wicket haul for Glamorgan.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmqxvvrn78vdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/1ed3848884c991cf502f27a32fe2524f3a36479febd4f7cb014ecbbb8e53a23e/lightyear_networkapi/resizefill_w820_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd7e107969d372b453262fdd7bd855c37.jpg",
+    "publishedAt": "2026-09-26T18:12:36Z",
+    "author": "Nick Webb - BBC Sport Wales"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "How to watch IND vs WI ODI 2026 live: Start time, TV channels and streaming details",
+    "description": "With the India vs West Indies three-match ODI series finally upon us, here's how you can grab the game live across the world without missing a single minute.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-wi-odi-2026-live-start-time-tv-channels-streaming/3204c4c0ee7e8852490f5696",
+    "image": "https://s.yimg.com/lo/mysterio/api/632ac7c6b61bde3686c2cf676bbe0a77e577c95dd2f0a4a543b91329144c5fc6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdf2f12568b9f90a135a514e12cf6be20",
+    "publishedAt": "2026-09-26T17:59:44Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "Sporting News",
     "title": "England vs. Sri Lanka prediction, team news, pitch report and betting tips for 3rd ODI",
     "description": "England vs. Sri Lanka 3rd ODI: get the latest prediction, team news, expected lineups, pitch report and betting tips ahead of Sunday's series decider at the Oval.",
@@ -178,96 +241,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134501154,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-26T09:05:26Z",
     "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "In 2018, West Indies witnessed Virat Kohli’s 10,000-run record; 8 years later, he chases another unique milestone in ODIs",
-    "description": "Virat Kohli is set to return to ODI cricket against West Indies on September 27. He has a remarkable record against this opponent, having scored 2,261 runs in 43 matches. Kohli seeks to become the first player to score 10 ODI centuries against two different t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/in-2018-west-indies-witnessed-virat-kohlis-10000-run-record-8-years-later-he-chases-another-unique-milestone-in-odis/articleshow/134500704.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134500868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T08:53:25Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma has ‘unfinished business’ in ODIs as he eyes another shot at World Cup glory in 2027",
-    "description": "Rohit Sharma's enthusiasm for the 2027 ICC Men's Cricket World Cup shines through as he reveals his intention to play despite retiring from Test and T20I formats. He is dedicated to his ODI endeavors as the tournament approaches, co-hosted by South Africa, Zi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-has-unfinished-business-in-odis-as-he-eyes-another-shot-at-world-cup-glory-in-2027/articleshow/134500791.cms",
-    "image": "https://img.etimg.com/thumb/msid-134500790,width-1200,height-630,imgsize-111098,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T08:39:09Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Watch: Vinod Kambli shares emotional message from elderly care centre",
-    "description": "Former India cricketer Vinod Kambli has shared a positive message from an elderly care centre in Thane, where he is receiving treatment and support. Praising the facility’s cleanliness and care, Kambli said, “I have received a lot of love.” Fans remain concer…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-vinod-kambli-shares-emotional-message-from-elderly-care-centre/articleshow/134500337.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134500718,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T08:34:14Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia dealt injury blow as Inglis returns home with finger fracture",
-    "description": "Sept 26 : Australia wicketkeeper-batter Josh Inglis has been ruled out of the final two one-day internationals against South Africa with a fracture to his right index finger, officials confirmed on Saturday.• The 31-year-old injured his finger while keeping w…",
-    "url": "https://www.channelnewsasia.com/sport/australia-dealt-injury-blow-inglis-returns-home-finger-fracture-6412496",
-    "image": "https://dam.mediacorp.sg/image/upload/s--XFuMrhHd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-26T075905Z_1_LYNXMPEM8P059_RTROPTP_3_CRICKET-ASHES.JPG?itok=bxr0hKmk",
-    "publishedAt": "2026-09-26T07:59:05Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I'm not going to worry about expectations': Virat Kohli reveals how he plans to bat in new ODI role",
-    "description": "After taking a break, Virat Kohli is gearing up for his return to ODI cricket against the West Indies. With a focus on playing more freely, he aims to balance performance expectations while stabilizing innings before opting for a bolder batting style. Kohli h…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/im-not-going-to-worry-about-expectations-virat-kohli-reveals-how-he-plans-to-bat-in-new-odi-role/articleshow/134500037.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134500217,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T07:56:53Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI ODI, T20I Series: When and where to watch India vs West Indies matches",
-    "description": "India begin their 2027 ODI World Cup preparations against West Indies on September 27, with three ODIs followed by five T20Is. Rohit Sharma and Virat Kohli return to the ODI squad, led by Shubman Gill, while Shreyas Iyer captains the T20I team. The matches wi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/ind-vs-wi-odi-t20i-series-when-and-where-to-watch-india-vs-west-indies-matches/articleshow/134499688.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134499888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T07:34:33Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Peoplesreview.com.np",
-    "title": "Asian Games cricket: Nepal into quarterfinals",
-    "description": "Kathmandu, Sept 26: Nepal’s men’s cricket match against hosts Japan at the Asian Games ended without a result on Saturday after rain prevented the second innings from taking place. The match at Korogi Athletic Park had already been reduced to 15 overs a side …",
-    "url": "https://peoplesreview.com.np/2026/09/26/asian-games-cricket-nepal-into-quarterfinals/",
-    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/09/cri.jpg",
-    "publishedAt": "2026-09-26T07:20:00Z",
-    "author": "team1"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mayank Yadav: Rebuilding the 150kph dream, with an eye on the 2027 ODI World Cup",
-    "description": "After a difficult two-year injury battle, Mayank Yadav is quietly rebuilding his body and bowling workload in Chandigarh. The tearaway quick is now consistently touching 150kph in training, with his team focusing on workload management and longer-format readi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mayank-yadav-rebuilding-the-150kph-dream-with-an-eye-on-the-2027-odi-world-cup/articleshow/134499301.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134499381,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T07:10:33Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Ab tak band ho jati': Virat-Rohit retirements spark viewership debate; Sehwag explains why cricket will survive",
-    "description": "Virender Sehwag states that cricket's allure persists even after major players retire. He points out that past retirements have not impacted the sport's viewership negatively. Sehwag highlights how the advent of mobile technology has broadened cricket's reach…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ab-tak-band-ho-jati-virat-rohit-retirements-spark-viewership-debate-sehwag-explains-why-cricket-will-survive/articleshow/134498915.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134499133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T06:43:14Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "WWD",
-    "title": "Kylie Minogue Wears Custom Dolce & Gabbana and Bared Footwear for AFL Grand Final",
-    "description": "The Australian singer performed in front of a crowd of 100,000 at the Melbourne Cricket Ground.",
-    "url": "http://wwd.com/fashion-news/fashion-scoops/kylie-minogue-wears-custom-dolce-e-gabbana-and-bared-footwear-for-afl-grand-final-2-1239279059/",
-    "image": "https://wwd.com/wp-content/uploads/2026/09/KYLIE-MINOGUE_AFL_3.jpg?w=1000&h=563&crop=1",
-    "publishedAt": "2026-09-26T06:24:27Z",
-    "author": "Pattyhuntington"
   }
 ]
 ;
