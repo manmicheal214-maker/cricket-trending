@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Chicago White Sox settle for AL’s No. 6 playoff seed and will head to West winner for wild-card series",
+    "description": "Davis Martin raced to cover first base on Jake McCarthy’s grounder. First baseman Munetaka Murakami tossed the ball to the Chicago White Sox pitcher, but he dropped it and the game’s first batter reached on an error. It was an ominous sign for the Sox. Martin…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b4555f6-0405-4763-90dd-aee018d25730",
+    "image": null,
+    "publishedAt": "2026-09-27T04:27:00Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'It's going to take a lot': Virat Kohli opens up on India's chances of winning 2027 ODI World Cup",
+    "description": "Virat Kohli opened up on India's chances of winning the 2027 ODI World Cup in South Africa.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-indias-chances-winning-2027-odi-world-cup/79deb09b59221b31e8e1926b",
+    "image": "https://s.yimg.com/lo/mysterio/api/f6315496cf93e363f6ad6e878fa8c9807a478a56a78db5c70b19f10b5b334b06/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9aa377358c14d8062f009ae182e2992c",
+    "publishedAt": "2026-09-27T03:59:55Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli on the brink of history, 59 runs away from breaking Sachin Tendulkar's ODI record",
+    "description": "Virat Kohli stands on the brink of a remarkable milestone as he requires just 59 runs in the next ODI against West Indies to reach 15,000 runs. If successful, he will become only the second player ever to achieve this feat. Kohli has dominated past encounters…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/virat-kohli-on-the-brink-of-history-59-runs-away-from-breaking-sachin-tendulkars-odi-record/articleshow/134514102.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134514297,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T03:21:07Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Coach backs Jadeja's experience for 2027 World Cup; Shubman Gill good to go after elbow blow during nets",
+    "description": "Sitanshu Kotak expressed confidence in Ravindra Jadeja's potential for the upcoming 2027 ODI World Cup. He highlighted Jadeja's experience and all-round skills, which can significantly benefit the Indian team. Kotak emphasized the importance of competition wi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/coach-backs-jadejas-experience-for-2027-world-cup-shubman-gill-good-to-go-after-elbow-blow-during-nets/articleshow/134513622.cms",
+    "image": "https://img.etimg.com/thumb/msid-134513645,width-1200,height-630,imgsize-153638,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-27T02:30:54Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘No jealousy’: Dhruv Jurel reveals what Vaibhav Sooryavanshi does that others ‘can’t even dream of’",
+    "description": "Vaibhav Sooryavanshi, at only 15, has quickly become a rising star in Indian cricket. With exceptional skills and standout performances, he has captured the interest of cricket enthusiasts on a global scale. Dhruv Jurel, who competes alongside him, acknowledg…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-jealousy-dhruv-jurel-reveals-what-vaibhav-sooryavanshi-does-that-others-cant-even-dream-of/articleshow/134513363.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134513371,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T01:26:01Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Ro-Ko' record hunt: Rohit Sharma-Virat Kohli eye several milestones ahead of 1st ODI against West Indies",
+    "description": "Rohit Sharma and Virat Kohli prepare for their milestones in the upcoming ODI series against West Indies. Virat is close to achieving several records, including becoming the second player to reach 15,000 ODI runs. Rohit is also on the verge of reaching signif…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-virat-kohli-retirement-players-eye-several-milestones-ahead-of-1st-odi-against-west-indies/articleshow/134513287.cms",
+    "image": "https://img.etimg.com/thumb/msid-134513286,width-1200,height-630,imgsize-225232,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-27T01:17:35Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch India vs. West Indies live stream, TV channel, start time and lineups for 1st ODI",
+    "description": "Find out where to watch India vs. West Indies in India, including the live stream, TV channel, start time and confirmed lineups for the 1st ODI",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-india-west-indies-live-stream-tv-channel-start-time-lineups-1st-odi/e2d951e83adbf5feac02feba",
+    "image": "https://s.yimg.com/lo/mysterio/api/1ff7ef672b0bc39117e52e4468aab36956d3c3a7d93a95cddfec286cf3eea274/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7f2e41e0f8b5b89dad09a72c41e9b2a6",
+    "publishedAt": "2026-09-27T00:30:01Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Ex-Browns Pro Bowler: Todd Monken Made Right Call Not Starting Shedeur Sanders",
+    "description": "The Cleveland Browns hired Todd Monken as their new head coach for the 2026 season, and one of his first big decisions of the offseason was whether Shedeur Sanders or Deshaun Watson would start at quarterback in Week 1.\nAfter a quarterback competition that la…",
+    "url": "https://biztoc.com/x/b5410592e64b0d1e",
+    "image": "https://biztoc.com/cdn/b5410592e64b0d1e_s.webp",
+    "publishedAt": "2026-09-27T00:19:15Z",
+    "author": "newsweek.com"
+  },
+  {
     "source": "Sporting News",
     "title": "Greenfield Stadium, Thiruvananthapuram pitch report, ODI records and average scores ahead of India vs. West Indies 1st ODI",
     "description": "With the first ODI between India and West Indies all set for Sunday, here's a look at the pitch for the match.",
@@ -97,132 +169,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/0b01c3b6594417600b820b70e2a4eb7b36ed7df403abaf86d8a2d866875010df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f413dccba7f0a4eb50a39f64e1fda51",
     "publishedAt": "2026-09-26T15:00:02Z",
     "author": "Ajay Gandhar"
-  },
-  {
-    "source": "Hurriyet Daily News",
-    "title": "War criminals belong in court, not at UN: Erdoğan",
-    "description": "President Recep Tayyip Erdoğan called on Sept. 26 for Israeli officials wanted by the International Criminal Court (ICC) to face trial, condemning the killing of civilians in Gaza and Lebanon.",
-    "url": "https://www.hurriyetdailynews.com/war-criminals-belong-in-court-not-at-un-erdogan-227386",
-    "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab7d4ce193671de76cbbc83.jpg",
-    "publishedAt": "2026-09-26T14:21:04Z",
-    "author": "hurriyetdailynews.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma and Virat Kohli: The Rolling Stones of Indian cricket still have one more song",
-    "description": "With their Tests and T20I careers well behind them, what remains now is the 50-over format, and they plan to keep playing ODIs with the 2027 World Cup as the final destination. The journey to next year’s showpiece tournament, jointly hosted by South Africa, Z…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rohit-sharma-and-virat-kohli-the-rolling-stones-of-indian-cricket-still-have-one-more-song/articleshow/134506100.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134506145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T14:11:41Z",
-    "author": "Vishal Menon"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI ODI, T20I Series: When and where to watch India vs West Indies matches",
-    "description": "India begin their 2027 ODI World Cup preparations against West Indies on September 27, with three ODIs followed by five T20Is. Rohit Sharma and Virat Kohli return to the ODI squad, led by Shubman Gill, while Shreyas Iyer captains the T20I team. The matches wi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-wi-odi-t20i-series-when-and-where-to-watch-india-vs-west-indies-matches/articleshow/134499688.cms",
-    "image": "https://s.yimg.com/lo/mysterio/api/43b6060e028d072f9ca97cb581774cd9c69110e6add7059c4d826ca037fc7dce/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F337e65041bd36db3ed2d1b8f716250dd.jpg",
-    "publishedAt": "2026-09-26T13:04:00Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CNA",
-    "title": "Markram hopes Australia get a respectful reception in test series",
-    "description": "Sept 26 : South Africa batter Aiden Markram admits he does not know what sort of reception the Australian team will get from the home crowds in next month’s three-match test series, but hopes it is a respectful one.The matches in Durban, Gqeberha and Cape Tow…",
-    "url": "https://www.channelnewsasia.com/sport/markram-hopes-australia-get-respectful-reception-in-test-series-6412736",
-    "image": "https://dam.mediacorp.sg/image/upload/s--BiQJRSt_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-26T125007Z_1_LYNXMPEM8P09A_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=oAXyvRhA",
-    "publishedAt": "2026-09-26T12:50:07Z",
-    "author": null
-  },
-  {
-    "source": "Business Standard",
-    "title": "IND vs WI 1st ODI live streaming: Where to watch today's ODI match?",
-    "description": "India vs West Indies 1st ODI begins at 2 pm IST on Friday, with the toss at 1:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
-    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-1st-odi-live-streaming-where-to-watch-today-s-odi-match-126092600589_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/26/thumb/featurecrop/1200X628/1790419781-8853.jpg",
-    "publishedAt": "2026-09-26T12:36:42Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Shafali Verma hails India's team effort after Asian Games gold defence",
-    "description": "Following India's successful defence of their Asian Games gold medal, Shafali Verma highlighted the team's collective preparation, improved coordination and determination to win the T20 World Cup",
-    "url": "https://www.business-standard.com/cricket/news/shafali-verma-hails-india-s-team-effort-after-asian-games-gold-defence-126092600696_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789720518-8281.jpg",
-    "publishedAt": "2026-09-26T12:29:43Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I have received a lot of love’: Vinod Kambli’s message from Thane care centre reassures fans, says he feels at home",
-    "description": "Vinod Kambli has shared a video message from an elderly care centre in Thane, where he is currently staying, speaking positively about the facilities and treatment he has received. The former India cricketer praised the centre’s hygiene and cleanliness as \"fi…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/i-have-received-a-lot-of-love-vinod-kamblis-message-from-thane-care-centre-reassures-fans-says-he-feels-at-home/articleshow/134503821.cms",
-    "image": "https://img.etimg.com/thumb/msid-134504327,width-1200,height-630,imgsize-67787,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T12:15:28Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI: Virat Kohli 59 runs away from 15,000 ODI runs, to hunt several Sachin Tendulkar records",
-    "description": "Virat Kohli is preparing for the first ODI against West Indies in Thiruvananthapuram. He is only 59 runs away from reaching 15,000 ODI runs, joining an elite group. Kohli hopes to achieve his 100th international century during this match, having scored 199 ru…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-wi-virat-kohli-59-runs-away-from-15000-odi-runs-to-hunt-several-sachin-tendulkar-records/articleshow/134504004.cms",
-    "image": "https://img.etimg.com/thumb/msid-134504236,width-1200,height-630,imgsize-85986,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T12:10:08Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘There is so much competition’: Kotak says it’s not ‘unfair’ to Jaiswal, tells him to ‘keep working hard and waiting’",
-    "description": "Sitanshu Kotak highlighted the importance of hard work for Yashasvi Jaiswal, particularly in the limited scope of ODI matches available to him. He clarified that Jaiswal's omission from the England tour should not be interpreted as unjust. Kotak praised the s…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/there-is-so-much-competition-kotak-says-its-not-unfair-to-jaiswal-tells-him-to-keep-working-hard-and-waiting/articleshow/134503322.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134503440,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T11:24:43Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Sporting News",
-    "title": "India vs. West Indies prediction, team news, pitch report and betting tips for 1st ODI",
-    "description": "India vs. West Indies 1st ODI: get the latest prediction, team news, expected lineups, pitch report and betting tips ahead of Sunday's series opener in Thiruvananthapuram.",
-    "url": "https://www.sportingnews.com/in/cricket/news/india-vs-west-indies-prediction-team-news-pitch-report-betting-tips-1st-odi/8c248d0e399ab296f6e09eb1",
-    "image": "https://s.yimg.com/lo/mysterio/api/e59c98fe10c1f0a48f767a7e9f3b4b75e1fff400c66c7efdf2d7461f052652a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F429915765bbff0148b5e9ff8a3c6ec37",
-    "publishedAt": "2026-09-26T11:10:01Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Israel bans Arab parties from election: Who they are, why it matters",
-    "description": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
-    "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab78ea1bdbd4-1790414497_22fe80-1790415126.jpg?resize=1200%2C630&quality=80",
-    "publishedAt": "2026-09-26T10:27:11Z",
-    "author": "Caolán Magee"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Virat Kohli says he will retire from India cricket after 2027 World Cup",
-    "description": "The leading century-maker in ODI cricket, Virat Kohli, announces 2027 World Cup will be his swansong for India.",
-    "url": "https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-19T131658Z_137819755_UP1EM7J10W80J_RTRMADP_3_CRICKET-ODI-ENG-IND-1790415739.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-26T10:16:21Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli says 2027 World Cup will be his last for India, but how many ODIs does he have left?",
-    "description": "Virat Kohli has said the 2027 ODI World Cup will be his last for India as he prepares for a fresh season of white ball cricket. With that announcement now out, focus shifts to exactly how many ODIs he has left before that final tournament. This piece lays out…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/virat-kohli-says-2027-world-cup-will-be-his-last-for-india-but-how-many-odis-does-he-have-left/articleshow/134502144.cms",
-    "image": "https://img.etimg.com/thumb/msid-134502175,width-1200,height-630,imgsize-87316,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T10:12:53Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Virat Kohli says ODI World Cup in 2027 will be his last for India",
-    "description": "Kohli has been a part of an ODI World Cup-winning side, having played under Mahendra Singh Dhoni's captaincy in the 2011 edition of the tournament",
-    "url": "https://www.business-standard.com/cricket/world-cup/virat-kohli-says-odi-world-cup-in-2027-will-be-his-last-for-india-126092600551_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/18/thumb/fitandfill/1200X628/1768750006-3901.jpg",
-    "publishedAt": "2026-09-26T10:10:44Z",
-    "author": "Press Trust of India"
   }
 ]
 ;
