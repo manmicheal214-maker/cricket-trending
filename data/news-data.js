@@ -1,5 +1,203 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "'Brilliant' Banton scores maiden ODI century for England",
+    "description": "Tom Banton scores a \"brilliant\" century, his first in an ODI for England, in the third and deciding game of the series against Sri Lanka at The Oval.",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cmdx0wvdlkwjo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b99f/live/5bd92db0-ba6c-11f1-a430-4d16ee157c41.jpg",
+    "publishedAt": "2026-09-27T12:17:50Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'No Mohammed Siraj in playing 11': Indian fans lash out at Gautam Gambhir as West Indies make strong start in 1st ODI",
+    "description": "With Mohammad Siraj omitted from the 1st ODI, fans were quick to lash out at head coach Gautam Gambhir for this decision.",
+    "url": "https://www.cricketnews.com/en/cricket/news/no-mohammed-siraj-indian-fans-lash-out-gautam-gambhir-west-indies-1st-odi/8b72bc44f6f8a2a9ead11be0",
+    "image": "https://s.yimg.com/lo/mysterio/api/21891a7f94d8dd78b91d46c58fb84caffed6d2bb053f70c735199d54952c6ec4/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F80456af84e6841f1d9b69e9b5695583b",
+    "publishedAt": "2026-09-27T12:05:57Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Mairaj Khan: Cricket Dreams To Shooting Reality",
+    "description": "Mairaj Ahmad Khan, a 50-year-old Indian skeet shooter, is set to compete in his fourth Asian Games, showcasing remarkable longevity. The article traces his unique journey from a promising cricketer, who even played with Virender Sehwag, to becoming a decorate…",
+    "url": "https://www.rediff.com/sports/report/mairaj-ahmad-khans-remarkable-sporting-journey-from-cricket-to-skeet/20260927.htm",
+    "image": "https://im.rediff.com/1200-630/sports/2026/sep/14asian-games-india.jpg",
+    "publishedAt": "2026-09-27T11:48:50Z",
+    "author": "sports@rediff.co.in (Ajai Masand)"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Five-time Pro Bowler calls for Matt LaFleur change as Packers’ season takes troubling turn",
+    "description": "“Rock bottom” has become an overused phrase in sports, but the Green Bay Packers have a legitimate case for reaching their lowest point under Matt LaFleur. Green Bay suffered a 35-14 loss at home against an Atlanta team that entered the game 0-2, adding anoth…",
+    "url": "https://sports.yahoo.com/articles/five-time-pro-bowler-calls-110018713.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/9ecc859b883d6810adaa7b0d5d274623f029b76b080c2bc92a8cd49583b0b97e/lightyear_networkapi/resizefill_w917_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwi_sports_heroics_971%2F26191599f7780957b065cc2607e457dd.jpg",
+    "publishedAt": "2026-09-27T11:00:18Z",
+    "author": "Nathan Yasis"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Who wins the gold medal if Asian Games 2026 cricket final is washed out? Rules and scenarios explained",
+    "description": "Who takes gold if the Asian Games 2026 cricket final is washed out? Check the Olympic Council of Asia (OCA) rules and seeding criteria.",
+    "url": "https://www.cricketnews.com/en/cricket/news/who-wins-gold-medal-asian-games-2026-cricket-final-washed-out/afd3108109211d152c1a93b7",
+    "image": "https://s.yimg.com/lo/mysterio/api/14dc80e34de99f834fb76045a57580f3a6a1d73bc415452f68f2b05366f848f6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2a5228db7540c59568cdc691d1644f6a",
+    "publishedAt": "2026-09-27T10:30:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'India a bowler short': Fans and experts puzzled as MI's Naman Dhir makes ODI debut vs West Indies in Thiruvananthapuram",
+    "description": "Fans and experts questioned India's playing XI balance as Mumbai Indians all-rounder Naman Dhir made his ODI debut against West Indies.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-bowler-short-fans-experts-naman-dhir-odi-debut-west-indies/636ab00cf40532249970820f",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b755018afacee0ab99abbaa933e3360f6844b026915b78baeca611122ccfebc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb5803d5f414ed925329fb2839189d858",
+    "publishedAt": "2026-09-27T10:07:08Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ENG vs SL 3rd ODI: Brook's England opt to bat, series on the line at Oval",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/england-vs-sri-lanka-3rd-odi-live-score-and-updates-london-eng-sl-harry-brook-kusal-mendis-pitch-and-scoreboard/liveblog/134517782.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134517782,width-1280,height-720,imgsize-229278,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T09:13:48Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "BBC News",
+    "title": "England face Sri Lanka in ODI series decider - toss & team news",
+    "description": "Follow live text, BBC Radio 5 Live Sport commentary and in-play video highlights as England face Sri Lanka in the series-deciding third one-day international at The Oval.",
+    "url": "https://www.bbc.com/sport/cricket/live/c15dwnqeenlt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b9ac720c0de961c59476fdde9ccaf1df63c7115bfdc1f18dcdaecb8a07de552/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa24b92f1d6055d9507acca155aae95b1.jpg",
+    "publishedAt": "2026-09-27T09:06:49Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs AFG: Shreyas Iyer refuses to let rain cloud India's Asian Games challenge",
+    "description": "India cricket captain Shreyas Iyer addressed challenges posed by heavy rain ahead of the quarterfinal match. He stated that the team must remain professional and adapt to any situation presented. Despite facing adverse weather and limited practice, Iyer encou…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-afg-shreyas-iyer-refuses-to-let-rain-cloud-indias-asian-games-challenge/articleshow/134517197.cms",
+    "image": "https://img.etimg.com/thumb/msid-134517516,width-1200,height-630,imgsize-109562,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-27T08:58:43Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs WI 1st ODI: Naman Dhir makes India debut; Gill wins toss, opts to bowl",
+    "description": "Naman Dhir made his ODI debut for India in the opening match against the West Indies held in Thiruvananthapuram. Under the captaincy of Shubman Gill, the team chose to bowl first on a pitch that is known for being batting-friendly. Both sides anticipated favo…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-1st-odi-naman-dhir-makes-india-debut-shubman-gill-wins-toss-opts-to-bowl-in-thiruvananthapuram/articleshow/134516848.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134517146,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T08:20:35Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Abhishek Sharma's 30-ball ton hid the number that should really worry T20 bowlers",
+    "description": "Abhishek Sharma's 30-ball T20I hundred against Afghanistan was spectacular, but the bigger story lies in the numbers around it. The India opener is striking at 194.55 while averaging 33.18, combining extraordinary aggression with consistency. His powerplay do…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharmas-30-ball-ton-hid-the-number-that-should-really-worry-t20-bowlers/articleshow/134516612.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134516685,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T08:15:56Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Rohit Sharma score today in India vs. West Indies 1st ODI in Thiruvananthapuram",
+    "description": "Follow Rohit Sharma's score today in the India vs West Indies 1st ODI at Thiruvananthapuram. Get runs scored, balls faced, and boundary counts.",
+    "url": "https://www.sportingnews.com/in/cricket/news/rohit-sharma-score-today-india-west-indies-1st-odi-thiruvananthapuram/02199f9b74cf0eda2e228495",
+    "image": "https://s.yimg.com/lo/mysterio/api/bcdedfeba82fa52c3e594e52b967b590d5e72ae91cc75cdf992873996b98bb94/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F63b039b435c05442100b4371755be950",
+    "publishedAt": "2026-09-27T08:00:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India vs West Indies 1st ODI live streaming: When and where to watch live",
+    "description": "The first ODI begins at 2 pm IST in Thiruvananthapuram on Sunday, with India weighing Yashasvi Jaiswal's place, Nitish Kumar Reddy's bowling role and Virat Kohli's milestone",
+    "url": "https://www.business-standard.com/cricket/news/india-vs-west-indies-1st-odi-live-streaming-when-and-where-to-watch-live-126092700245_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/27/thumb/featurecrop/1200X628/1790495413-3225.jpg",
+    "publishedAt": "2026-09-27T07:50:43Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. West Indies live win probability, score, chances of victory for 1st ODI in Thiruvananthapuram",
+    "description": "IND vs WI 1st ODI 2026 live cricket score from Thiruvananthapuram: Check toss winner, ball-by-ball scorecard, win probability, match result, and video highlights.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-west-indies-live-win-probability-score-chances-1st-odi-thiruvananthapuram/d1622200a659f3b1e6c5790e",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b12c13d11fadd595880dea5805ff82ab42018bd9b82249915c74e6d86f7933c/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb73458a93d22dacf83bd16b60bbd966f",
+    "publishedAt": "2026-09-27T07:50:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Virat Kohli score today in India vs. West Indies 1st ODI in Thiruvananthapuram",
+    "description": "Follow Virat Kohli's score today in the India vs West Indies 1st ODI at Thiruvananthapuram. Get runs scored, balls faced, and boundary counts.",
+    "url": "https://www.sportingnews.com/in/cricket/news/virat-kohli-score-today-india-west-indies-1st-odi-thiruvananthapuram/c19281d2e6c27886275b0b6a",
+    "image": "https://s.yimg.com/lo/mysterio/api/72b3c9514794c135c57e3c583d6b3b4dd7cccefe29bd4d418462226990042cd0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F9aa377358c14d8062f009ae182e2992c",
+    "publishedAt": "2026-09-27T07:49:08Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Afghanistan live streaming: When and where to watch Asian Games quaterfinal live - check date, venue, timings",
+    "description": "The Indian men's cricket team is gearing up to kick off their campaign at the Asian Games 2026, facing off against Afghanistan on September 28 at 10:00 AM IST. This match will be hosted at Korogi Sports Park in Japan. As the reigning champions, India will enj…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/india-vs-afghanistan-live-streaming-when-and-where-to-watch-asian-games-quaterfinal-live-check-date-venue-timings/articleshow/134516414.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134516528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T07:40:06Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "SA vs AUS 2nd ODI: Australia win toss, opt to field vs South Africa in must-win match",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/southafrica-vs-australia-live-score-sa-vs-aus-2nd-odi-scorecard-playing-xi-toss-pitch-report-live-streaming/liveblog/134516542.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134516542,width-1280,height-720,imgsize-8627674,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T07:31:03Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs WI: Three Sachin Tendulkar records that Virat Kohli can break during India vs West Indies ODI series",
+    "description": "Discover the three iconic Sachin Tendulkar records Virat Kohli can break during the India vs West Indies ODI series, from 15,000 runs to home tons.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-wi-three-sachin-tendulkar-records-virat-kohli-break-odi/4809a0c4170ff1f3a0c31967",
+    "image": "https://s.yimg.com/lo/mysterio/api/d36d122b22c2c4a86ae924d91505d9ceb82d4882da14be37c149864e6cf41346/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0fbb20f3ce3b89c077e26c3ff951e286",
+    "publishedAt": "2026-09-27T07:28:48Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies Live Streaming: Check when and where to watch Rohit Sharma and Virat Kohli in action, Thiruvananthapuram weather update",
+    "description": "Ind vs WI Live Streaming: The inaugural ODI encounter between India and West Indies is set for September 27 in Thiruvananthapuram. Shubman Gill will lead the Indian squad, while Shai Hope commands the West Indies. The match kicks off at 2 PM IST, following th…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-live-streaming-check-when-and-where-to-watch-rohit-sharma-and-virat-kohli-in-action-thiruvananthapuram-weather-update/articleshow/134516173.cms",
+    "image": "https://img.etimg.com/thumb/msid-134516283,width-1200,height-630,imgsize-215408,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-27T07:12:57Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs WI 1st ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Thiruvananthapuram",
+    "description": "IND vs WI 1st ODI 2026 live cricket score from Thiruvananthapuram: Check toss winner, ball-by-ball scorecard, win probability, match result, and highlights.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-wi-1st-odi-2026-scorecard-result-highlights-thiruvananthapuram/09ddd31d58e4c0eb2e7e803c",
+    "image": "https://s.yimg.com/lo/mysterio/api/69e71b3fedba42b715e202a780692fb21b0df562f80a65ce64881bdc831df027/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
+    "publishedAt": "2026-09-27T06:06:02Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs WI, 1st ODI: Rohit Sharma, Virat Kohli return as India take on West Indies",
+    "description": "India vs West Indies Live Score, 1st ODI: India and West Indies begin their three-match ODI series at the Greenfield International Stadium in Thiruva",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies-live-score-ind-vs-wi-1st-odi-scorecard-playing-xi-toss-pitch-report-live-streaming/liveblog/134515270.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134515270,width-1280,height-720,imgsize-1358622,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-27T05:37:46Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies Playing 11: Check probable playing 11 for 1st ODI as Rohit Sharma and Virat Kohli return to action, Shubman Gill to lead team India",
+    "description": "Ind vs WI Playing 11: Mark your calendars for September 27, 2026, as India faces off against the West Indies in the 1st ODI hosted in Thiruvananthapuram. Shubman Gill will take the helm as captain for India, while Shai Hope steers the West Indies. With legend…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-playing-11-check-probable-playing-11-for-1st-odi-as-rohit-sharma-and-virat-kohli-return-to-action-shubman-gill-to-lead-team-india/articleshow/134515034.cms",
+    "image": "https://img.etimg.com/thumb/msid-134515114,width-1200,height-630,imgsize-230916,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-27T05:25:43Z",
+    "author": "Trending Desk"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Chicago White Sox settle for AL’s No. 6 playoff seed and will head to West winner for wild-card series",
     "description": "Davis Martin raced to cover first base on Jake McCarthy’s grounder. First baseman Munetaka Murakami tossed the ball to the Chicago White Sox pitcher, but he dropped it and the game’s first batter reached on an error. It was an ominous sign for the Sox. Martin…",
@@ -70,105 +268,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/b5410592e64b0d1e_s.webp",
     "publishedAt": "2026-09-27T00:19:15Z",
     "author": "newsweek.com"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Greenfield Stadium, Thiruvananthapuram pitch report, ODI records and average scores ahead of India vs. West Indies 1st ODI",
-    "description": "With the first ODI between India and West Indies all set for Sunday, here's a look at the pitch for the match.",
-    "url": "https://www.sportingnews.com/in/cricket/news/greenfield-stadium-thiruvananthapuram-pitch-report-odi-records-average-scores/4708123cfcfef3e6a55d3c53",
-    "image": "https://s.yimg.com/lo/mysterio/api/148b36a17176202140fd828995c516f8e16f10140bffc5c6e9eb2d79e8efea56/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F04ae8da1ab380cd9138952772db30491",
-    "publishedAt": "2026-09-26T23:30:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Thiruvananthapuram weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st ODI",
-    "description": "With the first ODI between India and West Indies set for Sunday, here's the weather the two teams can expect at Thiruvananthapuram.",
-    "url": "https://www.sportingnews.com/in/cricket/news/thiruvananthapuram-weather-forecast-india-west-indies-rain-temperature-1st-odi/63df2628d52c6db804b82b2e",
-    "image": "https://s.yimg.com/lo/mysterio/api/148b36a17176202140fd828995c516f8e16f10140bffc5c6e9eb2d79e8efea56/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F04ae8da1ab380cd9138952772db30491",
-    "publishedAt": "2026-09-26T22:30:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding - The New York Times",
-    "description": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal FloodingThe New York Times Live updates: Major nor'easter slams the Northeast as New York braces for worst flooding since SandyFOX Weather Nor'easter will slam Northeast, NYC, Bos…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185871604",
-    "image": null,
-    "publishedAt": "2026-09-26T21:33:08Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hope Australia gets a respectful reception in test series: Aiden Markram",
-    "description": "Aiden Markram acknowledged uncertainty regarding the reception that the Australian cricket team will receive from South African fans. The upcoming Test series marks the first meeting since the controversial 2018 ball-tampering scandal. South Africa aims to le…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/hope-australia-gets-a-respectful-reception-in-test-series-aiden-markram/articleshow/134509831.cms",
-    "image": "https://img.etimg.com/thumb/msid-134509878,width-1200,height-630,imgsize-93492,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T19:39:38Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hope Australia gets a respectful reception in test series: Aiden Markram",
-    "description": "Aiden Markram acknowledged uncertainty regarding the reception that the Australian cricket team will receive from South African fans. The upcoming Test series marks the first meeting since the controversial 2018 ball-tampering scandal. South Africa aims to le…",
-    "url": "https://economictimes.indiatimes.com/news/india/hope-australia-gets-a-respectful-reception-in-test-series-aiden-markram/articleshow/134509831.cms",
-    "image": "https://img.etimg.com/thumb/msid-134509878,width-1200,height-630,imgsize-93492,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-26T19:39:38Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Spotlight on Kashi’s urban growth at ICC summit",
-    "description": "ICC’s Varanasi Rising Summit highlighted Kashi’s urban growth, focusing on infrastructure, real estate, hospitality, mobility, connectivity and heritage conservation.",
-    "url": "https://timesofindia.indiatimes.com/city/varanasi/spotlight-on-kashis-urban-growth-at-icc-summit/articleshow/134509817.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-26T19:24:50Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nandini feted by UTCA for Asian Games gold",
-    "description": "UTCA felicitates Chandigarh cricketer Nandini Sharma for Asian Games women’s cricket gold; Director Saurabh Arora announces Rs 3 crore reward under UT Sports Policy.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/nandini-feted-by-utca-for-asian-games-gold/articleshow/134509316.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134509315,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-26T18:42:02Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "AB de Villiers over Virat Kohli: KKR's Ramandeep Singh picks South Africa legend as his favourite cricketer",
-    "description": "Ramandeep Singh has created a stir among cricket fans as he picked AB De Villiers over Virat Kohli.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ab-de-villiers-over-virat-kohli-kkr-ramandeep-singh-favourite-cricketer/d07ed2a60ad4a1165120f198",
-    "image": "https://s.yimg.com/lo/mysterio/api/fe4f60e1b93647d11c9f46a8b1cfddf7ffb5071088315d31f169c39ad1819334/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa5bd35e1b85f13b6b16c432734471ee8",
-    "publishedAt": "2026-09-26T18:21:35Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Elgar leads Essex fightback after Ul Hassan's five for Glamorgan",
-    "description": "A century from retiring South African batter Dean Elgar leads the Essex fight-back after Zain Ul Hassan's maiden five-wicket haul for Glamorgan.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cmqxvvrn78vdo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/1ed3848884c991cf502f27a32fe2524f3a36479febd4f7cb014ecbbb8e53a23e/lightyear_networkapi/resizefill_w820_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd7e107969d372b453262fdd7bd855c37.jpg",
-    "publishedAt": "2026-09-26T18:12:36Z",
-    "author": "Nick Webb - BBC Sport Wales"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "How to watch IND vs WI ODI 2026 live: Start time, TV channels and streaming details",
-    "description": "With the India vs West Indies three-match ODI series finally upon us, here's how you can grab the game live across the world without missing a single minute.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-wi-odi-2026-live-start-time-tv-channels-streaming/3204c4c0ee7e8852490f5696",
-    "image": "https://s.yimg.com/lo/mysterio/api/632ac7c6b61bde3686c2cf676bbe0a77e577c95dd2f0a4a543b91329144c5fc6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdf2f12568b9f90a135a514e12cf6be20",
-    "publishedAt": "2026-09-26T17:59:44Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Sporting News",
-    "title": "England vs. Sri Lanka prediction, team news, pitch report and betting tips for 3rd ODI",
-    "description": "England vs. Sri Lanka 3rd ODI: get the latest prediction, team news, expected lineups, pitch report and betting tips ahead of Sunday's series decider at the Oval.",
-    "url": "https://www.sportingnews.com/in/cricket/news/england-vs-sri-lanka-prediction-team-news-pitch-report-betting-tips-3rd-odi/5cdfb0b6adbd08ae2cc74198",
-    "image": "https://s.yimg.com/lo/mysterio/api/0b01c3b6594417600b820b70e2a4eb7b36ed7df403abaf86d8a2d866875010df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f413dccba7f0a4eb50a39f64e1fda51",
-    "publishedAt": "2026-09-26T15:00:02Z",
-    "author": "Ajay Gandhar"
   }
 ]
 ;
