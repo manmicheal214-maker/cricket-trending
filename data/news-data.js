@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "Acme Packing Company",
+    "title": "Packers bring in former Pro Bow OL Kevin Zeitler for a visit",
+    "description": "The Wisconsin Badger was a Pro Bowler in 2023 with the Baltimore Ravens",
+    "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87332/packers-bring-in-former-pro-bow-ol-kevin-zeitler-for-a-visit",
+    "image": "https://s.yimg.com/lo/mysterio/api/b9c90df6618e29a92a547e0e86a4c79c77b6d3fe9f5e2bade4c4c8b1660e9fd0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff23653e5f15349ead3a9f45f39cdf41e.jpg",
+    "publishedAt": "2026-09-29T21:30:41Z",
+    "author": "Justis Mosqueda"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Barsapara Stadium, Guwahati pitch report, ODI records and average scores ahead of India vs. West Indies 2nd ODI",
+    "description": "With India and the West Indies all set to clash at Guwahati for the 2nd ODI, here's a look at the pitch conditions and what scores the two teams can expect at the Barsapara Stadium.",
+    "url": "https://www.sportingnews.com/in/cricket/news/barsapara-stadium-guwahati-pitch-report-odi-records-scores-india-west-indies/952b40b55e2509bfe3c3633c",
+    "image": "https://s.yimg.com/lo/mysterio/api/1bf1035550292ccb1de3e54b1b82eca80260869d141e81de45da281746ae3e14/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0e41218607c594aad18cfc2d54f1cdf5",
+    "publishedAt": "2026-09-29T20:30:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Guwahati weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 2nd ODI",
+    "description": "With the second ODI between India and the West Indies set for the rain-addled Guwahati, here's what kind of weather the two teams can expect at Barsapara Stadium.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f429084-8031-4a21-9ee9-d93910411744",
+    "image": null,
+    "publishedAt": "2026-09-29T20:30:02Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "New York Giants: Move on from 3x-Pro Bowler After Limited Role",
+    "description": "The New York Giants signed Odell Beckham Jr. to a one-year deal worth the league minimum without any guaranteed money in June, after more than seven years apart. Beckham had a strong training camp and preseason, finishing with seven receptions for 76 yards, a…",
+    "url": "https://sports.yahoo.com/articles/york-giants-move-3x-pro-202631266.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/84ba3ba48914a895d05c234e44abc1116df36c44237465ded0c178c6f3e1e255/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F72a923d3f0c9343d98254457b63b7c13.jpg",
+    "publishedAt": "2026-09-29T20:26:31Z",
+    "author": "Jackson Loschko"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli's splendid record at Guwahati: How the Indian legend has performed across formats in Assam",
+    "description": "With the second ODI against the West Indies taking India to the Barsapara Stadium in Guwahati, here's a look at Virat Kohli's record at the venue following his century at Thiruvananthapuram.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-record-guwahati-indian-legend-performed-formats-assam/7eed3edf2f0013e42ff6ec7f",
+    "image": "https://s.yimg.com/lo/mysterio/api/f6d4a74b9317bc82c78629602c13b9d723520866a6bbaafa158e8675522f2b53/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F49aa5feb819669ee73c1d5c1864819d6",
+    "publishedAt": "2026-09-29T19:53:41Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Punjab, HP open campaign with wins in Rama Atray T20",
+    "description": "PCA Seniors Women and Himachal Pradesh Women began the 7th Rama Atray Memorial Women’s T20 in Chandigarh with wins; Mannat Kashyap and Anshika Thakur starred.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-hp-open-campaign-with-wins-in-rama-atray-t20/articleshow/134573020.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134573019,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T18:52:48Z",
+    "author": "TNN"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "When cricket can’t beat the rain: How the Asian Games weather problem may be damaging the sport’s image in emerging markets",
+    "description": "With match after match getting washed out at the Asian Games, what was supposed to be a promotion of cricket is soon being turned into a damaging pattern against the sport.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rain-asian-games-weather-problem-damaging-cricket-image-emerging-markets/7a5b896dc5d64a40bdc2ee82",
+    "image": "https://s.yimg.com/lo/mysterio/api/177573a8dd7b9760ed346683a4300669fa52d34d03d3eec5c805551684132532/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F719e68c72040eb390c133485d96c5643",
+    "publishedAt": "2026-09-29T18:33:44Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "The Times of India",
     "title": "Ro-Ko, heat & a fading frenzy: Guwahati gears up for an emotional evening",
     "description": "Guwahati braces for a hot, humid day-night ODI as fans weigh ticket prices and heat to watch Rohit Sharma and Virat Kohli, with Kohli in top form.",
@@ -124,42 +187,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134562253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-09-29T09:55:11Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘If he thinks about 100 centuries’: Ajinkya Rahane reveals if Virat Kohli can reach the milestone",
-    "description": "Virat Kohli's impressive unbeaten 139 runs in the ODI against West Indies has reignited discussions about his potential to achieve 100 international centuries. Former teammate Ajinkya Rahane believes Kohli's mindset can help him reach this milestone. Kohli's …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/if-he-thinks-about-100-centuries-ajinkya-rahane-reveals-if-virat-kohli-can-reach-the-milestone/articleshow/134561429.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134561441,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-29T09:03:41Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Dealnews.com",
-    "title": "Euarne InfinityGlow Sapphire Cooling IPL Hair Removal System for $109 + free shipping",
-    "description": "Handheld IPL devices like this one suit anyone looking to cut down on salon or razor visits by treating hair at home over repeated sessions, and this one is $70 off the $179 list price, bringing it to $108.87. Apply coupon code \"F7U76WJU\" and the clip coupon …",
-    "url": "https://www.dealnews.com/Euarne-Infinity-Glow-Sapphire-Cooling-IPL-Hair-Removal-System-for-109-free-shipping/22226708.html",
-    "image": "https://d.dlnws.com/64599/1790659345-draftworks_img_7fs9av8scnes9nkkgfk.jpeg?h=500&w=500",
-    "publishedAt": "2026-09-29T07:39:36Z",
-    "author": null
-  },
-  {
-    "source": "Sporting News",
-    "title": "How former cricketer Rumesh Tharanga Patirage became a javelin sensation",
-    "description": "Once a promising cricketer, Rumesh Tharanga Patirage transformed into a javelin sensation.",
-    "url": "https://www.sportingnews.com/in/tsn/news/former-cricketer-rumesh-tharanga-patirage-became-javelin-sensation/fadf2f5a577201f6359a2ea3",
-    "image": "https://s.yimg.com/lo/mysterio/api/a08d22ad9d09f190050d5bcf100e060aa48240e163ccfe1430bcc5d79882432b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F754a5efc470b8a49e814cec4ab006b70",
-    "publishedAt": "2026-09-29T07:37:42Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘There’s no problem at all’: Virat Kohli addresses rumours, opens up on camaraderie with Shubman Gill",
-    "description": "Virat Kohli has dispelled any rumors regarding unrest in the Indian cricket team, shining a light on the positive dynamic fostered by Shubman Gill's leadership. Following an impressive unbeaten 139 runs in the first ODI, Kohli spoke about the team's unity and…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-no-problem-at-all-virat-kohli-addresses-rumours-opens-up-on-camaraderie-with-shubman-gill/articleshow/134559169.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134559242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-29T07:34:46Z",
-    "author": "Pranav Shukla"
   }
 ]
 ;
