@@ -1,5 +1,158 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Batter Whiteley to remain with Falcons",
+    "description": "Batter Ross Whiteley will remain with the Derbyshire Falcons next season after signing a new one-year deal.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmzxz91vp4p9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/f6a04edfa03af8792d2cea64a5d8a44c474d3eb50b38c299bd60a7340f7522b6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F806dc1d29af67a672d8edc341bf38adc.jpg",
+    "publishedAt": "2026-09-29T11:52:06Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
+    "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c68jd40rd7ero?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/381ee478b6c55db10e7edb70ccd4ff3dcecffbabdd1044caddf2719ef4dddd84/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F946453284f1c6e1c11d858972e444d51.jpg",
+    "publishedAt": "2026-09-29T11:20:15Z",
+    "author": "Andrew Aloia - BBC Sport, East Midlands"
+  },
+  {
+    "source": "BBC News",
+    "title": "Nottinghamshire sign Sussex wicketkeeper Simpson",
+    "description": "Nottinghamshire sign veteran wicketkeeper John Simpson from Sussex on a deal that will keep him at Trent Bridge beyond his 40th birthday.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c68jd40rd7ero",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/925d/live/d263b150-bbf0-11f1-9074-3d74885a19d6.jpg",
+    "publishedAt": "2026-09-29T11:20:10Z",
+    "author": "Andrew Aloia"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: Sree Charani scripts record in ICC T20I bowling rankings",
+    "description": "Sree Charani has reached the highest rating points ever recorded in ICC Women’s T20I Bowling Rankings. Her recent performances include pivotal roles in India's victories at the Women's Asia Cup and Asian Games. Charani's record-setting 817-point rating broke …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-2026-sree-charani-scripts-record-in-icc-t20i-bowling-rankings/articleshow/134564370.cms",
+    "image": "https://img.etimg.com/thumb/msid-134564428,width-1200,height-630,imgsize-127022,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-29T11:11:53Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Chances of rain in Guwahati on Wednesday: Latest weather forecast for IND vs WI 2nd ODI at Barsapara Stadium",
+    "description": "With the second ODI between India and the West Indies scheduled to take place at the rain-addled Guwahati, here's a look at what weather conditions the two teams can expect.",
+    "url": "https://www.cricketnews.com/en/cricket/news/chances-rain-guwahati-wednesday-weather-ind-vs-wi-2nd-odi-barsapara/c31156d68ae9391e594d548a",
+    "image": "https://s.yimg.com/lo/mysterio/api/cfc93d89fab57ad08ee3268b4b1067800209cf72bdcb1c762eeb3bbba01c15d9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0e41218607c594aad18cfc2d54f1cdf5",
+    "publishedAt": "2026-09-29T11:05:03Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "CNA",
+    "title": "South Africa look to gather momentum in ODI series with World Cup looming",
+    "description": "JOHANNESBURG, Sept 29 : South Africa feel it is important to set some markers against Australia in their one-day international series, even though the World Cup is still one year away, key spinner Keshav Maharaj said on Tuesday.South Africa are 2-0 up in the …",
+    "url": "https://www.channelnewsasia.com/sport/south-africa-look-gather-momentum-in-odi-series-world-cup-looming-6418526",
+    "image": "https://dam.mediacorp.sg/image/upload/s--jGE-6wHm--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-29T110220Z_1_LYNXMPEM8S0WY_RTROPTP_3_CRICKET-ODI-ENG-ZAF.JPG?itok=6auAQO0-",
+    "publishedAt": "2026-09-29T11:02:20Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Rank the biggest scandals in Test cricket history",
+    "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8680/live/00439eb0-b8bc-11f1-8668-c7d18ac42397.jpg",
+    "publishedAt": "2026-09-29T10:33:55Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "BBC News",
+    "title": "Rank the biggest scandals in Test cricket history",
+    "description": "As memories of sandpapergate are rekindled by Australia's upcoming tour of South Africa, rank the biggest scandals in Test cricket's history.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c9x2zmz6480vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/94f9ee6b82d0ed112874dd06b35ee3d668696fc40a563c9d6a62d31d260fe408/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff9a7121772b3817b21b2d331c7d76273.jpg",
+    "publishedAt": "2026-09-29T10:24:52Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ILT20 Auction: Babar Azam, Phil Salt, Wanindu Hasaranga among T20 stars set for Season 5 auction",
+    "description": "More than 200 players from 23 countries will go under the hammer in Dubai on October 1, with franchises entering the auction with purses of up to $1.39 million.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-auction-babar-azam-phil-salt-wanindu-hasaranga-among-t20-stars-set-for-season-5-auction/articleshow/134561926.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134562253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T09:55:11Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘If he thinks about 100 centuries’: Ajinkya Rahane reveals if Virat Kohli can reach the milestone",
+    "description": "Virat Kohli's impressive unbeaten 139 runs in the ODI against West Indies has reignited discussions about his potential to achieve 100 international centuries. Former teammate Ajinkya Rahane believes Kohli's mindset can help him reach this milestone. Kohli's …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/if-he-thinks-about-100-centuries-ajinkya-rahane-reveals-if-virat-kohli-can-reach-the-milestone/articleshow/134561429.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134561441,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T09:03:41Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Dealnews.com",
+    "title": "Euarne InfinityGlow Sapphire Cooling IPL Hair Removal System for $109 + free shipping",
+    "description": "Handheld IPL devices like this one suit anyone looking to cut down on salon or razor visits by treating hair at home over repeated sessions, and this one is $70 off the $179 list price, bringing it to $108.87. Apply coupon code \"F7U76WJU\" and the clip coupon …",
+    "url": "https://www.dealnews.com/Euarne-Infinity-Glow-Sapphire-Cooling-IPL-Hair-Removal-System-for-109-free-shipping/22226708.html",
+    "image": "https://d.dlnws.com/64599/1790659345-draftworks_img_7fs9av8scnes9nkkgfk.jpeg?h=500&w=500",
+    "publishedAt": "2026-09-29T07:39:36Z",
+    "author": null
+  },
+  {
+    "source": "Sporting News",
+    "title": "How former cricketer Rumesh Tharanga Patirage became a javelin sensation",
+    "description": "Once a promising cricketer, Rumesh Tharanga Patirage transformed into a javelin sensation.",
+    "url": "https://www.sportingnews.com/in/tsn/news/former-cricketer-rumesh-tharanga-patirage-became-javelin-sensation/fadf2f5a577201f6359a2ea3",
+    "image": "https://s.yimg.com/lo/mysterio/api/a08d22ad9d09f190050d5bcf100e060aa48240e163ccfe1430bcc5d79882432b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F754a5efc470b8a49e814cec4ab006b70",
+    "publishedAt": "2026-09-29T07:37:42Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘There’s no problem at all’: Virat Kohli addresses rumours, opens up on camaraderie with Shubman Gill",
+    "description": "Virat Kohli has dispelled any rumors regarding unrest in the Indian cricket team, shining a light on the positive dynamic fostered by Shubman Gill's leadership. Following an impressive unbeaten 139 runs in the first ODI, Kohli spoke about the team's unity and…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-no-problem-at-all-virat-kohli-addresses-rumours-opens-up-on-camaraderie-with-shubman-gill/articleshow/134559169.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134559242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T07:34:46Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Delhi Capitals cricketer back in squad ahead of Ranji Trophy days after bail in sexual offence case",
+    "description": "Abishek Porel's recent selection for Bengal's senior men's squad comes in the wake of his recent bail, stemming from serious allegations that include rape and threats. Arrested on August 11 following a complaint from a medical student regarding their relation…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/delhi-capitals-cricketer-back-in-squad-ahead-of-ranji-trophy-days-after-bail-in-sexual-offence-case/articleshow/134558869.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134558947,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T06:51:49Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India's pace puzzle, Kohli's purple patch in focus as West Indies face must-win second ODI",
+    "description": "India is looking to secure the second ODI against West Indies amidst concerns regarding their pace-bowling combination. Kohli's impressive performance in the last match has raised expectations for his continued form. The team faces a dilemma on whether to inc…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indias-pace-puzzle-kohlis-purple-patch-in-focus-as-west-indies-face-must-win-second-odi/articleshow/134558821.cms",
+    "image": "https://img.etimg.com/thumb/msid-134558935,width-1200,height-630,imgsize-117714,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-29T06:50:29Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Naturalnews.com",
+    "title": "Netanyahu Defends Israel at UN as Delegates Walk Out; ICC Warrant Looms",
+    "description": "Israeli Prime Minister Benjamin Netanyahu delivered a defiant address to the United Nations General Assembly on Sept. 24 in New York, defending his country’s military campaigns across the Middle East as dozens of delegates walked out of the hall in protest, a…",
+    "url": "https://www.naturalnews.com/2026-09-29-netanyahu-defends-israel-as-delegates-walk-out.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/netanyahu-united-nations-general-assembly-icc-arrest-warrant-4450-original.jpg",
+    "publishedAt": "2026-09-29T06:00:00Z",
+    "author": "Belle Carter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kaun Banega Crorepati season 18: Amitabh Bachchan reveals why he watches Ritika Sajdeh when Rohit Sharma plays, “Her fingers are always crossed”",
+    "description": "Amitabh Bachchan hosted a recent episode of Kaun Banega Crorepati where a cricket question arose. Contestant Sonali expressed her deep admiration for Rohit Sharma during the discussion. Bachchan shared that he also admires Rohit and has spoken to him personal…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kaun-banega-crorepati-season-18-amitabh-bachchan-reveals-why-he-watches-ritika-sajdeh-when-rohit-sharma-plays-her-fingers-are-always-crossed/articleshow/134557214.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134557221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T05:28:52Z",
+    "author": "etimes.in"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'We're different individuals': Rohit Sharma speaks about relationship with Virat Kohli and 2027 ODI World Cup plans",
     "description": "Rohit Sharma opens up on his relationship with Virat Kohli and their 2027 ODI World Cup plans.",
@@ -106,141 +259,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/50976b246ea63e95b4f5985820c9471d2bf3c6ad3b49ad2c711a83f9afa8b12a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8e630daaf6a7620d7daffc33d132c7c9.jpg",
     "publishedAt": "2026-09-28T23:31:17Z",
     "author": "TJ French"
-  },
-  {
-    "source": "POLITICO.eu",
-    "title": "Block US sanctions on ICC, EU lawmakers tell Commission",
-    "description": "Automatically applying U.S. sanctions \"stems from the time when we thought that the Americans were still our friends,\" said Dutch lawmaker Dirk Gotink.",
-    "url": "https://www.politico.eu/article/block-us-sanctions-on-the-icc-eu-lawmakers-tell-commission/",
-    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/GettyImages-2297053562-scaled.jpg",
-    "publishedAt": "2026-09-28T21:35:02Z",
-    "author": "Giovanna Faggionato"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gawli, Mahajan script MP’s title-winning chase in Thimmappaiah memorial cricket tourney",
-    "description": "Madhya Pradesh retained the Dr K Thimmappaiah Memorial title, beating Andhra by 5 wickets after a 199-run deficit, chasing 390 with tons from Gawli, Mahajan.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/gawli-mahajan-script-mps-title-winning-chase-in-thimmappaiah-memorial-cricket-tourney/articleshow/134549806.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134549805,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-28T19:16:19Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Namo Cricket League grand finale begins in Panchkula",
-    "description": "Namo Cricket League grand finale begins in Panchkula as Haryana CM Nayab Saini launches knockouts; organisers claim 55,000 players, 3,400 teams.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/namo-cricket-league-grand-finale-begins-in-panchkula/articleshow/134549311.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134549310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-28T19:14:36Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Pypi.org",
-    "title": "mcp-print 0.6.0",
-    "description": "MCP server for professional print and color workflows — CMYK/RGB/Lab conversion, Delta E, ink/cost estimation, ICC profiles, preflight checks, substrate simulation, and lookups in your own local color palette.",
-    "url": "https://pypi.org/project/mcp-print/0.6.0/",
-    "image": null,
-    "publishedAt": "2026-09-28T19:01:41Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Barsapara traffic curbs for India-West Indies ODI",
-    "description": "Guwahati traffic curbs in Barsapara for India vs West Indies 2nd ODI: goods vehicle ban from 10am, diversions, one-way and no-parking zones.",
-    "url": "https://timesofindia.indiatimes.com/city/guwahati/barsapara-traffic-curbs-for-india-west-indies-odi/articleshow/134549056.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-28T18:28:54Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "ECB chief Richard Thompson calls for a new charity event in the cricket calendar after walking 100 laps of Lord's to raise money for the Alzheimer's Society",
-    "description": "ECB chairman Richard Thompson wants to establish a new high-profile charity event on the cricket calendar after walking 100 laps of Lord's to raise money for the Alzheimer's Society.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16167307/ECB-chief-Richard-Thompson-calls-new-charity-Lords.html",
-    "image": "https://i.dailymail.com/1s/2026/09/28/18/111524325-0-image-m-17_1790616348579.jpg",
-    "publishedAt": "2026-09-28T17:26:35Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "RTE",
-    "title": "Joyce appointed as Ireland men's batting coach",
-    "description": "Former Irish international and former Ireland women's head coach, Ed Joyce, has been appointed as Cricket Ireland's new high performance batting coach with a focus on Ireland men's senior squad and the male talent pathway.",
-    "url": "https://www.rte.ie/sport/cricket/2026/0928/1593251-joyce-appointed-as-ireland-mens-batting-coach/",
-    "image": "https://www.rte.ie/images/00251597-1600.jpg",
-    "publishedAt": "2026-09-28T16:07:15Z",
-    "author": "RTÉ Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Joyce lands new job with Ireland",
-    "description": "Cricket Ireland name former international Ed Joyce as the new High Performance batting coach, with a focus on the the men's senior squad and male talent pathway.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c98r6z2rlpv3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd38/live/d69402e0-bb53-11f1-aeb7-e1deb589b72b.jpg",
-    "publishedAt": "2026-09-28T16:00:22Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Test Match Special Podcast",
-    "description": "The TMS team look back at a sometimes chaotic English cricket season.",
-    "url": "https://www.bbc.co.uk/sounds/play/p0pcx312?at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pcxhby.jpg",
-    "publishedAt": "2026-09-28T15:52:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Australian court rejects indigenous activist’s bid to prosecute King Charles over genocide; says ‘will take fight to ICC after exhausting domestic options’",
-    "description": "An Australian court has denied Indigenous activist Uncle Robbie Thorpe's private prosecution against King Charles III over claims of genocide against Indigenous Australians, prompting a potential move to the International Criminal Court.",
-    "url": "https://timesofindia.indiatimes.com/world/uk/australian-court-rejects-indigenous-activists-bid-to-prosecute-king-charles-over-genocide-says-will-take-fight-to-icc-after-exhausting-domestic-options/articleshow/134546208.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134546300,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-28T15:29:30Z",
-    "author": "Gokul Ankari"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "When will ICC release ODI World Cup 2027 schedule?",
-    "description": "Here's everything you need to know when the ICC will release the 2027 Cricket World Cup schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/when-will-icc-release-odi-world-cup-2027-schedule/f221c29cd291698cab7a79a4",
-    "image": "https://s.yimg.com/lo/mysterio/api/17935e3afafef6847183e76c92e96a79c3c603248a3c62db6f4267d16dab7d0d/lightyear_networkapi/resizefill_w600_h337%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fba7cfdcc477b00bfadf39de5afed5299",
-    "publishedAt": "2026-09-28T14:39:41Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Sportsnaut",
-    "title": "3-Time Pro Bowler Wants NY Giants Reunion After Brian Burns ACL Tear News",
-    "description": "A New York Giants great wants a return to the team in 2026 following the crushing news that Pro Bowl […]",
-    "url": "https://sportsnaut.com/nfl/jason-pierre-paul-wants-ny-giants-reunion-after-brian-burns-acl-tear",
-    "image": "https://s.yimg.com/lo/mysterio/api/2b155679c6645d910e2442fbaab72e28247ae498ad4db912c3fcf73e8944f57b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2Ff0c452dc23173d633725b33becb7c695.jpg",
-    "publishedAt": "2026-09-28T14:13:07Z",
-    "author": "Jason Burgos"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Back from hamstring injury, Ayush Mhatre to play his first competitive match in 5 months",
-    "description": "In a major boost to Mumbai ahead of the 2026-27 Ranji Trophy season, opener Ayush Mhatre, out of action since he suffered a bad hamstring injury while playing for the Chennai Super Kings during IPL-2026, will play his first competitive match in almost five mo…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/back-from-hamstring-injury-ayush-mhatre-to-play-his-first-competitive-match-in-5-months/articleshow/134544414.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134544437,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-28T13:40:50Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Is Rohit Sharma injured before IND vs WI 2nd ODI? Viral video shows veteran Indian opener slip on team bus stairs",
-    "description": "The health status of Rohit Sharma has come under scrutiny after the former India",
-    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-injured-ind-vs-wi-2nd-odi-indian-slip-team-bus-stairs/97cf4e1e53093db7cd08dcb6",
-    "image": "https://s.yimg.com/lo/mysterio/api/9d80fa9068694c83500516d5281af8de8bab729e2bdb3292efd9112ecc6ad339/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8400b59fe6bd95a920b04e7a20a5f85c",
-    "publishedAt": "2026-09-28T13:39:28Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Kent duo Cohen and Evison to leave promoted club",
-    "description": "Kent confirm bowler Mikey Cohen will join Joey Evison in leaving the club following the conclusion of the 2026 season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckq63npgv25qo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd74/live/666c9fb0-bb3d-11f1-a9b8-670e5d9d8eee.jpg",
-    "publishedAt": "2026-09-28T13:28:22Z",
-    "author": "BBC Sport"
   }
 ]
 ;
