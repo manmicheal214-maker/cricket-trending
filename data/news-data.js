@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'We're different individuals': Rohit Sharma speaks about relationship with Virat Kohli and 2027 ODI World Cup plans",
+    "description": "Rohit Sharma opens up on his relationship with Virat Kohli and their 2027 ODI World Cup plans.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-relationship-virat-kohli-2027-odi-world-cup-plans/4ebb0e8bded83cc3615a8bed",
+    "image": "https://s.yimg.com/lo/mysterio/api/69e71b3fedba42b715e202a780692fb21b0df562f80a65ce64881bdc831df027/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
+    "publishedAt": "2026-09-29T04:53:38Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Asiad 2026: India to face Sri Lanka in men's cricket semifinals on Oct 1",
+    "description": "The Indian men's cricket team will face Sri Lanka in the semifinals of the Asian Games after the island nation's quarterfinal against Nepal was abandoned due to inclement weather here on Tuesday.\nSri Lanka made it to the last four owing to their higher rankin…",
+    "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-to-face-sri-lanka-in-men-s-cricket-semifinals-on-oct-1-126092900095_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790072305-6638.jpg",
+    "publishedAt": "2026-09-29T04:15:48Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli was nervous when he first met Anushka Sharma and made an awkward comment about her heels: How their first meeting really happened",
+    "description": "Power couple Virat Kohli and Anushka Sharma often go viral for their romantic exchanges while Kohli chases runs on cricket pitches and Sharma sits in the stands cheering for her husband.The couple has been married for almost a decade now and has been serving …",
+    "url": "https://timesofindia.indiatimes.com/relationships/virat-kohli-was-nervous-when-he-first-met-anushka-sharma-and-made-an-awkward-comment-about-her-heels-how-their-first-meeting-really-happened/photostory/134555213.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134555223,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T04:00:00Z",
+    "author": "ETimes.in"
+  },
+  {
+    "source": "CNA",
+    "title": "Games-Sri Lanka and Bangladesh advance as rain washes out cricket again",
+    "description": "NAGOYA, Japan, Sept 29 : Rain continued to disrupt the Aichi-Nagoya Asian Games on Tuesday, with Sri Lanka and Bangladesh advancing to the men's cricket semi-finals after their quarter-final matches were abandoned without a ball being bowled.Sri Lanka had bee…",
+    "url": "https://www.channelnewsasia.com/sport/games-sri-lanka-and-bangladesh-advance-rain-washes-out-cricket-again-6417376",
+    "image": "https://dam.mediacorp.sg/image/upload/s--yOXsl58S--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-29T034519Z_1_LYNXMPEM8S07S_RTROPTP_3_GAMES-ASIA.JPG?itok=k6S-wQic",
+    "publishedAt": "2026-09-29T03:45:19Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rain ruins India’s Asian Games cricket quarterfinal, fans left with ‘far-off view’ of players",
+    "description": "Due to relentless rain, the quarterfinal matches of cricket at the Asian Games were called off in Nisshin, with no play occurring. Consequently, India and Pakistan secured their spots in the semifinals based on their higher rankings. This outcome left many In…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/rain-ruins-indias-asian-games-cricket-quarterfinal-fans-left-with-far-off-view-of-players/articleshow/134554712.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134554815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T03:07:46Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games cricket: India to face Sri Lanka in semifinals",
+    "description": "The Indian men's cricket team will compete against Sri Lanka in the semifinals of the Asian Games. Sri Lanka advanced due to their higher ranking, despite their quarterfinal against Nepal being abandoned. Consistent rain has caused multiple quarterfinal match…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-cricket-india-to-face-sri-lanka-in-semifinals/articleshow/134554249.cms",
+    "image": "https://img.etimg.com/thumb/msid-134554342,width-1200,height-630,imgsize-137784,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-29T02:37:17Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "After four decades, top-tier cricket returns to Srinagar with Irani Cup showdown",
+    "description": "Jammu and Kashmir is making history by preparing to host the Irani Trophy for the very first time. A host of enhancements have been made at Sher-i-Kashmir Stadium, which now boasts seating for approximately 5000 spectators. True fans can look forward to free …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-four-decades-top-tier-cricket-returns-to-srinagar-with-irani-cup-showdown/articleshow/134553660.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134554286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T02:32:56Z",
+    "author": "Mandakini Shalya"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal knocked out after Asian Games cricket match washed out",
+    "description": "KATHMANDU: Nepal has been eliminated from the ongoing 2nd Asian Games after its men’s cricket quarter-final against Sri Lanka was abandoned due to rain. The match, scheduled to be played today at Korogi Sports Park in Nagoya, could not begin because of contin…",
+    "url": "https://english.khabarhub.com/2026/29/569808/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/09/Nepali-cricket.jpg",
+    "publishedAt": "2026-09-29T01:37:30Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "RCA polls narrow to two-way battle as Dhananjai Singh Khimsar, Brij Kishore Upadhyay face off",
+    "description": "In the Rajasthan Cricket Association presidency contest, the field has narrowed to two prominent candidates: Dhananjai Singh Khimsar and Brij Kishore Upadhyay. The reduction in nominations has resulted in direct competition for key executive positions. Khimsa…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rca-polls-narrow-to-two-way-battle-as-dhananjai-singh-khimsar-brij-kishore-upadhyay-face-off/articleshow/134553629.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134553633,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-29T01:24:14Z",
+    "author": "Mandakini Shalya"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "49ers Bolster Pass-Rush With 4-Time Pro Bowler After Nick Bosa Injury",
+    "description": "As Nick Bosa continues to be sidelined with a pulled calf, the San Francisco 49ers have brought in a new veteran edge to add to their depth.\nAccording to NBC Sports' Matt Maiocco, the 49ers have signed veteran defensive end Matt Judon to their practice squad.…",
+    "url": "https://biztoc.com/x/15a47ea0c235fbdd",
+    "image": "https://biztoc.com/cdn/15a47ea0c235fbdd_s.webp",
+    "publishedAt": "2026-09-29T00:57:13Z",
+    "author": "newsweek.com"
+  },
+  {
     "source": "Heavy.com",
     "title": "San Franciscio 49ers Officially Add Matthew Judon to Roster",
     "description": "Just a day after their 36-30 win over the Arizona Cardinals on Sunday afternoon, the San Francisco 49ers are bringing in a notable name to their organization. The news was released on Monday afternoon that the 49ers are signing 4X Pro Bowler Matthew Judon to …",
@@ -151,96 +241,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd74/live/666c9fb0-bb3d-11f1-a9b8-670e5d9d8eee.jpg",
     "publishedAt": "2026-09-28T13:28:22Z",
     "author": "BBC Sport"
-  },
-  {
-    "source": "Cumberland Times-News",
-    "title": "Pirates great Bob Robertson honored in Mount Savage",
-    "description": "For a few seconds, Bob Robertson closes his eyes, almost as if to teleport back to that fateful October night. Oct. 12, 1971. Pittsburgh, Pennsylvania. Three Rivers Stadium. 50,403 people in attendance. “The batter will be Bobby Robertson,” Pirates play-by-pl…",
-    "url": "https://www.times-news.com/news/pirates-great-bob-robertson-honored-in-mount-savage/article_fd3048b2-314f-4b3e-a0ba-cde977011dca.html",
-    "image": null,
-    "publishedAt": "2026-09-28T13:17:00Z",
-    "author": "Kyle Bennett, Cumberland Times-News, Md."
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sachin Tendulkar asks ChatGPT to help plan family trip, reveals how he uses the AI tool",
-    "description": "Sachin Tendulkar has partnered with OpenAI and revealed that he has already used ChatGPT for practical tasks, including planning a family trip. The former India cricketer said the AI tool has also encouraged his curiosity, with one question often leading to a…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/sachin-tendulkar-asks-chatgpt-to-help-plan-family-trip-reveals-how-he-uses-the-ai-tool/articleshow/134541941.cms",
-    "image": "https://img.etimg.com/thumb/msid-134542268,width-1200,height-630,imgsize-41288,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-28T12:08:07Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "India Adds More Medals At Asian Games; Boxers, Cricket Team Advance",
-    "description": "India continued its strong performance at the Asian Games, securing more medals across various disciplines. Shooter Esha Singh won a hard-fought silver in the women's 25m pistol, while Gulveer Singh added another silver in the men's 1500m. Other notable achie…",
-    "url": "https://www.rediff.com/sports/report/india-at-asian-games-esha-singh-gulveer-singh-silver-vithya-ramraj-bronze/20260928.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/jul/01gulveer-singh.jpg",
-    "publishedAt": "2026-09-28T12:00:50Z",
-    "author": "sports@rediff.co.in (Ajai Masand, Philem Dipak Singh)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Decoding Eras: Virat Kohli scales 'Mount 15K' quicker than Sachin Tendulkar but comparisons unfair",
-    "description": "Virat Kohli has achieved 15,000 ODI runs in fewer innings than Sachin Tendulkar, showcasing his batting prowess. Kohli has 55 centuries, surpassing Tendulkar's 41 in a similar number of matches. However, the game has evolved significantly since Tendulkar's er…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/decoding-eras-virat-kohli-scales-mount-15k-quicker-than-sachin-tendulkar-but-comparisons-unfair/articleshow/134540318.cms",
-    "image": "https://img.etimg.com/thumb/msid-134540659,width-1200,height-630,imgsize-916411,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-28T11:12:33Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Sporting News",
-    "title": "How to watch Emirates D10 2026 on Dafabet: Live stream, schedule for cricket tournament",
-    "description": "Here's everything you will need to know to stream the Emirates D10 2026 cricket tournament live on Dafanews.",
-    "url": "https://www.sportingnews.com/in/cricket/news/how-watch-emirates-d10-2026-dafabet-live-stream-schedule/48dd634bc5d414135ba99097",
-    "image": "https://s.yimg.com/lo/mysterio/api/11d22461d88ea1c765d68c0deed1a6623877e9ea5d88c5490eadd56f5340a90b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5dda795928b195c31bb2637f06b10943",
-    "publishedAt": "2026-09-28T11:07:00Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "BBC News",
-    "title": "Buttler out of tri-series while England prepare central contracts",
-    "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his plac...",
-    "url": "https://www.bbc.com/sport/cricket/articles/c623xdzvzmdgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/15d403a0a90f56af72100a0c9a8b179a957e2e9719c530c6d02c6495ec9a7c51/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F63f45851f4851f7d91e08fb1f65ecfb8.jpg",
-    "publishedAt": "2026-09-28T11:03:34Z",
-    "author": "Matthew Henry - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Buttler out of tri-series while England prepare central contracts",
-    "description": "Wicketkeeper Jos Buttler will miss England's 50-over tri-series in Pakistan next month, with Jordan Cox set to be given another chance to impress in his place.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c623xdzvzmdgo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b651/live/63473f70-bb1f-11f1-bc1f-3f186ca4140c.jpg",
-    "publishedAt": "2026-09-28T11:00:19Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "National Fish and Chip Awards 2026: Top 40 chippies batter the competition to make this year's longlist",
-    "description": "The top 40 fish and chip shops across the country have been shortlisted for a prestigious prize awarded by the National Federation of Fish Friers.",
-    "url": "https://www.dailymail.com/travel/article-16165953/National-fish-chip-awards-longlist-40.html",
-    "image": "https://i.dailymail.com/1s/2026/09/28/11/111514965-0-image-a-34_1790590961986.jpg",
-    "publishedAt": "2026-09-28T10:41:50Z",
-    "author": "Alesia Fiddler"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Absolute incompetence': Asian Games organisers slammed as India and Pakistan reach semi-final without playing a ball",
-    "description": "Asian Games organisers faced fierce backlash as India and Pakistan advanced to the men's cricket semifinals without bowling a ball.",
-    "url": "https://www.cricketnews.com/en/cricket/news/asian-games-organisers-slammed-india-pakistan-reach-semi-final-without-playing-ball/81aed9c0ca24ebfa69589457",
-    "image": "https://s.yimg.com/lo/mysterio/api/14dc80e34de99f834fb76045a57580f3a6a1d73bc415452f68f2b05366f848f6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2a5228db7540c59568cdc691d1644f6a",
-    "publishedAt": "2026-09-28T10:27:29Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "New Pakistan coaches: PCB set to approach Shaun Tait and Martin Guptill for key coaching roles",
-    "description": "The Pakistan Cricket Board (PCB) is set to approach former pacer Shaun Tait and New Zealand veteran Martin Guptill for major coaching roles. Read the details...",
-    "url": "https://www.cricketnews.com/en/cricket/news/new-pakistan-coach-pcb-shaun-tait-martin-guptill-coaching-roles/9a47d2d0e75d3255910010a0",
-    "image": "https://s.yimg.com/lo/mysterio/api/b0ebdce3b50a58b1caa6549d5dad599d29bcf91a849a1063a63c00c2eae37538/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fded2b19ba8114f34c0b1203123e80be1",
-    "publishedAt": "2026-09-28T09:52:49Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
