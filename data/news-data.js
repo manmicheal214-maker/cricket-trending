@@ -178,15 +178,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/94f9ee6b82d0ed112874dd06b35ee3d668696fc40a563c9d6a62d31d260fe408/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff9a7121772b3817b21b2d331c7d76273.jpg",
     "publishedAt": "2026-09-29T10:24:52Z",
     "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ILT20 Auction: Babar Azam, Phil Salt, Wanindu Hasaranga among T20 stars set for Season 5 auction",
-    "description": "More than 200 players from 23 countries will go under the hammer in Dubai on October 1, with franchises entering the auction with purses of up to $1.39 million.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-auction-babar-azam-phil-salt-wanindu-hasaranga-among-t20-stars-set-for-season-5-auction/articleshow/134561926.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134562253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-29T09:55:11Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
