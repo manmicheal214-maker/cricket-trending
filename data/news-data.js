@@ -1,5 +1,203 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "English players urged to reconsider Afghan T20 tournament",
+    "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
+    "url": "https://www.bbc.com/sport/cricket/articles/cq74eppd8rjpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/0aae485216bed81b227cf01701eb445df6f30b61a0b778f669017b1eee874892/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e52c4a5c8bac9701cd7e75ae49883cc.jpg",
+    "publishedAt": "2026-09-30T15:53:06Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "English players urged to reconsider Afghan T20 tournament",
+    "description": "English cricketers aiming to play in a men's T20 franchise tournament organised by the Afghanistan Cricket Board have been urged to think about their \"daughters, sisters or mothers\".",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cq74eppd8rjpo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a76d/live/cba21310-1afd-11f0-b731-c780c85cb550.jpg",
+    "publishedAt": "2026-09-30T15:53:02Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India's highest successful run chases in ODI: Full list highest totals scored by India in a run chase in One-Day cricket",
+    "description": "With India looking ahead to a record chase, here's a look at the highest successful ODI chases by India and other international sides.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-highest-successful-run-chases-odi-format/a927721a60c9d0007c18fdf6",
+    "image": "https://s.yimg.com/lo/mysterio/api/da70ed0709a48e872d5cbbbd7efd602e1bb9cf9c13f80b9da3e72c74f29ba98b/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff1f021a1fc216f30d5f75b6395a62c90",
+    "publishedAt": "2026-09-30T15:43:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Quicker than Tendulkar, Ponting and Sangakkara: Rohit Sharma reaches 12,000 ODI runs",
+    "description": "The India opener reached the landmark while India were chasing a daunting 406-run target. He got there with a single off Roston Chase in the 16th over, becoming only the third Indian after Sachin Tendulkar and Virat Kohli to enter the 12,000-run club.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/quicker-than-tendulkar-ponting-and-sangakkara-rohit-sharma-joins-elite-12000-run-odi-club/articleshow/134597259.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134597338,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-30T14:59:01Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "When and where to watch 2027 ICC World Cup schedule announcement; check all details",
+    "description": "The International Cricket Council (ICC) will unveil the schedule for the 2027 ODI World Cup in Cape Town on Thursday, October 1.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-and-where-to-watch-2027-icc-world-cup-schedule-announcement-check-all-details/articleshow/134596418.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134596735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-30T14:18:00Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "ICC ODI World Cup 2027 format explained: How the new 14-team tournament works",
+    "description": "With the ICC introducing the new Super Seven format for the 2027 ODI World Cup, here's how the new 14-team tournament will work.",
+    "url": "https://www.cricketnews.com/en/cricket/news/icc-odi-world-cup-2027-format-explained-14-team-tournament/4c34e762f0c48c15a17a8095",
+    "image": "https://s.yimg.com/lo/mysterio/api/2c244f8354fd23e534668b85b8b7a6a655fd017cd6235de83e1b7599020e04e6/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F44fb6493c07c17688dbdf380a0fb1165",
+    "publishedAt": "2026-09-30T14:07:43Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Windies break their ODI batting record in India run-fest",
+    "description": "West Indies dominate India's bowlers to pile up their highest ever total in one-day internationals.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqwyz07g0e5yo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cb2b/live/7b538060-bcd2-11f1-babe-4199b0e7ccea.jpg",
+    "publishedAt": "2026-09-30T13:48:02Z",
+    "author": "Marc Higginson"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India vs West Indies: India's highest successful run chase in ODI cricket",
+    "description": "India need 406 in the second ODI after centuries from John Campbell, Shai Hope and Amir Jangoo powered West Indies to 405/7, setting the hosts a challenge beyond their previous best chase",
+    "url": "https://www.business-standard.com/cricket/news/india-vs-west-indies-india-s-highest-successful-run-chase-in-odi-cricket-126093001161_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/30/thumb/featurecrop/1200X628/1790774924-6719.jpg",
+    "publishedAt": "2026-09-30T13:29:09Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "BBC News",
+    "title": "Ex-Ireland international Singh announces retirement",
+    "description": "Former Ireland international Simi Singh confirms his retirement from professional cricket.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cwp803gn32z6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/429062036c7a3ef84527a9a99b5e147f6a20f0bbbf9900d8c807f62cb87371bf/lightyear_networkapi/resizefill_w671_h377%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5ee0d4112f91c75dc41f9eeeadc9bcaf.jpg",
+    "publishedAt": "2026-09-30T13:14:28Z",
+    "author": "David Mohan - BBC Sport NI journalist"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Auqib Nabi endures nightmare India debut; concedes most runs, records worst economy",
+    "description": "Auqib Nabi made his much-anticipated India debut on Wednesday in the second ODI against the West Indies in Guwahati, but things did not go according to",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/auqib-nabi-endures-nightmare-india-debut-concedes-most-runs-records-worst-economy/articleshow/134595026.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134595446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-30T13:13:38Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "BBC News",
+    "title": "Ex-Ireland international Singh announces retirement",
+    "description": "Former Ireland international Simi Singh confirms his retirement from professional cricket.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwp803gn32z6o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2ef/live/ee708310-bccb-11f1-9f83-d9975ff80416.jpg",
+    "publishedAt": "2026-09-30T13:12:08Z",
+    "author": "David Mohan"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "ODI tri-series in Pakistan scrapped: Ireland set to play bilateral vs Pakistan after Zimbabwe pulls out of series",
+    "description": "With Zimbabwe pulling out of their scheduled tri-series, Pakistan will now have to play Ireland in a simple ODI Bilateral series as they set to prepare for the 2027 World Cup.",
+    "url": "https://www.cricketnews.com/en/cricket/news/odi-tri-series-pakistan-scrapped-ireland-bilateral-zimbabwe-pulls-out/ef16f860c55f910e84ad950c",
+    "image": "https://s.yimg.com/lo/mysterio/api/14721ce6a30e246173fb1b6b904a4aec0878c9f1c75f5649940fefee9e35c60b/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fad7fa4065fb6c70d9b8a359ddbe7e248",
+    "publishedAt": "2026-09-30T12:55:03Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in ODI cricket in India: Full list of records",
+    "description": "With Barsapara Cricket Stadium boasting some of the highest average scores in the 50-over format, here's a look at the highest successful chases at the venue...",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-odi-cricket-india-records/0dd9628f49ba12b377fa9ddf",
+    "image": "https://s.yimg.com/lo/mysterio/api/71dca51fcc8cc6f0615b6d4898cb57638fac26c7ad552dc28e0b598a131bd323/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa6ca0673f223c93179cddab012eddd84",
+    "publishedAt": "2026-09-30T12:52:08Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Democracy Now!",
+    "title": "80 Years After Nuremberg Trials, U.S. Leads Assault on ICC & International Law: Wolfgang Kaleck",
+    "description": "Eight decades after the Nuremberg trials against Nazi war criminals, the Trump administration has launched an all-out assault on the International Criminal Court, primarily over the tribunal’s pursuit of Israeli leaders for war crimes committed in Gaza. In hi…",
+    "url": "https://www.democracynow.org/2026/9/30/wolfgang_kaleck_the_power_of_law",
+    "image": "https://www.democracynow.org/images/story/33/83733/full_hd/SEG2-guest-split1.jpg",
+    "publishedAt": "2026-09-30T12:48:26Z",
+    "author": "webdev@democracynow.org (Democracy Now!)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli’s 55th ODI ton powers him to No. 2 in rankings",
+    "description": "Virat Kohli scored an unbeaten 139 in the first ODI against the West Indies, achieving his 55th ODI century. This performance led him to climb to second place in the ICC ODI batting rankings. Shubman Gill remains at the top after also scoring a century in the…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/virat-kohlis-55th-odi-ton-powers-him-to-no-2-in-odi-rankings/articleshow/134593478.cms",
+    "image": "https://img.etimg.com/thumb/msid-134593497,width-1200,height-900,imgsize-91286,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-30T12:00:36Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "John Campbell scripts history vs India, eclipses Chris Gayle and Powell with 65-ball century",
+    "description": "West Indies had lost the first ODI by eight wickets, but Campbell’s innings put them in a strong position early in the second game while batting first.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/john-campbell-scripts-history-vs-india-eclipses-chris-gayle-and-powell-with-65-ball-century/articleshow/134591590.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134591878,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-30T11:01:33Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'Are we sure this was a clean catch?': Fans divided over Naman Dhir's controversial catch in IND vs WI 2nd ODI to dismiss Keacy Carty",
+    "description": "Fans and netizens debated third umpire Sam Nogajski's decision to rule Naman Dhir's diving catch of Keacy Carty out in the 2nd ODI.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f2573894-fe32-481b-94a1-04020bd4433c",
+    "image": null,
+    "publishedAt": "2026-09-30T10:24:39Z",
+    "author": null
+  },
+  {
+    "source": "Cheezburger.com",
+    "title": "32 Breakup Memes That You Thought Were the One, But Now You're Back to First Dates and Dating Apps",
+    "description": "When did spooky season become breakup season?\r\nWhat's scarier than a haunted house on a dark, chilly fall evening? Getting dumped while dressed as Cousin It from The Addams Family! True story… A complete wig fit with hair everywhere and a little bowler hat, a…",
+    "url": "https://cheezburger.com/46951173/32-breakup-memes-that-you-thought-were-the-one-but-now-youre-back-to-first-dates-and-dating-apps",
+    "image": "https://i.chzbgr.com/thumb-large/46951173/hB32A489E/relationships-memes-heartbreak-comedy-breakup-ex-partner-dating-fall-relationships-46951173",
+    "publishedAt": "2026-09-30T10:00:00Z",
+    "author": "Elna McHilderson, Elna McHilderson"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. Sri Lanka prediction, team news, pitch report and betting tips for Asian Games 2026 semi-final",
+    "description": "India vs. Sri Lanka Asian Games 2026 semi-final preview: Get our prediction, probable XIs, Korogi pitch report and the best cricket betting tips for October 1.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-vs-sri-lanka-prediction-pitch-report-betting-asian-games/fc3767711ee3a1d049a84a31",
+    "image": "https://s.yimg.com/lo/mysterio/api/c8a5d64e42709a58474972d5e568d70c3a4fef2c06607d8ff904ad2b8ab77a9b/lightyear_networkapi/resizefill_w943_h531%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fa1dda78f269e7d0f17a7a2ba79732bb7",
+    "publishedAt": "2026-09-30T09:56:13Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "SA vs AUS, 3rd ODI 2026: Live streaming, playing 11, match time, venue, pitch report and weather forecast",
+    "description": "South Africa vs Australia Predicted Playing 11: In a thrilling showdown, South Africa is set to clash with Australia in the third ODI at Senwes Park, Potchefstroom. With the Proteas leading the series 2-0, they seek to clinch a clean sweep. Playing elevens fr…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/south-africa-vs-australia-3rd-odi-playing-11-live-streaming-prediction-pitch-report-weather-update-sa-vs-aus-match-australia-tour-of-south-africa-2026/articleshow/134589917.cms",
+    "image": "https://img.etimg.com/thumb/msid-134590072,width-1200,height-630,imgsize-108694,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-30T09:47:26Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "To end 34-year Ranji drought, Punjab rope in 38-year-old Umesh Yadav as guest player | Exclusive",
+    "description": "In a first for Punjab cricket, the PCA have signed veteran India pacer Umesh Yadav as a guest player for the 2026-27 Ranji Trophy season. With Arshdeep Singh and Gurnoor Brar expected to be away on India duty, Punjab are banking on Umesh's experience and red-…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/to-end-34-year-ranji-drought-punjab-rope-in-38-year-old-umesh-yadav-as-guest-player-exclusive/articleshow/134584954.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134589844,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-30T09:41:56Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Will never change who I am': Rohit Sharma takes aim at critics amidst 2027 ODI World Cup speculation",
+    "description": "Rohit Sharma opens up on his fitness, staying in touch with cricket, and preparing at his own pace after 15 years on the road.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-fitness-routine-intent-2027-odi-world-cup/407d72a3e71fc0e56777962a",
+    "image": "https://s.yimg.com/lo/mysterio/api/83c3a25fc6c98b7d5347fe31ae6497b77e8472503a9ba091b109f5b0a9d7d428/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F63b039b435c05442100b4371755be950",
+    "publishedAt": "2026-09-30T09:27:35Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "The Times of India",
     "title": "Weather dominates discussion ahead of India-Sri Lanka semifinal",
     "description": "India's cricket team is preparing for a semifinal match against Sri Lanka at the Asian Games. Heavy rain has limited India's training opportunities since their arrival in Japan, impacting their readiness. The match is scheduled for Thursday, with weather fore…",
@@ -70,186 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/3d7eafe3012023549b442a077de95c18fc747bd5f059b826e5a09d46ba68ae1b/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
     "publishedAt": "2026-09-30T06:47:02Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI, 2nd ODI Live: Rohit Sharma eyes historic milestone in Guwahati",
-    "description": "India vs West Indies Live Score, 2nd ODI: India and West Indies head to Guwahati for the second ODI with contrasting but equally important objectives",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies-live-score-ind-vs-wi-2nd-odi-scorecard-playing-xi-toss-pitch-report-live-streaming/liveblog/134582842.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134582842,width-1280,height-720,imgsize-1232561,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-30T05:39:12Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs West Indies 2nd ODI Live Streaming: When and where to watch the IND vs WI match, playing XI, squads, head-to-head record, pitch and weather report",
-    "description": "India vs West Indies 2nd ODI: On September 30, India is set to clash with West Indies in the second ODI at Guwahati. The spotlight will be on Shubman Gill as captain, following recent victories. West Indies, having lost the first match, urgently needs a win t…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-2nd-odi-live-streaming-when-and-where-to-watch-playing-xi-squads-head-to-head-record-pitch-and-weather-report/articleshow/134581811.cms",
-    "image": "https://img.etimg.com/thumb/msid-134581946,width-1200,height-630,imgsize-95178,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-30T04:54:04Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Where to watch South Africa vs. Australia live stream, TV channel, start time and lineups for 3rd ODI",
-    "description": "Find out where to watch South Africa vs. Australia in India, including the live stream, TV channel, start time and lineups for the 3rd ODI",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c006545-941e-452d-aa3b-77840e370bff",
-    "image": null,
-    "publishedAt": "2026-09-30T04:43:21Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "ACA AGM forms new APL Governing Council",
-    "description": "Assam Cricket Association AGM in Guwahati approves reports, budget and auditor, appoints Justice Manojit Bhuyan ombudsman, and forms APL council for 2026-27.",
-    "url": "https://timesofindia.indiatimes.com/city/guwahati/aca-agm-forms-new-apl-governing-council/articleshow/134581449.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134581447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-30T04:26:28Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Major posting' for Shoaib Akhtar? Mohsin Naqvi holds talks with former Pakistan star",
-    "description": "Shoaib Akhtar is poised to assume a prominent role within the Pakistan Cricket Board (PCB), following proactive discussions with PCB Chairman Mohsin Naqvi centered on revamping cricket in the nation. In light of disheartening performances by the national team…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/major-posting-for-shoaib-akhtar-mohsin-naqvi-holds-talks-with-former-pakistan-star/articleshow/134580838.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134580919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-30T04:11:52Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'No way I could pick his slower ball': Chris Gayle names Mumbai Indians pacer as the toughest bowler he faced in T20 cricket",
-    "description": "T20 legend Chris Gayle picked Mumbai Indians ace Jasprit Bumrah as the toughest bowler he ever faced in his career.",
-    "url": "https://www.cricketnews.com/en/cricket/news/chris-gayle-lasith-malinga-toughest-t20-bowler/7e46363de63dbf84611979ec",
-    "image": "https://s.yimg.com/lo/mysterio/api/b6a9056b5ef576a304f1f54f8d2ea80dbbd7921f55d569a9e3fcb0156d15c44d/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2111bfd2240fe74b1bb0188da104c4af",
-    "publishedAt": "2026-09-30T04:09:11Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India vs West Indies 2nd ODI: Playing 11, live toss time (IST), streaming",
-    "description": "India will enter the contest after a dominant chase in the series opener, with Virat Kohli and captain Shubman Gill scoring centuries as the hosts chased down 296 in less than 42 overs",
-    "url": "https://www.business-standard.com/cricket/news/india-vs-west-indies-2nd-odi-playing-11-live-toss-time-ist-streaming-126092900535_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/29/thumb/featurecrop/1200X628/1790669055-0121.jpg",
-    "publishedAt": "2026-09-30T03:42:46Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Supreme Court puts RCA election results on hold after 35 vote, three districts abstain",
-    "description": "In a significant turn during the Rajasthan Cricket Association elections, a Supreme Court ruling has put a halt on result announcements. Of the 38 eligible voters, 35 went to the polls, while three new districts abstained. Dhananjay Singh Khimsar, a candidate…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/supreme-court-puts-rca-election-results-on-hold-after-35-vote-three-districts-abstain/articleshow/134578689.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134578745,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-30T03:02:17Z",
-    "author": "Mandakini Shalya"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India’s new-ball puzzle: West Indies series offers young pacers a chance to stake claim",
-    "description": "In the current ODI series, the Indian cricket team is diligently working on crafting optimal bowling combinations. Sairaj Bahutule highlighted the necessity of evaluating young bowlers in high-pressure scenarios, especially with the World Cup approaching. Pla…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/indias-new-ball-puzzle-west-indies-series-offers-young-pacers-a-chance-to-stake-claim/articleshow/134577286.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134577304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-30T02:00:01Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "Acme Packing Company",
-    "title": "Packers bring in former Pro Bow OL Kevin Zeitler for a visit",
-    "description": "The Wisconsin Badger was a Pro Bowler in 2023 with the Baltimore Ravens",
-    "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87332/packers-bring-in-former-pro-bow-ol-kevin-zeitler-for-a-visit",
-    "image": "https://s.yimg.com/lo/mysterio/api/b9c90df6618e29a92a547e0e86a4c79c77b6d3fe9f5e2bade4c4c8b1660e9fd0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff23653e5f15349ead3a9f45f39cdf41e.jpg",
-    "publishedAt": "2026-09-29T21:30:41Z",
-    "author": "Justis Mosqueda"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Barsapara Stadium, Guwahati pitch report, ODI records and average scores ahead of India vs. West Indies 2nd ODI",
-    "description": "With India and the West Indies all set to clash at Guwahati for the 2nd ODI, here's a look at the pitch conditions and what scores the two teams can expect at the Barsapara Stadium.",
-    "url": "https://www.sportingnews.com/in/cricket/news/barsapara-stadium-guwahati-pitch-report-odi-records-scores-india-west-indies/952b40b55e2509bfe3c3633c",
-    "image": "https://s.yimg.com/lo/mysterio/api/1bf1035550292ccb1de3e54b1b82eca80260869d141e81de45da281746ae3e14/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0e41218607c594aad18cfc2d54f1cdf5",
-    "publishedAt": "2026-09-29T20:30:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Guwahati weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 2nd ODI",
-    "description": "With the second ODI between India and the West Indies set for the rain-addled Guwahati, here's what kind of weather the two teams can expect at Barsapara Stadium.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f429084-8031-4a21-9ee9-d93910411744",
-    "image": null,
-    "publishedAt": "2026-09-29T20:30:02Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "New York Giants: Move on from 3x-Pro Bowler After Limited Role",
-    "description": "The New York Giants signed Odell Beckham Jr. to a one-year deal worth the league minimum without any guaranteed money in June, after more than seven years apart. Beckham had a strong training camp and preseason, finishing with seven receptions for 76 yards, a…",
-    "url": "https://sports.yahoo.com/articles/york-giants-move-3x-pro-202631266.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/84ba3ba48914a895d05c234e44abc1116df36c44237465ded0c178c6f3e1e255/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F72a923d3f0c9343d98254457b63b7c13.jpg",
-    "publishedAt": "2026-09-29T20:26:31Z",
-    "author": "Jackson Loschko"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli's splendid record at Guwahati: How the Indian legend has performed across formats in Assam",
-    "description": "With the second ODI against the West Indies taking India to the Barsapara Stadium in Guwahati, here's a look at Virat Kohli's record at the venue following his century at Thiruvananthapuram.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-record-guwahati-indian-legend-performed-formats-assam/7eed3edf2f0013e42ff6ec7f",
-    "image": "https://s.yimg.com/lo/mysterio/api/f6d4a74b9317bc82c78629602c13b9d723520866a6bbaafa158e8675522f2b53/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F49aa5feb819669ee73c1d5c1864819d6",
-    "publishedAt": "2026-09-29T19:53:41Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Punjab, HP open campaign with wins in Rama Atray T20",
-    "description": "PCA Seniors Women and Himachal Pradesh Women began the 7th Rama Atray Memorial Women’s T20 in Chandigarh with wins; Mannat Kashyap and Anshika Thakur starred.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-hp-open-campaign-with-wins-in-rama-atray-t20/articleshow/134573020.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134573019,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-29T18:52:48Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "When cricket can’t beat the rain: How the Asian Games weather problem may be damaging the sport’s image in emerging markets",
-    "description": "With match after match getting washed out at the Asian Games, what was supposed to be a promotion of cricket is soon being turned into a damaging pattern against the sport.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rain-asian-games-weather-problem-damaging-cricket-image-emerging-markets/7a5b896dc5d64a40bdc2ee82",
-    "image": "https://s.yimg.com/lo/mysterio/api/177573a8dd7b9760ed346683a4300669fa52d34d03d3eec5c805551684132532/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F719e68c72040eb390c133485d96c5643",
-    "publishedAt": "2026-09-29T18:33:44Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ro-Ko, heat & a fading frenzy: Guwahati gears up for an emotional evening",
-    "description": "Guwahati braces for a hot, humid day-night ODI as fans weigh ticket prices and heat to watch Rohit Sharma and Virat Kohli, with Kohli in top form.",
-    "url": "https://timesofindia.indiatimes.com/city/guwahati/ro-ko-heat-a-fading-frenzy-guwahati-gears-up-for-an-emotional-evening/articleshow/134572432.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-29T18:14:27Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "The Times of India",
-    "title": "JioStar to deepen ChatGPT integration as AI reshapes sports viewing",
-    "description": "JioStar launched a deep product integration with ChatGPT during the IPL that went beyond conventional search. Viewers could ask questions about players and matches in natural language while watching the game and receive contextual information without interrup…",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/jiostar-to-deepen-chatgpt-integration-as-ai-reshapes-sports-viewing/articleshow/134572024.cms",
-    "image": "https://img.etimg.com/thumb/msid-134572071,width-1200,height-630,imgsize-80272,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-29T17:56:07Z",
-    "author": "ET Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "With eye on New Zealand tour, BCCI to issue Ranji Trophy diktat",
-    "description": "With India's tour of New Zealand set to begin on October 22, the mental preparations have already begun. Ahead of the bumper five T20I, five ODI and two Test series, the key members of the Test squad would be required to play domestic cricket to stay fit and …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/with-eye-on-new-zealand-tour-bcci-to-issue-ranji-trophy-diktat/articleshow/134571677.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134571747,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-29T17:46:21Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "KSCA keen on int'l-standard cricket stadium in Mangaluru",
-    "description": "KSCA plans international-standard cricket stadium in Mangaluru; president Venkatesh Prasad to visit and inspect two identified sites with MUDA.",
-    "url": "https://timesofindia.indiatimes.com/city/mangaluru/ksca-keen-on-intl-standard-cricket-stadium-in-mangaluru/articleshow/134571594.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-09-29T17:27:30Z",
-    "author": "Times News Network"
   }
 ]
 ;
