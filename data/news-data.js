@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "Giveawayoftheday.com",
+    "title": "Dart Scoreboard Pro",
+    "description": "Dart Scoreboard keeps score for Cricket, Wild Card Cricket, 301 and 501, Shanghai and Tactics. It's quick to use between throws and easy to read from across the...",
+    "url": "https://iphone.giveawayoftheday.com/dart-scoreboard-pro/",
+    "image": "https://iphone.giveawayoftheday.com/wp-content/plugins/gotd_appstore_plugin/images/2026/10/921865108_app_icon_big_1790919610.jpg",
+    "publishedAt": "2026-10-02T05:40:03Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'You feel bad': Rishabh Pant breaks silence on losing India ODI spot to KL Rahul",
+    "description": "Rishabh Pant has not donned the ODI jersey for India in more than two years, leaving his international career in limbo. Although he has shone in Test matches, fierce competition for the wicketkeeper role in ODIs and T20s looms large. After a year lost to inju…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-feel-bad-rishabh-pant-breaks-silence-on-losing-india-odi-spot-to-kl-rahul/articleshow/134632429.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134632503,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T05:25:09Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "New York Post",
+    "title": "Mamdani calls for US to join ICC, arrest Netanyahu during Theo Von podcast appearance: ‘Architect of a horrific genocide’",
+    "description": "“If I had my say, the US government would have joined the ICC and honored every single warrant that they’ve issued,” Mamdani declared on Theo Von’s podcast, “This Past Weekend.&#8…",
+    "url": "https://nypost.com/2026/10/02/us-news/mamdani-calls-for-us-to-join-icc-arrest-netanyahu-during-theo-von-podcast/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/zohran-mamdani-calls-us-join-143404206.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-02T05:06:03Z",
+    "author": "Victor Nava"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Pakistan Asian Games 2026 Final: Live streaming, match time, venue, TV channel and predicted playing XI",
+    "description": "The stage is set for a thrilling clash as India faces Pakistan in the men's cricket gold medal match at the Asian Games on October 3, 2026. Taking place at Korogi Sports Park in Nisshin, Japan, this match promises high stakes following India's semi-final vict…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-asian-games-2026-final-live-streaming-match-time-venue-tv-channel-and-predicted-playing-xi/articleshow/134631850.cms",
+    "image": "https://img.etimg.com/thumb/msid-134631970,width-1200,height-900,imgsize-72370,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-02T04:43:24Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Farcical,' ‘Don’t have much faith in the youth’: Cricket world slams Australia’s decision to select Nic Maddinson for South Africa Tests",
+    "description": "Australia's decision to recall Nic Maddinson for the South Africa Tests has drawn sharp criticism.",
+    "url": "https://www.cricketnews.com/en/cricket/news/cricket-world-slams-australia-nic-maddinson-selection-south-africa-tests/db003f65960dd92b41469f22",
+    "image": "https://s.yimg.com/lo/mysterio/api/e7173ffe56d3c01b7b85240df9d1c205023333e78a59f2d56ae8a7e77bdd9ef5/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff0fc13faddea4c224a6fb791da24e91d",
+    "publishedAt": "2026-10-02T04:15:33Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India to open 2027 World Cup against Australia, face Pakistan on October 10",
+    "description": "India's journey in the 2027 ODI World Cup will commence against the formidable Australia in Cape Town on October 7. Prior to that, the tournament will initiate on October 2, featuring a three-match Super Series designed to determine the two teams that will qu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-to-open-2027-world-cup-against-australia-face-pakistan-on-october-10/articleshow/134631137.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134631159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T03:27:31Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "New York Post",
+    "title": "Juice or beer? 49ers Kyle Juszczyk weighs in on celebration fine appeal process",
+    "description": "It’s been over a week since Kyle Juszczyk began the appeal process for his $14,926 fine where he performed his iconic drinking juice celebration. On Thursday, the 49ers’ 10-time Pro Bowler spoke with reporters about what it’s been like going through the appea…",
+    "url": "https://nypost.com/2026/10/01/sports/kyle-juszczyk-weighs-in-on-beer-drinking-fine-appeal-process/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-cudo3ib8v-1790908828474.jpg?quality=75&strip=all&1790894481&w=1200",
+    "publishedAt": "2026-10-02T03:08:12Z",
+    "author": "Thomas L. Murray"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Sir Richard Hadlee slams NZ Cricket in letter to chief executive and board: ‘I am embarrassed to have my personal name attached to the organisation’",
+    "description": "Hadlee accuses NZC of a lack of transparency: ‘Not an organisation I recognise anymore'.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/sir-richard-hadlee-slams-nz-cricket-in-letter-to-chief-executive-and-board-i-am-embarrassed-to-have-my-personal-name-attached-to-the-organisation/premium/C5FMAKCUCBAC3LP5U66N7DUIVY/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/RXGAYTIJZNC7HJ4A43ZTXLHYDM.jpg?auth=10be1e5c7fb8f94cb7b292dbf1e65933fb4df0b46362e78939d1e85fbd5805fa&width=1200&height=675&quality=70&focal=1110%2C598&smart=false",
+    "publishedAt": "2026-10-02T02:42:52Z",
+    "author": "Shayne Currie"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. West Indies prediction, team news, pitch report and betting tips for 3rd ODI",
+    "description": "India vs. West Indies 3rd ODI prediction, team news, pitch report and betting tips. Read our expert preview as India eye a series sweep after Gill's 223*.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-vs-west-indies-prediction-pitch-report-betting-3rd-odi/45f8b8a6729e95c0a776c492",
+    "image": "https://s.yimg.com/lo/mysterio/api/0f3895aea6ec27835faffa1e2c5a3b587aafafc81b7a53e0af3f9f1222d4bf7c/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb1f6f9c86f06a3fc154bb67cbe764e1a",
+    "publishedAt": "2026-10-02T02:30:01Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Prediction: India vs. West Indies 3rd ODI lineups and pitch report for Mullanpur clash — Who do you think will win?",
+    "description": "India vs. West Indies 3rd ODI prediction, lineups and pitch report for the Mullanpur clash. Who will win as India chase a 3-0 series sweep?",
+    "url": "https://www.cricketnews.com/en/cricket/play/india-vs-west-indies-3rd-odi-prediction-lineups-pitch-report/af69b3f348243bb53e9fc8f0",
+    "image": "https://s.yimg.com/lo/mysterio/api/3d7eafe3012023549b442a077de95c18fc747bd5f059b826e5a09d46ba68ae1b/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
+    "publishedAt": "2026-10-02T02:20:01Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Simi Singh: An Ireland dream, a life-threatening detour and the journey home",
+    "description": "Simranjit Singh a.k.a Simi Singh left left India in 2006 to pursue hotel management, found an unexpected second career in cricket, played for Ireland at the 2022 T20 World Cup and then survived acute liver failure. Now, after his wife donated part of her live…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/simi-singh-an-ireland-dream-a-life-threatening-detour-and-the-journey-home/articleshow/134630182.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134630185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T01:49:27Z",
+    "author": "Pratyush Raj"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
     "description": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
@@ -97,15 +196,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/6dee750ed159924e4af8f6c5eaf7ebe3825f1d80fc3c182b25efa5243d9bde16/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa3c295bc6e8fd5452b780522992f7a1a",
     "publishedAt": "2026-10-01T17:52:51Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India and Pakistan to clash in pool phase at 2027 Cricket World Cup",
-    "description": "India and Pakistan have been drawn in the same group for the upcoming 2027 Cricket World Cup. Their match is scheduled for October 10 at The Wanderers in Johannesburg. India will also face Australia in their pool in a repeat of the 2023 final, opening the sec…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-and-pakistan-to-clash-in-pool-phase-at-2027-cricket-world-cup/articleshow/134624124.cms",
-    "image": "https://img.etimg.com/thumb/msid-134624948,width-1200,height-900,imgsize-124202,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-01T17:44:21Z",
-    "author": "Reuters"
   }
 ]
 ;
