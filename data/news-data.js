@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "IPL retentions: 'Unhappy' Abhishek Sharma wants to leave SRH but where will he go?",
+    "description": "Abhishek Sharma's future at Sunrisers Hyderabad is in focus ahead of the IPL retention deadline, with the opener \"unhappy\" after Ishan Kishan was handed the captaincy last year and is set to continue in IPL 2027 as well because of Pat Cummins, who is likely t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-retentions-unhappy-abhishek-sharma-wants-to-leave-srh-but-where-will-he-go/articleshow/134638490.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134638586,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T11:42:25Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ACC president Mohsin Naqvi to miss India-Pakistan Asian Games final",
+    "description": "Asian Cricket Council President Mohsin Naqvi will not attend the Asian Games gold medal contest between India and Pakistan. Naqvi is the head of the Pakistan Cricket Board and the country's interior minister. Indian men's and women's cricket teams have refuse…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/acc-president-mohsin-naqvi-to-miss-india-pakistan-asian-games-final/articleshow/134638109.cms",
+    "image": "https://img.etimg.com/thumb/msid-134638302,width-1200,height-900,imgsize-72698,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-02T11:29:17Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "India vs Pakistan cricket: Asian Games gold medal final – all to know",
+    "description": "For the first time this year, archrivals India and Pakistan meet in a final, as they face off at the Asian Games.",
+    "url": "https://www.aljazeera.com/sports/2026/10/2/india-pakistan-cricket-final-asian-games-cricket-gold-medal",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26046587098490-1790925297.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-02T11:12:31Z",
+    "author": "Manasi Pathak"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli will fall short of Sachin Tendulkar’s 100-century record: Former India cricketer makes big prediction",
+    "description": "Tendulkar played 664 international matches across formats between 1989 and 2013. He scored 100 centuries, including 51 in 200 Tests and 49 in 463 ODIs.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-will-fall-short-of-sachin-tendulkars-100-century-record-former-india-cricketer-makes-big-prediction/articleshow/134637579.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134637620,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T11:03:40Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "BBC News",
+    "title": "Kent trigger Milnes and Northeast extensions",
+    "description": "Kent trigger contract extension clauses for seamer Matt Milnes and experienced batter Sam Northeast.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cvrl6llex541o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-10-02T10:38:36Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Kent trigger Milnes and Northeast extensions",
+    "description": "Kent trigger contract extension clauses for seamer Matt Milnes and experienced batter Sam Northeast.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvrl6llex541o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/617c/live/c539ddf0-be49-11f1-a73b-295bdc9b9b7f.jpg",
+    "publishedAt": "2026-10-02T10:38:32Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Yuzvendra Chahal retires from red-ball format after 'satisfying' county season with Northants",
+    "description": "Yuzvendra Chahal has announced his retirement from first-class cricket after playing his final English County Championship match for Northamptonshire against Middlesex at Lord’s. Chahal, who represented India in 72 ODIs and 80 T20Is, finished his first-class …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/yuzvendra-chahal-retires-from-red-ball-format-after-satisfying-county-season-with-northants/articleshow/134637089.cms",
+    "image": "https://img.etimg.com/thumb/msid-134637146,width-1200,height-900,imgsize-95134,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-02T10:29:30Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I am not done yet': Yuzvendra Chahal announces retirement from first-class cricket",
+    "description": "India leg-spinner Yuzvendra Chahal on Friday announced his retirement from first-class cricket, bringing an end to his red-ball career after 17 years. Chahal said his dream of playing Test cricket may not be fulfilled, but he remains determined to continue pl…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-am-not-done-yet-yuzvendra-chahal-announces-retirement-from-first-class-cricket/articleshow/134636878.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134636911,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T10:15:08Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Pre-seeding in 2027 ICC ODI World Cup: Explaining how Super 7 fixtures are decided in advance",
+    "description": "What is pre-seeding in the 2027 ODI World Cup? Understand how the ICC pre-allocated Super 7 fixtures, venues, and match dates for India, Australia, and Pakistan.",
+    "url": "https://www.cricketnews.com/en/cricket/news/2027-icc-odi-world-cup-super-7-fixtures/0cc591d9915f18cbc4e6ee56",
+    "image": "https://s.yimg.com/lo/mysterio/api/8c993a2ac7b5ee659fd55eb7143564e7a5942730fa934454659f4a159f262be0/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb45c939d1cf9c978afe4c1f95ad06045",
+    "publishedAt": "2026-10-02T08:10:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "When did India last play an ODI series in South Africa? Detailing how the Men in Blue are preparing for the 2027 Cricket World Cup",
+    "description": "Detailing how the Men in Blue are building towards the 2027 Cricket World Cup, with a six-match ODI series against South Africa also reportedly added to the pipeline.",
+    "url": "https://www.cricketnews.com/en/cricket/news/when-did-india-last-play-odi-series-south-africa-preparing-2027-world-cup/9e64e19c5f020948ac315b3e",
+    "image": "https://s.yimg.com/lo/mysterio/api/baaa2eae9e4b1be8d381327c7e20e864d99e0e3ee6e2005f931bda666a359fbd/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4a054ce51d5f5c07383dccb037a950b1",
+    "publishedAt": "2026-10-02T08:02:32Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Pakistan final: What happens if rain washes out Asian Games gold medal clash?",
+    "description": "Rain in Nisshin could potentially pose a challenge for the highly anticipated men's cricket final between India and Pakistan at the Asian Games. India advanced by triumphing over Sri Lanka in a decisive semi-final victory of 124 runs, while Pakistan secured t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-final-what-happens-if-rain-washes-out-asian-games-gold-medal-clash/articleshow/134634282.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134634325,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T07:48:52Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "CAN announces squad for ICC World Cup Cricket League 2",
+    "description": "KATHMANDU: The Cricket Association of Nepal (CAN) has announced a 15-member squad for the ICC Men’s Cricket World Cup League 2 series to be held in Oman. Nepal, Canada and hosts Oman will compete in the tri-series, which is scheduled to begin on October 7 as …",
+    "url": "https://english.khabarhub.com/2026/02/570308/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2021/06/1200px-Cricket_Association_of_Nepal_logo.svg_.png",
+    "publishedAt": "2026-10-02T07:15:19Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Pakistan Asian Games final: When and where to watch gold medal clash",
+    "description": "The stage is set as India faces Pakistan in the Asian Games cricket final, a momentous first encounter. India seeks to reaffirm their dominance post a decisive win over Sri Lanka in the semis, while Pakistan booked their place by edging past Bangladesh in a r…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-vs-pakistan-asian-games-final-when-and-where-to-watch-gold-medal-clash/articleshow/134633748.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134633813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T07:05:09Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "ICC ODI WC 2027: Full schedule, format, IND vs PAK match date and time",
+    "description": "The tournament will begin on October 7 with defending champions Australia taking on 2023 runners-up India in Cape Town",
+    "url": "https://www.business-standard.com/cricket/news/icc-odi-wc-2027-full-schedule-format-ind-vs-pak-match-date-and-time-126100200290_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/02/thumb/featurecrop/1200X628/1790921448-1502.jpg",
+    "publishedAt": "2026-10-02T06:24:47Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Unfinished business’: Shubman Gill eyes 2027 ODI World Cup redemption, values Virat Kohli-Rohit Sharma experience",
+    "description": "Shubman Gill conveyed his strong commitment to addressing unfinished goals in the 2027 ODI World Cup. Recognising the scarcity of opportunities for World Cup participation, he underscored the importance of guidance from seasoned players like Virat Kohli and R…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/unfinished-business-shubman-gill-eyes-2027-odi-world-cup-redemption-values-virat-kohli-rohit-sharma-experience/articleshow/134633264.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134633318,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-02T06:19:53Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
     "source": "Giveawayoftheday.com",
     "title": "Dart Scoreboard Pro",
     "description": "Dart Scoreboard keeps score for Cricket, Wild Card Cricket, 301 and 501, Shanghai and Tactics. It's quick to use between throws and easy to read from across the...",
@@ -97,105 +232,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134630185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-02T01:49:27Z",
     "author": "Pratyush Raj"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
-    "description": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
-    "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP23245386340258-1732783874.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-01T22:30:32Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "NESN",
-    "title": "Former Bills Pro-Bowler Blasts Patriots Fans as 'Terrible,' 'Entitled'",
-    "description": "There is still some bad blood between Micah Hyde and Patriots fans.",
-    "url": "https://nesn.com/new-england-patriots/news/bills-micah-hyde-blasts-patriots-fans/06a9fa117899856cd3023b40",
-    "image": "https://s.yimg.com/lo/mysterio/api/aa5d09fee3fcf36d014b97fbf6ad47507d00e789d6de3fb4fcb3d72117a0667a/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnesn_articles_905%2F284d514d98450dcb5de06f37a5d5373d",
-    "publishedAt": "2026-10-01T21:40:52Z",
-    "author": "Dan Treacy"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Australia and India to kick off next year's Cricket World Cup",
-    "description": "Australia will launch its defence of the men's Cricket World Cup in South Africa next year with a blockbuster opener against India, the powerhouse it defeated to win the crown in 2023.",
-    "url": "https://www.abc.net.au/news/2026-10-02/icc-men-2027-cricket-world-cup-draw/107219432",
-    "image": "https://live-production.wcms.abc-cdn.net.au/72748c9f52550b7cfc609158566a28bd?impolicy=wcms_watermark_news&cropH=2516&cropW=4472&xPos=0&yPos=271&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-01T20:42:08Z",
-    "author": null
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "ICC ends contract with French insurer amid US sanctions threat",
-    "description": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
-    "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abeaf0ee8d20-1790881550.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-01T20:20:00Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Johannesburg to host Cricket World Cup final and India vs. Pakistan game in 2027 edition",
-    "description": "Johannesburg will host the final of next year's Cricket World Cup as well as a marquee game between archrivals Pakistan and India. The International Cricket Council on Thursday announced the schedule of the 2027 edition of the tournament. A total of 12 venues…",
-    "url": "https://sports.yahoo.com/articles/johannesburg-host-cricket-world-cup-193248841.html",
-    "image": null,
-    "publishedAt": "2026-10-01T19:32:48Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rajasthan Under-19 cricket team announced for BCCI Vinoo Mankad Trophy tournament",
-    "description": "Rajasthan Under-19 squad named for BCCI Vinoo Mankad Trophy 2026; Rajat Baghel included. Camp Oct 2-4 in Jaipur; matches start Oct 8 in Rajkot.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-under-19-cricket-team-announced-for-bcci-vinoo-mankad-trophy-tournament/articleshow/134626580.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134626579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-01T19:19:44Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Absconding accused in online cricket & casino betting case nabbed",
-    "description": "Indore crime branch arrested absconding Gwalior man in online cricket and casino betting case; laptop and phones seized; probe continues under BNS, MP Gambling Act, IT Act.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/absconding-accused-in-online-cricket-casino-betting-case-nabbed/articleshow/134626357.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-01T19:06:07Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Pakistan's complete World Cup 2027 schedule: All matches, dates, venues and timings",
-    "description": "Pakistan's complete schedule for ICC Cricket World Cup 2027: Check full fixture list, match dates, venues in South Africa, opponents, and match timings.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-world-cup-2027-schedule-matches-dates-venues-timings/188758a5e834041ff9d6ced1",
-    "image": "https://s.yimg.com/lo/mysterio/api/a6d2010db6ff9504dc4b720d426c2885cd6b00e3c6714330cff028bfd6eb94c1/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
-    "publishedAt": "2026-10-01T18:53:12Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Aunt Bessie gets 'glow-up' in rebrand as it replaces lady on logo with 'more contemporary' younger woman",
-    "description": "Gone are Aunt Bessie's apple cheeks and the large bowl of batter she is holding in favour of a 'more contemporary' and 'welcoming' character with open arms.",
-    "url": "https://www.dailymail.com/news/article-16176231/Aunt-Bessie-rebrand-replaces-lady-logo-younger.html",
-    "image": "https://i.dailymail.com/1s/2026/10/01/19/111596527-0-image-m-26_1790878310992.jpg",
-    "publishedAt": "2026-10-01T18:46:50Z",
-    "author": "Francine Wolfisz"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "2027 ICC ODI World Cup Time Table",
-    "description": "The International Cricket Council (ICC) has already released the official match schedule and team groupings for the 2027 ODI Cricket World Cup tournament. This special cricket carnival, co-hosted by South Africa, Zimbabwe, and Namibia, is scheduled to take pl…",
-    "url": "https://english.gossiplankanews.com/2026/10/2027-icc-odi-world-cup-time-table.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tEvJJmFv8ZSvg7CriLgb7GXXuThY4jPvh7zD-S_e_Ig_Mr34gSws43VCiyGEvocB2wMcC14XqIHY8nGuh_Mz-r5Sc8lAEB-e1djm2SKBv6C_1RxOm7H4p-JHVzZ63WTa0K3I8RZ6UxVDY9Gwtuk7tkUc1X6c2j19BzInk=w1600",
-    "publishedAt": "2026-10-01T18:30:29Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Are India and Pakistan in the same group at the 2027 ODI Crcicket World Cup?",
-    "description": "India and Pakistan are in the same group at the 2027 ODI Cricket World Cup. Check the full Group A lineup, match date in Johannesburg, and venue details.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-pakistan-same-group-2027-odi-crcicket-world-cup/20067dee1558ad8934158327",
-    "image": "https://s.yimg.com/lo/mysterio/api/6dee750ed159924e4af8f6c5eaf7ebe3825f1d80fc3c182b25efa5243d9bde16/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa3c295bc6e8fd5452b780522992f7a1a",
-    "publishedAt": "2026-10-01T17:52:51Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
