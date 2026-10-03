@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Pretorius breaks Gayle's T20 record score",
+    "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmq8n2ynqex0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/97ec06ef3bb2b9a7b9ce37e116534d058082a34df6f1c84addc01362a3a7f6d9/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F26e357f7ba6033fcf334d98a9a26f93b.jpg",
+    "publishedAt": "2026-10-02T22:22:41Z",
+    "author": "Timothy Abraham - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Pretorius breaks Gayle's T20 record score",
+    "description": "Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq8n2ynqex0o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1443/live/99a34d50-beaa-11f1-a22a-011993fe1af2.jpg",
+    "publishedAt": "2026-10-02T22:22:36Z",
+    "author": "Timothy Abraham"
+  },
+  {
     "source": "The Times of India",
     "title": "Oh, another India-Pakistan mismatch",
     "description": "India and Pakistan will compete in the gold medal match at the Asian Games men's T20 competition. This matchup marks their first encounter in this specific format, which adds to its significance. Unlike Pakistan, India is fielding a strong team for this event…",
@@ -160,24 +178,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/54463f2a01bd3534d32c6f95fbbc2b6bf6bfbeb846a8eca4f43fe95979e6b2e3/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37e19dce24f5ff6413116deea45c7598",
     "publishedAt": "2026-10-02T15:33:13Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bowler Miles retires to protect 'mental well-being'",
-    "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
-    "url": "https://www.bbc.com/sport/cricket/articles/cme8r1dg4nzwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/82927dcaec3d3089f31c77f2bfadcae6a3d2ba5803868185713956a4ee91b1e4/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5d9977bb9bbc09c64b02a2797954b9bb.jpg",
-    "publishedAt": "2026-10-02T14:31:36Z",
-    "author": "Brent Pilnick - BBC Sport England"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bowler Miles retires to protect 'mental well-being'",
-    "description": "Gloucestershire bowler Craig Miles retires from professional cricket to protect his \"mental well-being\".",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cme8r1dg4nzwo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a47/live/50ebc8c0-be65-11f1-b36c-81ad410b221e.jpg",
-    "publishedAt": "2026-10-02T14:31:31Z",
-    "author": "Brent Pilnick"
   }
 ]
 ;
