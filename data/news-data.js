@@ -1,6 +1,33 @@
 window.cricketNews = [
   {
     "source": "Al Jazeera English",
+    "title": "India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup",
+    "description": "The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.",
+    "url": "https://www.aljazeera.com/sports/2026/10/1/india-vs-pakistan-scheduled-for-october-10-2027-at-cricket-world-cup",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP23245386340258-1732783874.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-01T22:30:32Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "NESN",
+    "title": "Former Bills Pro-Bowler Blasts Patriots Fans as 'Terrible,' 'Entitled'",
+    "description": "There is still some bad blood between Micah Hyde and Patriots fans.",
+    "url": "https://nesn.com/new-england-patriots/news/bills-micah-hyde-blasts-patriots-fans/06a9fa117899856cd3023b40",
+    "image": "https://s.yimg.com/lo/mysterio/api/aa5d09fee3fcf36d014b97fbf6ad47507d00e789d6de3fb4fcb3d72117a0667a/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnesn_articles_905%2F284d514d98450dcb5de06f37a5d5373d",
+    "publishedAt": "2026-10-01T21:40:52Z",
+    "author": "Dan Treacy"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Australia and India to kick off next year's Cricket World Cup",
+    "description": "Australia will launch its defence of the men's Cricket World Cup in South Africa next year with a blockbuster opener against India, the powerhouse it defeated to win the crown in 2023.",
+    "url": "https://www.abc.net.au/news/2026-10-02/icc-men-2027-cricket-world-cup-draw/107219432",
+    "image": "https://live-production.wcms.abc-cdn.net.au/72748c9f52550b7cfc609158566a28bd?impolicy=wcms_watermark_news&cropH=2516&cropW=4472&xPos=0&yPos=271&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-01T20:42:08Z",
+    "author": null
+  },
+  {
+    "source": "Al Jazeera English",
     "title": "ICC ends contract with French insurer amid US sanctions threat",
     "description": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
     "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat",
@@ -79,78 +106,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134624948,width-1200,height-900,imgsize-124202,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-10-01T17:44:21Z",
     "author": "Reuters"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps draw South Africa and England in 2027 ODI Cricket World Cup",
-    "description": "The Black Caps avoid India and Australia in group play.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/cricket-world-cup/black-caps-draw-south-africa-and-england-in-2027-odi-cricket-world-cup/OVMUZFMJ4ZHXVOH3D4W4ZCWSO4/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/6YC3EWO6ENCHVJXEVTAFAOOW74.JPG?auth=3594eff34e1b411e589d82d33e5132ef93dcc9e9e731be6b0446308ff4a0769e&width=1200&height=675&quality=70&smart=true",
-    "publishedAt": "2026-10-01T17:39:03Z",
-    "author": "NZ Herald"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ILT20 season 5 auction biggest buys: Fazalhaq Farooqi becomes most expensive player",
-    "description": "Afghanistan pacer Fazalhaq Farooqi became the most expensive player in International League T20 (ILT20) Player Auction history after being bought by MI",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-auction-fazalhaq-farooqi-becomes-most-expensive-player-with-380000-deal-babar-azam-goes-for-base-price/articleshow/134621924.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134624729,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-01T17:31:57Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What is the Super 7 at ICC ODI Cricket World Cup 2027? Schedule, rules and how can teams qualify",
-    "description": "What is the Super 7 at ICC ODI World Cup 2027? Discover how the 7-team round-robin works, qualification rules from the group stage, points system, and schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/super-7-icc-odi-cricket-world-cup-2027-schedule-rules-qualification/5fc9c357b157c248d252d6f9",
-    "image": "https://s.yimg.com/lo/mysterio/api/a1d4079e1a8b4797fa2abb1936f7bf7f2304d5867fe24ab7a7268799f94f4d70/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52321619fac51cd856da4f04775f7eac",
-    "publishedAt": "2026-10-01T17:26:46Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Where is the contest between bat and ball?’: 811-run IND vs WI Guwahati ODI raises questions",
-    "description": "India captain Shubman Gill’s unbeaten 223 was sublime, his impeccable timing, placement and voracious appetite hallmarks of his talent. So too was Rohit Sharma’s easy-on-the-eye 101. The West Indies also had three centurions. These batters needed adversaries,…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/where-is-the-contest-between-bat-and-ball-811-run-ind-vs-wi-guwahati-odi-raises-questions/articleshow/134624523.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134624643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-01T17:26:45Z",
-    "author": "Vishal Menon"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What is the Super Series at ICC ODI Cricket World Cup 2027? Schedule, rules and how the stage works",
-    "description": "What is the Super Series at the ICC ODI World Cup 2027? Learn how the 3-team round-robin works, the qualification rules, schedule, and path to the Super 7 stage.",
-    "url": "https://www.cricketnews.com/en/cricket/news/super-series-icc-odi-cricket-world-cup-2027-schedule-rules/5300aa939daf4ae44aebbf01",
-    "image": "https://s.yimg.com/lo/mysterio/api/1a55c51a440b53096af09a393cc3b6de4c4d7a7ff913ecf63410ca68a773d67a/lightyear_networkapi/resizefill_w844_h475%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffa5174791b5d81e7095533a03731bbab",
-    "publishedAt": "2026-10-01T16:52:20Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "CNA",
-    "title": "India and Pakistan to clash in pool phase at 2027 Cricket World Cup",
-    "description": "CAPE TOWN, Oct 1 : India and Pakistan have been drawn in the same group at the 2027 Cricket World Cup and will clash at The Wanderers in Johannesburg on October 10 next year as the fixtures for the tournament were announced on Thursday. India also have Austra…",
-    "url": "https://www.channelnewsasia.com/sport/india-and-pakistan-clash-in-pool-phase-2027-cricket-world-cup-6425066",
-    "image": "https://dam.mediacorp.sg/image/upload/s--OyB_sIIM--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-01T165104Z_1_LYNXMPEM903QZ_RTROPTP_3_CRICKET-TEST-ZAF-WIN.JPG?itok=OQQUOT6q",
-    "publishedAt": "2026-10-01T16:48:52Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Pakistan World Cup 2027 Match Date: Check IND vs PAK venue, timing, tickets and live streaming",
-    "description": "India vs Pakistan World Cup 2027 Schedule: India and Pakistan will meet in the ODI World Cup Group Stage on October 10, 2027, with the high-profile clash scheduled in Johannesburg, South Africa. The two teams are in Group A alongside Australia, Afghanistan, Z…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-pakistan-world-cup-2027-match-date-ind-vs-pak-schedule-fixture-venue-timing-tickets/articleshow/134623648.cms",
-    "image": "https://img.etimg.com/thumb/msid-134623916,width-1200,height-900,imgsize-115424,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-01T16:43:41Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "England avoid Australia & India in World Cup draw",
-    "description": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cqlylygyl3pro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/8ad8b1fea0f937d9d8321597d2b6c6c4ed5c48fcabcd07b11f06c334b7f3ef76/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F258f37704b829d82517abb5036525b28.jpg",
-    "publishedAt": "2026-10-01T16:31:52Z",
-    "author": "Marc Higginson - BBC Sport Senior Journalist"
   }
 ]
 ;
