@@ -1,5 +1,23 @@
 [
   {
+    "source": "Nature.com",
+    "title": "Sub-millisecond precision and variability in a cricket calling song pattern",
+    "description": "Scientific Reports - Sub-millisecond precision and variability in a cricket calling song pattern",
+    "url": "https://www.nature.com/articles/s41598-026-73240-0.pdf",
+    "image": null,
+    "publishedAt": "2026-10-04T00:00:00Z",
+    "author": "Berthold Hedwig"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "TV presenter Sophie Walsh and cricket star Moises Henriques welcome their first child",
+    "description": "TV presenter Sophie Walsh and her Sydney Sixers cricketer partner Moises Henriques have welcomed their first child together, a baby girl.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16177057/Sophie-Walsh-cricket-star-Moises-Henriques-baby.html",
+    "image": "https://i.dailymail.com/1s/2026/10/03/23/111634655-0-image-m-6_1791065247760.jpg",
+    "publishedAt": "2026-10-03T22:23:25Z",
+    "author": "Jimmy Briggs"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "West Indies expose India’s bowling concerns: Shubman Gill’s side given major reality check in 2027 ODI World Cup preparation",
     "description": "West Indies' series exposed major bowling concerns of the Indian team ahead of the 2027 ODI World Cup.",
@@ -249,24 +267,6 @@
     "url": "https://www.thehindubusinessline.com/news/sports/india-defeat-pakistan-to-win-second-consecutive-asian-games-cricket-gold-medal/article71540102.ece",
     "image": "https://bl-i.thgim.com/public/incoming/c4oz/article71540134.ece/alternates/LANDSCAPE_1200/2026-10-03T083106Z_836573097_UP1EMA30NNSPI_RTRMADP_3_GAMES-ASIA.JPG",
     "publishedAt": "2026-10-03T08:42:46Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India wins toss and opts to bat against West Indies in third ODI",
-    "description": "CHANDIGARH, India (AP) — Shubman Gill won a third successive toss and India opted to bat against West Indies in the third and final one-day international Saturday.India has already won the series 2-0 after eight-wicket victories in Thiruvananthapuram and Guwa…",
-    "url": "https://sports.yahoo.com/articles/india-wins-toss-opts-bat-084122214.html",
-    "image": null,
-    "publishedAt": "2026-10-03T08:41:22Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "My mother says stay away from PCB and I will follow that advise: Shoaib Akhtar",
-    "description": "Shoaib Akhtar has announced he will not take any role with the Pakistan Cricket Board in the near future. His mother advised him to avoid involvement in cricket politics, which he intends to follow. While he wishes for the best for Pakistan cricket, he is not…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/my-mother-says-stay-away-from-pcb-and-i-will-follow-that-advise-shoaib-akhtar/articleshow/134655434.cms",
-    "image": "https://img.etimg.com/thumb/msid-134655506,width-1200,height-900,imgsize-42512,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-03T08:39:47Z",
     "author": "PTI"
   }
 ]
