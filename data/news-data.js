@@ -1,237 +1,129 @@
 window.cricketNews = [
   {
-    "source": "Business Standard",
-    "title": "Hope's 162 powers West Indies to five-wicket win over India in 3rd ODI",
-    "description": "Skipper Shai Hope struck a peerless unbeaten 162, stealing the thunder from KL Rahul's classy 129 not out as the West Indies scored a consolation five-wicket win over India in the third and final ODI here on Saturday.\nIndia won the series 2-1, courtesy triump…",
-    "url": "https://www.business-standard.com/cricket/news/hope-s-162-powers-west-indies-to-five-wicket-win-over-india-in-3rd-odi-126100301032_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/04/thumb/featurecrop/1200X628/1791092853-3506.jpg",
-    "publishedAt": "2026-10-04T05:47:56Z",
-    "author": "Press Trust of India"
+    "source": "Livemint",
+    "title": "IPL mega auction or a masterclass in behavioural economics? Sunk cost fallacy, winner’s curse, FOMO and more | Explained",
+    "description": "The IPL mega auction highlights how emotions can cloud decision-making for franchise owners. These psychological traps mirror investors’ behaviours in stock markets, where past spending often skews current judgments.",
+    "url": "https://www.livemint.com/money/ipl-mega-auction-or-a-masterclass-in-behavioural-economics-sunk-cost-fallacy-winner-s-curse-fomo-and-more-explained-11791127759975.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Auction_Economics_1791127958640_EIsH_1791128012298_lRrM_fd0b8d4d-ce40-46fe-8374-f20e55687b48_vc3Y.jpg",
+    "publishedAt": "2026-10-04T15:49:47Z",
+    "author": "Sounak Mukhopadhyay"
   },
   {
     "source": "The Times of India",
-    "title": "‘Pakistan don’t offer much competition’: BCCI takes swipe after Asian Games final",
-    "description": "India's men's cricket team triumphed at the Asian Games 2026, capturing the gold medal with a decisive 19-run win over arch-rivals Pakistan at Korakuen Stadium. With a formidable score of 211 runs, powered by standout performances from Abhishek Sharma and Til…",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pakistan-dont-offer-much-competition-bcci-takes-swipe-after-asian-games-final/articleshow/134670245.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134670256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T05:47:51Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Not much time for experiments, want WC 11 from next series: Shubman Gill",
-    "description": "Wary of not being able to field a settled eleven because of injuries and tight scheduling, India skipper Shubman Gill wanted to give regular opportunities to the players who will potentially make it to the ICC World Cup 2027 in the upcoming ODI matches.\nIndia…",
-    "url": "https://www.business-standard.com/cricket/news/not-much-time-for-experiments-want-wc-11-from-next-series-shubman-gill-126100400104_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/28/thumb/fitandfill/1200X628/1790577864-5673.jpg",
-    "publishedAt": "2026-10-04T05:45:05Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Not much time for experiments, want to play our WC 11 from next series: Gill",
-    "description": "India's captain Shubman Gill expressed concern over injuries affecting the performance of his team during recent ODI series. Despite a 2-1 victory over the West Indies, he emphasized the need for a settled squad. Gill highlighted the significance of early wic…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shubman-gill-urges-team-india-to-solidify-wc-squad-amid-injury-woes-and-schedule-challenges/articleshow/134670177.cms",
-    "image": "https://img.etimg.com/thumb/msid-134670191,width-1200,height-900,imgsize-84544,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-04T05:37:03Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Asiad 2026: Gold wasn't on platter, says Samson after India's triumph",
-    "description": "Wicketkeeper batter Sanju Samson asserted India did not get the Asian Games gold 'on a platter', and said fielding experienced A-list players helped the team manage the pressures of a high-octane final against Pakistan.\nIndia defeated arch-rivals Pakistan by …",
-    "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-gold-wasn-t-on-platter-says-samson-after-india-s-triumph-126100400076_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789538029-8106.jpg",
-    "publishedAt": "2026-10-04T05:31:41Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
-    "description": "Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.",
-    "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D26H69M__v1__MidRes__CricketIndWisOdi-1791090387.jpg?resize=1200%2C630",
-    "publishedAt": "2026-10-04T05:28:38Z",
-    "author": null
-  },
-  {
-    "source": "CBC News",
-    "title": "Toronto Sixers rally past Vancouver Warriors to repeat as Canada Super60 women's cricket champions",
-    "description": "The Toronto Sixers successfully defended their Canada Super60 Cricket League women's title Saturday night at B.C. Place in Vancouver, beating the previously unbeaten Vancouver Warriors by six wickets with three balls to spare.",
-    "url": "https://www.cbc.ca/sports/super60-cricket-womens-final-recap-cbc-sports-primetime-9.7368507",
-    "image": "https://i.cbc.ca/ais/5260b928-30b1-4bdc-aa4b-e7ee9faf7275,1791088812476/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C38%2C3139%2C1765%29%3BResize%3D620",
-    "publishedAt": "2026-10-04T04:57:33Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘This is all fake’: Shoaib Akhtar dismisses reports of taking up role in Mohsin Naqvi-led PCB",
-    "description": "Shoaib Akhtar has firmly denied rumors suggesting his involvement with the Pakistan Cricket Board's chief selector position. He clarified that he is not pursuing any formal role within the PCB, especially following recent losses. Instead, Akhtar expressed his…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-all-fake-shoaib-akhtar-dismisses-reports-of-taking-up-role-in-mohsin-naqvi-led-pcb/articleshow/134669695.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134669713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T04:41:36Z",
-    "author": "Pranav Shukla"
+    "title": "'It’s about time': Wasim Jaffer backs left-haned batter as Virat Kohli's replacement at No.3 in ODIs",
+    "description": "Kohli has confirmed that the 2027 edition will be his last ODI World Cup for India, meaning the team will have to find a replacement at No. 3, a position he has held for many years.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/its-about-time-wasim-jaffer-backs-left-haned-batter-as-virat-kohlis-replacement-at-no-3-in-odis/articleshow/134676464.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134676464,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-04T14:36:46Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
     "source": "Cricketnews.com",
-    "title": "India vs West Indies ODI series 2026 report card: Grading every player from both teams as 2027 World Cup auditions continue",
-    "description": "India vs West Indies ODI series 2026 report card: Check full player ratings and grades for both squads after India win 2-1.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-vs-west-indies-odi-series-report-card-players-2027-world-cup/9552b1f9aabb4b4641207cce",
-    "image": "https://s.yimg.com/lo/mysterio/api/f6d4a74b9317bc82c78629602c13b9d723520866a6bbaafa158e8675522f2b53/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F49aa5feb819669ee73c1d5c1864819d6",
-    "publishedAt": "2026-10-04T04:35:04Z",
-    "author": "Soham Mukherjee"
+    "title": "'Will be a repeat of 2007': Ex-BCCI official warns India’s bowling attack could be ‘clobbered’ at 2027 ODI World Cup",
+    "description": "It's been 20 years since India's shocking exit in the 2007 World Cup, but one former BCCI official believes that the same outcome can repeat if India doesn't fix their bowling attack.",
+    "url": "https://www.cricketnews.com/en/cricket/news/makarand-waingankar-warns-india-bowling-clobbered-2027-odi-world-cup/98496485b7c5da3618638d02",
+    "image": "https://s.yimg.com/lo/mysterio/api/e198b058e0368f90fd05ecb9e7479f133ab9c526078a5ee2df08f23b864cd7f6/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe6aab28279690e394706814387968d06",
+    "publishedAt": "2026-10-04T13:13:04Z",
+    "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Rise and Fall 2: Niharika Tiwari on Virender Sehwag replacing Ashneer Grover; says, ‘I want to play cricket with him’",
-    "description": "Rise and Fall Season 2 recently premiered with Virender Sehwag taking over as the host from Ashneer Grover. Niharika Tiwari expressed her excitement at seeing Sehwag's hosting style and mentioned her support for her friend Kushal Tanwar in Bigg Boss 20. She b…",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rise-and-fall-2-niharika-tiwari-on-virender-sehwag-replacing-ashneer-grover-says-i-want-to-play-cricket-with-him/articleshow/134669548.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134669570,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T04:24:45Z",
-    "author": "Aradhana Jha"
+    "title": "‘I want him to reach that mark’: Sunil Gavaskar’s special wish for Rohit Sharma before retirement",
+    "description": "Rohit scored 92 off 85 balls, with 10 fours and three sixes, in India’s third ODI against the West Indies. India lost the third ODI after the visitors successfully chased down 352, with captain Shai Hope scoring an unbeaten 162.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-him-to-reach-that-mark-sunil-gavaskars-special-wish-for-rohit-sharma-before-retirement/articleshow/134675193.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134675193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-04T12:44:40Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
     "source": "The Times of India",
-    "title": "India did not get Asian Games gold ‘on a platter’, says Sanju Samson after Pakistan win",
-    "description": "Sanju Samson highlighted the significance of the team's experience in securing victory against Pakistan in the Asian Games final. India successfully defended their men's cricket gold by posting 211 runs and restricting Pakistan to 192 runs. The final showcase…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-did-not-get-asian-games-gold-on-a-platter-says-sanju-samson-after-pakistan-win/articleshow/134669391.cms",
-    "image": "https://img.etimg.com/thumb/msid-134669401,width-1200,height-900,imgsize-176320,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-04T04:01:19Z",
-    "author": "PTI"
+    "title": "I personally would like Rohit to have more ODI hundreds than his age: Sunil Gavaskar",
+    "description": "Sunil Gavaskar shared his thoughts on Rohit Sharma's recent 92-run performance against the West Indies. He expressed disappointment as Sharma seeks to achieve more ODI centuries than his age at retirement. Gavaskar highlighted Sharma's impressive ability to s…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/i-personally-would-like-rohit-to-have-more-odi-hundreds-than-his-age-sunil-gavaskar/articleshow/134674803.cms",
+    "image": "https://img.etimg.com/thumb/msid-134674800,width-1200,height-900,imgsize-138680,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-04T12:15:58Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Love of cricket unites Odias in Japan for India-Pakistan Asian Games T20 final",
+    "description": "Odias in Japan traveled 400 km to watch the India-Pakistan Asian Games men’s T20 final in Nisshin, celebrating community spirit as India won gold.",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/love-of-cricket-unites-odias-in-japan-for-india-pakistan-asian-games-t20-final/articleshow/134674901.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134674895,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-04T12:10:44Z",
+    "author": "Arunika Mohapatra"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "Rishabh Pant-led Rest of India clinch Irani Cup, defeat J&K by 167 runs in Srinagar",
+    "description": "Rest of India beat J&K by 167 runs to win the Irani Cup in Srinagar, marking a historic return of top cricket to the Valley.",
+    "url": "https://www.thehindubusinessline.com/news/sports/rishabh-pant-led-rest-of-india-clinch-irani-cup-defeat-jk-by-167-runs-in-srinagar/article71543623.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/u0bbln/article71543629.ece/alternates/LANDSCAPE_1200/51-FOURTH-DAY-IRANI-CUP-SGR-04-10-2026.JPG",
+    "publishedAt": "2026-10-04T12:09:09Z",
+    "author": "Gulzar Bhat"
+  },
+  {
+    "source": "The Times of India",
+    "title": "When will Virat Kohli and Rohit Sharma play their next ODI for India?",
+    "description": "With no ODIs scheduled for India in the next 30 days, Rohit and Kohli will next get an opportunity to play in the 50-over format during India’s tour of New Zealand.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-will-virat-kohli-and-rohit-sharma-play-their-next-odi-for-india/articleshow/134673966.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134674187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-04T12:07:15Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "RT",
+    "title": "ICC weakened by ‘impotence’ over Netanyahu arrest warrant – attorney (VIDEO)",
+    "description": "The ICC is being weakened by the “impotence” of its member states, American attorney Stanley Cohen has told RT Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/646683-icc-weakened-impotence-netanyahu-cohen/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac1608c85f54019955f4bf1.png",
+    "publishedAt": "2026-10-04T11:56:05Z",
+    "author": "RT"
+  },
+  {
+    "source": "USA Today",
+    "title": "49ers almost drafted 5-time Pro Bowler in 2020 draft",
+    "description": "The 49er had their eye on Tristan Wirfs, but also already had a trade for Trent Williams planned.",
+    "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/10/04/49ers-almost-drafted-5-time-pro-bowl-ot-tristan-wirfs-in-2020-draft/92078057007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/e1092dcef15c5adf7ad63236c11865455d1dfdd0efb5d100f9e04ab9926a1f7f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_49ers_wire_usa_today_sports_articles_952%2F04c28a4b93d14e118cc8f51b35db96f2.jpg",
+    "publishedAt": "2026-10-04T11:02:25Z",
+    "author": "Oliver G., Niners Wire"
   },
   {
     "source": "Cricketnews.com",
-    "title": "'A lot easier in India': Shai Hope explains how MS Dhoni's tips helped West Indies chase down a 350-plus total in 3rd ODI",
-    "description": "Shai Hope credited a masterclass conversation with MS Dhoni and dew conditions after his unbeaten 162 helped West Indies pull off a record 352 chase vs India...",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-shai-hope-dhoni-tips-west-indies-chase-350-plus-3rd-odi/f28a6dbc152112335d619d6a",
-    "image": "https://s.yimg.com/lo/mysterio/api/38f150af72a4b9adf68acd17871a3fcfc65af46c62c936c7f2edda01699a0aa0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff2f2a1b86b34e4e288cb7651f5250eb0",
-    "publishedAt": "2026-10-04T03:40:37Z",
+    "title": "Analysing KL Rahul's 9 ODI centuries: How many times has Rahul played a match-winning knock for India",
+    "description": "How many of KL Rahul's 9 ODI centuries won games for India? Explore the complete match-by-match breakdown and statistical analysis.",
+    "url": "https://www.cricketnews.com/en/cricket/news/kl-rahul-9-odi-centuries-played-match-winning-knock-india/e1523e928deebc7c1fc12c58",
+    "image": "https://s.yimg.com/lo/mysterio/api/588735b352a94660cde9a53835b803a8e68256ced1a43a778275ed6691bc3691/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe8f16cb9126e4585736f55661d6f8594",
+    "publishedAt": "2026-10-04T10:41:36Z",
     "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India withstand Hasan Nawaz onslaught to beat Pakistan, win Asian Games gold",
-    "description": "In a thrilling encounter at the Asian Games, India clinched the gold medal in cricket by defeating Pakistan by 19 runs. The team, led by Shreyas Iyer, set a formidable target of 211 runs, thanks to strong performances from Abhishek Sharma and Tilak Varma. Des…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/india-withstand-hasan-nawaz-onslaught-to-beat-pakistan-win-asian-games-gold/articleshow/134669204.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134669214,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T03:28:43Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs West Indies ODI series rewrites record books with highest scoring rate ever",
-    "description": "The thrilling ODI series between India and the West Indies set a dazzling scoring rate record of 7.43 runs per over, captivating cricket fans worldwide. Each match overflowed with excitement as teams surpassed the 300-run mark. India clinched the series 2-1, …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-odi-series-rewrites-record-books-with-highest-scoring-rate-ever/articleshow/134669066.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134669081,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T03:04:04Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Nature.com",
-    "title": "Sub-millisecond precision and variability in a cricket calling song pattern",
-    "description": "Scientific Reports - Sub-millisecond precision and variability in a cricket calling song pattern",
-    "url": "https://www.nature.com/articles/s41598-026-73240-0.pdf",
-    "image": null,
-    "publishedAt": "2026-10-04T00:00:00Z",
-    "author": "Berthold Hedwig"
   },
   {
     "source": "Dailymail.com",
-    "title": "TV presenter Sophie Walsh and cricket star Moises Henriques welcome their first child",
-    "description": "TV presenter Sophie Walsh and her Sydney Sixers cricketer partner Moises Henriques have welcomed their first child together, a baby girl.",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16177057/Sophie-Walsh-cricket-star-Moises-Henriques-baby.html",
-    "image": "https://i.dailymail.com/1s/2026/10/03/23/111634655-0-image-m-6_1791065247760.jpg",
-    "publishedAt": "2026-10-03T22:23:25Z",
-    "author": "Jimmy Briggs"
+    "title": "Cricket game near RAF Fairford stopped by armed guards due to 'live incident' eight hours before five men were arrested over 'terror plot'",
+    "description": "The warning came at around 4.30pm last Saturday, as security at the US-linked airbase was heightened following intelligence suggesting an attack could be possible.",
+    "url": "https://www.dailymail.com/news/article-16181743/Cricket-RAF-Fairford-armed-guards-live-incident-terror.html",
+    "image": "https://i.dailymail.com/1s/2026/10/04/10/111499045-0-Three_white_vans_are_investigated_by_a_robot_after_the_alleged_p-a-14_1791105690090.jpg",
+    "publishedAt": "2026-10-04T09:56:02Z",
+    "author": "Lettice Bromovsky"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From 89/3 to 111 all out: Mukesh Kumar, Akash Deep trigger J&K collapse as Rest of India win Irani Cup",
+    "description": "Mukesh returned figures of 6/33 to claim his 11th five-wicket haul in first-class cricket and dismantle the Jammu and Kashmir batting line-up. Akash, playing his comeback game, supported his Bengal teammate with 3/25 as J&K, chasing 279, were bowled out for 1…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-89/3-to-111-all-out-mukesh-kumar-akash-deep-trigger-jk-collapse-as-rest-of-india-win-irani-cup/articleshow/134672585.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134672792,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-04T09:45:02Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
     "source": "Cricketnews.com",
-    "title": "West Indies expose India’s bowling concerns: Shubman Gill’s side given major reality check in 2027 ODI World Cup preparation",
-    "description": "West Indies' series exposed major bowling concerns of the Indian team ahead of the 2027 ODI World Cup.",
-    "url": "https://www.cricketnews.com/en/cricket/news/west-indies-expose-india-bowling-concerns-reality-2027-odi-world-cup/7b2566c45eb51b0c7bf80526",
+    "title": "'No chance of winning World Cup': Kris Srikkanth lambasts India bowlers, calls bowling lineup pedestrian",
+    "description": "Kris Srikkanth lambasted India's pedestrian bowling attack and tactics after failing to defend 351 in the 3rd ODI vs WI.",
+    "url": "https://www.cricketnews.com/en/cricket/news/no-chance-world-cup-srikkanth-india-bowlers-bowling-pedestrian/fd0cd743c1036e67f74ce3d8",
     "image": "https://s.yimg.com/lo/mysterio/api/dce259dfe0ca7ed49d2b7d03b3986f1c06834ea9eaf826f46a21ae7bf4123c35/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F45f056609ab0fe4a0802620029aa8bb3",
-    "publishedAt": "2026-10-03T19:35:42Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Why India’s victory over Pakistan at the Asian Games was about more than a cricketing rivalry - The New York Times",
-    "description": "Why India’s victory over Pakistan at the Asian Games was about more than a cricketing rivalryThe New York Times IND vs PAK Cricket Scorecard, Final at Nisshin, October 03, 2026Cricinfo No handshakes and a delayed ceremony as India beat Pakistan at Asian Games…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186015442",
-    "image": null,
-    "publishedAt": "2026-10-03T19:12:04Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PCA senior, junior teams register wins in Rama Atray tourney",
-    "description": "PCA senior and junior women win league matches in 7th Rama Atray Memorial Cricket Tournament; seniors beat HP by 104 runs, juniors beat Goa by 5 wickets.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pca-senior-junior-teams-register-wins-in-rama-atray-tourney/articleshow/134664695.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134664693,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-03T18:32:14Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Punjab shows up with josh for Mullanpur’s 1st ODI",
-    "description": "Historic first ODI at Mullanpur’s new PCA Stadium: India recovered to 351/7 via KL Rahul 129*, but Shai Hope 162* led West Indies to win by 5 wickets.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-shows-up-with-josh-for-mullanpurs-1st-odi/articleshow/134664676.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-03T18:30:45Z",
-    "author": "Sukhmani Kooner"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PCA to honour Abhishek, Arshdeep for Asia Games success",
-    "description": "Punjab Cricket Association to felicitate Abhishek Sharma and Arshdeep Singh for standout Asia Games performances, with a grand ceremony announced by PCA president.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pca-to-honour-abhishek-arshdeep-for-asia-games-success/articleshow/134664665.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-03T18:28:53Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games cricket 2026: India’s depth, experience deliver gold against Pakistan",
-    "description": "India defeated Pakistan by 19 runs to win the men’s T20 cricket gold at the Asian Games in Japan, with Tilak Varma’s unbeaten 51 and Abhishek Sharma’s 61 setting up a 211/6 total. Hasan Nawaz’s 96 kept Pakistan in contention, but India’s bowling depth held fi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/asian-games-cricket-2026-indias-depth-experience-deliver-gold-against-pakistan/articleshow/134663850.cms",
-    "image": "https://img.etimg.com/thumb/msid-134663940,width-1200,height-900,imgsize-261844,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-03T17:33:05Z",
-    "author": "Anand Vasu"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Abhishek, Tilak and spinners secure gold for India at Asian Games again - Cricinfo",
-    "description": "Abhishek, Tilak and spinners secure gold for India at Asian Games againCricinfo IND vs PAK Cricket Scorecard, Final at Nisshin, October 03, 2026Cricinfo Why India’s victory over Pakistan at the Asian Games was about more than a cricketing rivalryThe New York …",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186014738",
-    "image": null,
-    "publishedAt": "2026-10-03T17:32:17Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Sir Richard Hadlee’s criticism of NZ Cricket: Another top name, Lesley Murdoch, takes aim at NZC over ‘lack of transparency’",
-    "description": "Immediate past president and former NZ captain and coach: 'It’s sad for the game'.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/sir-richard-hadlees-criticism-of-nz-cricket-another-top-name-lesley-murdoch-takes-aim-at-nzc-over-lack-of-transparency/premium/QSDKXY45LFB7VECTNQF23WBYBY/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/56LMNXFLB5BSTDUXDY73U24OBY.jpg?auth=d257843f47a4935c74f19b4d0194ebb0418f7a9306957c3185cdfc1ae4a872e2&width=1200&height=675&quality=70&focal=729%2C421&smart=false",
-    "publishedAt": "2026-10-03T16:02:43Z",
-    "author": "Shayne Currie"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Most centuries at No. 5 in ODI cricket history: Full list of batters",
-    "description": "With KL Rahul scoring his 4th century at no.5, here's the list of ODI batters with most tons at the number.",
-    "url": "https://www.cricketnews.com/en/cricket/news/most-centuries-no-5-odi-cricket-history-full-list-batters/f9894a98c8c60db2ccaa8f60",
-    "image": "https://s.yimg.com/lo/mysterio/api/d8df2a371491ff16f0f0bbf62fc429922786725384b21e818448a024f9197277/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe2bf10b8c8ce377337a43052a9d34b17",
-    "publishedAt": "2026-10-03T16:00:20Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Colts WR Keenan Allen ruled out of London game because of groin injury",
-    "description": "LONDON (AP) — Indianapolis Colts wide receiver Keenan Allen has been ruled out of Sunday’s game against the Washington Commanders at Tottenham Hotspur Stadium because of a groin injury.The Colts said Saturday the six-time Pro Bowler was downgraded after being…",
-    "url": "https://sports.yahoo.com/articles/colts-wr-keenan-allen-ruled-155229335.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/354462ee3fa319fef5126e70cd373beb2f2c74fa7f0a22aab2970911b8d60549/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8edcafc787ad71f406a7152ef9de2d3b.jpg",
-    "publishedAt": "2026-10-03T15:52:29Z",
-    "author": "Associated Press"
+    "publishedAt": "2026-10-04T09:02:04Z",
+    "author": "Soham Mukherjee"
   }
 ]
 ;
