@@ -1,5 +1,212 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "ECB will 'look at' funding Windies Test if needed",
+    "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c9x2808dezkmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/30ebf0fca63f03e6de9a89de430a50248e73e62707571af6f3fdac3d0839a593/lightyear_networkapi/resizefill_w1017_h572%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9de48c7f8a4ffbbfffdb03743de6bbb7.jpg",
+    "publishedAt": "2026-10-05T17:00:21Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "ECB will 'look at' funding Windies Test if needed",
+    "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ce2/live/b8f68310-c0db-11f1-8cf3-7dbc6a5861dd.jpg",
+    "publishedAt": "2026-10-05T17:00:17Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Vaibhav Sooryavanshi's record at Lucknow: How the India wonderkid has performed across formats at Ekana Stadium",
+    "description": "With the Ekana Stadium hosting the first T20I between India and the West Indies, here's a look at how Vaibhav Sooryavanshi has performed at Lucknow over his international and IPL career.",
+    "url": "https://www.cricketnews.com/en/cricket/news/vaibhav-sooryavanshis-record-lucknow-formats-ekana-stadium/4c87dd0571cb49c802dfe4a2",
+    "image": "https://s.yimg.com/lo/mysterio/api/bfbbe7ce58ec3ef0b1288dea429fc462c748c2a51ef42d2c5a0e914a37511b60/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2f8dfe7e7082bf32193662497ee81f8e",
+    "publishedAt": "2026-10-05T16:53:27Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "CNA",
+    "title": "Pakistan drop Agha as T20 captain, hand Farhan role for Sri Lanka series",
+    "description": "(deletes reference to England in title for T20 squad list)Oct 5 : Pakistan have dropped Salman Ali Agha as T20 captain and left him out of the squad for this month's Sri Lanka series, the country's cricket board said on Monday while naming squads for the T20 …",
+    "url": "https://www.channelnewsasia.com/sport/pakistan-drop-agha-t20-captain-hand-farhan-role-sri-lanka-series-6433976",
+    "image": "https://dam.mediacorp.sg/image/upload/s--cC7pK4Jz--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T163318Z_1_LYNXMPEM941HQ_RTROPTP_3_GAMES-ASIA.JPG?itok=LUQ6mOz_",
+    "publishedAt": "2026-10-05T16:33:18Z",
+    "author": null
+  },
+  {
+    "source": "The Punch",
+    "title": "ICC unseals arrest warrants for Taliban education ministers",
+    "description": "The International Criminal Court has unsealed arrest warrants for two Taliban education ministers accused of crimes against humanity for banning women from\n\nRead More: https://punchng.com/icc-unseals-arrest-warrants-for-taliban-education-ministers/",
+    "url": "https://punchng.com/icc-unseals-arrest-warrants-for-taliban-education-ministers/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2025/09/22220522/ICC.jpg",
+    "publishedAt": "2026-10-05T16:24:28Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Abcnews.com",
+    "title": "ICC will unseal warrants for 4 Taliban leaders wanted on gender persecution charges",
+    "description": "The International Criminal Court says it is unsealing arrest warrants against four senior Taliban leaders on charges of crimes against humanity",
+    "url": "https://abcnews.com/International/wireStory/icc-unseal-arrest-warrants-4-taliban-leaders-wanted-137005762",
+    "image": "https://i.abcnewsfe.com/a/ecafbe19-11a1-4bff-9e6d-cf156511d02b/wirestory_d865b7b9695311a5c18c8f95769b9132_16x9.jpg?w=1600",
+    "publishedAt": "2026-10-05T15:47:56Z",
+    "author": "MIKE CORDER Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Salman Ali Agha sacked; PCB names Asian Games silver-medalist captain as Pakistan's new T20I skipper",
+    "description": "Sahibzada Farhan is set to captain Pakistan's T20I team in the much-anticipated series against Sri Lanka beginning October 9. The three matches will be hosted at the Rawalpindi Cricket Stadium over consecutive days. Notably, former captain Salman Ali Agha has…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-ali-agha-sacked-pcb-names-asian-games-silver-medalist-captain-as-new-pakistans-t20i-skipper/articleshow/134711403.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134711607,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T15:40:09Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Salman sacked; PCB names Asian Games captain as Pakistan's new T20I skipper",
+    "description": "Sahibzada Farhan is set to captain Pakistan's T20I team in the much-anticipated series against Sri Lanka beginning October 9. The three matches will be hosted at the Rawalpindi Cricket Stadium over consecutive days. Notably, former captain Salman Ali Agha has…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-ali-agha-sacked-pcb-names-asian-games-silver-medalist-captain-as-pakistans-new-t20i-skipper/articleshow/134711403.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134711607,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T15:36:51Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Some motive behind': Ravi Shastri slams BCCI for not appointing him as India coach in 2016, takes indirect dig at Sourav Ganguly",
+    "description": "After all these years since his exit as India's coach, former star and World Cup winner Ravi Shastri slams BCCI for not making him the head coach despite his record as the director of the national side.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ravi-shastri-slams-bcci-india-head-coach-2016-dig-sourav-ganguly/c19466fdda3aef8b38f2f218",
+    "image": "https://s.yimg.com/lo/mysterio/api/a12124b71baee7d3b38e126bfaeedf48bd39b9e77991ecbd401a22606568419d/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9e43a7f9bcb81c90d0042f933af72eb3",
+    "publishedAt": "2026-10-05T15:21:16Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "JioGames brings Cricket 26 to India: Check Pro Pass plans, price, how to play and key features",
+    "description": "Cricket 26, the official game celebrating the Ashes, is now available on JioGames via a subscription model. Jio users can take advantage of exclusive perks, like discounted Pro Pass plans starting at ₹298. This game not only provides a range of playing option…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/jiogames-brings-cricket-26-to-india-check-pro-pass-plans-price-how-to-play-and-key-features/articleshow/134709209.cms",
+    "image": "https://img.etimg.com/thumb/msid-134709679,width-1200,height-900,imgsize-919932,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-05T14:51:03Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "86 to 101: Virat Kohli's final ODI window to break Sachin Tendulkar's century record",
+    "description": "Virat Kohli is 15 centuries away from becoming the first batter to reach 101 international hundreds, with ODI cricket now his only route to Sachin Tendulkar's record. India have 11 confirmed bilateral ODIs before the 2027 World Cup, while the Asia Cup offers …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/86-to-101-virat-kohlis-final-odi-window-to-break-sachin-tendulkars-century-record/articleshow/134700454.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134707882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T14:00:41Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs WI T20 2026 schedule: Start dates, venues and timings for every T20I match of West Indies' tour of India",
+    "description": "With a five-match T20I series ahead of Shreyas Iyer and the Men in Blue, here's everything you would need to know about the India vs. West Indies T20 series.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-wi-t20-2026-schedule-start-dates-venues-timings-t20i-match/e1c5e4883bb9e3acc9dd285e",
+    "image": "https://s.yimg.com/lo/mysterio/api/e1740674129bcbd9013d411c5f91c076add46959ec8b044b6acdb1b781bbae5e/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1953648332d1a7aef5e5db9de6e7d0a7",
+    "publishedAt": "2026-10-05T13:39:12Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "USA Today",
+    "title": "Ex-Panthers Pro Bowler takes swipe at 0-4 Buccaneers",
+    "description": "Former Carolina Panthers running back Jonathan Stewart took a swipe at the Jalon Daniels-led Tampa Bay Buccaneers.",
+    "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2026/10/05/ex-panthers-pro-bowler-takes-swipe-at-0-4-buccaneers/92097288007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/d211ac0c04999ec7890819a396cd2b5b866c1cc3781507f5c81236fb196eb4a2/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftampa_bay_buccaneers_wire_usa_today_sports_articles_162%2Fac13b010a925ef02005b9379eecb1ef5.jpg",
+    "publishedAt": "2026-10-05T13:15:03Z",
+    "author": "DJ Siddiqi, Buccaneers Wire"
+  },
+  {
+    "source": "BBC News",
+    "title": "Promising bowler Robinson given first Durham deal",
+    "description": "Durham give a maiden two-year professional contract to right-arm seam bowler Luke Robinson.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6eq3ne2nl0ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7827e00adf157e74ebb615d09b2527ef84c58cdaaa29cd6cd2b543a37cdc79d3/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F95adaa295f605918e2556a428e1edea8.jpg",
+    "publishedAt": "2026-10-05T13:07:41Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India T20I record under VVS Laxman vs record under Gautam Gambhir: Comparison of performance of Men in Blue",
+    "description": "With both VVS Laxman and Gautam Gambhir bringing tournament victories to the BCCI, here's a look at how each coach performed with India's T20 side.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-t20i-record-vvs-laxman-vs-gautam-gambhir-comparison/74125d29ddabdb6d78b9c688",
+    "image": "https://s.yimg.com/lo/mysterio/api/42f861c8b7444e2d160baacd79671054c82210c9dfb76d87324a3af84c9f43a7/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5c8d24a3875bf3b5d82351f8d9130967",
+    "publishedAt": "2026-10-05T12:15:41Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "In a first, Uttar Pradesh opt for split captaincy and coaching for upcoming domestic season",
+    "description": "Uttar Pradesh are set to split their captaincy and coaching responsibilities between red-ball and white-ball cricket. Aryan Juyal and Gyanendra Pandey will lead the Ranji setup, while Karan Sharma and Sudip Tyagi will handle the white-ball teams. Yash Dayal, …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/in-a-first-uttar-pradesh-opt-for-split-captaincy-and-coaching-for-upcoming-domestic-season/articleshow/134703362.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134703621,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T11:43:01Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India, West Indies fined for slow over-rate in 3rd ODI",
+    "description": "India and West Indies faced fines for slow over-rates during their third ODI in New Chandigarh. India was penalized 20 percent of their match fee, while West Indies received a 10 percent deduction. The umpires determined that India was four overs short, and W…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-and-west-indies-fined-for-slow-over-rate-in-thrilling-3rd-odi/articleshow/134702785.cms",
+    "image": "https://img.etimg.com/thumb/msid-134702783,width-1200,height-900,imgsize-119040,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-05T11:26:01Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Pakistan squad for Sri Lanka T20I series 2026: Full team lists for PAK vs SL home T20 series",
+    "description": "Pakistan squad for Sri Lanka T20I series 2026: Check the complete team list, captaincy announcement, key inclusions, and full PAK vs SL 3-match series schedule.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-squad-sri-lanka-t20i-series-2026-full-team-lists-pak-vs-sl/75a675f5432f71cf6f6f600e",
+    "image": "https://s.yimg.com/lo/mysterio/api/a6d2010db6ff9504dc4b720d426c2885cd6b00e3c6714330cff028bfd6eb94c1/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
+    "publishedAt": "2026-10-05T11:22:06Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Sandpapergate at Cape Town, South Africa: Revisiting the ball-tampering scandal that rocked Australian cricket eight years on",
+    "description": "Sandpapergate at Cape Town eight years on: Revisiting one of Australian cricket's darkest chapters.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sandpapergate-revisiting-ball-tampering-scandal-australian-cricket/287f37f59d4ff8138c3b68db",
+    "image": "https://s.yimg.com/lo/mysterio/api/505b7bc502ff157dc29e7abbdffa2f0728764d89deb23e630d27fc66c7b1b0b0/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52de59cda0b889b9571f19c6cc9d794d",
+    "publishedAt": "2026-10-05T11:13:20Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Heads of cricket Cook and Arman leave Kent roles",
+    "description": "Kent director of cricket Simon Cook and head of women's cricket Lucy Arman are both leaving the club.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c59vzp2k0ello?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-10-05T10:50:10Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘He will dominate Indian cricket’: Shreyas Iyer’s big call on Vaibhav Sooryavanshi; Abhishek Sharma says ‘he belongs here’",
+    "description": "Shreyas Iyer and Abhishek Sharma are optimistic about the potential of Vaibhav Sooryavanshi in Indian cricket. They emphasise the need for interaction outside cricket to help Sooryavanshi feel comfortable. Iyer acknowledges the challenge of balancing winning …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/he-will-dominate-indian-cricket-shreyas-iyers-big-call-on-vaibhav-sooryavanshi-abhishek-sharma-says-he-belongs-here/articleshow/134698704.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134699512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T10:33:38Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Same thing could happen at 2027 World Cup': Dinesh Karthik hails Rohit Sharma's measured 92 vs West Indies",
+    "description": "In India's third ODI against the West Indies, Rohit Sharma displayed remarkable skill by scoring 92 runs amid challenging conditions. Following a string of early dismissals, he adopted a cautious approach before stepping on the gas. Former cricketer Dinesh Ka…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/same-thing-could-happen-at-2027-world-cup-dinesh-karthik-hails-rohit-sharmas-measured-92-vs-west-indies/articleshow/134697940.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134698520,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T10:27:35Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Powers to appoint the Cricket Selection Committee removed from the Sports Minister.",
+    "description": "Through the proposed new Cricket Bill, introduced with the aim of updating Sri Lanka Cricket administration, the power held by the Minister of Sports to appoint the national cricket selection committee for nearly five decades is set to be completely abolished…",
+    "url": "https://english.gossiplankanews.com/2026/10/powers-to-appoint-cricket-selection.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_soIVYuuc5nEid3b1fEZaHZJchCIxj48kut1y7ZedEuLyRgpBqMWxns-Mib9TOo4egfD4vXnvuCVQ3Q3zW1dbp7WY7mvCD54CKRSl8U-xdJuB9ZkVj4oPfC_n2hu63eD2a6PV0YzHG9UYKdLwF3ZZhzmSO9f-2CE_F8KAZe=w1600",
+    "publishedAt": "2026-10-05T10:05:57Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
     "source": "The Times of India",
     "title": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
     "description": "Kryvyi Rih, the hometown of President Volodymyr Zelenskiy, is severely impacted by Russian airstrikes disrupting economic activities. The city's largest employer has halted operations, contributing to a dire financial situation. Ukraine faces a significant bu…",
@@ -61,123 +268,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134689226,width-1200,height-900,imgsize-176320,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-10-05T07:09:19Z",
     "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Asian Games 2026: 15-year-old Vaibhav Sooryavanshi was India's youngest medallist; do you know who was the oldest?",
-    "description": "India finished fourth at the 2026 Asian Games in Japan with 85 medals, including 21 golds. Fifteen-year-old Vaibhav Sooryavanshi became India’s youngest-ever gold medallist after winning cricket gold, while 50-year-old Mairaj Ahmad Khan became the country’s o…",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-15-year-old-vaibhav-sooryavanshi-was-indias-youngest-medallist-do-you-know-who-was-the-oldest/articleshow/134688156.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134688438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T06:33:42Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I made him understand': Gautam Gambhir reveals what he told Vaibhav Sooryavanshi",
-    "description": "Vaibhav Sooryavanshi made history earlier this year when he became the youngest Indian to play international cricket. He made his T20I debut against England at the age of 15 years and 99 days, breaking Sachin Tendulkar’s long-standing record.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-made-him-understand-gautam-gambhir-reveals-what-he-told-vaibhav-sooryavanshi/articleshow/134688227.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134688352,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T06:30:56Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "West Indies name Amit Jangoo as replacement for injured Jewel Andrew",
-    "description": "The West Indies have added wicketkeeper-batter Amit Jangoo to their T20I squad against India as cover for injured Jewel Andrew. Andrew hurt his finger while taking a catch during the third ODI. Jangoo is in good form, scoring 239 runs in the ODI series, inclu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-name-amit-jangoo-as-replacement-for-injured-jewel-andrew/articleshow/134687312.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134687471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T05:50:06Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Bizarre! Ali Khan's wide ball goes for six, batter gets only five runs - Watch",
-    "description": "A bizarre incident in the Canada's premier T10 cricket league semi-final saw Ali Khan’s wide bouncer clear the boundary, but Toronto Sixers received only five runs. Under MCC laws, a ball not hit by the bat counts as four, plus one for the wide. Toronto beat …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-ali-khans-wide-ball-goes-for-six-batter-gets-only-five-runs-watch/articleshow/134685254.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134686868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T05:22:37Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CNA",
-    "title": "New Zealand's Bracewell shifts to casual contract, eyes BBL opportunity",
-    "description": "Oct 5 : New Zealand all-rounder Michael Bracewell will move to a casual contract for the 2026-27 season as he pursues an opportunity in Australia's Big Bash League, the country's cricket board (NZC) said on Monday.Bracewell, who has played 105 times for New Z…",
-    "url": "https://www.channelnewsasia.com/sport/new-zealands-bracewell-shifts-casual-contract-eyes-bbl-opportunity-6432371",
-    "image": "https://dam.mediacorp.sg/image/upload/s--Viq8Br5I--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T051907Z_1_LYNXMPEM940AV_RTROPTP_3_CRICKET-CHAMPIONSTROPHY-IND-NZL.JPG?itok=CSuwAfGL",
-    "publishedAt": "2026-10-05T05:19:07Z",
-    "author": null
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Hormuz Gridlock Risks Global Food Crisis, International Chamber of Commerce Chief Says",
-    "description": "Focus has been on the resulting rise in oil prices, but it is potential food shortages the world should be paying attention to, ICC secretary-general John Denton said.",
-    "url": "https://biztoc.com/x/10e854627f66bd69",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-05T05:13:10Z",
-    "author": "wsj.com"
-  },
-  {
-    "source": "USA Today",
-    "title": "Kyle Shanahan details knee injury for 10-time Pro Bowler",
-    "description": "The San Francisco 49ers may be without one of their offensive staples for a period of time, but it sounds like they avoided catastrophe.",
-    "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/10/04/49ers-injury-news-kyle-juszczyk-acl-intact-per-kyle-shanahan/92099175007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/e5c0b6f3a4341ec134b3ba6e4e70ba6b0dba162c9a836ddd37b48a59f5b7f656/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_49ers_wire_usa_today_sports_articles_952%2Feb5022a7b402f8518f776db8ce52ce4b.jpg",
-    "publishedAt": "2026-10-05T05:00:17Z",
-    "author": "Kyle Madson, Niners Wire"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs West Indies 1st T20I Live Streaming: When and where to watch, pitch report and weather condition",
-    "description": "The West Indies now turn their attention to the T20I leg of their India tour. The five-match series starts just days after the visitors pulled off a thrilling win in the final ODI, a result that will give them plenty of confidence. The series will be the firs…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-1st-t20i-live-streaming-when-and-where-to-watch-pitch-report-and-weather-condition/articleshow/134685416.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134685581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T04:15:15Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Hardik Pandya teams up with CarryMinati and MrBeast for epic recreation of their iconic World Cup celebration",
-    "description": "Hardik Pandya teamed up with top YouTubers MrBeast and CarryMinati for an epic recreation of his iconic T20 World Cup celebration. Watch the viral clip here.",
-    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-carryminati-mrbeast-recreate-world-cup-celebration/2d7869fb84979ae9013872ff",
-    "image": "https://s.yimg.com/lo/mysterio/api/fdac8bf70aa8487e6dcd03e30573231fde5be0aba5fefd8d6fc89555fefd0278/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F55d2ad197fef8d223278c15e197d813b",
-    "publishedAt": "2026-10-05T03:33:24Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'You can't just depend on Japrit Bumrah and Hardik Pandya': Ex-India cricketer urges veteran pacers' return ahead of 2027 World Cup",
-    "description": "Former India batter Hanuma Vihari urged India to recall Bhuvneshwar Kumar and Mohammed Shami after the team failed to defend 351 against West Indies. He warned against relying too heavily on Jasprit Bumrah and Hardik Pandya, calling the bowling performance a …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-just-depend-on-japrit-bumrah-and-hardik-pandya-ex-india-cricketer-urges-veteran-pacers-return-ahead-of-2027-world-cup/articleshow/134683764.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134684093,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T02:25:11Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "How India became dangerously addicted to Chinese imports",
-    "description": "Published\nTake a walk into an Indian toy shop and as well as picking up a new favourite plaything for a child, you might just get an insight into how the nation is battling for a batter economic relationship with its all-powerful neighbour China.\nSix years ag…",
-    "url": "https://biztoc.com/x/21e6e648fc94cf5d",
-    "image": "https://biztoc.com/cdn/21e6e648fc94cf5d_s.webp",
-    "publishedAt": "2026-10-05T01:58:13Z",
-    "author": "bbc.co.uk"
-  },
-  {
-    "source": "Dealnews.com",
-    "title": "Beautiful by Drew Barrymore 3-Quart Stoneware Batter Mixing Bowl for $10 + free shipping w/ $35",
-    "description": "Walmart offers the Beautiful by Drew Barrymore 3-Quart Stoneware Batter Mixing Bowl for $9.96.  That's a $6 savings.  Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart\r\n Features\r\n <ul> <li>Safe for microwave, freezer, and dish…",
-    "url": "https://www.dealnews.com/Beautiful-by-Drew-Barrymore-3-Quart-Stoneware-Batter-Mixing-Bowl-for-10-free-shipping-w-35/22243121.html",
-    "image": "https://d.dlnws.com/64599/1791163869-product-trimmed.png?h=623&w=1024",
-    "publishedAt": "2026-10-05T01:31:16Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "England pacer with 500-plus wickets ends career, citing mental health",
-    "description": "English fast bowler Craig Miles has retired from professional cricket at 32 to prioritise his mental health. The Gloucestershire pacer, who last played in June, ends a 15-year career with more than 500 wickets. Miles said mounting pressure, self-doubt and hig…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-no-longer-have-the-capacity-england-pacer-retires-after-500-plus-wickets-citing-mental-health/articleshow/134683377.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134683407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-05T01:01:48Z",
-    "author": "Jyotirmoy Halder"
   }
 ]
 ;
