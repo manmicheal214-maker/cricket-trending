@@ -1,6 +1,150 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
+    "description": "Kryvyi Rih, the hometown of President Volodymyr Zelenskiy, is severely impacted by Russian airstrikes disrupting economic activities. The city's largest employer has halted operations, contributing to a dire financial situation. Ukraine faces a significant bu…",
+    "url": "https://economictimes.indiatimes.com/news/defence/ukraine-scrambles-for-money-to-fight-war-as-russian-strikes-batter-economy/articleshow/134695029.cms",
+    "image": "https://img.etimg.com/thumb/msid-134695028,width-1200,height-900,imgsize-321124,overlay-etdefence/articleshow.jpg",
+    "publishedAt": "2026-10-05T09:11:57Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs WI: Why India and West Indies were fined after 3rd ODI",
+    "description": "India and the West Indies were fined for slow over-rates in the third ODI, with India penalised 20 per cent and the visitors 10 per cent of their match fees. Both captains accepted the charges. West Indies ended the series on a high, chasing 352 behind Shai H…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-wi-why-india-and-west-indies-were-fined-after-3rd-odi/articleshow/134694114.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134694479,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T09:03:24Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bhuvneshwar Kumar to lead Indian side at Hong Kong Sixes 2026",
+    "description": "Team India is preparing for the 2026 Hong Kong Sixes, featuring prominent IPL players. Bhuvneshwar Kumar will captain a squad rich in international experience and explosive talent. The tournament will be held from 30 October to 1 November, showcasing fast-pac…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bhuvneshwar-kumar-to-lead-indian-side-at-hong-kong-sixes-2026/articleshow/134691067.cms",
+    "image": "https://img.etimg.com/thumb/msid-134692523,width-1200,height-900,imgsize-147432,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-05T08:21:26Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "KL Rahul wants India’s middle order to push ODI scores towards 370-380",
+    "description": "K L Rahul has been focusing on enhancing his batting technique against the old ball in ODIs. He aims to help India consistently score beyond 370 runs in matches. Despite scoring 129 runs in a recent game, India lost the match, but they had already secured the…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/kl-rahul-wants-indias-middle-order-to-push-odi-scores-towards-370-380/articleshow/134691406.cms",
+    "image": "https://img.etimg.com/thumb/msid-134691453,width-1200,height-900,imgsize-113452,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-05T07:59:38Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI appoints ex-national selectors to pick Bihar's teams",
+    "description": "The BCCI has deputed two three-member selection committees to Bihar to pick its senior and junior teams. Former India selectors Harvinder Singh and Sridharan Sharath are part of the senior panel for the Ranji Trophy, while another committee will select Under-…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-appoints-ex-national-selectors-to-pick-bihars-teams/articleshow/134690430.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134690746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T07:46:40Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Body of missing girl, 11, is found in park as police probe 'unexplained' death",
+    "description": "The girl, who has not been named, was reported missing at around 11.20pm on Sunday, October 4, and was later found deceased in Elmley Castle in Worcestershire at a park near the cricket ground.",
+    "url": "https://www.dailymail.com/news/article-16183297/Body-missing-girl-11-park-police-probe-unexplained-death.html",
+    "image": "https://i.dailymail.com/1s/2026/10/05/08/111651913-0-image-a-9_1791183942559.jpg",
+    "publishedAt": "2026-10-05T07:16:30Z",
+    "author": "Caitlin Leng"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sanju Samson might pip teenager Vaibhav Sooryavanshi as Asian Games champions take on West Indies",
+    "description": "India prepares to play against West Indies in the first T20 International match scheduled for Tuesday. Head coach Gautam Gambhir has tough selection choices, particularly between Sanju Samson and Vaibhav Sooryavanshi. The West Indies team, led by Shai Hope, b…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sanju-samson-might-pip-teenager-vaibhav-sooryavanshi-as-asian-games-champions-take-on-west-indies/articleshow/134689049.cms",
+    "image": "https://img.etimg.com/thumb/msid-134689226,width-1200,height-900,imgsize-176320,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-05T07:09:19Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Games 2026: 15-year-old Vaibhav Sooryavanshi was India's youngest medallist; do you know who was the oldest?",
+    "description": "India finished fourth at the 2026 Asian Games in Japan with 85 medals, including 21 golds. Fifteen-year-old Vaibhav Sooryavanshi became India’s youngest-ever gold medallist after winning cricket gold, while 50-year-old Mairaj Ahmad Khan became the country’s o…",
+    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-15-year-old-vaibhav-sooryavanshi-was-indias-youngest-medallist-do-you-know-who-was-the-oldest/articleshow/134688156.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134688438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T06:33:42Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I made him understand': Gautam Gambhir reveals what he told Vaibhav Sooryavanshi",
+    "description": "Vaibhav Sooryavanshi made history earlier this year when he became the youngest Indian to play international cricket. He made his T20I debut against England at the age of 15 years and 99 days, breaking Sachin Tendulkar’s long-standing record.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-made-him-understand-gautam-gambhir-reveals-what-he-told-vaibhav-sooryavanshi/articleshow/134688227.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134688352,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T06:30:56Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "West Indies name Amit Jangoo as replacement for injured Jewel Andrew",
+    "description": "The West Indies have added wicketkeeper-batter Amit Jangoo to their T20I squad against India as cover for injured Jewel Andrew. Andrew hurt his finger while taking a catch during the third ODI. Jangoo is in good form, scoring 239 runs in the ODI series, inclu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-name-amit-jangoo-as-replacement-for-injured-jewel-andrew/articleshow/134687312.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134687471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T05:50:06Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bizarre! Ali Khan's wide ball goes for six, batter gets only five runs - Watch",
+    "description": "A bizarre incident in the Canada's premier T10 cricket league semi-final saw Ali Khan’s wide bouncer clear the boundary, but Toronto Sixers received only five runs. Under MCC laws, a ball not hit by the bat counts as four, plus one for the wide. Toronto beat …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bizarre-ali-khans-wide-ball-goes-for-six-batter-gets-only-five-runs-watch/articleshow/134685254.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134686868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T05:22:37Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "CNA",
+    "title": "New Zealand's Bracewell shifts to casual contract, eyes BBL opportunity",
+    "description": "Oct 5 : New Zealand all-rounder Michael Bracewell will move to a casual contract for the 2026-27 season as he pursues an opportunity in Australia's Big Bash League, the country's cricket board (NZC) said on Monday.Bracewell, who has played 105 times for New Z…",
+    "url": "https://www.channelnewsasia.com/sport/new-zealands-bracewell-shifts-casual-contract-eyes-bbl-opportunity-6432371",
+    "image": "https://dam.mediacorp.sg/image/upload/s--Viq8Br5I--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T051907Z_1_LYNXMPEM940AV_RTROPTP_3_CRICKET-CHAMPIONSTROPHY-IND-NZL.JPG?itok=CSuwAfGL",
+    "publishedAt": "2026-10-05T05:19:07Z",
+    "author": null
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Hormuz Gridlock Risks Global Food Crisis, International Chamber of Commerce Chief Says",
+    "description": "Focus has been on the resulting rise in oil prices, but it is potential food shortages the world should be paying attention to, ICC secretary-general John Denton said.",
+    "url": "https://biztoc.com/x/10e854627f66bd69",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-05T05:13:10Z",
+    "author": "wsj.com"
+  },
+  {
+    "source": "USA Today",
+    "title": "Kyle Shanahan details knee injury for 10-time Pro Bowler",
+    "description": "The San Francisco 49ers may be without one of their offensive staples for a period of time, but it sounds like they avoided catastrophe.",
+    "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/10/04/49ers-injury-news-kyle-juszczyk-acl-intact-per-kyle-shanahan/92099175007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/e5c0b6f3a4341ec134b3ba6e4e70ba6b0dba162c9a836ddd37b48a59f5b7f656/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_49ers_wire_usa_today_sports_articles_952%2Feb5022a7b402f8518f776db8ce52ce4b.jpg",
+    "publishedAt": "2026-10-05T05:00:17Z",
+    "author": "Kyle Madson, Niners Wire"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies 1st T20I Live Streaming: When and where to watch, pitch report and weather condition",
+    "description": "The West Indies now turn their attention to the T20I leg of their India tour. The five-match series starts just days after the visitors pulled off a thrilling win in the final ODI, a result that will give them plenty of confidence. The series will be the firs…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/india-vs-west-indies-1st-t20i-live-streaming-when-and-where-to-watch-pitch-report-and-weather-condition/articleshow/134685416.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134685581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T04:15:15Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Hardik Pandya teams up with CarryMinati and MrBeast for epic recreation of their iconic World Cup celebration",
+    "description": "Hardik Pandya teamed up with top YouTubers MrBeast and CarryMinati for an epic recreation of his iconic T20 World Cup celebration. Watch the viral clip here.",
+    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-carryminati-mrbeast-recreate-world-cup-celebration/2d7869fb84979ae9013872ff",
+    "image": "https://s.yimg.com/lo/mysterio/api/fdac8bf70aa8487e6dcd03e30573231fde5be0aba5fefd8d6fc89555fefd0278/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F55d2ad197fef8d223278c15e197d813b",
+    "publishedAt": "2026-10-05T03:33:24Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
     "title": "'You can't just depend on Japrit Bumrah and Hardik Pandya': Ex-India cricketer urges veteran pacers' return ahead of 2027 World Cup",
     "description": "Former India batter Hanuma Vihari urged India to recall Bhuvneshwar Kumar and Mohammed Shami after the team failed to defend 351 against West Indies. He warned against relying too heavily on Jasprit Bumrah and Hardik Pandya, calling the bowling performance a …",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-just-depend-on-japrit-bumrah-and-hardik-pandya-ex-india-cricketer-urges-veteran-pacers-return-ahead-of-2027-world-cup/articleshow/134683764.cms",
@@ -34,60 +178,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134683407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-05T01:01:48Z",
     "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
-    "description": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
-    "url": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2026/10/04/42c01e15-c4ea-4b6d-8685-34cae0d0f595/thumbnail/1200x675/ddcea95193f56da6ff14abbe92013b3b/lamb.jpg",
-    "publishedAt": "2026-10-04T21:57:19Z",
-    "author": "Garrett Podell"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Back home in India, Ireland cricket star Simi Singh opens up on being just 30 minutes from death, how his wife gave her liver to save his life and what the future holds for him...",
-    "description": "The email announced that 39-year-old Simranjit Singh, who hasn't played for Ireland for almost four years, had decided to retire. There were warm tributes but it still made many wonder: why now?",
-    "url": "https://www.dailymail.com/sport/cricket/article-16178999/Ireland-cricket-star-30-minutes-death.html",
-    "image": "https://i.dailymail.com/1s/2026/10/04/19/111645503-0-image-m-17_1791140279470.jpg",
-    "publishedAt": "2026-10-04T21:30:30Z",
-    "author": "Ger Siggins"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Student arrested for killing grandfather with bat",
-    "description": "Indore: 20-year-old student arrested for allegedly killing her 75-year-old grandfather with a cricket bat; police probe motive and verify misconduct claims.",
-    "url": "https://timesofindia.indiatimes.com/city/indore/student-arrested-for-killing-grandfather-with-bat/articleshow/134679895.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-04T19:05:16Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "Sportsnaut",
-    "title": "Arizona Cardinals’ Pro Bowler Expected to Generate a Lot of Trade Interest",
-    "description": "The Arizona Cardinals have had a slow start to their season, and they’re not projected to get above .500 anytime […]",
-    "url": "https://sportsnaut.com/nfl/arizona-cardinals-josh-sweat-expected-to-generate-a-lot-of-trade-interest",
-    "image": "https://s.yimg.com/lo/mysterio/api/730d9e3bad6e51a784b24c349a5fc6af3acce1ddabc50a789d547c092fdee4d2/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F9813e0adf61f05da20614c7e016456d1.jpg",
-    "publishedAt": "2026-10-04T17:38:05Z",
-    "author": "Andrew Buller-Russ"
-  },
-  {
-    "source": "Livemint",
-    "title": "IPL mega auction or a masterclass in behavioural economics? Sunk cost fallacy, winner’s curse, FOMO and more | Explained",
-    "description": "The IPL mega auction highlights how emotions can cloud decision-making for franchise owners. These psychological traps mirror investors’ behaviours in stock markets, where past spending often skews current judgments.",
-    "url": "https://www.livemint.com/money/ipl-mega-auction-or-a-masterclass-in-behavioural-economics-sunk-cost-fallacy-winner-s-curse-fomo-and-more-explained-11791127759975.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Auction_Economics_1791127958640_EIsH_1791128012298_lRrM_fd0b8d4d-ce40-46fe-8374-f20e55687b48_vc3Y.jpg",
-    "publishedAt": "2026-10-04T15:49:47Z",
-    "author": "Sounak Mukhopadhyay"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'It’s about time': Wasim Jaffer backs left-haned batter as Virat Kohli's replacement at No.3 in ODIs",
-    "description": "Kohli has confirmed that the 2027 edition will be his last ODI World Cup for India, meaning the team will have to find a replacement at No. 3, a position he has held for many years.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/its-about-time-wasim-jaffer-backs-left-haned-batter-as-virat-kohlis-replacement-at-no-3-in-odis/articleshow/134676464.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134676464,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T14:36:46Z",
-    "author": "Shubhanshu Dwivedi"
   }
 ]
 ;
