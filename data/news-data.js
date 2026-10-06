@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'You can't just depend on Japrit Bumrah and Hardik Pandya': Ex-India cricketer urges veteran pacers' return ahead of 2027 World Cup",
+    "description": "Former India batter Hanuma Vihari urged India to recall Bhuvneshwar Kumar and Mohammed Shami after the team failed to defend 351 against West Indies. He warned against relying too heavily on Jasprit Bumrah and Hardik Pandya, calling the bowling performance a …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-just-depend-on-japrit-bumrah-and-hardik-pandya-ex-india-cricketer-urges-veteran-pacers-return-ahead-of-2027-world-cup/articleshow/134683764.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134684093,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T02:25:11Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "How India became dangerously addicted to Chinese imports",
+    "description": "Published\nTake a walk into an Indian toy shop and as well as picking up a new favourite plaything for a child, you might just get an insight into how the nation is battling for a batter economic relationship with its all-powerful neighbour China.\nSix years ag…",
+    "url": "https://biztoc.com/x/21e6e648fc94cf5d",
+    "image": "https://biztoc.com/cdn/21e6e648fc94cf5d_s.webp",
+    "publishedAt": "2026-10-05T01:58:13Z",
+    "author": "bbc.co.uk"
+  },
+  {
+    "source": "Dealnews.com",
+    "title": "Beautiful by Drew Barrymore 3-Quart Stoneware Batter Mixing Bowl for $10 + free shipping w/ $35",
+    "description": "Walmart offers the Beautiful by Drew Barrymore 3-Quart Stoneware Batter Mixing Bowl for $9.96.  That's a $6 savings.  Choose pickup or spend $35 to avoid the $6.99 shipping charge. Buy Now at Walmart\r\n Features\r\n <ul> <li>Safe for microwave, freezer, and dish…",
+    "url": "https://www.dealnews.com/Beautiful-by-Drew-Barrymore-3-Quart-Stoneware-Batter-Mixing-Bowl-for-10-free-shipping-w-35/22243121.html",
+    "image": "https://d.dlnws.com/64599/1791163869-product-trimmed.png?h=623&w=1024",
+    "publishedAt": "2026-10-05T01:31:16Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "England pacer with 500-plus wickets ends career, citing mental health",
+    "description": "English fast bowler Craig Miles has retired from professional cricket at 32 to prioritise his mental health. The Gloucestershire pacer, who last played in June, ends a 15-year career with more than 500 wickets. Miles said mounting pressure, self-doubt and hig…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-no-longer-have-the-capacity-england-pacer-retires-after-500-plus-wickets-citing-mental-health/articleshow/134683377.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134683407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-05T01:01:48Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
     "source": "CBS Sports",
     "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
     "description": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
@@ -51,24 +87,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/its-about-time-wasim-jaffer-backs-left-haned-batter-as-virat-kohlis-replacement-at-no-3-in-odis/articleshow/134676464.cms",
     "image": "https://static.toiimg.com/thumb/msid-134676464,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-04T14:36:46Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Will be a repeat of 2007': Ex-BCCI official warns India’s bowling attack could be ‘clobbered’ at 2027 ODI World Cup",
-    "description": "It's been 20 years since India's shocking exit in the 2007 World Cup, but one former BCCI official believes that the same outcome can repeat if India doesn't fix their bowling attack.",
-    "url": "https://www.cricketnews.com/en/cricket/news/makarand-waingankar-warns-india-bowling-clobbered-2027-odi-world-cup/98496485b7c5da3618638d02",
-    "image": "https://s.yimg.com/lo/mysterio/api/e198b058e0368f90fd05ecb9e7479f133ab9c526078a5ee2df08f23b864cd7f6/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe6aab28279690e394706814387968d06",
-    "publishedAt": "2026-10-04T13:13:04Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I want him to reach that mark’: Sunil Gavaskar’s special wish for Rohit Sharma before retirement",
-    "description": "Rohit scored 92 off 85 balls, with 10 fours and three sixes, in India’s third ODI against the West Indies. India lost the third ODI after the visitors successfully chased down 352, with captain Shai Hope scoring an unbeaten 162.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-him-to-reach-that-mark-sunil-gavaskars-special-wish-for-rohit-sharma-before-retirement/articleshow/134675193.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134675193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-04T12:44:40Z",
     "author": "Shubhanshu Dwivedi"
   }
 ]
