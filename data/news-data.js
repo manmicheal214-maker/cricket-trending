@@ -1,273 +1,219 @@
 window.cricketNews = [
   {
-    "source": "Livemint",
-    "title": "RPSG Group weighs 15-20% stake sale in IPL team Lucknow Super Giants",
-    "description": "RPSG is seeking a valuation of $1.5 billion to $2 billion for the Lucknow franchise, which it acquired for $800 million in November 2021.",
-    "url": "https://www.livemint.com/companies/rpsg-group-stake-sale-ipl-franchise-lucknow-super-giants-11791265884438.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/LSG_vs_RCB_1778178766266_1778178766461_1791279655640_Aqor_f168d5cc-8b1b-44b6-8d5a-8ee53a3c2e23_GJ4P.jpg",
-    "publishedAt": "2026-10-06T09:48:06Z",
-    "author": "Mansi Verma, Sneha Shah"
+    "source": "Yahoo Entertainment",
+    "title": "Iyer’s rapid hundred gives India an 8-wicket win over West Indies in first T20",
+    "description": "LUCKNOW, India (AP) — Shreyas Iyer led the way with 102 not out off 43 balls as India beat West Indies by eight wickets Tuesday in the first of the five Twenty20 internationals.The captain reached his maiden T20 hundred after 42 balls — tied for the sixth-fas…",
+    "url": "https://sports.yahoo.com/articles/iyer-rapid-hundred-gives-india-173602937.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/fffa6901f3862cdde6db6721fa6b4bdd66c53c52911b3f56509090be91d18e05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F358fc649a673f7422e0cc0ffbafb329e.jpg",
+    "publishedAt": "2026-10-06T17:36:02Z",
+    "author": "Associated Press"
   },
   {
     "source": "CNA",
-    "title": "Rabada in contention to play for South Africa in first test",
-    "description": "DURBAN, Oct 6 : South African pace bowler Kagiso Rabada is in contention to play in the first test against Australia, which starts on Friday, but a decision on his participation will be left until the last minute, batting coach Ashwell Prince said on Tuesday.…",
-    "url": "https://www.channelnewsasia.com/sport/rabada-in-contention-play-south-africa-in-first-test-6436026",
-    "image": "https://dam.mediacorp.sg/image/upload/s--xBbII94W--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-06T092709Z_1_LYNXMPEM950QU_RTROPTP_3_CRICKET-IPL-KKR-GT.JPG?itok=tXHGRGQy",
-    "publishedAt": "2026-10-06T09:27:09Z",
+    "title": "India beat West Indies by eight wickets in first T20",
+    "description": "Oct 6 : Captain Shreyas Iyer hit a century as India beat the West Indies by eight wickets in the first Twenty20 of their five-match series in Lucknow on Tuesday.Iyer led the chase with an unbeaten 102 off 43 deliveries, hitting 10 fours and six sixes, as Indi…",
+    "url": "https://www.channelnewsasia.com/sport/india-beat-west-indies-eight-wickets-in-first-t20-6437271",
+    "image": "https://dam.mediacorp.sg/image/upload/s--X_ODni0U--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-06T171946Z_1_LYNXMPEM951N5_RTROPTP_3_CRICKET-T20-ENG-IND.JPG?itok=N6Xvm5o-",
+    "publishedAt": "2026-10-06T17:19:46Z",
+    "author": null
+  },
+  {
+    "source": "Sporting News",
+    "title": "How to watch Abu Dhabi T10 Domestic Cup on DafaNews: Live stream, schedule for UAE cricket tournament",
+    "description": "Follow DafaNews sponsored Abu Dhabi T10 Domestic Cup 2026 from 1 to 14 October with the full schedule, results, points table, teams and live streaming detail...",
+    "url": "https://www.sportingnews.com/in/cricket/news/how-watch-abu-dhabi-t10-domestic-cup-live-stream-schedule-uae-cricket/5f55c6454824eac1b1b1b9b7",
+    "image": "https://s.yimg.com/lo/mysterio/api/6e854731b315f191a196e0880d814cacf22d89f516d14a4cec80f070c60f729b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5572702289c147f4221374e95512b0da",
+    "publishedAt": "2026-10-06T17:10:48Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana era begins: Shafali Verma, Deepti Sharma named India vice-captains",
+    "description": "Shafali Verma and Deepti Sharma have been appointed as vice-captains for the T20I and ODI teams. This leadership change follows Harmanpreet Kaur's resignation as captain, while she continues as a player. Smriti Mandhana has been appointed full-time captain an…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/smriti-mandhana-era-begins-shafali-verma-deepti-sharma-named-india-vice-captains/articleshow/134745934.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134746129,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T16:58:23Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana replaces Harmanpreet Kaur as India captain: ‘Very special honour’",
+    "description": "Smriti Mandhana has been appointed as the new captain of the Indian women's cricket team. She takes over the leadership role from Harmanpreet Kaur, who announced her resignation as captain. Mandhana has led India in several T20Is and ODIs prior to this appoin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/smriti-mandhana-replaces-harmanpreet-kaur-as-india-captain-very-special-honour/articleshow/134744766.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134744809,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T15:52:04Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana appointed Indian women's cricket team captain, succeeding Harmanpreet Kaur",
+    "description": "Smriti Mandhana has been appointed as the captain of the Indian Women’s Cricket Team for upcoming events. Her leadership experience includes guiding Royal Challengers Bengaluru to multiple Women's Premier League titles. Smriti joined the national team in 2013…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-appointed-indian-womens-cricket-team-captain-succeeding-harmanpreet-kaur/articleshow/134744631.cms",
+    "image": "https://img.etimg.com/thumb/msid-134744647,width-1200,height-900,imgsize-136672,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-06T15:44:33Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bhuvneshwar Kumar returns after four years as India name New Zealand T20I, India A squads; check complete list of players",
+    "description": "BCCI has announced India’s T20I and India A squads for the New Zealand tour, with veteran seamer Bhuvneshwar Kumar returning to the T20I side after four years. Shreyas Iyer will captain the T20Is, while Dhruv Jurel leads India A, featuring KL Rahul, Yashasvi …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bhuvneshwar-kumar-returns-after-four-years-as-india-name-new-zealand-t20i-india-a-squads-check-complete-list-of-players/articleshow/134744605.cms",
+    "image": "https://img.etimg.com/thumb/msid-134744769,width-1200,height-900,imgsize-184000,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-06T15:41:06Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Bhuvneshwar returns as India announces T20I and India A squads for New Zealand series",
+    "description": "In a surprising turn of events, Bhuvneshwar Kumar has been reinstated to the Indian T20I squad, as declared by the BCCI. Shreyas Iyer will take the helm as captain, supported by wicketkeepers Sanju Samson and Ishan Kishan. The India A team features rising sta…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bhuvneshwar-kumar-returns-as-india-announces-t20i-and-india-a-squads-for-new-zealand-series/articleshow/134744386.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134744401,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T15:30:43Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "BCCI seeks Ajit Agarkar replacement: Explaining how new selector can trump Pragyan Ojha for India Chief Selector role",
+    "description": "Here's how Ajit Agarkar's replacement from West Zone can trump Pragyan Ojha for the role of BCCI chief selector.",
+    "url": "https://www.cricketnews.com/en/cricket/news/bcci-ajit-agarkar-replacement-trump-pragyan-ojha-india-chief-selector-role/48ca9f4d54d1b7e49752e2f3",
+    "image": "https://s.yimg.com/lo/mysterio/api/172f0e82f6b5c1442151b9218e934c786ccc46da0b470ac4d949625d42a74481/lightyear_networkapi/resizefill_w756_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9f5aae9bea8dd6e814a1ed0c4c6c35e6",
+    "publishedAt": "2026-10-06T15:05:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "101 Great Goals",
+    "title": "Benin don’t plan to mark Lionel Messi as defender reveals they want to give Argentina star the perfect send-off",
+    "description": "There could be a cricket score in Buenos Aires tonight with Benin seemingly having no plan to spoil Lionel Messi's party",
+    "url": "https://www.101greatgoals.com/football/internationals/benin-lionel-messi-defender-argentina-star-perfect-send-off/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/05/How-Messi-Approaches-the-Copa-America-1-1.jpg",
+    "publishedAt": "2026-10-06T14:53:08Z",
+    "author": "Jon Fisher"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Special place in Indian cricket history’: BCCI hails Harmanpreet Kaur after stepping down as India captain",
+    "description": "Harmanpreet Kaur announced her decision to step down as captain of the Indian women's cricket team. Her tenure included leading India to their first Women's World Cup title in 2025. Kaur expressed her commitment to continue representing India as a player foll…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/special-place-in-indian-cricket-history-bcci-hails-harmanpreet-kaur-after-stepping-down-as-india-captain/articleshow/134743380.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134743457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T14:44:34Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "PRNewswire",
+    "title": "At-Home Laser Devices Are Selling Fast. Here's What They Can and Cannot Do",
+    "description": "GREAT NECK, N.Y., Oct. 6, 2026 /PRNewswire/ -- The market for at-home IPL and laser hair removal devices is projected to grow from $1.76 billion to $1.93 billion this year alone, according to 360iResearch. That's a 10.32% compound annual growth rate the firm …",
+    "url": "https://www.prnewswire.com/news-releases/at-home-laser-devices-are-selling-fast-heres-what-they-can-and-cannot-do-302899824.html",
+    "image": null,
+    "publishedAt": "2026-10-06T14:20:00Z",
     "author": null
   },
   {
     "source": "The Times of India",
-    "title": "JioStar taps IPL fandom that's moving beyond Hindi and English",
-    "description": "Kannada, Telugu and Tamil cricket feeds have shown significant growth during TATA IPL 2026. JioStar launched 'Beyond Boundaries' to enhance advertiser partnerships with regional-language programming. The Telugu feed experienced the highest digital watch time …",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/jiostar-opens-new-ad-route-beyond-boundaries-as-regional-language-ipl-feeds-see-rising-reach-and-watch-time/articleshow/134731872.cms",
-    "image": "https://img.etimg.com/thumb/msid-134732532,width-1200,height-900,imgsize-44122,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T09:22:29Z",
+    "title": "BCCI invites application for one position in men's selection committee after Ajit Agarkar's exit",
+    "description": "The Board of Control for Cricket in India has opened applications for a position on the Men's Selection Committee. Interested candidates must have played a minimum number of matches and retired at least five years ago. The committee will be responsible for se…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-invites-application-for-one-position-in-mens-selection-committee-after-ajit-agarkars-exit/articleshow/134742213.cms",
+    "image": "https://img.etimg.com/thumb/msid-134742268,width-1200,height-900,imgsize-47260,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-06T13:40:36Z",
     "author": "ET Online"
   },
   {
-    "source": "Cricketnews.com",
-    "title": "Indian head coaches in IPL: Every Indian coach in Indian Premier League history listed",
-    "description": "Here's a look at every Indian head coachb IPL history along with mentor figures",
-    "url": "https://www.cricketnews.com/en/cricket/news/indian-head-coaches-ipl-every-indian-coach-indian-premier-league-history-listed/3b09f393c8c878cc95628ed4",
-    "image": "https://s.yimg.com/lo/mysterio/api/6649f09185bfea7c3fb32c514932d16324ef62271ee77706c6cc3922d1a935cb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3ba9e9979114cb8f38180163e2d0c3d4",
-    "publishedAt": "2026-10-06T09:20:50Z",
+    "source": "Business Standard",
+    "title": "IND vs WI 1st T20I live streaming: Where to watch today's cricket match?",
+    "description": "India vs West Indies 1st T20I begins at 7 pm IST on Tuesday, with the toss at 6:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
+    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-1st-t20i-live-streaming-where-to-watch-today-s-cricket-match-126100500617_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/featurecrop/1200X628/1791193672-3404.jpg",
+    "publishedAt": "2026-10-06T13:34:30Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs Pakistan clash fuels ODI World Cup 2027 ticket frenzy as demand crosses 1.1 million",
+    "description": "More than 1.1 million ticket applications have been submitted for the upcoming 2027 ODI World Cup. The interest is particularly high for the India-Pakistan match, which has attracted over 110,000 applications. Other key fixtures involving India, including mat…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-clash-fuels-odi-world-cup-2027-ticket-frenzy-as-demand-crosses-1-1-million/articleshow/134741885.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134742027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T13:28:34Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Farbrace leaves Sussex to join Lancashire",
+    "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cjdx3ylzg3yyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-10-06T13:16:23Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Farbrace leaves Sussex to join Lancashire",
+    "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+    "publishedAt": "2026-10-06T13:16:19Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "BBC News",
+    "title": "Teenager Hope-Bell earns new Glamorgan contract",
+    "description": "Teenage Glamorgan batter Jack Hope-Bell will remain on a rookie deal in 2027 before graduating to a senior contract for 2028.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmd93n7534xno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/7027ad6a511382a1b61f9179236a613fef804e97b1b284369530c7d6ab18c7bd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffc39bbb8e9aba080a2b2440600b6a103.jpg",
+    "publishedAt": "2026-10-06T13:07:38Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. West Indies live win probability, score, chances of victory for 1st T20I in Lucknow",
+    "description": "With the West Indies looking for revenge for the ODI series loss against India, here's the live updates, highlights and scorecard for the 1st T20I in Lucknow...",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-west-indies-live-win-probability-score-chances-victory-1st-t20i-lucknow/7ce9bbdf2a2014596542cd7b",
+    "image": "https://s.yimg.com/lo/mysterio/api/fd55491477d957b0cdee6562ecd0be0605e36c3e5dcead5e279042bf47b519c2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F87d736a1f4ab9c42a62f0a790f98eb69",
+    "publishedAt": "2026-10-06T12:33:24Z",
     "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Sourav Ganguly returns to Delhi Capitals as head coach for IPL 2027",
-    "description": "Sourav Ganguly first joined Delhi Capitals in 2019 as an Advisor. Since then, he has held several roles within the franchise, including Director of Cricket for both the men’s and women’s teams. The 54-year-old was also the head coach of Pretoria Capitals, Del…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/sourav-ganguly-returns-to-delhi-capitals-as-head-coach-for-ipl-2027/articleshow/134730234.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134730495,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T08:48:42Z",
-    "author": "Amit Kumar"
+    "title": "As Harmanpreet Kaur steps down, her Punjab village remembers the girl who played cricket with boys",
+    "description": "In an emotional announcement, Harmanpreet Kaur declared her resignation as the captain of the Indian Women's Cricket Team, reflecting on the cherished memories forged during her tenure. Her passion for the sport remains unwavering as she looks to contribute f…",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/as-harmanpreet-kaur-steps-down-her-punjab-village-remembers-the-girl-who-played-cricket-with-boys/articleshow/134740484.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134740623,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T12:28:43Z",
+    "author": "Neel Kamal"
   },
   {
     "source": "The Times of India",
-    "title": "‘We’re not trying to be any other league’: SA20 COO Lynn Naudé on the league’s rapid rise",
-    "description": "SA20 has rapidly established itself as one of the leading T20 leagues in the world. In an exclusive interview, SA20 COO Lynn Naudé discusses the league’s South African identity, full-stadium success, commitment to local talent, attracting global stars and how…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/were-not-trying-to-be-any-other-league-sa20-coo-lynn-naud-on-the-leagues-rapid-rise/articleshow/134729290.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134729478,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T08:33:44Z",
-    "author": "Pratyush Raj"
+    "title": "'You gave Indian cricket everything': Yuvraj, Shafali, Dhawan pay tribute after Harmanpreet Kaur steps down as captain",
+    "description": "In a heartfelt announcement, Harmanpreet Kaur has declared her resignation as captain of the Indian women's cricket team. Under her guidance, India achieved remarkable feats, including winning a World Cup and securing an Asian Games gold medal. Tributes from …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-gave-indian-cricket-everything-yuvraj-shafali-dhawan-pay-tribute-after-harmanpreet-kaur-steps-down-as-captain/articleshow/134740348.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134740564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T12:27:55Z",
+    "author": "Nitesh Dubey"
   },
   {
-    "source": "Al Jazeera English",
-    "title": "Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns",
-    "description": "Salman Agha axed before T20 home series against Sri Lanka, but Shaheen Shah Afridi is retained as ODI captain.",
-    "url": "https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac48629c12d-1791264297.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-06T08:30:26Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Who is the vice-captain?': Basit Ali questions Pakistan cricket selector Aaqib Javed",
-    "description": "Pakistan have made several changes to their white-ball teams, but there is still no clarity over who will be the vice-captain in the T20I and ODI sides. Former Pakistan batter Basit Ali has now raised the issue publicly, questioning Pakistan Cricket Board (PC…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-is-the-vice-captain-basit-ali-questions-pakistan-cricket-selector-aaqib-javed/articleshow/134728523.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134729049,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T08:21:04Z",
-    "author": "Amit Kumar"
+    "source": "BusinessLine",
+    "title": "Jeffrey Archer — mightier than the sword",
+    "description": "Archer was a self-confessed Indiophile, greatly charmed by Bollywood, cricket, especially Sehwag and Sachin Tendulkar, and Indian authors such as RK Narayan. His personal life resembled the arc of some of his characters: a steady rise to the top and a sudden …",
+    "url": "https://www.thehindubusinessline.com/opinion/jeffrey-archer-mightier-than-the-sword/article71551398.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/tgvwqz/article71551403.ece/alternates/LANDSCAPE_1200/2026-10-05T204907Z_1023177575_RC28XNAK54YM_RTRMADP_3_PEOPLE-JEFFREY-ARCHER.JPG",
+    "publishedAt": "2026-10-06T12:10:22Z",
+    "author": "N S Vageesh"
   },
   {
     "source": "The Times of India",
-    "title": "Time for Dadagiri! Sourav Ganguly becomes head coach of Delhi Capitals",
-    "description": "Sourav Ganguly has been appointed as the head coach of Delhi Capitals for the upcoming IPL 2027 season. He replaces Hemang Badani, who was the head coach for the previous two seasons. Ganguly has previously served as both an advisor and Director of Cricket fo…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sourav-ganguly-former-indian-cricket-captain-becomes-head-coach-of-delhi-capitals-for-ipl-indian-premier-league-says-time-for-dadagiri/articleshow/134728102.cms",
-    "image": "https://img.etimg.com/thumb/msid-134728208,width-1200,height-900,imgsize-49408,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T08:02:33Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
-    "description": "Kaur, 37, is the only man or woman to captain her side in international cricket in more than 150 T20I games.",
-    "url": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac49ebe7b518-1791270590.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-06T07:49:48Z",
-    "author": "Anushe Engineer"
+    "title": "Security tightened at JSCA stadium ahead of India-West Indies T20",
+    "description": "Security tightened at Ranchi’s JSCA Stadium for India vs West Indies 2nd T20I with barbed-wire barricades, 150 CCTV cameras, and enhanced police deployment.",
+    "url": "https://timesofindia.indiatimes.com/city/ranchi/security-tightened-at-jsca-stadium-ahead-of-india-west-indies-t20/articleshow/134739870.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134739863,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-06T12:00:25Z",
+    "author": "Dhrubajyoti Malakar"
   },
   {
     "source": "The Times of India",
-    "title": "Abhishek Sharma, Shubhman Gill shortlisted for ICC Men’s Player of the Month for September",
-    "description": "Three players, Abhishek Sharma, Shubman Gill, and Sikandar Raza, have been shortlisted by ICC for the Player of the Month award. Abhishek Sharma excelled in the T20I series against Afghanistan with his exceptional performances. He notably set a record for the…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/abhishek-sharma-shubhman-gill-shortlisted-for-icc-mens-player-of-the-month-for-september/articleshow/134726482.cms",
-    "image": "https://img.etimg.com/thumb/msid-134727677,width-1200,height-900,imgsize-133004,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T07:48:31Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "BBC News",
-    "title": "India's Harmanpreet steps down as captain",
-    "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats of international cricket.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cx30epm27g71o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/42588215610ee014f719d8f58f793c4fae185a2b707661e8f623113569aa654d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faee051e29594e532ee8b6d052ed9cae1.jpg",
-    "publishedAt": "2026-10-06T07:26:59Z",
-    "author": "Mike Peter - BBC Sport journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "India's Harmanpreet steps down as captain",
-    "description": "India batter Harmanpreet Kaur leaves her role as national team captain across all three formats of international cricket.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cx30epm27g71o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90cc/live/9b4446c0-c155-11f1-ae7b-cfc528a6c828.jpg",
-    "publishedAt": "2026-10-06T07:26:54Z",
-    "author": "Mike Peter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur lives in a Rs 1.5 crore family home in her Punjab hometown Moga which has spacious rooms, open outdoor spaces for family gatherings and modern interiors",
-    "description": "Harmanpreet Kaur home: Harmanpreet Kaur, who recently stepped down as captain of the Indian women's cricket team, owns a family home in her hometown Moga in Punjab. Media reports estimate the house to be worth up to Rs 1.5 crore. The home has spacious rooms, …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/harmanpreet-kaur-lives-in-a-rs-1-5-crore-family-home-in-her-punjab-hometown-moga-which-has-spacious-rooms-open-outdoor-spaces-for-family-gatherings-and-modern-interiors/articleshow/134725954.cms",
-    "image": "https://img.etimg.com/thumb/msid-134726500,width-1200,height-900,imgsize-133276,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T07:10:33Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Captaincy ends': Harmanpreet Kaur’s top five achievements as India captain",
-    "description": "Harmanpreet Kaur has stepped down as India’s all-format captain after a landmark leadership stint. Her tenure featured India’s maiden ODI World Cup title in 2025, a record number of T20I wins as captain, four Asia Cup triumphs, the milestone of captaining 150…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captaincy-ends-harmanpreet-kaurs-top-five-achievements-as-india-captain/articleshow/134725183.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134725471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T07:08:51Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur: The records, milestones and achievements that define her India career",
-    "description": "Harmanpreet Kaur has stepped down as captain of the Indian women's cricket team after a remarkable tenure. She is celebrated for numerous achievements including India's first senior women's World Cup title in 2025. Harmanpreet was the first Indian cricketer t…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/harmanpreet-kaur-the-records-milestones-and-achievements-that-define-her-india-career/articleshow/134724427.cms",
-    "image": "https://img.etimg.com/thumb/msid-134725354,width-1200,height-900,imgsize-107958,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T06:21:13Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "As Harmanpreet Kaur steps down, four names emerge in India women’s cricket captaincy race",
-    "description": "Smriti Mandhana appears the frontrunner after years as Harmanpreet’s deputy, but Deepti Sharma’s all-round leadership, Jemimah Rodrigues’ rise and Richa Ghosh’s leadership potential give India several options for the next phase.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/harmanpreet-kaur-steps-down-who-will-lead-indias-womens-cricket-team-next-smriti-mandhana-deepti-sharma-jemimah-rodriguez-richa-ghosh/articleshow/134725071.cms",
-    "image": "https://img.etimg.com/thumb/msid-134725258,width-1200,height-900,imgsize-220208,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T06:15:47Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Harmanpreet Kaur steps down as India women's team captain: Smriti Mandhana set to take over",
-    "description": "Harmanpreet Kaur has stepped down as India captain after a long stint at the helm of India women's team across formats. She leaves after overseeing a highly successful period in Indian women's cricket.",
-    "url": "https://www.cricketnews.com/en/cricket/news/harmanpreet-kaur-steps-down-india-womens-team-captain-smriti-mandhana-set-take-over/fd7036456cd89a5d5bca9f80",
-    "image": "https://s.yimg.com/lo/mysterio/api/c74fc2d18868fc1b54294c8854d6e423ce390e58660f0c9e1608e7bc3b5e61cc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa04f9a5352e723e7dbe49383323f0a1e",
-    "publishedAt": "2026-10-06T06:03:50Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur steps down as India captain: Read full statement",
-    "description": "India women’s ODI World Cup-winning captain Harmanpreet Kaur has stepped down from captaincy in all three formats. Kaur had been India’s full-time T20I captain since 2018 and took charge of the ODI team in 2022, succeeding legendary batter Mithali Raj.",
-    "url": "https://timesofindia.indiatimes.com/news/harmanpreet-kaur-steps-down-as-india-captain-read-full-statement/articleshow/134724697.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134724851,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T05:59:39Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Business Standard",
-    "title": "End of Era! Harmanpreet Kaur steps down from India women's team captaincy",
-    "description": "Indian women's cricket team's long-serving captain Harmanpreet Kaur on Tuesday stepped down from her position in all three formats, saying that she has done her duty as leader and is now \"ready to play for the love of the game again.\"\nHarmanpreet's announceme…",
-    "url": "https://www.business-standard.com/cricket/news/end-of-era-harmanpreet-kaur-steps-down-from-india-women-s-team-captaincy-126100600286_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/07/thumb/fitandfill/1200X628/1767781714-4711.jpg",
-    "publishedAt": "2026-10-06T05:43:39Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur steps down as India women's cricket team captain after World Cup, Asian Games glory",
-    "description": "Harmanpreet Kaur has announced her decision to resign as captain of the India women's cricket team. This decision ends her significant tenure leading the team in various major tournaments. She expressed the emotional weight of stepping down, as it involves nu…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/harmanpreet-kaur-steps-down-as-india-womens-cricket-team-captain-after-world-cup-asian-games-glory/articleshow/134724155.cms",
-    "image": "https://img.etimg.com/thumb/msid-134724169,width-1200,height-900,imgsize-182668,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T05:30:11Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India vs West Indies 1st T20I: Playing 11, live toss time (IST), streaming",
-    "description": "India will look to continue their momentum in T20I cricket as they face West Indies in the first T20I at Ekana Stadium in Lucknow",
-    "url": "https://www.business-standard.com/cricket/news/india-vs-west-indies-1st-t20i-playing-11-live-toss-time-ist-streaming-126100500567_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/resize/1200X628/1791193113-7569.jpg",
-    "publishedAt": "2026-10-06T05:18:56Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "RCA elections face reset? HC hearing PILs tomorrow, fresh polls remain possible",
-    "description": "In the wake of the recent elections, the Rajasthan Cricket Association finds itself mired in political chaos and uncertainty. With the Supreme Court stepping in to suspend the release of election results, disputes linger unresolved. Legal challenges are mount…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rca-elections-face-reset-hc-hearing-pils-tomorrow-fresh-polls-remain-possible/articleshow/134723564.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134723609,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T05:02:24Z",
-    "author": "Mandakini Shalya"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hardik Pandya's famous World Cup celebration returns, this time with MrBeast and CarryMinati",
-    "description": "Hardik Pandya recently joined MrBeast and CarryMinati to recreate his iconic shrug celebration from the T20 World Cup. MrBeast visited India and shared his experiences, including photos with several celebrities. Pandya expressed his desire for MrBeast to retu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandyas-famous-world-cup-celebration-returns-this-time-with-mrbeast-and-carryminati/articleshow/134723210.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134723291,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T04:46:20Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Pakistan's vice-captain for Sri Lanka ODIs and T20Is: Basit Ali questions Aaqib Javed over lack of clarity",
-    "description": "Pakistan's vice-captaincy remains unclear ahead of the Sri Lanka series, prompting former cricketer Basit Ali to question the PCB's decision-making.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistans-vice-captain-sri-lanka-odis-and-t20is-basit-ali-questions-aaqib-javed-over-lack-clarity/9704aebd8128387d7bff5ab1",
-    "image": "https://s.yimg.com/lo/mysterio/api/316102369824658334aff3a76df97cba2af141f13cde18f486d1180fa416cce0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc5a86d23e9f16b34f65e72cae54adeeb",
-    "publishedAt": "2026-10-06T04:33:50Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sahibzada Farhan replaces Agha as Pakistan T20 captain for home series against Sri Lanka",
-    "description": "Pakistan has appointed Sahibzada Farhan as the new T20 captain succeeding Salman Ali Agha. The team is preparing for a series against Sri Lanka set to take place this week. Notable recalls include Hasan Nawaz and Naseem Shah, who return to the lineup after re…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sahibzada-farhan-replaces-agha-as-pakistan-t20-captain-for-home-series-against-sri-lanka/articleshow/134722722.cms",
-    "image": "https://img.etimg.com/thumb/msid-134722790,width-1200,height-900,imgsize-118210,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T04:17:36Z",
-    "author": "AP"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch India vs. West Indies free live stream, TV channel, start time for 1st T20 match",
-    "description": "Here's everything you need to know about India vs. West Indies, including TV channel and streaming options for the T20 matchup.",
-    "url": "https://www.sportingnews.com/us/cricket/news/watch-india-vs-west-indies-live-stream-tv-channel-start-time-t20/53a35feea886be73ecf95f4b",
-    "image": "https://s.yimg.com/lo/mysterio/api/a9e8eabb627625b4b87f05e95d1908337a765c6774b5b7c94a4bc57dabb5fe68/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F292598c7a5e1542169c25391685fe80b",
-    "publishedAt": "2026-10-06T04:00:01Z",
-    "author": "Dan Gibbs"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Suryakumar Yadav left out of Mumbai Ranji Trophy squad despite availability: 'He needs more red-ball cricket'",
-    "description": "The 36-year-old Suryakumar Yadav didn't feature in any of pre-season tournaments for Mumbai, the local Kanga League, and didn't take part in the in Mumbai's intra-squad matches at the Brabourne Stadium and the MCA's ground in BKC recently.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/suryakumar-yadav-left-out-of-mumbai-ranji-squad-despite-availability-he-needs-more-red-ball-cricket/articleshow/134722353.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134722400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T03:54:48Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Women's stars call on Cricket Australia to fix scheduling",
-    "description": "Concerns are growing about the lack of women's cricket in school-friendly slots over summer, amid warnings the schedule will hurt the game's growth among girls.",
-    "url": "https://www.abc.net.au/news/2026-10-06/womens-stars-call-on-cricket-australia-to-fix-scheduling/107233598",
-    "image": "https://live-production.wcms.abc-cdn.net.au/90e5f60a63769537eac1dd4fb9eebaea?impolicy=wcms_watermark_news&cropH=2323&cropW=4130&xPos=0&yPos=164&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-06T03:32:27Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vaibhav Sooryavanshi or Sanju Samson? India face selection dilemma ahead of first T20I against West Indies",
-    "description": "In one corner stands teen prodigy Vaibhav Sooryavanshi, whose fearless strokeplay has set pulses racing across the circuit. In the other is Sanju Samson, the seasoned campaigner whose heroics in India’s 2026 T20 World Cup triumph remains etched in cricketing …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/vaibhav-sooryavanshi-or-sanju-samson-india-face-selection-dilemma-ahead-of-first-t20i-against-west-indies/articleshow/134721744.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134721868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T03:11:02Z",
-    "author": "Fazal Khan"
+    "title": "India vs West Indies Live Streaming: When and where to watch 1st T20I online, match timing, telecast and full squads",
+    "description": "IND vs WI Live Streaming: The highly anticipated five-match T20I series between India and West Indies kicks off on October 6 at 7:00 PM IST. Fans can expect an exhilarating start at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow. …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-west-indies-1st-t20i-live-streaming-where-to-watch-ind-vs-wi-tv-channel-online-telecast-match-time-west-indies-tour-of-india-2026/articleshow/134738704.cms",
+    "image": "https://img.etimg.com/thumb/msid-134738870,width-1200,height-900,imgsize-127504,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-06T11:31:30Z",
+    "author": "Trending Desk"
   }
 ]
 ;
