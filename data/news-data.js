@@ -1,246 +1,120 @@
 window.cricketNews = [
   {
-    "source": "The Times of India",
-    "title": "'What's the procedure?' Ravindra Jadeja asks BCCI about selector vacancy after Agarkar’s exit",
-    "description": "India all-rounder Ravindra Jadeja made a rare appearance on X on Wednesday evening, hours after the BCCI confirmed that Ajit Agarkar's tenure as the",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/whats-the-procedure-ravindra-jadeja-asks-bcci-about-selector-vacancy-after-agarkars-exit/articleshow/134771355.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134771829,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T17:37:48Z",
-    "author": "Shubhanshu Dwivedi"
+    "source": "Yahoo Entertainment",
+    "title": "South Africa trust someone to step up if Rabada can't face Australia in 1st test",
+    "description": "DURBAN, South Africa (AP) — South Africa would of course love Kagiso Rabada to be slinging thunderbolts at the Australians at Kingsmead on Friday, the first day of a much anticipated test cricket series.Because of a hamstring injury, South Africa's premier fa…",
+    "url": "https://sports.yahoo.com/articles/south-africa-trust-someone-step-213955832.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/ebdae3edb73979dfb89467b1406640af8175308d76721098fa52dfb2b317523d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbda688bf01ad7015962e944dcee2ba44.jpg",
+    "publishedAt": "2026-10-07T21:39:55Z",
+    "author": "Associated Press"
   },
   {
-    "source": "The Times of India",
-    "title": "‘Nobody can stop Bumrah and Bhuvneshwar’: Ashwin’s bold prediction as pacer makes India return after four years",
-    "description": "Ravichandran Ashwin asserts that Bhuvneshwar Kumar’s display in New Zealand might have a significant impact on his chances for World Cup selection. Having last participated in an ODI in 2022, Bhuvneshwar is set to make his return to international cricket. His…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nobody-can-stop-bumrah-and-bhuvneshwar-ashwins-bold-prediction-as-pacer-makes-india-return-after-four-years/articleshow/134771489.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134771686,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T17:25:18Z",
-    "author": "Hijam Raju Singh"
+    "source": "Al Jazeera English",
+    "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+    "description": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title.",
+    "url": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-07-13T123731Z_1793825986_UP1EM7D0Z2IQU_RTRMADP_3_CRICKET-ENG-IND-1-1791352032.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-07T21:08:59Z",
+    "author": "Annesha Ghosh"
   },
   {
-    "source": "USA Today",
-    "title": "Eagles trade two-time Pro Bowler Cam Jurgens to Ravens in latest line shake-up",
-    "description": "The Eagles are further shaking up their offensive line by trading two-time Pro Bowl center Cam Jurgens to the Ravens.",
-    "url": "https://www.usatoday.com/story/sports/nfl/eagles/2026/10/07/cam-jurgens-trade-ravens-eagles/92137559007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/9a5cb3cf0874dc40e6ec876c51808a072b80aa1d66ff03121b14d18730fb13e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fc605d82b0f05bad1f462944db865379e.jpg",
-    "publishedAt": "2026-10-07T17:10:41Z",
-    "author": "Michael Middlehurst-Schwartz, USA TODAY"
+    "source": "Realtor.com News",
+    "title": "Odell Beckham Jr. Joins Vikings After Giants Release—Weeks After Admitting He ‘Never Wanted To Leave’ New York",
+    "description": "Beckham’s move to Minnesota comes just over a week after New York parted ways with the three-time Pro Bowler.",
+    "url": "https://www.realtor.com/news/sports/odell-beckham-jr-signs-with-vikings-released-ny-giants/?cid=psc_yahoo_syndication_sports_odell-beckham-jr-signs-with-vikings-released-ny-giants",
+    "image": "https://s.yimg.com/lo/mysterio/api/7dafd230b9da9032383af88c5a1fb1c770d98581d43be5d754f85eb3df121403/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2Ffe94d4f9ddfc6d12f6f729d99af7b6ec.jpg",
+    "publishedAt": "2026-10-07T20:51:07Z",
+    "author": "Kelsi Karruli"
   },
   {
-    "source": "Detroit Sports Nation",
-    "title": "Eagles and Ravens Pull Off Trade Involving 2-Time Pro Bowler",
-    "description": "The Eagles are trading two-time Pro Bowl center Cam Jurgens to the Ravens in a deal involving three draft picks.",
-    "url": "https://detroitsportsnation.com/eagles-trade-cam-jurgens-ravens/richardknight/nfl/10/07/2026/498240/",
-    "image": "https://s.yimg.com/lo/mysterio/api/b15a82602e96fdde461e7f7cb6592f49563bacd65de974c936ae8f1e4de7d8b2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_sports_nation_articles_492%2F0450dc8a46b426001f6c395922ffade8.jpg",
-    "publishedAt": "2026-10-07T17:07:17Z",
-    "author": "Richard Knight"
-  },
-  {
-    "source": "Bleeding Green Nation",
-    "title": "Cam Jurgens trade: Eagles send center to Ravens for draft picks",
-    "description": "The Eagles are moving on from their two-time Pro Bowler.",
-    "url": "https://www.bleedinggreennation.com/news/185897/cam-jurgens-trade-eagles-send-center-to-ravens-for-draft-picks",
-    "image": "https://s.yimg.com/lo/mysterio/api/32c02558b1438ba358f92cd5bb0b62992968f70674b626c7074053376c7e487c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fa8beadefd698ad0ad4fab670a5c67d3a.jpg",
-    "publishedAt": "2026-10-07T17:04:32Z",
-    "author": "Brandon Lee Gowton"
-  },
-  {
-    "source": "NBCSports.com",
-    "title": "Eagles trade Cam Jurgens to Ravens",
-    "description": "Baltimore has acquired the two-time Pro Bowler to help solve its injury issues along the offensive line.",
-    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-trade-cam-jurgens-to-ravens",
-    "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f76c2f/2147483647/strip/true/crop/5504x3096+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F47%2Fb8a460d64d5281424b1737aa922d%2F2298312842.jpg",
-    "publishedAt": "2026-10-07T17:04:26Z",
-    "author": "Myles Simmons"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Out on bail after rape allegation, Porel named in Bengal squad for Ranji opener",
-    "description": "Wicketkeeper-batter Abhishek Porel has been included in Bengal's squad for their upcoming Ranji Trophy match. He was previously arrested on allegations of rape but has since been granted bail. The team has named a strong squad with senior pacers Mohammed Sham…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/out-on-bail-after-rape-allegation-abhishek-porel-named-in-bengal-squad-for-ranji-trophy-opener-against-delhi/articleshow/134770593.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134770637,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T16:47:34Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Did the punishment fit the crime? Maybe not’: Jason Gillespie criticises how Cricket Australia handled Steve Smith after Sandpapergate",
-    "description": "With the Australian tour of South Africa right around the corner, former Aussie legend Jason Gillespie criticized how Cricket Australia treated then skipper Steve Smith.",
-    "url": "https://www.cricketnews.com/en/cricket/news/did-crime-jason-gillespie-australia-handled-steve-smith-sandpapergate/b4cfe2f63947899422b9776d",
-    "image": "https://s.yimg.com/lo/mysterio/api/34c6f1489e6fa34cdd4d6b2b1a7d7e409fdc685e5951f4e742dfc832833ed5f8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F033555e2ab0bf713e52b229949654c7e",
-    "publishedAt": "2026-10-07T16:32:42Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ranji Trophy: Vishnu Vinod ready to leave his imprint as Kerala captain",
-    "description": "The 32-year-old batter from Pathanamthitta, who also keeps wickets, takes charge of the Kerala team ahead of the Ranji Trophy opener against Jharkhand in Jamshedpur on October 11.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-vishnu-vinod-ready-to-leave-his-imprint-as-kerala-captain/articleshow/134769727.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134769784,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T16:02:24Z",
-    "author": "Vishal Menon"
-  },
-  {
-    "source": "BBC News",
-    "title": "Durham bowler Ghafari extends contract",
-    "description": "Durham leg-spin bowler Shafiqullah Ghafari signs a one-year contract with the club.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmewexlnlekxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24b8/live/a8fade00-c263-11f1-a202-b3a903690ffe.jpg",
-    "publishedAt": "2026-10-07T15:51:55Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Satisfied with my runs': Pakistan batter opens up on Asian Games final loss to India",
-    "description": "Pakistan batter Hasan Nawaz said on Wednesday that he is still hurt by the team’s loss to India in the Asian Games gold medal match and believes “small",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/satisfied-with-my-runs-pakistan-batter-opens-up-on-asian-games-final-loss-to-india/articleshow/134768310.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134769606,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T15:38:40Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "TechRadar",
-    "title": "Ninja's vertical waffle maker just landed in the UK — and I can't wait to try it",
-    "description": "Pour in your batter, pick your preferred level of crispiness, and the Ninja Belgian Waffle Maker will handle the rest.",
-    "url": "https://www.techradar.com/home/small-appliances/ive-seen-vertical-waffle-irons-before-but-ninjas-new-mess-free-design-is-the-first-to-make-authentic-square-belgian-waffles",
-    "image": "https://cdn.mos.cms.futurecdn.net/sgY9VwzooxfSFNDBd7ojSo-2560-80.jpg",
-    "publishedAt": "2026-10-07T15:19:44Z",
-    "author": "catherine.ellis@futurenet.com (Cat Ellis) , Cat Ellis"
-  },
-  {
-    "source": "Fox Sports",
-    "title": "Vikings Sign 3-Time Pro Bowler Amid Justin Jefferson Ankle Injury",
-    "description": "The Minnesota Vikings have signed veteran wide receiver Odell Beckham Jr. to their practice squad.",
-    "url": "https://www.foxsports.com/stories/nfl/vikings-sign-odell-beckham-jr-justin-jefferson-injury-update",
-    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/odell2.jpg?ve=1&tl=1",
-    "publishedAt": "2026-10-07T15:03:43Z",
+    "source": "ABC News (AU)",
+    "title": "CA 'actively' looking at women's schedule as Aussie stars raise concerns",
+    "description": "Frustrated players speak with Cricket Australia over the lack of elite women's matches at home in the peak of summer.",
+    "url": "https://www.abc.net.au/news/2026-10-08/cricket-australia-women-schedule-beth-mooney-todd-greenberg/107241362",
+    "image": "https://live-production.wcms.abc-cdn.net.au/9078155830ff7e10c29035392dd4095e?impolicy=wcms_watermark_news&cropH=2323&cropW=4130&xPos=316&yPos=49&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-07T20:14:02Z",
     "author": null
   },
   {
     "source": "The Times of India",
-    "title": "'Commitment, conviction and contribution': BCCI hails Ajit Agarkar after end of tenure as chief selector",
-    "description": "Agarkar's tenure ended on October 4. The former India pacer had informed the Indian cricket board after its Annual General Meeting on September 18 that he would not seek an extension to his contract.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/commitment-conviction-and-contribution-bcci-hails-ajit-agarkar-after-end-of-tenure-as-chief-selector/articleshow/134767817.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134768009,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T14:04:54Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "BBC News",
-    "title": "My weight rose to 20 stone after I retired - Ashley Giles",
-    "description": "Former England cricketer Ashley Giles tells the BBC about his battle with obesity since giving up playing top-level sport.",
-    "url": "https://www.bbc.com/news/articles/cvp8gexrk39jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/dd058e5731e2d52789db7cff9bb554d724443d3d83e8c948bd2f21bd40cc466d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F581daec0e7b37374a579ba86e4fe3e55.jpg",
-    "publishedAt": "2026-10-07T13:56:34Z",
-    "author": "Hugh Pym - Health editor"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-England spinner Ashley Giles on obesity struggles",
-    "description": "Former England cricketer Ashley Giles tells the BBC about his battle with obesity since giving up playing top-level sport.",
-    "url": "https://www.bbc.com/news/articles/cvp8gexrk39jo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b166/live/cc580390-c0c0-11f1-babe-4199b0e7ccea.jpg",
-    "publishedAt": "2026-10-07T13:47:14Z",
-    "author": "Hugh Pym"
+    "title": "‘Didn’t get to bowl in IPL due to Impact Player rule’",
+    "description": "Naman Dhir says IPL’s Impact Player rule limited his bowling chances, but his off-spin impressed vs West Indies with 3/31; he hopes to contribute with the bat too.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/didnt-get-to-bowl-in-ipl-due-to-impact-player-rule/articleshow/134774301.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134774300,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T19:57:52Z",
+    "author": "Fazal Khan"
   },
   {
     "source": "The Times of India",
-    "title": "The Great Indian Kapil Show 5: Ravi Shastri recalls Virat Kohli-Anushka Sharma’s on-field romance as he arrives with Sunil Gavaskar; Sunil Grover turns into Kapil Dev",
-    "description": "Cricket legends Sunil Gavaskar and Ravi Shastri are set to appear on The Great Indian Kapil Show. They will share cricketing anecdotes while discussing relationships and personal experiences in cricket. The episode will highlight historical moments and change…",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/the-great-indian-kapil-show-5-ravi-shastri-recalls-virat-kohli-anushka-sharmas-on-field-romance-as-he-arrives-with-sunil-gavaskar-sunil-grover-turns-into-kapil-dev/articleshow/134766583.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134766607,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T13:08:28Z",
-    "author": "etimes.in"
+    "title": "‘No team can be taken lightly in Ranji Trophy’",
+    "description": "Former India cricketer Gyanendra Pandey returns as UP Ranji head coach, backs Rinku and Yash Dayal, stresses strong pace-spin mix and home strategy.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/no-team-can-be-taken-lightly-in-ranji-trophy/articleshow/134774289.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134774288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T19:55:17Z",
+    "author": "Fazal Khan"
   },
   {
-    "source": "Sporting News",
-    "title": "Is Sourav Ganguly a good fit for DC? Delhi Capitals support staff listed as Ganguly takes over as head coach",
-    "description": "Is Sourav Ganguly a good fit for DC? Explore Delhi Capitals' new star-studded coaching staff, including Yuvraj Singh, tactical pros and cons, and IPL 2027 goals.",
-    "url": "https://www.sportingnews.com/in/cricket/news/sourav-ganguly-good-fit-dc-delhi-capitals-support-staff-listed-head-coach/acc86c35bbdab2ecff1318b8",
-    "image": "https://s.yimg.com/lo/mysterio/api/37bef2029a1b27c80200f45e0db2ae58c085febed4a4d7fe82132063e32a66df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F21bb425753bf12dbbb6ed3e6c301d195",
-    "publishedAt": "2026-10-07T12:09:02Z",
-    "author": "Soham Mukherjee"
+    "source": "The Times of India",
+    "title": "Holkar stadium finalizes pitch, facilities for India-West Indies T20I",
+    "description": "Holkar Stadium in Indore readies for India vs West Indies T20I on Oct 10, with pitch rolled using new BCCI-approved rollers and upgraded facilities.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/holkar-stadium-finalizes-pitch-facilities-for-india-west-indies-t20i/articleshow/134773830.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-07T19:02:02Z",
+    "author": "Litha Achari"
   },
   {
-    "source": "Eonline.com",
-    "title": "Why Fall Is the Best Time to Buy This 25% off Prime Day IPL Deal",
-    "description": "Fall is in full swing, and it's actually the ideal time of year to start IPL (a.k.a. intense pulsed light) treatments! The shorter days, less sun and cooler weather mean there's less UV exposure,...",
-    "url": "https://www.eonline.com/news/1436452/ulike-ipl-tool-25-off-amazon-prime-day",
-    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260925/87369708-5465-46ba-a866-45cd45fbfe26_1790358224.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-    "publishedAt": "2026-10-07T12:00:00Z",
-    "author": "Jacqueline Weiss"
-  },
-  {
-    "source": "BBC News",
-    "title": "Beaumont extends Blaze stay after England retirement",
-    "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cr15j4eqq30jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-10-07T11:16:54Z",
-    "author": "Andrew Aloia - BBC Sport, East Midlands"
-  },
-  {
-    "source": "BBC News",
-    "title": "Beaumont extends Blaze stay after England retirement",
-    "description": "Decorated former England batter Tammy Beaumont signs a new two-year deal to remain with the treble-winning Blaze.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cr15j4eqq30jo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35a5/live/2713c010-c23f-11f1-b390-9f59a375fdd2.jpg",
-    "publishedAt": "2026-10-07T11:16:50Z",
-    "author": "Andrew Aloia"
+    "source": "The Times of India",
+    "title": "40k at Eden, 10k on Red Road: WC security model for Mahalaya show",
+    "description": "Kolkata Police to use T20 World Cup-style security for Mahalaya event as 40,000 expected at Eden Gardens and 10,000+ for Red Road roadshow.",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/40k-at-eden-10k-on-red-road-wc-security-model-for-mahalaya-show/articleshow/134773808.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134773807,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T18:59:23Z",
+    "author": "Dwaipayan Ghosh"
   },
   {
     "source": "Dailymail.com",
-    "title": "Ann Widdecombe murder suspect Joshua Kerry 'tried to batter down Nigel Farage's front door armed with bottle of lighter fluid' in terror plot against Reform leader, court told",
-    "description": "Joshua Kerry is accused of trying to batter down Reform UK leader NIgel Farage's front door while armed with a bottle of lighter fluid in 'preparation of terrorist acts'.",
-    "url": "https://www.dailymail.com/news/article-16189311/Ann-Widdecombe-murder-suspect-Joshua-Kerry-court-Nigel-Farage.html",
-    "image": "https://i.dailymail.com/1s/2026/10/07/11/111700917-0-image-m-11_1791369179147.jpg",
-    "publishedAt": "2026-10-07T10:47:47Z",
-    "author": "Rebecca Camber"
+    "title": "Death of 11-year-old schoolgirl whose body was found in village park not being treated as criminal investigation, police say",
+    "description": "Miya Deamer-Jones, 11, was discovered dead at a park near Elmley Castle Cricket Club in Worcestershire after going missing at around 11.20pm on Sunday.",
+    "url": "https://www.dailymail.com/news/article-16190933/Death-schoolgirl-body-park-not-criminal.html",
+    "image": "https://i.dailymail.com/1s/2026/10/07/19/111660211-0-image-m-30_1791397364873.jpg",
+    "publishedAt": "2026-10-07T18:55:14Z",
+    "author": "Gethin Hicks, Ed Holt"
   },
   {
-    "source": "Cricketnews.com",
-    "title": "'Ro-Ko' turn Pathaan & Tiger: Virat Kohli & Rohit Sharma recreate iconic SRK & Salman Khan's 'desh ka sawaal' scene in latest India AD promo",
-    "description": "Virat Kohli and Rohit Sharma channelled Shah Rukh Khan and Salman Khan from Pathaan in a hilarious new advertisement promo that sent cricket fans into a frenzy.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-rohit-sharma-shah-rukh-salman-pathaan/1e78b274669f845f60abb61a",
-    "image": "https://s.yimg.com/lo/mysterio/api/69e71b3fedba42b715e202a780692fb21b0df562f80a65ce64881bdc831df027/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
-    "publishedAt": "2026-10-07T10:30:45Z",
-    "author": "Soham Mukherjee"
+    "source": "Fox Sports",
+    "title": "Ravens Make Blockbuster Trade For Eagles Star Offensive Lineman",
+    "description": "The Baltimore Ravens are trading for Philadelphia Eagles center and two-time Pro Bowler Cam Jurgens.",
+    "url": "https://www.foxsports.com/stories/nfl/ravens-cam-jurgens-trade-details-eagles-offensive-linemen",
+    "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/eagles.jpg?ve=1&tl=1",
+    "publishedAt": "2026-10-07T18:13:40Z",
+    "author": null
   },
   {
-    "source": "The Times of India",
-    "title": "India tour of New Zealand: Why ODI squad announcement was delayed",
-    "description": "The squads for the upcoming ODI series between India and New Zealand will be announced next week. Selectors are evaluating players during the unofficial ODI series featuring India A against Australia A. Key decision-makers are watching how potential ODI playe…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-tour-of-new-zealand-why-odi-squad-announcement-was-delayed/articleshow/134762990.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134763215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T10:25:39Z",
-    "author": "Pratyush Raj"
+    "source": "CNA",
+    "title": "T20 ties have softened on-field rivalries, says Harmer",
+    "description": "DURBAN, Oct 7 : South Africa spinner Simon Harmer expects none of the animosity of Australia’s last test tour to South Africa to resurface in the three-match series between the two countries, which gets underway at Kingsmead on Friday.Australia are playing th…",
+    "url": "https://www.channelnewsasia.com/sport/t20-ties-have-softened-field-rivalries-says-harmer-6440646",
+    "image": "https://dam.mediacorp.sg/image/upload/s--jHIwyiTo--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-07T181240Z_1_LYNXMPEM961SX_RTROPTP_3_CRICKET-TEST-ZAF-WIN.JPG?itok=-Xvt9HrW",
+    "publishedAt": "2026-10-07T18:08:02Z",
+    "author": null
   },
   {
-    "source": "The Times of India",
-    "title": "‘This comeback is thoroughly deserved’: Raina welcomes Bhuvi’s India return",
-    "description": "Suresh Raina has rallied behind Bhuvneshwar Kumar's potential comeback to the Indian T20I team. Having last played during the 2022 T20 World Cup semi-final, Bhuvneshwar's recent stellar IPL performances have paved the way for this opportunity. The T20I series…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-comeback-is-thoroughly-deserved-suresh-raina-welcomes-bhuvneshwar-kumars-india-return/articleshow/134762398.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134762465,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T10:05:09Z",
-    "author": "Pranav Shukla"
+    "source": "nj.com",
+    "title": "Eagles trade struggling Pro Bowler — and get a stunning haul",
+    "description": "Eagles trade Pro Bowler for second-round pick.",
+    "url": "https://www.nj.com/eagles/2026/10/eagles-trade-struggling-pro-bowler-to-ravens-and-somehow-get-a-massive-return.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/a7607a0762274811f9dacc51ffe7f89c37ae80b36037bbc3865f7d981908da81/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnj_com_articles_950%2Fff2c2000e6e97b200435a7c59be83828.jpg",
+    "publishedAt": "2026-10-07T18:02:30Z",
+    "author": "Cayden Steele"
   },
   {
-    "source": "The Times of India",
-    "title": "First time in top 10! Shreyas Iyer leaps 18 places in T20I rankings after maiden century",
-    "description": "Shreyas Iyer has made a significant leap to seventh place in T20I batting rankings after his maiden century. Axar Patel has also joined the top 10 bowlers, moving up to seventh place following impressive performances. In ODI rankings, Shubman Gill extended hi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-time-in-top-10-shreyas-iyer-leaps-18-places-in-t20i-rankings-after-maiden-century/articleshow/134762221.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134762310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T09:50:44Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "3 tricks nobody tells you for making crispy dosa at home: Easy batter and pan tips to get that thin, golden, perfectly crisp dosa every time",
-    "description": "We have all been there. The batter clings to the pan, tears the moment you try to spread it, or comes out soft and floppy instead of thin and crackly like the dosa at your favourite restaurant. The good news is that there is rarely a secret recipe behind it. …",
-    "url": "https://timesofindia.indiatimes.com/life-style/food-news/3-tricks-nobody-tells-you-for-making-crispy-dosa-at-home-easy-batter-and-pan-tips-to-get-that-thin-golden-perfectly-crisp-dosa-every-time/photostory/134760899.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134761175,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-07T09:30:00Z",
-    "author": "TIMESOFINDIA.COM"
+    "source": "ABC News (AU)",
+    "title": "How a virulent series gave rise to Sandpapergate",
+    "description": "In 2018, Sandpapergate rocked Australian cricket to its very core. Here's how a febrile atmosphere colluded with a team persistently testing the limits of acceptability to change the game.",
+    "url": "https://www.abc.net.au/news/2026-10-08/how-sandpaper-gate-rocked-australian-cricket-south-africa/107233934",
+    "image": "https://live-production.wcms.abc-cdn.net.au/69b044413ae97d09964931e72f178519?impolicy=wcms_watermark_news&cropH=1900&cropW=3377&xPos=0&yPos=23&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-07T18:00:00Z",
+    "author": "Simon Smale"
   }
 ]
 ;
