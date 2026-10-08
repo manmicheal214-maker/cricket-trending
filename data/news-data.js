@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Are Test cricket batters getting worse? The stats say yes",
+    "description": "Test batters are averaging less, scoring more quickly and getting out more often — and we have the charts to prove it.",
+    "url": "https://www.abc.net.au/news/2026-10-07/statistics-show-test-bowling-winning-against-test-batting/107175886",
+    "image": "https://live-production.wcms.abc-cdn.net.au/3048ba6cd75562dd25aa8de337881669?impolicy=wcms_watermark_news&cropH=980&cropW=1743&xPos=352&yPos=187&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-07T02:22:30Z",
+    "author": "David Mark"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Ash Gardner insists teammates still think she's a 'good person' after her affair with star Georgia Voll rocked Australian cricket",
+    "description": "The Australian vice-captain has said she was surprised the breakdown of her marriage became so public.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16188471/cricket-australia-cheating-ash-gardner-voll-wright.html",
+    "image": "https://i.dailymail.com/1s/2026/10/07/01/111691681-0-image-m-6_1791332014930.jpg",
+    "publishedAt": "2026-10-07T00:19:59Z",
+    "author": "Josh Alston"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cowboys guard Tyler Smith nears a return from a thumb injury, and it could be against the Bucs",
+    "description": "FRISCO, Texas (AP) — Tyler Smith cost himself three weeks during the preseason trying to figure out if he could play left guard for the Dallas Cowboys with ligament damage in his left thumb.Now that the three-time Pro Bowler has missed the required four games…",
+    "url": "https://sports.yahoo.com/articles/cowboys-guard-tyler-smith-nears-225940883.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/be5fe020dabf5072e4707701a38001f391b43db6e77e8f44c0158adff6828526/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff70810f4d04c5df485fdcbef788841c3.jpg",
+    "publishedAt": "2026-10-06T22:59:40Z",
+    "author": "SCHUYLER DIXON"
+  },
+  {
     "source": "New Zealand Herald",
     "title": "NZ Cricket breaks silence on Deloitte report and why Australian Big Bash League offer wasn’t pursued",
     "description": "A review from Deloitte favoured joining Australia, ahead of a franchise league.",
@@ -160,51 +187,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-10-06T14:20:00Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI invites application for one position in men's selection committee after Ajit Agarkar's exit",
-    "description": "The Board of Control for Cricket in India has opened applications for a position on the Men's Selection Committee. Interested candidates must have played a minimum number of matches and retired at least five years ago. The committee will be responsible for se…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-invites-application-for-one-position-in-mens-selection-committee-after-ajit-agarkars-exit/articleshow/134742213.cms",
-    "image": "https://img.etimg.com/thumb/msid-134742268,width-1200,height-900,imgsize-47260,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T13:40:36Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IND vs WI 1st T20I live streaming: Where to watch today's cricket match?",
-    "description": "India vs West Indies 1st T20I begins at 7 pm IST on Tuesday, with the toss at 6:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
-    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-1st-t20i-live-streaming-where-to-watch-today-s-cricket-match-126100500617_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/featurecrop/1200X628/1791193672-3404.jpg",
-    "publishedAt": "2026-10-06T13:34:30Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs Pakistan clash fuels ODI World Cup 2027 ticket frenzy as demand crosses 1.1 million",
-    "description": "More than 1.1 million ticket applications have been submitted for the upcoming 2027 ODI World Cup. The interest is particularly high for the India-Pakistan match, which has attracted over 110,000 applications. Other key fixtures involving India, including mat…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-vs-pakistan-clash-fuels-odi-world-cup-2027-ticket-frenzy-as-demand-crosses-1-1-million/articleshow/134741885.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134742027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-06T13:28:34Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Farbrace leaves Sussex to join Lancashire",
-    "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cjdx3ylzg3yyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-10-06T13:16:23Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Farbrace leaves Sussex to join Lancashire",
-    "description": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-    "publishedAt": "2026-10-06T13:16:19Z",
-    "author": "BBC Sport"
   }
 ]
 ;
