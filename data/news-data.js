@@ -1,5 +1,149 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "BCCI Col CK Nayudu Trophy: Himanshu Nehra to lead Rajasthan’s Under-23 cricket team",
+    "description": "Rajasthan names Himanshu Nehra captain for U-23 CK Nayudu Trophy; Ayush Ameria vice-captain. Matches vs Himachal Oct 12-15 and Bengal Oct 19-22.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/bcci-col-ck-nayudu-trophy-himanshu-nehra-to-lead-rajasthans-under-23-cricket-team/articleshow/134799995.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134799994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T19:24:16Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "ClutchPoints",
+    "title": "Eagles practice teases multiple offensive line changes ahead of Week 5",
+    "description": "The Philadelphia Eagles’ offensive line has had a big week of change. First, the team learned that stalwart Pro Bowler Lane Johnson would be retiring , and then the team promptly traded center Cam Jurgens to the Baltimore Ravens in exchange for future draft c…",
+    "url": "https://clutchpoints.com/nfl/philadelphia-eagles/eagles-news-philadelphia-practice-multiple-offensive-line-changes-week-5",
+    "image": "https://s.yimg.com/lo/mysterio/api/1c84fd9f44c4a31813d75d32e560a72c15f3ff281d563020a5039f4a3640ce6d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F5af0fb15213c79a487cdd222bc5880bf.jpg",
+    "publishedAt": "2026-10-08T19:19:01Z",
+    "author": "Jackson Stone, ClutchPoints"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
+    "description": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
+    "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259347735679-1789560465.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-08T19:06:08Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nitin Nabin unveils ‘Seva Sankalp Trophy’ ahead of Divyang T20 tournament",
+    "description": "BJP’s Nitin Nabin unveils Seva Sankalp Trophy in Varanasi ahead of T20 National Divyang Cricket Tournament, promoting inclusive sports for differently-abled players.",
+    "url": "https://timesofindia.indiatimes.com/city/varanasi/nitin-nabin-unveils-seva-sankalp-trophy-ahead-of-divyang-t20-tournament/articleshow/134798620.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134798619,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T18:15:47Z",
+    "author": "TNN"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "The duality of Australia's newest cricket captain Sophie Molineux",
+    "description": "Eight years after making her international debut, the country girl from Bairnsdale is now Australia's cricket captain. But Sophie Molineux's rise hasn't come without challenges, or criticism.",
+    "url": "https://www.abc.net.au/news/2026-10-09/sophie-molineux-australian-womens-cricket-captain/107242818",
+    "image": "https://live-production.wcms.abc-cdn.net.au/e21055d84017ab87376ab46f373286b7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=440&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-08T18:00:00Z",
+    "author": "Brittany Carter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Chandigarh thrash HP by 102 runs in Vinoo Mankad Trophy opener",
+    "description": "Chandigarh began the BCCI domestic season with a 102-run win over Himachal Pradesh in the Vinoo Mankad Trophy, led by Rupesh Yadav’s 58 and 4/42.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/chandigarh-thrash-hp-by-102-runs-in-vinoo-mankad-trophy-opener/articleshow/134798097.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134798092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T17:57:50Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UTCA names Vinayak Samant Chandigarh’s Ranji coach",
+    "description": "UT Cricket Association appoints ex-Mumbai player and NCA Level B coach Vinayak Samant as Chandigarh Ranji Trophy head coach for the upcoming season.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/utca-names-vinayak-samant-chandigarhs-ranji-coach/articleshow/134797996.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134797990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T17:56:50Z",
+    "author": "TNN"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Media Insider: TVNZ’s top earners; Jacinda Ardern’s former media adviser helps NZ Cricket; A political analysis of comments on NZ Herald and Stuff",
+    "description": "Why did RNZ CFO quit?; A political analysis of 230,000 comments on NZ Herald, Stuff.",
+    "url": "https://www.nzherald.co.nz/business/media-insider/media-insider-tvnzs-top-earners-jacinda-arderns-former-media-adviser-helps-nz-cricket-a-political-analysis-of-comments-on-nz-herald-and-stuff/premium/6IXNBDXIQ5CMNF66WMUSWAKAUQ/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/EXZXZFIV7FBATBKPYCUVUIAOS4.jpg?auth=b1b06ea5a42fa4770c0192efcaa7d9f875e071fc9aafb3290d0b1980e6b5a9ef&width=1200&height=675&quality=70&focal=578%2C253&smart=false",
+    "publishedAt": "2026-10-08T16:00:00Z",
+    "author": "Shayne Currie"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PSL 2027 to clash with IPL again as PCB locks dates; BCCI also eyes early-March start",
+    "description": "The Pakistan Super League (PSL) 12 is scheduled from March 18 to May 2, 2027, aligning with IPL 2027. The Pakistan Cricket Board has confirmed this timeline while maintaining the eight-team format. Notably, last season saw overseas players opted out in favor …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-2027-to-clash-with-ipl-again-as-pcb-locks-dates-bcci-also-eyes-early-march-start/articleshow/134794371.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134794371,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T15:52:34Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "DW (English)",
+    "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
+    "description": "Judges at the International Criminal Court said Rodrigo Duterte was fit to understand the charges at his trial, which is set to begin in November. His legal team argued that he suffers from cognitive deficiencies.",
+    "url": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372",
+    "image": "https://static.dw.com/image/79601793_6.jpg",
+    "publishedAt": "2026-10-08T15:31:00Z",
+    "author": "Roshni Majumdar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Gaikwad, Padikkal, Sudharsan need to raise their games in second ''A'' One Dayer",
+    "description": "Skipper Ruturaj Gaikwad and key players aim to improve their performance in the upcoming match. After a significant loss, the team looks to recover against Australia A in the second ODI. In the first game, India A struggled with batting, as nine players faile…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/gaikwad-padikkal-sudharsan-need-to-raise-their-games-in-second-a-one-dayer/articleshow/134794458.cms",
+    "image": "https://img.etimg.com/thumb/msid-134794464,width-1200,height-900,imgsize-172516,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-08T15:27:03Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pakistan begin home T20 season with new captain Sahibzada Farhan vs Sri Lanka",
+    "description": "RAWALPINDI, Pakistan (AP) — Pakistan starts its home cricket season with a third Twenty20 captain in as many years when Sahibzada Farhan leads against Sri Lanka in a three-match series from Friday.The previous three Pakistan T20 skippers — Babar Azam, Shaheen…",
+    "url": "https://sports.yahoo.com/articles/pakistan-begin-home-t20-season-145839432.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/a90e98cef8fa75321352b98fb4259ffb142f956ee504e2b83e142c332d41bfce/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1f5678ec69eb9746f63c7f504244d2a7.jpg",
+    "publishedAt": "2026-10-08T14:58:39Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Rabada ruled out as South Africa turns to 2 spinners for first cricket test vs Australia",
+    "description": "DURBAN, South Africa (AP) — Fast bowler Kagiso Rabada was officially out and world champion South Africa confirmed it was fielding two spinners against Australia in the first cricket test at Kingsmead on Friday.Keshav Maharaj and Simon Harmer have been paired…",
+    "url": "https://sports.yahoo.com/articles/rabada-ruled-south-africa-turns-143913283.html",
+    "image": null,
+    "publishedAt": "2026-10-08T14:39:13Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indore T20I: Jalebi off Indian menu, Hungarian Goulash with a twist for WI",
+    "description": "Indore T20I at Holkar: India skips jalebi and desserts for a strict BCCI diet, while West Indies get poha-jalebi, sev tamatar and lamb goulash.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/indore-t20i-jalebi-off-indian-menu-hungarian-goulash-with-a-twist-for-wi/articleshow/134792945.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134792944,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T14:05:21Z",
+    "author": "Litha Achari"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Australia need to handle test grind better, Cummins says",
+    "description": "Australia's captain Pat Cummins highlighted the importance of grinding out results in test cricket against South Africa. The first test starts on Friday at Kingsmead, where conditions are expected to vary significantly. Cummins expressed that the team must ad…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/australia-need-to-handle-test-grind-better-cummins-says/articleshow/134791646.cms",
+    "image": "https://img.etimg.com/thumb/msid-134792274,width-1200,height-900,imgsize-93084,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-08T13:33:07Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'You can’t beat experience': Batting coach Sitanshu Kotak explains Bhuvneshwar Kumar’s India recall",
+    "description": "After a four-year hiatus, Bhuvneshwar Kumar is back in the Indian T20I squad, following impressive performances in the IPL. India's assistant coach, Sitanshu Kotak, highlighted the necessity for seasoned players in the bowling lineup. Kumar's adeptness with t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-beat-experience-batting-coach-sitanshu-kotak-explains-bhuvneshwar-kumars-india-recall/articleshow/134791447.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134791555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T13:14:45Z",
+    "author": "Nitesh Dubey"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Competition for KL Rahul & Rishabh Pant? Yashasvi Jaiswal secretly training as a wicketkeeper, reveals Mumbai captain",
     "description": "Mumbai captain Siddhesh Lad reveals that Yashasvi Jaiswal is practising wicketkeeping to add to his batting and leg-spin skills for Mumbai and India.",
@@ -16,204 +160,6 @@ window.cricketNews = [
     "image": "https://dam.mediacorp.sg/image/upload/s--_vvCX9WG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T105850Z_1_LYNXMPEM970WH_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=Sod_Flne",
     "publishedAt": "2026-10-08T10:58:50Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "India turn focus to Asian Champions Trophy after Asian Games triumph",
-    "description": "India will participate in the Asian Champions Trophy from October 27 to November 5. The tournament will take place in Jalandhar and Mohali with six competing teams. Head coach Craig Fulton emphasised the need for continued focus and discipline after their Asi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-turn-focus-to-asian-champions-trophy-after-asian-games-triumph/articleshow/134787164.cms",
-    "image": "https://img.etimg.com/thumb/msid-134787366,width-1200,height-900,imgsize-136488,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-08T10:28:23Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Kusal Mendis gets captaincy of all Sri Lanka Test, ODI, and T20 teams.",
-    "description": "Kusal Mendis has been appointed as the captain of the Sri Lanka cricket team across all formats. Following Dhananjaya de Silva's resignation from the Test captaincy today (October 08), Sri Lanka Cricket confirmed that Kusal Mendis has been appointed as the ne…",
-    "url": "https://english.gossiplankanews.com/2026/10/kusal-mendis-gets-captaincy-of-all-sri.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ur3WcwffS9sTQnQx6mqaEvSAME0JERdnUtdROe3tWk7oAmUKjSp6KTYOp6F7kzRynfYGLZjfWFi9boJGaPKgnR_ug7OJbLKE7ysDHHv_E22if5YwyZQM2CMOryHdkScY0ko19B8TPK5qGVQd-PHibSt0scZ0tvjPF1yg=w1600",
-    "publishedAt": "2026-10-08T10:01:01Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Dhananjaya de Silva steps down as Sri Lanka Test captain",
-    "description": "Dhananjaya de Silva has officially resigned as the Test captain of Sri Lanka, concluding an 18-match tenure. His decision was communicated to the Sri Lanka Cricket Board. Under his leadership, the team celebrated victories over Afghanistan and Bangladesh. As …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dhananjaya-de-silva-steps-down-as-sri-lanka-test-captain/articleshow/134786439.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134786454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T09:51:15Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "CNA",
-    "title": "Sri Lanka name Mendis as test captain after de Silva steps down",
-    "description": "Oct 8 : Kusal Mendis will take over as Sri Lanka test captain after all-rounder Dhananjaya de Silva stepped down, the country's cricket board said on Thursday.The 31-year-old Mendis, already the one-day and T20 skipper, has played 75 tests for Sri Lanka, scor…",
-    "url": "https://www.channelnewsasia.com/sport/sri-lanka-name-mendis-test-captain-after-de-silva-steps-down-6442221",
-    "image": "https://dam.mediacorp.sg/image/upload/s--WlR8UTxN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T093941Z_1_LYNXMPEM970OU_RTROPTP_3_CRICKET-SRI-LANKA.JPG?itok=A2x7Z9uV",
-    "publishedAt": "2026-10-08T09:39:41Z",
-    "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "De Silva steps down as Sri Lanka test captain",
-    "description": "Oct 8 : Sri Lanka all-rounder Dhananjaya de Silva has stepped down as test captain but will remain available for selection, the country's cricket board said on Thursday.De Silva, 35, succeeded Dimuth Karunaratne as test captain in January 2024 and led Sri Lan…",
-    "url": "https://www.channelnewsasia.com/sport/de-silva-steps-down-sri-lanka-test-captain-6442221",
-    "image": "https://dam.mediacorp.sg/image/upload/s--WlR8UTxN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T093941Z_1_LYNXMPEM970OU_RTROPTP_3_CRICKET-SRI-LANKA.JPG?itok=A2x7Z9uV",
-    "publishedAt": "2026-10-08T09:39:41Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Six hours a day, 19% to 14% body fat: Inside Bhuvneshwar Kumar’s bid for longevity at 36",
-    "description": "At 36, Bhuvneshwar Kumar is back in India’s T20I setup, four years after his last international appearance. His recall followed a 28-wicket IPL season for RCB and a strong UP T20 campaign, but the numbers tell only part of the story. His strength and conditio…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/six-hours-a-day-19-to-14-body-fat-inside-bhuvneshwar-kumars-bid-for-longevity-at-36/articleshow/134785793.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134785871,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T09:21:03Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Red to pink ball? MCC official clarifies how ICC’s new Test trial will work",
-    "description": "Recent amendments by the International Cricket Council aim to combat time-wasting tactics in cricket, thereby accelerating the rhythm of matches for a more enjoyable spectator experience. Additionally, a possible pink-ball trial in Test formats will be negoti…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f18df95e-823b-475d-8ca6-886963502f9e",
-    "image": null,
-    "publishedAt": "2026-10-08T08:27:00Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "New WFH deal that would let Aussies work from the cricket sparks backlash from bosses",
-    "description": "A $16 offer allowing Aussies to swap their home office for a day at the cricket has sparked a backlash from business leaders, who warn employees could be taking advantage of their bosses",
-    "url": "https://www.dailymail.com/sport/cricket/article-16192089/WFH-australia-cricket.html",
-    "image": "https://i.dailymail.com/1s/2026/10/08/05/111722513-0-image-m-51_1791435258453.jpg",
-    "publishedAt": "2026-10-08T08:07:56Z",
-    "author": "Josh Alston"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer’s Punjab Kings face double blow as coaches leave for BBL roles",
-    "description": "Punjab Kings need to find replacements for their fast-bowling coach and fielding coach due to recent departures. James Hopes and Brad Haddin have both taken new roles in Australian domestic cricket. The exit of these coaches follows the departure of Sairaj Ba…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyers-punjab-kings-face-double-blow-as-coaches-leave-for-bbl-roles/articleshow/134783485.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134783667,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T07:37:39Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Centre of Excellence, Tier 2 event, women's cricket part of ICC's big China push",
-    "description": "ICC CEO Sanjog Gupta highlighted the potential for cricket's growth in China due to its Olympic inclusion. The organisation is working with the Chinese Cricket Association to establish a Centre of Excellence. Cricket being included in China's National Games c…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/centre-of-excellence-tier-2-event-womens-cricket-part-of-iccs-big-china-push/articleshow/134782920.cms",
-    "image": "https://img.etimg.com/thumb/msid-134783249,width-1200,height-900,imgsize-116176,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-08T07:15:30Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Test Cricket Captain Dhananjaya de Silva resigns from captaincy",
-    "description": "Sri Lanka Test cricket team captain Dhananjaya de Silva today (October 08, 2026) decided to resign from his captaincy with immediate effect. In a letter addressed to the National Selection Committee, he stated, \"It is my sincere belief that the responsibility…",
-    "url": "https://english.gossiplankanews.com/2026/10/test-cricket-captain-dhananjaya-de.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u7c3gzcHh7WhA_aZRRUE5o4BB-w8WL7wMdUyFfnQmq3Y93O7g7fxJmrg9lQPGfFOqrWW_uqV9Q0Eu6L12xIbTQhuwMj_Yn8SXmXQIqzMs2nGeQBjBgHdBFVwQHEJ2U3PKsMlb-IATf1YSt392IFzJEXeob92mjy0Fpmw=w1600",
-    "publishedAt": "2026-10-08T06:55:22Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BCCI applauds Agarkar for his contribution and conviction as chief selector",
-    "description": "The Board of Control for Cricket in India lauded outgoing chairman of selectors Ajit Agarkar for showing commitment, conviction and contribution in his role over the last three years.\nAgarkar's tenure ended last month and the BCCI on Tuesday invited applicati…",
-    "url": "https://www.business-standard.com/cricket/news/bcci-applauds-agarkar-for-his-contribution-and-conviction-as-chief-selector-126100701274_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/17/thumb/fitandfill/1200X628/1760699814-2602.jpg",
-    "publishedAt": "2026-10-08T06:43:24Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Ashwin backs Bhuvneshwar to join Bumrah on India's flight to 2027 World Cup",
-    "description": "Former spinner Ravichandran Ashwin said a fruitful outing in the upcoming T20I series against New Zealand might open the doors of the Indian ODI team to Bhuvneshwar Kumar, leading to his journey to next year's 50-over World Cup in Africa.\nBhuvneshwar returned…",
-    "url": "https://www.business-standard.com/cricket/news/ashwin-backs-bhuvneshwar-to-join-bumrah-on-india-s-flight-to-2027-world-cup-126100701414_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/featurecrop/1200X628/1791347972-4277.jpg",
-    "publishedAt": "2026-10-08T06:39:56Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mohammed Shami’s India return? R Ashwin drops major hint after Bhuvneshwar Kumar comeback",
-    "description": "Ravichandran Ashwin hints at the potential recall of Mohammed Shami to the Indian cricket team. This speculation comes after changes in the selection committee, especially with Ajit Agarkar stepping down. The reintroduction of Bhuvneshwar Kumar suggests a tre…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammed-shamis-india-return-r-ashwin-drops-major-hint-after-bhuvneshwar-kumar-comeback/articleshow/134782254.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134782310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T06:36:50Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI 2nd T20I: Samson-Sooryavanshi dilemma resurfaces as India eye 2-0 lead against West Indies",
-    "description": "Sanju Samson's recent performances have caused concern for the Indian cricket team ahead of their upcoming match. The team management is considering pairing Vaibhav Sooryavanshi with opener Abhishek Sharma for better results. India will also evaluate changes …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-wi-2nd-t20i-samson-sooryavanshi-dilemma-resurfaces-as-india-eye-2-0-lead-against-west-indies/articleshow/134781126.cms",
-    "image": "https://img.etimg.com/thumb/msid-134781327,width-1200,height-900,imgsize-58702,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-08T05:49:02Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "From MI family to CSK: Kieron Pollard's complete T20 franchise journey across tournaments detailed",
-    "description": "Pollard's T20 journey spans the world's biggest franchise leagues, from Mumbai Indians to Joburg Super Kings.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mi-family-csk-kieron-pollard-complete-t20-franchise-journey-tournaments/2ff3bc394378e586ceaa20d3",
-    "image": "https://s.yimg.com/lo/mysterio/api/53805eac7f9ba44abac79dcb31da5a4feed6aaea489c19cfe03c5ebeeb609f4f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F727c204a5e04b4f4c29bf6a2f5b1b1ae",
-    "publishedAt": "2026-10-08T05:30:18Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘So many have faded out’: Vaibhav Sooryavanshi cautioned with Vinod Kambli example",
-    "description": "Vaibhav Sooryavanshi is making waves in the cricket world with his remarkable feats at an early age. However, cricket legend Kapil Dev advocates caution, emphasizing the volatile nature of youth talent. He stresses the significance of a player's growth beyond…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/so-many-have-faded-out-vaibhav-sooryavanshi-cautioned-with-vinod-kambli-example/articleshow/134780549.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134780847,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T05:22:01Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "'Special Talent': Rahane, Dhawan Pay Tribute To Nana Patekar",
-    "description": "Nana Patekar's death on Thursday prompted an outpouring of tributes from the cricket fraternity, with former India captain Ajinkya Rahane remembering the veteran actor as a \"truly remarkable actor\" who inspired and entertained generations.",
-    "url": "https://www.rediff.com/sports/report/special-talent-rahane-dhawan-pay-tribute-to-nana-patekar/20261008.htm",
-    "image": "https://im.rediff.com/1200-630/news/2015/sep/06nana-patekar.jpg",
-    "publishedAt": "2026-10-08T05:07:24Z",
-    "author": "sports@rediff.co.in (REDIFF SPORTS)"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Dropped Aussie opener out of Sheffield Shield match with concussion",
-    "description": "Jake Weatherald's wretched run has continued, with the discarded Test opener forced out of the start of the domestic cricket season with concussion.",
-    "url": "https://www.abc.net.au/news/2026-10-08/jake-weatherald-out-of-sheffield-shield-match-with-concussion/107244118",
-    "image": "https://live-production.wcms.abc-cdn.net.au/749b5b5bcd437e5277eac527bdb87c28?impolicy=wcms_watermark_news&cropH=1500&cropW=2666&xPos=0&yPos=139&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-08T05:00:12Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ex-Mumbai wicketkeeper Vinayak Samant named Chandigarh head coach",
-    "description": "Chandigarh have roped in former Mumbai wicketkeeper Vinayak Samant as their new head coach, TOI has learnt. Chandigarh will be playing at the Wankhede Stadium for the first time, and it will certainly help them that Samant has played cricket all his life at t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ex-mumbai-wicketkeeper-vinayak-samant-is-new-chandigarh-head-coach/articleshow/134780089.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134780128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T04:43:12Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Nana Patekar: Actor, Cricketer, Shooter",
-    "description": "Actor Nana Patekar, who passed away at 75, is remembered not just for his powerful acting but also for his deep passion for sports, including cricket and competitive shooting.",
-    "url": "https://www.rediff.com/sports/report/nana-patekar-actor-cricketer-shooter/20261008.htm",
-    "image": "https://im.rediff.com/1200-630/movies/2018/oct/22image1.jpg",
-    "publishedAt": "2026-10-08T04:27:19Z",
-    "author": "sports@rediff.co.in (REDIFF SPORTS)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Play more cricket’: Kapil Dev’s blunt take on Hardik Pandya’s injury woes",
-    "description": "Hardik Pandya's long absence from competitive cricket emphasizes ongoing concerns regarding player workload and fitness issues. Despite working towards a return, his recurring shin issue has delayed his comeback plans. Other players, including Prasidh Krishna…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/play-more-cricket-kapil-devs-blunt-take-on-hardik-pandyas-injury-woes/articleshow/134779193.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134779414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T04:19:05Z",
-    "author": "Pranav Shukla"
   }
 ]
 ;
