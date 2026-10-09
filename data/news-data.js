@@ -1,5 +1,149 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Competition for KL Rahul & Rishabh Pant? Yashasvi Jaiswal secretly training as a wicketkeeper, reveals Mumbai captain",
+    "description": "Mumbai captain Siddhesh Lad reveals that Yashasvi Jaiswal is practising wicketkeeping to add to his batting and leg-spin skills for Mumbai and India.",
+    "url": "https://www.cricketnews.com/en/cricket/news/yashasvi-jaiswal-wicketkeeper-training-siddhesh-lad/51852184e5592f1b949bb87a",
+    "image": "https://s.yimg.com/lo/mysterio/api/0436b3f4fb4e7271fd47d02f7117a5a00acdf1067859f4a3628d6f3495e1bd5e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fead1e66f0a336ac7b8c5c4226e908f5b",
+    "publishedAt": "2026-10-08T11:14:32Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "CNA",
+    "title": "South Africa fast bowler Rabada to sit out first test against Australia",
+    "description": "DURBAN, Oct 8 : South Africa’s lead attack bowler Kagiso Rabada will sit out the first test against Australia, which starts in Durban on Friday, with the home side to field two spinners at Kingsmead.Rabada was in contention for selection as he worked his way …",
+    "url": "https://www.channelnewsasia.com/sport/south-africa-fast-bowler-rabada-sit-out-first-test-against-australia-6442506",
+    "image": "https://dam.mediacorp.sg/image/upload/s--_vvCX9WG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T105850Z_1_LYNXMPEM970WH_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=Sod_Flne",
+    "publishedAt": "2026-10-08T10:58:50Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "India turn focus to Asian Champions Trophy after Asian Games triumph",
+    "description": "India will participate in the Asian Champions Trophy from October 27 to November 5. The tournament will take place in Jalandhar and Mohali with six competing teams. Head coach Craig Fulton emphasised the need for continued focus and discipline after their Asi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-turn-focus-to-asian-champions-trophy-after-asian-games-triumph/articleshow/134787164.cms",
+    "image": "https://img.etimg.com/thumb/msid-134787366,width-1200,height-900,imgsize-136488,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-08T10:28:23Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Kusal Mendis gets captaincy of all Sri Lanka Test, ODI, and T20 teams.",
+    "description": "Kusal Mendis has been appointed as the captain of the Sri Lanka cricket team across all formats. Following Dhananjaya de Silva's resignation from the Test captaincy today (October 08), Sri Lanka Cricket confirmed that Kusal Mendis has been appointed as the ne…",
+    "url": "https://english.gossiplankanews.com/2026/10/kusal-mendis-gets-captaincy-of-all-sri.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ur3WcwffS9sTQnQx6mqaEvSAME0JERdnUtdROe3tWk7oAmUKjSp6KTYOp6F7kzRynfYGLZjfWFi9boJGaPKgnR_ug7OJbLKE7ysDHHv_E22if5YwyZQM2CMOryHdkScY0ko19B8TPK5qGVQd-PHibSt0scZ0tvjPF1yg=w1600",
+    "publishedAt": "2026-10-08T10:01:01Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Dhananjaya de Silva steps down as Sri Lanka Test captain",
+    "description": "Dhananjaya de Silva has officially resigned as the Test captain of Sri Lanka, concluding an 18-match tenure. His decision was communicated to the Sri Lanka Cricket Board. Under his leadership, the team celebrated victories over Afghanistan and Bangladesh. As …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dhananjaya-de-silva-steps-down-as-sri-lanka-test-captain/articleshow/134786439.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134786454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T09:51:15Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "CNA",
+    "title": "Sri Lanka name Mendis as test captain after de Silva steps down",
+    "description": "Oct 8 : Kusal Mendis will take over as Sri Lanka test captain after all-rounder Dhananjaya de Silva stepped down, the country's cricket board said on Thursday.The 31-year-old Mendis, already the one-day and T20 skipper, has played 75 tests for Sri Lanka, scor…",
+    "url": "https://www.channelnewsasia.com/sport/sri-lanka-name-mendis-test-captain-after-de-silva-steps-down-6442221",
+    "image": "https://dam.mediacorp.sg/image/upload/s--WlR8UTxN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T093941Z_1_LYNXMPEM970OU_RTROPTP_3_CRICKET-SRI-LANKA.JPG?itok=A2x7Z9uV",
+    "publishedAt": "2026-10-08T09:39:41Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "De Silva steps down as Sri Lanka test captain",
+    "description": "Oct 8 : Sri Lanka all-rounder Dhananjaya de Silva has stepped down as test captain but will remain available for selection, the country's cricket board said on Thursday.De Silva, 35, succeeded Dimuth Karunaratne as test captain in January 2024 and led Sri Lan…",
+    "url": "https://www.channelnewsasia.com/sport/de-silva-steps-down-sri-lanka-test-captain-6442221",
+    "image": "https://dam.mediacorp.sg/image/upload/s--WlR8UTxN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T093941Z_1_LYNXMPEM970OU_RTROPTP_3_CRICKET-SRI-LANKA.JPG?itok=A2x7Z9uV",
+    "publishedAt": "2026-10-08T09:39:41Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Six hours a day, 19% to 14% body fat: Inside Bhuvneshwar Kumar’s bid for longevity at 36",
+    "description": "At 36, Bhuvneshwar Kumar is back in India’s T20I setup, four years after his last international appearance. His recall followed a 28-wicket IPL season for RCB and a strong UP T20 campaign, but the numbers tell only part of the story. His strength and conditio…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/six-hours-a-day-19-to-14-body-fat-inside-bhuvneshwar-kumars-bid-for-longevity-at-36/articleshow/134785793.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134785871,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T09:21:03Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Red to pink ball? MCC official clarifies how ICC’s new Test trial will work",
+    "description": "Recent amendments by the International Cricket Council aim to combat time-wasting tactics in cricket, thereby accelerating the rhythm of matches for a more enjoyable spectator experience. Additionally, a possible pink-ball trial in Test formats will be negoti…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f18df95e-823b-475d-8ca6-886963502f9e",
+    "image": null,
+    "publishedAt": "2026-10-08T08:27:00Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "New WFH deal that would let Aussies work from the cricket sparks backlash from bosses",
+    "description": "A $16 offer allowing Aussies to swap their home office for a day at the cricket has sparked a backlash from business leaders, who warn employees could be taking advantage of their bosses",
+    "url": "https://www.dailymail.com/sport/cricket/article-16192089/WFH-australia-cricket.html",
+    "image": "https://i.dailymail.com/1s/2026/10/08/05/111722513-0-image-m-51_1791435258453.jpg",
+    "publishedAt": "2026-10-08T08:07:56Z",
+    "author": "Josh Alston"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shreyas Iyer’s Punjab Kings face double blow as coaches leave for BBL roles",
+    "description": "Punjab Kings need to find replacements for their fast-bowling coach and fielding coach due to recent departures. James Hopes and Brad Haddin have both taken new roles in Australian domestic cricket. The exit of these coaches follows the departure of Sairaj Ba…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyers-punjab-kings-face-double-blow-as-coaches-leave-for-bbl-roles/articleshow/134783485.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134783667,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T07:37:39Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Centre of Excellence, Tier 2 event, women's cricket part of ICC's big China push",
+    "description": "ICC CEO Sanjog Gupta highlighted the potential for cricket's growth in China due to its Olympic inclusion. The organisation is working with the Chinese Cricket Association to establish a Centre of Excellence. Cricket being included in China's National Games c…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/centre-of-excellence-tier-2-event-womens-cricket-part-of-iccs-big-china-push/articleshow/134782920.cms",
+    "image": "https://img.etimg.com/thumb/msid-134783249,width-1200,height-900,imgsize-116176,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-08T07:15:30Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Test Cricket Captain Dhananjaya de Silva resigns from captaincy",
+    "description": "Sri Lanka Test cricket team captain Dhananjaya de Silva today (October 08, 2026) decided to resign from his captaincy with immediate effect. In a letter addressed to the National Selection Committee, he stated, \"It is my sincere belief that the responsibility…",
+    "url": "https://english.gossiplankanews.com/2026/10/test-cricket-captain-dhananjaya-de.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u7c3gzcHh7WhA_aZRRUE5o4BB-w8WL7wMdUyFfnQmq3Y93O7g7fxJmrg9lQPGfFOqrWW_uqV9Q0Eu6L12xIbTQhuwMj_Yn8SXmXQIqzMs2nGeQBjBgHdBFVwQHEJ2U3PKsMlb-IATf1YSt392IFzJEXeob92mjy0Fpmw=w1600",
+    "publishedAt": "2026-10-08T06:55:22Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "Business Standard",
+    "title": "BCCI applauds Agarkar for his contribution and conviction as chief selector",
+    "description": "The Board of Control for Cricket in India lauded outgoing chairman of selectors Ajit Agarkar for showing commitment, conviction and contribution in his role over the last three years.\nAgarkar's tenure ended last month and the BCCI on Tuesday invited applicati…",
+    "url": "https://www.business-standard.com/cricket/news/bcci-applauds-agarkar-for-his-contribution-and-conviction-as-chief-selector-126100701274_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/17/thumb/fitandfill/1200X628/1760699814-2602.jpg",
+    "publishedAt": "2026-10-08T06:43:24Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Ashwin backs Bhuvneshwar to join Bumrah on India's flight to 2027 World Cup",
+    "description": "Former spinner Ravichandran Ashwin said a fruitful outing in the upcoming T20I series against New Zealand might open the doors of the Indian ODI team to Bhuvneshwar Kumar, leading to his journey to next year's 50-over World Cup in Africa.\nBhuvneshwar returned…",
+    "url": "https://www.business-standard.com/cricket/news/ashwin-backs-bhuvneshwar-to-join-bumrah-on-india-s-flight-to-2027-world-cup-126100701414_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/featurecrop/1200X628/1791347972-4277.jpg",
+    "publishedAt": "2026-10-08T06:39:56Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mohammed Shami’s India return? R Ashwin drops major hint after Bhuvneshwar Kumar comeback",
+    "description": "Ravichandran Ashwin hints at the potential recall of Mohammed Shami to the Indian cricket team. This speculation comes after changes in the selection committee, especially with Ajit Agarkar stepping down. The reintroduction of Bhuvneshwar Kumar suggests a tre…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammed-shamis-india-return-r-ashwin-drops-major-hint-after-bhuvneshwar-kumar-comeback/articleshow/134782254.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134782310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-08T06:36:50Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "IND vs WI 2nd T20I: Samson-Sooryavanshi dilemma resurfaces as India eye 2-0 lead against West Indies",
     "description": "Sanju Samson's recent performances have caused concern for the Indian cricket team ahead of their upcoming match. The team management is considering pairing Vaibhav Sooryavanshi with opener Abhishek Sharma for better results. India will also evaluate changes …",
@@ -70,105 +214,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134779414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-08T04:19:05Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Impact Player rule means you don’t see much’: Naman Dhir on his bowling credentials",
-    "description": "Naman Dhir, a key asset for the Mumbai Indians, has showcased his talent through impressive off-spin bowling. Reflecting on his journey during the ODI series and the inaugural T20I against West Indies, Dhir stresses the necessity of following his bowling stra…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/impact-player-rule-means-you-dont-see-much-naman-dhir-on-his-bowling-credentials/articleshow/134778957.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134778977,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T03:27:44Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "How Hardik Pandya’s key advice helped Suryansh Shedge find his bowling weapon",
-    "description": "Suryansh Shedge, a promising 23-year-old allrounder, stepped into the limelight after Hardik Pandya's injury led to his selection for India 'A'. He delivered a stellar performance with bowling figures of 4-40 in an unofficial ODI versus Australia 'A'. Despite…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-hardik-pandyas-key-advice-helped-suryansh-shedge-find-his-bowling-weapon/articleshow/134778710.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134778798,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T03:22:01Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'If Mohammed Shami is neglected, door will be closed': Ex-India star's message to Team India selectors",
-    "description": "Bhuvneshwar Kumar’s return to the Indian team after a four-year gap has raised the possibility of another experienced pacer making his way back into the squad. Former India batter Wasim Jaffer believes Mohammed Shami deserves that opportunity, particularly in…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/if-mohammed-shami-is-neglected-door-will-be-closed-ex-india-stars-message-to-team-india-selectors/articleshow/134778868.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134778913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T03:19:30Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Can Ravindra Jadeja become a BCCI selector? Exploring Indian veteran's eligibility after he jokes about interest",
-    "description": "Indian veteran spinner and Rajasthan Royals star joked, \"What's the procedure?\" to apply for the BCCI selector role after Ajit Agarkar stepped down.",
-    "url": "https://www.cricketnews.com/en/cricket/news/can-ravindra-jadeja-become-bcci-selector-eligibility-interest/8af3cff030dea4b097a2a044",
-    "image": "https://s.yimg.com/lo/mysterio/api/f3adf81243ba5d84f254dfbf2ef0f9466b2f35f59f6e7eae75b7b394b5277593/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7cf46d1368ce30ae27e2aec477820b99",
-    "publishedAt": "2026-10-08T03:19:00Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Red to pink ball? MCC official clarifies how ICC’s new Test trial will work",
-    "description": "Recent amendments by the International Cricket Council aim to combat time-wasting tactics in cricket, thereby accelerating the rhythm of matches for a more enjoyable spectator experience. Additionally, a possible pink-ball trial in Test formats will be negoti…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/red-to-pink-ball-mcc-official-clarifies-how-iccs-new-test-trial-will-work/articleshow/134778467.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134778512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T02:58:04Z",
-    "author": "Ashim Sunam"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Has any country hosted a Cricket World Cup without qualifying? How Namibia can co-host 2027 ODI WC and still fail to qualify",
-    "description": "With only South Africa and Zimbabwe getting the free ticket to the 2027 ODI World Cup as hosts, we take a look at why co-host Namibia could still miss the tournament.",
-    "url": "https://www.cricketnews.com/en/cricket/news/has-any-country-hosted-cricket-world-cup-without-qualifying/923ee5b1bbbf772a901264fb",
-    "image": "https://s.yimg.com/lo/mysterio/api/f8fafc21d15c84d2292c462bb10b3e3285dfc47cbfc17f2e744787c8a7f5c4e2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F54114f5f86a81b3b116b61b3c429d261",
-    "publishedAt": "2026-10-08T02:45:48Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Ravens Reveal Plan for Newly-Acquired Center Cam Jurgens",
-    "description": "The Baltimore Ravens finally solved their center issue on Wednesday, trading the Philadelphia Eagles for two-time Pro Bowler Cam Jurgens. So, when should Ravens fans expect to see Jurgens suited up on the field.\nAccording to Ravens head coach Jesse Minter, We…",
-    "url": "https://biztoc.com/x/8de0c490f28dbbb4",
-    "image": "https://biztoc.com/cdn/8de0c490f28dbbb4_s.webp",
-    "publishedAt": "2026-10-08T01:56:17Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Unko select karke koi meherbani nahi ki': Wasim Jaffer on Bhuvneshwar Kumar's India return",
-    "description": "Bhuvneshwar Kumar’s return to India’s T20I squad has received strong backing from former India batter Wasim Jaffer, who believes the experienced pacer’s selection is based on his performances and fitness, rather than any favour. Bhuvneshwar, 36, has been reca…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/unko-select-karke-koi-meherbani-nahi-ki-wasim-jaffer-on-bhuvneshwar-kumars-india-return/articleshow/134777577.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134777617,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T01:51:39Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Naman Dhir has finished him': World Cup winner's big statement on star's T20I future",
-    "description": "Naman Dhir had scored 318 runs in IPL 2026 but did not bowl a single over during the tournament. His international debut showed that he can offer India another option with the ball. Former India cricketer and 1983 World Cup winner Krishnamachari Srikkanth bel…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/naman-dhir-has-finished-him-world-cup-winners-big-statement-on-stars-t20i-future/articleshow/134777331.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134777358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T01:12:05Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "BBC News",
-    "title": "She made India fall in love with women's cricket - now her era as captain is over",
-    "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
-    "url": "https://www.bbc.com/news/articles/cm4g1pjrd5ewo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6742c66e8b32fc89c2284f0c7e64f2d5048be5232e844b72eb81068cc397d764/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8a4933e275bfc1fa1d0216bb44ca0971.jpg",
-    "publishedAt": "2026-10-07T23:31:07Z",
-    "author": "Ayaz Memon - Cricket writer"
-  },
-  {
-    "source": "BBC News",
-    "title": "She made India fall in love with women's cricket - now her era as captain is over",
-    "description": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bf3/live/3fc23000-c227-11f1-b7d8-6f930589c871.jpg",
-    "publishedAt": "2026-10-07T23:31:00Z",
-    "author": "https://www.facebook.com/bbcnews"
   }
 ]
 ;
