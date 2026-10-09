@@ -1,5 +1,32 @@
 [
   {
+    "source": "New York Post",
+    "title": "Tropical storm explodes into hurricane set to batter vacation hotspot — as US triple threat approaches",
+    "description": "Rachel is expected to approach northern Baja and the northern Gulf of California at tropical-storm strength this weekend, triggering potential Tropical Storm Watches.",
+    "url": "https://nypost.com/2026/10/08/us-news/tropical-storm-rachel-strengthens-ahead-of-landfall-on-pacific-coast/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newcomp_1dd5ea.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-08T21:41:32Z",
+    "author": "Daniel Farr"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cowboys guard Tyler Smith set to make his season debut against the Bucs coming off thumb surgery",
+    "description": "ARLINGTON, Texas (AP) — Dallas Cowboys left guard Tyler Smith is set to make his season debut against Tampa Bay on Thursday night after the three-time Pro Bowler was activated coming off left thumb surgery just before the opener.Smith missed the minimum of fo…",
+    "url": "https://sports.yahoo.com/articles/cowboys-guard-tyler-smith-set-194725386.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/042767509d7d462cdb02df10842ca1666cd36a38f6b46a644bd23697d955c5b5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F40b051591b1a262313c3f733cd47d45b.jpg",
+    "publishedAt": "2026-10-08T19:47:25Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Sporting News",
+    "title": "49ers warned over injury to 10-time Pro Bowler amid multi-week absence",
+    "description": "What will the Niners do?",
+    "url": "https://www.sportingnews.com/us/nfl/san-francisco-49ers/news/49ers-warned-injury-pro-bowler-amid-multi-week-absence/0b392dffea18b63edfb3a384",
+    "image": "https://s.yimg.com/lo/mysterio/api/945d37b78cf40ccebe09a9c15ab3970520f9efec4633b792e3dcbcca4edc4780/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb7e0ac6e6479e020a9df5819149aae1c",
+    "publishedAt": "2026-10-08T19:40:56Z",
+    "author": "Jon Conahan"
+  },
+  {
     "source": "The Times of India",
     "title": "BCCI Col CK Nayudu Trophy: Himanshu Nehra to lead Rajasthan’s Under-23 cricket team",
     "description": "Rajasthan names Himanshu Nehra captain for U-23 CK Nayudu Trophy; Ayush Ameria vice-captain. Matches vs Himachal Oct 12-15 and Bengal Oct 19-22.",
@@ -142,23 +169,5 @@
     "image": "https://static.toiimg.com/thumb/msid-134791555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-08T13:14:45Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Competition for KL Rahul & Rishabh Pant? Yashasvi Jaiswal secretly training as a wicketkeeper, reveals Mumbai captain",
-    "description": "Mumbai captain Siddhesh Lad reveals that Yashasvi Jaiswal is practising wicketkeeping to add to his batting and leg-spin skills for Mumbai and India.",
-    "url": "https://www.cricketnews.com/en/cricket/news/yashasvi-jaiswal-wicketkeeper-training-siddhesh-lad/51852184e5592f1b949bb87a",
-    "image": "https://s.yimg.com/lo/mysterio/api/0436b3f4fb4e7271fd47d02f7117a5a00acdf1067859f4a3628d6f3495e1bd5e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fead1e66f0a336ac7b8c5c4226e908f5b",
-    "publishedAt": "2026-10-08T11:14:32Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "CNA",
-    "title": "South Africa fast bowler Rabada to sit out first test against Australia",
-    "description": "DURBAN, Oct 8 : South Africa’s lead attack bowler Kagiso Rabada will sit out the first test against Australia, which starts in Durban on Friday, with the home side to field two spinners at Kingsmead.Rabada was in contention for selection as he worked his way …",
-    "url": "https://www.channelnewsasia.com/sport/south-africa-fast-bowler-rabada-sit-out-first-test-against-australia-6442506",
-    "image": "https://dam.mediacorp.sg/image/upload/s--_vvCX9WG--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T105850Z_1_LYNXMPEM970WH_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=Sod_Flne",
-    "publishedAt": "2026-10-08T10:58:50Z",
-    "author": null
   }
 ]
