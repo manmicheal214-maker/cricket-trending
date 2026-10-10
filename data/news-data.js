@@ -1,5 +1,221 @@
 window.cricketNews = [
   {
+    "source": "Dineshkhabar.com",
+    "title": "Dadeldhura’s Tek Raj Thalal Named Iconic Player for Sudurpaschim Royals",
+    "description": "Left-arm medium-fast bowler Tek Raj Thalal of Dadeldhura has been selected as the ‘Iconic Player’ for the Sudurpaschim Royals following a talent hunt organized for the third season of the Nepal Premier League (NPL).\r\n\nThe talent hunt aimed to identify local c…",
+    "url": "https://dineshkhabar.com/article/142391",
+    "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/Untitled-design-%2818%29-1791533089_0.jpg?itok=H5fNME-t",
+    "publishedAt": "2026-10-09T12:19:16Z",
+    "author": "editor"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Mother of 11-year-old girl found dead in village park suffering 'every parent's worst nightmare'",
+    "description": "Miya Deamer-Jones, 11, was discovered dead at a park near Elmley Castle Cricket Club in Worcestershire after going missing at around 11.20pm on Sunday.",
+    "url": "https://www.dailymail.com/news/article-16196267/Mother-girl-dead-village-park-worst-nightmare.html",
+    "image": "https://i.dailymail.com/1s/2026/10/09/13/111660211-0-image-m-16_1791547222637.jpg",
+    "publishedAt": "2026-10-09T12:05:16Z",
+    "author": "Elizabeth Haigh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Bamber signs new deal with champions Warwickshire",
+    "description": "Warwickshire fast bowler Ethan Bamber agrees a new three-year contract with the 2026 County Championship winners.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cm040np0glneo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/39cec6332f47f9376d42d4aaca91cd4bc2d38f00ba1e07114a78985d5b770f3f/lightyear_networkapi/resizefill_w767_h432%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2cf579b732623a5293843eaadb662e02.jpg",
+    "publishedAt": "2026-10-09T11:18:11Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Roanoke Times",
+    "title": "Nobel Peace Prize awarded to South African lawyer and former ICC judge Navi Pillay",
+    "description": "The Nobel Committee’s decision to recognize an international jurist serves as a not-so-subtle rebuke of the Trump administration, which imposed sanctions on the International Criminal Court last year.",
+    "url": "https://roanoke.com/news/nation-world/article_a836a979-b983-5bb8-bec5-cdb8a7dffad8.html",
+    "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/83/a836a979-b983-5bb8-bec5-cdb8a7dffad8/6ac8cbf52b240.preview.jpg?crop=1080%2C567%2C0%2C327",
+    "publishedAt": "2026-10-09T11:15:00Z",
+    "author": "Miles J. HerszenhornUSA TODAY"
+  },
+  {
+    "source": "Richmond.com",
+    "title": "Nobel Peace Prize awarded to South African lawyer and former ICC judge Navi Pillay",
+    "description": "The Nobel Committee’s decision to recognize an international jurist serves as a not-so-subtle rebuke of the Trump administration, which imposed sanctions on the International Criminal Court last year.",
+    "url": "https://richmond.com/news/nation-world/article_041e9e2d-813e-5ac4-a733-fbfa81a837bc.html",
+    "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/41/041e9e2d-813e-5ac4-a733-fbfa81a837bc/6ac8cbf4cd5c9.preview.jpg?crop=1080%2C567%2C0%2C327",
+    "publishedAt": "2026-10-09T11:15:00Z",
+    "author": "Miles J. HerszenhornUSA TODAY"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch India vs. West Indies free live stream, TV channel, start time for 2nd T20 match",
+    "description": "Here's everything you need to know about India vs. West Indies, including TV channel and streaming options for the second T20 matchup.",
+    "url": "https://www.sportingnews.com/us/cricket/news/india-vs-west-indies-free-live-stream-tv-channel-2nd-t20/5908908ee68e54a0a2ffa35b",
+    "image": "https://s.yimg.com/lo/mysterio/api/126d00fe1912041f7dfc3bfc7a8433089e45d4f9324333d1e207e2ba68184250/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fda22a8b2fca936afffc412deef15fa5a",
+    "publishedAt": "2026-10-09T11:10:22Z",
+    "author": "Dan Gibbs"
+  },
+  {
+    "source": "SFGate",
+    "title": "An already destroyed Calif. highway prepares for El Niño",
+    "description": "El Niño is expected to batter an already-destroyed SoCal mountain road.",
+    "url": "https://www.sfgate.com/la/article/calif-mountain-highway-damage-22465474.php",
+    "image": null,
+    "publishedAt": "2026-10-09T11:10:03Z",
+    "author": "Erin Rode"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ishan fever grips Ranchi ahead of T20I",
+    "description": "Ranchi gears up for Friday’s India vs West Indies T20I as Ishan Kishan returns home in form; ticket demand soars and fans await a big cricket night.",
+    "url": "https://timesofindia.indiatimes.com/city/ranchi/ishan-fever-grips-ranchi-ahead-of-t20i/articleshow/134831538.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134831536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T11:02:03Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "The Times of India",
+    "title": "What is the International Criminal Court?",
+    "description": "South African judge Navanethem \"Navi\" Pillay, who was awarded the Nobel peace prize has been a judge on the International Criminal Court (ICC). The ICC was established in 2002 to prosecute individuals for war crimes, crimes against humanity, genocide and the …",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/what-is-the-international-criminal-court/articleshow/134831138.cms",
+    "image": "https://img.etimg.com/thumb/msid-134831477,width-1200,height-900,imgsize-335852,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T11:00:14Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Litchfield fireworks help Australia to ODI victory over Bangladesh",
+    "description": "A quick fire half-century to Phoebe Litchfield has helped Australia to a commanding seven-wicket victory over Bangladesh in their first ODI in Brisbane.",
+    "url": "https://www.abc.net.au/news/2026-10-09/australia-romps-to-odi-victory-over-bangladesh/107250156",
+    "image": "https://live-production.wcms.abc-cdn.net.au/7954903e88e2b65128b1997e4ffc0a61?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=355&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-09T10:57:02Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Sandpapergate remains cricket's great unsolved mystery with the blame game still rumbling on as Australia return to South Africa eight years after scandal - so, did the REAL culprits get away with it?",
+    "description": "LAWRENCE BOOTH: As Australia and South Africa wage war in Friday's first Test at Durban, no one will be tampering with the ball. And yet you can be sure everyone is thinking about ball-tampering.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16189341/Sandpapergate-remains-crickets-great-unsolved-mystery-blame-game-rumbling-Australia-return-South-Africa-eight-years-scandal-did-REAL-culprits-away-it.html",
+    "image": "https://i.dailymail.com/1s/2026/10/09/11/111743209-0-image-m-1_1791542335878.jpg",
+    "publishedAt": "2026-10-09T10:40:07Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Japan protests Russia’s bid to extradite ICC chief Tomoko Akanae, a Japanese national, over Putin arrest warrant",
+    "description": "Japan on Friday lodged a formal protest against Russia’s request for the extradition of International Criminal Court (ICC) President Tomoko Akane, a",
+    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-protests-russias-bid-to-extradite-icc-top-judge-tomoko-akane-a-japanese-national-over-putin-arrest-warrant/articleshow/134829705.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134830574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T10:27:17Z",
+    "author": "Karan Manral"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ravindra Jadeja named in Saurashtra squad for Ranji Trophy opener, Unadkat to lead",
+    "description": "Indian Cricketer Ravindra Jadeja is set to play for Saurashtra against Chhattisgarh in the upcoming Ranji Trophy season. Jaydev Unadkat will continue as captain following his successful stint with Sussex. Saurashtra has retained 14 players from this season's …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ravindra-jadeja-named-in-saurashtra-squad-for-ranji-trophy-opener-unadkat-to-lead/articleshow/134830351.cms",
+    "image": "https://img.etimg.com/thumb/msid-134830548,width-1200,height-900,imgsize-135164,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T10:25:18Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Rashid Latif was named nana after Nana Patekar': Ex-Pakistan cricketer Basit Ali says late actor was the same person on and off screen",
+    "description": "Former Pakistan cricketer Basit Ali has paid an emotional tribute to Nana Patekar, remembering a friendship that began in 1994 and continued through regular conversations over the years. Ali recalled how the actor checked on his mother during her hospitalisat…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/rashid-latif-was-named-nana-after-nana-patekar-ex-pakistan-cricketer-basit-ali-says-late-actor-was-the-same-person-on-and-off-screen/articleshow/134826787.cms",
+    "image": "https://img.etimg.com/thumb/msid-134830092,width-1200,height-900,imgsize-95444,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T10:17:58Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Australia cricket team players age: How old is Australia's current Test squad?",
+    "description": "Australia have an experienced Test squad, but their prime years may be coming to an end.",
+    "url": "https://www.cricketnews.com/en/cricket/news/australia-cricket-team-players-age-how-old-current-test-squad/f90fef0434f735532d5402f3",
+    "image": "https://s.yimg.com/lo/mysterio/api/32a0fa8d068d9cad73c782321ecb189200e068d85cfe56e26afc5b127393a545/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F705ff34eef0dc17107c6e13c94692917",
+    "publishedAt": "2026-10-09T09:47:00Z",
+    "author": "Abhinav Nair"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "‘Baffling selection bears no fruit’: Fans react as Nic Maddinson endures a 'painful' 33-dall duck vs South Africa on Aussie return",
+    "description": "While his selection for the South African tour was already under scrutiny, Nic Maddinson's 33-ball duck provides no consolation for the opening batter in front of Aussie fans.",
+    "url": "https://www.cricketnews.com/en/cricket/news/baffling-selection-fans-react-nic-maddinson-33-dall-duck-autralia-return/95a56900b9979aeabc6b8e8b",
+    "image": "https://s.yimg.com/lo/mysterio/api/10e6056f454a9c57d46011cf678eabca34e0b6dbf68a57bcade5803f9376c185/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ea8624db2fe11ff22fe0d48e6583097",
+    "publishedAt": "2026-10-09T09:36:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Steve Smith's batting average in Test cricket in every country: South Africa remains a major blip",
+    "description": "Steve Smith might be the premier Test batter of this century across the world, but South Africa has proved to be his weak point again and again, with an average against the Proteas that tells the whole story.",
+    "url": "https://www.cricketnews.com/en/cricket/news/steve-smith-batting-average-test-cricket-every-country/7d052bbf1a1fbfc6ff3b52b2",
+    "image": "https://s.yimg.com/lo/mysterio/api/9419a8c3167a005debd1a9b60d298b0ee0f6ca6f7a2ca3f8bfb2944b5bad8564/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd73b07e1b657446b0fe80ef374eedd1c",
+    "publishedAt": "2026-10-09T09:17:52Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "CBS News",
+    "title": "Nobel Peace Prize 2026 awarded to ICC jurist Navanethem \"Navi\" Pillay",
+    "description": "The Nobel Peace Prize 2026 was awarded to Navanethem \"Navi\" Pillay, a judge on the International Criminal Court, for promoting peace and international justice.",
+    "url": "https://www.cbsnews.com/news/nobel-peace-prize-2026-navanethem-navi-pillay-south-africa/",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/09/93631ac5-dbf6-496a-be4c-a34afa597ba2/thumbnail/1200x630/a25c7dc1bbe6c5d4ed406d08c809e5e7/navi-pillay-453074809.jpg",
+    "publishedAt": "2026-10-09T09:15:45Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Age no barrier: Why the India selectors handed Bhuvneshwar Kumar one last shot",
+    "description": "I was surprised to see Bhuvneshwar Kumar's name in India's T20I squad for the tour of New Zealand later this month, nearly four years after his last appearance in international cricket, says The Cricket News' Jamie Alter...",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/why-india-selectors-bhuvneshwar-kumar-one-last-shot/cc006ba169768802b8bb4773",
+    "image": "https://s.yimg.com/lo/mysterio/api/742b419cb760eb851f1317b8a772e23c1d1281c0b1b852d529c27b9c96790029/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1663a201ef289ec2a9867e343a0a6a57",
+    "publishedAt": "2026-10-09T08:58:08Z",
+    "author": "Jamie Alter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nic Maddinson creates unwanted record for longest duck by a Test opener in 21st century",
+    "description": "Nic Maddinson's return to Test cricket after nearly a decade began poorly with a 33-ball duck. He set a new record for the longest innings without scoring by a Test opener in the 21st century. Matthews Hayden criticized his selection, highlighting concerns ov…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nic-maddinson-creates-unwanted-record-for-longest-duck-by-a-test-opener-in-21st-century/articleshow/134826092.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134826334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T08:47:56Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "CNA",
+    "title": "Australia 84-3 at lunch as Maddinson’s remarkable return ends in a duck",
+    "description": "DURBAN, Oct 9 : Cancer survivor Nic Maddinson failed to score on his return to test cricket on Friday as Australia reached lunch on 84–3 on the opening day of the first test against South Africa at Kingsmead.The 34-year-old, a surprise choice to open after Au…",
+    "url": "https://www.channelnewsasia.com/sport/australia-84-3-lunch-maddinsons-remarkable-return-ends-in-duck-6445541",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-10-09T07:47:06Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Australia bats 1st in opening cricket test against South Africa",
+    "description": "DURBAN, South Africa (AP) — Nic Maddinson will open the batting after being recalled to Australia’s test side for the first time in 10 years after the visitors won the toss and decided to bat in the first cricket test against South Africa.Maddinson on Friday …",
+    "url": "https://sports.yahoo.com/articles/australia-bats-1st-opening-cricket-073656824.html",
+    "image": null,
+    "publishedAt": "2026-10-09T07:36:56Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Local Sweden",
+    "title": "Today in Sweden: A roundup of the latest news on Friday",
+    "description": "Sweden issues weather warning as gale-force winds set to batter east coast – and Centre and Christian Democrat leaders hold secret sauna meeting. Here's the latest news.",
+    "url": "https://www.thelocal.se/20261009/today-in-sweden-a-roundup-of-the-latest-news-on-friday-247",
+    "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-sdlGQhWNx9r5wU_NormalHires.jpg@webp",
+    "publishedAt": "2026-10-09T07:12:51Z",
+    "author": "Emma Löfgren"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘He called every week’: Ex-Pakistan cricketer reveals how Nana Patekar stood by his mother during illness",
+    "description": "Nana Patekar, renowned actor, passed away at the age of 75 after a cardiac arrest at his residence. Former cricketer Basit Ali shared heartfelt memories of his enduring friendship with Patekar throughout the years. Ali recalled how Patekar supported him durin…",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/he-called-every-week-ex-pakistan-cricketer-reveals-how-nana-patekar-stood-by-his-mother-during-illness/articleshow/134814904.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134815191,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T06:31:20Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "‘It cannot happen’: Ex-India cricketer rules out Vaibhav Sooryavanshi replacing Sanju Samson",
     "description": "After lackluster performances in the T20I series against the West Indies, Sanju Samson is under fire from critics. Aakash Chopra advises against dropping him for Vaibhav Sooryavanshi, asserting that Samson's previous accomplishments merit further chances. Mea…",
@@ -25,168 +241,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134807379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-09T04:32:14Z",
     "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND A vs AUS A Live: Thakur draws first blood, Owen departs",
-    "description": "IND A vs AUS A, 2nd unofficial ODI Live Score: Australia A have won the toss and opted to bat against India A in the second unofficial ODI at the Cri",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-australia-a-ind-a-vs-aus-a-live-score-updates-2nd-unofficial-odi-commentary-sai-sudharsan-rajat-patidar-vipraj-nigam/liveblog/134805392.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134805392,width-1280,height-720,imgsize-38476,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T03:15:04Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India rivals, Indian roots: The stories of Australia ‘A’ stars Nikhil Chaudhary and Tanveer Sangha",
-    "description": "Nikhil Chaudhary and Tanveer Sangha are two talented cricketers of Indian descent making strides in the Australian cricket scene. Nikhil's journey began after relocating from India, where he juggled multiple jobs to chase his dream. Meanwhile, Tanveer, born i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-rivals-indian-roots-the-stories-of-australia-a-stars-nikhil-chaudhary-and-tanveer-sangha/articleshow/134804834.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134804880,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T03:00:23Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "KSN-TV",
-    "title": "‘Coolest thing ever’: Wichita State bowler lives dream playing for Shockers",
-    "description": "Ashtyn Woods is in her fourth season with Wichita State and has been named an All-American twice. Her career at WSU is something she's dreamed of since she was young.",
-    "url": "https://www.ksn.com/sports/competitive-drive/coolest-thing-ever-wichita-state-bowler-lives-dream-playing-for-shockers/",
-    "image": "https://s.yimg.com/lo/mysterio/api/c657e8aca20c43866cd365a1f07b42200b625be68b13430112f5cbb6f1db18bb/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fksnw_wichita_articles_865%2F548bb26061749dae6d38a556a02bd734.jpg",
-    "publishedAt": "2026-10-09T03:00:00Z",
-    "author": "Ian Sacks"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘You can’t beat experience’: India coach explains Bhuvneshwar Kumar’s return",
-    "description": "The selection framework for India's cricket team has notably included VVS Laxman, aimed at fostering better communication about player fitness and rehabilitation. Bhuvneshwar Kumar's return to the T20I squad underscores the strategy of leveraging experience f…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-beat-experience-india-coach-explains-bhuvneshwar-kumars-return/articleshow/134804645.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134804677,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T02:46:58Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI Centre of Excellence treated 32 top cricketers last year",
-    "description": "The BCCI's Centre of Excellence reported a rise in rehabilitated players, with 32 men undergoing treatment recently. A budget increase of nearly Rs 35 crore was allocated for injury management and rehabilitation. Soft-tissue injuries predominated among the ca…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-centre-of-excellence-treated-32-top-cricketers-last-year/articleshow/134804412.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134804449,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T02:34:32Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'There is pressure': Sahibzada Farhan on replacing Salman Ali Agha as Pakistan's T20I captain",
-    "description": "Sahibzada Farhan is set to begin his stint as Pakistan's T20I captain when the team takes on Sri Lanka in the opening match of the three-game series in Rawalpindi on Friday. Farhan has replaced Salman Ali Agha, who captained Pakistan at the 2026 T20 World Cup…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-pressure-sahibzada-farhan-on-replacing-salman-ali-agha-as-pakistans-t20i-captain/articleshow/134804044.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134804083,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T01:54:52Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs WI 2nd T20I: Vaibhav Sooryavanshi's explosive net session raises big question: Will he play in Ranchi?",
-    "description": "The young batter went on an attacking spree in the nets, repeatedly hitting the ball over the boundary and towards the stands. With every big hit, Vaibhav Sooryavanshi showed why he has become one of the most talked-about young batters in the Indian squad.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/vaibhav-sooryavanshis-explosive-net-session-raises-big-question-will-he-play-in-ranchi/articleshow/134803799.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134803832,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T01:25:07Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "New York Post",
-    "title": "Tropical storm explodes into hurricane set to batter vacation hotspot — as US triple threat approaches",
-    "description": "Rachel is expected to approach northern Baja and the northern Gulf of California at tropical-storm strength this weekend, triggering potential Tropical Storm Watches.",
-    "url": "https://nypost.com/2026/10/08/us-news/tropical-storm-rachel-strengthens-ahead-of-landfall-on-pacific-coast/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newcomp_1dd5ea.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-10-08T21:41:32Z",
-    "author": "Daniel Farr"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Cowboys guard Tyler Smith set to make his season debut against the Bucs coming off thumb surgery",
-    "description": "ARLINGTON, Texas (AP) — Dallas Cowboys left guard Tyler Smith is set to make his season debut against Tampa Bay on Thursday night after the three-time Pro Bowler was activated coming off left thumb surgery just before the opener.Smith missed the minimum of fo…",
-    "url": "https://sports.yahoo.com/articles/cowboys-guard-tyler-smith-set-194725386.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/042767509d7d462cdb02df10842ca1666cd36a38f6b46a644bd23697d955c5b5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F40b051591b1a262313c3f733cd47d45b.jpg",
-    "publishedAt": "2026-10-08T19:47:25Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Sporting News",
-    "title": "49ers warned over injury to 10-time Pro Bowler amid multi-week absence",
-    "description": "What will the Niners do?",
-    "url": "https://www.sportingnews.com/us/nfl/san-francisco-49ers/news/49ers-warned-injury-pro-bowler-amid-multi-week-absence/0b392dffea18b63edfb3a384",
-    "image": "https://s.yimg.com/lo/mysterio/api/945d37b78cf40ccebe09a9c15ab3970520f9efec4633b792e3dcbcca4edc4780/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb7e0ac6e6479e020a9df5819149aae1c",
-    "publishedAt": "2026-10-08T19:40:56Z",
-    "author": "Jon Conahan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI Col CK Nayudu Trophy: Himanshu Nehra to lead Rajasthan’s Under-23 cricket team",
-    "description": "Rajasthan names Himanshu Nehra captain for U-23 CK Nayudu Trophy; Ayush Ameria vice-captain. Matches vs Himachal Oct 12-15 and Bengal Oct 19-22.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/bcci-col-ck-nayudu-trophy-himanshu-nehra-to-lead-rajasthans-under-23-cricket-team/articleshow/134799995.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134799994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T19:24:16Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "ClutchPoints",
-    "title": "Eagles practice teases multiple offensive line changes ahead of Week 5",
-    "description": "The Philadelphia Eagles’ offensive line has had a big week of change. First, the team learned that stalwart Pro Bowler Lane Johnson would be retiring , and then the team promptly traded center Cam Jurgens to the Baltimore Ravens in exchange for future draft c…",
-    "url": "https://clutchpoints.com/nfl/philadelphia-eagles/eagles-news-philadelphia-practice-multiple-offensive-line-changes-week-5",
-    "image": "https://s.yimg.com/lo/mysterio/api/1c84fd9f44c4a31813d75d32e560a72c15f3ff281d563020a5039f4a3640ce6d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F5af0fb15213c79a487cdd222bc5880bf.jpg",
-    "publishedAt": "2026-10-08T19:19:01Z",
-    "author": "Jackson Stone, ClutchPoints"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-    "description": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
-    "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26259347735679-1789560465.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-08T19:06:08Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nitin Nabin unveils ‘Seva Sankalp Trophy’ ahead of Divyang T20 tournament",
-    "description": "BJP’s Nitin Nabin unveils Seva Sankalp Trophy in Varanasi ahead of T20 National Divyang Cricket Tournament, promoting inclusive sports for differently-abled players.",
-    "url": "https://timesofindia.indiatimes.com/city/varanasi/nitin-nabin-unveils-seva-sankalp-trophy-ahead-of-divyang-t20-tournament/articleshow/134798620.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134798619,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T18:15:47Z",
-    "author": "TNN"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "The duality of Australia's newest cricket captain Sophie Molineux",
-    "description": "Eight years after making her international debut, the country girl from Bairnsdale is now Australia's cricket captain. But Sophie Molineux's rise hasn't come without challenges, or criticism.",
-    "url": "https://www.abc.net.au/news/2026-10-09/sophie-molineux-australian-womens-cricket-captain/107242818",
-    "image": "https://live-production.wcms.abc-cdn.net.au/e21055d84017ab87376ab46f373286b7?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=440&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-08T18:00:00Z",
-    "author": "Brittany Carter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Chandigarh thrash HP by 102 runs in Vinoo Mankad Trophy opener",
-    "description": "Chandigarh began the BCCI domestic season with a 102-run win over Himachal Pradesh in the Vinoo Mankad Trophy, led by Rupesh Yadav’s 58 and 4/42.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/chandigarh-thrash-hp-by-102-runs-in-vinoo-mankad-trophy-opener/articleshow/134798097.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134798092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T17:57:50Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "UTCA names Vinayak Samant Chandigarh’s Ranji coach",
-    "description": "UT Cricket Association appoints ex-Mumbai player and NCA Level B coach Vinayak Samant as Chandigarh Ranji Trophy head coach for the upcoming season.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/utca-names-vinayak-samant-chandigarhs-ranji-coach/articleshow/134797996.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134797990,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-08T17:56:50Z",
-    "author": "TNN"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Media Insider: TVNZ’s top earners; Jacinda Ardern’s former media adviser helps NZ Cricket; A political analysis of comments on NZ Herald and Stuff",
-    "description": "Why did RNZ CFO quit?; A political analysis of 230,000 comments on NZ Herald, Stuff.",
-    "url": "https://www.nzherald.co.nz/business/media-insider/media-insider-tvnzs-top-earners-jacinda-arderns-former-media-adviser-helps-nz-cricket-a-political-analysis-of-comments-on-nz-herald-and-stuff/premium/6IXNBDXIQ5CMNF66WMUSWAKAUQ/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/EXZXZFIV7FBATBKPYCUVUIAOS4.jpg?auth=b1b06ea5a42fa4770c0192efcaa7d9f875e071fc9aafb3290d0b1980e6b5a9ef&width=1200&height=675&quality=70&focal=578%2C253&smart=false",
-    "publishedAt": "2026-10-08T16:00:00Z",
-    "author": "Shayne Currie"
   }
 ]
 ;
