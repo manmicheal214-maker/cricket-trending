@@ -1,5 +1,194 @@
 window.cricketNews = [
   {
+    "source": "Slashdot.org",
+    "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",
+    "description": "Navi Pillay, former UN human rights chief, wins Nobel Peace PrizeBBC Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times 2026 Nobel Peace Prize Goes to Former ICC Judge Navi Pillay, Prompting New U.S. SanctionsForeign…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085034",
+    "image": null,
+    "publishedAt": "2026-10-09T21:13:26Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal - AP News",
+    "description": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunalAP News EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters International Criminal Court ‘firmly rejects’ new US sanct…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186084890",
+    "image": null,
+    "publishedAt": "2026-10-09T20:53:20Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Foreign Policy",
+    "title": "Nobel Peace Prize Goes to Former ICC Judge",
+    "description": "The United States imposed new sanctions on the international body in response.",
+    "url": "http://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/NaviPillayNobel-GettyImages-2298727311.jpg",
+    "publishedAt": "2026-10-09T20:51:18Z",
+    "author": "Alexandra Sharp"
+  },
+  {
+    "source": "Haaretz",
+    "title": "Eight U.S. allies criticize Trump administration's sanctions on ICC",
+    "description": "The foreign ministers of Canada, Denmark, Germany, France, Italy, Japan and the United Kingdom warned that if implemented, they would have 'significant impact on the Court's work, its dedicated staff and their families'",
+    "url": "https://www.haaretz.com/world-news/2026-10-09/ty-article/.premium/eight-u-s-allies-criticize-trump-administrations-sanctions-on-icc/000001a1-21db-d0ca-a7b7-bffbad730000",
+    "image": "https://img.haarets.co.il/bs/000001a1-21db-d0ca-a7b7-bffbad730000/96/0b/1748e9344e0fa90c789a27c484b9/722744.jpg?&width=1200&height=630&cmsprod",
+    "publishedAt": "2026-10-09T19:58:25Z",
+    "author": "Liza Rozovsky"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Dacoits batter 82-year-old, flee with ₹25L gold",
+    "description": "Nagpur dacoity: 82-year-old woman beaten, ₹25 lakh cash and gold stolen from Ahbab Colony home; CCTV shows four suspects, police probe inside job.",
+    "url": "https://timesofindia.indiatimes.com/city/nagpur/dacoits-batter-82-year-old-flee-with-25l-gold/articleshow/134842439.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134842435,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T19:49:02Z",
+    "author": "Soumitra Bose"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Trump administration announces sweeping sanctions on ICC as Marco Rubio dubs it a 'rogue court'",
+    "description": "US Secretary of State Marco Rubio labelled the ICC as a 'rogue court' and demanded that America's allies 'rein in' the court.",
+    "url": "https://www.dailymail.com/news/article-16197475/Trump-administration-sanctions-ICC-rogue-court.html",
+    "image": "https://i.dailymail.com/1s/2026/10/09/20/111768779-0-image-m-71_1791575150084.jpg",
+    "publishedAt": "2026-10-09T19:47:58Z",
+    "author": "Robert Folker"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Guterres condemns US sanctions on ICC",
+    "description": "United Nations Secretary-General Antonio Guterres condemned the United States' decision to impose sanctions on the International Criminal Court (ICC) and vowed \"unwavering support\" for the court, his ...",
+    "url": "https://biztoc.com/x/37a6f147cc5afd8f",
+    "image": "https://biztoc.com/cdn/37a6f147cc5afd8f_s.webp",
+    "publishedAt": "2026-10-09T19:43:50Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+    "description": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.",
+    "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/ap_69b2f33c5eacc-1773335356.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-09T19:32:13Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "US impose sanctions on ICC with threat to 'end' international court - BBC",
+    "description": "US impose sanctions on ICC with threat to 'end' international courtBBC EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters Trump Sanctions ICC Hours After Losing Nobel Prize to Former JudgeYahoo Trump Administration H…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186084174",
+    "image": null,
+    "publishedAt": "2026-10-09T19:13:43Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket: Shai Hope, Sherfane Rutherford fire West Indies to record T20 chase of 250",
+    "description": "After India posted 249-5 batting first, the West Indies rode on a 120-run fourth-wicket partnership between Hope, who hit an unbeaten 102, and Rutherford (84) to achieve the target with nine balls to spare in Ranchi. Hope completed the win with the ninth six …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-shai-hope-sherfane-rutherford-fire-west-indies-to-record-t20-chase-of-250/articleshow/134841836.cms",
+    "image": "https://img.etimg.com/thumb/msid-134841848,width-1200,height-900,imgsize-156248,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T18:54:15Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The New Republic",
+    "title": "Trump Sanctions ICC Hours After Losing Nobel Prize to Former Judge",
+    "description": "The United States issued sanctions on the International Criminal Court Friday, just hours after President Donald Trump lost the Nobel Peace Prize to one of the institution’s former judges. Secretary of State Marco Rubio announced the sanctions cutting the cou…",
+    "url": "https://newrepublic.com/post/216480/trump-sanctions-icc-lose-nobel-prize-former-judge",
+    "image": "https://images.newrepublic.com/56d5084537c7ba7ec5452fa876853a24eedcac31.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+    "publishedAt": "2026-10-09T18:50:26Z",
+    "author": "Edith Olmsted"
+  },
+  {
+    "source": "Truthout",
+    "title": "Trump Administration, Accused of Crimes Against Humanity, Sanctions Entire ICC",
+    "description": "Officials announced the sanctions just hours after the Nobel Peace Prize was awarded to a former ICC judge.",
+    "url": "https://truthout.org/articles/trump-administration-accused-of-crimes-against-humanity-sanctions-entire-icc/",
+    "image": "https://truthout.org/app/uploads/2026/10/1016_10-09-marco-rubio.jpg",
+    "publishedAt": "2026-10-09T18:43:28Z",
+    "author": "Sharon Zhang"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Trump Administration Sanctions ICC, Threatens Penalties For Companies",
+    "description": "The Trump administration imposed sanctions on the International Criminal Court on Friday, banning certain transactions and threatening penalties for companies that provide services to the tribunal.\nSecretary of State Marco Rubio said the measures were intende…",
+    "url": "https://biztoc.com/x/ccca09d1c0c45daa",
+    "image": "https://biztoc.com/cdn/ccca09d1c0c45daa_s.webp",
+    "publishedAt": "2026-10-09T18:42:26Z",
+    "author": "tippinsights.com"
+  },
+  {
+    "source": "RT",
+    "title": "ICC an instrument of ‘neocolonialism’ – Liberian politician (VIDEO)",
+    "description": "The ICC is an instrument of neocolonialism designed to exploit Africa, Emmanuel Gonquoi has told RT, urging African and developing nations to withdraw from the court",
+    "url": "https://www.rt.com/news/647001-icc-neocolonialism-instrument-africa/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac9167320302714e56900ef.jpg",
+    "publishedAt": "2026-10-09T18:29:34Z",
+    "author": "RT"
+  },
+  {
+    "source": "Fox News",
+    "title": "Marco Rubio announces sweeping financial sanctions against the International Criminal Court",
+    "description": "Marco Rubio announced the Trump administration will soon freeze ICC assets and bar all U.S. transactions with the International Criminal Court.",
+    "url": "https://www.foxnews.com/politics/marco-rubio-announces-sweeping-financial-sanctions-international-criminal-court",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/rubi0-10-8-26.jpg",
+    "publishedAt": "2026-10-09T18:25:03Z",
+    "author": null
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+    "description": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791569199.jpg?resize=1920%2C1080&quality=80",
+    "publishedAt": "2026-10-09T18:06:48Z",
+    "author": null
+  },
+  {
+    "source": "Human Rights Watch",
+    "title": "US Sanctions on ICC Put Global Justice at Risk",
+    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Permanent premises of the International Criminal Court in The Hague, the Netherlands. \n © 2019 Peter Dejong/AP\n \n \n\n\n \n(New York) – The Trump administration’s decision to sanction the International Criminal Court (IC…",
+    "url": "https://www.hrw.org/news/2026/10/09/us-sanctions-on-icc-put-global-justice-at-risk",
+    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2020/07/2020ij_icc_hague.jpg?h=a141e9ea&itok=DwyLi-MV",
+    "publishedAt": "2026-10-09T18:00:00Z",
+    "author": "Human Rights Watch"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
+    "description": "The sanctions could cut the ICC off from the U.S. financial system and prohibit it from conducting transactions in dollars.",
+    "url": "https://biztoc.com/x/ca798b07e0d08986",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-09T17:57:10Z",
+    "author": "wsj.com"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Netanyahu welcomes US sanctions on ICC",
+    "description": "Prime Minister Benjamin Netanyahu welcomed the US decision to sanction the International Criminal Court\".“The ICC is not a court. It is a political body that poses a mortal threat to law abiding democracies worldwide and to the very idea of national sovereign…",
+    "url": "https://www.israelnationalnews.com/flashes/695068",
+    "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+    "publishedAt": "2026-10-09T17:55:55Z",
+    "author": "Israel National News"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Trump administration sanctions entire ICC, vows to dismantle court",
+    "description": "Trump administration imposes sweeping sanctions on the International Criminal Court, targeting its operations over prosecutions involving Americans and Israelis.",
+    "url": "https://www.israelnationalnews.com/news/434370",
+    "image": "https://2.a7.org/files/pictures/000/1106979.jpg",
+    "publishedAt": "2026-10-09T17:55:00Z",
+    "author": "Elad Benari, Canada"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "US sanctions 'rogue' ICC hours after former judge wins Nobel Peace Prize",
+    "description": "The US announces sanctions on the International Criminal Court, hours after one of its former judges is given the Nobel Peace Prize, which Donald Trump covets.",
+    "url": "https://www.abc.net.au/news/2026-10-10/us-to-sanction-icc-after-trump-overlooked-for-peace-prize/107250264",
+    "image": "https://live-production.wcms.abc-cdn.net.au/297449d438f38a41dc0ae5f1b4ad6fd5?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=47&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-09T17:46:16Z",
+    "author": "https://www.abc.net.au/news/riley-stuart/8151366"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Shai Hope’s hundred fires West Indies to record win over India in second T20",
     "description": "RANCHI, India (AP) — Shai Hope hit an unbeaten 102 off only 45 balls as West Indies beat India in its highest successful Twenty20 run chase on Friday.Hope hit nine sixes and six boundaries in his second T20 hundred as West Indies finished with 252-4 in reply …",
@@ -79,195 +268,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/1919fbdb7f9ff629_s.webp",
     "publishedAt": "2026-10-09T16:27:15Z",
     "author": "breakingthenews.net"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Netanyahu welcomes US sanctions on ICC",
-    "description": "Israeli Prime Minister Benjamin Netanyahu welcomed the sanctions against the International Criminal Court (ICC) and thanked US President Donald Trump and Secretary of State Marco Rubio for the measure...",
-    "url": "https://biztoc.com/x/ec486986e9dbb098",
-    "image": "https://biztoc.com/cdn/ec486986e9dbb098_s.webp",
-    "publishedAt": "2026-10-09T16:27:05Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "EU slams US sanctions on ICC, vows to help court keep working",
-    "description": "Brussels hopes a six-month delay leaves room for dialogue with Washington",
-    "url": "https://biztoc.com/x/77691a6f50632c91",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-09T16:26:30Z",
-    "author": "rapporteur.com"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "U.S. targets International Criminal Court with new sanctions and an ultimatum",
-    "description": "The International Criminal Court (ICC) in The Hague on 23 September 2026.Photograph: Remko de Waal/ANP/AFP/Getty Images\n\r\n\n\nThe United States was accused of launching “an assault” on the world’s legal order after imposing more sanctions on the international c…",
-    "url": "https://www.yahoo.com/news/politics/articles/us-imposes-sanctions-international-criminal-151133171.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/5606cad1118a1002e9040b9e01143a7be0c9cd319a16b09aeecaeadc1909e990/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F193c6adb6266f50a47e9089f48314c66.jpg",
-    "publishedAt": "2026-10-09T16:13:13Z",
-    "author": "Ariana Baio in New York"
-  },
-  {
-    "source": "BBC News",
-    "title": "US impose sanctions on ICC with threat to 'end' international court",
-    "description": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
-    "url": "https://www.bbc.com/news/articles/cj20vkkx3rdvo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
-    "publishedAt": "2026-10-09T16:06:59Z",
-    "author": "Florence Freeman"
-  },
-  {
-    "source": "CBS News",
-    "title": "U.S. sanctions ICC, vowing to dismantle it \"brick by brick\" without changes",
-    "description": "The U.S. imposed fresh sanctions targeting the International Criminal Court, taking action against the court itself after previously penalizing more than a dozen of its judges and prosecutors.",
-    "url": "https://www.cbsnews.com/news/us-sanctions-international-criminal-court-rubio/",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/09/207d4a13-a6f2-4481-9333-bf624e6eb65b/thumbnail/1200x630/8353b61f1e4c824fa9e8e8f9c4b56a12/ap26264390937055.jpg",
-    "publishedAt": "2026-10-09T16:02:02Z",
-    "author": "Olivia  Gazis, Stefan  Becket"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-    "description": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791561535.jpg?resize=1620%2C1080&quality=80",
-    "publishedAt": "2026-10-09T15:59:04Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "US hits ICC with sweeping sanctions as part of drive to dismantle tribunal",
-    "description": "The Trump administration has enacted new sanctions against the International Criminal Court (ICC) to limit its ability to function effectively. Secretary of State Marco Rubio expressed concerns regarding proceedings involving Americans and Israelis. The ICC r…",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/us-hits-icc-with-sweeping-sanctions-as-part-of-drive-to-dismantle-tribunal/articleshow/134837643.cms",
-    "image": "https://img.etimg.com/thumb/msid-134837734,width-1200,height-900,imgsize-4756535,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-09T15:48:16Z",
-    "author": "AP"
-  },
-  {
-    "source": "Military.com",
-    "title": "US Hits International Criminal Court With Sweeping Sanctions as Part of Drive to Dismantle Tribunal",
-    "description": "The ICC denounced the step as an attack on the rule of law and the foundations of international order.",
-    "url": "https://military.com/us-hits-international-criminal-court-with-sweeping-sanctions-as-part-of-drive-to-dismantle-tribunal",
-    "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/10/ap26282484269259.jpg?w=1600&h=900&fit=crop",
-    "publishedAt": "2026-10-09T15:45:41Z",
-    "author": "MLT Staff"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "ICC: US sanctions 'unprecedented step'",
-    "description": "The International Criminal Court (ICC) rejected the sanctions imposed by the United States, describing the move as an \"unprecedented step.\" The ICC insisted that the sanctions are aimed at \"intimidati...",
-    "url": "https://biztoc.com/x/b2a5f4a361d1e554",
-    "image": "https://biztoc.com/cdn/b2a5f4a361d1e554_s.webp",
-    "publishedAt": "2026-10-09T15:41:30Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "Newser",
-    "title": "Launching Sweeping Sanctions, US Threatens to 'End the ICC'",
-    "description": "The Trump administration has imposed sweeping new sanctions on the International Criminal Court as part of its campaign to dismantle the tribunal that the US believes has become politicized and attempted to unfairly and illegally prosecute Americans and Israe…",
-    "url": "https://www.newser.com/story/397880/launching-sweeping-sanctions-us-threatens-to-end-the-icc.html",
-    "image": "https://cdn.newser.com/image/1716985-12-20261009110318.jpeg",
-    "publishedAt": "2026-10-09T15:38:00Z",
-    "author": "Polly Davis Doig"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "EU: US' ICC sanctions 'deeply regrettable'",
-    "description": "announced in a statement on Friday that the United States' intention to impose new sanctions on the International Criminal Court (ICC) is \"deeply regrettable.\"\"The EU will work...",
-    "url": "https://biztoc.com/x/8a54bbb214d76c7d",
-    "image": "https://biztoc.com/cdn/8a54bbb214d76c7d_s.webp",
-    "publishedAt": "2026-10-09T15:26:44Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "The Punch",
-    "title": "Trump sanctions ICC over prosecution of Americans, vows to cripple court",
-    "description": "US President Donald Trump has imposed sanctions on the International Criminal Court, vowing to cut off its resources and cripple its operations.\n\nRead More: https://punchng.com/trump-sanctions-icc-over-prosecution-of-americans-vows-to-cripple-court/",
-    "url": "https://punchng.com/trump-sanctions-icc-over-prosecution-of-americans-vows-to-cripple-court/",
-    "image": "https://punchng.com/wp-content/uploads/2026/06/OIP-5.webp",
-    "publishedAt": "2026-10-09T15:24:32Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "Sporting News",
-    "title": "India's highest scores in T20Is: Listing down Men in Blue's record team totals in T20Is and T20 World Cups",
-    "description": "India's highest totals in T20Is and T20 World Cups from 2007-2024 detailed.",
-    "url": "https://www.sportingnews.com/in/cricket/news/indias-highest-scores-t20is-record-totals-t20is-t20-world-cup/74f22a0fa14d2de4e092e5dc",
-    "image": "https://s.yimg.com/lo/mysterio/api/3f841f88ce911525e46970e6057afd8a96908fe1104c47b52430fa64286cc3be/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Ff6ed898e6cd64a589a863c343777c518",
-    "publishedAt": "2026-10-09T15:23:00Z",
-    "author": "Rahul Chalke"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "US imposes sanctions on International Criminal Court, hours after former judge wins Nobel",
-    "description": "The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and said they would not halt the tribunal's work",
-    "url": "https://www.thehindubusinessline.com/news/world/us-imposes-sanctions-on-international-criminal-court-hours-after-former-judge-wins-nobel/article71565058.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/pjybzu/article71565077.ece/alternates/LANDSCAPE_1200/2026-10-09T104629Z_1160509350_RC2MZNAW1C5O_RTRMADP_3_USA-TRUMP-ICC.JPG",
-    "publishedAt": "2026-10-09T15:04:52Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "RT",
-    "title": "Africans are disproportionately targeted by the ICC – investigative journalist",
-    "description": "Nigerian journalist David Hundeyin accuses the ICC of disproportionately targeting Africans while failing to hold war crimes perpetrators elsewhere accountable",
-    "url": "https://www.rt.com/africa/646994-icc-accused-of-targeting-africans/",
-    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac8fc1d203027727924d885.png",
-    "publishedAt": "2026-10-09T14:58:18Z",
-    "author": "RT"
-  },
-  {
-    "source": "Sputnikglobe.com",
-    "title": "US Adds International Criminal Court to Sanctions List - Treasury",
-    "description": "WASHINGTON (Sputnik) - The United States on Friday added the International Criminal Court (ICC) to its sanctions list.",
-    "url": "https://sputnikglobe.com/20261009/us-adds-international-criminal-court-to-sanctions-list---treasury-1124857520.html",
-    "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124857520.jpg?11085289491791557876",
-    "publishedAt": "2026-10-09T14:57:55Z",
-    "author": "Sputnik International"
-  },
-  {
-    "source": "Haaretz",
-    "title": "U.S. imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-    "description": "The sanctions could force U.S. companies to cut ties with the court, disrupting its banking, insurance and software services. Rubio warned allies to \"rein in the court,\" while its deputy prosecutor said the tribunal's work would continue",
-    "url": "https://www.haaretz.com/us-news/2026-10-09/ty-article/u-s-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/000001a1-2112-da49-a5e9-29ba95fb0000",
-    "image": "https://img.haarets.co.il/bs/000001a1-2112-da49-a5e9-29ba95fb0000/d8/36/09bbe5174328b16095934103c2ba/637913.jpg?&width=1200&height=630&cmsprod",
-    "publishedAt": "2026-10-09T14:54:27Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hours after Navi Pillay wins Nobel Peace prize, Trump hits ICC with major sanctions",
-    "description": "The Donald Trump administration imposed sanctions on the International Criminal Court (ICC) on Friday, hours after former court judge Navi Pillay won the",
-    "url": "https://timesofindia.indiatimes.com/world/us/hours-after-navi-pillay-wins-nobel-peace-prize-trump-hits-icc-with-sweeping-sanctions/articleshow/134836916.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134836964,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T14:46:48Z",
-    "author": "Vivek Dubey"
-  },
-  {
-    "source": "New York Post",
-    "title": "Rubio slaps fresh sanctions on ‘rogue’ International Criminal Court, vows to ‘end the ICC’ if prosecution threats go on",
-    "description": "WASHINGTON — Secretary of State Marco Rubio announced further sanctions Friday against the International Criminal Court and told US allies he expects their help in reining in the “rogue” body. Rubio declared in a statement the US was prohibiting additional tr…",
-    "url": "https://nypost.com/2026/10/09/us-news/rubio-slaps-fresh-sanctions-on-rogue-international-criminal-court-vows-to-end-the-icc-if-prosecution-threats-go-on/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144363931.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-10-09T14:30:42Z",
-    "author": "Josh Christenson"
-  },
-  {
-    "source": "Sputnikglobe.com",
-    "title": "US Bans Transactions With International Criminal Court - Reports",
-    "description": "WASHINGTON (Sputnik) - The US administration has imposed sanctions on the International Criminal Court (ICC) and will ban transactions with it, Reuters reported on Friday, citing US Secretary of State Marco Rubio.",
-    "url": "https://sputnikglobe.com/20261009/us-bans-transactions-with-international-criminal-court---reports-1124857124.html",
-    "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124857124.jpg?11185557661791556075",
-    "publishedAt": "2026-10-09T14:27:54Z",
-    "author": "Sputnik International"
-  },
-  {
-    "source": "Israelnationalnews.com",
-    "title": "Trump escalates clash with The Hague: US imposes sanctions on International Criminal Court",
-    "description": "The Trump administration imposed sanctions on the International Criminal Court (ICC) on Friday, just hours after Navi Pillay, a former judge at The Hague, was awarded the Nobel Peace Prize, Reuters reported.Unlike previous sanctions targeting individual judge…",
-    "url": "https://www.israelnationalnews.com/flashes/695066",
-    "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
-    "publishedAt": "2026-10-09T14:18:50Z",
-    "author": "Israel National News"
   }
 ]
 ;
