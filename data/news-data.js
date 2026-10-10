@@ -1,246 +1,273 @@
 window.cricketNews = [
   {
-    "source": "Dineshkhabar.com",
-    "title": "Dadeldhura’s Tek Raj Thalal Named Iconic Player for Sudurpaschim Royals",
-    "description": "Left-arm medium-fast bowler Tek Raj Thalal of Dadeldhura has been selected as the ‘Iconic Player’ for the Sudurpaschim Royals following a talent hunt organized for the third season of the Nepal Premier League (NPL).\r\n\nThe talent hunt aimed to identify local c…",
-    "url": "https://dineshkhabar.com/article/142391",
-    "image": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/Untitled-design-%2818%29-1791533089_0.jpg?itok=H5fNME-t",
-    "publishedAt": "2026-10-09T12:19:16Z",
-    "author": "editor"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Mother of 11-year-old girl found dead in village park suffering 'every parent's worst nightmare'",
-    "description": "Miya Deamer-Jones, 11, was discovered dead at a park near Elmley Castle Cricket Club in Worcestershire after going missing at around 11.20pm on Sunday.",
-    "url": "https://www.dailymail.com/news/article-16196267/Mother-girl-dead-village-park-worst-nightmare.html",
-    "image": "https://i.dailymail.com/1s/2026/10/09/13/111660211-0-image-m-16_1791547222637.jpg",
-    "publishedAt": "2026-10-09T12:05:16Z",
-    "author": "Elizabeth Haigh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Bamber signs new deal with champions Warwickshire",
-    "description": "Warwickshire fast bowler Ethan Bamber agrees a new three-year contract with the 2026 County Championship winners.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cm040np0glneo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/39cec6332f47f9376d42d4aaca91cd4bc2d38f00ba1e07114a78985d5b770f3f/lightyear_networkapi/resizefill_w767_h432%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2cf579b732623a5293843eaadb662e02.jpg",
-    "publishedAt": "2026-10-09T11:18:11Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Roanoke Times",
-    "title": "Nobel Peace Prize awarded to South African lawyer and former ICC judge Navi Pillay",
-    "description": "The Nobel Committee’s decision to recognize an international jurist serves as a not-so-subtle rebuke of the Trump administration, which imposed sanctions on the International Criminal Court last year.",
-    "url": "https://roanoke.com/news/nation-world/article_a836a979-b983-5bb8-bec5-cdb8a7dffad8.html",
-    "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/83/a836a979-b983-5bb8-bec5-cdb8a7dffad8/6ac8cbf52b240.preview.jpg?crop=1080%2C567%2C0%2C327",
-    "publishedAt": "2026-10-09T11:15:00Z",
-    "author": "Miles J. HerszenhornUSA TODAY"
-  },
-  {
-    "source": "Richmond.com",
-    "title": "Nobel Peace Prize awarded to South African lawyer and former ICC judge Navi Pillay",
-    "description": "The Nobel Committee’s decision to recognize an international jurist serves as a not-so-subtle rebuke of the Trump administration, which imposed sanctions on the International Criminal Court last year.",
-    "url": "https://richmond.com/news/nation-world/article_041e9e2d-813e-5ac4-a733-fbfa81a837bc.html",
-    "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/41/041e9e2d-813e-5ac4-a733-fbfa81a837bc/6ac8cbf4cd5c9.preview.jpg?crop=1080%2C567%2C0%2C327",
-    "publishedAt": "2026-10-09T11:15:00Z",
-    "author": "Miles J. HerszenhornUSA TODAY"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch India vs. West Indies free live stream, TV channel, start time for 2nd T20 match",
-    "description": "Here's everything you need to know about India vs. West Indies, including TV channel and streaming options for the second T20 matchup.",
-    "url": "https://www.sportingnews.com/us/cricket/news/india-vs-west-indies-free-live-stream-tv-channel-2nd-t20/5908908ee68e54a0a2ffa35b",
-    "image": "https://s.yimg.com/lo/mysterio/api/126d00fe1912041f7dfc3bfc7a8433089e45d4f9324333d1e207e2ba68184250/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fda22a8b2fca936afffc412deef15fa5a",
-    "publishedAt": "2026-10-09T11:10:22Z",
-    "author": "Dan Gibbs"
-  },
-  {
-    "source": "SFGate",
-    "title": "An already destroyed Calif. highway prepares for El Niño",
-    "description": "El Niño is expected to batter an already-destroyed SoCal mountain road.",
-    "url": "https://www.sfgate.com/la/article/calif-mountain-highway-damage-22465474.php",
-    "image": null,
-    "publishedAt": "2026-10-09T11:10:03Z",
-    "author": "Erin Rode"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ishan fever grips Ranchi ahead of T20I",
-    "description": "Ranchi gears up for Friday’s India vs West Indies T20I as Ishan Kishan returns home in form; ticket demand soars and fans await a big cricket night.",
-    "url": "https://timesofindia.indiatimes.com/city/ranchi/ishan-fever-grips-ranchi-ahead-of-t20i/articleshow/134831538.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134831536,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T11:02:03Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "The Times of India",
-    "title": "What is the International Criminal Court?",
-    "description": "South African judge Navanethem \"Navi\" Pillay, who was awarded the Nobel peace prize has been a judge on the International Criminal Court (ICC). The ICC was established in 2002 to prosecute individuals for war crimes, crimes against humanity, genocide and the …",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/what-is-the-international-criminal-court/articleshow/134831138.cms",
-    "image": "https://img.etimg.com/thumb/msid-134831477,width-1200,height-900,imgsize-335852,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-09T11:00:14Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Litchfield fireworks help Australia to ODI victory over Bangladesh",
-    "description": "A quick fire half-century to Phoebe Litchfield has helped Australia to a commanding seven-wicket victory over Bangladesh in their first ODI in Brisbane.",
-    "url": "https://www.abc.net.au/news/2026-10-09/australia-romps-to-odi-victory-over-bangladesh/107250156",
-    "image": "https://live-production.wcms.abc-cdn.net.au/7954903e88e2b65128b1997e4ffc0a61?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=355&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-09T10:57:02Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Sandpapergate remains cricket's great unsolved mystery with the blame game still rumbling on as Australia return to South Africa eight years after scandal - so, did the REAL culprits get away with it?",
-    "description": "LAWRENCE BOOTH: As Australia and South Africa wage war in Friday's first Test at Durban, no one will be tampering with the ball. And yet you can be sure everyone is thinking about ball-tampering.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16189341/Sandpapergate-remains-crickets-great-unsolved-mystery-blame-game-rumbling-Australia-return-South-Africa-eight-years-scandal-did-REAL-culprits-away-it.html",
-    "image": "https://i.dailymail.com/1s/2026/10/09/11/111743209-0-image-m-1_1791542335878.jpg",
-    "publishedAt": "2026-10-09T10:40:07Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Japan protests Russia’s bid to extradite ICC chief Tomoko Akanae, a Japanese national, over Putin arrest warrant",
-    "description": "Japan on Friday lodged a formal protest against Russia’s request for the extradition of International Criminal Court (ICC) President Tomoko Akane, a",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/japan-protests-russias-bid-to-extradite-icc-top-judge-tomoko-akane-a-japanese-national-over-putin-arrest-warrant/articleshow/134829705.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134830574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T10:27:17Z",
-    "author": "Karan Manral"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ravindra Jadeja named in Saurashtra squad for Ranji Trophy opener, Unadkat to lead",
-    "description": "Indian Cricketer Ravindra Jadeja is set to play for Saurashtra against Chhattisgarh in the upcoming Ranji Trophy season. Jaydev Unadkat will continue as captain following his successful stint with Sussex. Saurashtra has retained 14 players from this season's …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ravindra-jadeja-named-in-saurashtra-squad-for-ranji-trophy-opener-unadkat-to-lead/articleshow/134830351.cms",
-    "image": "https://img.etimg.com/thumb/msid-134830548,width-1200,height-900,imgsize-135164,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-09T10:25:18Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Rashid Latif was named nana after Nana Patekar': Ex-Pakistan cricketer Basit Ali says late actor was the same person on and off screen",
-    "description": "Former Pakistan cricketer Basit Ali has paid an emotional tribute to Nana Patekar, remembering a friendship that began in 1994 and continued through regular conversations over the years. Ali recalled how the actor checked on his mother during her hospitalisat…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/rashid-latif-was-named-nana-after-nana-patekar-ex-pakistan-cricketer-basit-ali-says-late-actor-was-the-same-person-on-and-off-screen/articleshow/134826787.cms",
-    "image": "https://img.etimg.com/thumb/msid-134830092,width-1200,height-900,imgsize-95444,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-09T10:17:58Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Australia cricket team players age: How old is Australia's current Test squad?",
-    "description": "Australia have an experienced Test squad, but their prime years may be coming to an end.",
-    "url": "https://www.cricketnews.com/en/cricket/news/australia-cricket-team-players-age-how-old-current-test-squad/f90fef0434f735532d5402f3",
-    "image": "https://s.yimg.com/lo/mysterio/api/32a0fa8d068d9cad73c782321ecb189200e068d85cfe56e26afc5b127393a545/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F705ff34eef0dc17107c6e13c94692917",
-    "publishedAt": "2026-10-09T09:47:00Z",
-    "author": "Abhinav Nair"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Baffling selection bears no fruit’: Fans react as Nic Maddinson endures a 'painful' 33-dall duck vs South Africa on Aussie return",
-    "description": "While his selection for the South African tour was already under scrutiny, Nic Maddinson's 33-ball duck provides no consolation for the opening batter in front of Aussie fans.",
-    "url": "https://www.cricketnews.com/en/cricket/news/baffling-selection-fans-react-nic-maddinson-33-dall-duck-autralia-return/95a56900b9979aeabc6b8e8b",
-    "image": "https://s.yimg.com/lo/mysterio/api/10e6056f454a9c57d46011cf678eabca34e0b6dbf68a57bcade5803f9376c185/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7ea8624db2fe11ff22fe0d48e6583097",
-    "publishedAt": "2026-10-09T09:36:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Steve Smith's batting average in Test cricket in every country: South Africa remains a major blip",
-    "description": "Steve Smith might be the premier Test batter of this century across the world, but South Africa has proved to be his weak point again and again, with an average against the Proteas that tells the whole story.",
-    "url": "https://www.cricketnews.com/en/cricket/news/steve-smith-batting-average-test-cricket-every-country/7d052bbf1a1fbfc6ff3b52b2",
-    "image": "https://s.yimg.com/lo/mysterio/api/9419a8c3167a005debd1a9b60d298b0ee0f6ca6f7a2ca3f8bfb2944b5bad8564/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd73b07e1b657446b0fe80ef374eedd1c",
-    "publishedAt": "2026-10-09T09:17:52Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "CBS News",
-    "title": "Nobel Peace Prize 2026 awarded to ICC jurist Navanethem \"Navi\" Pillay",
-    "description": "The Nobel Peace Prize 2026 was awarded to Navanethem \"Navi\" Pillay, a judge on the International Criminal Court, for promoting peace and international justice.",
-    "url": "https://www.cbsnews.com/news/nobel-peace-prize-2026-navanethem-navi-pillay-south-africa/",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/09/93631ac5-dbf6-496a-be4c-a34afa597ba2/thumbnail/1200x630/a25c7dc1bbe6c5d4ed406d08c809e5e7/navi-pillay-453074809.jpg",
-    "publishedAt": "2026-10-09T09:15:45Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Age no barrier: Why the India selectors handed Bhuvneshwar Kumar one last shot",
-    "description": "I was surprised to see Bhuvneshwar Kumar's name in India's T20I squad for the tour of New Zealand later this month, nearly four years after his last appearance in international cricket, says The Cricket News' Jamie Alter...",
-    "url": "https://www.cricketnews.com/en/cricket/cricket-features/why-india-selectors-bhuvneshwar-kumar-one-last-shot/cc006ba169768802b8bb4773",
-    "image": "https://s.yimg.com/lo/mysterio/api/742b419cb760eb851f1317b8a772e23c1d1281c0b1b852d529c27b9c96790029/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1663a201ef289ec2a9867e343a0a6a57",
-    "publishedAt": "2026-10-09T08:58:08Z",
-    "author": "Jamie Alter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nic Maddinson creates unwanted record for longest duck by a Test opener in 21st century",
-    "description": "Nic Maddinson's return to Test cricket after nearly a decade began poorly with a 33-ball duck. He set a new record for the longest innings without scoring by a Test opener in the 21st century. Matthews Hayden criticized his selection, highlighting concerns ov…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nic-maddinson-creates-unwanted-record-for-longest-duck-by-a-test-opener-in-21st-century/articleshow/134826092.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134826334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T08:47:56Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia 84-3 at lunch as Maddinson’s remarkable return ends in a duck",
-    "description": "DURBAN, Oct 9 : Cancer survivor Nic Maddinson failed to score on his return to test cricket on Friday as Australia reached lunch on 84–3 on the opening day of the first test against South Africa at Kingsmead.The 34-year-old, a surprise choice to open after Au…",
-    "url": "https://www.channelnewsasia.com/sport/australia-84-3-lunch-maddinsons-remarkable-return-ends-in-duck-6445541",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-10-09T07:47:06Z",
-    "author": null
-  },
-  {
     "source": "Yahoo Entertainment",
-    "title": "Australia bats 1st in opening cricket test against South Africa",
-    "description": "DURBAN, South Africa (AP) — Nic Maddinson will open the batting after being recalled to Australia’s test side for the first time in 10 years after the visitors won the toss and decided to bat in the first cricket test against South Africa.Maddinson on Friday …",
-    "url": "https://sports.yahoo.com/articles/australia-bats-1st-opening-cricket-073656824.html",
+    "title": "Shai Hope’s hundred fires West Indies to record win over India in second T20",
+    "description": "RANCHI, India (AP) — Shai Hope hit an unbeaten 102 off only 45 balls as West Indies beat India in its highest successful Twenty20 run chase on Friday.Hope hit nine sixes and six boundaries in his second T20 hundred as West Indies finished with 252-4 in reply …",
+    "url": "https://sports.yahoo.com/articles/shai-hope-hundred-fires-west-174225330.html",
     "image": null,
-    "publishedAt": "2026-10-09T07:36:56Z",
+    "publishedAt": "2026-10-09T17:42:25Z",
     "author": "Associated Press"
   },
   {
-    "source": "The Local Sweden",
-    "title": "Today in Sweden: A roundup of the latest news on Friday",
-    "description": "Sweden issues weather warning as gale-force winds set to batter east coast – and Centre and Christian Democrat leaders hold secret sauna meeting. Here's the latest news.",
-    "url": "https://www.thelocal.se/20261009/today-in-sweden-a-roundup-of-the-latest-news-on-friday-247",
-    "image": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-sdlGQhWNx9r5wU_NormalHires.jpg@webp",
-    "publishedAt": "2026-10-09T07:12:51Z",
-    "author": "Emma Löfgren"
+    "source": "Common Dreams",
+    "title": "After Former ICC Judge Wins Nobel Peace Prize, US Hits Court With New Sanctions",
+    "description": "Not long after a former International Criminal Court judge on Friday won the Nobel Peace Prize for \"ensuring that war crimes, crimes against humanity, and genocide are prosecuted,\" US President Donald Trump—who has long sought the award—continued his administ…",
+    "url": "https://www.commondreams.org/news/trump-icc-sanctions",
+    "image": "https://www.commondreams.org/media-library/image.jpg?id=68402829&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+    "publishedAt": "2026-10-09T17:32:11Z",
+    "author": "Jessica Corbett"
+  },
+  {
+    "source": "Freerepublic.com",
+    "title": "Rubio slaps fresh sanctions on ‘rogue’ International Criminal Court, vows to ‘end the ICC’ if prosecution threats go on",
+    "description": "Secretary of State Marco Rubio announced Friday the US is barring all transactions with the International Criminal Court and told America’s allies he expects their help in reining in the “rogue” body. Rubio declared in a statement the US was moving to cripple…",
+    "url": "https://freerepublic.com/focus/f-news/4398585/posts",
+    "image": null,
+    "publishedAt": "2026-10-09T17:27:38Z",
+    "author": "NY Post"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in T20I cricket: Full list of records",
+    "description": "Highest successful run chases in T20I cricket: Full list of record targets hunted down, featuring South Africa's 259/4, Australia, West Indies, and India.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-t20i-full-list-records/80c245c4d0066ef49e552020",
+    "image": "https://s.yimg.com/lo/mysterio/api/cb5842106861b3d269d1324b5afdbd11baba52c3e14603b7bccbc8446b388854/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F04ae8da1ab380cd9138952772db30491",
+    "publishedAt": "2026-10-09T17:22:04Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Farhan and Sadaqat half-centuries lead Pakistan to victory over Sri Lanka in 1st T20",
+    "description": "RAWALPINDI, Pakistan (AP) — Sahibzada Farhan celebrated his elevation to the Pakistan Twenty20 captaincy with a 52-ball 89 as Sri Lanka was beaten by four wickets on Friday.Farhan carried Pakistan to 187-6 in 18.",
+    "url": "https://sports.yahoo.com/articles/farhan-sadaqat-half-centuries-lead-171613685.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/50b25d4a2948bacd238733296b6e034fbf581e676a516f5344686d659edaf92f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdb8ee850903799e6f70e61f8875cde43.jpg",
+    "publishedAt": "2026-10-09T17:16:13Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in all T20 cricket at JSCA International Stadium, Ranchi: Full list of records including IPL and T20Is",
+    "description": "Highest successful run chases at JSCA Stadium, Ranchi in T20 cricket: Full list of top chases in IPL, T20Is, and CLT20 matches ahead of India vs West Indies.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-run-chases-t20-jsca-stadium-ranchi-records-ipl-t20is/83996c890c3a1c4a12de3101",
+    "image": "https://s.yimg.com/lo/mysterio/api/a424c4d979b11d1b823a67934a8ac836e60520245f071a6dbcf43303700425e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa346c3644ad40acca28cb699db59c947",
+    "publishedAt": "2026-10-09T17:05:42Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Legalinsurrection.com",
+    "title": "Rubio Sanctions ICC: The Court ‘Will End Its Threats or We Will End the ICC’",
+    "description": "\"Our message is clear: the United States and its people are not subject to the jurisdiction of the ICC.\"\nThe post Rubio Sanctions ICC: The Court ‘Will End Its Threats or We Will End the ICC’ first appeared on Le·gal In·sur·rec·tion.",
+    "url": "https://legalinsurrection.com/2026/10/rubio-sanctions-icc-the-court-will-end-its-threats-or-we-will-end-the-icc/",
+    "image": "https://legalinsurrection.com/wp-content/uploads/2026/10/Marco-Rubio-1.jpg",
+    "publishedAt": "2026-10-09T17:00:57Z",
+    "author": "Mary Chastain"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Dutch parliament to vote on country's exit from ICC",
+    "description": "The lower house of the Dutch parliament will vote on a proposal to withdraw from the International Criminal Court (ICC) and expel the court from the country, Geert Wilders, leader of the far-right Par...",
+    "url": "https://biztoc.com/x/8edb54c72087c676",
+    "image": "https://biztoc.com/cdn/8edb54c72087c676_s.webp",
+    "publishedAt": "2026-10-09T16:41:48Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Canada, Japan, UK and others back ICC amid US sanctions",
+    "description": "The foreign ministers of Canada, Denmark, Germany, France, Italy, Japan, the Netherlands and the United Kingdom on Friday condemned US sanctions against the International Criminal Court (ICC) in a joi...",
+    "url": "https://biztoc.com/x/1919fbdb7f9ff629",
+    "image": "https://biztoc.com/cdn/1919fbdb7f9ff629_s.webp",
+    "publishedAt": "2026-10-09T16:27:15Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Netanyahu welcomes US sanctions on ICC",
+    "description": "Israeli Prime Minister Benjamin Netanyahu welcomed the sanctions against the International Criminal Court (ICC) and thanked US President Donald Trump and Secretary of State Marco Rubio for the measure...",
+    "url": "https://biztoc.com/x/ec486986e9dbb098",
+    "image": "https://biztoc.com/cdn/ec486986e9dbb098_s.webp",
+    "publishedAt": "2026-10-09T16:27:05Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "EU slams US sanctions on ICC, vows to help court keep working",
+    "description": "Brussels hopes a six-month delay leaves room for dialogue with Washington",
+    "url": "https://biztoc.com/x/77691a6f50632c91",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-09T16:26:30Z",
+    "author": "rapporteur.com"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "U.S. targets International Criminal Court with new sanctions and an ultimatum",
+    "description": "The International Criminal Court (ICC) in The Hague on 23 September 2026.Photograph: Remko de Waal/ANP/AFP/Getty Images\n\r\n\n\nThe United States was accused of launching “an assault” on the world’s legal order after imposing more sanctions on the international c…",
+    "url": "https://www.yahoo.com/news/politics/articles/us-imposes-sanctions-international-criminal-151133171.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/5606cad1118a1002e9040b9e01143a7be0c9cd319a16b09aeecaeadc1909e990/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F193c6adb6266f50a47e9089f48314c66.jpg",
+    "publishedAt": "2026-10-09T16:13:13Z",
+    "author": "Ariana Baio in New York"
+  },
+  {
+    "source": "BBC News",
+    "title": "US impose sanctions on ICC with threat to 'end' international court",
+    "description": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+    "url": "https://www.bbc.com/news/articles/cj20vkkx3rdvo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
+    "publishedAt": "2026-10-09T16:06:59Z",
+    "author": "Florence Freeman"
+  },
+  {
+    "source": "CBS News",
+    "title": "U.S. sanctions ICC, vowing to dismantle it \"brick by brick\" without changes",
+    "description": "The U.S. imposed fresh sanctions targeting the International Criminal Court, taking action against the court itself after previously penalizing more than a dozen of its judges and prosecutors.",
+    "url": "https://www.cbsnews.com/news/us-sanctions-international-criminal-court-rubio/",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/09/207d4a13-a6f2-4481-9333-bf624e6eb65b/thumbnail/1200x630/8353b61f1e4c824fa9e8e8f9c4b56a12/ap26264390937055.jpg",
+    "publishedAt": "2026-10-09T16:02:02Z",
+    "author": "Olivia  Gazis, Stefan  Becket"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+    "description": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791561535.jpg?resize=1620%2C1080&quality=80",
+    "publishedAt": "2026-10-09T15:59:04Z",
+    "author": null
   },
   {
     "source": "The Times of India",
-    "title": "‘He called every week’: Ex-Pakistan cricketer reveals how Nana Patekar stood by his mother during illness",
-    "description": "Nana Patekar, renowned actor, passed away at the age of 75 after a cardiac arrest at his residence. Former cricketer Basit Ali shared heartfelt memories of his enduring friendship with Patekar throughout the years. Ali recalled how Patekar supported him durin…",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/he-called-every-week-ex-pakistan-cricketer-reveals-how-nana-patekar-stood-by-his-mother-during-illness/articleshow/134814904.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134815191,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T06:31:20Z",
-    "author": "Pranav Shukla"
+    "title": "US hits ICC with sweeping sanctions as part of drive to dismantle tribunal",
+    "description": "The Trump administration has enacted new sanctions against the International Criminal Court (ICC) to limit its ability to function effectively. Secretary of State Marco Rubio expressed concerns regarding proceedings involving Americans and Israelis. The ICC r…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/us-hits-icc-with-sweeping-sanctions-as-part-of-drive-to-dismantle-tribunal/articleshow/134837643.cms",
+    "image": "https://img.etimg.com/thumb/msid-134837734,width-1200,height-900,imgsize-4756535,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T15:48:16Z",
+    "author": "AP"
+  },
+  {
+    "source": "Military.com",
+    "title": "US Hits International Criminal Court With Sweeping Sanctions as Part of Drive to Dismantle Tribunal",
+    "description": "The ICC denounced the step as an attack on the rule of law and the foundations of international order.",
+    "url": "https://military.com/us-hits-international-criminal-court-with-sweeping-sanctions-as-part-of-drive-to-dismantle-tribunal",
+    "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/10/ap26282484269259.jpg?w=1600&h=900&fit=crop",
+    "publishedAt": "2026-10-09T15:45:41Z",
+    "author": "MLT Staff"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "ICC: US sanctions 'unprecedented step'",
+    "description": "The International Criminal Court (ICC) rejected the sanctions imposed by the United States, describing the move as an \"unprecedented step.\" The ICC insisted that the sanctions are aimed at \"intimidati...",
+    "url": "https://biztoc.com/x/b2a5f4a361d1e554",
+    "image": "https://biztoc.com/cdn/b2a5f4a361d1e554_s.webp",
+    "publishedAt": "2026-10-09T15:41:30Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "Newser",
+    "title": "Launching Sweeping Sanctions, US Threatens to 'End the ICC'",
+    "description": "The Trump administration has imposed sweeping new sanctions on the International Criminal Court as part of its campaign to dismantle the tribunal that the US believes has become politicized and attempted to unfairly and illegally prosecute Americans and Israe…",
+    "url": "https://www.newser.com/story/397880/launching-sweeping-sanctions-us-threatens-to-end-the-icc.html",
+    "image": "https://cdn.newser.com/image/1716985-12-20261009110318.jpeg",
+    "publishedAt": "2026-10-09T15:38:00Z",
+    "author": "Polly Davis Doig"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "EU: US' ICC sanctions 'deeply regrettable'",
+    "description": "announced in a statement on Friday that the United States' intention to impose new sanctions on the International Criminal Court (ICC) is \"deeply regrettable.\"\"The EU will work...",
+    "url": "https://biztoc.com/x/8a54bbb214d76c7d",
+    "image": "https://biztoc.com/cdn/8a54bbb214d76c7d_s.webp",
+    "publishedAt": "2026-10-09T15:26:44Z",
+    "author": "breakingthenews.net"
+  },
+  {
+    "source": "The Punch",
+    "title": "Trump sanctions ICC over prosecution of Americans, vows to cripple court",
+    "description": "US President Donald Trump has imposed sanctions on the International Criminal Court, vowing to cut off its resources and cripple its operations.\n\nRead More: https://punchng.com/trump-sanctions-icc-over-prosecution-of-americans-vows-to-cripple-court/",
+    "url": "https://punchng.com/trump-sanctions-icc-over-prosecution-of-americans-vows-to-cripple-court/",
+    "image": "https://punchng.com/wp-content/uploads/2026/06/OIP-5.webp",
+    "publishedAt": "2026-10-09T15:24:32Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India's highest scores in T20Is: Listing down Men in Blue's record team totals in T20Is and T20 World Cups",
+    "description": "India's highest totals in T20Is and T20 World Cups from 2007-2024 detailed.",
+    "url": "https://www.sportingnews.com/in/cricket/news/indias-highest-scores-t20is-record-totals-t20is-t20-world-cup/74f22a0fa14d2de4e092e5dc",
+    "image": "https://s.yimg.com/lo/mysterio/api/3f841f88ce911525e46970e6057afd8a96908fe1104c47b52430fa64286cc3be/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Ff6ed898e6cd64a589a863c343777c518",
+    "publishedAt": "2026-10-09T15:23:00Z",
+    "author": "Rahul Chalke"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "US imposes sanctions on International Criminal Court, hours after former judge wins Nobel",
+    "description": "The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and said they would not halt the tribunal's work",
+    "url": "https://www.thehindubusinessline.com/news/world/us-imposes-sanctions-on-international-criminal-court-hours-after-former-judge-wins-nobel/article71565058.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/pjybzu/article71565077.ece/alternates/LANDSCAPE_1200/2026-10-09T104629Z_1160509350_RC2MZNAW1C5O_RTRMADP_3_USA-TRUMP-ICC.JPG",
+    "publishedAt": "2026-10-09T15:04:52Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "RT",
+    "title": "Africans are disproportionately targeted by the ICC – investigative journalist",
+    "description": "Nigerian journalist David Hundeyin accuses the ICC of disproportionately targeting Africans while failing to hold war crimes perpetrators elsewhere accountable",
+    "url": "https://www.rt.com/africa/646994-icc-accused-of-targeting-africans/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ac8fc1d203027727924d885.png",
+    "publishedAt": "2026-10-09T14:58:18Z",
+    "author": "RT"
+  },
+  {
+    "source": "Sputnikglobe.com",
+    "title": "US Adds International Criminal Court to Sanctions List - Treasury",
+    "description": "WASHINGTON (Sputnik) - The United States on Friday added the International Criminal Court (ICC) to its sanctions list.",
+    "url": "https://sputnikglobe.com/20261009/us-adds-international-criminal-court-to-sanctions-list---treasury-1124857520.html",
+    "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124857520.jpg?11085289491791557876",
+    "publishedAt": "2026-10-09T14:57:55Z",
+    "author": "Sputnik International"
+  },
+  {
+    "source": "Haaretz",
+    "title": "U.S. imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+    "description": "The sanctions could force U.S. companies to cut ties with the court, disrupting its banking, insurance and software services. Rubio warned allies to \"rein in the court,\" while its deputy prosecutor said the tribunal's work would continue",
+    "url": "https://www.haaretz.com/us-news/2026-10-09/ty-article/u-s-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/000001a1-2112-da49-a5e9-29ba95fb0000",
+    "image": "https://img.haarets.co.il/bs/000001a1-2112-da49-a5e9-29ba95fb0000/d8/36/09bbe5174328b16095934103c2ba/637913.jpg?&width=1200&height=630&cmsprod",
+    "publishedAt": "2026-10-09T14:54:27Z",
+    "author": "Reuters"
   },
   {
     "source": "The Times of India",
-    "title": "‘It cannot happen’: Ex-India cricketer rules out Vaibhav Sooryavanshi replacing Sanju Samson",
-    "description": "After lackluster performances in the T20I series against the West Indies, Sanju Samson is under fire from critics. Aakash Chopra advises against dropping him for Vaibhav Sooryavanshi, asserting that Samson's previous accomplishments merit further chances. Mea…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/it-cannot-happen-ex-india-cricketer-rules-out-vaibhav-sooryavanshi-replacing-sanju-samson/articleshow/134809313.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134809795,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T05:18:40Z",
-    "author": "Pranav Shukla"
+    "title": "Hours after Navi Pillay wins Nobel Peace prize, Trump hits ICC with major sanctions",
+    "description": "The Donald Trump administration imposed sanctions on the International Criminal Court (ICC) on Friday, hours after former court judge Navi Pillay won the",
+    "url": "https://timesofindia.indiatimes.com/world/us/hours-after-navi-pillay-wins-nobel-peace-prize-trump-hits-icc-with-sweeping-sanctions/articleshow/134836916.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134836964,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-09T14:46:48Z",
+    "author": "Vivek Dubey"
   },
   {
-    "source": "The Times of India",
-    "title": "New Zealand's Chapman, Foulkes ruled out of India T20s through injury",
-    "description": "New Zealand batters Mark Chapman and fast bowler Zak Foulkes have been ruled out of the five-match T20I series against India due to injuries. Chapman, who has a left hamstring tear, is expected to recover in time for the ODI series, while Foulkes has injured …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/new-zealands-chapman-foulkes-ruled-out-of-india-t20s-through-injury/articleshow/134808260.cms",
-    "image": "https://img.etimg.com/thumb/msid-134808439,width-1200,height-900,imgsize-133340,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-09T04:52:47Z",
-    "author": "ET Online"
+    "source": "New York Post",
+    "title": "Rubio slaps fresh sanctions on ‘rogue’ International Criminal Court, vows to ‘end the ICC’ if prosecution threats go on",
+    "description": "WASHINGTON — Secretary of State Marco Rubio announced further sanctions Friday against the International Criminal Court and told US allies he expects their help in reining in the “rogue” body. Rubio declared in a statement the US was prohibiting additional tr…",
+    "url": "https://nypost.com/2026/10/09/us-news/rubio-slaps-fresh-sanctions-on-rogue-international-criminal-court-vows-to-end-the-icc-if-prosecution-threats-go-on/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144363931.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-09T14:30:42Z",
+    "author": "Josh Christenson"
   },
   {
-    "source": "The Times of India",
-    "title": "Why has New Zealand's T20I squad changed ahead of the India series?",
-    "description": "New Zealand have made two changes to their T20I squad for the upcoming five-match series against India after Mark Chapman and Zak Foulkes were ruled out with injuries. Allrounder Josh Clarkson and fast bowler Blair Tickner have been called up to replace the i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-has-new-zealands-t20i-squad-changed-ahead-of-the-india-series/articleshow/134807223.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134807379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T04:32:14Z",
-    "author": "Amit Kumar"
+    "source": "Sputnikglobe.com",
+    "title": "US Bans Transactions With International Criminal Court - Reports",
+    "description": "WASHINGTON (Sputnik) - The US administration has imposed sanctions on the International Criminal Court (ICC) and will ban transactions with it, Reuters reported on Friday, citing US Secretary of State Marco Rubio.",
+    "url": "https://sputnikglobe.com/20261009/us-bans-transactions-with-international-criminal-court---reports-1124857124.html",
+    "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124857124.jpg?11185557661791556075",
+    "publishedAt": "2026-10-09T14:27:54Z",
+    "author": "Sputnik International"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "Trump escalates clash with The Hague: US imposes sanctions on International Criminal Court",
+    "description": "The Trump administration imposed sanctions on the International Criminal Court (ICC) on Friday, just hours after Navi Pillay, a former judge at The Hague, was awarded the Nobel Peace Prize, Reuters reported.Unlike previous sanctions targeting individual judge…",
+    "url": "https://www.israelnationalnews.com/flashes/695066",
+    "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+    "publishedAt": "2026-10-09T14:18:50Z",
+    "author": "Israel National News"
   }
 ]
 ;
