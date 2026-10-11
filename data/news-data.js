@@ -1,6 +1,60 @@
 window.cricketNews = [
   {
     "source": "Slashdot.org",
+    "title": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
+    "description": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyerPolitico Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times Former ICC judge Navi Pillay wins 2026 Nobel Peace PrizeReuters Trump Reshar…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186086358",
+    "image": null,
+    "publishedAt": "2026-10-10T00:33:30Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "The ICC Is a Threat to America",
+    "description": "The International Criminal Court deserves U.S. sanctions, the sooner the better.",
+    "url": "https://biztoc.com/x/fdbcb69a919d267a",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-10T00:00:18Z",
+    "author": "wsj.com"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post",
+    "description": "Trump hits International Criminal Court with sanctions after Nobel goes to former judgeThe Washington Post EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters Trump Administration Hits International Criminal Court Wit…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085816",
+    "image": null,
+    "publishedAt": "2026-10-09T23:12:31Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "New York Post",
+    "title": "Chargers provide Rashawn Slater major injury update ahead of Broncos clash",
+    "description": "Chargers offensive tackle Rashawn Slater underwent successful ankle surgery. The Pro Bowler had a tight-rope procedure done with the purpose of accelerating his return from a high-ankle sprain. Slater, who...",
+    "url": "https://nypost.com/2026/10/09/sports/chargers-rashawn-slater-injury-update-broncos/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+    "image": "https://s.yimg.com/lo/mysterio/api/17a3b67da86614dbebed60c91442c0180f2713a9b46821dff067e08d2af06b05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F1e9f7c163af827d2beb0c0bdc0f5d68d.jpg",
+    "publishedAt": "2026-10-09T22:11:49Z",
+    "author": "Valentina Martinez"
+  },
+  {
+    "source": "New York Post",
+    "title": "Chargers provide Rashawn Slater major injury update ahead of Broncos clash",
+    "description": "Chargers offensive tackle Rashawn Slater underwent successful ankle surgery. The Pro Bowler had a tight-rope procedure done with the purpose of accelerating his return from a high-ankle sprain. Slater, who sustained the ankle injury in Week 4 against the Seah…",
+    "url": "https://nypost.com/2026/10/09/sports/chargers-rashawn-slater-injury-update-broncos/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-oq7kze455-1791580410267.jpg?quality=75&strip=all&1791566037&w=1200",
+    "publishedAt": "2026-10-09T22:11:49Z",
+    "author": "Valentina Martinez"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "US announces sanctions on the International Criminal Court - DW.com",
+    "description": "US announces sanctions on the International Criminal CourtDW.com EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters Trump hits International Criminal Court with sanctions after Nobel goes to former judgeThe Washingto…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085306",
+    "image": null,
+    "publishedAt": "2026-10-09T21:54:05Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "Slashdot.org",
     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",
     "description": "Navi Pillay, former UN human rights chief, wins Nobel Peace PrizeBBC Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times 2026 Nobel Peace Prize Goes to Former ICC Judge Navi Pillay, Prompting New U.S. SanctionsForeign…",
     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085034",
@@ -214,60 +268,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-10-09T17:27:38Z",
     "author": "NY Post"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Highest successful run chases in T20I cricket: Full list of records",
-    "description": "Highest successful run chases in T20I cricket: Full list of record targets hunted down, featuring South Africa's 259/4, Australia, West Indies, and India.",
-    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-t20i-full-list-records/80c245c4d0066ef49e552020",
-    "image": "https://s.yimg.com/lo/mysterio/api/cb5842106861b3d269d1324b5afdbd11baba52c3e14603b7bccbc8446b388854/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F04ae8da1ab380cd9138952772db30491",
-    "publishedAt": "2026-10-09T17:22:04Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Farhan and Sadaqat half-centuries lead Pakistan to victory over Sri Lanka in 1st T20",
-    "description": "RAWALPINDI, Pakistan (AP) — Sahibzada Farhan celebrated his elevation to the Pakistan Twenty20 captaincy with a 52-ball 89 as Sri Lanka was beaten by four wickets on Friday.Farhan carried Pakistan to 187-6 in 18.",
-    "url": "https://sports.yahoo.com/articles/farhan-sadaqat-half-centuries-lead-171613685.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/50b25d4a2948bacd238733296b6e034fbf581e676a516f5344686d659edaf92f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdb8ee850903799e6f70e61f8875cde43.jpg",
-    "publishedAt": "2026-10-09T17:16:13Z",
-    "author": "RIZWAN ALI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Highest successful run chases in all T20 cricket at JSCA International Stadium, Ranchi: Full list of records including IPL and T20Is",
-    "description": "Highest successful run chases at JSCA Stadium, Ranchi in T20 cricket: Full list of top chases in IPL, T20Is, and CLT20 matches ahead of India vs West Indies.",
-    "url": "https://www.cricketnews.com/en/cricket/news/highest-run-chases-t20-jsca-stadium-ranchi-records-ipl-t20is/83996c890c3a1c4a12de3101",
-    "image": "https://s.yimg.com/lo/mysterio/api/a424c4d979b11d1b823a67934a8ac836e60520245f071a6dbcf43303700425e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa346c3644ad40acca28cb699db59c947",
-    "publishedAt": "2026-10-09T17:05:42Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Legalinsurrection.com",
-    "title": "Rubio Sanctions ICC: The Court ‘Will End Its Threats or We Will End the ICC’",
-    "description": "\"Our message is clear: the United States and its people are not subject to the jurisdiction of the ICC.\"\nThe post Rubio Sanctions ICC: The Court ‘Will End Its Threats or We Will End the ICC’ first appeared on Le·gal In·sur·rec·tion.",
-    "url": "https://legalinsurrection.com/2026/10/rubio-sanctions-icc-the-court-will-end-its-threats-or-we-will-end-the-icc/",
-    "image": "https://legalinsurrection.com/wp-content/uploads/2026/10/Marco-Rubio-1.jpg",
-    "publishedAt": "2026-10-09T17:00:57Z",
-    "author": "Mary Chastain"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Dutch parliament to vote on country's exit from ICC",
-    "description": "The lower house of the Dutch parliament will vote on a proposal to withdraw from the International Criminal Court (ICC) and expel the court from the country, Geert Wilders, leader of the far-right Par...",
-    "url": "https://biztoc.com/x/8edb54c72087c676",
-    "image": "https://biztoc.com/cdn/8edb54c72087c676_s.webp",
-    "publishedAt": "2026-10-09T16:41:48Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Canada, Japan, UK and others back ICC amid US sanctions",
-    "description": "The foreign ministers of Canada, Denmark, Germany, France, Italy, Japan, the Netherlands and the United Kingdom on Friday condemned US sanctions against the International Criminal Court (ICC) in a joi...",
-    "url": "https://biztoc.com/x/1919fbdb7f9ff629",
-    "image": "https://biztoc.com/cdn/1919fbdb7f9ff629_s.webp",
-    "publishedAt": "2026-10-09T16:27:15Z",
-    "author": "breakingthenews.net"
   }
 ]
 ;
