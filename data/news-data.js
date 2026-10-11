@@ -1,5 +1,167 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Liton Das returns as captain as Bangladesh announce UAE tri-series squad; mystery spinner earns maiden call-up",
+    "description": "The Bangladesh Cricket Board has officially unveiled a 16-member squad for the upcoming tri-series in the UAE. Liton Das, who is making a comeback from injury, will captivate the team, with Tawhid Hridoy serving as vice-captain. Rising star Aliss Al Islam als…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/liton-das-returns-as-captain-as-bangladesh-announce-uae-tri-series-squad-mystery-spinner-earns-maiden-call-up/articleshow/134855579.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134855655,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T13:41:18Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "A season of opportunities: The selection battles that could reshape India’s T20I side",
+    "description": "As the Indian team prepares for the upcoming series, attention turns to finalising its squad for the highly anticipated 2028 T20 World Cup. Players like Sanju Samson and Vaibhav Sooryavanshi are under scrutiny to deliver strong performances, especially with f…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/a-season-of-opportunities-the-selection-battles-that-could-reshape-indias-t20i-side/articleshow/134854722.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134854825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T12:47:45Z",
+    "author": "Rajesh Pansare"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Bowl fast’: Gautam Gambhir’s blunt message as Mayank Yadav rediscovers his fearsome pace",
+    "description": "Mayank Yadav showcased his potential by taking three wickets in the powerplay during the recent T20I match. His impressive speed and ability to adapt to international cricket were evident in the match. Despite facing injuries that affected his performance, Ma…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/bowl-fast-gautam-gambhirs-blunt-message-as-mayank-yadav-rediscovers-his-fearsome-pace/articleshow/134854439.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134854484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T12:28:33Z",
+    "author": "Rajesh Pansare"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Just install a bowling machine': Yuzvendra Chahal’s blunt take on batter-friendly pitches after West Indies chase down 250",
+    "description": "In a recent T20 match, India managed to score 249 runs against the West Indies but unfortunately ended up on the losing side. Yuzvendra Chahal raised concerns regarding the playing conditions, noting that bowlers are facing significant challenges due to small…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/just-install-a-bowling-machine-yuzvendra-chahals-blunt-take-on-batter-friendly-pitches-after-west-indies-chase-down-250/articleshow/134854079.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134854186,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T12:11:34Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Big assets for India': Robin Singh identifies key factor that makes Rohit Sharma, Virat Kohli crucial for 2027 World Cup",
+    "description": "Rohit Sharma and Virat Kohli are on a roll, showcasing their exceptional talent and form as the 2027 ODI World Cup approaches. Robin Singh emphasizes that their vast experience and top-notch fitness could be game-changers for India. The selectors are currentl…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-assets-for-india-robin-singh-identifies-key-factor-that-makes-rohit-sharma-virat-kohli-crucial-for-2027-world-cup/articleshow/134852681.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134852776,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T11:04:51Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Haaretz",
+    "title": "Hind Rajab Foundation asks ICC to probe Israeli doctors over Palestinian detainee abuse",
+    "description": "The Hind Rajab Foundation described Israel's Sde Teiman detention facility, where Palestinian detainees are held, as a 'system of torture' and accused Israeli doctors of suspected involvement in the deaths, torture and mistreatment of detainees",
+    "url": "https://www.haaretz.com/world-news/2026-10-10/ty-article/.premium/rights-group-asks-icc-to-probe-israeli-doctors-over-palestinian-detainee-abuse/000001a1-24e5-d90c-a7bd-ade5e0030000",
+    "image": "https://img.haarets.co.il/bs/000001a1-24e5-d90c-a7bd-ade5e0030000/b2/dc/829781b34e3082511d1c24d6140a/427505.jpg?&width=1200&height=630&cmsprod",
+    "publishedAt": "2026-10-10T10:41:07Z",
+    "author": "Haaretz"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Last I heard, India was democratic': Former cricketer Sanjay Manjrekar reacts to CJP protest crackdown in Delhi",
+    "description": "Sanjay Manjrekar expressed support for the right to peaceful protests amid police action in Delhi. The Cockroach Janta Party's planned demonstration aimed to demand the resignation of Chief Election Commissioner Gyanesh Kumar. Police detained over 1,500 indiv…",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/last-i-heard-india-was-democratic-former-cricketer-sanjay-manjrekar-reacts-to-cjp-protest-crackdown-in-delhi/articleshow/134851636.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134852379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T10:38:05Z",
+    "author": "Vriti Jain"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I think it should be taken out': Ajinkya Rahane joins calls to abolish IPL's Impact Player rule",
+    "description": "Ajinkya Rahane has raised significant concerns regarding the Impact Player rule in the Indian Premier League. He argues that this rule stifles the development of all-rounders in Indian cricket, restricting their vital opportunities on the field. Although some…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-think-it-should-be-taken-out-ajinkya-rahane-joins-calls-to-abolish-ipls-impact-player-rule/articleshow/134851960.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134852037,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T10:30:49Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Renshaw's century helps Australia recover to 277-8 at lunch on Day 2 against South Africa",
+    "description": "DURBAN, South Africa (AP) — Matt Renshaw dug deep to score a second test hundred and help Australia reach 277-8 at lunch on Day 2 of the first cricket test against South Africa on Saturday.Renshaw was 102 not out off 218 balls, including 10 fours, with Nathan…",
+    "url": "https://sports.yahoo.com/articles/renshaws-century-helps-australia-recover-101824981.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e212dfb748b58fe5961b4044fbfbe645789434c0f618ed7208e025d1c369de65/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3d0e948c7e226f648f4ca353010b1d81.jpg",
+    "publishedAt": "2026-10-10T10:18:24Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Doesn’t make sense': Dinesh Karthik on scrapping Impact Player rule before IPL 2027",
+    "description": "Dinesh Karthik champions the retention of the Impact Player rule for IPL 2027 to ensure fairness across the board. He highlights that franchises have built their squads with the assumption of having an additional player available. Even as the rule appears to …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/doesnt-make-sense-dinesh-karthik-on-scrapping-impact-player-rule-before-ipl-2027/articleshow/134851145.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134851333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T09:29:10Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "SA20: Temba Bavuma, Jason Rowles look ahead to Season 5 as 100-day countdown begins",
+    "description": "With less than 100 days until the SA20 Season 5 begins on January 17, 2027, new signings Jason Rowles, Temba Bavuma, Oliver Whitehead and Craig Overton are preparing for the fifth edition of the South African T20 league.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/sa20-temba-bavuma-jason-rowles-look-ahead-to-season-5-as-100-day-countdown-begins/articleshow/134849841.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134850933,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T09:00:41Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Only openers' spots are permanent': Gautam Gambhir's clear message on India's T20 batting order",
+    "description": "India head coach Gautam Gambhir has backed the decision to promote Shivam Dube to No. 4 despite the all-rounder failing to make an impact in the second T20 International against the West Indies in Ranchi. Dube scored seven off 10 balls before being dismissed …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/only-openers-spots-are-permanent-gautam-gambhirs-clear-message-on-indias-t20-batting-order/articleshow/134850376.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134850476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T08:21:25Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "West Indies beat India as Hope’s hundred secures record T20 chase",
+    "description": "Shai Hope's hundred and Sherfane Rutherford's fifty lead West Indies in record 252 chase to level series 1-1.",
+    "url": "https://www.aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261009__D2TA49Z__v1__MidRes__CricketIndWisT20-1791618332.jpg?resize=1200%2C630",
+    "publishedAt": "2026-10-10T08:21:22Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "From schoolboy to biggest SA20 auction signing: How Jason Rowles became Joburg’s big bet",
+    "description": "Jason Rowles, 18, a talented South African cricketer, was bought by Joburg Super Kings for R2.9 million, 14.5 times his base price, in the SA20 Season 5 Auction. Having excelled in youth cricket, Rowles now faces high expectations as part of a broader trend o…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/from-schoolboy-to-biggest-sa20-auction-signing-how-jason-rowles-became-joburgs-big-bet/articleshow/134850237.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134850252,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T08:19:13Z",
+    "author": "Tanuj Lakhina"
+  },
+  {
+    "source": "Opiniojuris.org",
+    "title": "Who Gets Held Accountable? US Sanctions Against Albanese and ICC Judges and the Missing Corporate Accountability in Gaza",
+    "description": "[Eirini Koutsoukou is a legal researcher with a PhD in International Law, Ethics & Economics for Sustainable Development from the University of Milan.] Introduction Individuals entrusted with investigating and adjudicating alleged violations of international …",
+    "url": "http://opiniojuris.org/2026/10/10/who-gets-held-accountable-us-sanctions-against-albanese-and-icc-judges-and-the-missing-corporate-accountability-in-gaza/",
+    "image": "https://i1.wp.com/opiniojuris.org/wp-content/uploads/ICC_-_The_International_Criminal_Court_-_The_Hague.jpg?fit=1200%2C800",
+    "publishedAt": "2026-10-10T08:00:29Z",
+    "author": "Eirini Koutsoukou"
+  },
+  {
+    "source": "CBC News",
+    "title": "Trump wants to dismantle the ICC. These jurists want Canada to intervene",
+    "description": "After the Trump administration announced sweeping sanctions against the International Criminal Court, Canadian legal professionals are calling on the federal government to take action to strengthen the court through additional funding or other measures.",
+    "url": "https://www.cbc.ca/news/politics/international-criminal-court-trump-sanctions-canada-9.7376864",
+    "image": "https://i.cbc.ca/ais/d22faab6-6792-4f6e-92ea-3ab8526536eb,1791594112462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C614%2C8640%2C4860%29%3BResize%3D620",
+    "publishedAt": "2026-10-10T08:00:00Z",
+    "author": "Jennifer Yoon"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India's all-rounder depth chart: Detailing India's fast and spin bowling all-rounder options ahead of 2027 ODI World Cup",
+    "description": "India's all-rounder depth chart for the 2027 ODI World Cup: Analyzing pace options like Hardik and Nitish Reddy alongside spin weapons Axar and Sundar.",
+    "url": "https://www.cricketnews.com/en/cricket/news/indias-all-rounder-fast-spin-bowling-2027-odi-world-cup/fbcc7ee4627ad62af46af5fc",
+    "image": "https://s.yimg.com/lo/mysterio/api/af26ae219ac45a68b9c6ddb311c44f5bb52c65d01333becbc36152fc8879412f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fca410dde3bbbf40d516e9d05e6469015",
+    "publishedAt": "2026-10-10T07:52:36Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India, West Indies look for upper-hand in another bat versus bat contest in 3rd T20I",
+    "description": "India and West Indies will face each other in the third T20 International at Holkar Stadium. The teams are coming off a high-scoring match in Ranchi, where the West Indies chased a massive total. India's bowlers are under pressure after conceding 501 runs in …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-west-indies-look-for-upper-hand-in-another-bat-versus-bat-contest-in-3rd-t20i/articleshow/134849482.cms",
+    "image": "https://img.etimg.com/thumb/msid-134849499,width-1200,height-900,imgsize-162804,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-10T07:15:13Z",
+    "author": "PTI"
+  },
+  {
     "source": "Business Standard",
     "title": "Raipur set to host India, Zimbabwe women for T20I series from October 16",
     "description": "Raipur will host all three matches of the India-Zimbabwe women's T20I series from October 16 to 20, with ticket prices starting at Rs 250, Chhattisgarh State Cricket Association director Vijay Shah said on Friday.\nThe matches will be played at the Shaheed Vee…",
@@ -16,258 +178,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/08/thumb/fitandfill/1200X628/1751952977-9674.jpg",
     "publishedAt": "2026-10-10T06:37:06Z",
     "author": "AP"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Melbourne Renegades vs Perth Scorchers BBL 2026-27 opener in Chennai: Ticket prices, how and where to book online",
-    "description": "New Zealand fast bowler Will O’Rourke has been ruled out of the home ODI and Test series against India due to hamstring and calf injuries. Details here.",
-    "url": "https://www.cricketnews.com/en/cricket/news/renegades-vs-scorchers-bbl-chennai-opener-tickets/ecacc6cd828086dca53ae152",
-    "image": "https://s.yimg.com/lo/mysterio/api/2d4cf586d85f348b5ad79b7e2edcecadf0eb21b406ee44e84bb5d53e3f90d764/lightyear_networkapi/resizefill_w1023_h575%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faa0820132a133cfcc18d333045ca2706",
-    "publishedAt": "2026-10-10T06:35:02Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Will O'Rourke to miss India series as New Zealand suffer fresh injury blow",
-    "description": "New Zealand pace bowler Will O'Rourke is the latest casualty ahead of the upcoming tour of India, with the 25-year-old set to miss the series as a precaution while continuing his rehabilitation from injuries to his left hamstring and calf.\nThe multi-format pa…",
-    "url": "https://www.business-standard.com/cricket/news/will-o-rourke-to-miss-india-series-as-new-zealand-suffer-fresh-injury-blow-126101000240_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/26/thumb/fitandfill/1200X628/1756187485-7176.jpg",
-    "publishedAt": "2026-10-10T06:09:10Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "New Zealand rule out Will O'Rourke against India to keep him fit for Australia",
-    "description": "New Zealand fast bowler Will O'Rourke will miss the upcoming series against India as he recovers from hamstring and calf injuries. Coach Rob Walter said the decision was made to avoid rushing his return. New Zealand hope O'Rourke will play domestic cricket in…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealand-rule-out-will-orourke-against-india-to-keep-him-fit-for-australia/articleshow/134848484.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134848622,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-10T06:08:49Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CNA",
-    "title": "New Zealand's O'Rourke ruled out of India series",
-    "description": "Oct 10 : New Zealand fast-bowler Will O'Rourke will miss the series against India as he continues his rehabilitation from injuries to his left hamstring and calf, the country's cricket board said on Saturday.O'Rourke suffered a hamstring tear during New Zeala…",
-    "url": "https://www.channelnewsasia.com/sport/new-zealands-orourke-ruled-out-india-series-6448501",
-    "image": "https://dam.mediacorp.sg/image/upload/s--AYNY4Y11--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-10T055907Z_1_LYNXMPEM9904M_RTROPTP_3_CRICKET-NEWZEALAND.JPG?itok=_Sj8K0We",
-    "publishedAt": "2026-10-10T05:59:07Z",
-    "author": null
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027: BCCI set to host stakeholders meeting on October 15 in Mumbai",
-    "description": "The BCCI is also expected to decide on the future of the Impact Player rule in the coming weeks",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-bcci-set-to-host-stakeholders-meeting-on-october-15-in-mumbai-126101000239_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/10/thumb/fitandfill/1200X628/1791610353-9604.jpg",
-    "publishedAt": "2026-10-10T05:34:24Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gautam Gambhir backs Dube's promotion, says only openers' spots are 'permanent' in T20s",
-    "description": "Gautam Gambhir defended Shivam Dube's promotion to No. 4 in the batting order during the T20 match. Dube struggled with his performance, scoring only seven runs, which raised questions about the decision. India's late fireworks from Shreyas Iyer and Tilak Var…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/gautam-gambhir-backs-dubes-promotion-says-only-openers-spots-are-permanent-in-t20s/articleshow/134847506.cms",
-    "image": "https://img.etimg.com/thumb/msid-134847516,width-1200,height-900,imgsize-66776,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-10T04:49:57Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Hurricane Isaias Live Updates: Storm Makes Landfall as Wind and Rain Batter Gulf Coast - The New York Times",
-    "description": "Hurricane Isaias Live Updates: Storm Makes Landfall as Wind and Rain Batter Gulf CoastThe New York Times Hurricane Isaias makes landfall along Gulf Coast as powerful stormNBC 6 South Florida Hurricane Isaias makes landfall near Destin as a Category 2 stormWEA…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186089694",
-    "image": null,
-    "publishedAt": "2026-10-10T04:33:08Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Freerepublic.com",
-    "title": "Israel slams ICC Judge Navi Pillay's Nobel Peace Prize: 'Goebbels is applauding'",
-    "description": "South African jurist Navi Pillay, who accused Israel of genocide in Gaza, wins the 2026 Nobel Peace Prize; The Nobel Committee declines to comment on the Gaza allegations, while Israel's Foreign Ministry denounces the award.The Nobel Peace Prize will be award…",
-    "url": "https://freerepublic.com/focus/f-news/4398644/posts",
-    "image": null,
-    "publishedAt": "2026-10-10T04:22:16Z",
-    "author": "YNET"
-  },
-  {
-    "source": "Juancole.com",
-    "title": "US Sanctions on ICC Put Global Justice at Risk (HRW)",
-    "description": "Following the genocides in the mid-1990s the international community created the ICC; Member Countries Should Renew Support for the Court",
-    "url": "https://www.juancole.com/2026/10/sanctions-global-justice.html",
-    "image": "https://media.juancole.com/images/2025/08/icc2.jpg",
-    "publishedAt": "2026-10-10T04:06:50Z",
-    "author": "Human Rights Watch"
-  },
-  {
-    "source": "The Times of India",
-    "title": "English county club Essex release Bangladesh-origin player amid rape case",
-    "description": "Essex County Cricket Club confirmed Robin Das, a 24-year-old batter of Bangladeshi origin, is no longer under contract following his suspension and unavailability. Das faces two rape charges and was granted conditional bail ahead of a five-day trial scheduled…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-county-club-essex-release-bangladesh-origin-player-amid-rape-case/articleshow/134846788.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134846965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-10T03:49:04Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Let India play against themselves' - West Indies should stop playing to challenge ICC's revenue-sharing model, says former CWI President",
-    "description": "Former CWI chief Dave Cameron urges West Indies to consider pulling out of bilaterals to challenge the ICC revenue model: 'Let India play against themselves....",
-    "url": "https://www.cricketnews.com/en/cricket/news/dave-cameron-icc-revenue-model-cwi-president-india/80fd708928395fec540691e4",
-    "image": "https://s.yimg.com/lo/mysterio/api/e1740674129bcbd9013d411c5f91c076add46959ec8b044b6acdb1b781bbae5e/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F1953648332d1a7aef5e5db9de6e7d0a7",
-    "publishedAt": "2026-10-10T03:41:44Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer captains the way he wants: Lockie Ferguson",
-    "description": "The appointment of Shreyas Iyer as India’s T20I captain has drawn praise from his teammate Lockie Ferguson. Iyer showcases poise and clarity in leadership, navigating the demands of international cricket effectively. Ferguson remarked on the strength of India…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shreyas-iyer-captains-the-way-he-wants-lockie-ferguson/articleshow/134846573.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134846622,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-10T03:00:51Z",
-    "author": "Rajesh Pansare"
-  },
-  {
-    "source": "RTE",
-    "title": "US imposes sanctions on ICC after former judge wins Nobel",
-    "description": "US President Donald Trump's administration has imposed sanctions on the International Criminal Court, hours after one of ⁠its former judges won the Nobel Peace Prize.",
-    "url": "https://www.rte.ie/news/2026/1010/1594802-us-icc-sanctions/",
-    "image": "https://www.rte.ie/images/00221582-1600.jpg",
-    "publishedAt": "2026-10-10T02:51:54Z",
-    "author": "RTÉ News"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Trump says Norway has 'indelible stain' for not awarding him Nobel Peace Prize",
-    "description": "Donald Trump reiterated his grievances about not receiving the Nobel Peace Prize during a rally in Syracuse. He expressed disappointment that this year's prize was awarded to Navi Pillay, a former ICC judge. Trump referred to Pillay as a 'mystery person' and …",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-norway-has-indelible-stain-for-not-awarding-him-nobel-peace-prize/articleshow/134846164.cms",
-    "image": "https://img.etimg.com/thumb/msid-134846175,width-1200,height-900,imgsize-64572,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-10T02:03:47Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
-    "description": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyerPolitico Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times Former ICC judge Navi Pillay wins 2026 Nobel Peace PrizeReuters Trump Reshar…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186086358",
-    "image": null,
-    "publishedAt": "2026-10-10T00:33:30Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "The ICC Is a Threat to America",
-    "description": "The International Criminal Court deserves U.S. sanctions, the sooner the better.",
-    "url": "https://biztoc.com/x/fdbcb69a919d267a",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-10T00:00:18Z",
-    "author": "wsj.com"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Trump hits International Criminal Court with sanctions after Nobel goes to former judge - The Washington Post",
-    "description": "Trump hits International Criminal Court with sanctions after Nobel goes to former judgeThe Washington Post EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters Trump Administration Hits International Criminal Court Wit…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085816",
-    "image": null,
-    "publishedAt": "2026-10-09T23:12:31Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "New York Post",
-    "title": "Chargers provide Rashawn Slater major injury update ahead of Broncos clash",
-    "description": "Chargers offensive tackle Rashawn Slater underwent successful ankle surgery. The Pro Bowler had a tight-rope procedure done with the purpose of accelerating his return from a high-ankle sprain. Slater, who...",
-    "url": "https://nypost.com/2026/10/09/sports/chargers-rashawn-slater-injury-update-broncos/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-    "image": "https://s.yimg.com/lo/mysterio/api/17a3b67da86614dbebed60c91442c0180f2713a9b46821dff067e08d2af06b05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F1e9f7c163af827d2beb0c0bdc0f5d68d.jpg",
-    "publishedAt": "2026-10-09T22:11:49Z",
-    "author": "Valentina Martinez"
-  },
-  {
-    "source": "New York Post",
-    "title": "Chargers provide Rashawn Slater major injury update ahead of Broncos clash",
-    "description": "Chargers offensive tackle Rashawn Slater underwent successful ankle surgery. The Pro Bowler had a tight-rope procedure done with the purpose of accelerating his return from a high-ankle sprain. Slater, who sustained the ankle injury in Week 4 against the Seah…",
-    "url": "https://nypost.com/2026/10/09/sports/chargers-rashawn-slater-injury-update-broncos/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-oq7kze455-1791580410267.jpg?quality=75&strip=all&1791566037&w=1200",
-    "publishedAt": "2026-10-09T22:11:49Z",
-    "author": "Valentina Martinez"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "US announces sanctions on the International Criminal Court - DW.com",
-    "description": "US announces sanctions on the International Criminal CourtDW.com EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters Trump hits International Criminal Court with sanctions after Nobel goes to former judgeThe Washingto…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085306",
-    "image": null,
-    "publishedAt": "2026-10-09T21:54:05Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize - BBC",
-    "description": "Navi Pillay, former UN human rights chief, wins Nobel Peace PrizeBBC Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times 2026 Nobel Peace Prize Goes to Former ICC Judge Navi Pillay, Prompting New U.S. SanctionsForeign…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085034",
-    "image": null,
-    "publishedAt": "2026-10-09T21:13:26Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal - AP News",
-    "description": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunalAP News EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace PrizeReuters International Criminal Court ‘firmly rejects’ new US sanct…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186084890",
-    "image": null,
-    "publishedAt": "2026-10-09T20:53:20Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Foreign Policy",
-    "title": "Nobel Peace Prize Goes to Former ICC Judge",
-    "description": "The United States imposed new sanctions on the international body in response.",
-    "url": "http://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/",
-    "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/NaviPillayNobel-GettyImages-2298727311.jpg",
-    "publishedAt": "2026-10-09T20:51:18Z",
-    "author": "Alexandra Sharp"
-  },
-  {
-    "source": "Haaretz",
-    "title": "Eight U.S. allies criticize Trump administration's sanctions on ICC",
-    "description": "The foreign ministers of Canada, Denmark, Germany, France, Italy, Japan and the United Kingdom warned that if implemented, they would have 'significant impact on the Court's work, its dedicated staff and their families'",
-    "url": "https://www.haaretz.com/world-news/2026-10-09/ty-article/.premium/eight-u-s-allies-criticize-trump-administrations-sanctions-on-icc/000001a1-21db-d0ca-a7b7-bffbad730000",
-    "image": "https://img.haarets.co.il/bs/000001a1-21db-d0ca-a7b7-bffbad730000/96/0b/1748e9344e0fa90c789a27c484b9/722744.jpg?&width=1200&height=630&cmsprod",
-    "publishedAt": "2026-10-09T19:58:25Z",
-    "author": "Liza Rozovsky"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Dacoits batter 82-year-old, flee with ₹25L gold",
-    "description": "Nagpur dacoity: 82-year-old woman beaten, ₹25 lakh cash and gold stolen from Ahbab Colony home; CCTV shows four suspects, police probe inside job.",
-    "url": "https://timesofindia.indiatimes.com/city/nagpur/dacoits-batter-82-year-old-flee-with-25l-gold/articleshow/134842439.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134842435,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-09T19:49:02Z",
-    "author": "Soumitra Bose"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Trump administration announces sweeping sanctions on ICC as Marco Rubio dubs it a 'rogue court'",
-    "description": "US Secretary of State Marco Rubio labelled the ICC as a 'rogue court' and demanded that America's allies 'rein in' the court.",
-    "url": "https://www.dailymail.com/news/article-16197475/Trump-administration-sanctions-ICC-rogue-court.html",
-    "image": "https://i.dailymail.com/1s/2026/10/09/20/111768779-0-image-m-71_1791575150084.jpg",
-    "publishedAt": "2026-10-09T19:47:58Z",
-    "author": "Robert Folker"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Guterres condemns US sanctions on ICC",
-    "description": "United Nations Secretary-General Antonio Guterres condemned the United States' decision to impose sanctions on the International Criminal Court (ICC) and vowed \"unwavering support\" for the court, his ...",
-    "url": "https://biztoc.com/x/37a6f147cc5afd8f",
-    "image": "https://biztoc.com/cdn/37a6f147cc5afd8f_s.webp",
-    "publishedAt": "2026-10-09T19:43:50Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-    "description": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.",
-    "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/ap_69b2f33c5eacc-1773335356.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-09T19:32:13Z",
-    "author": "Al Jazeera Staff"
   }
 ]
 ;
