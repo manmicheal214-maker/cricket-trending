@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Former Raiders star claims team wants revenge on Josh McDaniels",
+    "description": "Former Pro Bowler Richie Incognito says the Raiders haven't forgotten about Josh McDaniels' failed run as a head coach.",
+    "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/10/10/raiders-richie-incognito-team-wants-revenge-josh-mcdaniels/92191150007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/4bd96b299b45773325078d8591115b31705a419d2cfcf38c4e504df535672694/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_england_patriots_wire_usa_today_sports_articles_330%2F76368f79fa4b939b79a5908dcad0d4c6.jpg",
+    "publishedAt": "2026-10-10T18:01:32Z",
+    "author": "Jordy McElroy, Patriots Wire"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Saturday assorted links",
+    "description": "1. Chris Blattman’s practical AI for academics.\n2. Platypus Economics on red diesel.\n3. Those new service sector jobs, Indian cricket edition.\n4. Will AI make us more technocratic?\n5. What should a scientific paper look like?\n6. Screening for twins?\n7. Chris …",
+    "url": "https://biztoc.com/x/487292035f2c279c",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-10T17:19:09Z",
+    "author": "marginalrevolution.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Vinay Kumar begins coaching journey as Karnataka begin Ranji Trophy campaign Andhra",
+    "description": "Karnataka cricket will start its Ranji Trophy campaign against Andhra with R Vinay Kumar as head coach. R Smaran will captain the team for the first time in the absence of Devdutt Padikkal. The team faces challenges due to injuries affecting several key fast …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vinay-kumar-begins-coaching-journey-as-karnataka-begin-ranji-trophy-campaign-andhra/articleshow/134858119.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134858218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T16:54:13Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rahmat Shah's unbeaten 84 keeps Afghanistan in the fight against Bangladesh on Day 2",
+    "description": "Afghanistan's cricket team faced challenges against Bangladesh in a one-off Test in Abu Dhabi. Bangladesh bowled out Afghanistan for 346 after adding 29 runs to their overnight total. Despite losing early wickets, captain Rahmat Shah and Ikram Alikhil built a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rahmat-shahs-unbeaten-84-keeps-afghanistan-in-the-fight-against-bangladesh-on-day-2/articleshow/134857820.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134857971,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T16:40:30Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Working on my skills with Joshi, Paranjape sir’: Tanush Kotian ahead of Ranji Trophy opener",
+    "description": "As Tanush Kotian gears up for the domestic cricket season, he aims to exhibit his talents and earn a spot in the Indian team. Under the guidance of esteemed coaches such as Sunil Joshi and Jatin Paranjape, he is honing his skills. Despite a tough previous sea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/working-on-my-skills-with-joshi-paranjape-sir-tanush-kotian-ahead-of-ranji-trophy-opener/articleshow/134857521.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134857661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-10T16:10:25Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "BBC News",
+    "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+    "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8690/live/4429a2a0-c4b5-11f1-9ce9-55293bd7f0d9.jpg",
+    "publishedAt": "2026-10-10T15:23:47Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "Digital Journal",
+    "title": "Nobel peace laureate Pillay calls US sanctions on ICC ‘unacceptable’",
+    "description": "\"There is so much tension and anxiety over the continued existence of international courts, mainly the International Criminal Court in The Hague,\" Pillay said via video link from Nuremberg during an event at the Nobel Peace Center in Oslo.\nThe post Nobel peac…",
+    "url": "https://www.digitaljournal.com/article/nobel-peace-laureate-pillay-calls-us-sanctions-on-icc-unacceptable/",
+    "image": "https://www.digitaljournal.com/wp-content/uploads/2026/10/8248ac9f6f16b7c0a3985781ea4857b4568242b9.jpg",
+    "publishedAt": "2026-10-10T14:20:11Z",
+    "author": "AFP"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Why is the US sanctioning the International Criminal Court?",
+    "description": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+    "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2292621652-1788482517.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-10T14:19:43Z",
+    "author": "Christine Maguire"
+  },
+  {
     "source": "The Times of India",
     "title": "Liton Das returns as captain as Bangladesh announce UAE tri-series squad; mystery spinner earns maiden call-up",
     "description": "The Bangladesh Cricket Board has officially unveiled a 16-member squad for the upcoming tri-series in the UAE. Liton Das, who is making a comeback from injury, will captivate the team, with Tawhid Hridoy serving as vice-captain. Rising star Aliss Al Islam als…",
@@ -97,87 +169,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134850933,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-10T09:00:41Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Only openers' spots are permanent': Gautam Gambhir's clear message on India's T20 batting order",
-    "description": "India head coach Gautam Gambhir has backed the decision to promote Shivam Dube to No. 4 despite the all-rounder failing to make an impact in the second T20 International against the West Indies in Ranchi. Dube scored seven off 10 balls before being dismissed …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/only-openers-spots-are-permanent-gautam-gambhirs-clear-message-on-indias-t20-batting-order/articleshow/134850376.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134850476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-10T08:21:25Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "West Indies beat India as Hope’s hundred secures record T20 chase",
-    "description": "Shai Hope's hundred and Sherfane Rutherford's fifty lead West Indies in record 252 chase to level series 1-1.",
-    "url": "https://www.aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261009__D2TA49Z__v1__MidRes__CricketIndWisT20-1791618332.jpg?resize=1200%2C630",
-    "publishedAt": "2026-10-10T08:21:22Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "From schoolboy to biggest SA20 auction signing: How Jason Rowles became Joburg’s big bet",
-    "description": "Jason Rowles, 18, a talented South African cricketer, was bought by Joburg Super Kings for R2.9 million, 14.5 times his base price, in the SA20 Season 5 Auction. Having excelled in youth cricket, Rowles now faces high expectations as part of a broader trend o…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/from-schoolboy-to-biggest-sa20-auction-signing-how-jason-rowles-became-joburgs-big-bet/articleshow/134850237.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134850252,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-10T08:19:13Z",
-    "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "Opiniojuris.org",
-    "title": "Who Gets Held Accountable? US Sanctions Against Albanese and ICC Judges and the Missing Corporate Accountability in Gaza",
-    "description": "[Eirini Koutsoukou is a legal researcher with a PhD in International Law, Ethics & Economics for Sustainable Development from the University of Milan.] Introduction Individuals entrusted with investigating and adjudicating alleged violations of international …",
-    "url": "http://opiniojuris.org/2026/10/10/who-gets-held-accountable-us-sanctions-against-albanese-and-icc-judges-and-the-missing-corporate-accountability-in-gaza/",
-    "image": "https://i1.wp.com/opiniojuris.org/wp-content/uploads/ICC_-_The_International_Criminal_Court_-_The_Hague.jpg?fit=1200%2C800",
-    "publishedAt": "2026-10-10T08:00:29Z",
-    "author": "Eirini Koutsoukou"
-  },
-  {
-    "source": "CBC News",
-    "title": "Trump wants to dismantle the ICC. These jurists want Canada to intervene",
-    "description": "After the Trump administration announced sweeping sanctions against the International Criminal Court, Canadian legal professionals are calling on the federal government to take action to strengthen the court through additional funding or other measures.",
-    "url": "https://www.cbc.ca/news/politics/international-criminal-court-trump-sanctions-canada-9.7376864",
-    "image": "https://i.cbc.ca/ais/d22faab6-6792-4f6e-92ea-3ab8526536eb,1791594112462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C614%2C8640%2C4860%29%3BResize%3D620",
-    "publishedAt": "2026-10-10T08:00:00Z",
-    "author": "Jennifer Yoon"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "India's all-rounder depth chart: Detailing India's fast and spin bowling all-rounder options ahead of 2027 ODI World Cup",
-    "description": "India's all-rounder depth chart for the 2027 ODI World Cup: Analyzing pace options like Hardik and Nitish Reddy alongside spin weapons Axar and Sundar.",
-    "url": "https://www.cricketnews.com/en/cricket/news/indias-all-rounder-fast-spin-bowling-2027-odi-world-cup/fbcc7ee4627ad62af46af5fc",
-    "image": "https://s.yimg.com/lo/mysterio/api/af26ae219ac45a68b9c6ddb311c44f5bb52c65d01333becbc36152fc8879412f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fca410dde3bbbf40d516e9d05e6469015",
-    "publishedAt": "2026-10-10T07:52:36Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India, West Indies look for upper-hand in another bat versus bat contest in 3rd T20I",
-    "description": "India and West Indies will face each other in the third T20 International at Holkar Stadium. The teams are coming off a high-scoring match in Ranchi, where the West Indies chased a massive total. India's bowlers are under pressure after conceding 501 runs in …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-west-indies-look-for-upper-hand-in-another-bat-versus-bat-contest-in-3rd-t20i/articleshow/134849482.cms",
-    "image": "https://img.etimg.com/thumb/msid-134849499,width-1200,height-900,imgsize-162804,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-10T07:15:13Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Raipur set to host India, Zimbabwe women for T20I series from October 16",
-    "description": "Raipur will host all three matches of the India-Zimbabwe women's T20I series from October 16 to 20, with ticket prices starting at Rs 250, Chhattisgarh State Cricket Association director Vijay Shah said on Friday.\nThe matches will be played at the Shaheed Vee…",
-    "url": "https://www.business-standard.com/cricket/news/raipur-set-to-host-india-zimbabwe-women-for-t20i-series-from-october-16-126100901112_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/25/thumb/fitandfill/1200X628/1774416310-997.jpg",
-    "publishedAt": "2026-10-10T06:40:52Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Australia stumble to 187-6 against South Africa on curtailed opening day",
-    "description": "Bad light stopped play 24.4 overs early with Australia struggling at 187-6 on Day 1 of the first cricket Test against South Africa at the Kingsmead Oval on Friday.\nMatt Renshaw scored 46 not out to spare Australia's blushes after it had plunged to 124-6. He a…",
-    "url": "https://www.business-standard.com/cricket/news/australia-stumble-to-187-6-against-south-africa-on-curtailed-opening-day-126100901314_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/08/thumb/fitandfill/1200X628/1751952977-9674.jpg",
-    "publishedAt": "2026-10-10T06:37:06Z",
-    "author": "AP"
   }
 ]
 ;
