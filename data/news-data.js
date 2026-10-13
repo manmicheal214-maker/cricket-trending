@@ -1,6 +1,51 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "After 15 years, Team India's tailender achieves rare T20I feat: Prince Yadav joins Sreesanth, Ashwin",
+    "description": "Prince Yadav has joined S Sreesanth and Ravichandran Ashwin on a rare list of Indian batters after hitting three fours against the West Indies in the third T20I in Indore on Sunday. He became only the third Indian batter batting at No. 10 or No. 11 to hit at …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/after-15-years-team-indias-no-10-or-11-achieves-rare-t20i-feat-prince-yadav-joins-sreesanth-ashwin/articleshow/134880576.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134880661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T02:12:22Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Giants Eyeing 70.5-Sack Pro Bowler to Replace Star Pass-Rusher Brian Burns",
+    "description": "Injuries have put a serious damper on the New York Giants’ season.\nQuarterback Jaxson Dart and star edge-rusher Brian Burns have both been lost to season-ending injuries, forcing the Giants to try and get creative in replacing both players.\nNew York traded fo…",
+    "url": "https://biztoc.com/x/6b1f6c51a540f3ab",
+    "image": "https://biztoc.com/cdn/6b1f6c51a540f3ab_s.webp",
+    "publishedAt": "2026-10-12T01:55:57Z",
+    "author": "newsweek.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Let them do whatever': Mohammed Shami breaks silence on continued India snubs",
+    "description": "Mohammed Shami has been out of favour with the national selectors, but he said he would continue playing wherever he gets an opportunity instead of worrying about his return to the Indian team. The Bengal fast bowler made the remarks after taking four wickets…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/let-them-do-whatever-mohammed-shami-breaks-silence-on-continued-india-snubs/articleshow/134880243.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134880288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T01:28:44Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "RT",
+    "title": "ICC ignored ‘very well-documented’ NATO crimes – ex-Libyan minister",
+    "description": "The ICC ignored allegations of NATO war crimes in Libya, former Libyan minister Moussa Ibrahim has told RT Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/647051-icc-nato-war-crimes-ibrahim/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6acbe9f685f54056bc032411.png",
+    "publishedAt": "2026-10-11T21:11:41Z",
+    "author": "RT"
+  },
+  {
+    "source": "Rt-english.com",
+    "title": "ICC ignored ‘very well-documented’ NATO crimes – ex-Libyan minister",
+    "description": "The ICC ignored allegations of NATO war crimes in Libya, former Libyan minister Moussa Ibrahim has told RT Read Full Article at RT.com",
+    "url": "https://rt-english.com/news/647051-icc-nato-war-crimes-ibrahim/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6acbe9f685f54056bc032411.png",
+    "publishedAt": "2026-10-11T21:11:41Z",
+    "author": "RT"
+  },
+  {
+    "source": "The Times of India",
     "title": "'Investors must have a long-term view to unlock India's sports market potential': JioStar VC Uday Shankar",
     "description": "Uday Shankar highlights that India's sports industry presents substantial long-term investment opportunities, particularly in cricket and others. He urges potential investors to adopt a longer timeframe beyond five years for returns. Shankar also notes that w…",
     "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/investors-must-have-a-long-term-view-to-unlock-indias-sports-market-potential-jiostar-vc-uday-shankar/articleshow/134877000.cms",
@@ -205,69 +250,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134869107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-11T10:55:32Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Australia takes control of 1st test vs South Africa, reducing home side to 115-4 at lunch of 3rd day",
-    "description": "DURBAN, South Africa (AP) — Australia took three wickets in the morning session on Sunday to reduce South Africa to 115-4 (38 overs) in its first innings at lunch on day three of the first cricket test.Pat Cummins (1-24) and Nathan Lyon (1-22) were the pick o…",
-    "url": "https://sports.yahoo.com/articles/australia-takes-control-1st-test-103541440.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/7ba9c14543cb3dc2fbc304af2871149d09db98e414e4813fe19e25a26686a9f3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6f8cd4a76417fbe692b27f2548495047.jpg",
-    "publishedAt": "2026-10-11T10:35:41Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Opiniojuris.org",
-    "title": "From Engaged to Destructive Exceptionalism: The United States and the ICC",
-    "description": "[Brianne McGonigle Leyh is Professor of Global Justice Studies at Utrecht University’s School of Law and leads the university’s Global Justice Investigations Lab. She co-directs the Netherlands Institute of Human Rights (SIM), is a member of the Montaigne Cen…",
-    "url": "http://opiniojuris.org/2026/10/11/from-engaged-to-destructive-exceptionalism-the-united-states-and-the-icc/",
-    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/ICCFeature.jpg?fit=864%2C573",
-    "publishedAt": "2026-10-11T10:28:39Z",
-    "author": "Brianne McGonigle Leyh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'No surprise': New Zealand ready for 'unreal talent' Vaibhav Sooryavanshi ahead of T20I series",
-    "description": "New Zealand fast bowler Lockie Ferguson is looking forward to bowling to 15-year-old batting sensation Vaibhav Sooryavanshi in the upcoming T20I series",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-surprise-new-zealand-ready-for-unreal-talent-vaibhav-sooryavanshi-ahead-of-t20i-series/articleshow/134868374.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134868581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-11T10:17:15Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "ICC Cricket: Nepal set Canada a target of 236 tuns",
-    "description": "KATHMANDU: Captain Rohit Paudel struck a century as Nepal were bowled out for 235 runs against Canada in the ICC Cricket World Cup League 2 tri-series in Oman on Sunday, setting Canada a target of 236 runs. After winning the toss at the Al Amerat Cricket Grou…",
-    "url": "https://english.khabarhub.com/2026/11/571585/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Rohit-poudel-nepali-cricket.jpg",
-    "publishedAt": "2026-10-11T09:24:46Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Cricket history in Bangladesh! Rahmat Shah creates record on first outing as Afghanistan Test captain",
-    "description": "Rahmat Shah became the first Afghan cricketer to score a century on his Test captaincy debut, making 105 against Bangladesh in Abu Dhabi. However, Afghanistan were bowled out for 240, trailing Bangladesh’s first-innings total of 346 by 106 runs. Bangladesh pa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-history-in-bangladesh-rahmat-shah-creates-record-on-first-outing-as-afghanistan-test-captain/articleshow/134867642.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134867676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-11T08:45:33Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'What a scam!': Fans outraged as Bengaluru tickets for Ind vs WI 5th T20I surge from ₹1,000 to ₹2,500",
-    "description": "Cricket fans slam BCCI and Ticketgenie over IND vs WI 5th T20I tickets in Bengaluru as starting prices surged from ₹1,000 to ₹2,500 just before booking opene...",
-    "url": "https://www.cricketnews.com/en/cricket/news/bengaluru-tickets-ind-vs-wi-5th-t20i-surge-%E2%82%B91000-%E2%82%B92500/0c9d4a153017976333fcc1d8",
-    "image": "https://s.yimg.com/lo/mysterio/api/388c00d66bf9811ac4e4ca6354aaf522ba820b2d8cae69a6e964cf68a3b91341/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd27aa9ecc53fcdf74f009813ea3d9e51",
-    "publishedAt": "2026-10-11T08:37:51Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mohammed Shami next? Suresh Raina drops big hint after Bhuvneshwar Kumar's India comeback",
-    "description": "Suresh Raina highlighted the potential for Mohammed Shami to return to the Indian cricket team. He noted Shami's strong domestic performances and compared them to Bhuvneshwar Kumar's return. Raina emphasized Bhuvneshwar's discipline and fitness as key to his …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-next-suresh-raina-drops-big-hint-after-bhuvneshwar-kumars-india-comeback/articleshow/134867511.cms",
-    "image": "https://img.etimg.com/thumb/msid-134867526,width-1200,height-900,imgsize-77696,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-11T08:29:31Z",
-    "author": "ET Online"
   }
 ]
 ;
