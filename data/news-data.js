@@ -1,210 +1,210 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
-    "title": "'He finds different methods to score runs': Ajinkya Rahane highlights what makes Abhishek Sharma special",
-    "description": "During the thrilling third T20I against West Indies, Abhishek Sharma crossed the impressive landmark of 2,000 runs. With an explosive 69 from just 30 deliveries, he played a pivotal role in granting India a 2-1 series edge. Former cricketer Ajinkya Rahane lau…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/he-finds-different-methods-to-score-runs-ajinkya-rahane-highlights-what-makes-abhishek-sharma-special/articleshow/134889104.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134889516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T10:19:35Z",
-    "author": "Nitesh Dubey"
+    "title": "\"Guy Loves Ball\": Ex-Bears pro bowler backs Mike Evans’ 150% tax hike gamble to chase another Super Bowl ring",
+    "description": "Mike Evans took a notable step by signing with the San Francisco 49ers after his time with the Tampa Bay Buccaneers. His choice emphasizes his goal of chasing a Super Bowl title over merely maximizing his earnings. His impactful gameplay against the Seattle S…",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/guy-loves-ball-ex-bears-pro-bowler-backs-mike-evans-150-tax-hike-gamble-to-chase-another-super-bowl-ring/articleshow/134898658.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134898863,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T17:19:33Z",
+    "author": "Global Sports Desk"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Green Bay Packers: Confirm Career-Altering News for 2x-Pro Bowler",
+    "description": "Green Bay Packers defensive tackle Javon Hargrave suffered a scary non-contact injury with under two minutes remaining in the game after chasing Chicago Bears quarterback Case Keenum. Hargrave was carted off the field and into the locker room for further eval…",
+    "url": "https://sports.yahoo.com/articles/green-bay-packers-confirm-career-170904164.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e76180f056e84b26d3d0b69448e357eadaccc4f28368504054f73021d5bb2196/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F9240dbdd6e5127562efb9729dfb15918.jpg",
+    "publishedAt": "2026-10-12T17:09:04Z",
+    "author": "Jackson Loschko"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+    "description": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791824859.jpg?resize=1920%2C1080&quality=80",
+    "publishedAt": "2026-10-12T17:07:50Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Saracens sack academy star Totoa Auvaa, 21, over incident in St Albans - four months after his 'unprovoked attack' on Gus Atkinson in infamous Chelsea nightclub trip with Ben Stokes",
+    "description": "Saracens have sacked starlet Totoa Auvaa following a 2am incident in St Albans - just four months after he sparked a melee involving England cricket stars Gus Atkinson and Ben Stokes.",
+    "url": "https://www.dailymail.com/sport/rugbyunion/article-16203143/Saracens-sack-academy-star-Totoa-Auvaa-21-incident-St-Albans-four-months-unprovoked-attack-Gus-Atkinson-infamous-Chelsea-nightclub-trip-Ben-Stokes.html",
+    "image": "https://i.dailymail.com/1s/2026/10/12/17/111811957-0-image-m-18_1791823418280.jpg",
+    "publishedAt": "2026-10-12T16:47:21Z",
+    "author": "Alex Bywater"
+  },
+  {
+    "source": "Adweek",
+    "title": "How Brands Made Space for Creativity at CultureCon",
+    "description": "Chase Ink, Cricket Wireless, Lincoln, HBO Max, Audible, and Pinterest found distinct ways to support creatives, entrepreneurs, and culture shifters.",
+    "url": "https://www.adweek.com/brand-marketing/how-brands-made-space-for-creativity-at-culturecon/",
+    "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Untitled-design-8-1.png?w=600&h=315&crop=1",
+    "publishedAt": "2026-10-12T16:04:30Z",
+    "author": "Bianca Brutus"
+  },
+  {
+    "source": "BBC News",
+    "title": "Pope pulls out of controversial Afghanistan T20 league",
+    "description": "England batter Ollie Pope pulls out of the draft for the Afghanistan Premier League.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckz7xvz7lxveo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f99c/live/4bd679f0-c64b-11f1-bc2e-018d645d8d21.jpg",
+    "publishedAt": "2026-10-12T15:13:54Z",
+    "author": "Stephan Shemilt"
   },
   {
     "source": "The Times of India",
-    "title": "'No such discussion': BCCI denies reports of India-Sri Lanka ODI being shifted from Delhi to Ahmedabad",
-    "description": "BCCI has confirmed that the opening ODI match against Sri Lanka will indeed take place in Delhi on December 13, despite speculation about possible changes due to construction at Arun Jaitley Stadium. BCCI secretary Devajit Saikia reassured fans that no decisi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-such-discussion-bcci-denies-reports-of-india-sri-lanka-odi-being-shifted-from-delhi-to-ahmedabad/articleshow/134888679.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134888962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T09:53:38Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Naman Dhir turns batter’s instincts into bowling weapon in India’s T20I win",
-    "description": "Naman Dhir performed well in his debut T20I series, taking important wickets against the West Indies. He utilizes his batting skills to anticipate batters' intentions while bowling, enhancing his performance. Dhir emphasizes the importance of line, length, an…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/naman-dhir-turns-batters-instincts-into-bowling-weapon-in-indias-t20i-win/articleshow/134888984.cms",
-    "image": "https://img.etimg.com/thumb/msid-134889012,width-1200,height-900,imgsize-202082,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-12T09:53:10Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI denies reports of India-Sri Lanka ODI shifting from Delhi to Ahmedabad",
-    "description": "The Board of Control for Cricket in India has addressed the rumors regarding the India-Sri Lanka ODI match. According to BCCI Honorary Secretary Devajit Saikia, the match remains scheduled in Delhi. He emphasized that no decision has been made to shift the ve…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-denies-reports-of-india-sri-lanka-odi-shifting-from-delhi-to-ahmedabad/articleshow/134888759.cms",
-    "image": "https://img.etimg.com/thumb/msid-134888908,width-1200,height-900,imgsize-71910,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-12T09:48:20Z",
+    "title": "Rishabh Pant ruled out of first two India A matches against New Zealand",
+    "description": "Rishabh Pant has been ruled out of the first two matches of the India A tour due to injury. He sustained a left side strain while participating in the Irani Cup as the team captain. Kumar Kushagra has been named as his replacement for these matches. The BCCI …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rishabh-pant-ruled-out-of-first-two-india-a-matches-against-new-zealand/articleshow/134895693.cms",
+    "image": "https://img.etimg.com/thumb/msid-134895807,width-1200,height-900,imgsize-65536,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-12T14:29:57Z",
     "author": "ET Online"
   },
   {
-    "source": "The Times of India",
-    "title": "Pakistan’s Adam Gilchrist goes viral after scoring century, but his favourite wicketkeeper is not Australian",
-    "description": "Pakistan’s teenage wicketkeeper-batter Adam Gilchrist has gone viral after scoring 117 runs in a school cricket tournament in Karachi. Named after Australian cricket legend Adam Gilchrist, the youngster revealed that his favourite wicketkeeper is former Sri L…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/pakistans-adam-gilchrist-goes-viral-after-scoring-century-but-his-favourite-wicketkeeper-is-not-australian/articleshow/134886877.cms",
-    "image": "https://img.etimg.com/thumb/msid-134887001,width-1200,height-900,imgsize-147939,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-12T08:16:40Z",
-    "author": "Trending Desk"
+    "source": "HITC - Football, Gaming, Movies, TV, Music",
+    "title": "George Kittle has a message for Mike Evans after 49ers dominate Seahawks in Week 5 battle",
+    "description": "San Francisco 49ers tight end George Kittle heaped praise on his star wide receiver Mike Evans after his big performance in the team’s close win against the Seattle Seahawks. The six-time Pro Bowler recorded 113 receiving yards on 7 receptions while completin…",
+    "url": "https://www.hitc.com/george-kittle-has-a-message-for-mike-evans-after-49ers-dominate-seahawks-in-week-5-battle/",
+    "image": "https://s.yimg.com/lo/mysterio/api/4ea049be586cc8c02f354c968cd5295a579460c18489fbbce6a321a1a25145cf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F5f4efb50972995fcbb03ef37668f4e9a.jpg",
+    "publishedAt": "2026-10-12T14:00:00Z",
+    "author": "Godwin Mathew"
   },
   {
     "source": "The Times of India",
-    "title": "Abhishek Sharma's bat, three fours! Prince Yadav reveals secret behind Indore cameo vs West Indies",
-    "description": "India fast bowler Prince Yadav made a valuable contribution with the bat in the third T20I against the West Indies in Indore. After India's 14-run victory, Prince revealed that he had used Abhishek Sharma's bat to score his quick runs. Prince hit three fours …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharmas-bat-three-fours-prince-yadav-reveals-secret-behind-indore-cameo-vs-west-indies/articleshow/134886273.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134886377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T07:45:45Z",
-    "author": "Amit Kumar"
+    "title": "England announce 2026/27 central contracts: Ollie Robinson returns, Tom Banton, Jordan Cox among seven players handed first-time deals",
+    "description": "The England cricket team has revealed an expanded roster of central contracts for the upcoming 2026/27 season, aiming to bolster their player pool. This year marks the first full contracts for seven players, including fast bowler Ollie Robinson, who makes a n…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-announce-2026/27-central-contracts-ollie-robinson-returns-tom-banton-jordan-cox-among-seven-players-handed-first-time-deals/articleshow/134894637.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134894947,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T13:49:07Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "NBC News",
+    "title": "Coast-to-coast cleanup after three storms batter North America",
+    "description": "North Americans are dealing with the aftermath of three storms that battered the continent’s coasts this weekend.",
+    "url": "https://www.nbcnews.com/weather/hurricanes/coast-coast-cleanup-three-storms-batter-north-america-rcna602938",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261012-isaias-mb-1229-a1cc15.jpg",
+    "publishedAt": "2026-10-12T13:46:28Z",
+    "author": "Rebecca Cohen"
   },
   {
     "source": "The Times of India",
-    "title": "Pakistan cricket hit by political turmoil! PCB shifts President’s Trophy matches after emergency in Khyber Pakhtunkhwa",
-    "description": "The Pakistan Cricket Board has taken the decisive step to relocate President's Trophy matches amidst ongoing political unrest. With governor's rule now imposed in Khyber Pakhtunkhwa, several matches planned for that area are being moved. While Peshawar and Ab…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-hit-by-political-turmoil-pcb-shifts-presidents-trophy-matches-after-emergency-in-khyber-pakhtunkhwa/articleshow/134885590.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134885736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T07:12:37Z",
-    "author": "Hijam Raju Singh"
+    "title": "NVY launches TV with built-in battery, claims 3-hour backup",
+    "description": "NEW DELHI: A power cut midway through a cricket match need not mean a blank screen.",
+    "url": "https://timesofindia.indiatimes.com/india/nvy-launches-tv-with-built-in-battery-claims-3-hour-backup/articleshow/134894048.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134894156,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T13:05:12Z",
+    "author": "Manash Pratim Gohain"
+  },
+  {
+    "source": "Sinhalanet.net",
+    "title": "The International Drama: ICC Sanctions and the Awarding of the Nobel to Navaneethan Pillay",
+    "description": "Courtesy of Lanka Leader\nThe awarding of the Nobel Peace Prize to Ms. Navaneethan Pillay (Navi Pillay) and the subsequent imposition of sanctions by the United States of America against the International Criminal Court (ICC) is an important phenomenon that \r\n…",
+    "url": "https://www.sinhalanet.net/the-international-drama-icc-sanctions-and-the-awarding-of-the-nobel-to-navaneethan-pillay",
+    "image": "https://www.sinhalanet.net/wp-content/uploads/2015/07/logo.jpg",
+    "publishedAt": "2026-10-12T13:01:42Z",
+    "author": "admin"
   },
   {
     "source": "The Times of India",
-    "title": "How watching Virat Kohli's videos helped Australia A star tackle Indian spinners",
-    "description": "Nathan McSweeney used YouTube videos of Virat Kohli and Steve Smith to prepare for the challenge of batting against spin in India. His preparation proved effective as the Australia A batter topped the run charts in the one-day series against India A, helping …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-watching-virat-kohlis-videos-helped-australia-a-star-tackle-indian-spinners/articleshow/134885203.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134885293,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T06:53:18Z",
-    "author": "Amit Kumar"
+    "title": "West Indies duo Rovman Powell and Sherfane Rutherford penalised for breaching ICC Code of Conduct",
+    "description": "Rovman Powell and Sherfane Rutherford were reprimanded by the ICC for separate on-field incidents during a match. Powell struck the ball with his bat after being dismissed, violating the ICC Code of Conduct. Rutherford showed dissent towards an umpire's decis…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-duo-rovman-powell-and-sherfane-rutherford-penalised-for-breaching-icc-code-of-conduct/articleshow/134892973.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134893213,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T12:32:06Z",
+    "author": "Nitesh Dubey"
   },
   {
-    "source": "Naturalnews.com",
-    "title": "U.S. Escalates Pressure on International Criminal Court With New Sanctions",
-    "description": "Washington has escalated pressure on the International Criminal Court (ICC) with new sanctions, U.S. Secretary of State Marco Rubio announced in a statement. According to Rubio, the U.S. never joined the court and does not need or want it. “For decades, Repub…",
-    "url": "https://www.naturalnews.com/2026-10-12-us-escalates-pressure-on-icc-new-sanctions.html",
-    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/international-criminal-court-us-sanctions-rome-statute-4998-3506bd31-original.jpg",
-    "publishedAt": "2026-10-12T06:00:00Z",
-    "author": "Garrison Vance"
-  },
-  {
-    "source": "BBC News",
-    "title": "New rule, no change - has cricket missed a trick again with bad light?",
-    "description": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
-    "url": "https://www.bbc.com/sport/cricket/articles/c623d4pzy4n2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/af429e4845fcc86a1e2a5238d76bf28b5f5398b1258879d0353c07c17512c135/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb56415a7b58ceb65079a62a4fdcdcdce.jpg",
-    "publishedAt": "2026-10-12T05:23:36Z",
-    "author": "Matthew Henry - BBC Sport journalist"
-  },
-  {
-    "source": "Business Standard",
-    "title": "New Zealand announce ODI squad for India series; Test stars to leave early",
-    "description": "Finn Allen, Lockie Ferguson, and Tim Seifert will make their return to New Zealand's ODI setup, while Rachin Ravindra returns from a shoulder injury for the upcoming five-match series against India beginning November 4.\nDue to the Test series that follows the…",
-    "url": "https://www.business-standard.com/cricket/news/new-zealand-announce-odi-squad-for-india-series-test-stars-to-leave-early-126101100075_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/15/thumb/fitandfill/1200X628/1768453847-8386.jpg",
-    "publishedAt": "2026-10-12T05:20:15Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "New rule, no change - has cricket missed a trick again with bad light?",
-    "description": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b24/live/670a89f0-c59c-11f1-9a39-31b474234113.jpg",
-    "publishedAt": "2026-10-12T05:19:46Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Australia seize control of 1st Test against South Africa with 139-run lead",
-    "description": "Pat Cummins claimed 3-54 as Australia took a 139-run lead against South Africa at stumps on day three of the first cricket Test here on Sunday.\nA collective bowling effort from Australia saw South Africa bowled out for 284 in its first innings Mitchell Starc …",
-    "url": "https://www.business-standard.com/cricket/news/australia-seize-control-of-1st-test-against-south-africa-with-139-run-lead-126101100748_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/08/thumb/fitandfill/1200X628/1759915329-7127.jpg",
-    "publishedAt": "2026-10-12T05:10:48Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IND vs WI 3rd T20: Abhishek-Arshdeep shine as India go 2-1 up in the series",
-    "description": "Abhishek Sharma's scintillating 69 and pacer Arshdeep Singh's crucial three-wicket haul paved the way for India's 14-run victory against the West Indies in the third T20I here on Sunday.\nIndia now lead the five-match series 2-1.\nAbhishek's 30-ball knock (6x4,…",
-    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-3rd-t20-abhishek-arshdeep-shine-as-india-go-2-1-up-in-the-series-126101100841_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789705852-2701.jpg",
-    "publishedAt": "2026-10-12T04:57:03Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pakistan edge past Sri Lanka by 82 runs to clinch series with 2-0 lead",
-    "description": "Pakistan posted its second highest total in Twenty20 cricket and beat scrappy Sri Lanka by 82 runs on Sunday to take an unassailable 2-0 lead in the three-match series.\nFast-improving Maaz Sadaqat (96) and captain Sahibzada Farhan (73) both profited from drop…",
-    "url": "https://www.business-standard.com/cricket/news/pakistan-edge-past-sri-lanka-by-82-runs-to-clinch-series-with-2-0-lead-126101100843_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/12/thumb/fitandfill/1200X628/1791780722-0939.jpg",
-    "publishedAt": "2026-10-12T04:53:13Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Iyer credits bowlers' confidence and clarity for India's 3rd T20I win vs WI",
-    "description": "India captain Shreyas Iyer on Sunday credited the bowlers for powering his side to a 14-run win over the West Indies in the third T20 International here, saying they stayed confident and clear in their thoughts.\nIndia took a 2-1 lead in the five-match series …",
-    "url": "https://www.business-standard.com/cricket/news/iyer-credits-bowlers-confidence-and-clarity-for-india-s-3rd-t20i-win-vs-wi-126101100857_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/featurecrop/1200X628/1791352027-4062.jpg",
-    "publishedAt": "2026-10-12T04:41:09Z",
-    "author": "Press Trust of India"
+    "source": "HITC - Football, Gaming, Movies, TV, Music",
+    "title": "Seahawks legend Richard Sherman is jealous he didn’t think of Mike Evans’ ‘trash talk’ moment vs. Trevon Diggs",
+    "description": "Former Seattle Seahawks cornerback Richard Sherman was known for his fearlessness on the field, but he was also a big trash talker. However, the five-time Pro Bowler wished he had done Evans’ viral jersey move himself.",
+    "url": "https://www.hitc.com/seahawks-legend-richard-sherman-is-jealous-he-didnt-think-of-mike-evans-trash-talk-moment-vs-trevon-diggs/",
+    "image": "https://s.yimg.com/lo/mysterio/api/2818b474f0bf85e73b71b3103a376a1bbd11c945b2a3cb1e5ae1041f382e567d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Ff87a53e52976836332ad0a877a964a59.jpg",
+    "publishedAt": "2026-10-12T12:30:00Z",
+    "author": "Godwin Mathew"
   },
   {
     "source": "Cricketnews.com",
-    "title": "Is Steve Smith the greatest slip fielder? Ranking the best close catchers in Test Cricket history",
-    "description": "Here's a list of the greatest slip fielders in international cricket history.",
-    "url": "https://www.cricketnews.com/en/cricket/news/greatest-slip-fielders-international-cricket-history/d0558d8d5761cca7e906baf7",
-    "image": "https://s.yimg.com/lo/mysterio/api/7ed0e1cada46aaeba0b06c8da2f8e1b9916601206b89ee9b8e9b2f7e90d35552/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F79c02d7900730222adcf9de39790d3b9",
-    "publishedAt": "2026-10-12T04:37:41Z",
+    "title": "Shreyas Iyer's record as captain defending 200-plus totals in T20 cricket including for India and in IPL",
+    "description": "Cricket News breaks down the record of teams under Shreyas Iyer's captaincy when defending 200-plus totals including for India and in IPL teams.",
+    "url": "https://www.cricketnews.com/en/cricket/news/shreyas-iyer-record-captain-defending-200-plus-totals-t20-india-ipl/ece46d701c1afc15afe37c51",
+    "image": "https://s.yimg.com/lo/mysterio/api/fbac6817e4800c26ed9a1b8628deb84d19cc47a1ab5d6baf82ab9514e31ae282/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F53aa5a391c23eb54a37d6873f2184b7b",
+    "publishedAt": "2026-10-12T12:22:39Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where will Hardik Pandya go? Next IPL club, landing spots for Mumbai Indians captain",
+    "description": "Where will Hardik Pandya play next? Exploring top IPL trade landing spots—including KKR, CSK, DC, and Gujarat Titans—if Mumbai Indians decide to move on.",
+    "url": "https://www.sportingnews.com/in/cricket/news/where-hardik-pandya-go-next-ipl-club-landing-spots-mumbai-indians-captain/548a390619f99c1341329834",
+    "image": "https://s.yimg.com/lo/mysterio/api/b55f31bcfc3debc126697864699c04e97cff1651bbbeb202271e63af8a7701a6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F77524144360ae5ce8ee28236e3073104",
+    "publishedAt": "2026-10-12T12:20:53Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Key suggests Carse can return as England reveal contract list",
+    "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cwz0v3zy7mpxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/61a2fd64b0744858ed05dd7a243da6fc94e51361bb11f69a5793736be8cdaeb4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F27089ee32dfbdb1fdcb66a67c8164771.jpg",
+    "publishedAt": "2026-10-12T12:16:50Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "Key suggests Carse can return as England reveal contract list",
+    "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg",
+    "publishedAt": "2026-10-12T12:02:41Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'India-Pakistan flavour will be missed': Suraj Karkera on rivals' withdrawal from ACT",
+    "description": "India's participation in the Asian Champions Trophy will proceed without traditional rivals Pakistan, which has withdrawn. Bangladesh will replace Pakistan in the tournament, altering the competitive dynamics among the teams. Suraj Karkera expressed that the …",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-pakistan-flavour-will-be-missed-suraj-karkera-on-rivals-withdrawal-from-asian-champions-trophy/articleshow/134891729.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134892033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T11:45:55Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sara Tendulkar’s lavish Bandra residence, bought by Sachin Tendulkar is now estimated to be worth Rs 100 crore and features two basements, a grand entrance, elegant interiors and a lush green backyard",
+    "description": "Sara Tendulkar, born on October 12, 1997, is the daughter of legendary cricketer Sachin Tendulkar. She graduated from Dhirubhai Ambani International School before embarking on a medical degree at University College London, illustrating her strong academic foc…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/sara-tendulkars-lavish-bandra-residence-bought-by-sachin-tendulkar-is-now-estimated-to-be-worth-rs-100-crore-and-features-two-basements-a-grand-entrance-elegant-interiors-and-a-lush-green-backyard/articleshow/134891396.cms",
+    "image": "https://img.etimg.com/thumb/msid-134891514,width-1200,height-900,imgsize-1304950,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-12T11:41:26Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "The Virat Kohli masterclass: How Australian batter Nathan McSweeney used YouTube videos to crack Indian spinners",
+    "description": "Virat Kohli's technique has been praised by a lot of critics, but now it has even helped Aussie batter Nathan McSweeney to face Indian spinners.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-how-nathan-mcsweeney-used-youtube-videos-crack-indian-spinners/ffcad92712ee553fa44b4953",
+    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
+    "publishedAt": "2026-10-12T11:40:23Z",
     "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Historic Rajgir stadium set to open new horizon for Bihar cricket",
-    "description": "Bihar is set to make its mark in the cricketing world by hosting its debut BCCI domestic match at the state-of-the-art Rajgir International Cricket Stadium. This pivotal clash between Bihar and Uttar Pradesh represents a substantial leap for local cricket. Wi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/historic-rajgir-stadium-set-to-open-new-horizon-for-bihar-cricket/articleshow/134882405.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134882484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T04:32:18Z",
-    "author": "Sourav Modak"
+    "title": "Plan to shackle Hope executed to perfection: Indian pacer Arshdeep Singh",
+    "description": "India secured a 14-run victory in the third T20 International against West Indies, leading the series 2-1. Arshdeep Singh played a crucial role by taking three wickets, effectively resigning Shai Hope for just five runs. The bowlers executed their strategy su…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/plan-to-shackle-hope-executed-to-perfection-indian-pacer-arshdeep-singh/articleshow/134889817.cms",
+    "image": "https://img.etimg.com/thumb/msid-134889985,width-1200,height-900,imgsize-74166,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-12T10:30:12Z",
+    "author": "PTI"
   },
   {
-    "source": "The Times of India",
-    "title": "Ranji Trophy: Karan Lamba hits unbeaten ton as Rajasthan batters make Tamil Nadu toil on a flat deck",
-    "description": "Karan Lamba made a remarkable comeback in first-class cricket, scoring an unbeaten century for Rajasthan, who amassed 286 for 4 on the opening day of the Ranji Trophy. Partnering with Rohan Rajbhar, who also scored a solid 103 runs, they built a formidable pa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-karan-lamba-hits-unbeaten-ton-as-rajasthan-batters-make-tamil-nadu-toil-on-a-flat-deck/articleshow/134882292.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134882318,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T04:24:35Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Never seen before? Tilak Varma's casual approach leads to bizarre run-out - WATCH",
-    "description": "India batter Tilak Varma was involved in an unusual run-out during the third T20I against West Indies on Sunday after a misunderstanding with Axar Patel cost him his wicket. The incident took place in the 17th over, with Gudakesh Motie bowling to Axar. The In…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/never-seen-before-tilak-varmas-casual-approach-leads-to-bizarre-run-out-watch/articleshow/134881602.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134881670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T03:29:30Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "NBCSports.com",
-    "title": "Brewers ace Jacob Misiorowski labors into 5th inning of NLCS opener against Dodgers",
-    "description": "Los Angeles fouled off 21 of his 94 pitches by the time his final batter, Mookie Betts, reached on a one-out walk in the fifth.",
-    "url": "https://www.nbcsports.com/mlb/news/brewers-ace-jacob-misiorowski-labors-into-5th-inning-of-nlcs-opener-against-dodgers",
-    "image": "https://s.yimg.com/lo/mysterio/api/482019210f13f00a880c979de39e0507b5e19ad4a9daac03b4a3246a222540b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fa32524108f90f3e18c011898d390e034.jpg",
-    "publishedAt": "2026-10-12T03:25:56Z",
+    "source": "Yahoo Entertainment",
+    "title": "Australia builds lead against South Africa in first test, 174-4 at lunch on day four",
+    "description": "DURBAN, South Africa (AP) — Australia built a solid lead in its second innings on day four of the first cricket test against South Africa, reaching 174-4 (36 overs) at lunch.The visitors scored at nearly 4.",
+    "url": "https://sports.yahoo.com/articles/australia-builds-lead-against-south-102912635.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/5a6a45faf4b76730312172d0df6a6e8576923835be020a45ede212b3575c64dc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4a6ec9da3acc503a469a2d48b205c8a8.jpg",
+    "publishedAt": "2026-10-12T10:29:12Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PAK vs SL 2nd T20I: Pakistan smash home T20 record as Sri Lanka pay the price in 82-run defeat",
-    "description": "Sadaqat smashed 96 off 51 balls, while Sahibzada Farhan scored 73 off 44 deliveries as Pakistan posted 215/3, their highest T20 total at home. Mohammad Imran then took three wickets for just 11 runs to restrict Sri Lanka to 133/7, giving Pakistan their bigges…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pak-vs-sl-2nd-t20i-pakistan-smash-home-t20-record-as-sri-lanka-pay-the-price-in-82-run-defeat/articleshow/134881275.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134881373,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T03:03:42Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why have India ‘A’ tours during Ranji Trophy, asks Dilip Vengsarkar",
-    "description": "Dilip Vengsarkar has voiced his concerns about the BCCI scheduling an India A tour during the Ranji Trophy season. He argues that this decision diminishes the prestige of the domestic tournament, as domestic players' performances might lose value with top pla…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-have-india-a-tours-during-ranji-trophy-asks-dilip-vengsarkar/articleshow/134881198.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134881218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T02:53:25Z",
-    "author": "Gaurav Gupta"
   }
 ]
 ;
