@@ -1,5 +1,59 @@
 [
   {
+    "source": "Al Jazeera English",
+    "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "description": "Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.",
+    "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acd4f16-1791840022.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-12T23:09:50Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "iccdev added to PyPI",
+    "description": "Python bindings for RefIccMAX (iccDEV) - ICC color profile library",
+    "url": "https://pypi.org/project/iccdev/",
+    "image": null,
+    "publishedAt": "2026-10-12T22:11:14Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "West Bengal defeat UP by 8 wickets to clinch Seva Sankalp trophy",
+    "description": "West Bengal beat Uttar Pradesh by 8 wickets to win the Seva Sankalp Trophy 2026 Divyang T20 in Varanasi; Mahesh Saw hit 56* and won Man of the Match.",
+    "url": "https://timesofindia.indiatimes.com/city/varanasi/west-bengal-defeat-up-by-8-wickets-to-clinch-seva-sankalp-trophy/articleshow/134901852.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134901851,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-12T19:25:58Z",
+    "author": "Binay Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UT girls edge past Bihar in U-19 T20 Trophy",
+    "description": "Chandigarh beat Bihar by three wickets in the Women’s U-19 T20 Trophy in Mumbai, chasing 108 to finish 109/7; Smayra Thakur hit 33.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/ut-girls-edge-past-bihar-in-u-19-t20-trophy/articleshow/134901808.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-12T19:20:22Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Punch",
+    "title": "South African judge Pillay who won 2026 Nobel laureate visits ICC",
+    "description": "2026 Nobel Peace Prize laureate and former judge, Navanethem “Navi” Pillay, has visited the International Criminal Court in The Hague to commend its work.\n\nRead More: https://punchng.com/south-african-judge-pillay-who-won-2026-nobel-laureate-visits-icc/",
+    "url": "https://punchng.com/south-african-judge-pillay-who-won-2026-nobel-laureate-visits-icc/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/12193734/IMG-20261012-WA0037_1791830254.webp",
+    "publishedAt": "2026-10-12T18:50:03Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Prithvi Shaw gets back together with Akriti Agarwal after engagement split; she says ‘together, we are enough for each other’",
+    "description": "In a heartfelt announcement, Akriti Agarwal shared her reconciliation with cricketer Prithvi Shaw following a short-lived engagement breakup. Acknowledging the impact of external voices on her previous decision, she highlighted that open communication helped …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/prithvi-shaw-gets-back-together-with-akriti-agarwal-after-engagement-split-she-says-together-we-are-enough-for-each-other/articleshow/134900360.cms",
+    "image": "https://img.etimg.com/thumb/msid-134900551,width-1200,height-900,imgsize-1465683,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-12T18:07:51Z",
+    "author": "Trending Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "\"Guy Loves Ball\": Ex-Bears pro bowler backs Mike Evans’ 150% tax hike gamble to chase another Super Bowl ring",
     "description": "Mike Evans took a notable step by signing with the San Francisco 49ers after his time with the Tampa Bay Buccaneers. His choice emphasizes his goal of chasing a Super Bowl title over merely maximizing his earnings. His impactful gameplay against the Seattle S…",
@@ -151,59 +205,5 @@
     "image": "https://s.yimg.com/lo/mysterio/api/61a2fd64b0744858ed05dd7a243da6fc94e51361bb11f69a5793736be8cdaeb4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F27089ee32dfbdb1fdcb66a67c8164771.jpg",
     "publishedAt": "2026-10-12T12:16:50Z",
     "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Key suggests Carse can return as England reveal contract list",
-    "description": "Director of cricket Rob Key believes Brydon Carse can play for England again, despite an ongoing investigation into an incident outside a Derby nightclub in August.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0v3zy7mpxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/542a/live/901f4640-c62e-11f1-9a39-31b474234113.jpg",
-    "publishedAt": "2026-10-12T12:02:41Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'India-Pakistan flavour will be missed': Suraj Karkera on rivals' withdrawal from ACT",
-    "description": "India's participation in the Asian Champions Trophy will proceed without traditional rivals Pakistan, which has withdrawn. Bangladesh will replace Pakistan in the tournament, altering the competitive dynamics among the teams. Suraj Karkera expressed that the …",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-pakistan-flavour-will-be-missed-suraj-karkera-on-rivals-withdrawal-from-asian-champions-trophy/articleshow/134891729.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134892033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-12T11:45:55Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sara Tendulkar’s lavish Bandra residence, bought by Sachin Tendulkar is now estimated to be worth Rs 100 crore and features two basements, a grand entrance, elegant interiors and a lush green backyard",
-    "description": "Sara Tendulkar, born on October 12, 1997, is the daughter of legendary cricketer Sachin Tendulkar. She graduated from Dhirubhai Ambani International School before embarking on a medical degree at University College London, illustrating her strong academic foc…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/sara-tendulkars-lavish-bandra-residence-bought-by-sachin-tendulkar-is-now-estimated-to-be-worth-rs-100-crore-and-features-two-basements-a-grand-entrance-elegant-interiors-and-a-lush-green-backyard/articleshow/134891396.cms",
-    "image": "https://img.etimg.com/thumb/msid-134891514,width-1200,height-900,imgsize-1304950,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-12T11:41:26Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "The Virat Kohli masterclass: How Australian batter Nathan McSweeney used YouTube videos to crack Indian spinners",
-    "description": "Virat Kohli's technique has been praised by a lot of critics, but now it has even helped Aussie batter Nathan McSweeney to face Indian spinners.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-how-nathan-mcsweeney-used-youtube-videos-crack-indian-spinners/ffcad92712ee553fa44b4953",
-    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
-    "publishedAt": "2026-10-12T11:40:23Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Plan to shackle Hope executed to perfection: Indian pacer Arshdeep Singh",
-    "description": "India secured a 14-run victory in the third T20 International against West Indies, leading the series 2-1. Arshdeep Singh played a crucial role by taking three wickets, effectively resigning Shai Hope for just five runs. The bowlers executed their strategy su…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/plan-to-shackle-hope-executed-to-perfection-indian-pacer-arshdeep-singh/articleshow/134889817.cms",
-    "image": "https://img.etimg.com/thumb/msid-134889985,width-1200,height-900,imgsize-74166,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-12T10:30:12Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Australia builds lead against South Africa in first test, 174-4 at lunch on day four",
-    "description": "DURBAN, South Africa (AP) — Australia built a solid lead in its second innings on day four of the first cricket test against South Africa, reaching 174-4 (36 overs) at lunch.The visitors scored at nearly 4.",
-    "url": "https://sports.yahoo.com/articles/australia-builds-lead-against-south-102912635.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/5a6a45faf4b76730312172d0df6a6e8576923835be020a45ede212b3575c64dc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4a6ec9da3acc503a469a2d48b205c8a8.jpg",
-    "publishedAt": "2026-10-12T10:29:12Z",
-    "author": "Associated Press"
   }
 ]
