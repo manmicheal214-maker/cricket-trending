@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Shikhar Dhawan says World T20 Continent Cup inclusion done 'without permission'",
+    "description": "Shikhar Dhawan has expressed that his name was used by organizers for the World T20 Continent Cup. He stated that this inclusion occurred without his prior knowledge or consent. Dhawan announced that his team is considering legal action to resolve the situati…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shikhar-dhawan-says-organisers-included-name-for-world-t20-continent-cup-without-permission-legal-action/articleshow/134925228.cms",
+    "image": "https://img.etimg.com/thumb/msid-134925312,width-1200,height-900,imgsize-98014,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-13T18:27:58Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Sri Lanka captain Mendis and Shanaka deny Pakistan clean sweep in T20 series",
+    "description": "RAWALPINDI, Pakistan (AP) — Kusal Mendis bounced back from two subpar performances to hit an unbeaten half-century and Sri Lanka denied Pakistan a clean sweep in their T20 series with an eight-wicket win Tuesday.The captain, who made 1 and 9 in the previous t…",
+    "url": "https://sports.yahoo.com/articles/sri-lanka-captain-mendis-shanaka-174233868.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/7899f94b263daa93e82993e49eb206133a917c434476b931a395e3bb4b448a23/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb843f1ccb32a7c12805d80bdeee6b233.jpg",
+    "publishedAt": "2026-10-13T17:42:33Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI's meeting with IPL stakeholders postponed from Thursday",
+    "description": "A meeting scheduled for October 15, 2026, between BCCI and IPL stakeholders in Mumbai has been postponed. This decision follows the requirement for BCCI officials to attend a felicitation ceremony in New Delhi. The ceremony will honor the Indian men's and wom…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bccis-meeting-with-ipl-stakeholders-postponed-from-thursday/articleshow/134923100.cms",
+    "image": "https://img.etimg.com/thumb/msid-134923186,width-1200,height-900,imgsize-138424,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-13T17:03:46Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli makes LinkedIn debut: What is his first post reveals about his business ambitions? How he is building his business portfolio",
+    "description": "Virat Kohli made his LinkedIn debut to discuss his business interests beyond cricket. He highlighted his investment in Agilitas Sports and co-founding one8world, emphasizing global aspirations for Indian sports brands. Kohli's profile indicates his involvemen…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/virat-kohli-makes-linkedin-debut-what-is-his-first-post-reveals-about-his-business-ambitions-how-he-is-building-his-business-portfolio/articleshow/134921021.cms",
+    "image": "https://img.etimg.com/thumb/msid-134922438,width-1200,height-900,imgsize-1662654,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-10-13T16:34:36Z",
+    "author": "Shawn Dass"
+  },
+  {
+    "source": "The Times of India",
+    "title": "WTC 2025-27 points table: South Africa crash out of top two after Durban defeat; Where does India stand?",
+    "description": "South Africa faced a significant defeat against Australia by 214 runs in the first Test at Durban. This loss caused South Africa to drop to third place in the ICC World Test Championship standings. Australia, with nine wins from eleven matches, remains at the…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wtc-2025-27-points-table-south-africa-crash-out-of-top-two-after-durban-defeat-where-does-india-stand/articleshow/134922231.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134922380,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-13T16:29:34Z",
+    "author": "Nitesh Dubey"
+  },
+  {
     "source": "POLITICO.eu",
     "title": "‘A foreign attack on EU territory’: MEPs call EU to shield ICC from US sanctions",
     "description": "EU lawmakers urged the bloc’s executive to robustly defend the International Criminal Court against U.S. sanctions in a letter sent to Commission President Ursula von der Leyen on Tuesday and obtained by POLITICO. “We formally call for the urgent deployment o…",
@@ -34,87 +79,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134919603,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-13T13:42:32Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Shubman Gill vs Babar Azam vs Virat Kohli: Who has won the most ICC Player of the Month awards?",
-    "description": "Who has won the most ICC Men's Player of the Month awards? Full list.",
-    "url": "https://www.cricketnews.com/en/cricket/news/most-icc-player-month-awards-list/fbb2ef5c5617065fde34aeae",
-    "image": "https://s.yimg.com/lo/mysterio/api/ee2621cedac7a8b1f2d82758fdc46ace507677eeae678122e253f969b2c6f74b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffba55251711429eeb7fa6baeaf5d9a7e",
-    "publishedAt": "2026-10-13T13:04:02Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal thrash Oman by 113 runs in League 2 match",
-    "description": "KATHMANDU: Nepal defeated Oman by 113 runs in their second match of the triangular series under the ICC Men’s Cricket World Cup League 2. Chasing a target of 264 runs set by Nepal, Oman were bowled out for 150 in 40 overs. Vinayak Shukla top-scored for Oman w…",
-    "url": "https://english.khabarhub.com/2026/13/571873/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/cricket-nepal.jpg",
-    "publishedAt": "2026-10-13T13:01:04Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "England squad for Australia ODI and T20I series 2026: Full team lists for AUS vs ENG white-ball series",
-    "description": "England squads for Australia 2026: Check the ODI and T20I teams and series schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/england-squad-australia-odi-t20i-series-2026-full-team-lists-aus-vs-eng/4304758472dac9db2aabde74",
-    "image": "https://s.yimg.com/lo/mysterio/api/73c174448e51fdd8029d2720b93c1e8f3bb7397e4ea7012cd2f36a04b25ad90b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6e3bdfb81df66a70e6eddb2f6cfa26f1",
-    "publishedAt": "2026-10-13T12:36:05Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Fangraphs.com",
-    "title": "Reviewing My 2026 Potential Batter HR/FB Rate Surgers & Decliners",
-    "description": "How'd these hitters perform?\nSource",
-    "url": "https://fantasy.fangraphs.com/reviewing-my-2026-potential-batter-hr-fb-rate-surgers-decliners/",
-    "image": "https://fantasy.fangraphs.com/wp-content/uploads/sites/3/2026/10/2026-06-17T045538Z_391787839_MT1USATODAY29213335_RTRMADP_3_MLB-SEATTLE-MARINERS-AT-BALTIMORE-ORIOLES-scaled-e1791823135379.jpg",
-    "publishedAt": "2026-10-13T12:30:51Z",
-    "author": "Mike Podhorzer"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Bowled over! William joins cricketing stars from the UK and India for an informal game on The Mall at a special Earthshot Prize event",
-    "description": "West Indies legend Brian Lara was present, as was former Indian cricket captains Ajinkya Rahane and Sourav Ganguly; England Test Captain.",
-    "url": "https://www.dailymail.com/news/royals/article-16205105/Prince-William-cricket-match-Mall-Earthshot.html",
-    "image": "https://i.dailymail.com/1s/2026/10/13/12/111827561-0-image-m-62_1791890181073.jpg",
-    "publishedAt": "2026-10-13T12:00:54Z",
-    "author": "Rebecca English, Ruth Stainer"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan vs Sri Lanka 3rd T20I Live Streaming: When and where to watch match online, check match details, playing 11, head-to-head record, pitch and weather report",
-    "description": "On October 13, 2026, Pakistan will clash with Sri Lanka in the third T20I at Rawalpindi Cricket Stadium. Having already claimed two wins, Pakistan leads the series 2-0. The match is set to start at 6:30 PM IST, following a toss half an hour earlier. The weath…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-vs-sri-lanka-3rd-t20i-live-streaming-when-and-where-to-watch-match-online-check-match-details-playing-11-head-to-head-record-pitch-and-weather-report/articleshow/134916748.cms",
-    "image": "https://img.etimg.com/thumb/msid-134917214,width-1200,height-900,imgsize-58022,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-13T11:50:24Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "BBC News",
-    "title": "Tribe in Jersey team for World Cup Challenge final round",
-    "description": "Batter Asa Tribe is named in Jersey's 14-man squad for the final round of the World Cup Challenge League A in Nairobi later this month.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cq9vzeddndglo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/677dac1fb71d775bbb33a983ee7af46ed6c1369ee2482b4420dd08efbb64150b/lightyear_networkapi/resizefill_w820_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc39a6b70917036223f10af159f3743d6.jpg",
-    "publishedAt": "2026-10-13T11:16:07Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "England name squads for Australia tour: Jofra Archer, Jacob Bethell return; Thomas Rew earns maiden call-up",
-    "description": "England has made key selections by recalling Jofra Archer and Jacob Bethell for their ODI series against Australia. Despite the absence of Jos Buttler and Saqib Mahmood due to injuries, Harry Brook will lead a well-rounded squad. The T20I lineup features four…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-name-squads-for-australia-tour-jofra-archer-jacob-bethell-return-thomas-rew-earns-maiden-call-up/articleshow/134915366.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134915612,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-13T10:51:53Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Australia strikes twice as South Africa clings on in tense last-day chase in Kingsmead test",
-    "description": "DURBAN, South Africa (AP) — Australia snagged two South Africa wickets in its pursuit of six to win the first cricket test at Kingsmead on the last day Tuesday.Aiden Markram was defiantly holding up one end for the Proteas at 69 not out from 200 balls, but th…",
-    "url": "https://sports.yahoo.com/articles/australia-strikes-twice-south-africa-101003116.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/01f54448cd57d8ff057fe4ba008d43683bbae8e6398013da0d6323375d41243e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc896f601378e94fa768438debbebc6e4.jpg",
-    "publishedAt": "2026-10-13T10:10:03Z",
-    "author": "Associated Press"
   }
 ]
 ;
