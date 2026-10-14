@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Daytona Beach News-Journal",
+    "title": "Nathan Tillis does it again: University bowler rolls 2nd 300 of season",
+    "description": "University senior Nathan Tillis bowled his second perfect game of the season during a victory over Trinity Christian on Senior Night.",
+    "url": "https://www.news-journalonline.com/story/sports/high-school/bowling/2026/10/13/fhsaa-bowling-nathan-tillis-300-perfect-game-university/92240206007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/d536e5b47bc62b6ffd62f03919afec2e8271187f6bb84504d02311cf06e1a0a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F37759d00e1e273f1551f8b6751031a21.jpg",
+    "publishedAt": "2026-10-13T23:13:47Z",
+    "author": "Chris Vinel, Daytona Beach News-Journal"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "'Sluggish' Australia joins criticism of Trump administration's ICC attack",
+    "description": "Australia has joined a statement condemning Donald Trump's criticism of the International Criminal Court days after several other nations issued it.",
+    "url": "https://www.abc.net.au/news/2026-10-14/australia-joins-criticism-of-trump-administration-assault-on-icc/107262112",
+    "image": "https://live-production.wcms.abc-cdn.net.au/98ee403d6b5fe7e9be7f8e8b2c96b513?impolicy=wcms_watermark_news&cropH=674&cropW=1199&xPos=0&yPos=33&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-13T21:47:15Z",
+    "author": "Stephen Dziedzic"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "“They Ain’t Working”: Chicago Bears Fans Clown Pro Bowler for Suspension",
+    "description": "Chicago Bears Pro Bowl EDGE rusher Montez Sweat has had a decent start to the season but is not living up to the $20.9 million base salary he is scheduled to earn. Sweat has seven tackles, two tackles for loss, 13 pressures, nine hurries, two quarterback hits…",
+    "url": "https://sports.yahoo.com/articles/ain-t-working-chicago-bears-212547637.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/bf832e986d9344c87f041fb01b7b9b64bffba0e39b300c5b80489957abb4f091/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F87d68eae9c4b47c1ac953bd0a2703c04.jpg",
+    "publishedAt": "2026-10-13T21:25:47Z",
+    "author": "Jackson Loschko"
+  },
+  {
     "source": "The Times of India",
     "title": "Shikhar Dhawan says World T20 Continent Cup inclusion done 'without permission'",
     "description": "Shikhar Dhawan has expressed that his name was used by organizers for the World T20 Continent Cup. He stated that this inclusion occurred without his prior knowledge or consent. Dhawan announced that his team is considering legal action to resolve the situati…",
@@ -70,15 +97,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-10-13T14:13:37Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Yuvraj Singh joins Delhi Capitals coaching staff ahead of new IPL season, reunites with franchise after 11 years",
-    "description": "Yuvraj Singh has been appointed as the Assistant and Batting Coach for Delhi Capitals in IPL. This role is his first formal coaching position following a distinguished cricket career. He previously played for the franchise, which adds to the significance of t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yuvraj-singh-joins-delhi-capitals-coaching-staff-ahead-of-new-ipl-season-reunites-with-franchise-after-11-years/articleshow/134919488.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134919603,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-13T13:42:32Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
