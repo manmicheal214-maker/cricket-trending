@@ -1,5 +1,41 @@
 window.cricketNews = [
   {
+    "source": "Al Jazeera English",
+    "title": "West Indies beat India to level T20 series as Hope continues record run",
+    "description": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+    "url": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26287548497616-1792009433.jpg?resize=1920%2C1310",
+    "publishedAt": "2026-10-14T20:52:25Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Brands still bank on cricketers as Bollywood appeal fades",
+    "description": "Cricket endorsements are maintaining their value despite a slowdown in celebrity-led advertising and brand budgets. Advertising spending is shifting towards digital creators as brands seek targeted audiences and measurable engagement. Renowned cricketers like…",
+    "url": "https://economictimes.indiatimes.com/industry/services/advertising/brands-still-bank-on-cricket-sachin-tendulkar-virat-kohli-dhoni-rohit-sharma/articleshow/134951053.cms",
+    "image": "https://img.etimg.com/thumb/msid-134951071,width-1200,height-900,imgsize-111566,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-14T20:05:39Z",
+    "author": "Javed Farooqui"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Shai Hope’s 102 gives West Indies series-leveling win over India in fourth cricket T20",
+    "description": "HYDERABAD, India (AP) — Shai Hope set a West Indies record by reaching 102 not out as West Indies beat India by 24 runs Wednesday in the fourth cricket T20 to level the five-match series at 2-2.Hope hit nine sixes and four fours in his third T20 century – the…",
+    "url": "https://sports.yahoo.com/articles/shai-hope-102-gives-west-193242328.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/05750ef213f7f9c71e1288ad6673b28d21e0f0d6ddf98193888639ce1ac05a23/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9f214213d9375306c397b8807320b68d.jpg",
+    "publishedAt": "2026-10-14T19:32:42Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Schutt stars as Aussies sweep Bangladesh in ODI series",
+    "description": "A four-wicket haul from Megan Schutt and unbeaten half-centuries to Ellyse Perry and Annabel Sutherland secure Australia a 3-0 ODI series win over Bangladesh.",
+    "url": "https://www.abc.net.au/news/2026-10-15/australia-bangladesh-odi-series-brisbane/107268200",
+    "image": "https://live-production.wcms.abc-cdn.net.au/b61f3ee0ada658e66818af59299e72d9?impolicy=wcms_watermark_news&cropH=1255&cropW=2231&xPos=0&yPos=179&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-14T19:31:25Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Abhishek Sharma’s luxurious Amritsar home is worth up to ₹8 crore, featuring a lush garden, grand entrance, wooden swing and spacious living room",
     "description": "Abhishek Sharma, a promising talent in Indian cricket, lives in a stunning bungalow situated in Amritsar, Punjab. The property is valued between ₹6 crore and ₹8 crore and boasts a grand entrance. Inside, the warm wooden decor in the spacious living room ensur…",
@@ -178,51 +214,6 @@ window.cricketNews = [
     "image": "https://d.dlnws.com/64599/1791977992-e11_26_milkbar_birthday_cake_empanada_pr_newroom-jpg.jpeg?h=640&w=840",
     "publishedAt": "2026-10-14T11:40:01Z",
     "author": null
-  },
-  {
-    "source": "Protothema.gr",
-    "title": "Man found dead as severe storms batter Rhodes, sweeping cars out to sea; 7 areas of Greece on red alert",
-    "description": "Vehicles were swept away by torrents of floodwater as heavy rain caused widespread flooding, road closures and transport disruption across the island\nThe post Man found dead as severe storms batter Rhodes, sweeping cars out to sea; 7 areas of Greece on red al…",
-    "url": "https://en.protothema.gr/2026/10/14/man-found-dead-as-severe-storms-batter-rhodes-sweeping-cars-out-to-sea-as-seven-areas-of-greece-on-red-alert/",
-    "image": "https://en.protothema.gr/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.55.44-PM.png",
-    "publishedAt": "2026-10-14T11:00:21Z",
-    "author": "Αλεξία Αμβράζη"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rs 6 lakh crore worth FII outflows since 2024 capital gains tax hike batter Dalal Street. Is a reversal on the cards?",
-    "description": "Foreign investors have sold over Rs 6 lakh crore of Indian equities since the 2024 capital gains tax hike, with outflows intensifying in 2026. Finance Minister Nirmala Sitharaman’s comments on LTCG and STT have revived hopes of tax relief, but analysts remain…",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms",
-    "image": "https://img.etimg.com/thumb/msid-134939299,width-1200,height-900,imgsize-2370536,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-10-14T10:25:30Z",
-    "author": "Debaroti Adhikary"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer climbs to career-best fourth as Indians occupy three of top four in ICC T20I batting rankings",
-    "description": "Iyer scored his maiden T20I century in the series opener in Lucknow. His rise to fourth place means India now have three players among the top four, with Ishan Kishan at the top and Abhishek Sharma in second place. Pakistan captain Sahibzada Farhan sits betwe…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-climbs-to-career-best-fourth-as-indians-occupy-three-of-top-four-in-icc-t20i-batting-rankings/articleshow/134938138.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134938260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-14T09:49:34Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer moves up three places to career-high 4th in ICC T20 International rankings",
-    "description": "Shreyas Iyer achieved a career-high fourth position in the ICC T20I rankings after scoring his maiden century. India now boasts four players in the top four of the T20I rankings for batters. Kusal Mendis, Sherfane Rutherford, and Sanju Samson also made signif…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shreyas-iyer-moves-up-three-places-to-career-high-4th-in-icc-t20-international-rankings/articleshow/134938168.cms",
-    "image": "https://img.etimg.com/thumb/msid-134938273,width-1200,height-900,imgsize-139478,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-14T09:46:09Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gautam Gambhir turns 45: 'A fighter on the field' - special birthday wishes pour in",
-    "description": "Yuvraj Singh and Suresh Raina expressed their birthday wishes to Gautam Gambhir as he turned 45 years old. Both former teammates praised Gambhir for his contributions and fighting spirit in Indian cricket. Rohan Jaitley and Rajeev Shukla also extended their w…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-turns-45-a-fighter-on-the-field-special-birthday-wishes-pour-in/articleshow/134937972.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134938023,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-14T09:35:43Z",
-    "author": "Amit Kumar"
   }
 ]
 ;
