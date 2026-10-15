@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "IPL 2027: Here's why BCCI postponed the October 15 stakeholders' meeting",
+    "description": "In an email sent on Tuesday evening, BCCI secretary Devajit Saikia formally informed franchise owners, chief executives, broadcasters and host state associations about the postponement of the meeting",
+    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-here-s-why-bcci-postponed-the-october-15-stakeholders-meeting-126101400195_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/10/thumb/fitandfill/1200X628/1791610353-9604.jpg",
+    "publishedAt": "2026-10-14T04:08:17Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch India vs. West Indies free live stream, TV channel, start time for 4th T20 match",
+    "description": "Here's everything you need to know about India vs. West Indies, including TV channel and streaming options for the fourth T20 matchup.",
+    "url": "https://www.sportingnews.com/us/cricket/news/watch-india-vs-west-indies-free-live-stream-time-t20/b07a3c7e22d9f7b4db4327a2",
+    "image": "https://s.yimg.com/lo/mysterio/api/79c7a75ecfeda60986b8ff13c46086e2c34f8dcfd98825e3008f0380979cc87e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F1be44c865033f46de105f286b6de064d",
+    "publishedAt": "2026-10-14T04:00:01Z",
+    "author": "Dan Gibbs"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "UN rapporteur Francesca Albanese calls for investigation of Israeli media figures",
+    "description": "UN rapporteur Francesca Albanese urges the ICC to investigate Israeli journalists and officials for alleged incitement to genocide, renewing controversy over her remarks.",
+    "url": "https://www.israelnationalnews.com/news/434582",
+    "image": "https://2.a7.org/files/pictures/000/1211266.jpg",
+    "publishedAt": "2026-10-14T03:59:16Z",
+    "author": "Israel National News"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game",
+    "description": "Former India cricketer Wasim Jaffer has urged Rishabh Pant to improve his performances as Ishan Kishan closes the gap and Dhruv Jurel emerges as another contender. Jaffer stressed that the upcoming domestic and IPL seasons will be crucial for Pant. However, h…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-closing-the-gap-former-india-cricketer-warns-rishabh-pant-to-raise-his-game/articleshow/134931075.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134931150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T03:46:04Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Punch",
+    "title": "Nigeria set for tough Cricket W’Cup qualifiers",
+    "description": "Nigeria’s senior men’s cricket team will host five African rivals in Abuja for the ICC Men’s T20 World Cup Sub-Regional Africa Qualifier C.\n\nRead More: https://punchng.com/nigeria-set-for-tough-cricket-wcup-qualifiers/",
+    "url": "https://punchng.com/nigeria-set-for-tough-cricket-wcup-qualifiers/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/14041631/images-72_1791947791.webp",
+    "publishedAt": "2026-10-14T03:22:04Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'My name used without permission': Dhawan to take legal action against league",
+    "description": "Former India cricketer Shikhar Dhawan has denied participating in an upcoming franchise T20 league, claiming organisers used his name without his knowledge or permission. In a post on X, he said his team would take appropriate legal action and urged the media…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-franchise-league/articleshow/134930585.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134930769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T03:07:27Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Peoplesreview.com.np",
+    "title": "Nepal defeat Oman by 113 runs",
+    "description": "Al Amerat, Oct 14: Karan KC smashed a rapid 40 and delivered a tight bowling spell as Nepal crushed hosts Oman by 113 runs in the ICC Men’s Cricket World Cup League 2 on Tuesday. Defending 263 for eight, Nepal bowled Oman out for 150 in 40 overs, with Nandan …",
+    "url": "https://peoplesreview.com.np/2026/10/14/nepal-defeat-oman-by-113-runs/",
+    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/09/nep.jpg",
+    "publishedAt": "2026-10-14T02:45:00Z",
+    "author": "team1"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India's tour of New Zealand: Prasidh Krishna, Harshit Rana's fitness delays team selection",
+    "description": "TOI understands that Krishna has been given a three-week timeline when he reported to the Centre of Excellence (CoE) after he walked out of the second ODI against West Indies in Guwahati on Sept 30. Seam-bowling allrounder Rana, who has been at the CoE since …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-tour-of-new-zealand-prasidh-krishna-harshit-ranas-fitness-delays-team-selection/articleshow/134930513.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134930540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T02:44:43Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Rubio tries to enlist Greece in US campaign against ICC",
+    "description": "The US secretary of state is pressing European allies to 'rein in the court'",
+    "url": "https://biztoc.com/x/5f4cb5d7ac87ecba",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-14T02:44:17Z",
+    "author": "rapporteur.com"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Afghan batter recreates infamous hamstring injury used against Australia",
+    "description": "It was the actions of number nine Qais Ahmad in the dying minutes that drew the most attention in the match's final act.",
+    "url": "https://www.abc.net.au/news/2026-10-14/afghan-batter-recreates-infamous-hamstring-injury/107264528",
+    "image": "https://live-production.wcms.abc-cdn.net.au/91dd8742143a14f5b03b3cf8ac10c648?impolicy=wcms_watermark_news&cropH=695&cropW=1236&xPos=7&yPos=0&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-14T02:14:11Z",
+    "author": null
+  },
+  {
     "source": "Daytona Beach News-Journal",
     "title": "Nathan Tillis does it again: University bowler rolls 2nd 300 of season",
     "description": "University senior Nathan Tillis bowled his second perfect game of the season during a victory over Trinity Christian on Senior Night.",
@@ -70,33 +160,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-134922380,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-13T16:29:34Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "POLITICO.eu",
-    "title": "‘A foreign attack on EU territory’: MEPs call EU to shield ICC from US sanctions",
-    "description": "EU lawmakers urged the bloc’s executive to robustly defend the International Criminal Court against U.S. sanctions in a letter sent to Commission President Ursula von der Leyen on Tuesday and obtained by POLITICO. “We formally call for the urgent deployment o…",
-    "url": "https://www.politico.eu/article/meps-call-eu-protect-icc-from-us-sanctions/",
-    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2203953527-scaled.jpg",
-    "publishedAt": "2026-10-13T15:14:36Z",
-    "author": "Giovanna Faggionato"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sediqullah Atal creates history, becomes first Afghanistan batter to score fourth-innings Test century",
-    "description": "Sediqullah Atal etched his name in cricket history as the first Afghan to score a fourth-innings century, amassing 111 runs from 332 balls. His heroic effort led Afghanistan to a thrilling draw against Bangladesh in Abu Dhabi. They fought valiantly, requiring…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sediqullah-atal-creates-history-becomes-first-afghanistan-batter-to-score-fourth-innings-test-century/articleshow/134920942.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134921065,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-13T15:03:39Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Atal's maiden test century earns Afghanistan epic draw against Bangladesh",
-    "description": "ABU DHABI, United Arab Emirates (AP) — Sediqullah Atal’s maiden test century led Afghanistan to an epic draw against Bangladesh in a one-off cricket test on Tuesday.Afghanistan batted for 142 overs, 92 on the fifth and final day, in its second innings to forc…",
-    "url": "https://sports.yahoo.com/articles/atals-maiden-test-century-earns-141337160.html",
-    "image": null,
-    "publishedAt": "2026-10-13T14:13:37Z",
-    "author": "Associated Press"
   }
 ]
 ;
