@@ -1,6 +1,132 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Five wickets in an over: South African bowler makes history with rare feat - Watch",
+    "description": "Laycock finished with career-best figures of 6/26, including a record of four wickets in four consecutive deliveries in South African T20 cricket.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/five-wickets-in-an-over-south-african-bowler-makes-history-with-rare-feat-watch/articleshow/134944249.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134944981,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T14:28:46Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Hardik Pandya-Yashasvi Jaiswal trade: Talks between MI and RR stall ahead of IPL 2027 mini-auction",
+    "description": "The latest name to emerge in the ongoing trade saga of Hardik Pandya is Yashasvi Jaiswal as talks happen between RR and MI ahead of IPL mini-auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-yashasvi-jaiswal-trade-talks-mi-rr-stall-ipl-2027-auction/a7f5d6dc4914e3b3d2be7d1c",
+    "image": "https://s.yimg.com/lo/mysterio/api/33caf6e09cdf47a76e3e4e8234d6b0c2edf76d271c03791c8f23f2604c85bea5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9099a809bd0f1a890a13aa9da9405339",
+    "publishedAt": "2026-10-14T14:04:07Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'There are a few things we need to work on': Mandhana flags India's T20I improvement areas",
+    "description": "The India women's cricket team is set to be led by Smriti Mandhana in a series against Zimbabwe commencing on October 16. Aimed at refining their skills for the Women's Champions Trophy in February 2027, Mandhana emphasized the significance of learning from c…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-are-a-few-things-we-need-to-work-on-smriti-mandhana-flags-indias-t20i-improvement-areas-ahead-of-womens-champions-trophy/articleshow/134944380.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134944526,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T14:02:47Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Sunrisers Hyderabad bring back T Natarajan in player trade with DC; Zeeshan Ansari moves to Delhi",
+    "description": "Sunrisers Hyderabad has welcomed back pacer T Natarajan after a successful IPL career with the team. Delhi Capitals have acquired leg-spinner Zeeshan Ansari following a trade with Sunrisers Hyderabad. T Natarajan returns to SRH for Rs 5 crore, while Ansari jo…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-sunrisers-hyderabad-bring-back-t-natarajan-in-player-trade-with-dc-zeeshan-ansari-moves-to-delhi/articleshow/134941921.cms",
+    "image": "https://img.etimg.com/thumb/msid-134943764,width-1200,height-900,imgsize-1147787,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-14T13:15:01Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in all T20 cricket at Rajiv Gandhi International Cricket Stadium, Hyderabad: Full list of records including IPL and T20Is",
+    "description": "The highest successful run chases at Rajiv Gandhi International Stadium, Hyderabad, in T20 cricket: Full list of top chases in IPL, T20Is, and CLT20 matches ahead of India vs West Indies.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-t20-hyderabad-ipl-t20is/9ecfe7e9853334478d7d1042",
+    "image": "https://s.yimg.com/lo/mysterio/api/a629885ee649d292c21bbfbedf188fdbcd246cf17d62aa13c6685e64939e91a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2d5afb631cd41bb5e82fc592706a46ab",
+    "publishedAt": "2026-10-14T13:00:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IND vs WI 4th T20I live streaming: Where to watch today's cricket match?",
+    "description": "India vs West Indies 4th T20I begins at 7 pm IST on Wednesday, with the toss at 6:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
+    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-4th-t20i-live-streaming-where-to-watch-today-s-cricket-match-126101300704_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/featurecrop/1200X628/1791884553-31.jpg",
+    "publishedAt": "2026-10-14T12:59:29Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India will look to make most of six T20Is before inaugural Women's Champions Trophy: Smriti",
+    "description": "Smriti Mandhana is set to lead India in a T20I series against Zimbabwe, marking her first series as captain. The Indian team is seeking to improve ahead of the upcoming Women's Champions Trophy after recent successes. They have six T20 matches planned to esta…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-will-look-to-make-most-of-six-t20is-before-inaugural-womens-champions-trophy-smriti/articleshow/134943370.cms",
+    "image": "https://img.etimg.com/thumb/msid-134943377,width-1200,height-900,imgsize-157120,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-14T12:55:17Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Sporting News",
+    "title": "India vs. West Indies live score, win probability, chances of victory for 4th T20I in Hyderabad",
+    "description": "Here are all the live updates for the 4th T20I between India and the West Indies straight from Rajiv Gandhi International Cricket Stadium in Hyderabad.",
+    "url": "https://www.sportingnews.com/in/cricket/news/india-west-indies-live-score-win-probability-chances-victory-4th-t20i-hyderabad/57189ffc5021175f45de02d7",
+    "image": "https://s.yimg.com/lo/mysterio/api/1f63a37464ccc8f5b97e84f88463511a11e6149a422cc0c095d25c4b4f7dab01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd27aa9ecc53fcdf74f009813ea3d9e51",
+    "publishedAt": "2026-10-14T12:20:25Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL Trade: T Natarajan returns to SRH for Rs 5 crore; Zeeshan Ansari moves to DC",
+    "description": "In a strategic move before the IPL season begins, Sunrisers Hyderabad and Delhi Capitals have confirmed a player trade. T Natarajan, the left-arm pacer previously known for his significant contributions to SRH, is returning after a term with DC. Meanwhile, le…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-trade-t-natarajan-returns-to-sunrisers-hyderabad-for-rs-5-crore-zeeshan-ansari-moves-to-delhi-capitals/articleshow/134941567.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134941913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T11:48:15Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Dealnews.com",
+    "title": "Taco Bell Milk Bar Birthday Cake Empanada: Free if it's your birthday",
+    "description": "Taco Bell's new Milk Bar Birthday Cake Empanada costs $3.49 at participating locations starting October 15 for a limited time. It's a crispy empanada filled with cake batter-flavored filling and topped with pink frosting and rainbow sprinkles, marking the thi…",
+    "url": "https://www.dealnews.com/Taco-Bell-Milk-Bar-Birthday-Cake-Empanada-Free-if-its-your-birthday/22283719.html",
+    "image": "https://d.dlnws.com/64599/1791977992-e11_26_milkbar_birthday_cake_empanada_pr_newroom-jpg.jpeg?h=640&w=840",
+    "publishedAt": "2026-10-14T11:40:01Z",
+    "author": null
+  },
+  {
+    "source": "Protothema.gr",
+    "title": "Man found dead as severe storms batter Rhodes, sweeping cars out to sea; 7 areas of Greece on red alert",
+    "description": "Vehicles were swept away by torrents of floodwater as heavy rain caused widespread flooding, road closures and transport disruption across the island\nThe post Man found dead as severe storms batter Rhodes, sweeping cars out to sea; 7 areas of Greece on red al…",
+    "url": "https://en.protothema.gr/2026/10/14/man-found-dead-as-severe-storms-batter-rhodes-sweeping-cars-out-to-sea-as-seven-areas-of-greece-on-red-alert/",
+    "image": "https://en.protothema.gr/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.55.44-PM.png",
+    "publishedAt": "2026-10-14T11:00:21Z",
+    "author": "Αλεξία Αμβράζη"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rs 6 lakh crore worth FII outflows since 2024 capital gains tax hike batter Dalal Street. Is a reversal on the cards?",
+    "description": "Foreign investors have sold over Rs 6 lakh crore of Indian equities since the 2024 capital gains tax hike, with outflows intensifying in 2026. Finance Minister Nirmala Sitharaman’s comments on LTCG and STT have revived hopes of tax relief, but analysts remain…",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms",
+    "image": "https://img.etimg.com/thumb/msid-134939299,width-1200,height-900,imgsize-2370536,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-10-14T10:25:30Z",
+    "author": "Debaroti Adhikary"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shreyas Iyer climbs to career-best fourth as Indians occupy three of top four in ICC T20I batting rankings",
+    "description": "Iyer scored his maiden T20I century in the series opener in Lucknow. His rise to fourth place means India now have three players among the top four, with Ishan Kishan at the top and Abhishek Sharma in second place. Pakistan captain Sahibzada Farhan sits betwe…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-climbs-to-career-best-fourth-as-indians-occupy-three-of-top-four-in-icc-t20i-batting-rankings/articleshow/134938138.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134938260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-14T09:49:34Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shreyas Iyer moves up three places to career-high 4th in ICC T20 International rankings",
+    "description": "Shreyas Iyer achieved a career-high fourth position in the ICC T20I rankings after scoring his maiden century. India now boasts four players in the top four of the T20I rankings for batters. Kusal Mendis, Sherfane Rutherford, and Sanju Samson also made signif…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shreyas-iyer-moves-up-three-places-to-career-high-4th-in-icc-t20-international-rankings/articleshow/134938168.cms",
+    "image": "https://img.etimg.com/thumb/msid-134938273,width-1200,height-900,imgsize-139478,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-14T09:46:09Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
     "title": "Gautam Gambhir turns 45: 'A fighter on the field' - special birthday wishes pour in",
     "description": "Yuvraj Singh and Suresh Raina expressed their birthday wishes to Gautam Gambhir as he turned 45 years old. Both former teammates praised Gambhir for his contributions and fighting spirit in Indian cricket. Rohan Jaitley and Rajeev Shukla also extended their w…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-turns-45-a-fighter-on-the-field-special-birthday-wishes-pour-in/articleshow/134937972.cms",
@@ -115,132 +241,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/10/thumb/fitandfill/1200X628/1791610353-9604.jpg",
     "publishedAt": "2026-10-14T04:08:17Z",
     "author": "Aditya Kaushik"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch India vs. West Indies free live stream, TV channel, start time for 4th T20 match",
-    "description": "Here's everything you need to know about India vs. West Indies, including TV channel and streaming options for the fourth T20 matchup.",
-    "url": "https://www.sportingnews.com/us/cricket/news/watch-india-vs-west-indies-free-live-stream-time-t20/b07a3c7e22d9f7b4db4327a2",
-    "image": "https://s.yimg.com/lo/mysterio/api/79c7a75ecfeda60986b8ff13c46086e2c34f8dcfd98825e3008f0380979cc87e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F1be44c865033f46de105f286b6de064d",
-    "publishedAt": "2026-10-14T04:00:01Z",
-    "author": "Dan Gibbs"
-  },
-  {
-    "source": "Israelnationalnews.com",
-    "title": "UN rapporteur Francesca Albanese calls for investigation of Israeli media figures",
-    "description": "UN rapporteur Francesca Albanese urges the ICC to investigate Israeli journalists and officials for alleged incitement to genocide, renewing controversy over her remarks.",
-    "url": "https://www.israelnationalnews.com/news/434582",
-    "image": "https://2.a7.org/files/pictures/000/1211266.jpg",
-    "publishedAt": "2026-10-14T03:59:16Z",
-    "author": "Israel National News"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Ishan Kishan closing the gap’: Former India cricketer warns Rishabh Pant to raise his game",
-    "description": "Former India cricketer Wasim Jaffer has urged Rishabh Pant to improve his performances as Ishan Kishan closes the gap and Dhruv Jurel emerges as another contender. Jaffer stressed that the upcoming domestic and IPL seasons will be crucial for Pant. However, h…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-closing-the-gap-former-india-cricketer-warns-rishabh-pant-to-raise-his-game/articleshow/134931075.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134931150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-14T03:46:04Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Punch",
-    "title": "Nigeria set for tough Cricket W’Cup qualifiers",
-    "description": "Nigeria’s senior men’s cricket team will host five African rivals in Abuja for the ICC Men’s T20 World Cup Sub-Regional Africa Qualifier C.\n\nRead More: https://punchng.com/nigeria-set-for-tough-cricket-wcup-qualifiers/",
-    "url": "https://punchng.com/nigeria-set-for-tough-cricket-wcup-qualifiers/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/14041631/images-72_1791947791.webp",
-    "publishedAt": "2026-10-14T03:22:04Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'My name used without permission': Dhawan to take legal action against league",
-    "description": "Former India cricketer Shikhar Dhawan has denied participating in an upcoming franchise T20 league, claiming organisers used his name without his knowledge or permission. In a post on X, he said his team would take appropriate legal action and urged the media…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-franchise-league/articleshow/134930585.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134930769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-14T03:07:27Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Peoplesreview.com.np",
-    "title": "Nepal defeat Oman by 113 runs",
-    "description": "Al Amerat, Oct 14: Karan KC smashed a rapid 40 and delivered a tight bowling spell as Nepal crushed hosts Oman by 113 runs in the ICC Men’s Cricket World Cup League 2 on Tuesday. Defending 263 for eight, Nepal bowled Oman out for 150 in 40 overs, with Nandan …",
-    "url": "https://peoplesreview.com.np/2026/10/14/nepal-defeat-oman-by-113-runs/",
-    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/09/nep.jpg",
-    "publishedAt": "2026-10-14T02:45:00Z",
-    "author": "team1"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India's tour of New Zealand: Prasidh Krishna, Harshit Rana's fitness delays team selection",
-    "description": "TOI understands that Krishna has been given a three-week timeline when he reported to the Centre of Excellence (CoE) after he walked out of the second ODI against West Indies in Guwahati on Sept 30. Seam-bowling allrounder Rana, who has been at the CoE since …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/indias-tour-of-new-zealand-prasidh-krishna-harshit-ranas-fitness-delays-team-selection/articleshow/134930513.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134930540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-14T02:44:43Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Rubio tries to enlist Greece in US campaign against ICC",
-    "description": "The US secretary of state is pressing European allies to 'rein in the court'",
-    "url": "https://biztoc.com/x/5f4cb5d7ac87ecba",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-14T02:44:17Z",
-    "author": "rapporteur.com"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Afghan batter recreates infamous hamstring injury used against Australia",
-    "description": "It was the actions of number nine Qais Ahmad in the dying minutes that drew the most attention in the match's final act.",
-    "url": "https://www.abc.net.au/news/2026-10-14/afghan-batter-recreates-infamous-hamstring-injury/107264528",
-    "image": "https://live-production.wcms.abc-cdn.net.au/91dd8742143a14f5b03b3cf8ac10c648?impolicy=wcms_watermark_news&cropH=695&cropW=1236&xPos=7&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-14T02:14:11Z",
-    "author": null
-  },
-  {
-    "source": "Daytona Beach News-Journal",
-    "title": "Nathan Tillis does it again: University bowler rolls 2nd 300 of season",
-    "description": "University senior Nathan Tillis bowled his second perfect game of the season during a victory over Trinity Christian on Senior Night.",
-    "url": "https://www.news-journalonline.com/story/sports/high-school/bowling/2026/10/13/fhsaa-bowling-nathan-tillis-300-perfect-game-university/92240206007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/d536e5b47bc62b6ffd62f03919afec2e8271187f6bb84504d02311cf06e1a0a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F37759d00e1e273f1551f8b6751031a21.jpg",
-    "publishedAt": "2026-10-13T23:13:47Z",
-    "author": "Chris Vinel, Daytona Beach News-Journal"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "'Sluggish' Australia joins criticism of Trump administration's ICC attack",
-    "description": "Australia has joined a statement condemning Donald Trump's criticism of the International Criminal Court days after several other nations issued it.",
-    "url": "https://www.abc.net.au/news/2026-10-14/australia-joins-criticism-of-trump-administration-assault-on-icc/107262112",
-    "image": "https://live-production.wcms.abc-cdn.net.au/98ee403d6b5fe7e9be7f8e8b2c96b513?impolicy=wcms_watermark_news&cropH=674&cropW=1199&xPos=0&yPos=33&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-13T21:47:15Z",
-    "author": "Stephen Dziedzic"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "“They Ain’t Working”: Chicago Bears Fans Clown Pro Bowler for Suspension",
-    "description": "Chicago Bears Pro Bowl EDGE rusher Montez Sweat has had a decent start to the season but is not living up to the $20.9 million base salary he is scheduled to earn. Sweat has seven tackles, two tackles for loss, 13 pressures, nine hurries, two quarterback hits…",
-    "url": "https://sports.yahoo.com/articles/ain-t-working-chicago-bears-212547637.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/bf832e986d9344c87f041fb01b7b9b64bffba0e39b300c5b80489957abb4f091/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F87d68eae9c4b47c1ac953bd0a2703c04.jpg",
-    "publishedAt": "2026-10-13T21:25:47Z",
-    "author": "Jackson Loschko"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shikhar Dhawan says World T20 Continent Cup inclusion done 'without permission'",
-    "description": "Shikhar Dhawan has expressed that his name was used by organizers for the World T20 Continent Cup. He stated that this inclusion occurred without his prior knowledge or consent. Dhawan announced that his team is considering legal action to resolve the situati…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shikhar-dhawan-says-organisers-included-name-for-world-t20-continent-cup-without-permission-legal-action/articleshow/134925228.cms",
-    "image": "https://img.etimg.com/thumb/msid-134925312,width-1200,height-900,imgsize-98014,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-13T18:27:58Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Sri Lanka captain Mendis and Shanaka deny Pakistan clean sweep in T20 series",
-    "description": "RAWALPINDI, Pakistan (AP) — Kusal Mendis bounced back from two subpar performances to hit an unbeaten half-century and Sri Lanka denied Pakistan a clean sweep in their T20 series with an eight-wicket win Tuesday.The captain, who made 1 and 9 in the previous t…",
-    "url": "https://sports.yahoo.com/articles/sri-lanka-captain-mendis-shanaka-174233868.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/7899f94b263daa93e82993e49eb206133a917c434476b931a395e3bb4b448a23/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb843f1ccb32a7c12805d80bdeee6b233.jpg",
-    "publishedAt": "2026-10-13T17:42:33Z",
-    "author": "RIZWAN ALI"
   }
 ]
 ;
