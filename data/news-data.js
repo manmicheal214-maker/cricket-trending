@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "The Big Lead",
+    "title": "Patriots, Lions, Bears 7-time Pro Bowler, NBC analyst, dies at 84",
+    "description": "Patriots CEO Robert Kraft paid tribute to the team's longtime center",
+    "url": "https://www.thebiglead.com/jon-morris-cause-of-death-patriots-bears-lions-nbc-nfl/",
+    "image": "https://s.yimg.com/lo/mysterio/api/ecda6823f949361f71ebd43c25283c99c731d73b088495da1935db8c100b6a63/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F56008cdd9850cf32dc649de74aabfdb9.jpg",
+    "publishedAt": "2026-10-15T22:12:30Z",
+    "author": "J.P. Hoornstra"
+  },
+  {
     "source": "Dailymail.com",
     "title": "England's T20 star Aneurin Donald lands big deal to join Ben Stokes and Co in Australia... as Zak Crawley commits to stay at Kent just days after losing central contract",
     "description": "One opening batsman whose career trajectory is heading in the opposite direction, however, is Aneurin Donald, of Derbyshire.",
@@ -142,15 +151,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/10/15/11/111875607-0-image-a-9_1792059498358.jpg",
     "publishedAt": "2026-10-15T11:09:55Z",
     "author": "Richard Eden"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma recalls Yuvraj Singh scolding young cricketers in 2006, reveals Rishabh Pant would sneak food from kids’ plates",
-    "description": "Rohit Sharma revealed amusing insights about several Indian cricket team members during a recent show. He described Jasprit Bumrah as a doctor due to his key role in pressure situations. Rohit also referred to Yuvraj Singh as a headmaster for how he guided yo…",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rohit-sharma-recalls-yuvraj-singh-scolding-young-cricketers-in-2006-reveals-rishabh-pant-would-sneak-food-from-kids-plates/articleshow/134964890.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134964975,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-15T10:38:38Z",
-    "author": "IANS"
   }
 ]
 ;
