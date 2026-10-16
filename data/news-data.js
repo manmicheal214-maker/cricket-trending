@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'India have totally spoiled Vaibhav Sooryavanshi's confidence': Former cricketer makes bold claim",
+    "description": "Former India captain Krishnamachari Srikkanth criticised the team management for frequently changing the opening combination, saying it has hurt Sanju Samson and Vaibhav Sooryavanshi’s confidence. He questioned Samson’s inconsistency and suggested giving both…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-have-totally-spoiled-vaibhav-sooryavanshis-confidence-former-cricketer-makes-bold-claim/articleshow/134954940.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134954968,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-15T01:05:04Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "ClutchPoints",
+    "title": "Are Brewers disrespecting Christian Yelich by not starting him vs. lefties in NLCS?",
+    "description": "The Milwaukee Brewers gave Christian Yelich the ultimate badge of honor by announcing that he was selected as the team’s official captain before the end of the 2026 regular season. Yet, Yelich, a left-handed batter, did not start Game 1 of the National League…",
+    "url": "https://clutchpoints.com/mlb/milwaukee-brewers/brewers-milwaukee-disrespecting-christian-yelich-not-starting-lefties-nlcs",
+    "image": "https://s.yimg.com/lo/mysterio/api/23f53610c1333cf2b7fa99583578dd1d6973a92546d3f836803acf85574590e6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fc78ab4ef954bf7310e769114b6ea676d.jpg",
+    "publishedAt": "2026-10-14T23:27:48Z",
+    "author": "Joey Mistretta, ClutchPoints"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "West Indies beat India to level T20 series as Hope continues record run",
     "description": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
