@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Broncos batter Sam Darnold, outlast Seahawks in defensive slugfest: TNF winners, losers",
+    "description": "Defense was the name of the game Thursday night as the Broncos outlast the Seahawks in Denver. The winners and losers of TNF.",
+    "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2026/10/16/broncos-seahawks-winners-losers-week-6-tnf/92274407007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/937c5a9846e8d939266b7322dc436952174f1f35e8dcf9a3631ff5053f9475db/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F55d52190fd11cdfa5e38c9249856e9ff.jpg",
+    "publishedAt": "2026-10-16T04:04:42Z",
+    "author": "Nate Davis, USA TODAY"
+  },
+  {
+    "source": "New York Post",
+    "title": "Jon Morris, Patriots AFL All-Star and franchise’s first Pro Bowler, dead at 84",
+    "description": "Morris spent 11 seasons with the organization.",
+    "url": "https://nypost.com/2026/10/16/sports/jon-morris-patriots-afl-all-star-and-first-pro-bowler-dead-at-84/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+    "image": "https://s.yimg.com/lo/mysterio/api/9417730a83c5c0458cb50918686f8106063fd6ba930be0698818606064ea6285/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F30286df9be24d071e667b564d3b2bbea.jpg",
+    "publishedAt": "2026-10-16T04:04:18Z",
+    "author": "Christian Arnold"
+  },
+  {
+    "source": "New York Post",
+    "title": "Jon Morris, Patriots AFL All-Star and franchise’s first Pro Bowler, dead at 84",
+    "description": "Morris spent 11 seasons with the organization.",
+    "url": "https://nypost.com/2026/10/16/sports/jon-morris-patriots-afl-all-star-and-first-pro-bowler-dead-at-84/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-ceglejs6t-1792122073962.jpg?quality=75&strip=all&1792107715&w=1200",
+    "publishedAt": "2026-10-16T04:04:18Z",
+    "author": "Christian Arnold"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Patriots 1st Pro Bowler Ever Dies at 84",
+    "description": "The New England Patriots are mourning the loss of one of the franchise’s earliest stars.Patriots Hall of Fame center Jon Morris has died at 84, the organization announced Thursday.Morris spent 11 seasons with the Boston and New England Patriots from 1964 thro…",
+    "url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-first-franchise-pro-bowler-dies-at-84/",
+    "image": "https://s.yimg.com/lo/mysterio/api/72ddefb3c3835e49179a312c5057029372c005d8e00663a7f7779043dd928776/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fb30d1d67ba2fd802d56825a7f9481f4a.jpg",
+    "publishedAt": "2026-10-16T03:45:33Z",
+    "author": "Duncan Day"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "49ers Get ‘Remarkable’ Injury Update on 10-Time Pro Bowler After Scary Hit",
+    "description": "San Francisco 49ers fullback Kyle Juszczyk is back at practice after suffering a knee hyperextension and bone bruise against Denver, raising hopes for an earlier-than-expected return. The post 49ers Get ‘Remarkable’ Injury Update on 10-Time Pro Bowler After S…",
+    "url": "https://heavy.com/sports/nfl/san-francisco-49ers/kyle-juszczyk-injury-update-return/",
+    "image": "https://s.yimg.com/lo/mysterio/api/f4f837c0f634c4c5bc362af3dcd2d56089a61366329ad71e84154510c02848a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F263d17683872c38ce16edd796689cfbd.jpg",
+    "publishedAt": "2026-10-16T03:39:34Z",
+    "author": "Erik C. Anderson"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘He has done everything’: Tim Southee backs Bhuvneshwar Kumar after India recall",
+    "description": "Tim Southee has expressed his enthusiasm for Bhuvneshwar Kumar's reentry into the T20I squad, highlighting his vast experience and impressive form in the recent IPL season. He believes this opportunity could reignite Bhuvneshwar's competitive edge on the inte…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-has-done-everything-tim-southee-backs-bhuvneshwar-kumar-after-india-recall/articleshow/134981361.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134981388,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T03:28:59Z",
+    "author": "Diptayan Hazra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs WI T20: Check parking restrictions, traffic curbs around Chinnaswamy stadium",
+    "description": "Traffic police have announced various parking restrictions and designated parking areas near M Chinnaswamy Stadium. Parking is prohibited on multiple roads, including Queens Road and MG Road. Designated parking facilities will operate from 11 am to 9 pm to ac…",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/india-vs-wi-t20-check-parking-restrictions-traffic-curbs-around-chinnaswamy-stadium/articleshow/134981217.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134981336,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T03:25:00Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Series in India brings nothing to West Indies’: Cricket’s bilateral revenue model sparks debate",
+    "description": "Cricket West Indies CEO Chris Dehring criticised the bilateral revenue model, saying the board earns nothing when the team tours India, despite series potentially generating $20–30 million. He traced the problem to a 1997 ICC decision allowing hosts to retain…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/series-in-india-brings-nothing-to-west-indies-crickets-bilateral-revenue-model-sparks-debate/articleshow/134980912.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134981189,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T03:15:34Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘I Want This Kid To Be Successful’ — Pro Bowler Sets Expectations Straight for Arch Manning After ‘Frustrating’ Oklahoma Performance",
+    "description": "Taylor Lewan is rooting for Arch Manning, but watching the Texas quarterback against Oklahoma still left him wondering how many opportunities the Longhorns were going to waste. The former Pro Bowl offensive tackle voiced that frustration on “Bussin’ With The …",
+    "url": "https://www.profootballnetwork.com/cfb/taylor-lewan-expectations-arch-manning-texas-oklahoma/",
+    "image": "https://s.yimg.com/lo/mysterio/api/e1b7262283c0e49808231a5ea97951d2ef11255da9d2d7a767183414b393d329/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fd15286639c45c79479eb442ee0d58c1e.jpg",
+    "publishedAt": "2026-10-16T03:04:58Z",
+    "author": "Colin Witte"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Election 2026: Polling stations at Black Caps and Auckland FC matches ruled out",
+    "description": "India-New Zealand ODI and the Auckland FC-Phoenix derby fall on election day.",
+    "url": "https://www.nzherald.co.nz/sport/election-2026-polling-stations-at-black-caps-and-auckland-fc-matches-ruled-out/56GMVWT2QVHKHHXCKCPCOHMCAA/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/5I57DN7XVZBQ5KHIOPQNZVRL64.jpg?auth=59a5970a0d4f4a1f2ad1d16dda36b2dec0c9150ca68c7855470918e3067271fb&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-10-16T03:00:00Z",
+    "author": "Samuel Sherry"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Reel ke chakkar mein thuk jaoge': Vaibhav Sooryavanshi's warning to paps goes viral - Watch",
+    "description": "Teenage cricket star Vaibhav Sooryavanshi went viral after jokingly warning airport paparazzi, “Reel ke chakkar mein thuk jaoge,” urging them to prioritise safety over filming. He was in New Delhi to meet PM Narendra Modi during a felicitation ceremony for In…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/reel-ke-chakkar-mein-thuk-jaoge-vaibhav-sooryavanshis-warning-to-paps-goes-viral-watch/articleshow/134979975.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134980075,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T01:44:13Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Coroner probing teen's cricketing death will not recommend rule changes",
+    "description": "The family of Ben Austin, the Melbourne 17-year-old fatally injured while practising cricket last October, has welcomed a decision not to recommend changes to the game their son loved.",
+    "url": "https://www.abc.net.au/news/2026-10-16/ben-austin-cricket-death-coronial-directions-hearing/107274262",
+    "image": "https://live-production.wcms.abc-cdn.net.au/98bbc405f3f69f671916fbace8cd6499?impolicy=wcms_watermark_news&cropH=810&cropW=1440&xPos=0&yPos=97&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-16T01:28:35Z",
+    "author": "Alexandra Alvaro"
+  },
+  {
+    "source": "Brandcommunion.com",
+    "title": "Sony VIZHA to launch with Tamil Idol, celebrity MasterChef and a diverse entertainment slate",
+    "description": "Launching on October 19, the Tamil entertainment platform will bring together global reality formats, original fiction, movies and cricket commentary, anchored by the brand promise ‘Ithu Namma Vibe’.",
+    "url": "https://www.brandcommunion.com/sony-vizha-to-launch-with-tamil-idol-celebrity-masterchef-and-a-diverse-entertainment-slate/sony-vizha-to-launch-with-tamil-idol-celebrity-masterchef-and-a-diverse-entertainment-slate",
+    "image": "https://www.brandcommunion.com/uploads/news/sony-vizha-to-launch-with-tamil-idol-celebrity-masterchef-and-a-diverse-entertainment-slate_1791968081_6acf43517110f.png",
+    "publishedAt": "2026-10-16T00:47:54Z",
+    "author": "Newsdesk Published"
+  },
+  {
     "source": "The Big Lead",
     "title": "Patriots, Lions, Bears 7-time Pro Bowler, NBC analyst, dies at 84",
     "description": "Patriots CEO Robert Kraft paid tribute to the team's longtime center",
@@ -61,96 +178,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-10-15T16:06:46Z",
     "author": "Times News Network"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Fearless brand of cricket with smartness': India begin Zimbabwe series with Champions Trophy preparations in focus",
-    "description": "India will face Zimbabwe for the first time in a bilateral series, starting with three T20Is in Raipur before the teams move to Vadodara for three ODIs. The series is part of India's preparations for the ICC event in February.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fearless-brand-of-cricket-with-smartness-india-begin-zimbabwe-series-with-champions-trophy-preparations-in-focus/articleshow/134969263.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134969678,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-15T13:52:15Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer lives in a Rs 12 crore home in Mumbai’s Lower Parel, featuring a gaming room, customised sneaker room, private gym and scenic city views",
-    "description": "Shreyas Iyer, currently the captain of Indian national T20 cricket team. His Mumbai home is located on the 48th floor in Lower Parel area. Reportedly the house costs approximately 12 crores. His luxurious home features a dedicated gym, gaming room and a seper…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/shreyas-iyer-lives-in-a-rs-12-crore-home-in-mumbais-lower-parel-featuring-a-gaming-room-customised-sneaker-room-private-gym-and-scenic-city-views/articleshow/134968427.cms",
-    "image": "https://img.etimg.com/thumb/msid-134968641,width-1200,height-900,imgsize-1383520,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-15T13:10:12Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Sanju Samson admits India's 'once-in-a-generation' bowler cannot be replaced after loss at Hyderabad vs. West Indies",
-    "description": "Sanju Samson admitted India's 'once-in-a-generation' bowler cannot be replaced following India's loss to West Indies in Hyderabad. Read full post-match quote...",
-    "url": "https://www.cricketnews.com/en/cricket/news/sanju-samson-india-jasprit-bumrah-cannot-be-replaced-west-indies-loss/5a15f21b204bb46f05f7ab43",
-    "image": "https://s.yimg.com/lo/mysterio/api/5e4e20e27415ca7e3909a8cce65afa578c8c82d2c86e9ce6438f6baacb3d364f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff28ff7c88f7f7f8839377da8fe398387",
-    "publishedAt": "2026-10-15T13:07:08Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Your success not just yours': PM Modi hails athletes after 85-medal haul at Asiad",
-    "description": "Present at the event were the entire men's T20 team, led by Shreyas Iyer, which played the fourth T20I against West Indies on Wednesday evening and is",
-    "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/your-success-is-not-just-yours-pm-modi-meets-asian-games-medal-winners-lauds-indias-sporting-achievements/articleshow/134968378.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134968450,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-15T12:51:38Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Business Standard",
-    "title": "RBI should curb non-essential LRS outflows, scrutinise ODI: SBI Research",
-    "description": "SBI Research has called for curbs on non-essential foreign exchange remittances and closer scrutiny of overseas investments to ease rupee pressure amid global uncertainties",
-    "url": "https://www.business-standard.com/economy/news/rbi-should-curb-non-essential-lrs-outflows-scrutinise-odi-sbi-research-126101501146_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/03/thumb/fitandfill/1200X628/1788457742-1907.jpg",
-    "publishedAt": "2026-10-15T12:42:28Z",
-    "author": "Anjali Kumari"
-  },
-  {
-    "source": "Democracy Now!",
-    "title": "U.S. Sanctions ICC in a Bid to Avoid \"Criminal Liability\": War Crimes Prosecutor Reed Brody",
-    "description": "The Trump administration on Friday placed sweeping sanctions on the International Criminal Court that target the institution as a whole. This comes on top of earlier sanctions against individual ICC judges and personnel. The administration has been escalating…",
-    "url": "https://www.democracynow.org/2026/10/15/reed_brody_icc",
-    "image": "https://www.democracynow.org/images/story/13/83913/full_hd/SEG1-guest-split1.jpg",
-    "publishedAt": "2026-10-15T12:16:18Z",
-    "author": "webdev@democracynow.org (Democracy Now!)"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Modi Felicitates Asian Games Medalists In Delhi",
-    "description": "Prime Minister Narendra Modi met India's Asian Games medal-winners, including the gold-winning men's and women's cricket teams, at the Major Dhyan Chand Stadium. He congratulated them for making 140 crore Indians proud and highlighted the significant contribu…",
-    "url": "https://www.rediff.com/sports/report/pm-modi-meets-asian-games-medal-winners-lauds-performance/20261015.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/oct/15modi-asian-games.jpg",
-    "publishedAt": "2026-10-15T12:02:29Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Would I be tempted?' Sikandar Raza breaks silence on retirement U-turn if Zimbabwe enters WTC",
-    "description": "Zimbabwe will co-host the 2027 ODI World Cup with South Africa and Namibia. For the 40-year-old all-rounder, the tournament will offer an opportunity to play a World Cup on home soil towards the end of his career.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/would-i-be-tempted-sikandar-raza-breaks-silence-on-retirement-u-turn-if-zimbabwe-enters-wtc/articleshow/134965113.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134965343,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-15T11:31:20Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Celebitchy.com",
-    "title": "Prince William yelled & pumped his fists at last night’s Aston Villa game",
-    "description": "Embed from Getty Images Prince William was out last night in Birmingham, but not for work. William has had two “work events” this week – his disastrous stunt on the Mall, where he played cricket in front of empty barricades, and a Black History Month event du…",
-    "url": "https://www.celebitchy.com/1002381/prince_william_yelled_pumped_his_fists_at_last_nights_aston_villa_game/",
-    "image": "",
-    "publishedAt": "2026-10-15T11:21:51Z",
-    "author": "Kaiser"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Inside 'pathetic' new strategy to make William and Kate less 'elitist': Less polo, no more champagne at Ascot... and why I fear Harry could take advantage: Royal sources reveal plans to RICHARD EDEN",
-    "description": "Queen Elizabeth was devoted to horse racing - but it bored her husband, Prince Philip. Although he would accompany her to race meetings, he could often be found watching the cricket on TV instead.",
-    "url": "https://www.dailymail.com/news/royals/article-16211175/Inside-pathetic-new-strategy-make-William-Kate-elitist-polo-no-champagne-Ascot-fear-Harry-advantage-Royal-sources-reveal-plans-RICHARD-EDEN.html",
-    "image": "https://i.dailymail.com/1s/2026/10/15/11/111875607-0-image-a-9_1792059498358.jpg",
-    "publishedAt": "2026-10-15T11:09:55Z",
-    "author": "Richard Eden"
   }
 ]
 ;
