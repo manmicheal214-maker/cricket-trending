@@ -1,5 +1,113 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘I was terrified’: Yuzvendra Chahal opens up on being hung from hotel balcony by ‘heavily drunk’ cricketer",
+    "description": "Yuzvendra Chahal shared a chilling memory from his IPL journey that involved an Australian cricketer back in 2013. During a Royal Challengers Bengaluru party, he found himself dangerously suspended over a hotel balcony by an inebriated player. Terrified and w…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-terrified-yuzvendra-chahal-opens-up-on-being-hung-from-hotel-balcony-by-heavily-drunk-cricketer/articleshow/134988381.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134988472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T08:46:21Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Why your dosa turns soggy instead of crispy: The common cooking mistake to avoid for perfectly golden dosas",
+    "description": "You mix the batter, heat the tawa, pour a ladle and wait for a thin, golden, crackly dosa. Instead, you get something pale, floppy and slightly damp in the middle. Many home cooks blame the batter, but the most common culprit is simpler: pouring batter onto a…",
+    "url": "https://timesofindia.indiatimes.com/life-style/food-news/why-your-dosa-turns-soggy-instead-of-crispy-the-common-cooking-mistake-to-avoid-for-perfectly-golden-dosas/photostory/134983213.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134983454,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T08:30:00Z",
+    "author": "TIMESOFINDIA.COM"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Jemimah Rodrigues named Switzerland Tourism’s Friendship Ambassador for India",
+    "description": "Jemimah Rodrigues has been named the Friendship Ambassador by Switzerland Tourism to reach Indian travellers. As a prominent cricket player, she expresses excitement about her new role and connecting with people. Switzerland Tourism's CEO noted that Rodrigues…",
+    "url": "https://economictimes.indiatimes.com/news/india/jemimah-rodrigues-named-switzerland-tourisms-friendship-ambassador-for-india/articleshow/134987862.cms",
+    "image": "https://img.etimg.com/thumb/msid-134987894,width-1200,height-900,imgsize-175212,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-16T08:28:00Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Opiniojuris.org",
+    "title": "ICC Sanctions and the EU Blocking Statute: Lessons from a Past EU Failure to Hold the United States Accountable",
+    "description": "[Zachary Marcone is a U.S. lawyer and degree candidate at Stanford Law School.] On 9 October 2026, the United States sanctioned the International Criminal Court (ICC) as an institution. Although the United States previously sanctioned individual ICC prosecuto…",
+    "url": "http://opiniojuris.org/2026/10/16/icc-sanctions-and-the-eu-blocking-statute-lessons-from-a-past-eu-failure-to-hold-the-united-states-accountable/",
+    "image": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/anking_international_criminal_court_in_watercolour_af312c7e-aeab-4516-8203-001a0f86f4ca.png?fit=1024%2C1024",
+    "publishedAt": "2026-10-16T08:00:56Z",
+    "author": "Zachary Marcone"
+  },
+  {
+    "source": "CBC News",
+    "title": "Trudeau government advised it would be expected to carry out ICC arrest warrants, including for Netanyahu",
+    "description": "An internal memo told Justin Trudeau's government that it was expected to pursue the arrests of Israeli Prime Minister Benjamin Netanyahu, his then defence minister and Hamas leaders if the International Criminal Court were to issue the warrants being prepare…",
+    "url": "https://www.cbc.ca/news/politics/icc-arrest-warrants-canada-9.7380532",
+    "image": "https://i.cbc.ca/ais/dc28033b-6bb2-4b67-b7b2-242a22c06eee,1792024230487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3BResize%3D620",
+    "publishedAt": "2026-10-16T08:00:00Z",
+    "author": "Raffy Boudjikanian"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘We want batters till No. 8’: Chahal reveals Rohit Sharma’s message before World Cup snub",
+    "description": "Yuzvendra Chahal's exclusion from India's ODI World Cup squad in 2023 stemmed from strategic decisions made by the team management, who opted to emphasize batting strength and additional fast bowlers. Chahal voiced his disappointment over missing the opportun…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-want-batters-till-no-8-chahal-reveals-rohit-sharmas-message-before-world-cup-snub/articleshow/134985252.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134985359,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T07:19:49Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "West Indies cricket gets ‘nothing’ from India series worth $20-30 million, says CWI CEO",
+    "description": "Cricket West Indies CEO Chris Dehring criticized the revenue model that allows host countries to retain series earnings. He explained that the 1997 decision negatively affected West Indies cricket finances and generated ongoing revenue issues. The West Indies…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/west-indies-cricket-gets-nothing-from-india-series-worth-20-30-million-says-cwi-ceo/articleshow/134985507.cms",
+    "image": "https://img.etimg.com/thumb/msid-134985525,width-1200,height-900,imgsize-121622,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-16T06:57:22Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Having batting till No.8 is not bravery': Former India batter slams India’s team selection",
+    "description": "Following India's defeat against West Indies, Mohammad Kaif expressed his apprehensions concerning the team's selection strategy. He emphasized that the bowling attack was inadequate throughout the series, leading to a failure in containing the West Indies' s…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/having-batting-till-no-8-is-not-bravery-former-india-batter-slams-indias-team-selection/articleshow/134984606.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134984648,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T06:16:43Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PM Modi praises teenage Asiad medallists, Vaibhav Sooryavanshi's reaction says it all",
+    "description": "Vaibhav Sooryavanshi smiled as Prime Minister Narendra Modi praised young athletes aged 15 to 17 for winning medals at the Asian Games 2026. Sooryavanshi, part of India’s gold-winning men’s cricket team, attended the felicitation ceremony in New Delhi. Modi s…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pm-modi-praises-teenage-asiad-medallists-vaibhav-sooryavanshis-reaction-says-it-all/articleshow/134983165.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134983792,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T05:45:25Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "Run game, defense power Broncos in OT win against Seahawks - ESPN",
+    "description": "Run game, defense power Broncos in OT win against SeahawksESPN Renck: Broncos’ Sean Payton makes Seahawks seasick, Bo Nix competent long enough for Wil Lutz to save dayThe Denver Post Broncos batter Sam Darnold, outlast Seahawks in defensive slugfest: TNF win…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186334952",
+    "image": null,
+    "publishedAt": "2026-10-16T05:12:36Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Too ambitious’: Ex-India cricketer flags concerns over Gambhir’s India game plan",
+    "description": "Wasim Jaffer raised eyebrows over Rinku Singh not making the cut for India's T20I lineup, insisting that Rinku's presence might have shifted the tide in the fourth match against the West Indies. He assessed Rinku's batting output at crucial positions, compari…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/too-ambitious-ex-india-cricketer-flags-concerns-over-gautam-gambhirs-india-game-plan/articleshow/134983022.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134983062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-16T05:06:35Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "“Crazy Accusation”: 49ers TE George Kittle Responds to Brock Purdy Trusting Him the ‘Least to Babysit’",
+    "description": "The relationship between the San Francisco 49ers franchise quarterback Brock Purdy and the seven-time Pro Bowler tight end George Kittle has been a unique one since the QB joined the 49ers in 2022. Together, they have created countless memories on and off the…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6aec8ba9-9a9b-4b35-a26d-6ea95d105077",
+    "image": null,
+    "publishedAt": "2026-10-16T04:33:36Z",
+    "author": null
+  },
+  {
     "source": "USA Today",
     "title": "Broncos batter Sam Darnold, outlast Seahawks in defensive slugfest: TNF winners, losers",
     "description": "Defense was the name of the game Thursday night as the Broncos outlast the Seahawks in Denver. The winners and losers of TNF.",
@@ -160,24 +268,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-134972009,width-1200,height-900,imgsize-84918,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-10-15T16:27:29Z",
     "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kuwait's ILT20 connection bears fruit on the road to the T20 World Cup",
-    "description": "Several members of Kuwait's qualifying team have featured in the ILT20, where they have trained and played alongside international stars. They believe the experience has helped them improve their game and prepare for the international stage.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kuwaits-ilt20-connection-bears-fruit-on-the-road-to-the-t20-world-cup/articleshow/134971556.cms",
-    "image": "https://static.toiimg.com/thumb/msid-134971736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-15T16:16:57Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India Vs WI T20: Traffic curbs, parking restrictions around Chinnaswamy stadium in Bengaluru",
-    "description": "India vs West Indies T20 in Bengaluru on Oct 17: traffic curbs, parking bans and designated parking (11am–9pm) near Chinnaswamy Stadium; entry/exit gate details.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/india-vs-wi-t20-traffic-curbs-parking-restrictions-around-chinnaswamy-stadium-in-bengaluru/articleshow/134971619.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-15T16:06:46Z",
-    "author": "Times News Network"
   }
 ]
 ;
