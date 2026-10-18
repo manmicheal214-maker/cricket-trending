@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "Yahoo Entertainment",
+    "title": "England favorite to win tri-series in Pakistan also featuring Sri Lanka",
+    "description": "RAWALPINDI, Pakistan (AP) — England starts as favorite to win an ODI tri-series against Pakistan and Sri Lanka despite missing Jos Buttler and Jofra Archer.All three nations have directly qualified for next year’s World Cup to be co-hosted by South Africa, Zi…",
+    "url": "https://sports.yahoo.com/articles/england-favorite-win-tri-series-140507650.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/ec05708d8c18d88bd13655ea3e487660825b045b5921c661807bbb85653ad3da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6666f7d725dac1cbae9c8cb477417730.jpg",
+    "publishedAt": "2026-10-17T14:05:07Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IPL 2027 mini-auction: Date, venue and details of auction for 20th Indian Premier League season",
+    "description": "IPL 2027 mini-auction details: Check the expected December dates in Goa, the retention deadline, and updates for the landmark 20th season of the IPL.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-mini-auction-date-venue-details/775292d08a8958c289653050",
+    "image": "https://s.yimg.com/lo/mysterio/api/b1ce245cbcffca9795bc7e6815859cd08e169d4d958dafba13104c2c070c7eaf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f99dc5248be8dc73face43bce057637",
+    "publishedAt": "2026-10-17T14:03:39Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine",
+    "description": "Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.",
+    "url": "https://www.abc.net.au/news/2026-10-18/ukraine-grapples-with-starlink-restrictions/107279672",
+    "image": "https://live-production.wcms.abc-cdn.net.au/d82f3844343222adc0f0d61cd957d6d5?impolicy=wcms_watermark_news&cropH=1999&cropW=3554&xPos=0&yPos=5&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-17T13:48:35Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'There is pressure on us': Pakistan's ICC trophy drought adds to players' burden",
+    "description": "Experienced top-order batter Fakhar Zaman believes Pakistan can end their wait for an ICC trophy at next year's 50-overs World Cup, which will be hosted",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-pressure-on-us-pakistans-icc-trophy-drought-adds-to-players-burden/articleshow/135014275.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135014458,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T13:19:23Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Can't believe he is not their first choice': Former Australian captain slams management for benching Kuldeep Yadav",
+    "description": "The recent decision by India to omit Kuldeep Yadav from the T20I squad has ignited discussions among cricket analysts. Experts like Michael Clarke emphasize that Kuldeep's knack for claiming wickets is invaluable in T20 matches. Meanwhile, Naman Dhir has adeq…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/cant-believe-he-is-not-their-first-choice-former-australian-captain-slams-management-for-benching-kuldeep-yadav/articleshow/135014419.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135014489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T12:46:27Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IND vs WI 5th T20I live streaming: Where to watch today's cricket match?",
+    "description": "India vs West Indies 5th T20I begins at 7 pm IST on Saturday, with the toss at 6:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
+    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-5th-t20i-live-streaming-where-to-watch-today-s-cricket-match-126101600507_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/16/thumb/featurecrop/1200X628/1792137080-0052.jpg",
+    "publishedAt": "2026-10-17T12:34:24Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies 5th T20I: Pitch, weather forecast, head-to-head record and full squads",
+    "description": "Ind vs WI T20 Bangalore Weather: India vs West Indies 5th T20I could face weather-related interruptions in Bengaluru, where a 70% chance of night-time rain raises the prospect of a shortened game. The Chinnaswamy surface is expected to favour batters, with fi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-west-indies-t20-pitch-report-ind-vs-wi-m-chinnaswamy-stadium-bangalore-weather-update/articleshow/135013961.cms",
+    "image": "https://img.etimg.com/thumb/msid-135014104,width-1200,height-900,imgsize-104594,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T12:16:22Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Truthout",
+    "title": "As Trump Sabotages the ICC With Sanctions, There Are Many Ways to Fight Back",
+    "description": "Trump officials now face a temporary restraining order for violating the First Amendment by sanctioning US groups.",
+    "url": "https://truthout.org/articles/as-trump-sabotages-the-icc-with-sanctions-there-are-many-ways-to-fight-back/",
+    "image": "https://truthout.org/app/uploads/2026/10/GettyImages-2298779764-scaled.jpg",
+    "publishedAt": "2026-10-17T12:07:43Z",
+    "author": "Marjorie Cohn"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Prediction: Pakistan vs. Sri Lanka 1st ODI lineups and pitch report for Rawalpindi — Who do you think will win?",
+    "description": "Pakistan vs. Sri Lanka 1st ODI prediction: probable XIs and Rawalpindi pitch report for the Tri-Series opener.",
+    "url": "https://www.cricketnews.com/en/cricket/play/pakistan-vs-sri-lanka-1st-odi-prediction-pitch-report/19ee167611cb36c3d4c2d4c3",
+    "image": "https://s.yimg.com/lo/mysterio/api/89f000a9c5091fac5b6244c5a077ba3f6c6440382aa1b2e166dac48e178986b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F261465eb092d761b73a032d65f68dc7b",
+    "publishedAt": "2026-10-17T11:57:08Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs West Indies T20 Playing 11: Probable XIs, TV channel and online streaming details",
+    "description": "Ind vs WI Live Streaming Telecast: India and West Indies will battle for the series in the fifth T20I in Bengaluru, with Bhuvneshwar Kumar potentially returning to India’s line-up. Find out when the match starts, where to watch the live telecast and streaming…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-west-indies-t20-live-streaming-telecast-ind-vs-wi-5th-t20-playing-11-shreyas-iyer-shai-hope-star-sports-jiohotstar/articleshow/135013466.cms",
+    "image": "https://img.etimg.com/thumb/msid-135013571,width-1200,height-900,imgsize-135948,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T11:50:02Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "What does a Tri-series mean in cricket? Format, rules, points system and how it works",
+    "description": "In the world of International cricket, Tri-Series remain one of the most interesting concepts and gets everything to know about the games.",
+    "url": "https://www.cricketnews.com/en/cricket/news/what-tri-series-mean-cricket-format-rules-points-system-how-works/7f68347a7608e23e7755cb5c",
+    "image": "https://s.yimg.com/lo/mysterio/api/633f9e4557455c2d7b630e1e1f0b54f9356279a468d8a47b693436eec1d4b545/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8932050f5ee7d52a74d1af217ba8981f",
+    "publishedAt": "2026-10-17T11:19:48Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "LIVE: India vs West Indies – fifth T20 International",
     "description": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
@@ -169,60 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135006351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-17T02:52:59Z",
     "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kumar Kushagra, Yash Thakur earn maiden ODI call-ups for New Zealand tour",
-    "description": "Prasidh Krishna has earned a spot in the ODIs and Test series in New Zealand, subject to a fitness test. Despite previous injuries, Rishabh Pant is included in the Test team. Shreyas Iyer will take charge as captain for the last two ODIs with Ishan Kishan as …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kumar-kushagra-yash-thakur-earn-maiden-odi-call-ups-for-new-zealand-tour/articleshow/135006338.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135006354,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T02:51:02Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘We’ve sent a strong message’: Daren Sammy on West Indies’ rise ahead of India decider",
-    "description": "Cricket West Indies is grappling with financial hurdles, including a significant 25% reduction in players' retainer fees. Key tournaments have faced suspension due to budget limitations, affecting player participation. However, the team's determination shines…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/weve-sent-a-strong-message-daren-sammy-on-west-indies-rise-ahead-of-india-decider/articleshow/135006291.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135006310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T02:43:34Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Cardinals' 8X Pro Bowler Could Be Next to Go After Marvin Harrison Jr. Trade",
-    "description": "The Arizona Cardinals made a major move earlier this week, as they traded star wide receiver Marvin Harrison Jr to the Houston Texans.\nYet, the struggling Cardinals might not be done yet, as one of their top stars is starting to create more chatter in the rum…",
-    "url": "https://biztoc.com/x/3c69e4fc8ef993ab",
-    "image": "https://biztoc.com/cdn/3c69e4fc8ef993ab_s.webp",
-    "publishedAt": "2026-10-17T01:20:25Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "Dealnews.com",
-    "title": "Remo Pinstripe Clear 4-Piece Tom Pack for $59 + free shipping",
-    "description": "This Remo Pinstripe 4-piece tom pack is $58.95, down from $74.95 at Sweetwater. You'd pay $83 at Amazon. It includes batter heads in all four common tom sizes, 10\", 12\", 14\", and 16\", so you don't have to buy each separately. The two-ply Mylar design is built…",
-    "url": "https://www.dealnews.com/Remo-Pinstripe-Clear-4-Piece-Tom-Pack-for-59-free-shipping/22289342.html",
-    "image": "https://d.dlnws.com/64599/1792189446-0b1c0f561bb5sveiptlvp6x4b0wwqk5q9kgahqox.jpg?h=538&w=1024",
-    "publishedAt": "2026-10-16T22:24:13Z",
-    "author": "https://www.dealnews.com/authors/Andy-Frank/184.html"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Legal Titans win maiden high court women cricket tourney",
-    "description": "Legal Titans beat Legal Royals 46-41 to win maiden women’s cricket at Punjab and Haryana High Court; Kuljit Kaur Sandhu named Woman of the Match.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/legal-titans-win-maiden-high-court-women-cricket-tourney/articleshow/135003047.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135003045,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-16T19:27:52Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Dhillon slams AAP over 'scam’ involving Punjab Cricket Association",
-    "description": "Punjab BJP chief Kewal Singh Dhillon alleges Rs 77.99 crore Punjab Cricket Association land scam, cites ED letter seeking FIR; questions CM Mann’s silence.",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/dhillon-slams-aap-over-scam-involving-punjab-cricket-association/articleshow/135002857.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133074258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-16T19:09:03Z",
-    "author": "Times News Network"
   }
 ]
 ;
