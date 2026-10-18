@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Dealnews.com",
+    "title": "Remo Pinstripe Clear 4-Piece Tom Pack for $59 + free shipping",
+    "description": "This Remo Pinstripe 4-piece tom pack is $58.95, down from $74.95 at Sweetwater. You'd pay $83 at Amazon. It includes batter heads in all four common tom sizes, 10\", 12\", 14\", and 16\", so you don't have to buy each separately. The two-ply Mylar design is built…",
+    "url": "https://www.dealnews.com/Remo-Pinstripe-Clear-4-Piece-Tom-Pack-for-59-free-shipping/22289342.html",
+    "image": "https://d.dlnws.com/64599/1792189446-0b1c0f561bb5sveiptlvp6x4b0wwqk5q9kgahqox.jpg?h=538&w=1024",
+    "publishedAt": "2026-10-16T22:24:13Z",
+    "author": "https://www.dealnews.com/authors/Andy-Frank/184.html"
+  },
+  {
     "source": "The Times of India",
     "title": "Legal Titans win maiden high court women cricket tourney",
     "description": "Legal Titans beat Legal Royals 46-41 to win maiden women’s cricket at Punjab and Haryana High Court; Kuljit Kaur Sandhu named Woman of the Match.",
