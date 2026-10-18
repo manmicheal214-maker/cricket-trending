@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "UP clinch thrilling win over Andhra Pradesh",
+    "description": "Uttar Pradesh beat Andhra Pradesh by 6 runs in Women’s Minor T20 in Mumbai; UP 141/7 led by Riya Bhati 62, AP 135/7.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/up-clinch-thrilling-win-over-andhra-pradesh/articleshow/135018618.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-17T17:51:22Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "UPCA signs 10-year agreement to use CSJMU cricket stadium in Kanpur",
+    "description": "UPCA and CSJM University sign 10-year LOI to maintain and use Kanpur’s university cricket stadium as Green Park renovates; fee Rs 75,000/month + GST.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/upca-signs-10-year-agreement-to-use-csjmu-cricket-stadium-in-kanpur/articleshow/135018615.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-17T17:51:04Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indian top order eyes improved show against Zimbabwe in 2nd WT20I",
+    "description": "India's women's cricket team will seek a more stable batting performance against Zimbabwe in their upcoming T20 match. After a narrow win in the first match, concerns over early batting collapses remain. Captain Smriti Mandhana and her team want to improve th…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indian-top-order-eyes-improved-show-against-zimbabwe-in-2nd-wt20i/articleshow/135017709.cms",
+    "image": "https://img.etimg.com/thumb/msid-135018592,width-1200,height-900,imgsize-76616,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T17:50:27Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+    "description": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
+    "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261017__D3L89AJ__v1__MidRes__CricketIndWisT20-1792253604.jpg?resize=1200%2C630",
+    "publishedAt": "2026-10-17T17:42:01Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "India, West Indies draw T20 series after rain washes out decider",
+    "description": "India and West Indies concluded their five-match T20 series with a 2-2 draw. The final game was interrupted by rain, preventing its completion. India had scored 118-5 in 7.4 overs before the match was abandoned. Veteran seamer Bhuvneshwar Kumar did not have a…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-west-indies-draw-t20-series-after-rain-washes-out-decider/articleshow/135017941.cms",
+    "image": "https://img.etimg.com/thumb/msid-135018126,width-1200,height-900,imgsize-142166,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T17:28:53Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rain washes out Bengaluru series decider after India script history in fifth T20I against West Indies",
+    "description": "In a remarkable display, India achieved the quickest team fifty in men's T20I cricket, accomplishing this feat in a mere 2.5 overs against the West Indies. Unfortunately, relentless rain led to the abandonment of the match. The series concluded with both team…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rain-washes-out-bengaluru-series-decider-after-india-script-history-with-fastest-t20i-fifty-against-west-indies/articleshow/135017246.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135017280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T17:02:40Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027 auction set for December 16 in Goa; BCCI informs all 10 franchises, team briefing on December 15",
+    "description": "The IPL 2027 auction will be held in Goa on December 16, according to a communication from the BCCI to the 10 franchises. The auction briefing is scheduled for December 15. The event will mark the auction's return to India after three consecutive editions wer…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-set-for-december-16-in-goa-bcci-informs-all-10-franchises-team-briefing-on-december-15/articleshow/135016470.cms",
+    "image": "https://img.etimg.com/thumb/msid-135016537,width-1200,height-900,imgsize-198976,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T15:38:52Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "How to watch AFG vs BAN vs ZIM ODI Tri-series 2026 live: Start time, TV channels and streaming details",
+    "description": "How to watch the AFG vs BAN vs ZIM ODI Tri-Series 2026 live: Get complete match start times, TV channels, streaming details, and full schedule.",
+    "url": "https://www.cricketnews.com/en/cricket/news/afg-vs-ban-vs-zim-odi-tri-series-2026-start-time-tv-channels-streaming/833c726168cccef199bd1918",
+    "image": "https://s.yimg.com/lo/mysterio/api/1ba743394223e4acf09c7bc4697f27ba56eac6761d51ba717cd01591995fbcec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0b82b7a9cb75cf22a8e07f56e9ca6fe2",
+    "publishedAt": "2026-10-17T15:03:15Z",
+    "author": "Soham Mukherjee"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "England favorite to win tri-series in Pakistan also featuring Sri Lanka",
     "description": "RAWALPINDI, Pakistan (AP) — England starts as favorite to win an ODI tri-series against Pakistan and Sri Lanka despite missing Jos Buttler and Jofra Archer.All three nations have directly qualified for next year’s World Cup to be co-hosted by South Africa, Zi…",
@@ -196,78 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135008304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-17T05:53:54Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL 2027: Delhi Capitals appoints ex-Sri Lanka pacer Chaminda Vaas as fast-bowling coach",
-    "description": "Delhi Capitals has appointed Chaminda Vaas as their new fast-bowling coach for the upcoming IPL season. This decision comes as the franchise overhauls its support staff aiming for improved performance. Vaas, known for his successful international career, will…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-delhi-capitals-appoints-ex-sri-lanka-pacer-chaminda-vaas-as-fast-bowling-coach/articleshow/135007900.cms",
-    "image": "https://img.etimg.com/thumb/msid-135008046,width-1200,height-900,imgsize-138830,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T05:26:59Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Krunal Pandya to lead India at Hong Kong Sixes 2026 as Bhuvneshwar Kumar gets national call-up",
-    "description": "Krunal Pandya takes the lead as captain for the Indian team in the upcoming Hong Kong Sixes 2026 tournament. With Bhuvneshwar Kumar being summoned for the New Zealand tour, Kulwant Khejroliya steps in to fill his spot. This squad showcases a wealth of IPL exp…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/krunal-pandya-to-lead-india-at-hong-kong-sixes-2026-as-bhuvneshwar-kumar-gets-national-call-up/articleshow/135007782.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135007889,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T05:14:03Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Delhi Capitals' big IPL 2027 shake-up continues, Sri Lanka legend joins Sourav Ganguly's team",
-    "description": "In an exciting development for cricket fans, Chaminda Vaas will take on the role of fast bowling coach for Delhi Capitals in the 2027 IPL season. His extensive coaching background, including tenures with Sri Lanka and Ireland, adds depth to a coaching team th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/delhi-capitals-big-ipl-2027-shake-up-continues-sri-lanka-legend-joins-sourav-gangulys-team/articleshow/135007365.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135007385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T04:38:16Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ravindra Jadeja, Yashasvi Jaiswal dropped! India’s big ODI calls ahead of 2027 World Cup",
-    "description": "Ahead of the ODI series against New Zealand, India's cricket selectors have enacted significant squad changes. Notable absentees from the first trio of matches include Ravindra Jadeja, Yashasvi Jaiswal, and Dhruv Jurel. Axar Patel is brought in to replace Jad…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-yashasvi-jaiswal-dropped-indias-big-odi-calls-ahead-of-2027-world-cup/articleshow/135007155.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135007215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T04:23:47Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Absolute joke': Jonny Bairstow blasts ECB's decision to snub youngster George Hill for England Lions",
-    "description": "Former England wicketkeeper Jonny Bairstow slammed England and the ECB for omitting Yorkshire all-rounder George Hill from the England Lions’ T20 and 50-over squads for November’s West Indies A series. Highlighting Hill’s batting, bowling and fielding abiliti…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/absolute-joke-jonny-bairstow-blasts-ecbs-decision-to-snub-youngster-george-hill-for-england-lions/articleshow/135007146.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135007232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T04:23:20Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Pakistan ODI Tri-Series 2026: Teams, schedule, results, squads and how to watch from India",
-    "description": "Pakistan ODI Tri-Series 2026: Check the complete schedule, match dates, timings in IST, squads, results, and how to watch live on from India.",
-    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-odi-tri-series-2026-teams-schedule-results-squads-watch-india/325e484d9e26f175b06fa3c6",
-    "image": "https://s.yimg.com/lo/mysterio/api/eba82401cc23741ede2d4f3847ed6932bee63a910983e42010066989b71450a4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fcf8b982f0c33154e6596984b4d5c7836",
-    "publishedAt": "2026-10-17T03:44:33Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rachin Ravindra reveals how Virat Kohli and Rohit Sharma have shaped his batting",
-    "description": "Rachin Ravindra has voiced his deep admiration for Indian cricket icons Virat Kohli and Rohit Sharma, crediting them for shaping his playing style and mentality. His standout performances in the 2023 ODI World Cup have spotlighted his talents. Following New Z…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rachin-ravindra-reveals-how-virat-kohli-and-rohit-sharma-have-shaped-his-batting/articleshow/135006371.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135006377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T02:55:30Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Very unfair': R Ashwin vents out frustration after India leave Yashasvi Jaiswal out of New Zealand ODIs",
-    "description": "Ravichandran Ashwin criticised the BCCI for excluding Yashasvi Jaiswal from India’s ODI squad against New Zealand, calling the decision \"unfair and unfortunate\". He believes Jaiswal deserved an opportunity in the final two matches while Shubman Gill rests. As…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/very-unfair-r-ashwin-vents-out-frustration-after-india-leave-yashasvi-jaiswal-out-of-new-zealand-odis/articleshow/135006222.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135006351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T02:52:59Z",
-    "author": "Jyotirmoy Halder"
   }
 ]
 ;
