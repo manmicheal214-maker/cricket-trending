@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "IPL 2027: Delhi Capitals appoints ex-Sri Lanka pacer Chaminda Vaas as fast-bowling coach",
+    "description": "Delhi Capitals has appointed Chaminda Vaas as their new fast-bowling coach for the upcoming IPL season. This decision comes as the franchise overhauls its support staff aiming for improved performance. Vaas, known for his successful international career, will…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-delhi-capitals-appoints-ex-sri-lanka-pacer-chaminda-vaas-as-fast-bowling-coach/articleshow/135007900.cms",
+    "image": "https://img.etimg.com/thumb/msid-135008046,width-1200,height-900,imgsize-138830,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-17T05:26:59Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Krunal Pandya to lead India at Hong Kong Sixes 2026 as Bhuvneshwar Kumar gets national call-up",
+    "description": "Krunal Pandya takes the lead as captain for the Indian team in the upcoming Hong Kong Sixes 2026 tournament. With Bhuvneshwar Kumar being summoned for the New Zealand tour, Kulwant Khejroliya steps in to fill his spot. This squad showcases a wealth of IPL exp…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/krunal-pandya-to-lead-india-at-hong-kong-sixes-2026-as-bhuvneshwar-kumar-gets-national-call-up/articleshow/135007782.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135007889,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T05:14:03Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Delhi Capitals' big IPL 2027 shake-up continues, Sri Lanka legend joins Sourav Ganguly's team",
+    "description": "In an exciting development for cricket fans, Chaminda Vaas will take on the role of fast bowling coach for Delhi Capitals in the 2027 IPL season. His extensive coaching background, including tenures with Sri Lanka and Ireland, adds depth to a coaching team th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/delhi-capitals-big-ipl-2027-shake-up-continues-sri-lanka-legend-joins-sourav-gangulys-team/articleshow/135007365.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135007385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T04:38:16Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ravindra Jadeja, Yashasvi Jaiswal dropped! India’s big ODI calls ahead of 2027 World Cup",
+    "description": "Ahead of the ODI series against New Zealand, India's cricket selectors have enacted significant squad changes. Notable absentees from the first trio of matches include Ravindra Jadeja, Yashasvi Jaiswal, and Dhruv Jurel. Axar Patel is brought in to replace Jad…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-yashasvi-jaiswal-dropped-indias-big-odi-calls-ahead-of-2027-world-cup/articleshow/135007155.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135007215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T04:23:47Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Absolute joke': Jonny Bairstow blasts ECB's decision to snub youngster George Hill for England Lions",
+    "description": "Former England wicketkeeper Jonny Bairstow slammed England and the ECB for omitting Yorkshire all-rounder George Hill from the England Lions’ T20 and 50-over squads for November’s West Indies A series. Highlighting Hill’s batting, bowling and fielding abiliti…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/absolute-joke-jonny-bairstow-blasts-ecbs-decision-to-snub-youngster-george-hill-for-england-lions/articleshow/135007146.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135007232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T04:23:20Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Pakistan ODI Tri-Series 2026: Teams, schedule, results, squads and how to watch from India",
+    "description": "Pakistan ODI Tri-Series 2026: Check the complete schedule, match dates, timings in IST, squads, results, and how to watch live on from India.",
+    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-odi-tri-series-2026-teams-schedule-results-squads-watch-india/325e484d9e26f175b06fa3c6",
+    "image": "https://s.yimg.com/lo/mysterio/api/eba82401cc23741ede2d4f3847ed6932bee63a910983e42010066989b71450a4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fcf8b982f0c33154e6596984b4d5c7836",
+    "publishedAt": "2026-10-17T03:44:33Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rachin Ravindra reveals how Virat Kohli and Rohit Sharma have shaped his batting",
+    "description": "Rachin Ravindra has voiced his deep admiration for Indian cricket icons Virat Kohli and Rohit Sharma, crediting them for shaping his playing style and mentality. His standout performances in the 2023 ODI World Cup have spotlighted his talents. Following New Z…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rachin-ravindra-reveals-how-virat-kohli-and-rohit-sharma-have-shaped-his-batting/articleshow/135006371.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135006377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T02:55:30Z",
+    "author": "Diptayan Hazra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Very unfair': R Ashwin vents out frustration after India leave Yashasvi Jaiswal out of New Zealand ODIs",
+    "description": "Ravichandran Ashwin criticised the BCCI for excluding Yashasvi Jaiswal from India’s ODI squad against New Zealand, calling the decision \"unfair and unfortunate\". He believes Jaiswal deserved an opportunity in the final two matches while Shubman Gill rests. As…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/very-unfair-r-ashwin-vents-out-frustration-after-india-leave-yashasvi-jaiswal-out-of-new-zealand-odis/articleshow/135006222.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135006351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T02:52:59Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kumar Kushagra, Yash Thakur earn maiden ODI call-ups for New Zealand tour",
+    "description": "Prasidh Krishna has earned a spot in the ODIs and Test series in New Zealand, subject to a fitness test. Despite previous injuries, Rishabh Pant is included in the Test team. Shreyas Iyer will take charge as captain for the last two ODIs with Ishan Kishan as …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kumar-kushagra-yash-thakur-earn-maiden-odi-call-ups-for-new-zealand-tour/articleshow/135006338.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135006354,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T02:51:02Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘We’ve sent a strong message’: Daren Sammy on West Indies’ rise ahead of India decider",
+    "description": "Cricket West Indies is grappling with financial hurdles, including a significant 25% reduction in players' retainer fees. Key tournaments have faced suspension due to budget limitations, affecting player participation. However, the team's determination shines…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/weve-sent-a-strong-message-daren-sammy-on-west-indies-rise-ahead-of-india-decider/articleshow/135006291.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135006310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-17T02:43:34Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Cardinals' 8X Pro Bowler Could Be Next to Go After Marvin Harrison Jr. Trade",
+    "description": "The Arizona Cardinals made a major move earlier this week, as they traded star wide receiver Marvin Harrison Jr to the Houston Texans.\nYet, the struggling Cardinals might not be done yet, as one of their top stars is starting to create more chatter in the rum…",
+    "url": "https://biztoc.com/x/3c69e4fc8ef993ab",
+    "image": "https://biztoc.com/cdn/3c69e4fc8ef993ab_s.webp",
+    "publishedAt": "2026-10-17T01:20:25Z",
+    "author": "newsweek.com"
+  },
+  {
     "source": "Dealnews.com",
     "title": "Remo Pinstripe Clear 4-Piece Tom Pack for $59 + free shipping",
     "description": "This Remo Pinstripe 4-piece tom pack is $58.95, down from $74.95 at Sweetwater. You'd pay $83 at Amazon. It includes batter heads in all four common tom sizes, 10\", 12\", 14\", and 16\", so you don't have to buy each separately. The two-ply Mylar design is built…",
