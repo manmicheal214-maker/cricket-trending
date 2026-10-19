@@ -1,6 +1,69 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Reality shows, cricket turn advertisers' safe bets",
+    "description": "Established non-fiction shows such as Bigg Boss and Kaun Banega Crorepati have continued to attract advertisers despite the blackout. Bigg Boss has roped in 95 sponsors across its language editions, while KBC has secured 25 sponsors. Cricket is also drawing a…",
+    "url": "https://economictimes.indiatimes.com/industry/services/advertising/reality-shows-cricket-turn-advertisers-safe-bets/articleshow/135034874.cms",
+    "image": "https://img.etimg.com/thumb/msid-135034905,width-1200,height-900,imgsize-1691737,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-18T19:43:04Z",
+    "author": "Javed Farooqui"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Baroda bowler Bhargav Bhatt plays his 100th first-class match",
+    "description": "Baroda spinner Bhargav Bhatt plays 100th first-class match vs Bihar in Vadodara; BCA felicitates him as he reaches 382 wickets and 1,248 runs.",
+    "url": "https://timesofindia.indiatimes.com/city/vadodara/baroda-bowler-bhargav-bhatt-plays-his-100th-first-class-match/articleshow/135034594.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135034593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T19:02:45Z",
+    "author": "Tushar Tere"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Ravens Get Bad Injury News on $68 Million Pro Bowler for Browns Game",
+    "description": "The Baltimore Ravens got bad injury news on $68 million Pro Bowler before Browns game. The post Ravens Get Bad Injury News on $68 Million Pro Bowler for Browns Game appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/baltimore-ravens/bad-news-pro-bowler-cam-jurgens/",
+    "image": "https://s.yimg.com/lo/mysterio/api/6bfc64e95c06824ab08f8cffe8c4598adae97e897345af60ae2a24471ef4012f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F070ba5d3005869a1bb636b28f3b9c986.jpg",
+    "publishedAt": "2026-10-18T18:45:37Z",
+    "author": "Tony Adame"
+  },
+  {
+    "source": "Livemint",
+    "title": "SKY is the limit! Suryakumar Yadav's ultra-luxury Dubai real estate investment: Inside SRK-branded Danube elite home",
+    "description": "Indian cricketer Suryakumar Yadav has announced an investment in Shahrukhz Residences by Danube, a waterfront residential project in Dubai Maritime City.&nbsp;",
+    "url": "https://www.livemint.com/industry/infrastructure/sky-is-the-limit-suryakumar-yadavs-ultra-luxury-dubai-real-estate-investment-inside-srk-branded-danube-elite-home-11792343322520.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/MixCollage-18-Oct-2026-10-42-PM-6516_1792343561060_9nbR_1792343572427_uK26_efb40676-be90-4ffb-87ba-8734473a6a11_ClBH.jpg",
+    "publishedAt": "2026-10-18T18:05:42Z",
+    "author": "Anjali Thakur"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Pakistan wins the first match of the tri-nation ODI cricket series, defeating Sri Lanka.",
+    "description": "In the opening match of the 2026/27 Pakistan Tri-Nation ODI Cricket series, the host Pakistan team managed to record a thrilling 37-run victory over Sri Lanka yesterday (18). In this day-night match played at the Rawalpindi Cricket Stadium, the Sri Lankan tea…",
+    "url": "https://english.gossiplankanews.com/2026/10/pakistan-wins-first-match-of-tri-nation.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vTpNzc8AgOh2U1wEgCgOx_WfJJhMP0kVhfDaEPZ6hPmwM1fIzLHrQoVA_24Mx3r6jvQBu1nT1JAAPwuD6sHrcNjVrEPueuVUo2FMKyPNkbynhEVfV6SvLRNT9WAL74XuQW0SxbwhWXO9qKxACecl16W28okaPyyLoInQ=w1600",
+    "publishedAt": "2026-10-18T17:45:34Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "Minnesotasportsfan.com",
+    "title": "Former MN Vikings Pro Bowler Arrested for Domestic Assault",
+    "description": "Minnesota Vikings first-round Cordarrelle Patterson was booked into a Tennessee jail on Saturday. Here's why, along with everything we know so far.",
+    "url": "https://www.minnesotasportsfan.com/minnesota-vikings/cordarrelle-patterson-arrested-domestic-assault-tennessee/",
+    "image": "https://s.yimg.com/lo/mysterio/api/7b4eee40598a19649e15a01583379dfe85202584912b89cbbe347281ee53e2f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fminnesota_sports_fan_articles_367%2F1b9dedabff6f27c656cdee6084a7b796.jpg",
+    "publishedAt": "2026-10-18T16:30:12Z",
+    "author": "Eric Strack"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Catch of the Day!': Faheem Ashraf completes sensational relay catch in Rawalpindi to save debutant Saad Baig’s blushes",
+    "description": "Faheem Ashraf took a stunning relay catch after debutant keeper Saad Baig spilled the ball, breaking Sri Lanka's opening stand in the Pakistan ODI Tri-Series...",
+    "url": "https://www.cricketnews.com/en/cricket/news/faheem-ashraf-catch-rawalpindi-saad-baig-blushes/ba8c55edcfe83ba89a80b19b",
+    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
+    "publishedAt": "2026-10-18T15:38:50Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
     "title": "Virender Sehwag on his hosting debut with Rise and Fall 2: Acting aur politics se toh main door hi hoon",
     "description": "Virender Sehwag discusses his hosting debut with Rise and Fall 2, drawing parallels between the show’s power dynamics and cricket. The former India opener talks about preparing his son Aaryavir for praise and criticism, his reluctance to enter politics or act…",
     "url": "https://timesofindia.indiatimes.com/tv/news/hindi/virender-sehwag-on-his-hosting-debut-with-rise-and-fall-2-acting-aur-politics-se-toh-main-door-hi-hoon/articleshow/135030248.cms",
@@ -205,69 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/92b83f876f1a5598b3ea485c598372f9cad6476e30a01c05d891e56e1e951fdc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F37a0b07e044904d56201fe5114ce7e78",
     "publishedAt": "2026-10-18T06:12:37Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "TechRadar",
-    "title": "Watch England, Pakistan and Sri Lanka tri-series: Streams",
-    "description": "All the ways to watch the England, Pakistan and Sri Lanka ODI tri-series 2026 from anywhere, as three nations do battle in Lahore and Rawalpindi.",
-    "url": "https://www.techradar.com/how-to-watch/cricket/england-pakistan-sri-lanka-odi-tri-series-2026-live-streams",
-    "image": "https://cdn.mos.cms.futurecdn.net/V6z9FikqJYRozSe7ESmhm-2560-80.jpg",
-    "publishedAt": "2026-10-18T06:00:00Z",
-    "author": "James Roberts"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gavaskar says Hardik Pandya irreplaceable, India should stop looking for like-for-like replacement",
-    "description": "Sunil Gavaskar emphasized the need for India to strengthen their bowling attack in the recent T20 series. He highlighted that Hardik Pandya is irreplaceable and suggested exploring players who can take on different roles. Gavaskar also mentioned Naman Dhir's …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/gavaskar-says-hardik-pandya-irreplaceable-india-should-stop-looking-for-like-for-like-replacement/articleshow/135024591.cms",
-    "image": "https://img.etimg.com/thumb/msid-135024601,width-1200,height-900,imgsize-45840,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-18T05:58:58Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Sporting News",
-    "title": "When is IPL auction? Date, venue, rules for the Indian Premier League 2027 mini-auction",
-    "description": "Here's everything you would need to know about the 2027 IPL mini-auction, alongside the rules, venue, date, and who can bid on which players.",
-    "url": "https://www.sportingnews.com/in/cricket/news/when-ipl-auction-date-venue-rules-2027-mini-auction-indian-premier-league/ef37eddb52bf1bb9259cb361",
-    "image": "https://s.yimg.com/lo/mysterio/api/417ca184a95492db477bce109c21adb047d91727cfca53bcd0b7a92bcb238649/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F79db15671ba073f038049a2d832a5a2e",
-    "publishedAt": "2026-10-18T05:47:08Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ranji Trophy: Armed with MS Dhoni’s advice, Kartik Sharma set for captaincy debut",
-    "description": "Kartik Sharma, a promising young wicketkeeper-batter, has recently taken on the role of captain for Rajasthan. His stellar performances in domestic cricket led to a lucrative contract with Chennai Super Kings, where he has honed his batting skills and match a…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-armed-with-ms-dhonis-advice-kartik-sharma-set-for-captaincy-debut/articleshow/135024397.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135024436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T05:43:57Z",
-    "author": "Mandakini Shalya"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Massive difference between words and actions’: Ex-India cricketer’s blunt take on Ravindra Jadeja’s snub",
-    "description": "Aakash Chopra is voicing his concerns about the absence of Ravindra Jadeja from India's ODI series against New Zealand, suggesting a preference for Axar Patel that contradicts previous commitments made by management regarding Jadeja's future. Additionally, th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/massive-difference-between-words-and-actions-ex-india-cricketers-blunt-take-on-ravindra-jadejas-snub/articleshow/135024338.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135024351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T05:37:54Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Imran Khan row: PCB leaves out Michael Atherton and Nasser Hussain from PAK vs ENG vs SL ODI Tri-series commentary panel after interview controversy",
-    "description": "After their support for the better treatment of Imran, former English captains Michael Atherton and Nasser Hussain have been left out of the commentating squad for the PAK vs ENG vs SL tri-series.",
-    "url": "https://www.cricketnews.com/en/cricket/news/imran-khan-pcb-leaves-out-atherton-nasser-tri-series-commentary/d6eae0aa9b346bd49be3e47c",
-    "image": "https://s.yimg.com/lo/mysterio/api/67fac5500354efa2669966c1f54e45141cdadb9eee14ca9a127b86e34cb01aac/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc9d2e2a36b92fbc1b34cd5764a4e9df9",
-    "publishedAt": "2026-10-18T04:51:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PCB snubs Michael Atherton, Nasser Hussain after Imran Khan interview controversy",
-    "description": "The Pakistan Cricket Board has announced a commentary panel of six for the upcoming men's ODI tri-series. Notably, renowned commentators Michael Atherton and Nasser Hussain will be missing after a controversial interview on Imran Khan's prison health caused a…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-snubs-michael-atherton-nasser-hussain-after-imran-khan-interview-controversy/articleshow/135023758.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135023772,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T04:20:10Z",
-    "author": "Pranav Shukla"
   }
 ]
 ;
