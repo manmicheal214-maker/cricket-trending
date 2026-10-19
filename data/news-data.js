@@ -1,5 +1,149 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade",
+    "description": "With the IPL season looming, the chatter about Hardik Pandya's future at Mumbai Indians is heating up. Renowned former cricketer Ravichandran Ashwin suggested that a move to Chennai Super Kings could be advantageous for CSK, though he doubts its likelihood an…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rr-are-at-the-top-of-the-list-ashwin-makes-big-revelation-on-hardik-pandya-trade/articleshow/135025373.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135025398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T07:12:10Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan vs Sri Lanka: Probable playing XIs, pitch report, weather, date, time, live telecast and more",
+    "description": "Pakistan and Sri Lanka will compete in the opening match of the 2026 ODI Tri-Series. The match will begin at 1:30 PM IST and will feature a double round-robin format. Weather conditions in Rawalpindi are favorable for batting and run-scoring is expected to be…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-vs-sri-lanka-playing-11-live-streaming-pitch-report-weather-updates-of-today-pak-vs-sl-odi-tri-series-match/articleshow/135024983.cms",
+    "image": "https://img.etimg.com/thumb/msid-135025252,width-1200,height-900,imgsize-198632,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-18T06:58:05Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "When did Pakistan last host an ODI tri-series? Shaheen Afridi and Co. set to face England and Sri Lanka at home",
+    "description": "With the ongoing tri-series in Pakistan getting all the noise, here's a look at when they last hosted a triangular series and what this current series means for their World Cup prep.",
+    "url": "https://www.cricketnews.com/en/cricket/news/when-did-pakistan-last-host-odi-tri-series-home/639c321a40b60e0976e8c9d9",
+    "image": "https://s.yimg.com/lo/mysterio/api/e70e01e3d0de5667c8579d8a6dc398dd5b9d9db72d3d15dd4dc04404001f0d3b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cab2a3f46fa007fd0d9f5a388b5f139",
+    "publishedAt": "2026-10-18T06:26:44Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Who will replace Mahela Jayawardene as Mumbai Indians coach?",
+    "description": "With Mahela Jayawardene parting ways with the Mumbai Indians, here's a look on who can replace the Sri Lankan legend as the next head coach of the 5-time IPL champions.",
+    "url": "https://www.sportingnews.com/in/cricket/news/who-replace-mahela-jayawardene-mumbai-indians-coach/2a5b70eebee0b34e9e4751d3",
+    "image": "https://s.yimg.com/lo/mysterio/api/92b83f876f1a5598b3ea485c598372f9cad6476e30a01c05d891e56e1e951fdc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F37a0b07e044904d56201fe5114ce7e78",
+    "publishedAt": "2026-10-18T06:12:37Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "TechRadar",
+    "title": "Watch England, Pakistan and Sri Lanka tri-series: Streams",
+    "description": "All the ways to watch the England, Pakistan and Sri Lanka ODI tri-series 2026 from anywhere, as three nations do battle in Lahore and Rawalpindi.",
+    "url": "https://www.techradar.com/how-to-watch/cricket/england-pakistan-sri-lanka-odi-tri-series-2026-live-streams",
+    "image": "https://cdn.mos.cms.futurecdn.net/V6z9FikqJYRozSe7ESmhm-2560-80.jpg",
+    "publishedAt": "2026-10-18T06:00:00Z",
+    "author": "James Roberts"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Gavaskar says Hardik Pandya irreplaceable, India should stop looking for like-for-like replacement",
+    "description": "Sunil Gavaskar emphasized the need for India to strengthen their bowling attack in the recent T20 series. He highlighted that Hardik Pandya is irreplaceable and suggested exploring players who can take on different roles. Gavaskar also mentioned Naman Dhir's …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/gavaskar-says-hardik-pandya-irreplaceable-india-should-stop-looking-for-like-for-like-replacement/articleshow/135024591.cms",
+    "image": "https://img.etimg.com/thumb/msid-135024601,width-1200,height-900,imgsize-45840,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-18T05:58:58Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Sporting News",
+    "title": "When is IPL auction? Date, venue, rules for the Indian Premier League 2027 mini-auction",
+    "description": "Here's everything you would need to know about the 2027 IPL mini-auction, alongside the rules, venue, date, and who can bid on which players.",
+    "url": "https://www.sportingnews.com/in/cricket/news/when-ipl-auction-date-venue-rules-2027-mini-auction-indian-premier-league/ef37eddb52bf1bb9259cb361",
+    "image": "https://s.yimg.com/lo/mysterio/api/417ca184a95492db477bce109c21adb047d91727cfca53bcd0b7a92bcb238649/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F79db15671ba073f038049a2d832a5a2e",
+    "publishedAt": "2026-10-18T05:47:08Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ranji Trophy: Armed with MS Dhoni’s advice, Kartik Sharma set for captaincy debut",
+    "description": "Kartik Sharma, a promising young wicketkeeper-batter, has recently taken on the role of captain for Rajasthan. His stellar performances in domestic cricket led to a lucrative contract with Chennai Super Kings, where he has honed his batting skills and match a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-armed-with-ms-dhonis-advice-kartik-sharma-set-for-captaincy-debut/articleshow/135024397.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135024436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T05:43:57Z",
+    "author": "Mandakini Shalya"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Massive difference between words and actions’: Ex-India cricketer’s blunt take on Ravindra Jadeja’s snub",
+    "description": "Aakash Chopra is voicing his concerns about the absence of Ravindra Jadeja from India's ODI series against New Zealand, suggesting a preference for Axar Patel that contradicts previous commitments made by management regarding Jadeja's future. Additionally, th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/massive-difference-between-words-and-actions-ex-india-cricketers-blunt-take-on-ravindra-jadejas-snub/articleshow/135024338.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135024351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T05:37:54Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Imran Khan row: PCB leaves out Michael Atherton and Nasser Hussain from PAK vs ENG vs SL ODI Tri-series commentary panel after interview controversy",
+    "description": "After their support for the better treatment of Imran, former English captains Michael Atherton and Nasser Hussain have been left out of the commentating squad for the PAK vs ENG vs SL tri-series.",
+    "url": "https://www.cricketnews.com/en/cricket/news/imran-khan-pcb-leaves-out-atherton-nasser-tri-series-commentary/d6eae0aa9b346bd49be3e47c",
+    "image": "https://s.yimg.com/lo/mysterio/api/67fac5500354efa2669966c1f54e45141cdadb9eee14ca9a127b86e34cb01aac/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc9d2e2a36b92fbc1b34cd5764a4e9df9",
+    "publishedAt": "2026-10-18T04:51:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PCB snubs Michael Atherton, Nasser Hussain after Imran Khan interview controversy",
+    "description": "The Pakistan Cricket Board has announced a commentary panel of six for the upcoming men's ODI tri-series. Notably, renowned commentators Michael Atherton and Nasser Hussain will be missing after a controversial interview on Imran Khan's prison health caused a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-snubs-michael-atherton-nasser-hussain-after-imran-khan-interview-controversy/articleshow/135023758.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135023772,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T04:20:10Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs NZ ODI, T20I and Test 2026 series: Full list of commentators and broadcast talent for India tour of New Zealand",
+    "description": "With a month-long tour of New Zealand about to start, here's a look at the broadcasters and commentators for India's visit against the Kiwis.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-odi-t20i-test-2026-series-full-list-commentators/c0f41565a3d77fcb50206e83",
+    "image": "https://s.yimg.com/lo/mysterio/api/19970317fb2efac7cfb21a94f163e04e4ae11383fd2f4d6b2799894022b79751/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0356301bb94c1b87b2ae65e0779d5d2c",
+    "publishedAt": "2026-10-18T03:49:13Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Psychology Today",
+    "title": "Kate Bowler and the Stoics on Joy",
+    "description": "Kate Bowler's new book is about why joy is the best we can aim. What would the Stoics say about this?",
+    "url": "https://www.psychologytoday.com/us/blog/for-the-love-of-wisdom/202610/kate-bowler-and-the-stoics-on-joy",
+    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/shutterstock_2593884103.jpg?itok=q6QXlF-8",
+    "publishedAt": "2026-10-18T03:48:49Z",
+    "author": "Jennifer Baker Ph.D."
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kumar Kushagra’s India call-up gives Jharkhand youngsters a reason to dream",
+    "description": "The Indian cricket team has called upon Kumar Kushagra for his debut, thrilling his teammates in Jharkhand. Coach Ratan Kumar sees this as a pivotal moment, igniting the young talent's spirits ahead of the critical match against Maharashtra. Having recently a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kumar-kushagras-india-call-up-gives-jharkhand-youngsters-a-reason-to-dream/articleshow/135023350.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135023366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T03:36:12Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Unfair’ treatment of Kuldeep Yadav? Ashwin fears another benching on NZ tour",
+    "description": "Ravichandran Ashwin voices his disappointment over Kuldeep Yadav's exclusion from the Indian cricket team, arguing that a single bowler shouldn't bear the brunt of criticism when conditions are tough. He predicts that Varun Chakravarthy may be favored for the…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unfair-treatment-of-kuldeep-yadav-ashwin-fears-another-benching-on-nz-tour/articleshow/135023124.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135023144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T02:56:46Z",
+    "author": "Diptayan Hazra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mahela Jayawardene out! Mumbai Indians look for new head coach ahead of IPL 2027",
+    "description": "Mumbai Indians have officially parted ways with head coach Mahela Jayawardene after a lackluster performance in the IPL 2026 season, where they secured only four wins out of 14 matches, placing them ninth in the standings. Despite his leadership yielding thre…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mahela-jayawardene-out-mumbai-indians-look-for-new-head-coach-ahead-of-ipl-2027/articleshow/135023112.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135023118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T02:49:34Z",
+    "author": "Gaurav Gupta"
+  },
+  {
     "source": "New York Post",
     "title": "49ers’ Kyle Juszczyk completes miraculous one-week recovery from brutal knee injury",
     "description": "At first glance, Juszczyk's injury looked to possibly be a season-ender. In the end, the 49ers only missed the 10-time Pro Bowler for one game.",
@@ -124,150 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135017280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-17T17:02:40Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL 2027 auction set for December 16 in Goa; BCCI informs all 10 franchises, team briefing on December 15",
-    "description": "The IPL 2027 auction will be held in Goa on December 16, according to a communication from the BCCI to the 10 franchises. The auction briefing is scheduled for December 15. The event will mark the auction's return to India after three consecutive editions wer…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-2027-auction-set-for-december-16-in-goa-bcci-informs-all-10-franchises-team-briefing-on-december-15/articleshow/135016470.cms",
-    "image": "https://img.etimg.com/thumb/msid-135016537,width-1200,height-900,imgsize-198976,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T15:38:52Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "How to watch AFG vs BAN vs ZIM ODI Tri-series 2026 live: Start time, TV channels and streaming details",
-    "description": "How to watch the AFG vs BAN vs ZIM ODI Tri-Series 2026 live: Get complete match start times, TV channels, streaming details, and full schedule.",
-    "url": "https://www.cricketnews.com/en/cricket/news/afg-vs-ban-vs-zim-odi-tri-series-2026-start-time-tv-channels-streaming/833c726168cccef199bd1918",
-    "image": "https://s.yimg.com/lo/mysterio/api/1ba743394223e4acf09c7bc4697f27ba56eac6761d51ba717cd01591995fbcec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0b82b7a9cb75cf22a8e07f56e9ca6fe2",
-    "publishedAt": "2026-10-17T15:03:15Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "England favorite to win tri-series in Pakistan also featuring Sri Lanka",
-    "description": "RAWALPINDI, Pakistan (AP) — England starts as favorite to win an ODI tri-series against Pakistan and Sri Lanka despite missing Jos Buttler and Jofra Archer.All three nations have directly qualified for next year’s World Cup to be co-hosted by South Africa, Zi…",
-    "url": "https://sports.yahoo.com/articles/england-favorite-win-tri-series-140507650.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/ec05708d8c18d88bd13655ea3e487660825b045b5921c661807bbb85653ad3da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6666f7d725dac1cbae9c8cb477417730.jpg",
-    "publishedAt": "2026-10-17T14:05:07Z",
-    "author": "RIZWAN ALI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IPL 2027 mini-auction: Date, venue and details of auction for 20th Indian Premier League season",
-    "description": "IPL 2027 mini-auction details: Check the expected December dates in Goa, the retention deadline, and updates for the landmark 20th season of the IPL.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-mini-auction-date-venue-details/775292d08a8958c289653050",
-    "image": "https://s.yimg.com/lo/mysterio/api/b1ce245cbcffca9795bc7e6815859cd08e169d4d958dafba13104c2c070c7eaf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f99dc5248be8dc73face43bce057637",
-    "publishedAt": "2026-10-17T14:03:39Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine",
-    "description": "Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.",
-    "url": "https://www.abc.net.au/news/2026-10-18/ukraine-grapples-with-starlink-restrictions/107279672",
-    "image": "https://live-production.wcms.abc-cdn.net.au/d82f3844343222adc0f0d61cd957d6d5?impolicy=wcms_watermark_news&cropH=1999&cropW=3554&xPos=0&yPos=5&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-17T13:48:35Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'There is pressure on us': Pakistan's ICC trophy drought adds to players' burden",
-    "description": "Experienced top-order batter Fakhar Zaman believes Pakistan can end their wait for an ICC trophy at next year's 50-overs World Cup, which will be hosted",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-pressure-on-us-pakistans-icc-trophy-drought-adds-to-players-burden/articleshow/135014275.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135014458,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T13:19:23Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Can't believe he is not their first choice': Former Australian captain slams management for benching Kuldeep Yadav",
-    "description": "The recent decision by India to omit Kuldeep Yadav from the T20I squad has ignited discussions among cricket analysts. Experts like Michael Clarke emphasize that Kuldeep's knack for claiming wickets is invaluable in T20 matches. Meanwhile, Naman Dhir has adeq…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/cant-believe-he-is-not-their-first-choice-former-australian-captain-slams-management-for-benching-kuldeep-yadav/articleshow/135014419.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135014489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T12:46:27Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IND vs WI 5th T20I live streaming: Where to watch today's cricket match?",
-    "description": "India vs West Indies 5th T20I begins at 7 pm IST on Saturday, with the toss at 6:30 pm IST. Fans in India can stream the match on the JioHotstar app and website",
-    "url": "https://www.business-standard.com/cricket/news/ind-vs-wi-5th-t20i-live-streaming-where-to-watch-today-s-cricket-match-126101600507_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/16/thumb/featurecrop/1200X628/1792137080-0052.jpg",
-    "publishedAt": "2026-10-17T12:34:24Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs West Indies 5th T20I: Pitch, weather forecast, head-to-head record and full squads",
-    "description": "Ind vs WI T20 Bangalore Weather: India vs West Indies 5th T20I could face weather-related interruptions in Bengaluru, where a 70% chance of night-time rain raises the prospect of a shortened game. The Chinnaswamy surface is expected to favour batters, with fi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-west-indies-t20-pitch-report-ind-vs-wi-m-chinnaswamy-stadium-bangalore-weather-update/articleshow/135013961.cms",
-    "image": "https://img.etimg.com/thumb/msid-135014104,width-1200,height-900,imgsize-104594,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T12:16:22Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Truthout",
-    "title": "As Trump Sabotages the ICC With Sanctions, There Are Many Ways to Fight Back",
-    "description": "Trump officials now face a temporary restraining order for violating the First Amendment by sanctioning US groups.",
-    "url": "https://truthout.org/articles/as-trump-sabotages-the-icc-with-sanctions-there-are-many-ways-to-fight-back/",
-    "image": "https://truthout.org/app/uploads/2026/10/GettyImages-2298779764-scaled.jpg",
-    "publishedAt": "2026-10-17T12:07:43Z",
-    "author": "Marjorie Cohn"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Prediction: Pakistan vs. Sri Lanka 1st ODI lineups and pitch report for Rawalpindi — Who do you think will win?",
-    "description": "Pakistan vs. Sri Lanka 1st ODI prediction: probable XIs and Rawalpindi pitch report for the Tri-Series opener.",
-    "url": "https://www.cricketnews.com/en/cricket/play/pakistan-vs-sri-lanka-1st-odi-prediction-pitch-report/19ee167611cb36c3d4c2d4c3",
-    "image": "https://s.yimg.com/lo/mysterio/api/89f000a9c5091fac5b6244c5a077ba3f6c6440382aa1b2e166dac48e178986b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F261465eb092d761b73a032d65f68dc7b",
-    "publishedAt": "2026-10-17T11:57:08Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs West Indies T20 Playing 11: Probable XIs, TV channel and online streaming details",
-    "description": "Ind vs WI Live Streaming Telecast: India and West Indies will battle for the series in the fifth T20I in Bengaluru, with Bhuvneshwar Kumar potentially returning to India’s line-up. Find out when the match starts, where to watch the live telecast and streaming…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-west-indies-t20-live-streaming-telecast-ind-vs-wi-5th-t20-playing-11-shreyas-iyer-shai-hope-star-sports-jiohotstar/articleshow/135013466.cms",
-    "image": "https://img.etimg.com/thumb/msid-135013571,width-1200,height-900,imgsize-135948,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T11:50:02Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What does a Tri-series mean in cricket? Format, rules, points system and how it works",
-    "description": "In the world of International cricket, Tri-Series remain one of the most interesting concepts and gets everything to know about the games.",
-    "url": "https://www.cricketnews.com/en/cricket/news/what-tri-series-mean-cricket-format-rules-points-system-how-works/7f68347a7608e23e7755cb5c",
-    "image": "https://s.yimg.com/lo/mysterio/api/633f9e4557455c2d7b630e1e1f0b54f9356279a468d8a47b693436eec1d4b545/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8932050f5ee7d52a74d1af217ba8981f",
-    "publishedAt": "2026-10-17T11:19:48Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "LIVE: India vs West Indies – fifth T20 International",
-    "description": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26287653681939-1792222613.jpg?resize=1626%2C1080",
-    "publishedAt": "2026-10-17T09:54:49Z",
-    "author": "Kevin Hand"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'His confidence is worsening': R Ashwin slams India's exclusion of 'run machine' Yashasvi Jaiswal after NZ ODIs snub",
-    "description": "After his latest snub from the ODI squad for New Zealand, Yashasvi Jaiswal gets support from former India all-rounder R. Ashwin, who slams the BCCI for not giving the RR opener a chance.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fd37d6f6-5c99-444e-a673-31f4f3f30d6d",
-    "image": null,
-    "publishedAt": "2026-10-17T09:22:09Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Why not take Indian citizenship?’: Bombay HC asks 12 OCI cardholders challenging BCCI's Indian passport rule",
-    "description": "The Bombay High Court is currently evaluating appeals from young cricketers holding Overseas Citizen of India status. These athletes are contesting the BCCI's rule mandating an Indian passport for tournament eligibility. The court has proposed that seeking In…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-not-take-indian-citizenship-bombay-hc-asks-12-oci-cardholders-challenging-bccis-indian-passport-rule/articleshow/135011058.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135011130,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T09:21:09Z",
-    "author": "TOI Sports Desk"
   }
 ]
 ;
