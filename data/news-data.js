@@ -1,6 +1,177 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "Virender Sehwag on his hosting debut with Rise and Fall 2: Acting aur politics se toh main door hi hoon",
+    "description": "Virender Sehwag discusses his hosting debut with Rise and Fall 2, drawing parallels between the show’s power dynamics and cricket. The former India opener talks about preparing his son Aaryavir for praise and criticism, his reluctance to enter politics or act…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/virender-sehwag-on-his-hosting-debut-with-rise-and-fall-2-acting-aur-politics-se-toh-main-door-hi-hoon/articleshow/135030248.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135030312,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T14:30:59Z",
+    "author": "Neha Maheshwri"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'A fearless masterclass!': Salman Ali Agha breaks Mohammad Yousuf record with a 4th ODI century vs Sri Lanka in Rawalpindi",
+    "description": "Salman Ali Agha delivered an unbeaten 82-ball hundred against Sri Lanka, rescuing Pakistan from collapse and breaking Mohammad Yousuf's historic ODI record.",
+    "url": "https://www.cricketnews.com/en/cricket/news/salman-ali-agha-mohammad-yousuf-record-odi-century-vs-sri-lanka/5a82d4a8db030dbf8e894454",
+    "image": "https://s.yimg.com/lo/mysterio/api/e70e01e3d0de5667c8579d8a6dc398dd5b9d9db72d3d15dd4dc04404001f0d3b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cab2a3f46fa007fd0d9f5a388b5f139",
+    "publishedAt": "2026-10-18T12:59:36Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rizwan gets first relief in PCB inquiry, allowed to resume domestic cricket",
+    "description": "Mohammad Rizwan has been granted approval by the Pakistan Cricket Board to rejoin domestic cricket amidst ongoing investigations into allegations of online betting, gambling, and possible leaks of dressing-room information. Previously banned, he now prepares …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-gets-first-relief-in-pcb-inquiry-allowed-to-resume-domestic-cricket/articleshow/135029145.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135029175,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T12:56:48Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
+    "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
+    "url": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
+    "image": "https://live-production.wcms.abc-cdn.net.au/23b337a970c0157aebe1f24390174b6f?impolicy=wcms_watermark_news&cropH=2366&cropW=4206&xPos=0&yPos=219&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-18T12:37:51Z",
+    "author": null
+  },
+  {
+    "source": "San Francisco Chronicle",
+    "title": "Mike Evans took tall task of learning 49ers offense and made it look easy",
+    "description": "The San Francisco 49ers signed Mike Evans to boost their wide receivers corps. The 6-foot-5, six-time Pro Bowler has not disappointed, becoming the go-to guy when they need a big passing play.",
+    "url": "https://www.sfchronicle.com/sports/49ers/article/mike-evans-receiver-49ers-22480398.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+    "image": "https://s.yimg.com/lo/mysterio/api/51fd4008d91050bd08ed947e85e0a7299a76d11b3b715daeaae3a3109831cb05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F50820dd743a8711c8fbf5cb325a73631.jpg",
+    "publishedAt": "2026-10-18T12:00:00Z",
+    "author": "Harrison Rich"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nahida Akter replaces Nigar Sultana as Bangladesh's new T20I captain, Sobhana Mostary named deputy",
+    "description": "Nahida Akter has officially taken the reins as the new T20I captain of the Bangladesh women's cricket team, succeeding Nigar Sultana, who has stepped down to concentrate on her game. Sobhana Mostary steps in as vice-captain, working alongside Akter. Their deb…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nahida-akter-replaces-nigar-sultana-as-bangladeshs-new-t20i-captain-sobhana-mostary-named-deputy/articleshow/135028336.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135028353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T11:51:06Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list",
+    "description": "The match against Sri Lanka was his 355th in international cricket. However, he fell short of a half-century, getting out for 45 to Pavan Rathnayake off Eshan Malinga.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-achieves-historic-milestone-joins-inzamam-and-miandad-in-elite-pakistan-list/articleshow/135027969.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135028170,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T11:42:15Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Brendan Taylor surpasses Andy Flower to become Zimbabwe’s highest ODI run-scorer",
+    "description": "In a remarkable feat, Brendan Taylor eclipsed Andy Flower as Zimbabwe's leading ODI run-scorer by scoring 81 runs during a match against Bangladesh in Abu Dhabi. This stellar performance not only played a pivotal role in Zimbabwe's 99-run victory but also sho…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/brendan-taylor-surpasses-andy-flower-to-become-zimbabwes-highest-odi-run-scorer/articleshow/135027483.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135027569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T10:54:51Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Consistency is overrated in T20s’: Former India cricketer explains fine line between form and failure",
+    "description": "\"He is never out of form. The kind of player Sanju Samson has been in the T20 format; his form fluctuates. But it is always a matter of one innings. He plays one good innings, and he is back in form.\"",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/consistency-is-overrated-in-t20s-former-india-cricketer-explains-fine-line-between-form-and-failure/articleshow/135026969.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135027057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T10:40:10Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson",
+    "description": "Aakash Chopra has raised concerns about Sanju Samson's continued exclusion from the ODI squad. Despite impressive ODI statistics, Samson was overlooked for the New Zealand series. Chopra highlighted that multiple other wicketkeeper-batters were not selected e…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lifetime-subscription-to-pressure-ex-india-cricketers-blunt-defence-of-sanju-samson/articleshow/135026572.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135026605,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-18T09:20:52Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Trophy wall, walk-in closet, private practice net: Inside Smriti Mandhana’s Rs 32 crore, 5,000 sq ft Sangli home, created by merging two flats",
+    "description": "Smriti Mandhana, a superstar in Indian cricket, lives in a huge Sangli home that’s 5,000 square feet. Her living room features a trophy wall, showcasing her talent. She’s got a simple yet stylish bedroom, a lively walk-in closet, and even a personal gym. Plus…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/trophy-wall-walk-in-closet-private-practice-net-inside-smriti-mandhanas-rs-32-crore-5000-sq-ft-sangli-home-created-by-merging-two-flats/articleshow/135026114.cms",
+    "image": "https://img.etimg.com/thumb/msid-135026121,width-1200,height-900,imgsize-217534,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-10-18T08:27:08Z",
+    "author": "Trisha Dey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Shubman Gill in Ranji Trophy: India captain fails miserably for Punjab weeks before New Zealand Test series",
+    "description": "Shubman Gill featured in domestic cricket to prepare for India's upcoming Test series against New Zealand next month.",
+    "url": "https://www.cricketnews.com/en/cricket/news/shubman-gill-ranji-trophy-india-captain-fails-punjab-new-zealand-test/b1a201b94e9e4c3de8fee66b",
+    "image": "https://s.yimg.com/lo/mysterio/api/eb7ad48fa5f771c483f725666ce16f39d37cfeb4174ee21ff16b799f0033e06b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe10914ce67529cf634c69a35031986ad",
+    "publishedAt": "2026-10-18T08:10:11Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "CNA",
+    "title": "Boland strikes twice on rain-hit first day",
+    "description": "GQEBERHA, South Africa, Oct 18 : Australia bowler Scott Boland took two wickets in as many balls to leave South Africa 20 runs for two wickets at the close of play on a rain-hampered first day of the second test at St George’s Park on Sunday.Boland, who was t…",
+    "url": "https://www.channelnewsasia.com/sport/boland-strikes-twice-rain-hit-first-day-6469401",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-10-18T08:06:54Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Boland strikes twice as rain disrupts second test",
+    "description": "GQEBERHA, South Africa, Oct 18 : Australia bowler Scott Boland took two wickets in as many balls to peg South Africa back to 20 runs for two wickets at tea on a rain-hampered first day of the second test at St George’s Park on Sunday.• Boland, the only change…",
+    "url": "https://www.channelnewsasia.com/sport/boland-strikes-twice-rain-disrupts-second-test-6469401",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-10-18T08:06:54Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Sri Lanka wins toss, elects to field against Pakistan in opening game of tri-series",
+    "description": "RAWALPINDI, Pakistan (AP) — Sri Lanka captain Kusal Mendis won the toss and elected to field against Pakistan in the opening ODI of tri-series on Sunday.The tournament, also featuring England, is part of teams' build-up for next year’s World Cup in South Afri…",
+    "url": "https://sports.yahoo.com/articles/sri-lanka-wins-toss-elects-080524282.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/079a13a2debfe3cdfc15677f025b4a789cd4e9a9c30d2a06ff9c27794d0ed59e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1e5e2b538cf6d12543f63c9f15ad90e7.jpg",
+    "publishedAt": "2026-10-18T08:05:24Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "PAK vs SL 1st ODI Tri-series 2026 live scorecard, toss winner, winning probability, result and highlights from Rawalpindi",
+    "description": "PAK vs SL 1st ODI: Live score, result, and highlights",
+    "url": "https://www.cricketnews.com/en/cricket/news/pak-vs-sl-1st-odi-tri-series-2026-scorecard-result-highlights-rawalpindi/bfa297350759fa3277bb24f9",
+    "image": "https://s.yimg.com/lo/mysterio/api/33fee36a2e355086ff3ddc3e8782be283104657aba8a26e4264e9c24caeaf2a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F568a8cfcea56f708fe10a5103c277efa",
+    "publishedAt": "2026-10-18T08:02:02Z",
+    "author": "Deepanjan Mitra and Soham Mukherjee"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Australia wins the toss and decides to bowl in the second cricket test against South Africa",
+    "description": "GQEBERHA, South Africa (AP) — Australia captain Pat Cummins won the toss Sunday and decided to bowl against South Africa in the second cricket test.Australia won the first test in Durban by 214 runs.",
+    "url": "https://sports.yahoo.com/articles/australia-wins-toss-decides-bowl-080019823.html",
+    "image": null,
+    "publishedAt": "2026-10-18T08:00:19Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "White Ferns v Australia live updates: First T20 International from North Sydney Oval",
+    "description": "All the action from the T20 International series opener from North Sydney.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/white-ferns/white-ferns-the-energy-lifts-a-bit-when-youre-playing-australia-clone/VZT7VX2JGFDV5JYB5FFENAYLXU/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/FXKQHZMV65DC3DYTP42VNHD3IE.JPG?auth=45c574c0e86f4142e36b98f817c3a61a989ebd1ed0eef8cbf47604512ec7ab09&width=1200&height=675&quality=70&focal=586%2C240&smart=false",
+    "publishedAt": "2026-10-18T08:00:00Z",
+    "author": "NZ Herald"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Not CSK: R Ashwin reveals Hardik Pandya's next IPL franchise as he rules out chances of joining Chennai Super Kings",
+    "description": "With CSK being of the top teams being linked to Hardik Pandya, former CSK legend R. Ashwin was quick to rule out any chances of it the MI all-rounder choosing Chennai.",
+    "url": "https://www.cricketnews.com/en/cricket/news/not-csk-ashwin-reveals-hardik-pandya-next-ipl-franchise/48bc003481e20b8846aa82f9",
+    "image": "https://s.yimg.com/lo/mysterio/api/c34602d875badd2b04155aef3ab5282d340fee95fd0dbfdcba1e39d3713cbdfa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6d0146b5ff8650af5a7f15d6768521b8",
+    "publishedAt": "2026-10-18T07:43:50Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
     "title": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade",
     "description": "With the IPL season looming, the chatter about Hardik Pandya's future at Mumbai Indians is heating up. Renowned former cricketer Ravichandran Ashwin suggested that a move to Chennai Super Kings could be advantageous for CSK, though he doubts its likelihood an…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rr-are-at-the-top-of-the-list-ashwin-makes-big-revelation-on-hardik-pandya-trade/articleshow/135025373.cms",
@@ -97,177 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135023772,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-18T04:20:10Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IND vs NZ ODI, T20I and Test 2026 series: Full list of commentators and broadcast talent for India tour of New Zealand",
-    "description": "With a month-long tour of New Zealand about to start, here's a look at the broadcasters and commentators for India's visit against the Kiwis.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-odi-t20i-test-2026-series-full-list-commentators/c0f41565a3d77fcb50206e83",
-    "image": "https://s.yimg.com/lo/mysterio/api/19970317fb2efac7cfb21a94f163e04e4ae11383fd2f4d6b2799894022b79751/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0356301bb94c1b87b2ae65e0779d5d2c",
-    "publishedAt": "2026-10-18T03:49:13Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Psychology Today",
-    "title": "Kate Bowler and the Stoics on Joy",
-    "description": "Kate Bowler's new book is about why joy is the best we can aim. What would the Stoics say about this?",
-    "url": "https://www.psychologytoday.com/us/blog/for-the-love-of-wisdom/202610/kate-bowler-and-the-stoics-on-joy",
-    "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/shutterstock_2593884103.jpg?itok=q6QXlF-8",
-    "publishedAt": "2026-10-18T03:48:49Z",
-    "author": "Jennifer Baker Ph.D."
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kumar Kushagra’s India call-up gives Jharkhand youngsters a reason to dream",
-    "description": "The Indian cricket team has called upon Kumar Kushagra for his debut, thrilling his teammates in Jharkhand. Coach Ratan Kumar sees this as a pivotal moment, igniting the young talent's spirits ahead of the critical match against Maharashtra. Having recently a…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kumar-kushagras-india-call-up-gives-jharkhand-youngsters-a-reason-to-dream/articleshow/135023350.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135023366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T03:36:12Z",
-    "author": "Sourav Modak"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Unfair’ treatment of Kuldeep Yadav? Ashwin fears another benching on NZ tour",
-    "description": "Ravichandran Ashwin voices his disappointment over Kuldeep Yadav's exclusion from the Indian cricket team, arguing that a single bowler shouldn't bear the brunt of criticism when conditions are tough. He predicts that Varun Chakravarthy may be favored for the…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unfair-treatment-of-kuldeep-yadav-ashwin-fears-another-benching-on-nz-tour/articleshow/135023124.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135023144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T02:56:46Z",
-    "author": "Diptayan Hazra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mahela Jayawardene out! Mumbai Indians look for new head coach ahead of IPL 2027",
-    "description": "Mumbai Indians have officially parted ways with head coach Mahela Jayawardene after a lackluster performance in the IPL 2026 season, where they secured only four wins out of 14 matches, placing them ninth in the standings. Despite his leadership yielding thre…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mahela-jayawardene-out-mumbai-indians-look-for-new-head-coach-ahead-of-ipl-2027/articleshow/135023112.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135023118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T02:49:34Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "New York Post",
-    "title": "49ers’ Kyle Juszczyk completes miraculous one-week recovery from brutal knee injury",
-    "description": "At first glance, Juszczyk's injury looked to possibly be a season-ender. In the end, the 49ers only missed the 10-time Pro Bowler for one game.",
-    "url": "https://nypost.com/2026/10/17/sports/49ers-kyle-juszczyk-return-knee-injury/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-    "image": "https://s.yimg.com/lo/mysterio/api/87122672a95f50223011120432301840fbfc4e1817cf33daac1e472dd0dd2d38/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F6e0e1f82e426905433e9f5edc6ede9d7.jpg",
-    "publishedAt": "2026-10-17T22:36:05Z",
-    "author": "Evan Webeck"
-  },
-  {
-    "source": "New York Post",
-    "title": "49ers’ Kyle Juszczyk completes miraculous one-week recovery from brutal knee injury",
-    "description": "At first glance, Juszczyk's injury looked to possibly be a season-ender. In the end, the 49ers only missed the 10-time Pro Bowler for one game.",
-    "url": "https://nypost.com/2026/10/17/sports/49ers-kyle-juszczyk-return-knee-injury/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-joge6nemy-1792272862396.jpg?quality=75&strip=all&1792258590&w=1200",
-    "publishedAt": "2026-10-17T22:36:05Z",
-    "author": "Evan Webeck"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch Pakistan vs. Sri Lanka live stream, TV channel, start time and lineups for ODI Tri-series",
-    "description": "Pakistan host Sri Lanka in the ODI in Rawalpindi. Here’s how to watch live, including TV channels, streaming details, start time and lineups.",
-    "url": "https://www.sportingnews.com/in/cricket/news/watch-pakistan-sri-lanka-live-stream-tv-channel-start-time-lineups-odi-tri-series/c1e3005a8d393134fd5e3bfc",
-    "image": "https://s.yimg.com/lo/mysterio/api/4105cad446d09f43a02258cb0b3f7d418de3066c7e50bf7f5fa5a779de4595b3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F261465eb092d761b73a032d65f68dc7b",
-    "publishedAt": "2026-10-17T20:30:01Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Self-confessed dog-killer Kristi Noem panned for posting hunting picture in full hair and makeup with pup commenters say looks 'petrified'",
-    "description": "Kristi Noem was heavily scrutinized after her former book detailed a shocking story of why she shot her former dog, Cricket.",
-    "url": "https://www.dailymail.com/news/article-16216957/kristi-noem-dog-hunting-photo.html",
-    "image": "https://i.dailymail.com/1s/2026/10/17/20/111926399-0-image-m-11_1792266644886.jpg",
-    "publishedAt": "2026-10-17T20:14:02Z",
-    "author": "Sophie Gable"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "PAK vs ENG vs SL ODI Tri-series 2026: Full list of commentators and broadcast talent for white-ball contest in Pakistan",
-    "description": "PAK vs ENG vs SL ODI Tri-Series 2026 commentators: Check the complete list of English voices, studio experts, and TV presenters for matches in Pakistan.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pak-vs-eng-vs-sl-odi-tri-series-2026-full-list-commentators/cc56d7a06a36bf97067e9798",
-    "image": "https://s.yimg.com/lo/mysterio/api/3123111609ac108240452cf907de508b00f6830fe59a37a78160409c84b75159/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F34a7ae8c225b664751d3dd4b9d1236f4",
-    "publishedAt": "2026-10-17T18:40:55Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Is New Zealand holding back women's Test cricket?",
-    "description": "New Zealand regularly faces Australia in white-ball formats but refuses to play women's Test cricket, despite being one of the first three nations to do it back in the 1930s. Here's why.",
-    "url": "https://www.abc.net.au/news/2026-10-18/is-new-zealand-holding-back-womens-test-cricket/107273022",
-    "image": "https://live-production.wcms.abc-cdn.net.au/d04dfb1a193a9410955bc6beb6246663?impolicy=wcms_watermark_news&cropH=2531&cropW=4500&xPos=0&yPos=307&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-17T18:39:59Z",
-    "author": "Brittany Carter"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India and West Indies draw T20 cricket series 2-2 after no result in rain-hit decider",
-    "description": "BENGALURU, India (AP) — A thrilling Twenty20 cricket series between India and West Indies ended in a 2-2 draw on Saturday after no result in the fifth and final match because of rain. local time — after a delay of nearly two hours at the M.",
-    "url": "https://sports.yahoo.com/articles/india-west-indies-draw-t20-183219634.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/921db20481df551ea0eccfb97b9139b0f235cb6f559ce04a419f57847b7de4b1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6d9b05cb48f601afa119a0eb23e34497.jpg",
-    "publishedAt": "2026-10-17T18:32:19Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Take a deep breath: Not every omission is an injustice, and not every selection is a conspiracy",
-    "description": "India's cricket selection committee has announced the squad for the upcoming Test series in New Zealand. Several surprising decisions have raised eyebrows, with notable omissions and inclusions of certain players. The selectors aim to balance immediate team n…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/take-a-deep-breath-not-every-omission-is-an-injustice-and-not-every-selection-is-a-conspiracy/articleshow/135019082.cms",
-    "image": "https://img.etimg.com/thumb/msid-135019121,width-1200,height-900,imgsize-79454,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T18:23:15Z",
-    "author": "Anand Vasu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "UP clinch thrilling win over Andhra Pradesh",
-    "description": "Uttar Pradesh beat Andhra Pradesh by 6 runs in Women’s Minor T20 in Mumbai; UP 141/7 led by Riya Bhati 62, AP 135/7.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/up-clinch-thrilling-win-over-andhra-pradesh/articleshow/135018618.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-17T17:51:22Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "UPCA signs 10-year agreement to use CSJMU cricket stadium in Kanpur",
-    "description": "UPCA and CSJM University sign 10-year LOI to maintain and use Kanpur’s university cricket stadium as Green Park renovates; fee Rs 75,000/month + GST.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/upca-signs-10-year-agreement-to-use-csjmu-cricket-stadium-in-kanpur/articleshow/135018615.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-17T17:51:04Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Indian top order eyes improved show against Zimbabwe in 2nd WT20I",
-    "description": "India's women's cricket team will seek a more stable batting performance against Zimbabwe in their upcoming T20 match. After a narrow win in the first match, concerns over early batting collapses remain. Captain Smriti Mandhana and her team want to improve th…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indian-top-order-eyes-improved-show-against-zimbabwe-in-2nd-wt20i/articleshow/135017709.cms",
-    "image": "https://img.etimg.com/thumb/msid-135018592,width-1200,height-900,imgsize-76616,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T17:50:27Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-    "description": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
-    "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261017__D3L89AJ__v1__MidRes__CricketIndWisT20-1792253604.jpg?resize=1200%2C630",
-    "publishedAt": "2026-10-17T17:42:01Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "India, West Indies draw T20 series after rain washes out decider",
-    "description": "India and West Indies concluded their five-match T20 series with a 2-2 draw. The final game was interrupted by rain, preventing its completion. India had scored 118-5 in 7.4 overs before the match was abandoned. Veteran seamer Bhuvneshwar Kumar did not have a…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-west-indies-draw-t20-series-after-rain-washes-out-decider/articleshow/135017941.cms",
-    "image": "https://img.etimg.com/thumb/msid-135018126,width-1200,height-900,imgsize-142166,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-17T17:28:53Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rain washes out Bengaluru series decider after India script history in fifth T20I against West Indies",
-    "description": "In a remarkable display, India achieved the quickest team fifty in men's T20I cricket, accomplishing this feat in a mere 2.5 overs against the West Indies. Unfortunately, relentless rain led to the abandonment of the match. The series concluded with both team…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rain-washes-out-bengaluru-series-decider-after-india-script-history-with-fastest-t20i-fifty-against-west-indies/articleshow/135017246.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135017280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-17T17:02:40Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
