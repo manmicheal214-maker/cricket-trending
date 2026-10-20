@@ -1,5 +1,167 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Afghanistan vs Zimbabwe 2nd ODI match: Check live streaming, pitch report, weather forecast and playing XIs",
+    "description": "Afghanistan vs Zimbabwe 2nd ODI match: Afghanistan begin their UAE ODI Tri-Series campaign against Zimbabwe, who arrive after a 99-run win over Bangladesh. Check the match time, head-to-head record, probable playing XIs, pitch report, Abu Dhabi weather foreca…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/afghanistan-vs-zimbabwe-2nd-odi-match-check-live-streaming-pitch-report-weather-forecast-and-playing-xis/articleshow/135047385.cms",
+    "image": "https://img.etimg.com/thumb/msid-135047497,width-1200,height-900,imgsize-114839,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-19T11:16:52Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Afghanistan vs Zimbabwe Playing 11: Check live streaming, pitch report, weather forecast and playing XIs",
+    "description": "Afghanistan vs Zimbabwe Live Streaming: Afghanistan begin their UAE ODI Tri-Series campaign against Zimbabwe, who arrive after a 99-run win over Bangladesh. Check the match time, head-to-head record, probable playing XIs, pitch report, Abu Dhabi weather forec…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/afghanistan-vs-zimbabwe-2nd-odi-live-streaming-playing-11-pitch-report-weather-forecast/articleshow/135047385.cms",
+    "image": "https://img.etimg.com/thumb/msid-135047497,width-1200,height-900,imgsize-114839,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-19T11:16:52Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI appoints Ramesh Powar to Men's Selection Committee; Pragyan Ojha to chair panel",
+    "description": "The BCCI has appointed former India cricketer Ramesh Powar to its men's selection committee following Ajit Agarkar's exit as chief selector. Pragyan Ojha will chair the five-member panel based on seniority. Powar brings international playing and coaching expe…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-ramesh-powar-appointed-to-mens-selection-committee-pragyan-ojha-to-chair-panel/articleshow/135047224.cms",
+    "image": "https://img.etimg.com/thumb/msid-135047321,width-1200,height-900,imgsize-29702,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-19T11:06:29Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pragyan Ojha replaces Ajit Agarkar as BCCI's selection committee chairman, Ramesh Powar joins panel",
+    "description": "In a significant move, Pragyan Ojha has taken over as the chairman of the BCCI's Men's Selection Committee following Ajit Agarkar's departure. Joining him is former spinner Ramesh Powar, who brings a wealth of coaching experience. Ojha's appointment comes aft…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135046761,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T10:49:01Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "How have Indian batsmen performed in New Zealand? Analysing the record of India squad for NZ ODI, T20I and Test series 2026",
+    "description": "With just days remaining between India's month long tour of New Zealand, better a look at how each of India's batting maestros have performed in New Zealand.",
+    "url": "https://www.cricketnews.com/en/cricket/news/how-indian-batsmen-performed-new-zealand-odi-t20i-test-series-2026/d145834eead8fc36cddc534c",
+    "image": "https://s.yimg.com/lo/mysterio/api/6d856057375b97c9ab75a134e431109b6694929e59c882185ea4288234e9b005/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb918b6151a2d0118469918f69f6cac08",
+    "publishedAt": "2026-10-19T09:47:57Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey impress in Uganda before Challenge League",
+    "description": "Jersey warm up for their ICC Challenge League A tournament in Kenya with two wins over Uganda 'A' in Entebbe.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmlyl8qw29wro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3ac047d75e35ffe3aea34b4bb96deafb4d654cfbaa01af02434bf95f4d86fd1e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F37bddf1d2ab5a6407758bce0a666fbd4.jpg",
+    "publishedAt": "2026-10-19T09:08:42Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey impress in Uganda before Challenge League",
+    "description": "Jersey warm up for their ICC Challenge League A tournament in Kenya with two wins over Uganda 'A' in Entebbe.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmlyl8qw29wro",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a6df/live/9cd1b990-cb92-11f1-93a7-b36f3083f4d3.jpg",
+    "publishedAt": "2026-10-19T09:08:36Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Smriti Mandhana-led India eye T20I series sweep against Zimbabwe",
+    "description": "The Indian women's cricket team will play Zimbabwe in the third T20I to achieve a series sweep. Smriti Mandhana, as captain, hopes to continue the team's winning momentum after two victories. Niki Prasad has shown impressive performances, contributing both wi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-led-india-eye-t20i-series-sweep-against-zimbabwe/articleshow/135044010.cms",
+    "image": "https://img.etimg.com/thumb/msid-135044072,width-1200,height-900,imgsize-157120,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-19T08:27:49Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit's cricket evolution insights: Rohit Sharma shares life lessons learned from cricket: Emphasizes resilience and focus beyond the game",
+    "description": "During a recent chat with Indian Idol stars, Rohit Sharma opened up about his cricketing journey. Recalling his first tours in Australia at just 20, he highlighted the hurdles posed by fast bowlers and rowdy crowds. Rohit emphasized how navigating such extern…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rohits-cricket-evolution-insights-rohit-sharma-shares-life-lessons-learned-from-cricket-emphasizes-resilience-and-focus-beyond-the-game/articleshow/135043671.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135043734,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T08:11:52Z",
+    "author": "Akash Wadhwa"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IPL 2027: Who could become the next head coach of Mumbai Indians?",
+    "description": "While several prominent names have already been linked with the vacancy, former India head coach Rahul Dravid, Australia's Adam Gilchrist and England's Eoin Morgan are reportedly unavailable",
+    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-who-could-become-the-next-head-coach-of-mumbai-indians-126101900433_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/resize/1200X628/1792396181-1349.jpg",
+    "publishedAt": "2026-10-19T07:50:38Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ravi Shastri urges India to use Bumrah sparingly ahead of 2027 ODI World Cup",
+    "description": "India's former coach Ravi Shastri suggests that Jasprit Bumrah should focus primarily on test cricket. He believes this will help preserve Bumrah's fitness for the upcoming one-day international World Cup. Bumrah has faced injuries, including surgery in 2023,…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ravi-shastri-urges-india-to-use-bumrah-sparingly-ahead-of-2027-odi-world-cup/articleshow/135043239.cms",
+    "image": "https://img.etimg.com/thumb/msid-135043363,width-1200,height-900,imgsize-135632,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-19T07:48:43Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "CNA",
+    "title": "Shastri urges India to use Bumrah sparingly ahead of ODI World Cup",
+    "description": "Oct 19 : India should keep Jasprit Bumrah fresh for next year's one-day international World Cup by selecting him mainly for test cricket and using the pace spearhead sparingly in other formats, former coach Ravi Shastri said.Bumrah was recalled to India's tes…",
+    "url": "https://www.channelnewsasia.com/sport/shastri-urges-india-use-bumrah-sparingly-ahead-odi-world-cup-6471266",
+    "image": "https://dam.mediacorp.sg/image/upload/s--RG08Jhya--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-19T074557Z_1_LYNXMPEM9I0LX_RTROPTP_3_CRICKET-INDIA.JPG?itok=vg3snNdF",
+    "publishedAt": "2026-10-19T07:45:57Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "When was the last time England won an ODI series in the subcontinent?",
+    "description": "With England about to face both Sri Lanka and Pakistan in the ongoing triangular series in Pakistan, here's a look at how the Three Lions performed in the subcontinent.",
+    "url": "https://www.cricketnews.com/en/cricket/news/when-was-last-time-england-won-odi-series-subcontinent/f4d7e8999e1ff5146ecd57cf",
+    "image": "https://s.yimg.com/lo/mysterio/api/23f0e15b8e390d1abdf1de66bf22b06ecbc4b9c7daf52205454b9ef512f7fb16/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F44b0ffc788a80fa2116eb03abb34e232",
+    "publishedAt": "2026-10-19T07:42:41Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Salman Ali Agha joins elite list featuring MS Dhoni, Yuvraj Singh with record ODI feat",
+    "description": "Salman Ali Agha delivered an impressive performance by scoring 107 runs from 90 balls against Sri Lanka, marking a significant milestone in the tri-series. This victory saw him break Mohammad Yousuf's record as the most prolific No. 5 centurion for Pakistan. …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-ali-agha-joins-elite-list-featuring-ms-dhoni-yuvraj-singh-with-record-odi-feat/articleshow/135042074.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135042749,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T07:15:59Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Aussie seamer Darcie Brown cut down by back injury",
+    "description": "Darcie Brown's WBBL season is over before it begins, and the seamer's chances of featuring in Australia's T20 Women's Champions Trophy campaign is also in doubt after a back injury.",
+    "url": "https://www.abc.net.au/news/2026-10-19/darcie-brown-back-injury-ruled-out-of-wbbl/107284702",
+    "image": "https://live-production.wcms.abc-cdn.net.au/16bf5875ee5ae46c197b985605035ca9?impolicy=wcms_watermark_news&cropH=2561&cropW=4552&xPos=0&yPos=237&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-19T06:56:50Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Release Vaibhav Sooryavanshi from India squad? ‘It’s heartbreaking, but no other way,’ says ex-cricketer",
+    "description": "Aakash Chopra expressed that Vaibhav Sooryavanshi may not find a place in India's T20I squad soon. He noted the lack of available spots due to consistent performances from established top-order batters. Chopra suggested releasing Sooryavanshi for the Ranji Tr…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/drop-vaibhav-sooryavanshi-from-india-squad-its-heartbreaking-but-no-other-way-says-ex-cricketer/articleshow/135041171.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135041181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T06:03:43Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list",
+    "description": "The match against Sri Lanka was his 355th in international cricket. However, he fell short of a half-century, getting out for 45 to Pavan Rathnayake off Eshan Malinga.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90231bb4-cc48-45b1-b977-9652a0d16614",
+    "image": null,
+    "publishedAt": "2026-10-19T06:00:00Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "When will IPL 2027 players' auction take place? Here's the latest update",
+    "description": "The recently reported auction date coincides with India's scheduled ODI against Sri Lanka in Bengaluru",
+    "url": "https://www.business-standard.com/cricket/ipl/when-will-ipl-2027-players-auction-take-place-here-s-the-latest-update-126101900276_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/resize/1200X628/1792389228-9963.jpg",
+    "publishedAt": "2026-10-19T05:54:52Z",
+    "author": "Aditya Kaushik"
+  },
+  {
     "source": "BBC News",
     "title": "How one rule change is altering the face of one-day cricket",
     "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
@@ -106,159 +268,6 @@ window.cricketNews = [
     "image": "https://biztoc.com/cdn/8823ba299b88c1bb_s.webp",
     "publishedAt": "2026-10-19T00:18:54Z",
     "author": "newsweek.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Reality shows, cricket turn advertisers' safe bets",
-    "description": "Established non-fiction shows such as Bigg Boss and Kaun Banega Crorepati have continued to attract advertisers despite the blackout. Bigg Boss has roped in 95 sponsors across its language editions, while KBC has secured 25 sponsors. Cricket is also drawing a…",
-    "url": "https://economictimes.indiatimes.com/industry/services/advertising/reality-shows-cricket-turn-advertisers-safe-bets/articleshow/135034874.cms",
-    "image": "https://img.etimg.com/thumb/msid-135034905,width-1200,height-900,imgsize-1691737,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-18T19:43:04Z",
-    "author": "Javed Farooqui"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Baroda bowler Bhargav Bhatt plays his 100th first-class match",
-    "description": "Baroda spinner Bhargav Bhatt plays 100th first-class match vs Bihar in Vadodara; BCA felicitates him as he reaches 382 wickets and 1,248 runs.",
-    "url": "https://timesofindia.indiatimes.com/city/vadodara/baroda-bowler-bhargav-bhatt-plays-his-100th-first-class-match/articleshow/135034594.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135034593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T19:02:45Z",
-    "author": "Tushar Tere"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Ravens Get Bad Injury News on $68 Million Pro Bowler for Browns Game",
-    "description": "The Baltimore Ravens got bad injury news on $68 million Pro Bowler before Browns game. The post Ravens Get Bad Injury News on $68 Million Pro Bowler for Browns Game appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/baltimore-ravens/bad-news-pro-bowler-cam-jurgens/",
-    "image": "https://s.yimg.com/lo/mysterio/api/6bfc64e95c06824ab08f8cffe8c4598adae97e897345af60ae2a24471ef4012f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F070ba5d3005869a1bb636b28f3b9c986.jpg",
-    "publishedAt": "2026-10-18T18:45:37Z",
-    "author": "Tony Adame"
-  },
-  {
-    "source": "Livemint",
-    "title": "SKY is the limit! Suryakumar Yadav's ultra-luxury Dubai real estate investment: Inside SRK-branded Danube elite home",
-    "description": "Indian cricketer Suryakumar Yadav has announced an investment in Shahrukhz Residences by Danube, a waterfront residential project in Dubai Maritime City.&nbsp;",
-    "url": "https://www.livemint.com/industry/infrastructure/sky-is-the-limit-suryakumar-yadavs-ultra-luxury-dubai-real-estate-investment-inside-srk-branded-danube-elite-home-11792343322520.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/MixCollage-18-Oct-2026-10-42-PM-6516_1792343561060_9nbR_1792343572427_uK26_efb40676-be90-4ffb-87ba-8734473a6a11_ClBH.jpg",
-    "publishedAt": "2026-10-18T18:05:42Z",
-    "author": "Anjali Thakur"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Pakistan wins the first match of the tri-nation ODI cricket series, defeating Sri Lanka.",
-    "description": "In the opening match of the 2026/27 Pakistan Tri-Nation ODI Cricket series, the host Pakistan team managed to record a thrilling 37-run victory over Sri Lanka yesterday (18). In this day-night match played at the Rawalpindi Cricket Stadium, the Sri Lankan tea…",
-    "url": "https://english.gossiplankanews.com/2026/10/pakistan-wins-first-match-of-tri-nation.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vTpNzc8AgOh2U1wEgCgOx_WfJJhMP0kVhfDaEPZ6hPmwM1fIzLHrQoVA_24Mx3r6jvQBu1nT1JAAPwuD6sHrcNjVrEPueuVUo2FMKyPNkbynhEVfV6SvLRNT9WAL74XuQW0SxbwhWXO9qKxACecl16W28okaPyyLoInQ=w1600",
-    "publishedAt": "2026-10-18T17:45:34Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Minnesotasportsfan.com",
-    "title": "Former MN Vikings Pro Bowler Arrested for Domestic Assault",
-    "description": "Minnesota Vikings first-round Cordarrelle Patterson was booked into a Tennessee jail on Saturday. Here's why, along with everything we know so far.",
-    "url": "https://www.minnesotasportsfan.com/minnesota-vikings/cordarrelle-patterson-arrested-domestic-assault-tennessee/",
-    "image": "https://s.yimg.com/lo/mysterio/api/7b4eee40598a19649e15a01583379dfe85202584912b89cbbe347281ee53e2f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fminnesota_sports_fan_articles_367%2F1b9dedabff6f27c656cdee6084a7b796.jpg",
-    "publishedAt": "2026-10-18T16:30:12Z",
-    "author": "Eric Strack"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Catch of the Day!': Faheem Ashraf completes sensational relay catch in Rawalpindi to save debutant Saad Baig’s blushes",
-    "description": "Faheem Ashraf took a stunning relay catch after debutant keeper Saad Baig spilled the ball, breaking Sri Lanka's opening stand in the Pakistan ODI Tri-Series...",
-    "url": "https://www.cricketnews.com/en/cricket/news/faheem-ashraf-catch-rawalpindi-saad-baig-blushes/ba8c55edcfe83ba89a80b19b",
-    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
-    "publishedAt": "2026-10-18T15:38:50Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virender Sehwag on his hosting debut with Rise and Fall 2: Acting aur politics se toh main door hi hoon",
-    "description": "Virender Sehwag discusses his hosting debut with Rise and Fall 2, drawing parallels between the show’s power dynamics and cricket. The former India opener talks about preparing his son Aaryavir for praise and criticism, his reluctance to enter politics or act…",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/virender-sehwag-on-his-hosting-debut-with-rise-and-fall-2-acting-aur-politics-se-toh-main-door-hi-hoon/articleshow/135030248.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135030312,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T14:30:59Z",
-    "author": "Neha Maheshwri"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'A fearless masterclass!': Salman Ali Agha breaks Mohammad Yousuf record with a 4th ODI century vs Sri Lanka in Rawalpindi",
-    "description": "Salman Ali Agha delivered an unbeaten 82-ball hundred against Sri Lanka, rescuing Pakistan from collapse and breaking Mohammad Yousuf's historic ODI record.",
-    "url": "https://www.cricketnews.com/en/cricket/news/salman-ali-agha-mohammad-yousuf-record-odi-century-vs-sri-lanka/5a82d4a8db030dbf8e894454",
-    "image": "https://s.yimg.com/lo/mysterio/api/e70e01e3d0de5667c8579d8a6dc398dd5b9d9db72d3d15dd4dc04404001f0d3b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cab2a3f46fa007fd0d9f5a388b5f139",
-    "publishedAt": "2026-10-18T12:59:36Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rizwan gets first relief in PCB inquiry, allowed to resume domestic cricket",
-    "description": "Mohammad Rizwan has been granted approval by the Pakistan Cricket Board to rejoin domestic cricket amidst ongoing investigations into allegations of online betting, gambling, and possible leaks of dressing-room information. Previously banned, he now prepares …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-gets-first-relief-in-pcb-inquiry-allowed-to-resume-domestic-cricket/articleshow/135029145.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135029175,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T12:56:48Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
-    "description": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
-    "url": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
-    "image": "https://live-production.wcms.abc-cdn.net.au/23b337a970c0157aebe1f24390174b6f?impolicy=wcms_watermark_news&cropH=2366&cropW=4206&xPos=0&yPos=219&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-18T12:37:51Z",
-    "author": null
-  },
-  {
-    "source": "San Francisco Chronicle",
-    "title": "Mike Evans took tall task of learning 49ers offense and made it look easy",
-    "description": "The San Francisco 49ers signed Mike Evans to boost their wide receivers corps. The 6-foot-5, six-time Pro Bowler has not disappointed, becoming the go-to guy when they need a big passing play.",
-    "url": "https://www.sfchronicle.com/sports/49ers/article/mike-evans-receiver-49ers-22480398.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-    "image": "https://s.yimg.com/lo/mysterio/api/51fd4008d91050bd08ed947e85e0a7299a76d11b3b715daeaae3a3109831cb05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F50820dd743a8711c8fbf5cb325a73631.jpg",
-    "publishedAt": "2026-10-18T12:00:00Z",
-    "author": "Harrison Rich"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nahida Akter replaces Nigar Sultana as Bangladesh's new T20I captain, Sobhana Mostary named deputy",
-    "description": "Nahida Akter has officially taken the reins as the new T20I captain of the Bangladesh women's cricket team, succeeding Nigar Sultana, who has stepped down to concentrate on her game. Sobhana Mostary steps in as vice-captain, working alongside Akter. Their deb…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nahida-akter-replaces-nigar-sultana-as-bangladeshs-new-t20i-captain-sobhana-mostary-named-deputy/articleshow/135028336.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135028353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T11:51:06Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list",
-    "description": "The match against Sri Lanka was his 355th in international cricket. However, he fell short of a half-century, getting out for 45 to Pavan Rathnayake off Eshan Malinga.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-achieves-historic-milestone-joins-inzamam-and-miandad-in-elite-pakistan-list/articleshow/135027969.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135028170,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T11:42:15Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Brendan Taylor surpasses Andy Flower to become Zimbabwe’s highest ODI run-scorer",
-    "description": "In a remarkable feat, Brendan Taylor eclipsed Andy Flower as Zimbabwe's leading ODI run-scorer by scoring 81 runs during a match against Bangladesh in Abu Dhabi. This stellar performance not only played a pivotal role in Zimbabwe's 99-run victory but also sho…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/brendan-taylor-surpasses-andy-flower-to-become-zimbabwes-highest-odi-run-scorer/articleshow/135027483.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135027569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T10:54:51Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Consistency is overrated in T20s’: Former India cricketer explains fine line between form and failure",
-    "description": "\"He is never out of form. The kind of player Sanju Samson has been in the T20 format; his form fluctuates. But it is always a matter of one innings. He plays one good innings, and he is back in form.\"",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/consistency-is-overrated-in-t20s-former-india-cricketer-explains-fine-line-between-form-and-failure/articleshow/135026969.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135027057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T10:40:10Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Lifetime subscription to pressure’: Ex-India cricketer’s blunt defence of Sanju Samson",
-    "description": "Aakash Chopra has raised concerns about Sanju Samson's continued exclusion from the ODI squad. Despite impressive ODI statistics, Samson was overlooked for the New Zealand series. Chopra highlighted that multiple other wicketkeeper-batters were not selected e…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lifetime-subscription-to-pressure-ex-india-cricketers-blunt-defence-of-sanju-samson/articleshow/135026572.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135026605,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-18T09:20:52Z",
-    "author": "Pranav Shukla"
   }
 ]
 ;
