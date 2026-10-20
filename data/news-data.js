@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "‘(Rohit Sharma) wants that cup’: How new BCCI chief selector Pragyan Ojha’s appointment is good news for Indian veteran batter",
+    "description": "How new BCCI Chief Selector Pragyan Ojha's appointment provides crucial backing for veteran Rohit Sharma's 2027 ODI World Cup ambitions.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharm-cup-bcci-chief-selector-pragyan-ojha-good-news-indian-batter/f15d42f93509cc09c561e63b",
+    "image": "https://s.yimg.com/lo/mysterio/api/d1cec25d827fdb540cc77e84fbf3d1c91e4d8f8960f0d4a4461f22f216b56423/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0066fa242b740f5fb6baf7812cb7af4b",
+    "publishedAt": "2026-10-19T16:08:11Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "Young bowler Minto earns new Durham contract",
+    "description": "Promising teenage bowling all-rounder James Minto signs a two-year professional contract with Durham.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqzjxvyxv0zdo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6376/live/d0cee000-cbd4-11f1-aba9-2bb2608f11d9.jpg",
+    "publishedAt": "2026-10-19T15:53:10Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Kashmirnewsbureau.com",
+    "title": "Jehangir Lone Viral Video: Bakshi Stadium Incident Puts J&K Sports Council’s Security, Accountability Under Scanner",
+    "description": "The Red Premier League controversy raises serious questions over spectator management, field security and the responsibility of the authorities managing Kashmir’s premier sporting venue. Srinagar: A video purportedly showing local cricketer Jehangir Lone punc…",
+    "url": "https://kashmirnewsbureau.com/jehangir-lone-viral-video-bakshi-stadium-incident-puts-jk-sports-councils-security-accountability-under-scanner/",
+    "image": "https://kashmirnewsbureau.com/wp-content/uploads/2026/10/Screenshot_2026-10-19-20-54-56-780_com.facebook.katana-edit.jpg",
+    "publishedAt": "2026-10-19T15:25:26Z",
+    "author": "Online Editor"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "ICC Cricket World Cup League: Nepal defeat Oman by 10 runs",
+    "description": "KATHMANDU: Nepal secured a 10-run victory over Oman in the ICC Cricket World Cup League 2, registering their third win in the ongoing series. After winning the toss at Al Amerat Cricket Ground (Ministry Turf 1) in Oman, Nepal elected to bat and set a target o…",
+    "url": "https://english.khabarhub.com/2026/19/572646/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-Nepal-1.jpg",
+    "publishedAt": "2026-10-19T15:12:54Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Universal's Summer Cricket Tour Guide 2026/2027",
+    "description": "Universal’s Summer Cricket Guide, edited by Australian sports journalist and commentator Ken Piesse, is a yearly edition that contains your complete tour guide for the international and domestic cricket season ahead. Including insightful editorial coverage on…",
+    "url": "https://post.rlsbb.cc/universals-summer-cricket-tour-guide-2026-2027/",
+    "image": null,
+    "publishedAt": "2026-10-19T15:00:37Z",
+    "author": "saamaan1@yahoo.com (Master)"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Brits brace for heavy rain and 70mph gales as first named storm of the season set to batter UK this week",
+    "description": "A yellow weather warning for wind will come into force on Friday morning across parts of the South East, South West and Wales.",
+    "url": "https://www.dailymail.com/news/article-16220617/heavy-rain-gales-named-storm-season.html",
+    "image": "https://i.dailymail.com/1s/2026/10/19/15/111955137-0-image-a-7_1792420005600.jpg",
+    "publishedAt": "2026-10-19T14:29:48Z",
+    "author": "Joe Rossiter"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Pakistan vs. England prediction, team news, pitch report and betting tips for 2nd ODI in tri-nations series",
+    "description": "Pakistan vs. England 2nd ODI prediction, team news, Rawalpindi pitch report and betting tips for October 20.",
+    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-vs-england-2nd-odi-prediction-pitch-report-betting/e80652cad45208a588760d93",
+    "image": "https://s.yimg.com/lo/mysterio/api/0b01c3b6594417600b820b70e2a4eb7b36ed7df403abaf86d8a2d866875010df/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f413dccba7f0a4eb50a39f64e1fda51",
+    "publishedAt": "2026-10-19T13:41:42Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Chinmay Sutar hits 400 in Ranji Trophy: Full list of batters to score 400 in first-class cricket",
+    "description": "Chinmay Sutar hit an unbeaten 400 in the Ranji Trophy. Check the full list of batters to score 400 in first-class cricket, including Lara, Bradman, & Nimbalkar.",
+    "url": "https://www.cricketnews.com/en/cricket/news/full-list-batters-score-400-first-class-cricket/84f4f60341a6bc6655f9ec37",
+    "image": "https://s.yimg.com/lo/mysterio/api/3a064700e932bd3859c86cacc745489b56afa4ece573b0eb102b6ef6dafeecf2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd400696a40a3adb30aee0984698c48f7",
+    "publishedAt": "2026-10-19T13:37:32Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Activistpost.com",
+    "title": "Food Shortages In 2027? The ICC Warns That Global Food Prices Could Rise By Close To 70% – I Asked AI What Would Happen Next",
+    "description": "All over social media, people want to know if there will be food shortages in 2027. Coming into this year, the UN was warning that global hunger had reached an unprecedented level. Now we are facing a global fertilizer crisis, a global energy crisis, widespre…",
+    "url": "https://activistpost.com/food-shortages-in-2027-the-icc-warns-that-global-food-prices-could-rise-by-close-to-70-i-asked-ai-what-would-happen-next/",
+    "image": "https://activistpost.com/wp-content/uploads/2026/10/Snip20261005_1-768x768-1.jpg",
+    "publishedAt": "2026-10-19T13:00:00Z",
+    "author": "Editor"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "India's selection commitee panel members listed as Pragyan Ojha takes over as new BCCI chief selector",
+    "description": "Pragyan Ojha officially replaces Ajit Agarkar as BCCI Chief Selector. Check the complete 5-member Indian men's cricket selection committee panel and its role...",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-selection-commitee-panel-members-listed-bcci-chief-selector/13210ffbf14e0f32d5f2e875",
+    "image": "https://s.yimg.com/lo/mysterio/api/ac2c06bca56bc4b18c67b0606d963d43f6061a5259e1f5727d5a9e2a3ff978ca/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F98035f25f6c36c0d65183f582edcc549",
+    "publishedAt": "2026-10-19T12:50:12Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Pragyan Ojha succeeds Agarkar as new chief selector; Powar joins committee",
+    "description": "The five-member committee led by Ojha will now be responsible for selecting India's men's cricket teams across formats",
+    "url": "https://www.business-standard.com/cricket/news/pragyan-ojha-named-new-bcci-chief-selector-ramesh-powar-joins-committee-126101900784_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/fitandfill/1200X628/1792408916-9327.jpg",
+    "publishedAt": "2026-10-19T11:22:44Z",
+    "author": "Aditya Kaushik"
+  },
+  {
     "source": "The Times of India",
     "title": "Afghanistan vs Zimbabwe 2nd ODI match: Check live streaming, pitch report, weather forecast and playing XIs",
     "description": "Afghanistan vs Zimbabwe 2nd ODI match: Afghanistan begin their UAE ODI Tri-Series campaign against Zimbabwe, who arrive after a 99-run win over Bangladesh. Check the match time, head-to-head record, probable playing XIs, pitch report, Abu Dhabi weather foreca…",
@@ -169,105 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/4f8acd7f25fb16d7c82f9d515cd81e333fb5a8e3b659409bd13293e39cb954c5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5f0db616dc9adc0a0d30937a8487ca71.jpg",
     "publishedAt": "2026-10-19T05:28:00Z",
     "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "How one rule change is altering the face of one-day cricket",
-    "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b495/live/41953e00-c898-11f1-b0a4-81e564f1cfaa.jpg",
-    "publishedAt": "2026-10-19T05:27:56Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "ක්‍රිකට් ක්‍රීඩක ධනංජයගේ සොයුරාගේ පාතාල සබඳතා ගැන පොලිස් පරීක්ෂණ",
-    "description": "Investigations are underway regarding 37-year-old Savithra de Silva, also known as \"Rathmalana Sangu,\" who is the elder brother of Sri Lanka Test cricket captain Dhananjaya de Silva. The investigations concern several serious allegations, including organized …",
-    "url": "https://english.gossiplankanews.com/2026/10/blog-post_227.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_utECVEkCtGH7wG6JwxictSATOh2V7SMx_CYxPmwmJYyEHKuAqzxqxGTLXtDBilFd-XnHuQlbZeOoJioQa5lmy1n3RZ9FT37wCZycG8j3zVMNNV01KGIy_o_9JSf-eBQvKiPujoRdt49y3F1f6GkX_1YyhQZCqpM2B5Ae4=w1600",
-    "publishedAt": "2026-10-19T05:01:50Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Agha hits fourth ODI ton as Pakistan defeat Sri Lanka in tri-series opener",
-    "description": "Salman Ali Agha made a triumphant return to the Pakistan team with his fourth ODI century in a 37-run victory over Sri Lanka in the cricket tri-series opener on Sunday.\nAgha hit 107 off 90 balls and Pakistan scored 305 all out in 49.5 overs after Sri Lanka ca…",
-    "url": "https://www.business-standard.com/cricket/news/agha-hits-fourth-odi-ton-as-pakistan-defeat-sri-lanka-in-tri-series-opener-126101800796_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/08/thumb/fitandfill/1200X628/1749401173-6712.jpg",
-    "publishedAt": "2026-10-19T05:01:16Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "SA lose two wickets as rain washes out day one of 2nd Test vs AUS",
-    "description": "Australia bowled only 12.2 overs against South Africa on the rain-hit opening day of their second cricket Test on Sunday.\nSouth Africa was struggling at 20-2 at stumps, after the morning session at St. George's Park in Gqeberha was nearly completely lost to t…",
-    "url": "https://www.business-standard.com/cricket/news/sa-lose-two-wickets-as-rain-washes-out-day-one-of-2nd-test-vs-aus-126101800794_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/28/thumb/fitandfill/1200X628/1640675181-881.jpg",
-    "publishedAt": "2026-10-19T04:57:42Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Rizwan gets PCB clearance for domestic cricket amid ongoing investigation",
-    "description": "Rizwan has appeared before the NCCA twice for questioning, but the precise nature of the complaints being investigated by the government agency remains unclear",
-    "url": "https://www.business-standard.com/cricket/news/rizwan-gets-pcb-clearance-for-domestic-cricket-amid-ongoing-investigation-126101800445_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/31/thumb/fitandfill/1200X628/1788155111-9923.jpg",
-    "publishedAt": "2026-10-19T04:43:01Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepal face Oman in crucial League 2 clash to reclaim sixth place",
-    "description": "KATHMANDU: Nepal will take on hosts Oman today in the final match of the ongoing tri-series under the ICC Cricket World Cup League 2, with a victory crucial to its bid to regain sixth place in the standings and retain its One-Day International (ODI) status. T…",
-    "url": "https://english.khabarhub.com/2026/19/572588/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/cricket-nepal.jpg",
-    "publishedAt": "2026-10-19T03:51:58Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘No accountability’: Ex-India cricketer seeks clarity over Mohammed Shami’s continued omission",
-    "description": "Mohammed Shami's omission from India's Test lineup against New Zealand has stirred controversy and prompted questions regarding the selectors' judgment. Former cricketer Mohammad Kaif is advocating for clarity, highlighting Shami’s impressive domestic perform…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-accountability-ex-india-cricketer-seeks-clarity-over-mohammed-shamis-continued-omission/articleshow/135038646.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135038699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-19T03:24:46Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Eagles Got Rejected By 3-Time Pro Bowler Before Signing Joe Milton: Report",
-    "description": "The Philadelphia Eagles are in a really bad spot after suffering their fourth straight loss to the Carolina Panthers in Week 6, following multiple losses earlier in the week. Philly lost Jalen Hurts, who went on IR to deal with a blood clot stemming from a ca…",
-    "url": "https://heavy.com/sports/nfl/philadelphia-eagles/rejected-andy-dalton-signing-joe-milton/",
-    "image": "https://s.yimg.com/lo/mysterio/api/764148f2966a01fb93859cc305fc81c4feb5a2d531100b731e027289226da5e3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Ff26749cf061c56c66e9463b62272de88.jpg",
-    "publishedAt": "2026-10-19T03:14:56Z",
-    "author": "Anthony Miller"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I have had to change my approach’: Tilak Varma on moving down the order",
-    "description": "Tilak Varma has embraced the role of a finisher in T20I cricket, transitioning from his previous position as an opener. He recognizes the unique challenges that come with this new responsibility but remains determined to add value to the team. Although opport…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-have-had-to-change-my-approach-tilak-varma-on-moving-down-the-order/articleshow/135037476.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135037498,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-19T01:27:26Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Pakistan will wear pink jerseys in ODI tri-series against England",
-    "description": "On October 25, the Pakistan Cricket Board will honor breast cancer awareness during an ODI match. Players will don vibrant pink kits, while the England team and others show support by wearing pink ribbons. The stadium will feature pink-branded stumps and awar…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-pakistan-will-wear-pink-jerseys-in-odi-tri-series-against-england/articleshow/135037357.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135037365,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-19T01:02:37Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Colts Pro Bowler Puts Front Office on Notice After Dismal Titans Loss",
-    "description": "Following the Indianapolis Colts embarrassing 26-20 loss to the winless Tennessee Titans, fans, players and coaching staff are not in a particularly cheerful mood.\nNot only are general manager Chris Ballard and head coach Shane Steichen being called for to be…",
-    "url": "https://biztoc.com/x/8823ba299b88c1bb",
-    "image": "https://biztoc.com/cdn/8823ba299b88c1bb_s.webp",
-    "publishedAt": "2026-10-19T00:18:54Z",
-    "author": "newsweek.com"
   }
 ]
 ;
