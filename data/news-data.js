@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Big Lead",
+    "title": "Bills reunite with two-time Pro Bowler, 9-year veteran ahead of Ravens matchup",
+    "description": "The Buffalo Bills reunited with a familiar face ahead of their Week 7 matchup against the Baltimore Ravens.",
+    "url": "https://www.thebiglead.com/bills-reunite-two-time-pro-bowler-ravens-matchup/",
+    "image": "https://s.yimg.com/lo/mysterio/api/1e50fecc55ef544490b01d4b7bd4f9315b287763d93f2d6c1e550548b4030a08/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F344a0108180c6b277c87d23efab77d6e.jpg",
+    "publishedAt": "2026-10-19T20:04:56Z",
+    "author": "Miracle Dimwesh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Across oceans and borders, the spirit of home finds itself amid festivities",
+    "description": "Indian diaspora recreates Durga Puja abroad, from a Glasgow cathedral and Dutch cricket ground to Times Square and Florida campuses, blending rituals, food and community.",
+    "url": "https://timesofindia.indiatimes.com/city/pune/across-oceans-and-borders-the-spirit-of-home-finds-itself-amid-festivities/articleshow/135055452.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135055451,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-19T18:53:50Z",
+    "author": "Auhona.Roychowdhury"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "‘(Rohit Sharma) wants that cup’: How new BCCI chief selector Pragyan Ojha’s appointment is good news for Indian veteran batter",
     "description": "How new BCCI Chief Selector Pragyan Ojha's appointment provides crucial backing for veteran Rohit Sharma's 2027 ODI World Cup ambitions.",
@@ -178,96 +196,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135043734,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-19T08:11:52Z",
     "author": "Akash Wadhwa"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027: Who could become the next head coach of Mumbai Indians?",
-    "description": "While several prominent names have already been linked with the vacancy, former India head coach Rahul Dravid, Australia's Adam Gilchrist and England's Eoin Morgan are reportedly unavailable",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-who-could-become-the-next-head-coach-of-mumbai-indians-126101900433_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/resize/1200X628/1792396181-1349.jpg",
-    "publishedAt": "2026-10-19T07:50:38Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ravi Shastri urges India to use Bumrah sparingly ahead of 2027 ODI World Cup",
-    "description": "India's former coach Ravi Shastri suggests that Jasprit Bumrah should focus primarily on test cricket. He believes this will help preserve Bumrah's fitness for the upcoming one-day international World Cup. Bumrah has faced injuries, including surgery in 2023,…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ravi-shastri-urges-india-to-use-bumrah-sparingly-ahead-of-2027-odi-world-cup/articleshow/135043239.cms",
-    "image": "https://img.etimg.com/thumb/msid-135043363,width-1200,height-900,imgsize-135632,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-19T07:48:43Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "CNA",
-    "title": "Shastri urges India to use Bumrah sparingly ahead of ODI World Cup",
-    "description": "Oct 19 : India should keep Jasprit Bumrah fresh for next year's one-day international World Cup by selecting him mainly for test cricket and using the pace spearhead sparingly in other formats, former coach Ravi Shastri said.Bumrah was recalled to India's tes…",
-    "url": "https://www.channelnewsasia.com/sport/shastri-urges-india-use-bumrah-sparingly-ahead-odi-world-cup-6471266",
-    "image": "https://dam.mediacorp.sg/image/upload/s--RG08Jhya--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-19T074557Z_1_LYNXMPEM9I0LX_RTROPTP_3_CRICKET-INDIA.JPG?itok=vg3snNdF",
-    "publishedAt": "2026-10-19T07:45:57Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "When was the last time England won an ODI series in the subcontinent?",
-    "description": "With England about to face both Sri Lanka and Pakistan in the ongoing triangular series in Pakistan, here's a look at how the Three Lions performed in the subcontinent.",
-    "url": "https://www.cricketnews.com/en/cricket/news/when-was-last-time-england-won-odi-series-subcontinent/f4d7e8999e1ff5146ecd57cf",
-    "image": "https://s.yimg.com/lo/mysterio/api/23f0e15b8e390d1abdf1de66bf22b06ecbc4b9c7daf52205454b9ef512f7fb16/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F44b0ffc788a80fa2116eb03abb34e232",
-    "publishedAt": "2026-10-19T07:42:41Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Salman Ali Agha joins elite list featuring MS Dhoni, Yuvraj Singh with record ODI feat",
-    "description": "Salman Ali Agha delivered an impressive performance by scoring 107 runs from 90 balls against Sri Lanka, marking a significant milestone in the tri-series. This victory saw him break Mohammad Yousuf's record as the most prolific No. 5 centurion for Pakistan. …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/salman-ali-agha-joins-elite-list-featuring-ms-dhoni-yuvraj-singh-with-record-odi-feat/articleshow/135042074.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135042749,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-19T07:15:59Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Aussie seamer Darcie Brown cut down by back injury",
-    "description": "Darcie Brown's WBBL season is over before it begins, and the seamer's chances of featuring in Australia's T20 Women's Champions Trophy campaign is also in doubt after a back injury.",
-    "url": "https://www.abc.net.au/news/2026-10-19/darcie-brown-back-injury-ruled-out-of-wbbl/107284702",
-    "image": "https://live-production.wcms.abc-cdn.net.au/16bf5875ee5ae46c197b985605035ca9?impolicy=wcms_watermark_news&cropH=2561&cropW=4552&xPos=0&yPos=237&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-19T06:56:50Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Release Vaibhav Sooryavanshi from India squad? ‘It’s heartbreaking, but no other way,’ says ex-cricketer",
-    "description": "Aakash Chopra expressed that Vaibhav Sooryavanshi may not find a place in India's T20I squad soon. He noted the lack of available spots due to consistent performances from established top-order batters. Chopra suggested releasing Sooryavanshi for the Ranji Tr…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/drop-vaibhav-sooryavanshi-from-india-squad-its-heartbreaking-but-no-other-way-says-ex-cricketer/articleshow/135041171.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135041181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-19T06:03:43Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Babar Azam achieves historic milestone, joins Inzamam and Miandad in elite Pakistan list",
-    "description": "The match against Sri Lanka was his 355th in international cricket. However, he fell short of a half-century, getting out for 45 to Pavan Rathnayake off Eshan Malinga.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90231bb4-cc48-45b1-b977-9652a0d16614",
-    "image": null,
-    "publishedAt": "2026-10-19T06:00:00Z",
-    "author": null
-  },
-  {
-    "source": "Business Standard",
-    "title": "When will IPL 2027 players' auction take place? Here's the latest update",
-    "description": "The recently reported auction date coincides with India's scheduled ODI against Sri Lanka in Bengaluru",
-    "url": "https://www.business-standard.com/cricket/ipl/when-will-ipl-2027-players-auction-take-place-here-s-the-latest-update-126101900276_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/resize/1200X628/1792389228-9963.jpg",
-    "publishedAt": "2026-10-19T05:54:52Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "BBC News",
-    "title": "How one rule change is altering the face of one-day cricket",
-    "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6eweg47wv11o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/4f8acd7f25fb16d7c82f9d515cd81e333fb5a8e3b659409bd13293e39cb954c5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5f0db616dc9adc0a0d30937a8487ca71.jpg",
-    "publishedAt": "2026-10-19T05:28:00Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
   }
 ]
 ;
