@@ -1,6 +1,114 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "'Where are the fans?': David Warner fumes over sparse crowds in South Africa-Australia Test series",
+    "description": "David Warner is voicing alarm over the dismal attendance during the ongoing Test series between South Africa and Australia. Both teams hold the top two positions in Test cricket rankings, yet crowds have been sparse. Rain has exacerbated the situation, result…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/where-are-the-fans-david-warner-fumes-over-sparse-crowds-in-south-africa-australia-test-series/articleshow/135071963.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135072015,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-20T14:33:48Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "PRNewswire",
+    "title": "Emergency Seawalls Are Making Beaches Disappear -- and 90% of Coastal States Aren't Stopping Them",
+    "description": "SAN CLEMENTE, Calif., Oct. 20, 2026 As El Niño-fueled storms batter U.S. coasts, Surfrider Foundation's 2026 State of the Beach Report finds no state has rules strong enough to keep \"temporary\" emergency seawalls from becoming permanent, and permanently damag…",
+    "url": "https://www.prnewswire.com/news-releases/emergency-seawalls-are-making-beaches-disappear--and-90-of-coastal-states-arent-stopping-them-302913947.html",
+    "image": "https://mmx.prnewswire.com/media/MS2016755/Surfrider-Foundation-Beach-Report-Image.jpg?id=OA3028383&p=facebook",
+    "publishedAt": "2026-10-20T14:13:00Z",
+    "author": null
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "DRS to be used in all NPL matches; schedule revised",
+    "description": "KATHMANDU: The Decision Review System (DRS) will be used in all matches of the third edition of the Nepal Premier League (NPL) 2026. The Cricket Association of Nepal (CAN) announced the decision in a press statement today, confirming that the technology will …",
+    "url": "https://english.khabarhub.com/2026/20/572716/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2025/11/NPL-2025.jpg",
+    "publishedAt": "2026-10-20T14:09:47Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Afghanistan vs. Bangladesh prediction, team news, pitch report and betting tips for 3rd ODI",
+    "description": "Get our Afghanistan vs. Bangladesh prediction, probable XIs, pitch report and betting tips for the Tri-Series ODI.",
+    "url": "https://www.sportingnews.com/in/cricket/news/afghanistan-bangladesh-3rd-odi-prediction-pitch-report-betting/f8241f1354600aa36ff4f729",
+    "image": "https://s.yimg.com/lo/mysterio/api/8478d0e2225a851872263f92f2cbc70bebc89e45c78ba71dce8da92a501c020e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdabefc57e3389305e8a2e5472263fb59",
+    "publishedAt": "2026-10-20T13:31:58Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "The Punch",
+    "title": "Reps urge FG to save Bayelsa community from erosion",
+    "description": "The House of Representatives has urged the Federal Government to tackle the devastating erosion threatening to wipe out the historic Odi Kingdom in Bayelsa\n\nRead More: https://punchng.com/reps-urge-fg-to-save-bayelsa-community-from-erosion/",
+    "url": "https://punchng.com/reps-urge-fg-to-save-bayelsa-community-from-erosion/",
+    "image": "https://punchng.com/wp-content/uploads/2026/06/house-of-reps_1782259044.webp",
+    "publishedAt": "2026-10-20T12:39:44Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Democracy Now!",
+    "title": "Nobel Peace Laureate Navi Pillay on ICC, Gaza, Rape as War Crime, Her South African Roots & Mandela",
+    "description": "We speak with the acclaimed South African human rights lawyer and international jurist Navi Pillay, who was awarded this year’s Nobel Peace Prize. Pillay has been the United Nations high commissioner for human rights and a judge at both the International Crim…",
+    "url": "https://www.democracynow.org/2026/10/20/navi_pillay",
+    "image": "https://www.democracynow.org/images/story/86/83986/full_hd/NaviPillay.jpg",
+    "publishedAt": "2026-10-20T12:17:38Z",
+    "author": "webdev@democracynow.org (Democracy Now!)"
+  },
+  {
+    "source": "BBC News",
+    "title": "Pakistan rally to post 302-9 against England",
+    "description": "Follow live text updates, listen to BBC Radio 5 Sports Extra commentary and take our quiz as England face Pakistan as part of an ODI tri-series in Rawalpindi...",
+    "url": "https://www.bbc.com/sport/cricket/live/cwnvlmez938qt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3665af1a0d6377a0c50ab1b325153f3dead1ad943ca3e9bdd12e05f7e406ce1c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed988b078e0fbf294f3dc709196d0199.jpg",
+    "publishedAt": "2026-10-20T12:09:28Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nandani Sharma and Kranti Gaud climb ICC Women's T20 Rankings after series against Zimbabwe",
+    "description": "Nandani Sharma and Kranti Gaud have improved their rankings following the T20 series against Zimbabwe. Nandani rose to 45th place after taking three wickets in two matches, achieving 507 rating points. Kranti also climbed to 43rd after a solid performance in …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nandani-sharma-and-kranti-gaud-climb-icc-womens-t20-rankings-after-series-against-zimbabwe/articleshow/135068073.cms",
+    "image": "https://img.etimg.com/thumb/msid-135068150,width-1200,height-900,imgsize-166378,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-20T10:50:24Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Bavuma's and Jansen’s 106-run stand sparks South Africa fightback vs Australia",
+    "description": "GQEBERHA, South Africa (AP) — Temba Bavuma's and Marco Jansen's unbeaten century partnership breathed life into South Africa's fightback against Australia on the third morning of the second cricket test on Tuesday.South Africa, wobbling at 97-5 overnight then…",
+    "url": "https://sports.yahoo.com/articles/bavumas-jansen-106-run-stand-103800137.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8e58faa8e4d69cade4537538737d749b2af581b8073b770ef60baf144f1a1bf3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9b47ce322e845a8b3652d22ea2ba613a.jpg",
+    "publishedAt": "2026-10-20T10:38:00Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Has India ever won a T20I series in New Zealand? IND vs NZ full head-to-head record, series results in T20 cricket listed",
+    "description": "With India about to start their month-long tour of New Zealand with a five-match T20I series, here's a look at the best to head record between the two teams",
+    "url": "https://www.cricketnews.com/en/cricket/news/has-india-ever-won-t20i-series-new-zealand-ind-vs-nz-head-head/65386a3f99555f15f205a393",
+    "image": "https://s.yimg.com/lo/mysterio/api/37a7b71c77464edd6f3e64fe1222f3accbbbd36c85e6f65bd5f67c2216996f5d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbe63176434216f821daef5ff9cd34ab8",
+    "publishedAt": "2026-10-20T10:30:28Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Storm Austen to bring October half-term washout: First named storm of the season to batter drought-hit England with 70mph winds and heavy rain",
+    "description": "Storm Austen - officially named by the Met Office on Tuesday morning - is forecast to hit on Thursday night and will bring 'strong winds and heavy rain'.",
+    "url": "https://www.dailymail.com/news/article-16222957/Storm-Austen-bring-October-half-term-washout-named-storm-season-batter-drought-hit-England-70mph-winds-heavy-rain.html",
+    "image": "https://i.dailymail.com/1s/2026/10/20/11/111973569-0-image-m-16_1792491068021.jpg",
+    "publishedAt": "2026-10-20T10:17:36Z",
+    "author": "Gethin Hicks"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "PAK vs ENG 2nd ODI Tri-series 2026 live scorecard, toss winner, winning probability, result and highlights from Rawalpindi",
+    "description": "Here's the live updates from Pakistan vs England 2nd ODI of the 2026 Tri -Series alongside the winning probability.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pak-vs-eng-2nd-odi-tri-series-2026-scorecard-result-highlights/1c2d3542e6e2381657b7d682",
+    "image": "https://s.yimg.com/lo/mysterio/api/0c8a7143cc75a3ba617765cbd784f6e58987b2d9e659dbe198a6a0a1580e82b2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F41796de2f2a60d35a1d551630c269147",
+    "publishedAt": "2026-10-20T10:15:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
     "title": "ICC T20I Rankings: Shree Charani, Deepti Sharma dominate as Nandani Sharma, Kranti Gaud make gains",
     "description": "Team India continues to shine in the ICC Women's T20I Bowling Rankings, led by the exceptional performances of Shree Charani and Deepti Sharma. With Nandani Sharma and Kranti Gaud climbing the rankings, the Indian women's team has established a commanding 2-0…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-t20i-rankings-shree-charani-deepti-sharma-dominate-as-nandani-sharma-kranti-gaud-make-gains/articleshow/135067024.cms",
@@ -160,78 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135063668,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-20T07:13:24Z",
     "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Explained: What is BCCI-CA Umpire exchange programme as Australian umpire set to officiate Ranji Trophy matches",
-    "description": "With BCCI and CA about to embark on an official exchange officer, here's everything there is to know about the new venture",
-    "url": "https://www.cricketnews.com/en/cricket/news/bcci-ca-umpire-exchange-programme-australian-umpire-ranji-trophy/55bf3f85b7cb9b28e718f76c",
-    "image": "https://s.yimg.com/lo/mysterio/api/3e5ad3d9dda2d6073a34c92e0bb8872688b50af1908f2967835a7c498234d373/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F28df59c28e91a4b145e366cf72fdd649",
-    "publishedAt": "2026-10-20T07:03:28Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "New Zealand study Vaibhav Sooryavanshi ahead of T20 series, expect home conditions to test teen",
-    "description": "New Zealand is preparing for a challenge posed by India's young sensation Vaibhav Sooryavanshi in the T20 series. The series begins in Christchurch and follows Sooryavanshi's impressive performances in the IPL and with the Indian national team. Jacob Duffy hi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/new-zealand-study-vaibhav-sooryavanshi-ahead-of-t20-series-expect-home-conditions-to-test-teen/articleshow/135063301.cms",
-    "image": "https://img.etimg.com/thumb/msid-135063300,width-1200,height-900,imgsize-123948,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-20T06:59:39Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "49ers Get Concerning Mike Evans Injury Update Amid Achilles Fears",
-    "description": "The San Francisco 49ers wouldn’t have won Monday’s Week 6 matchup against the Washington Commanders without star wide receiver Mike Evans.The six-time Pro Bowler caught three passes for 94 yards and was quarterback Brock Purdy’s clear go-to target when the of…",
-    "url": "https://heavy.com/sports/nfl/san-francisco-49ers/49ers-mike-evan-achilles-injury-update/",
-    "image": "https://s.yimg.com/lo/mysterio/api/a6c30a077cf13a20a86abd069936bc36831af92b671a31de2efe9fbde7c60764/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F5d1e263f1f687262f64b245546998f0b.jpg",
-    "publishedAt": "2026-10-20T06:48:01Z",
-    "author": "Michael Gallagher"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'I want to play every Test': Scott Boland sends out message to Australian selectors after scalping 4 wickets in rain-affected 2nd match vs South Africa",
-    "description": "After scalping four wickets in the first innings of the second Test against South Africa, Aussie bowler Scott Boland makes it clear that he wants to play every Test match for Australia.",
-    "url": "https://www.cricketnews.com/en/cricket/news/scott-boland-message-australian-selectors-4-wickets-south-africa/129c6603cef9504f7636666e",
-    "image": "https://s.yimg.com/lo/mysterio/api/37e83db74b55afe80db672045673df865282d97a97fa80d86f5a0071b0448b8d/lightyear_networkapi/resizefill_w1023_h575%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F996797ece5056aa203e81f3faecd0b1d",
-    "publishedAt": "2026-10-20T05:44:44Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Who is Ben Treloar? Australian umpire set to officiate in Ranji Trophy",
-    "description": "Australian umpire Ben Treloar will officiate in two Ranji Trophy matches in India, while Indian umpire Parashar Joshi will travel to Australia to officiate in two Sheffield Shield matches and one One Day Cup game as part of the CA-BCCI Umpire Exchange Program.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-is-ben-treloar-australian-umpire-set-to-officiate-in-ranji-trophy/articleshow/135061606.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135061655,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-20T04:49:51Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Scary, miles faster': AB de Villiers, Jos Buttler picks Shoaib Akhtar over Jasprit Bumrah as better fast bowler",
-    "description": "Shoaib Akhtar continues to impress cricketers long after his retirement as AB De Villiers and Jos Buttler both remembered just how terrifying the Rawalpindi Express was in his heydey.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ab-de-villiers-buttler-shoaib-akhtar-over-bumrah-better-fast-bowler/0b960b1f47037db5872ab174",
-    "image": "https://s.yimg.com/lo/mysterio/api/6d1acf418faa8935f600b321bb07f1626848d86a8a49de7df907142a15924b00/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F32f940f9ee2b5970378c18717166ae10",
-    "publishedAt": "2026-10-20T04:03:04Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Give Sooryavanshi harsh truth’: Ex-cricketer explains Gambhir, management’s approach",
-    "description": "Vaibhav Sooryavanshi, a talented 15-year-old cricketer, is still waiting for his big break in the Indian senior team. Despite his impressive glimpses, established players like Sanju Samson and Abhishek Sharma keep taking the spots. Former spinner Murali Karti…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/give-vaibhav-sooryavanshi-harsh-truth-ex-india-cricketer-explains-gautam-gambhir-managements-approach/articleshow/135060567.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135060734,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-20T03:43:35Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gary Kirsten, who coached India to 2011 World Cup win, praises Pakistan's beauty after Margalla Hills visit in Islamabad",
-    "description": "Gary Kirsten, who coached India to the 2011 Cricket World Cup title, praised Pakistan's natural beauty after cycling through Islamabad's Margalla Hills. The Sri Lanka head coach also expressed interest in exploring Pakistan's northern regions.",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/gary-kirsten-who-coached-india-to-2011-world-cup-win-praises-pakistans-beauty-after-margalla-hills-visit-in-islamabad/articleshow/135060470.cms",
-    "image": "https://img.etimg.com/thumb/msid-135060557,width-1200,height-900,imgsize-149805,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-20T03:24:31Z",
-    "author": "Trending Desk"
   }
 ]
 ;
