@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "Revealed: How Lord's is taking drastic action to sort pitch problems for 2027 Ashes Test after 'unsatisfactory' surface against New Zealand",
+    "description": "LAWRENCE BOOTH: The groundstaff had only clear 10 days before the first Test against New Zealand in June, when a surface of variable bounce was rated 'unsatisfactory' by the ICC.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16224341/How-Lords-taking-drastic-action-sort-pitch-problems-2027-Ashes-Test-unsatisfactory-surface-against-New-Zealand.html",
+    "image": "https://i.dailymail.com/1s/2026/10/20/19/111984125-0-image-m-15_1792520516220.jpg",
+    "publishedAt": "2026-10-20T21:01:50Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Panthers rookie Will Lee III trash-talks Eagles WR DeVonta Smith, competing like future CB1",
+    "description": "Since replacing injured Pro Bowler Jaycee Horn, Carolina's 2026 fourth-round pick is outperforming his draft status.",
+    "url": "https://www.sportingnews.com/us/nfl/carolina-panthers/news/panthers-will-lee-iii-trash-talks-devonta-smith-future-cb1/53fb2183099cfeb9279d70e5",
+    "image": "https://s.yimg.com/lo/mysterio/api/e27c422439babfe006045a3f1c1945ccd31d82b6f854ba58093077a9ea106c50/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F564cd28f38715898a7be8f5e54673754",
+    "publishedAt": "2026-10-20T20:49:14Z",
+    "author": "Jeff Hawkins"
+  },
+  {
+    "source": "CNA",
+    "title": "Lyon omission in the spotlight as Australia seamers endure tough day",
+    "description": "Oct 20 : Australia quick Mitchell Starc claimed his 450th test wicket on Tuesday but South Africa's lower order exposed the tourists' decision to omit spinner Nathan Lyon on day three of the second test.Starc became only the 10th bowler to reach the milestone…",
+    "url": "https://www.channelnewsasia.com/sport/lyon-omission-in-spotlight-australia-seamers-endure-tough-day-6476741",
+    "image": "https://dam.mediacorp.sg/image/upload/s--N_wsr9hO--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T201209Z_1_LYNXMPEM9J1R9_RTROPTP_3_CRICKET-ASHES.JPG?itok=kKoHp2Va",
+    "publishedAt": "2026-10-20T20:12:09Z",
+    "author": null
+  },
+  {
     "source": "Dealcatcher.com",
     "title": "Amazon - Dreame Nova IPL Hair Removal Device with 27J Dual-Lamp Output and Sapphire ICE Cooling $129.99",
     "description": "How to Get This Deal\n\n- Add the device to your cart.\n- Go to checkout.\n- Enter coupon code XKPCZAKH in the promo code field.\n- Confirm the reduced price appears",
@@ -124,33 +151,6 @@ window.cricketNews = [
     "image": "https://mmx.prnewswire.com/media/MS2016755/Surfrider-Foundation-Beach-Report-Image.jpg?id=OA3028383&p=facebook",
     "publishedAt": "2026-10-20T14:13:00Z",
     "author": null
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "DRS to be used in all NPL matches; schedule revised",
-    "description": "KATHMANDU: The Decision Review System (DRS) will be used in all matches of the third edition of the Nepal Premier League (NPL) 2026. The Cricket Association of Nepal (CAN) announced the decision in a press statement today, confirming that the technology will …",
-    "url": "https://english.khabarhub.com/2026/20/572716/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2025/11/NPL-2025.jpg",
-    "publishedAt": "2026-10-20T14:09:47Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Afghanistan vs. Bangladesh prediction, team news, pitch report and betting tips for 3rd ODI",
-    "description": "Get our Afghanistan vs. Bangladesh prediction, probable XIs, pitch report and betting tips for the Tri-Series ODI.",
-    "url": "https://www.sportingnews.com/in/cricket/news/afghanistan-bangladesh-3rd-odi-prediction-pitch-report-betting/f8241f1354600aa36ff4f729",
-    "image": "https://s.yimg.com/lo/mysterio/api/8478d0e2225a851872263f92f2cbc70bebc89e45c78ba71dce8da92a501c020e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdabefc57e3389305e8a2e5472263fb59",
-    "publishedAt": "2026-10-20T13:31:58Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "The Punch",
-    "title": "Reps urge FG to save Bayelsa community from erosion",
-    "description": "The House of Representatives has urged the Federal Government to tackle the devastating erosion threatening to wipe out the historic Odi Kingdom in Bayelsa\n\nRead More: https://punchng.com/reps-urge-fg-to-save-bayelsa-community-from-erosion/",
-    "url": "https://punchng.com/reps-urge-fg-to-save-bayelsa-community-from-erosion/",
-    "image": "https://punchng.com/wp-content/uploads/2026/06/house-of-reps_1782259044.webp",
-    "publishedAt": "2026-10-20T12:39:44Z",
-    "author": "Punch Newspapers"
   }
 ]
 ;
