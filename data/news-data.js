@@ -1,5 +1,194 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "England legend Sir James Anderson RETIRES from cricket at 44... after Lancashire tell him they will not give him a new contract for next summer",
+    "description": "Jimmy Anderson's long career is finally at an end after Lancashire declined to offer him a new contract for the 2027 season, when he will turn 45.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16227211/England-legend-Sir-James-Anderson-RETIRE-cricket-44-Lancashire-tell-not-new-contract-summer.html",
+    "image": "https://i.dailymail.com/1s/2026/10/21/15/112002905-0-image-m-21_1792594356128.jpg",
+    "publishedAt": "2026-10-21T14:57:01Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "ICC grants List A T20 Status to all NPL matches",
+    "description": "KATHMANDU: All matches of the third edition of the Nepal Premier League (NPL) have been granted official List A T20 status by the International Cricket Council (ICC), marking a significant milestone for domestic cricket in Nepal. The Cricket Association of Ne…",
+    "url": "https://english.khabarhub.com/2026/21/572780/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2024/08/NPL.jpg",
+    "publishedAt": "2026-10-21T14:56:04Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "BBC News",
+    "title": "Lord Botham 'proud' of leukaemia fundraising walks",
+    "description": "The all-rounder cricket player raised more than £12m for leukaemia research from several challenges.",
+    "url": "https://www.bbc.com/news/articles/cmx28yk77659o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/76134a549ee1a0f7053b5ef6ce3b611d3eda6c7f4fef99de89fdc04f52eb67db/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F18e5b09716c9722d15b26dc3219ac24a.jpg",
+    "publishedAt": "2026-10-21T14:39:30Z",
+    "author": "Dan Ayers - Somerset"
+  },
+  {
+    "source": "Sun Sentinel",
+    "title": "Dolphins-Jets predictions: Will Miami finally get its first win?",
+    "description": "Dolphins (0-5) at Jets (2-4): Sunday, 1, CBS Line: Jets are favored by 4 1/2 points Chris Perkins, Dolphins Columnist (Season record: 5-0): Jets 20, Dolphins 17 I kinda, sorta think the Dolphins will win this one. But to mix metaphors, I’m like a batter with …",
+    "url": "https://www.sun-sentinel.com/2026/10/21/dolphins-jets-predictions-will-miami-finally-get-its-first-win/",
+    "image": null,
+    "publishedAt": "2026-10-21T14:34:00Z",
+    "author": "Keven Lerner, South Florida Sun-Sentinel"
+  },
+  {
+    "source": "BBC News",
+    "title": "Lord Botham 'proud' of leukaemia fundraising walks",
+    "description": "The all-rounder cricket player raised more than £12m for leukaemia research from several challenges.",
+    "url": "https://www.bbc.co.uk/news/articles/cmx28yk77659o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77f7/live/106c9bb0-cd35-11f1-935f-b9c228680c6f.jpg",
+    "publishedAt": "2026-10-21T14:30:56Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan Cricket Board declines permission to over-50s team for playing in India",
+    "description": "Pakistan won the last edition of the tournament held in Sri Lanka last year, but this time the board has informed the Pakistan Veterans Cricket Association that they are not permitted to travel and play in India.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-cricket-board-declines-permission-to-over-50s-team-for-playing-in-india/articleshow/135093464.cms",
+    "image": "https://img.etimg.com/thumb/msid-135093484,width-1200,height-900,imgsize-1356081,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T13:18:08Z",
+    "author": "PTI"
+  },
+  {
+    "source": "BBC News",
+    "title": "Essex sign wicketkeeper Bell from Lancashire",
+    "description": "Essex sign wicketkeeper George Bell from Lancashire on a permanent deal after a productive loan spell last season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6pwgvrl47lzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e02a049f05ca66fb514dc5f6f84a461d551746859ebaf13eeabac0d4dff61b41/lightyear_networkapi/resizefill_w755_h425%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdcd23460dd8d44dec0321e38f4301629.jpg",
+    "publishedAt": "2026-10-21T12:36:24Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Essex sign wicketkeeper Bell from Lancashire",
+    "description": "Essex sign wicketkeeper George Bell from Lancashire on a permanent deal after a productive loan spell last season.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6pwgvrl47lzo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/774b/live/7ce03090-cd49-11f1-8177-0f8bd59b54c4.jpg",
+    "publishedAt": "2026-10-21T12:36:19Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Steve Smith joins Ponting, Border in elite Aus club, fifth-fastest to 11K Test runs",
+    "description": "Steve Smith reached 11,000 runs in Test cricket during the second Test against South Africa. He scored 28 runs off 88 balls before being dismissed by Wiaan Mulder at St George's Park. Smith is now the third Australian and the 12th player overall to achieve th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-joins-ricky-ponting-allan-border-in-elite-australian-club-fifth-fastest-to-11k-test-runs/articleshow/135092159.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135092436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T12:23:23Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Morning Brief Podcast: Cricket & Corporate Leadership",
+    "description": "What does it take to lead when the stakes are high and everyone's watching? In this episode, Vikas Dandekar sits down with Sanjiv Navangul, MD & CEO of Bharat Serums and Vaccines, and cricketer Ajinkya Rahane — two leaders from opposite ends of the arena, wit…",
+    "url": "https://economictimes.indiatimes.com/news/videos/morning-brief-podcast-cricket-corporate-leadership/podcast/129991983.cms",
+    "image": "https://img.etimg.com/thumb/msid-129991983,width-1200,height-900,resizemode-4,imgsize-/news/videos/morning-brief-podcast-cricket-corporate-leadership.jpg",
+    "publishedAt": "2026-10-21T12:12:36Z",
+    "author": "Economic Times"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ynarmers’ forum puts 10 Tungabhadra demands before ICC",
+    "description": "Young Farmers Forum Karnataka submits 10 demands to Tungabhadra Project ICC, seeking transparent dam records, capacity survey, irrigation planning, and Hosapete meetings.",
+    "url": "https://timesofindia.indiatimes.com/city/hubballi/ynarmers-forum-puts-10-tungabhadra-demands-before-icc/articleshow/135091888.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-21T12:01:19Z",
+    "author": "Chamaraj Savadi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'The OG Tiger': Delhi Capitals appoint former India spinner as spin bowling coach ahead of IPL 2027",
+    "description": "Delhi Capitals (DC) have appointed former India spinner Amit Mishra as their spin bowling coach ahead of the Indian Premier League (IPL) 2027 season.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-og-tiger-delhi-capitals-appoint-former-india-spinner-as-spin-bowling-coach-ahead-of-ipl-2027/articleshow/135091004.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135091060,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T11:46:24Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "BBC News",
+    "title": "Overton would consider Ashes return if Root asks",
+    "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cj62y0l5ed1vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e7f83a7a39ec03b1f940924f67bd6b457eafc4db92c5f42ab69caaf454137175/lightyear_networkapi/resizefill_w1006_h566%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F24739f7d647a5939dbe1eb51e0be9a90.jpg",
+    "publishedAt": "2026-10-21T11:46:21Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "Overton would consider Ashes return if Root asks",
+    "description": "England all-rounder Jamie Overton would consider returning to play Test cricket for next year’s Ashes if approached by captain Joe Root.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj62y0l5ed1vo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1df/live/e39f9210-cd41-11f1-ad2d-43fff3ff842f.jpg",
+    "publishedAt": "2026-10-21T11:46:17Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Afghanistan vs Bangladesh, tri-series ODI Live Score",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/afghanistan-vs-bangladesh-third-odi-tri-series-live-score-sharjah-najmul-hossain-shanto-rahmanullah-gurbaz/liveblog/135091610.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135091610,width-1280,height-720,imgsize-137662,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T11:45:07Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "BBC News",
+    "title": "Middlesex sign Hampshire batter Orr",
+    "description": "Middlesex sign top-order batter Ali Orr on a three-year deal, after his contract at Hampshire expired.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmx23d77z5n7o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/266b/live/4e28d000-cd3e-11f1-8177-0f8bd59b54c4.jpg",
+    "publishedAt": "2026-10-21T11:12:52Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Bhuvneshwar's experience will strengthen India's T20I bowling unit: Iyer",
+    "description": "India T20 captain Shreyas Iyer on Wednesday said the team's bowling attack had been lacking experience in recent past and veteran pacer Bhuvneshwar Kumar's return would help address this issue.\nThe 36-year-old Bhuvneshwar has returned to the Indian T20I set-u…",
+    "url": "https://www.business-standard.com/cricket/news/bhuvneshwar-s-experience-will-strengthen-india-s-t20i-bowling-unit-iyer-126102100285_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791347972-4277.jpg",
+    "publishedAt": "2026-10-21T10:45:40Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Santner wary of Sooryavanshi, expects Bhuvneshwar to enjoy NZ conditions",
+    "description": "New Zealand captain Mitchell Santner conceded that Vaibhav Sooryavanshi would be \"quite hard to stop\" if he plays for India in the five-match T20 International series beginning here on Thursday, but his team has some plans to deal with the young batting sensa…",
+    "url": "https://www.business-standard.com/cricket/news/santner-wary-of-sooryavanshi-expects-bhuvneshwar-to-enjoy-nz-conditions-126102100336_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/21/thumb/fitandfill/1200X628/1768974483-8379.jpg",
+    "publishedAt": "2026-10-21T10:41:16Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "BBC News",
+    "title": "Tribe aims to help Jersey despite England ambitions",
+    "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cqx2vpyxp4pvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/9b674bee62894743cb21d413eca53d66ffb7a4e2e6a76b8abeab9632e2d9989f/lightyear_networkapi/resizefill_w984_h554%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8a34920d55c557206669a95e2e4e638b.jpg",
+    "publishedAt": "2026-10-21T10:33:11Z",
+    "author": "Brent Pilnick - BBC Sport; Danny Parkinson - BBC Channel Islands"
+  },
+  {
+    "source": "BBC News",
+    "title": "Tribe aims to help Jersey despite England ambitions",
+    "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3894/live/5c260680-cd36-11f1-935f-b9c228680c6f.jpg",
+    "publishedAt": "2026-10-21T10:33:07Z",
+    "author": "Brent Pilnick, Danny Parkinson"
+  },
+  {
+    "source": "BBC News",
+    "title": "Storm Austen to batter Wales coast with 70mph winds",
+    "description": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
+    "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc86/live/e646fa70-cd38-11f1-935f-b9c228680c6f.jpg",
+    "publishedAt": "2026-10-21T10:10:40Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
     "source": "Business Standard",
     "title": "India vs New Zealand T20Is: Which team leads the head-to-head record?",
     "description": "The two teams share an interesting rivalry in the shortest format of cricket, which began in 2007, with the Indian side waiting 10 years before securing their first-ever T20I win over New Zealand",
@@ -79,159 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135084465,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-21T06:38:08Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "New Zealand captain acknowledges potential of Vaibhav Sooryavanshi in T20 series against India",
-    "description": "Mitchell Santner expects Vaibhav Sooryavanshi to be a threat during the T20 series if he were to play for India. He believes his team has prepared strategies to address Sooryavanshi's aggressive playing style if he participates. Santner is also looking forwar…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/new-zealand-captain-acknowledges-potential-of-vaibhav-sooryavanshi-in-t20-series-against-india/articleshow/135083952.cms",
-    "image": "https://img.etimg.com/thumb/msid-135084298,width-1200,height-900,imgsize-100996,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-21T06:30:35Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We were lacking that': Shreyas Iyer makes big admission as Bhuvneshwar Kumar returns",
-    "description": "Shreyas Iyer is thrilled about Bhuvneshwar Kumar's impending return to the T20I squad. Bhuvneshwar's impressive performances in the IPL have not gone unnoticed, showcasing his revival. His seasoned presence adds vital experience to a bowling lineup featuring …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-were-lacking-that-shreyas-iyer-makes-big-admission-as-bhuvneshwar-kumar-returns/articleshow/135083585.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135084039,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-21T06:25:41Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "New Zealand vs India 1st T20I: Playing 11, live toss time (IST), streaming",
-    "description": "The first T20I match between New Zealand and India in Christchurch will be their first clash in the shortest format of cricket since playing the final of the 2026 ICC T20 World Cup",
-    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-1st-t20i-playing-11-live-toss-time-ist-streaming-126102100388_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792563783-9541.jpg",
-    "publishedAt": "2026-10-21T06:24:55Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ Series 2026 Schedule: Full time table of ODIs, T20 and Test, squads, live streaming, venues and players to watch",
-    "description": "India vs New Zealand Series 2026 begins on October 22 and features five T20Is, five ODIs and two Test matches. Shreyas Iyer will captin the T20 squad while Shubman Gill leads in ODIs and Tests. Check the complete schedule, match timings, venues, India and New…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/ind-vs-nz-series-2026-schedule-full-time-table-of-odis-t20-and-test-squads-live-streaming-venues-and-players-to-watch/articleshow/135083836.cms",
-    "image": "https://img.etimg.com/thumb/msid-135083967,width-1200,height-900,imgsize-140300,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-21T06:16:32Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer says Vaibhav Sooryavanshi must wait as India openers deliver",
-    "description": "India's T20 captain Shreyas Iyer has expressed confidence in young player Vaibhav Sooryavanshi's future prospects. Iyer emphasized that established openers Abhishek Sharma and Sanju Samson are currently performing consistently in matches. Sooryavanshi has par…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shreyas-iyer-says-vaibhav-sooryavanshi-must-wait-as-india-openers-deliver/articleshow/135083338.cms",
-    "image": "https://img.etimg.com/thumb/msid-135083350,width-1200,height-900,imgsize-123948,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-21T05:46:01Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Minhas' all-round brilliance powers Pakistan past England in ODI tri-series",
-    "description": "All-rounder Arafat Minhas spearheaded Pakistan's 87-run victory over England with a half century and a six-wicket haul as the home team notched its second successive win in the ODI cricket tri-series on Tuesday.\nThe 21-year-old left-hander Minhas helped Pakis…",
-    "url": "https://www.business-standard.com/cricket/news/minhas-all-round-brilliance-powers-pakistan-past-england-in-odi-tri-series-126102000918_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792560790-5176.jpg",
-    "publishedAt": "2026-10-21T05:33:53Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Skipper Bavuma's 179 puts South Africa on top against Australia in 2nd Test",
-    "description": "Skipper Temba Bavuma struck a test-best 179 to help South Africa recover from 110-6 to post an imposing 425-9 declared on Day 3 of the second cricket test against Australia on Tuesday.\nBavuma came out to bat on the opening day with the Proteas 12-2 and then s…",
-    "url": "https://www.business-standard.com/cricket/news/skipper-bavuma-s-179-puts-south-africa-on-top-against-australia-in-2nd-test-126102000919_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/10/thumb/fitandfill/1200X628/1749555523-4451.jpg",
-    "publishedAt": "2026-10-21T05:29:11Z",
-    "author": "AP"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Iyer backs Sanju and Abhishek as openers, says Sooryavanshi must wait",
-    "description": "India T20 captain Shreyas Iyer on Wednesday said young batting sensation Vaibhav Sooryavanshi cannot \"walk\" into the playing eleven just yet as Abhishek Sharma and Sanju Samson are scoring consistently at the top, insisting that the teenager will get his chan…",
-    "url": "https://www.business-standard.com/cricket/news/iyer-backs-sanju-and-abhishek-as-openers-says-sooryavanshi-must-wait-126102100189_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/15/thumb/fitandfill/1200X628/1789466328-2831.jpg",
-    "publishedAt": "2026-10-21T04:57:09Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Vikings Trade Pitch Succeeds Jones, Mason With $44 Million Pro Bowler",
-    "description": "The Minnesota Vikings may be just one trade away from becoming a Super Bowl favorite in the NFC. The post Vikings Trade Pitch Succeeds Jones, Mason With $44 Million Pro Bowler appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/minnesota-vikings/jonathan-taylor-trade-colts-aaron-jones-jordan-mason-2/",
-    "image": "https://s.yimg.com/lo/mysterio/api/c4106fce42021a6e2ef823afdb9d6ff5d570e93684e3cf0f1fc7ab81b28c2075/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F1c434bbbe13ba584ad140e561fa7719a.jpg",
-    "publishedAt": "2026-10-21T04:35:30Z",
-    "author": "Max Dible"
-  },
-  {
-    "source": "CNA",
-    "title": "Bowler Shami not giving up hope of India return",
-    "description": "Oct 21 : Mohammed Shami said he was determined to work his way back into the India team after the injury-plagued fast bowler was again left out of the squad for their multi-format tour of New Zealand.Shami has taken 462 international wickets in 197 matches ac…",
-    "url": "https://www.channelnewsasia.com/sport/bowler-shami-not-giving-up-hope-india-return-6477871",
-    "image": "https://dam.mediacorp.sg/image/upload/s--zB52kw3---/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T043031Z_1_LYNXMPEM9K07T_RTROPTP_3_CRICKET-IPL-SRH-LSG.JPG?itok=_BrnsbWC",
-    "publishedAt": "2026-10-21T04:30:31Z",
-    "author": null
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "New Zealand Cricket steps back from 2027 Major League Cricket franchise plans",
-    "description": "The body was due to provide high-performance and operational support to a new MLC team.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/new-zealand-cricket-steps-back-from-2027-major-league-cricket-franchise-plans/7GRRNB34XRDHBCXFMSNVLJK4EE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/C6UVFONFDRFLTLMLXC25ATT4KY.jpg?auth=cfb6714cbc22d804840a115d54895ea3d9ed5244d0237bf35468e81a829dba21&width=1200&height=675&quality=70&focal=940%2C459&smart=false",
-    "publishedAt": "2026-10-21T03:00:21Z",
-    "author": "Samuel Sherry"
-  },
-  {
-    "source": "NESN",
-    "title": "Former Five-Time Pro Bowler Calls Patriots' Drake Maye a 'Fluke'",
-    "description": "The numbers say he isn't.",
-    "url": "https://nesn.com/new-england-patriots/news/former-five-time-pro-bowler-calls-patriots-drake-maye-fluke/46d7cbdf86505b56b4cfd335",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7a2c50466048acde2cd0c1cc21e732353d5f384add285f3661c4ef2e1c24b02/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnesn_articles_905%2F39ff7f0d35a1362387cb3d40d1cbbdbf",
-    "publishedAt": "2026-10-21T02:49:44Z",
-    "author": "Jon Conahan"
-  },
-  {
-    "source": "Israelnationalnews.com",
-    "title": "ICC nominated for EU human rights prize despite US sanctions",
-    "description": "The International Criminal Court is shortlisted for the EU's Sakharov Prize despite Trump administration sanctions targeting its actions against Israel and the US.",
-    "url": "https://www.israelnationalnews.com/news/434926",
-    "image": "https://2.a7.org/files/pictures/000/1059488.jpg",
-    "publishedAt": "2026-10-21T02:38:08Z",
-    "author": "Israel National News"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Who will talk to me, and why?’: Mohammed Shami’s blunt take after India selectors overlook him",
-    "description": "Mohammed Shami is determined to fight for his place in the Indian cricket team. He insists that he remains in peak fitness and continues to focus on domestic cricket. Shami completed the previous domestic season and aims to stay prepared for future series and…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-will-talk-to-me-and-why-mohammed-shamis-blunt-take-after-india-selectors-overlook-him/articleshow/135080137.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135080148,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-21T02:31:35Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Revealed: How Lord's is taking drastic action to sort pitch problems for 2027 Ashes Test after 'unsatisfactory' surface against New Zealand",
-    "description": "LAWRENCE BOOTH: The groundstaff had only clear 10 days before the first Test against New Zealand in June, when a surface of variable bounce was rated 'unsatisfactory' by the ICC.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16224341/How-Lords-taking-drastic-action-sort-pitch-problems-2027-Ashes-Test-unsatisfactory-surface-against-New-Zealand.html",
-    "image": "https://i.dailymail.com/1s/2026/10/20/19/111984125-0-image-m-15_1792520516220.jpg",
-    "publishedAt": "2026-10-20T21:01:50Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Panthers rookie Will Lee III trash-talks Eagles WR DeVonta Smith, competing like future CB1",
-    "description": "Since replacing injured Pro Bowler Jaycee Horn, Carolina's 2026 fourth-round pick is outperforming his draft status.",
-    "url": "https://www.sportingnews.com/us/nfl/carolina-panthers/news/panthers-will-lee-iii-trash-talks-devonta-smith-future-cb1/53fb2183099cfeb9279d70e5",
-    "image": "https://s.yimg.com/lo/mysterio/api/e27c422439babfe006045a3f1c1945ccd31d82b6f854ba58093077a9ea106c50/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F564cd28f38715898a7be8f5e54673754",
-    "publishedAt": "2026-10-20T20:49:14Z",
-    "author": "Jeff Hawkins"
-  },
-  {
-    "source": "CNA",
-    "title": "Lyon omission in the spotlight as Australia seamers endure tough day",
-    "description": "Oct 20 : Australia quick Mitchell Starc claimed his 450th test wicket on Tuesday but South Africa's lower order exposed the tourists' decision to omit spinner Nathan Lyon on day three of the second test.Starc became only the 10th bowler to reach the milestone…",
-    "url": "https://www.channelnewsasia.com/sport/lyon-omission-in-spotlight-australia-seamers-endure-tough-day-6476741",
-    "image": "https://dam.mediacorp.sg/image/upload/s--N_wsr9hO--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T201209Z_1_LYNXMPEM9J1R9_RTROPTP_3_CRICKET-ASHES.JPG?itok=kKoHp2Va",
-    "publishedAt": "2026-10-20T20:12:09Z",
-    "author": null
   }
 ]
 ;
