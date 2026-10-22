@@ -1,5 +1,176 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "India vs New Zealand T20Is: Which team leads the head-to-head record?",
+    "description": "The two teams share an interesting rivalry in the shortest format of cricket, which began in 2007, with the Indian side waiting 10 years before securing their first-ever T20I win over New Zealand",
+    "url": "https://www.business-standard.com/cricket/news/india-vs-new-zealand-t20is-which-team-leads-the-head-to-head-record-126102100626_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/resize/1200X628/1792574413-3561.jpg",
+    "publishedAt": "2026-10-21T09:20:30Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shai Hope breaks into ICC T20I top 10; Rashid Khan strengthens ODI lead",
+    "description": "Shai Hope performed exceptionally in the T20I series against India, which concluded with a 2-2 draw. He significantly improved his ICC T20I ranking, moving into the top ten after scoring 261 runs. Meanwhile, Afghanistan's Sediqullah Atal and Rashid Khan achie…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shai-hope-breaks-into-icc-t20i-top-10-rashid-khan-strengthens-odi-lead/articleshow/135087733.cms",
+    "image": "https://img.etimg.com/thumb/msid-135087732,width-1200,height-900,imgsize-139208,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T09:18:19Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ishan Kishan on the verge of three major T20 records as India take on New Zealand",
+    "description": "Ishan Kishan is gearing up for an exciting five-match T20I series against New Zealand, where he stands merely seven runs shy of breaking Suryakumar Yadav's impressive record for the most T20I runs within a year. With additional matches against Sri Lanka loomi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ishan-kishan-on-the-verge-of-three-major-t20-records-as-india-take-on-new-zealand/articleshow/135085872.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135086023,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T07:50:22Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Business Standard",
+    "title": "SA20 aims to strengthen its position among the world's top T20 leagues",
+    "description": "Smith credited Cricket South Africa (CSA) with making difficult decisions in the league's early years to secure a suitable window in an already packed international cricket schedule",
+    "url": "https://www.business-standard.com/sports/business/sa20-aims-to-strengthen-its-position-among-the-world-s-top-t20-leagues-126102100507_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/resize/1200X628/1792567851-5776.jpg",
+    "publishedAt": "2026-10-21T07:41:53Z",
+    "author": "Our Bureau"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Hardik Pandya could return only in IPL 2027: Report details India all-rounder's injury timeline, set to miss SL, ZIM series",
+    "description": "Hardik Pandya could be sidelined until IPL 2027, with the India all-rounder reportedly set to miss the upcoming Sri Lanka and Zimbabwe series due to injury.",
+    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-return-ipl-2027-report-india-injury-miss-sl-zim-series/c6dc0c75194e03bb716b5fe8",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b3b2dde584264b4d738ebaac00034b9349566e2dc4654c2a321160760e7a156/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99be0a6738a4f42bba8f11bb1796a0f3",
+    "publishedAt": "2026-10-21T07:14:46Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Bhuvi will love these conditions’: Why New Zealand fear India’s returning ‘Swing King’ Bhuvneshwar Kumar",
+    "description": "New Zealand's captain, Mitchell Santner, recognises Bhuvneshwar Kumar as a significant threat for the team. With his skill to swing the ball and vast experience, he poses a unique challenge, especially in New Zealand conditions. Having not played T20I cricket…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bhuvi-will-love-these-conditions-why-new-zealand-fear-indias-returning-swing-king-bhuvneshwar-kumar/articleshow/135085133.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135085231,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T07:12:52Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Indian bowling has been lacking experience, Bhuvi brings a lot of it: Shreyas Iyer",
+    "description": "India T20 captain Shreyas Iyer said veteran pacer Bhuvneshwar Kumar's return would strengthen an inexperienced bowling attack ahead of the five-match T20I series against New Zealand. The 36-year-old returns after four years, bringing international experience …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indian-bowling-has-been-lacking-experience-bhuvi-brings-a-lot-of-it-shreyas-iyer/articleshow/135083254.cms",
+    "image": "https://img.etimg.com/thumb/msid-135084991,width-1200,height-900,imgsize-134774,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T06:59:41Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'We have plans for Vaibhav Sooryavanshi': New Zealand captain Mitchell Santner ahead of T20I series vs India",
+    "description": "New Zealand captain Mitchell Santner believes Vaibhav Sooryavanshi could be a tough batter to stop if he gets a chance in India's playing XI for the five-match T20I series. The series begins on Thursday, and Santner said his team has already worked on plans t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-have-plans-for-vaibhav-sooryavanshi-new-zealand-captain-mitchell-santner-ahead-of-t20i-series-vs-india/articleshow/135084431.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135084519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T06:49:32Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Arshdeep Singh on the verge of scripting history, set to become first Indian to achieve this feat",
+    "description": "Arshdeep Singh is just five wickets away from becoming the first Indian bowler to claim 150 wickets in T20 internationals ahead of the five-match series against New Zealand. The left-arm pacer has taken 145 wickets in 99 T20Is and is also closing in on 300 wi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-on-the-verge-of-scripting-history-set-to-become-first-indian-to-achieve-this-feat/articleshow/135084342.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135084465,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T06:38:08Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "New Zealand captain acknowledges potential of Vaibhav Sooryavanshi in T20 series against India",
+    "description": "Mitchell Santner expects Vaibhav Sooryavanshi to be a threat during the T20 series if he were to play for India. He believes his team has prepared strategies to address Sooryavanshi's aggressive playing style if he participates. Santner is also looking forwar…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/new-zealand-captain-acknowledges-potential-of-vaibhav-sooryavanshi-in-t20-series-against-india/articleshow/135083952.cms",
+    "image": "https://img.etimg.com/thumb/msid-135084298,width-1200,height-900,imgsize-100996,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T06:30:35Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'We were lacking that': Shreyas Iyer makes big admission as Bhuvneshwar Kumar returns",
+    "description": "Shreyas Iyer is thrilled about Bhuvneshwar Kumar's impending return to the T20I squad. Bhuvneshwar's impressive performances in the IPL have not gone unnoticed, showcasing his revival. His seasoned presence adds vital experience to a bowling lineup featuring …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-were-lacking-that-shreyas-iyer-makes-big-admission-as-bhuvneshwar-kumar-returns/articleshow/135083585.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135084039,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-21T06:25:41Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "New Zealand vs India 1st T20I: Playing 11, live toss time (IST), streaming",
+    "description": "The first T20I match between New Zealand and India in Christchurch will be their first clash in the shortest format of cricket since playing the final of the 2026 ICC T20 World Cup",
+    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-1st-t20i-playing-11-live-toss-time-ist-streaming-126102100388_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792563783-9541.jpg",
+    "publishedAt": "2026-10-21T06:24:55Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ Series 2026 Schedule: Full time table of ODIs, T20 and Test, squads, live streaming, venues and players to watch",
+    "description": "India vs New Zealand Series 2026 begins on October 22 and features five T20Is, five ODIs and two Test matches. Shreyas Iyer will captin the T20 squad while Shubman Gill leads in ODIs and Tests. Check the complete schedule, match timings, venues, India and New…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/ind-vs-nz-series-2026-schedule-full-time-table-of-odis-t20-and-test-squads-live-streaming-venues-and-players-to-watch/articleshow/135083836.cms",
+    "image": "https://img.etimg.com/thumb/msid-135083967,width-1200,height-900,imgsize-140300,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T06:16:32Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shreyas Iyer says Vaibhav Sooryavanshi must wait as India openers deliver",
+    "description": "India's T20 captain Shreyas Iyer has expressed confidence in young player Vaibhav Sooryavanshi's future prospects. Iyer emphasized that established openers Abhishek Sharma and Sanju Samson are currently performing consistently in matches. Sooryavanshi has par…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shreyas-iyer-says-vaibhav-sooryavanshi-must-wait-as-india-openers-deliver/articleshow/135083338.cms",
+    "image": "https://img.etimg.com/thumb/msid-135083350,width-1200,height-900,imgsize-123948,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-21T05:46:01Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Minhas' all-round brilliance powers Pakistan past England in ODI tri-series",
+    "description": "All-rounder Arafat Minhas spearheaded Pakistan's 87-run victory over England with a half century and a six-wicket haul as the home team notched its second successive win in the ODI cricket tri-series on Tuesday.\nThe 21-year-old left-hander Minhas helped Pakis…",
+    "url": "https://www.business-standard.com/cricket/news/minhas-all-round-brilliance-powers-pakistan-past-england-in-odi-tri-series-126102000918_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792560790-5176.jpg",
+    "publishedAt": "2026-10-21T05:33:53Z",
+    "author": "AP"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Skipper Bavuma's 179 puts South Africa on top against Australia in 2nd Test",
+    "description": "Skipper Temba Bavuma struck a test-best 179 to help South Africa recover from 110-6 to post an imposing 425-9 declared on Day 3 of the second cricket test against Australia on Tuesday.\nBavuma came out to bat on the opening day with the Proteas 12-2 and then s…",
+    "url": "https://www.business-standard.com/cricket/news/skipper-bavuma-s-179-puts-south-africa-on-top-against-australia-in-2nd-test-126102000919_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/10/thumb/fitandfill/1200X628/1749555523-4451.jpg",
+    "publishedAt": "2026-10-21T05:29:11Z",
+    "author": "AP"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Iyer backs Sanju and Abhishek as openers, says Sooryavanshi must wait",
+    "description": "India T20 captain Shreyas Iyer on Wednesday said young batting sensation Vaibhav Sooryavanshi cannot \"walk\" into the playing eleven just yet as Abhishek Sharma and Sanju Samson are scoring consistently at the top, insisting that the teenager will get his chan…",
+    "url": "https://www.business-standard.com/cricket/news/iyer-backs-sanju-and-abhishek-as-openers-says-sooryavanshi-must-wait-126102100189_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/15/thumb/fitandfill/1200X628/1789466328-2831.jpg",
+    "publishedAt": "2026-10-21T04:57:09Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Vikings Trade Pitch Succeeds Jones, Mason With $44 Million Pro Bowler",
+    "description": "The Minnesota Vikings may be just one trade away from becoming a Super Bowl favorite in the NFC. The post Vikings Trade Pitch Succeeds Jones, Mason With $44 Million Pro Bowler appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/minnesota-vikings/jonathan-taylor-trade-colts-aaron-jones-jordan-mason-2/",
+    "image": "https://s.yimg.com/lo/mysterio/api/c4106fce42021a6e2ef823afdb9d6ff5d570e93684e3cf0f1fc7ab81b28c2075/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F1c434bbbe13ba584ad140e561fa7719a.jpg",
+    "publishedAt": "2026-10-21T04:35:30Z",
+    "author": "Max Dible"
+  },
+  {
+    "source": "CNA",
+    "title": "Bowler Shami not giving up hope of India return",
+    "description": "Oct 21 : Mohammed Shami said he was determined to work his way back into the India team after the injury-plagued fast bowler was again left out of the squad for their multi-format tour of New Zealand.Shami has taken 462 international wickets in 197 matches ac…",
+    "url": "https://www.channelnewsasia.com/sport/bowler-shami-not-giving-up-hope-india-return-6477871",
+    "image": "https://dam.mediacorp.sg/image/upload/s--zB52kw3---/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T043031Z_1_LYNXMPEM9K07T_RTROPTP_3_CRICKET-IPL-SRH-LSG.JPG?itok=_BrnsbWC",
+    "publishedAt": "2026-10-21T04:30:31Z",
+    "author": null
+  },
+  {
     "source": "New Zealand Herald",
     "title": "New Zealand Cricket steps back from 2027 Major League Cricket franchise plans",
     "description": "The body was due to provide high-performance and operational support to a new MLC team.",
@@ -60,105 +231,6 @@ window.cricketNews = [
     "url": "https://www.channelnewsasia.com/sport/lyon-omission-in-spotlight-australia-seamers-endure-tough-day-6476741",
     "image": "https://dam.mediacorp.sg/image/upload/s--N_wsr9hO--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T201209Z_1_LYNXMPEM9J1R9_RTROPTP_3_CRICKET-ASHES.JPG?itok=kKoHp2Va",
     "publishedAt": "2026-10-20T20:12:09Z",
-    "author": null
-  },
-  {
-    "source": "Dealcatcher.com",
-    "title": "Amazon - Dreame Nova IPL Hair Removal Device with 27J Dual-Lamp Output and Sapphire ICE Cooling $129.99",
-    "description": "How to Get This Deal\n\n- Add the device to your cart.\n- Go to checkout.\n- Enter coupon code XKPCZAKH in the promo code field.\n- Confirm the reduced price appears",
-    "url": "https://www.dealcatcher.com/deals/health-beauty/personal-care/dreame-nova-ipl-hair-removal-device-with-dual-lamp-output-and-sapphire-ice-cooling-432206",
-    "image": "https://www.dealcatcher.com/__og-image__/image/deals/health-beauty/personal-care/dreame-nova-ipl-hair-removal-device-with-dual-lamp-output-and-sapphire-ice-cooling-432206/og.png?_query=%7B%22utm_source%22:%22rss%22%7D",
-    "publishedAt": "2026-10-20T18:46:43Z",
-    "author": "Dealcatcher"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Stunned with the bat, destroyed with the ball: How 'superstar' Arafat Minhas single-handedly floored Harry Brook’s England",
-    "description": "Arafat Minhas leaves England, captain Harry Brook clueless with an unplayable delivery to knock back off stump during the PAK vs ENG 2nd ODI in Rawalpindi.",
-    "url": "https://www.cricketnews.com/en/cricket/news/arafat-minhas-pakistan-harry-brook-england/03ec49f6d0c571a8b1db9838",
-    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
-    "publishedAt": "2026-10-20T18:28:58Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India crush Zimbabwe by 92 runs in third T20 to sweep series",
-    "description": "India Women secured a 92-run victory over Zimbabwe in the final T20 match. They scored 216 runs with significant contributions from Shafali Verma and Harmanpreet Kaur. Zimbabwe struggled in their innings and managed only 124 runs in response. Nandani Sharma's…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-dominates-zimbabwe-with-92-run-victory-in-t20-series-finale/articleshow/135074622.cms",
-    "image": "https://img.etimg.com/thumb/msid-135074656,width-1200,height-900,imgsize-103250,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-20T17:36:47Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "‘Days, not months’ to save ICC, warns Dutch MEP",
-    "description": "Socialists’ push to award ICC Sakharov Prize exposes political divisions",
-    "url": "https://biztoc.com/x/5afbdc4fe3b46ec3",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-20T17:36:06Z",
-    "author": "rapporteur.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur unleashes six-hitting blitz as India thrash Zimbabwe by 92 runs to complete 3-0 T20I series sweep",
-    "description": "India's women's cricket team displayed sheer dominance against Zimbabwe, clinching the third T20I by a commanding 92 runs. With Shafali Verma and Harmanpreet Kaur leading the charge, scoring 69 and 91 respectively, Zimbabwe struggled in the chase, ending at 1…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-unleashes-six-hitting-blitz-as-india-thrash-zimbabwe-by-92-runs-to-complete-3-0-t20i-series-sweep/articleshow/135074015.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135074091,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-20T17:10:49Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Indians to score ODI centuries in all SENA countries: Can Rohit Sharma join exclusive club",
-    "description": "Only Sachin Tendulkar, Virat Kohli & Shikhar Dhawan have scored ODI centuries across all SENA countries. Can Rohit Sharma join the club in New Zealand?",
-    "url": "https://www.cricketnews.com/en/cricket/news/indians-odi-centuries-all-sena-countries/99551f4e75e43624d37ad792",
-    "image": "https://s.yimg.com/lo/mysterio/api/d1cec25d827fdb540cc77e84fbf3d1c91e4d8f8960f0d4a4461f22f216b56423/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0066fa242b740f5fb6baf7812cb7af4b",
-    "publishedAt": "2026-10-20T16:20:16Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "K3G lessons, cricket, no spice: How is Prince William preparing to come to India",
-    "description": "Britain’s Prince William's preparations for his Mumbai visit have taken a distinctly Indian turn.",
-    "url": "https://timesofindia.indiatimes.com/world/uk/k3g-lessons-cricket-no-spice-how-is-prince-william-preparing-to-come-to-india/articleshow/135073067.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135073190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-20T16:02:33Z",
-    "author": "Vijaya Srivastava"
-  },
-  {
-    "source": "POLITICO.eu",
-    "title": "Kallas buys time on EU response to US sanctions against the ICC",
-    "description": "European lawmakers have been pushing the EU executive to take swift action over U.S. sanctions against the Hague-based court.",
-    "url": "https://www.politico.eu/article/kaja-kallas-eu-response-us-sanctions-against-icc/",
-    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/20/GettyImages-2300590924-scaled.jpg",
-    "publishedAt": "2026-10-20T15:50:52Z",
-    "author": "Giovanna Faggionato"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Nepali cricket team returns home after League 2 series in Oman",
-    "description": "KATHMANDU: The Nepali national men’s cricket team returned to Kathmandu this evening after completing its participation in the ICC Cricket World Cup League 2 series in Oman. Officials from the Cricket Association of Nepal (CAN) welcomed the players upon their…",
-    "url": "https://english.khabarhub.com/2026/20/572726/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-Nepal-Team.jpeg",
-    "publishedAt": "2026-10-20T15:42:50Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "BBC News",
-    "title": "Kent paceman Milnes praises 'amazing' Hollioake",
-    "description": "Kent bowler Matt Milnes says an early-season pep talk from head coach Adam Hollioake inspired their promotion campaign.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cx4g1j8pmnj4o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7a3/live/3d1c6650-cc99-11f1-94e6-edd4c60b2e1d.jpg",
-    "publishedAt": "2026-10-20T15:39:59Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Bollywoodhelpline.com",
-    "title": "Arjun Rampal Recalls Naseeruddin Shah’s Cricket Analogy for Theatre and Reacts to Dhurandhar Success",
-    "description": "Arjun Rampal Recalls Naseeruddin Shah’s Cricket Analogy for Theatre and Reacts to Dhurandhar Successbollywoodhelpline.com",
-    "url": "https://www.bollywoodhelpline.com/news/entertainment/movie/arjun-rampal-recalls-naseeruddin-shahs-cricket-analogy-for-theatre-and-reacts-to-dhurandhar-success/79765",
-    "image": "https://www.bollywoodhelpline.com/upload/articles/arjun-rampal4785731.jpg",
-    "publishedAt": "2026-10-20T15:38:57Z",
     "author": null
   }
 ]
