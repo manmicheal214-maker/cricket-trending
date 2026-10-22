@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "Sporting News",
+    "title": "Where to watch Sri Lanka vs. England live stream, TV channel, start time and lineups for ODI in Rawalpindi",
+    "description": "Here's how you can view the third ODI in the ongoing tri-series between Sri Lanka and England in Pakistan without missing a single delivery.",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-sri-lanka-england-live-stream-tv-channel-start-time-lineups-odi-rawalpindi/4fdb74148946dc5ae4903060",
+    "image": "https://s.yimg.com/lo/mysterio/api/afbc35c63043717dee72c9f44d42a2216ac3f706b48ea09a0a6ff874c22ad8af/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb22de8d3f46bc159864d834e07293689",
+    "publishedAt": "2026-10-21T20:30:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "The Times of India",
     "title": "Sleep-deprived, battle-ready: Short on sleep, India must quickly adjust to unfamiliar conditions in New Zealand",
     "description": "Indian cricket team is preparing for a challenging series against New Zealand after a demanding travel schedule. Players will need to adjust to New Zealand's conditions ahead of five T20Is. Team captain Shreyas Iyer is optimistic about their adaptability desp…",
@@ -214,60 +223,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1df/live/e39f9210-cd41-11f1-ad2d-43fff3ff842f.jpg",
     "publishedAt": "2026-10-21T11:46:17Z",
     "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Afghanistan vs Bangladesh, tri-series ODI Live Score",
-    "description": "",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/afghanistan-vs-bangladesh-third-odi-tri-series-live-score-sharjah-najmul-hossain-shanto-rahmanullah-gurbaz/liveblog/135091610.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135091610,width-1280,height-720,imgsize-137662,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-21T11:45:07Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "Middlesex sign Hampshire batter Orr",
-    "description": "Middlesex sign top-order batter Ali Orr on a three-year deal, after his contract at Hampshire expired.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmx23d77z5n7o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/266b/live/4e28d000-cd3e-11f1-8177-0f8bd59b54c4.jpg",
-    "publishedAt": "2026-10-21T11:12:52Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Bhuvneshwar's experience will strengthen India's T20I bowling unit: Iyer",
-    "description": "India T20 captain Shreyas Iyer on Wednesday said the team's bowling attack had been lacking experience in recent past and veteran pacer Bhuvneshwar Kumar's return would help address this issue.\nThe 36-year-old Bhuvneshwar has returned to the Indian T20I set-u…",
-    "url": "https://www.business-standard.com/cricket/news/bhuvneshwar-s-experience-will-strengthen-india-s-t20i-bowling-unit-iyer-126102100285_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791347972-4277.jpg",
-    "publishedAt": "2026-10-21T10:45:40Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Santner wary of Sooryavanshi, expects Bhuvneshwar to enjoy NZ conditions",
-    "description": "New Zealand captain Mitchell Santner conceded that Vaibhav Sooryavanshi would be \"quite hard to stop\" if he plays for India in the five-match T20 International series beginning here on Thursday, but his team has some plans to deal with the young batting sensa…",
-    "url": "https://www.business-standard.com/cricket/news/santner-wary-of-sooryavanshi-expects-bhuvneshwar-to-enjoy-nz-conditions-126102100336_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/21/thumb/fitandfill/1200X628/1768974483-8379.jpg",
-    "publishedAt": "2026-10-21T10:41:16Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "BBC News",
-    "title": "Tribe aims to help Jersey despite England ambitions",
-    "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cqx2vpyxp4pvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/9b674bee62894743cb21d413eca53d66ffb7a4e2e6a76b8abeab9632e2d9989f/lightyear_networkapi/resizefill_w984_h554%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8a34920d55c557206669a95e2e4e638b.jpg",
-    "publishedAt": "2026-10-21T10:33:11Z",
-    "author": "Brent Pilnick - BBC Sport; Danny Parkinson - BBC Channel Islands"
-  },
-  {
-    "source": "BBC News",
-    "title": "Tribe aims to help Jersey despite England ambitions",
-    "description": "Asa Tribe says he is \"absolutely delighted\" to be returning to boost Jersey's Cricket World Cup hopes despite his goal to play for England.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqx2vpyxp4pvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3894/live/5c260680-cd36-11f1-935f-b9c228680c6f.jpg",
-    "publishedAt": "2026-10-21T10:33:07Z",
-    "author": "Brent Pilnick, Danny Parkinson"
   }
 ]
 ;
