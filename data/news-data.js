@@ -1,6 +1,141 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "For the first time in Rajasthan, a cricket tournament to be held between organ transplant recipients and organ donors on Oct 25 in Jaipur",
+    "description": "Jaipur to host Rajasthan’s first cricket tournament between organ transplant recipients and donors on Oct 25, promoting organ donation awareness and active life.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/for-the-first-time-in-rajasthan-a-cricket-tournament-to-be-held-between-organ-transplant-recipients-and-organ-donors-on-oct-25-in-jaipur/articleshow/135126267.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135126266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-22T18:49:35Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Days after Trump sanctions, ICC receives EU's top rights honour",
+    "description": "The award came just days after the Trump administration announced sweeping new sanctions on the court, which is based in The Hague, Netherlands, as part of its campaign to dismantle the tribunal over investigations into the United States and its allies, inclu…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/days-after-trump-sanctions-icc-receives-eus-top-rights-honour/articleshow/135125324.cms",
+    "image": "https://img.etimg.com/thumb/msid-135125414,width-1200,height-900,imgsize-335852,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-22T18:15:08Z",
+    "author": "AP"
+  },
+  {
+    "source": "Human Rights Watch",
+    "title": "ICC Wins EU Parliament’s Sakharov Prize",
+    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n The International Criminal Court in The Hague, Netherlands, July 2025.\n © 2025 Nicolas Economou/NurPhoto via AP Photo\n \n \n\n\n \n(Brussels) – The European Parliament on October 22, 2026, awarded the Sakharov Prize for F…",
+    "url": "https://www.hrw.org/news/2026/10/22/icc-wins-eu-parliaments-sakharov-prize",
+    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2025/07/202507ij_netherlands_icc.jpg?h=99248b11&itok=Ez_OtqC-",
+    "publishedAt": "2026-10-22T17:56:16Z",
+    "author": "Human Rights Watch"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brook underlines status as world's best all-format batter in run-fest",
+    "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmd93kw9q5v3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/20c9e2e2ebe2273a53375646be3ac0daccc4fa4ffa26db9a69f6a30fc4300682/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F114463d6f15df8e6290e8f11667a167a.jpg",
+    "publishedAt": "2026-10-22T17:55:38Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Brook underlines status as world's best all-format batter in run-fest",
+    "description": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f1b/live/aad157e0-ce39-11f1-a86f-f78305ec9987.jpg",
+    "publishedAt": "2026-10-22T17:52:45Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "US-sanctioned ICC wins top EU human rights award",
+    "description": "The EU has awarded the International Criminal Court its top human rights award.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792691151.jpg?resize=1920%2C1080&quality=80",
+    "publishedAt": "2026-10-22T17:46:03Z",
+    "author": null
+  },
+  {
+    "source": "The Irish Times",
+    "title": "Ireland open ODI series with 55-run victory over Namibia in Windhoek",
+    "description": "Paul Stirling’s half-century and wickets for spinners and Gavin Hoey and George Dockrell help secure win",
+    "url": "https://www.irishtimes.com/sport/2026/10/22/ireland-open-odi-series-with-55-run-victory-over-namibia-in-windhoek/",
+    "image": "https://www.irishtimes.com/resizer/v2/WOD62VV4P5EMFDTM6DD5UBF5HY.jpg?smart=true&auth=ae54ee0fea8de3e029fb907a54039a8ed446bb3f157b275bd9403465167e144b&width=1200&height=630",
+    "publishedAt": "2026-10-22T17:33:18Z",
+    "author": null
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+    "description": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
+    "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261022__D44R8HB__v1__MidRes__CricketEngSriOdi-1792687447.jpg?resize=1200%2C630",
+    "publishedAt": "2026-10-22T17:28:55Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Daughter of Kedarnath mule operator makes it to U’khand senior women’s cricket team",
+    "description": "Ritika Rawat, daughter of a Kedarnath mule operator from Rudraprayag, joins Uttarakhand senior women’s cricket team for the Senior Women’s T20 Trophy.",
+    "url": "https://timesofindia.indiatimes.com/city/dehradun/daughter-of-kedarnath-mule-operator-makes-it-to-ukhand-senior-womens-cricket-team/articleshow/135123920.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135123919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-22T17:19:57Z",
+    "author": "Prashasti Singh"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "A massive victory for the Sri Lankan team that defeated England after chasing 430 runs",
+    "description": "On October 22, 2026, at the Rawalpindi Cricket Stadium in Pakistan, the greatest run chase ever witnessed in ODI cricket history was recorded. This was achieved by successfully chasing down a massive target of 430 runs set by England, losing 8 wickets in 49.5…",
+    "url": "https://english.gossiplankanews.com/2026/10/a-massive-victory-for-sri-lankan-team.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v6ruhrfuZpZGpGeDoIIHgBhJAeJEGxwEPKBhuE-LOiP096Fi-VpG5Zqr84hC24BXA2y5imwqwutY42nsDdviG_vekr52yTegD7sk1wuxSAZr7lIcX64HuIn2tCMo9MGKWtSLavYYNuCyATG15wOL71TR-Xy8r677hfTA=w1600",
+    "publishedAt": "2026-10-22T17:11:32Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Sorry England suffer embarrassing defeat as Sri Lanka complete second-highest ODI run chase in HISTORY in thrilling clash",
+    "description": "Brendon McCullum's men had set a huge score of 429/4, with Harry Brook hitting 202 and recording the fastest double hundred in ODI history.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16230683/england-lose-sri-lanka-odi.html",
+    "image": "https://i.dailymail.com/1s/2026/10/22/17/112029029-0-image-a-11_1792685858967.jpg",
+    "publishedAt": "2026-10-22T16:27:47Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "SA vs AUS 3rd Test date and venue: Details for South Africa vs Australia series decider",
+    "description": "South Africa vs Australia 3rd Test date, venue, and start times: Get all details for the series decider at Newlands Cricket Ground in Cape Town from Oct 27-3...",
+    "url": "https://www.cricketnews.com/en/cricket/news/sa-vs-aus-3rd-test-date-venue-time-decider/5d99ed51c6a7563e6a726f64",
+    "image": "https://s.yimg.com/lo/mysterio/api/7b7c86969edb9e551c7b9ffdb8d0aa4982475d20b0618de17115ab3a5739fdf2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F602eb7f1fb7624f7ca517ef9075faf96",
+    "publishedAt": "2026-10-22T16:25:21Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "South Africa crush Australia by an innings to level cricket Test series",
+    "description": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
+    "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26295514148318-1792680556.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-22T16:09:44Z",
+    "author": null
+  },
+  {
+    "source": "Common Dreams",
+    "title": "Under Assault From Trump, Embattled ICC Wins Top Human Rights Prize in Europe",
+    "description": "The European Union on Thursday awarded its most prestigious human rights prize to the International Criminal Court and its officials in a rebuke to President Donald Trump’s efforts to destroy the institution.The EU’s Sakharov Prize for Freedom of Thought—prev…",
+    "url": "https://www.commondreams.org/news/icc-eu-prize",
+    "image": "https://www.commondreams.org/media-library/image.jpg?id=68506757&width=1200&height=600&coordinates=0%2C156%2C0%2C156",
+    "publishedAt": "2026-10-22T15:49:36Z",
+    "author": "Stephen Prager"
+  },
+  {
+    "source": "Fortune",
+    "title": "‘Built on respect’: EU gives International Criminal Court its top human rights prize as U.S. sanctions threaten to cut it off",
+    "description": "ICC President Tomoko Akane welcomed the award, saying that it “comes at a time when the court and its officials face unprecedented challenges.”",
+    "url": "https://fortune.com/2026/10/22/icc-eu-human-rights-award-trump-sanctions/",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2301186356-e1792681090738.jpg?resize=1200,600",
+    "publishedAt": "2026-10-22T15:10:43Z",
+    "author": "The Associated Press, Lorne Cook, Mike Corder"
+  },
+  {
+    "source": "The Times of India",
     "title": "Karisma Kapoor gives Rohit Sharma a special nickname, ‘Pookie Pullshotter’, on Family Full House with Rohit Sharma",
     "description": "In a delightful episode of Family Full House, Karisma Kapoor affectionately nicknamed cricketer Rohit Sharma as 'Pookie Pullshotter' after learning he never had a childhood nickname. In a fun exchange, Rohit dubbed her 'Lolo Love'. He also reminisced about hi…",
     "url": "https://timesofindia.indiatimes.com/tv/news/hindi/karisma-kapoor-gives-rohit-sharma-a-special-nickname-pookie-pullshotter-on-family-full-house-with-rohit-sharma/articleshow/135121151.cms",
@@ -97,150 +232,6 @@ window.cricketNews = [
     "image": "https://image.hurimg.com/i/hurriyet/75/200x200/6ada05a94735ad389d604047.jpg",
     "publishedAt": "2026-10-22T12:47:09Z",
     "author": "hurriyetdailynews.com"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brilliant Brook hits fastest 200 in ODI history as England pile up 429-4",
-    "description": "Follow live text updates and BBC Radio 5 Sports Extra commentary as England face Sri Lanka as part of a one-day international tri-series in Rawalpindi.",
-    "url": "https://www.bbc.com/sport/cricket/live/c6wyzx7wlqryt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2b41eaa7244e09f9c4fb0a7289784687e958c2fe11b13dc02f61d2def00e17c7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9fb7b15e21c035f1357e5fb45bb15862.jpg",
-    "publishedAt": "2026-10-22T12:35:56Z",
-    "author": "BBC"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harry Brook goes berserk in Rawalpindi, breaks Shubman Gill's record for fastest ODI double century as England post 429/4",
-    "description": "Brook reached the milestone in 114 balls in the final over of the innings, hitting a four off Janith Liyanage. He became the first England batter to score a double century in ODIs and broke the record held by India captain Shubman Gill, who had reached the la…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harry-brook-goes-berserk-in-rawalpindi-breaks-shubman-gills-record-for-fastest-odi-double-century-as-england-post-429/4/articleshow/135118772.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135118974,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-22T12:26:08Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Spot owned by the No.1 T20I batter': Decision to send Tilak Verma at No.3 instead of Ishan Kishan comes under fire in IND vs NZ 1st T20I",
-    "description": "Team India faced intense backlash after sending Tilak Varma at No. 3 instead of World No. 1 T20I batter Ishan Kishan during the 1st T20I against New Zealand.",
-    "url": "https://www.cricketnews.com/en/cricket/news/tilak-verma-ishan-kishan-ind-vs-nz-1st-t20i/1b3b1ac4d13ab09b3997171f",
-    "image": "https://s.yimg.com/lo/mysterio/api/eed82d43fd59f5f4c7e4bef25212f9b0764c92a57082e2f62823beb54862772a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe662f571c9c19368f5ed77ca4e72af4e",
-    "publishedAt": "2026-10-22T12:16:47Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brilliant Brook hits England's first 200 in an ODI",
-    "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cq99z35zpgzmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/9efacc01666c87e5403cdf36f123321650a7a10c79a7b326f713bd0b5ee86c06/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff384f11e6e1793a0fce433f1ecb8bc77.jpg",
-    "publishedAt": "2026-10-22T12:10:26Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Brilliant Brook hits England's first 200 in an ODI",
-    "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg",
-    "publishedAt": "2026-10-22T12:10:21Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Joe Root creates history! Becomes first England batter to cross 8,000-run mark in ODIs",
-    "description": "Joe Root achieved a significant milestone by becoming the first English batter to surpass 8,000 runs in ODIs. This achievement occurred during a match against Sri Lanka in the Pakistan ODI Tri-Series. Root scored 69 runs off 66 balls and has reached a career …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-england-great-becomes-first-to-breach-8000-run-mark-in-odis/articleshow/135118458.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135118518,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-22T12:08:11Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India vs New Zealand 1st T20I: Samson, Dhir seal 4-wicket win for India",
-    "description": "India successfully chased down a target of 225 runs to win the first T20 International match. Sanju Samson played a key role by scoring 67 runs, helping stabilize the innings early on. Shreyas Iyer and Naman Dhir contributed vital runs towards the end of the …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-new-zealand-1st-t20i-samson-dhir-seal-thrilling-4-wicket-win-for-india/articleshow/135117956.cms",
-    "image": "https://img.etimg.com/thumb/msid-135118045,width-1200,height-900,imgsize-127852,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-22T11:56:37Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "CNA",
-    "title": "India overcome New Zealand fightback to win T20 opener",
-    "description": "Oct 22 : India overcame a spirited New Zealand fightback after a blazing start to secure a thrilling four-wicket victory in Christchurch on Thursday and take a 1-0 lead in the five-match T20 series.India survived a mid-innings wobble in a 226-run chase after …",
-    "url": "https://www.channelnewsasia.com/sport/india-overcome-new-zealand-fightback-win-t20-opener-6482501",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-10-22T11:48:24Z",
-    "author": null
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Sakharov Prize given to ICC and its officials",
-    "description": "The European Parliament announced on Thursday that it had decided to award the 2026 Sakharov Prize for Freedom of Thought to the International Criminal Court (ICC) and its officials.In its official st...",
-    "url": "https://biztoc.com/x/650e34e6f6eac525",
-    "image": "https://biztoc.com/cdn/650e34e6f6eac525_s.webp",
-    "publishedAt": "2026-10-22T11:38:18Z",
-    "author": "breakingthenews.net"
-  },
-  {
-    "source": "BBC News",
-    "title": "Northants paceman Weatherall signs deal until 2028",
-    "description": "Northamptonshire fast bowler Raphy Weatherall signs a contract extension until the end of the 2028 season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cm17kpvn28r8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/80eeba5e8f17bb2907c29cb4c21c97a7626888b1cf7eaf6d8812d95f1bd00e94/lightyear_networkapi/resizefill_w835_h469%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F874988125011acf45c9de0a4a671e6ee.jpg",
-    "publishedAt": "2026-10-22T11:11:52Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Northants paceman Weatherall signs deal until 2028",
-    "description": "Northamptonshire fast bowler Raphy Weatherall signs a contract extension until the end of the 2028 season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm17kpvn28r8o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f86c/live/485cfa40-ce04-11f1-8991-296181d7e3de.jpg",
-    "publishedAt": "2026-10-22T11:11:48Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Essex sign batter Evans from Surrey",
-    "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6x29ld8y4lko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/2572af05aeb5a4d73cd62592868e5e794a3c349267f61f6e2922e2ce20a0440e/lightyear_networkapi/resizefill_w681_h383%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F075becc9625af5ad0667624081c4db0c.jpg",
-    "publishedAt": "2026-10-22T10:38:45Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Essex sign batter Evans from Surrey",
-    "description": "Essex sign experienced batter Laurie Evans from Surrey on a one-year deal.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6x29ld8y4lko",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a42/live/370d8520-ce04-11f1-9688-4162f7c2e1d5.jpg",
-    "publishedAt": "2026-10-22T10:38:40Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Futuristic eco cricket ground in Spain eyes Test match",
-    "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ckr5ye4g7d9qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/71a0841e3b784bc02251928fd4a0da8bee2d984f8c2e69f4b1da3ca8befcab9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff1188b76e1a5866d44f47a2169f671e5.png",
-    "publishedAt": "2026-10-22T10:12:05Z",
-    "author": "Timothy Abraham - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Futuristic eco cricket ground in Spain eyes Test match",
-    "description": "The founder of a futuristic, environmentally sustainable cricket stadium being built in Spain wants it to host a Test match one day.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckr5ye4g7d9qo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35fe/live/edc7cdf0-cd48-11f1-8177-0f8bd59b54c4.png",
-    "publishedAt": "2026-10-22T10:12:00Z",
-    "author": "Timothy Abraham"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "ICC wins EU’s Sakharov Prize",
-    "description": "The court, including its judges and prosecutors, have come under attack from Donald Trump",
-    "url": "https://biztoc.com/x/5ec5c98184a02a32",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-22T09:50:45Z",
-    "author": "rapporteur.com"
   }
 ]
 ;
