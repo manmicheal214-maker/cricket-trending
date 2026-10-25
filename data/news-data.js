@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "BCCI shortlists 10 UP cricketers for 2027 Women’s Premier League auction",
+    "description": "BCCI has shortlisted 146 players for the 2027 WPL auction, including 10 women cricketers from UP. Auction is Oct 28 in Kochi; season runs Jan 14–Feb 7.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/bcci-shortlists-10-up-cricketers-for-2027-womens-premier-league-auction/articleshow/135175987.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-24T18:02:02Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "No Virat Kohli, Rohit Sharma in Rahane's all-time India Test XI; picks Dravid, Tendulkar and Dhoni",
+    "description": "Virat Kohli and Rohit Sharma were missing from former India batter Ajinkya Rahane's all-time India Test XI, which features only players he has played",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-rohit-sharma-in-rahanes-all-time-india-test-xi-picks-dravid-tendulkar-and-dhoni/articleshow/135174571.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135174896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-24T17:21:13Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Seen it for a couple of years': New Zealand captain lauds Tilak Varma's growth as finisher after India's second T20I win",
+    "description": "Santner, who returned figures of 4/21 in the match, recalled how Tilak initially batted at No. 3 for Mumbai Indians in the IPL before adapting to the demands of finishing games.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/seen-it-for-a-couple-of-years-new-zealand-captain-lauds-tilak-varmas-growth-as-finisher-after-indias-second-t20i-win/articleshow/135173416.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135173587,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-24T16:12:57Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "RTE",
+    "title": "Erasmus leads Namibia past Ireland to level series",
+    "description": "Namibia levelled their five-match ODI series with Ireland after claiming a 31-run win in Windhoek on Saturday.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1024/1596739-erasmus-leads-namibia-past-ireland-to-level-series/",
+    "image": "https://www.rte.ie/images/00253ac5-1600.jpg",
+    "publishedAt": "2026-10-24T16:02:13Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Auction table for MI, playing for CSK franchise and back to coaching MI: Kieron Pollard's wild schedule till IPL 2027",
+    "description": "With Kieron Pollard appointed head coach of the Mumbai Indians, the former MI legend has an incredibly busy schedule ahead, including playing for the Joburg Super Kings.",
+    "url": "https://www.cricketnews.com/en/cricket/news/auction-mi-playing-csk-coaching-kieron-pollards-schedule-ipl-2027/265204e955ac3784141cdf1a",
+    "image": "https://s.yimg.com/lo/mysterio/api/53805eac7f9ba44abac79dcb31da5a4feed6aaea489c19cfe03c5ebeeb609f4f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F727c204a5e04b4f4c29bf6a2f5b1b1ae",
+    "publishedAt": "2026-10-24T16:00:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Agha and Usman get test recall for Pakistan's two matches against Sri Lanka",
+    "description": "ISLAMABAD (AP) — Pakistan has recalled batter Salman Ali Agha and left-arm spinner Ali Usman for its two home test matches against Sri Lanka in November.Agha and Usman were among seven cricketers flown back home during a chaotic tour of England after Pakistan…",
+    "url": "https://sports.yahoo.com/articles/agha-usman-test-recall-pakistans-143851504.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/7f68d7216bb3f304f5be7db210978178eea42cd3fe54f12ce13673f7a2e2dc6e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F82d818305b029d74dd2844a93334ae3e.jpg",
+    "publishedAt": "2026-10-24T14:38:51Z",
+    "author": "Associated Press"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "'Bring that energy and spirit': New MI coach Kieron Pollard warns Wankhede fans against cheering for RCB and CSK during IPL 2027 campaign",
     "description": "With Kieron Pollard back in Mumbai as their new head coach, he has warned MI fans against cheering for longtime rivals CSK and reigning champions RCB.",
@@ -79,132 +133,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-10-24T10:23:41Z",
     "author": "saamaan1@yahoo.com (Master), Master"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Infinity pool, lake views, cricket room: Inside Ajinkya Rahane’s 5-bedroom holiday home near Mumbai",
-    "description": "RAAYA Estate, Ajinkya Rahane’s stunning vacation home, is situated in the picturesque Igatpuri near Mumbai, surrounded by the Sahyadri mountains. Developed during the pandemic, this luxurious estate features 5 tastefully decorated bedrooms, a room showcasing …",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/infinity-pool-lake-views-cricket-room-inside-ajinkya-rahanes-5-bedroom-holiday-home-near-mumbai/articleshow/135167617.cms",
-    "image": "https://img.etimg.com/thumb/msid-135167635,width-1200,height-900,imgsize-199713,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-10-24T10:08:33Z",
-    "author": "Trisha Dey"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Pakistan vs England prediction, team news, pitch report and betting tips for 4th ODI in tri-nations series",
-    "description": "Pakistan vs England 4th ODI prediction, team news, pitch report and betting tips for Sunday’s tri-nations clash in Lahore, with England yet to win.",
-    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-vs-england-4th-odi-prediction-pitch-report-betting-tips/0c6df22e2d20e95f25a7d8eb",
-    "image": "https://s.yimg.com/lo/mysterio/api/f3dba5d01a30a60c879795bc37b857a7eeff9695d9fcd656c4e94ebc5d11a25f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5c65d227f785026c833925225f6910af",
-    "publishedAt": "2026-10-24T08:50:12Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "CNA",
-    "title": "South Africa paceman Nortje ruled out of third test",
-    "description": "CAPE TOWN, Oct 24 : South African quick bowler Anrich Nortje is out of the last test against Australia after a groin injury suffered early in the comprehensive second test victory in Gqeberha this week, Cricket South Africa said on Saturday.• The 32-year-old …",
-    "url": "https://www.channelnewsasia.com/sport/south-africa-paceman-nortje-ruled-out-third-test-6488701",
-    "image": "https://dam.mediacorp.sg/image/upload/s--Pf0ZC7X2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-24T083046Z_1_LYNXNPEM9N063_RTROPTP_3_CRICKET-T20-ZAF-AFG.JPG?itok=JQ15aiRo",
-    "publishedAt": "2026-10-24T08:30:46Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Tilak Varma breaks world record during India vs New Zealand 2nd T20I",
-    "description": "Tilak Varma achieved a historic milestone by taking the most catches in T20 Internationals during 2026. His remarkable performance included two catches in the second T20I against New Zealand. Varma surpassed the previous record held by Danilson Hawoe with a t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tilak-varma-breaks-world-record-during-india-vs-new-zealand-2nd-t20i/articleshow/135165617.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135165720,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T08:08:46Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vaibhav Sooryavanshi's Bihar home is far from a celebrity mansion: Inside the house, family life and roots of cricket's teenage sensation",
-    "description": "Vaibhav Sooryavanshi has become one of cricket's most talked-about young talents, but his roots remain in Tajpur, Bihar. From his two-storey family home and his father's efforts to support his cricket training to family moments shared on Instagram, here's a l…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/vaibhav-sooryavanshis-bihar-home-is-far-from-a-celebrity-mansion-inside-the-house-family-life-and-roots-of-crickets-teenage-sensation/articleshow/135165283.cms",
-    "image": "https://img.etimg.com/thumb/msid-135165376,width-1200,height-900,imgsize-97998,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-24T07:57:30Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mohsin Naqvi-led PCB plans new Hong Kong Sixes-style tournament to expand cricket's reach",
-    "description": "The PCB is exploring plans to launch PSL Sixes, a six-a-side tournament during the Pakistan Super League off-season. CEO Salman Naseer said the proposal aims to entertain fans and bring cricket to smaller cities. Unlike the international Hong Kong Sixes, it m…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-led-pcb-plans-new-hong-kong-sixes-style-tournament-to-expand-crickets-reach/articleshow/135164830.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135165279,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T07:43:09Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Vaibhav Sooryavanshi in as India wins the toss and bowls in the 2nd T20 against New Zealand",
-    "description": "CHRISTCHURCH, New Zealand (AP) — Teenage sensation Vaibhav Sooryavanshi has returned to the India cricket team for the second Twenty20 international Saturday, giving fans in the Southern Hemisphere their first chance to see the 15-year-old prodigy.Vaibhav ste…",
-    "url": "https://sports.yahoo.com/articles/vaibhav-sooryavanshi-india-wins-toss-073342639.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/e8263f472f19420ebc078905d2977dc1ba7fa103e2e68857978ffc1f1877bbc9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F52aa8eeac4fda0e50de799bdaa6f23b4.jpg",
-    "publishedAt": "2026-10-24T07:33:42Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Cricket personality’, fake investment promises, Rs 24 lakh fraud: How Delhi man allegedly duped woman constable",
-    "description": "Vikrant Kumar, 26, was taken into custody after reportedly scamming a Delhi Police constable of Rs 24 lakh. He initiated contact on Instagram, seeking advice about police recruitment via the sports quota. Their chats moved to WhatsApp, where he gained her tru…",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/cricket-personality-fake-investment-promises-rs-24-lakh-fraud-how-delhi-man-allegedly-duped-woman-constable/articleshow/135164577.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135164762,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T07:32:07Z",
-    "author": "Prachi Kumawat"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL 2027: Steffan Jones joins Mumbai Indians as bowling consultant",
-    "description": "Mumbai Indians have roped in former Rajasthan Royals high-performance coach Steffan Jones as a bowling consultant for IPL 2027. Jones will work with MI's development squad alongside director of performance Zubin Bharucha, with the duo tasked with helping Indi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2027-steffan-jones-joins-mumbai-indians-as-bowling-consultant/articleshow/135164826.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135164832,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T07:17:10Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 2nd T20I: Vaibhav Sooryavanshi in playing XI, but there's a twist",
-    "description": "India captain Shreyas Iyer won the toss and elected to bowl first against New Zealand in the second T20. The team made two changes, with 15-year-old Vaibhav Sooryavanshi replacing Ishan Kishan and Prince Yadav coming in for Mayank Yadav. Iyer emphasized the i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-2nd-t20i-vaibhav-sooryavanshi-in-playing-xi-but-theres-a-twist/articleshow/135164552.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135164678,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T07:03:11Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Australian umpire's Ranji Trophy sojourn: Aeroplanes overhead at Palam, BKC's red soil pitch, love for garlic naan and vada pav",
-    "description": "Australian umpire Ben Treloar is experiencing Indian domestic cricket for the first time as part of the BCCI-Cricket Australia exchange programme. From aeroplanes flying overhead at Delhi's Palam ground to Mumbai's red-soil pitch at BKC, the 44-year-old share…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australian-umpires-ranji-trophy-sojourn-aeroplanes-overhead-at-palam-bkcs-red-soil-pitch-love-for-garlic-naan-and-vada-pav/articleshow/135164369.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135164486,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T07:01:03Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Four years, I never chased this Indian jersey': Bhuvneshwar Kumar credits IPL for India comeback",
-    "description": "Bhuvneshwar Kumar credited patience, preparation and a no-expectations mindset for helping him return to international cricket after four years. The 36-year-old said the IPL and domestic cricket kept him sharp while improving his maturity. He also discussed m…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/four-years-i-never-chased-this-indian-jersey-bhuvneshwar-kumar-credits-ipl-for-india-comeback/articleshow/135164299.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135164535,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T06:53:13Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Dada's Doosra Row: Who Owns Cricket History?",
-    "description": "The legal battle between former Indian cricket captain Sourav Ganguly and the makers of the film Doosra perfectly highlights the tension between broadcast licensing and a celebrity's personality rights.",
-    "url": "https://www.rediff.com/movies/report/sourav-gangulys-doosra-row-who-owns-cricket-history/20261024.htm",
-    "image": "https://im.rediff.com/1200-630/movies/2026/oct/24doosra1.jpg",
-    "publishedAt": "2026-10-24T06:41:32Z",
-    "author": "SUBHASH K JHA"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Ranji game incredibly challenging but fun: Australian umpire Treloar",
-    "description": "Australian umpire Ben Treloar discusses his Ranji Trophy debut, flat pitches, Indian spinners and the BCCI-Cricket Australia umpire exchange programme.",
-    "url": "https://www.business-standard.com/cricket/news/ben-treloar-australian-umpire-ranji-trophy-debut-interview-126102400366_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/24/thumb/featurecrop/1200X628/1792823585-5645.jpg",
-    "publishedAt": "2026-10-24T06:33:47Z",
-    "author": "Anish Kumar"
   }
 ]
 ;
