@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "'Bring that energy and spirit': New MI coach Kieron Pollard warns Wankhede fans against cheering for RCB and CSK during IPL 2027 campaign",
+    "description": "With Kieron Pollard back in Mumbai as their new head coach, he has warned MI fans against cheering for longtime rivals CSK and reigning champions RCB.",
+    "url": "https://www.cricketnews.com/en/cricket/news/new-mi-coach-kieron-pollard-warns-wankhede-fans-cheering-rcb-csk/df3dee6c64fee5fa63280778",
+    "image": "https://s.yimg.com/lo/mysterio/api/1a8b88720ae6d81b6bc4908c55c707fe828b1492f9e37aa53456dd4411a6a931/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F06631d818f9b9110f0519c37628ba397",
+    "publishedAt": "2026-10-24T14:12:50Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cowboys Owner Jerry Jones Faces Harsh Criticism From Six-Time Pro Bowler for Having ‘Nothing to Show’",
+    "description": "Jerry Jones invested a lot in the last offseason, determined to see the Dallas Cowboys succeed this season. The results have not been satisfactory so far this season. The team only has two wins in six games, having lost the other four games. Ahead of the team…",
+    "url": "https://sports.yahoo.com/articles/cowboys-owner-jerry-jones-faces-131937971.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8fbb7b16e0104214d21fc8a1873c5d6110644ff0fe41c4cde92882e1285744e1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F5a49bb3bbe1755cb3217ce039e176fb7.jpg",
+    "publishedAt": "2026-10-24T13:19:37Z",
+    "author": "Manhaz Muntaha"
+  },
+  {
+    "source": "HITC - Football, Gaming, Movies, TV, Music",
+    "title": "‘If I don’t perform’ – Cam Skattebo’s offers strange response to Giants teammate getting cut",
+    "description": "Cam Skattebo kept it real when asked if teammate Najee Harris getting cut sent a message to the players on the New York Giants roster. The one-time Pro Bowler was cut by the team on Thursday, October 20.",
+    "url": "https://www.hitc.com/if-i-dont-perform-cam-skattebos-offers-strange-response-to-giants-teammate-getting-cut/",
+    "image": "https://s.yimg.com/lo/mysterio/api/fdd526e51f8c91b8b84d4af56fad481749213d382a0af6bde18128fefde738a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F088cff39d52216ee300b30915e6a604e.jpg",
+    "publishedAt": "2026-10-24T13:00:00Z",
+    "author": "Godwin Mathew"
+  },
+  {
+    "source": "BBC News",
+    "title": "England women in Sri Lanka 2027",
+    "description": "Fixtures for England's women's tour of Sri Lanka, featuring three Twenty20 internationals and three ODIs, either side of the Champions Trophy.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c39wz7zlxn8xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d355fb1d4459ef0ab483f41f477c52590f95ba7e2e5e3bd15bcdae8ad5eb7550/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbdd835e82f181d2c7c08c12d907ffd08.jpg",
+    "publishedAt": "2026-10-24T12:23:22Z",
+    "author": "BBC"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Afghanistan leapfrog England in ICC ODI rankings, reclaim their all-time high position after a year",
+    "description": "Afghanistan has risen to seventh place in the latest ICC Men's ODI team rankings after defeating Zimbabwe. This victory marks their equal all-time highest ranking, first achieved in May 2025. They bowled Zimbabwe out for 169 runs, completing a comfortable cha…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/afghanistan-leapfrog-england-in-icc-odi-rankings-reclaim-their-all-time-high-position-after-a-year/articleshow/135170176.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135170335,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-24T12:21:16Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Abhishek makes history, reaches six-hitting milestone no batter has touched before",
+    "description": "Abhishek reached the milestone with a six over extra cover off Matt Henry in the third over of India's chase. He had gone past former India captain Rohit Sharma, who hit 98 powerplay sixes in his T20I career, in the series opener on Thursday.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/abhishek-sharma-scripts-history-reaches-six-hitting-milestone-no-batter-has-touched-before/articleshow/135170021.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135170068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-24T12:07:04Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Fielding like Pakistan': New Zealand fielders brutally trolled after Black Caps fail to defend 180 runs in 2nd T20I vs India",
+    "description": "After New Zealand failed to defend their target of 180 runs in the second T20I against India, Kiwi fielders were brutally trolled by cricket fans who took jabs at Pakistan as well.",
+    "url": "https://www.cricketnews.com/en/cricket/news/fielding-pakistan-new-zealand-fielders-trolled-2nd-t20i-india/de12ea28ee4ea8931c61591d",
+    "image": "https://s.yimg.com/lo/mysterio/api/7cc1624e70e3de17f8fe9fa6a48f8525a4fb8e2764d7dbfe59223f4dc109e9c1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb22de8d3f46bc159864d834e07293689",
+    "publishedAt": "2026-10-24T11:34:00Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kieron Pollard doesn't want to see 'yellows and reds' at Wankhede in IPL; urges MI players to put 'team above self'",
+    "description": "Pollard, who was Mumbai Indians' batting coach for the last four IPL seasons, takes over from Mahela Jayawardene, who parted ways with the franchise last week. The former West Indies all-rounder has been associated with MI since IPL 2010, when he was signed a…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kieron-pollard-doesnt-want-to-see-yellows-and-reds-at-wankhede-in-ipl-urges-mi-players-to-put-team-above-self/articleshow/135168237.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135168427,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-24T10:51:14Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "The Great Indian Kapil Show S05E03 1080p WEB h264-EDITH",
+    "description": "Note: In Hindi With English Selectable Subtitles or (HERE).Season 5, Episode 03 – “Beyond the Boundary – Ravis Shastri and Sunil Gavaskar”Ravi Shastri makes his debut on the show with Sunil Gavaskar for some cricket banter, locker-room secrets and plenty of f…",
+    "url": "https://post.rlsbb.cc/the-great-indian-kapil-show-s05e03-1080p-web-h264-edith/",
+    "image": null,
+    "publishedAt": "2026-10-24T10:23:41Z",
+    "author": "saamaan1@yahoo.com (Master), Master"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Infinity pool, lake views, cricket room: Inside Ajinkya Rahane’s 5-bedroom holiday home near Mumbai",
+    "description": "RAAYA Estate, Ajinkya Rahane’s stunning vacation home, is situated in the picturesque Igatpuri near Mumbai, surrounded by the Sahyadri mountains. Developed during the pandemic, this luxurious estate features 5 tastefully decorated bedrooms, a room showcasing …",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/infinity-pool-lake-views-cricket-room-inside-ajinkya-rahanes-5-bedroom-holiday-home-near-mumbai/articleshow/135167617.cms",
+    "image": "https://img.etimg.com/thumb/msid-135167635,width-1200,height-900,imgsize-199713,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-10-24T10:08:33Z",
+    "author": "Trisha Dey"
+  },
+  {
     "source": "Sporting News",
     "title": "Pakistan vs England prediction, team news, pitch report and betting tips for 4th ODI in tri-nations series",
     "description": "Pakistan vs England 4th ODI prediction, team news, pitch report and betting tips for Sunday’s tri-nations clash in Lahore, with England yet to win.",
@@ -115,150 +205,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/24/thumb/featurecrop/1200X628/1792823585-5645.jpg",
     "publishedAt": "2026-10-24T06:33:47Z",
     "author": "Anish Kumar"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Kieron Pollard appointed MI head coach: Complete list of Mumbai Indians support staff",
-    "description": "Kieron Pollard has been appointed head coach of Mumbai Indians, replacing Mahela Jayawardene ahead of IPL 2027. Check the complete list of MI support staff.",
-    "url": "https://www.sportingnews.com/in/cricket/news/kieron-pollard-mi-head-coach-list-mumbai-indians-support-staff/233c4e9568990a074abdb2f4",
-    "image": "https://s.yimg.com/lo/mysterio/api/5018941fb22d6f7c301e3e9b0aebfdb7aa1896e7cc762a4348a1a0bc7c4057a7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fa27b69b5f9534da478849e693020c399",
-    "publishedAt": "2026-10-24T06:04:29Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "NZ vs IND 2nd T20I live streaming: Where to watch today's cricket match?",
-    "description": "New Zealand vs India 2nd T20I begins at 12:30 pm IST on Saturday, with the toss at 12 pm IST. Fans in India can stream the match on the SonyLIV app and website",
-    "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-2nd-t20i-live-streaming-where-to-watch-today-s-cricket-match-126102300353_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/23/thumb/resize/1200X628/1792733576-6898.jpg",
-    "publishedAt": "2026-10-24T06:04:19Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "CNA",
-    "title": "Mumbai Indians promote Pollard to head coach, replacing Jayawardene",
-    "description": "Oct 24 : Mumbai Indians have appointed Kieron Pollard as head coach for the 2027 season in place of Mahela Jayawardene, the Indian Premier League team said on Saturday.Pollard, who helped the West Indies win the Twenty20 World Cup in 2012 and won five IPL tit…",
-    "url": "https://www.channelnewsasia.com/sport/mumbai-indians-promote-pollard-head-coach-replacing-jayawardene-6488591",
-    "image": "https://dam.mediacorp.sg/image/upload/s--zwzOu0B6--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-24T055654Z_1_LYNXMPEM9N034_RTROPTP_3_CRICKET-IPL-MI-POLLARD.JPG?itok=7qXoqjCT",
-    "publishedAt": "2026-10-24T05:56:54Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ Live Streaming: When and where to watch India vs New Zealand 2nd T20 match free",
-    "description": "IND vs NZ 2nd T20I live streaming: India will face New Zealand in the second T20I on October 24, 2026, at Hagley Oval in Christchurch. Check the match start time, live telecast on Sony Sports Network, online streaming on SonyLIV and possible free viewing opti…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/ind-vs-nz-live-streaming-when-and-where-to-watch-india-vs-new-zealand-2nd-t20-today-match-free-in-india-sony-liv-sony-sports/articleshow/135162174.cms",
-    "image": "https://img.etimg.com/thumb/msid-135162283,width-1200,height-900,imgsize-120684,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-24T04:52:15Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027",
-    "description": "Kieron Pollard has been named the head coach of Mumbai Indians ahead of the IPL 2027 season. He takes over the position from Mahela Jayawardene, who has stepped down. Pollard expressed his gratitude for the opportunity and emphasised his connection to the tea…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mumbai-indians-appoint-kieron-pollard-as-head-coach-ahead-of-ipl-2027/articleshow/135162088.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135162143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T04:45:11Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mumbai Indians appoint Kieron Pollard as head coach for IPL 2027",
-    "description": "Mumbai Indians have appointed Kieron Pollard as head coach for IPL 2027 after Mahela Jayawardene stepped down, ending his decade-long association with the franchise. Co-owner Nita M. Ambani said Pollard, who joined MI as a 22-year-old 16 years ago, understand…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mumbai-indians-appoint-kieron-pollard-as-head-coach-for-ipl-2027/articleshow/135162034.cms",
-    "image": "https://img.etimg.com/thumb/msid-135162059,width-1200,height-900,imgsize-79180,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-24T04:41:51Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Vaibhav Sooryavanshi score today for New Zealand vs. India 2nd T20I in Christchurch",
-    "description": "Sooryavanshi remains in strong contention to feature in India's playing XI as a top-order batter following the adductor injury to Ishan Kishan.",
-    "url": "https://www.sportingnews.com/in/cricket/news/vaibhav-sooryavanshi-score-today-new-zealand-india-2nd-t20i-christchurch/dcf269790bf301d9555dffca",
-    "image": "https://s.yimg.com/lo/mysterio/api/695b2a5a486ada152e89183a2af78c2fd0e04c06c2701bf356085b163fd51acd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F2bd9856be32c567c60a83a23fb6624d4",
-    "publishedAt": "2026-10-24T04:30:01Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "USA Today",
-    "title": "Brewers' celebration delayed after double play is overturned on review",
-    "description": "The Brewers thought they had won Game 1 of the World Series on a double play. Review said otherwise, but they closed it out one batter later.",
-    "url": "https://www.usatoday.com/story/sports/mlb/2026/10/23/milwaukee-brewers-double-play-overturned-review/92410037007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/221e5e80a5924e1e4cacd5ac89d2933b959ef82b11da37e489b3ac0f99892c37/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F07c1110ab7e3a848020b3d3960e9f198.jpg",
-    "publishedAt": "2026-10-24T03:52:49Z",
-    "author": "Jace Evans, USA TODAY"
-  },
-  {
-    "source": "Daily American Online",
-    "title": "Berlin Brothersvalley holds off North Star in duel of top ICC programs",
-    "description": "Berlin Brothersvalley edged North Star in a matchup of the two top Inter-County Conference South programs.",
-    "url": "https://www.dailyamerican.com/story/sports/high-school/football/2026/10/23/berlin-brothersvalley-football-earns-senior-night-win-over-north-star/92262959007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/85408d54556dd49b90dcb8f8aaf4d9efb3f5a87bf5607700efe756220095a77b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-daily-american%2F2725fb65168c82db3e0564b45038ecef.jpg",
-    "publishedAt": "2026-10-24T03:15:12Z",
-    "author": "Adam Ripple, The Daily American"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Sudurpaschim Royals sign West Indies batter Rutherford",
-    "description": "KATHMANDU: West Indies’ explosive batter Sherfane Rutherford has signed with Sudurpaschim Royals for the third edition of the Nepal Premier League (NPL). The 28-year-old left-handed batter and medium-pace bowler is known for his aggressive approach in the sho…",
-    "url": "https://english.khabarhub.com/2026/24/572959/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Sherfane-Rutherford.jpg",
-    "publishedAt": "2026-10-24T03:05:57Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We have to think about posting 350 first': Haris Rauf on need for bigger totals in modern-day cricket",
-    "description": "Haris Rauf said his role alongside Shaheen Afridi and Naseem Shah is to take wickets and strengthen Pakistan’s bowling attack. He stressed teamwork, middle-over breakthroughs and the need for bigger totals as ODI cricket becomes more aggressive. Rauf is also …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-have-to-think-about-posting-350-first-haris-rauf-on-need-for-bigger-totals-in-modern-day-cricket/articleshow/135159422.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135159443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T01:19:17Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Stephen Fleming is right - it's embarrassing that England can't produce their own elite coach. This is what the ECB are doing to fix their broken pipeline, reveals LAWRENCE BOOTH",
-    "description": "As so often in English cricket, it took an outsider to say the quiet bit out loud. Fleming's priority is to help the English game, not just himself.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16233345/stephen-fleming-england-cricket-coach-ecb.html",
-    "image": "https://i.dailymail.com/1s/2026/10/23/16/112053009-0-image-m-56_1792768778358.jpg",
-    "publishedAt": "2026-10-24T01:00:49Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Will Ishan Kishan's injury be Vaibhav Sooryavanshi's gain? 15-year-old in contention for 2nd T20I vs New Zealand",
-    "description": "Ishan Kishan has been ruled out of the second T20I match against New Zealand due to a strain. The team management has added uncapped wicketkeeper-batter Kumar Kushagra as a replacement in the squad. Vaibhav Sooryavanshi may finally get an opportunity to play …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/will-ishan-kishans-injury-be-vaibhav-sooryavanshis-gain-15-year-old-in-contention-for-2nd-t20i-vs-new-zealand/articleshow/135159239.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135159322,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-24T00:58:43Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Eagles’ $98 Million Pro Bowler Suffers Injury ‘Setback’ Before Cowboys Game",
-    "description": "Eagles' $98 million Pro Bowl edge rusher suffers injury \"setback\" before Cowboys game. The post Eagles’ $98 Million Pro Bowler Suffers Injury ‘Setback’ Before Cowboys Game appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/philadelphia-eagles/edge-rusher-jonathan-greenard-injury-setback/",
-    "image": "https://s.yimg.com/lo/mysterio/api/71a6ee1986ffd8a4e60ec5f74594965054f795655578338a7f117eb2f4b0ba34/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F6db5d9d56038ba2ba97f2430447142e9.jpg",
-    "publishedAt": "2026-10-24T00:10:56Z",
-    "author": "Tony Adame"
-  },
-  {
-    "source": "New York Post",
-    "title": "Rams mourn death of legendary five-time Pro Bowler who helped build a dynasty",
-    "description": "Former Rams running back Lawrence McCutcheon, a five-time Pro Bowler and longtime front office executive, died at 76 after battling Parkinson's disease.",
-    "url": "https://nypost.com/2026/10/23/sports/rams-legend-lawrence-mccutcheon-dies-at-76-after-battle-with-parkinsons-disease/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-    "image": "https://s.yimg.com/lo/mysterio/api/fb9ab3ad7875d06ead34e3af99d19a7d6b570b3fa6a740cf13339e4a439a049c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F1909184e8096c2afa14c29317bf5acc5.jpg",
-    "publishedAt": "2026-10-23T21:32:19Z",
-    "author": "Michael Duarte"
-  },
-  {
-    "source": "New York Post",
-    "title": "Rams mourn death of legendary five-time Pro Bowler who helped build a dynasty",
-    "description": "Former Rams running back Lawrence McCutcheon, a five-time Pro Bowler and longtime front office executive, died at 76 after battling Parkinson's disease.",
-    "url": "https://nypost.com/2026/10/23/sports/rams-legend-lawrence-mccutcheon-dies-at-76-after-battle-with-parkinsons-disease/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-5gxce484r-1792790950475.jpg?quality=75&strip=all&1792776599&w=1200",
-    "publishedAt": "2026-10-23T21:32:19Z",
-    "author": "Michael Duarte"
   }
 ]
 ;
