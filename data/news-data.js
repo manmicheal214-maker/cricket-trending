@@ -1,5 +1,59 @@
 window.cricketNews = [
   {
+    "source": "Khabarhub.com",
+    "title": "Third edition of NPL begins today",
+    "description": "KATHMANDU: The third edition of the Nepal Premier League (NPL) is set to begin today (Monday), with the Tribhuvan University International Cricket Ground in Kirtipur decorated ahead of the tournament. The Cricket Association of Nepal (CAN) briefed the media o…",
+    "url": "https://english.khabarhub.com/2026/26/573133/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-TU-ground-e1792943788972.jpg",
+    "publishedAt": "2026-10-25T23:30:00Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "England 'gutted' after second extraordinary ODI defeat in as many games",
+    "description": "An 89-run last-wicket stand has given Pakistan a stunning ODI victory over England, who just days ago failed to defend 429 in its last game against Sri Lanka.",
+    "url": "https://www.abc.net.au/news/2026-10-26/england-falls-to-second-incredible-odi-defeat-in-a-week/107307980",
+    "image": "https://live-production.wcms.abc-cdn.net.au/5cca5eb3afbbaaf194527641821c682b?impolicy=wcms_watermark_news&cropH=1387&cropW=2466&xPos=437&yPos=186&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-25T22:30:22Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "India dominate Zimbabwe in Vadodara as Harmanpreet, Deepti and Vaishnavi headline 121-run win",
+    "description": "In a dominant performance, India Women triumphed over Zimbabwe in the second ODI match, with both Harmanpreet Kaur and Deepti Sharma shining through with impressive centuries. Pratika Rawal added stability with a crucial innings, helping set a significant tot…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5afec14f-35cf-483b-bbf4-ee29e55852d9",
+    "image": null,
+    "publishedAt": "2026-10-25T21:40:00Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Storms batter Europe hitting power supplies, flights and phones",
+    "description": "LONDON: Storms battered northern Europe Sunday (Oct 25), killing a man, cutting power to more than 150,000 homes and disrupting travel and phone networks.A man died when a tree fell on him in southwestern Scotland, while a runner in a marathon in northern Fra…",
+    "url": "https://www.channelnewsasia.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-6491546",
+    "image": "https://dam.mediacorp.sg/image/upload/s--trxFCnXg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Britain_Storms_8_639.jpg?itok=Hv9UfE3V",
+    "publishedAt": "2026-10-25T21:31:12Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "From outranking the Fab Four to fight for his place: Rise, reign and the unraveling of Marnus Labuschagne",
+    "description": "Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-outranking-the-fab-four-to-fight-for-his-place-rise-reign-and-the-unraveling-of-marnus-labuschagne/articleshow/135196369.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135196555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-25T20:00:39Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "A match like none other: Transplant survivors, donors celebrate a victorious second innings",
+    "description": "Champions of Life Cricket Cup 2026 in Jaipur brought 70 transplant recipients and living donors together, highlighting active post-transplant life and women captains.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/a-match-like-none-other-transplant-survivors-donors-celebrate-a-victorious-second-innings/articleshow/135197357.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135197355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-25T19:36:11Z",
+    "author": "Times News Network"
+  },
+  {
     "source": "BBC News",
     "title": "Hose signs new three-year Worcestershire contract",
     "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
@@ -169,15 +223,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135190988,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-25T12:26:27Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "CNA",
-    "title": "Anderson disappointed to see 25-year Lancashire journey come to an end",
-    "description": "Oct 25 : Fast bowler James Anderson expressed disappointment on Sunday after Lancashire decided not to renew his contract, bringing an end to a 25-year association between England's all-time leading test wicket-taker and his home county.Anderson, who claimed …",
-    "url": "https://www.channelnewsasia.com/sport/anderson-disappointed-see-25-year-lancashire-journey-come-end-6490476",
-    "image": "https://dam.mediacorp.sg/image/upload/s--Z4fNz_rP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-25T121556Z_1_LYNXNPEM9O0AM_RTROPTP_3_CRICKET-ENGLAND-LAN-ANDERSON.JPG?itok=Dkara1w7",
-    "publishedAt": "2026-10-25T12:15:56Z",
-    "author": null
   }
 ]
 ;
