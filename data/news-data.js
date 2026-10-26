@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "The Punch",
+    "title": "Nigerian stars hit historic 100-mark milestones in 2026",
+    "description": "From career goals and club appearances to international caps and cricket centuries, Nigerian sportsmen have reached significant landmarks across different competitions in 2026, PETER AKINBO writes Tolu Arokodare (Ajax) Arokodare scored his 100th career goal i…",
+    "url": "https://punchng.com/nigerian-stars-hit-historic-100-mark-milestones-in-2026/",
+    "image": "https://punchng.com/wp-content/uploads/2026/06/Lookman-athletico-1200x630.webp",
+    "publishedAt": "2026-10-24T23:56:43Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "The Punch",
+    "title": "YellowGreens book Africa Regional Final spot",
+    "description": "Nigeria’s men’s cricket team, the YellowGreens, have qualified for the ICC T20 World Cup Africa Regional Final after beating Lesotho by seven wickets in Ab\n\nRead More: https://punchng.com/yellowgreens-book-africa-regional-final-spot/",
+    "url": "https://punchng.com/yellowgreens-book-africa-regional-final-spot/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/25000202/YellowGreens-book-Africa-Regional-Final-spot_1792882922-1200x630.webp",
+    "publishedAt": "2026-10-24T23:35:03Z",
+    "author": "Punch Newspapers"
+  },
+  {
     "source": "Slickdeals.net",
     "title": "Cricket Wireless Free Apple iPhone 16e + 3-Mo. Supreme Unlimited Plan with Port-in for $180 (1 replies)",
     "description": "Not the best deal, just a PSA. Link: https://www.cricketwireless.com/s...28gb-black\n\nApple iPhone 16e for Free when port in your number and pre-purchase 3-Mo. Supreme Unlimited Plan (total $180) with",
