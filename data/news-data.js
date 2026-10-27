@@ -1,5 +1,131 @@
 window.cricketNews = [
   {
+    "source": "Business Standard",
+    "title": "India rest Ishan Kishan for 3rd T20I vs NZ as precautionary measure",
+    "description": "Injured wicketkeeper-batter Ishan Kishan will be unavailable for the third T20 International against New Zealand as a precautionary measure, India's bowling coach Morne Morkel said on Monday.\nThe 28-year-old had suffered a right adductor strain during the ser…",
+    "url": "https://www.business-standard.com/cricket/news/india-rest-ishan-kishan-for-3rd-t20i-vs-nz-as-precautionary-measure-126102600147_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791351207-1156.jpg",
+    "publishedAt": "2026-10-26T04:35:24Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: Ishan Kishan ruled out ahead of 3rd T20I as precautionary measure",
+    "description": "Ishan Kishan will miss India's third T20 International against New Zealand in Wellington on October 27 as he continues recovering from a right adductor strain. Bowling coach Morne Morkel said the wicketkeeper-batter was improving but unavailable as a precauti…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-nz-ishan-kishan-ruled-out-ahead-of-3rd-t20i-as-precautionary-measure/articleshow/135202666.cms",
+    "image": "https://img.etimg.com/thumb/msid-135202728,width-1200,height-900,imgsize-99014,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T04:26:30Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: Ishan Kishan ruled out of third T20I against New Zealand",
+    "description": "India had also brought in uncapped wicketkeeper-batter Kumar Kushagra as cover for the injured Kishan. The BCCI has confirmed that Kushagra will remain with the squad for the third match. India have won the first two matches and lead the five-match series 2-0…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ishan-kishan-ruled-out-of-third-t20i-against-new-zealand/articleshow/135202604.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135202645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T04:21:02Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Harmanpreet, Deepti lead India to ODI series win against Zimbabwe",
+    "description": "Harmanpreet Kaur was brutal and Deepti Sharma sublime as their twin centuries headlined India's commanding 121-run victory over minnows Zimbabwe in the second women's ODI here on Sunday.\nIndia thus took an unassailable 2-0 lead in the three-match series havin…",
+    "url": "https://www.business-standard.com/cricket/news/harmanpreet-deepti-lead-india-to-odi-series-win-against-zimbabwe-126102500700_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/26/thumb/fitandfill/1200X628/1792988315-0252.jpg",
+    "publishedAt": "2026-10-26T04:19:15Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India become first team to register 200 wins in T20Is after thrilling New Zealand chase",
+    "description": "India achieved a historic milestone by becoming the first team to secure 200 T20 International victories. In a thrilling match, India chased down 181 runs, recovering from a tough position at 70 for five. Tilak Varma and Nitish Kumar Reddy formed a crucial un…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-become-first-team-to-register-200-wins-in-t20is-after-thrilling-new-zealand-chase/articleshow/135202577.cms",
+    "image": "https://img.etimg.com/thumb/msid-135202576,width-1200,height-900,imgsize-179060,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T04:17:29Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Cricket remains my happiness: Harmanpreet opens up on life beyond captaincy",
+    "description": "Veteran batter Harmanpreet Kaur has come to terms with life beyond captaincy and said she wants to keep enjoying her batting after producing yet another superlative knock in India's 121-run win over Zimbabwe in the second ODI.\nAfter scoring a fine 91 in a T20…",
+    "url": "https://www.business-standard.com/cricket/news/cricket-remains-my-happiness-harmanpreet-opens-up-on-life-beyond-captaincy-126102500745_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/thumb/fitandfill/1200X628/1761885196-6526.jpg",
+    "publishedAt": "2026-10-26T04:15:18Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PAK vs ENG: Drama in Lahore! Shadab Khan walks off, England celebrate, then comes a twist - WATCH",
+    "description": "The drama unfolded in the 45th over when Gus Atkinson trapped Shadab on the pads. The bowler appealed, and the umpire raised his finger. Shadab appeared to accept his fate and began walking away. England's players thought they had won. Some started shaking ha…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/drama-in-lahore-shadab-khan-walks-off-england-celebrate-then-comes-a-twist/articleshow/135201353.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135201576,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T03:04:22Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Peoplesreview.com.np",
+    "title": "NPL starts today: Champion’s prize money raised to Rs 15 million, DRS introduced",
+    "description": "Kathmandu, Oct 26: The third edition of the Nepal Premier League (NPL) begins Monday at the Tribhuvan University International Cricket Ground in Kirtipur, with a bigger prize pool, rising commercial returns and the introduction of the Decision Review System (…",
+    "url": "https://peoplesreview.com.np/2026/10/26/npl-starts-today-champions-prize-money-raised-to-rs-15-million-drs-introduced/",
+    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/10/NPL2-edited.jpg",
+    "publishedAt": "2026-10-26T02:45:00Z",
+    "author": "team1"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I don't think we can reveal on live TV': Shadab Khan on chat with Haris Rauf",
+    "description": "Shadab Khan led a remarkable comeback for Pakistan against England by scoring an unbeaten 113 runs. Together with Haris Rauf, they built a record-breaking partnership for the last wicket in ODI history. Earlier, England posted a total of 241 runs, with Ben Du…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135200577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T02:03:30Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Chitwan Rhinos aim for NPL title, support rhino conservation",
+    "description": "CHITWAN: Chitwan Rhinos, a cricket club named after the district’s iconic one-horned rhinoceros, has pledged to support rhino conservation by allocating five percent of the proceeds from sales of its T-shirts and other merchandise to conservation efforts. The…",
+    "url": "https://english.khabarhub.com/2026/26/573150/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Chitwan-Rhinos-NPL.jpg",
+    "publishedAt": "2026-10-26T01:42:52Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression",
+    "description": "Amit Mishra faced significant challenges after being excluded from the Indian cricket team for an extended period. He battled depression for 18 months, questioning his performance while continuing to play. A conversation with a selector helped him realize he …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-did-i-do-wrong-ex-india-star-reveals-how-being-dropped-from-team-pushed-him-into-depression/articleshow/135200379.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135200409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T01:32:05Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Vikings Set Stage to Trade for 3-Time Pro Bowler Amid Aaron Jones’ Injury",
+    "description": "The Minnesota Vikings have several more reasons to trade for a star RB following a win over the Colts in Week 7. The post Vikings Set Stage to Trade for 3-Time Pro Bowler Amid Aaron Jones’ Injury appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/minnesota-vikings/jonathan-taylor-trade-aaron-jones-injury-colts-nfl-news/",
+    "image": "https://s.yimg.com/lo/mysterio/api/6d84c9559e396907ca500ce1e7ce411b2f312819f9cae07097fee7d8b1c3f6cd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F33ab867a5d9914ee50ce4f29fa1b8eb5.jpg",
+    "publishedAt": "2026-10-26T00:41:12Z",
+    "author": "Max Dible"
+  },
+  {
+    "source": "The Punch",
+    "title": "Cricket: Nigeria stun Uganda to win Africa W’Cup Qualifier C",
+    "description": "Nigeria’s cricket team secured a dramatic one-run victory over Uganda, their first ever, to win the ICC Men’s T20 World Cup Africa Sub-Regional Qualifier C\n\nRead More: https://punchng.com/cricket-nigeria-stun-uganda-to-win-africa-wcup-qualifier-c/",
+    "url": "https://punchng.com/cricket-nigeria-stun-uganda-to-win-africa-wcup-qualifier-c/",
+    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/26004457/Cricket_1792971897.webp",
+    "publishedAt": "2026-10-26T00:16:04Z",
+    "author": "Punch Newspapers"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Ravens Pro Bowler Accused of Being 'Scared' of Bengals' Ja'Marr Chase",
+    "description": "Baltimore Ravens cornerback Marlon Humphrey was called out by fans for being afraid to match up with Cincinnati Bengals wide receiver Ja'Marr Chase.\nThe two teams battled on Sunday, but Humphrey spoke about Chase on Thursday. Humphrey said one thing that caug…",
+    "url": "https://biztoc.com/x/32dd976865524db7",
+    "image": "https://biztoc.com/cdn/32dd976865524db7_s.webp",
+    "publishedAt": "2026-10-26T00:09:13Z",
+    "author": "newsweek.com"
+  },
+  {
     "source": "Khabarhub.com",
     "title": "Third edition of NPL begins today",
     "description": "KATHMANDU: The third edition of the Nepal Premier League (NPL) is set to begin today (Monday), with the Tribhuvan University International Cricket Ground in Kirtipur decorated ahead of the tournament. The Cricket Association of Nepal (CAN) briefed the media o…",
@@ -141,87 +267,6 @@ window.cricketNews = [
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-to-accept-it-harmanpreet-kaur-embraces-life-beyond-captaincy-says-cricket-continues-to-give-her-happiness/articleshow/135194907.cms",
     "image": "https://static.toiimg.com/thumb/msid-135194966,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-25T16:58:37Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Thelocal.com",
-    "title": "Storms batter Europe hitting power supplies, flights and phones",
-    "description": "Storms battered northern Europe on Sunday cutting power to more than 150,000 homes, forcing the cancellation of hundreds of flights and silencing phone networks.",
-    "url": "https://www.thelocal.com/20261025/storms-batter-europe-hitting-power-supplies-flights-and-phones",
-    "image": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20261023__D49D4CR__v1__MidRes__FranceWeatherStorm.jpg@webp",
-    "publishedAt": "2026-10-25T16:15:06Z",
-    "author": "AFP/The Local"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India dominate Zimbabwe as Harmanpreet, Deepti and Vaishnavi headline 121-run win",
-    "description": "In a dominant performance, India Women triumphed over Zimbabwe in the second ODI match, with both Harmanpreet Kaur and Deepti Sharma shining through with impressive centuries. Pratika Rawal added stability with a crucial innings, helping set a significant tot…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-dominate-zimbabwe-in-vadodara-as-harmanpreet-deepti-and-vaishnavi-headline-121-run-win/articleshow/135194005.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135194185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T16:10:02Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "CAN announces Rs 3 million reward for Asia Cup-qualified team",
-    "description": "KATHMANDU: The Cricket Association of Nepal (CAN) has announced a cash reward of Rs 3 million for the national cricket team for qualifying for the Asian Cricket Council (ACC) Asia Cup. CAN President Chatur Bahadur Chand announced the reward at a press confere…",
-    "url": "https://english.khabarhub.com/2026/25/573131/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2021/06/1200px-Cricket_Association_of_Nepal_logo.svg_.png",
-    "publishedAt": "2026-10-25T15:50:01Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Smriti Mandhana gives standing ovation as Harmanpreet Kaur slams eighth ODI century - Watch",
-    "description": "Harmanpreet went on to score 126 off 121 balls, while Deepti remained unbeaten on 106 off 86 deliveries as India recovered from an early collapse to post 328 for six.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/smriti-mandhana-gives-standing-ovation-as-harmanpreet-kaur-slams-eighth-odi-century-watch/articleshow/135193702.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135193763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T15:46:39Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL champions to receive Rs. 15 million in prize money",
-    "description": "KATHMANDU: The winners of the third edition of the Nepal Premier League (NPL) will receive Rs. 15 million in prize money, an increase of Rs. 4 million from the previous edition. The Cricket Association of Nepal (CAN) announced the revised prize money at a pre…",
-    "url": "https://english.khabarhub.com/2026/25/573121/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2025/11/NPL-2025.jpg",
-    "publishedAt": "2026-10-25T14:18:20Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Cricket great Anderson leaves Lancashire after 25 years and sad how time at club has finished",
-    "description": "MANCHESTER, England (AP) — James Anderson's 25-year stint at Lancashire is over — and the English cricket great has expressed regret at how his time at the club has come to an end.Lancashire confirmed Sunday that it would not be offering the 44-year-old Ander…",
-    "url": "https://sports.yahoo.com/articles/cricket-great-anderson-leaves-lancashire-141257770.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/36f61918910258a285857c4f9120c4c69c062fbf08435f8f3723efcbd1a7e499/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4ca57c0cdea888621f93ce27cc4e9410.jpg",
-    "publishedAt": "2026-10-25T14:12:57Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Why is Pakistan wearing pink jerseys vs. England in ODI tri-series match?",
-    "description": "Why is Pakistan wearing pink jerseys vs England? Shaheen Afridi & Co. swapped green for pink in the ODI tri-series in Lahore to support breast cancer awareness.",
-    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-wearing-pink-jersey-england-odi-tri-series-match/8b8032e0172ffcc6dd98111f",
-    "image": "https://s.yimg.com/lo/mysterio/api/f2df5444f6e124d98780a8e7d33c4b4668b6b2f71f9b7c7f86345180aba1e5c9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fc5a86d23e9f16b34f65e72cae54adeeb",
-    "publishedAt": "2026-10-25T13:31:33Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Horse stable, swimming pool, RJ monograms: Inside Ravindra Jadeja’s 8-acre Jamnagar farmhouse",
-    "description": "Ravindra Jadeja, a celebrated cricketer, leads a life of luxury, epitomised by his stunning home in Ahmedabad and a serene farmhouse in Jamnagar. The farmhouse boasts a vast lawn, a glistening swimming pool, and spacious stables for his prized horses. Jadeja'…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/horse-stable-swimming-pool-rj-monograms-inside-ravindra-jadejas-8-acre-jamnagar-farmhouse/articleshow/135191320.cms",
-    "image": "https://img.etimg.com/thumb/msid-135191350,width-1200,height-900,imgsize-284697,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-10-25T12:45:31Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet Kaur surpasses Mithali Raj, becomes India's second-highest ODI centurion",
-    "description": "In a stunning display of skill, Harmanpreet Kaur achieved an impressive 126 runs in the second ODI against Zimbabwe on Sunday, marking her as India's second-highest century-maker in women's ODIs, surpassing the record previously held by Mithali Raj. Deepti Sh…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-surpasses-mithali-raj-becomes-indias-second-highest-odi-centurion/articleshow/135190839.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135190988,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T12:26:27Z",
     "author": "Nitesh Dubey"
   }
 ]
