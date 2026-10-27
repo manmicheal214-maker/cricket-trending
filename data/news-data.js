@@ -1,5 +1,77 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "IPL 2027: Gareth Batty likely to join CSK's support staff | EXCLUSIVE",
+    "description": "NEW DELHI: Former England off-spinner Gareth Batty is likely to join Chennai Super Kings' (CSK) support staff as batting coach, TimesofIndia.com has",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-gareth-batty-likely-to-join-csks-support-staff-exclusive/articleshow/135208719.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135208789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T10:10:51Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan batter Saim Ayub released from squad in the middle of ODI tri-series, PCB explains why",
+    "description": "Pakistan batter Saim Ayub has left the ODI tri-series squad to work on his batting after scoring three consecutive single-digit totals. Sahibzada Farhan has replaced him for the remaining matches. Pakistan have qualified for the final with three straight wins…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-batter-saim-ayub-released-from-squad-in-the-middle-of-odi-tri-series-pcb-explains-why/articleshow/135207616.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135207850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T09:27:22Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I genuinely thought I was going to die': Ex-Australia cricketer Usman Khawaja reveals career-long health secret",
+    "description": "Former Australian cricketer Usman Khawaja has revealed he secretly battled rheumatoid arthritis throughout his career. Diagnosed at 22, he suffered severe knee pain and feared for his life. Medication helped him return to cricket and achieve success, includin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-genuinely-thought-i-was-going-to-die-ex-australia-cricketer-usman-khawaja-reveals-career-long-health-secret/articleshow/135206169.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135206471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T08:20:30Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "CNA",
+    "title": "Australia vice-captain Gardner glad for cricket's 'escape' after personal turmoil",
+    "description": "MELBOURNE, Oct 26 : Australia vice-captain Ashleigh Gardner says cricket has provided a welcome escape during a challenging period in her personal life, as she thanked teammates for their support following the breakdown of her marriage.Gardner's marriage brok…",
+    "url": "https://www.channelnewsasia.com/sport/australia-vice-captain-gardner-glad-crickets-escape-after-personal-turmoil-6492506",
+    "image": "https://dam.mediacorp.sg/image/upload/s--lU3ifhoh--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-26T073458Z_1_LYNXNPEM9P0J6_RTROPTP_3_CRICKET-WWC-AUS-NZL.JPG?itok=oQba5ov0",
+    "publishedAt": "2026-10-26T07:34:58Z",
+    "author": null
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "I made history and changed Australian cricket | Australian Story",
+    "description": "And that's how you make history Pakistan-born Usman Khawaja became Australia's first Muslim Test cricketer at the age of 24.",
+    "url": "https://biztoc.com/x/f977a9abe0508c3d",
+    "image": "https://biztoc.com/cdn/f977a9abe0508c3d_s.webp",
+    "publishedAt": "2026-10-26T07:22:08Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Karnali Yaks seek replacement as Farhan returns to Pakistan",
+    "description": "KATHMANDU: Pakistani cricketer Sahibzada Farhan, who arrived in Nepal to play for the Karnali Yaks in the Nepal Premier League (NPL), is set to return to Pakistan after being called up to the national team. The Karnali Yaks announced that Farhan has been sele…",
+    "url": "https://english.khabarhub.com/2026/26/573198/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Sahibzada-Farhan-.png",
+    "publishedAt": "2026-10-26T06:51:56Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PM Modi’s lookalike takes a dig at Kunal Kamra on video call in Samay Raina India’s Got Latent, says ‘ye kya WhatsApp ka chutkula utha liya tha?’",
+    "description": "Raahil, also known as Odi Ji, showcased his talent by impersonating Prime Minister Narendra Modi on India’s Got Latent. After the performance, he engaged in a humorous video call with comedian Kunal Kamra. Raahil made a witty remark about the falling value of…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/pm-modis-lookalike-takes-a-dig-at-kunal-kamra-on-video-call-in-samay-raina-indias-got-latent-says-ye-kya-whatsapp-ka-chutkula-utha-liya-tha/articleshow/135203250.cms",
+    "image": "https://img.etimg.com/thumb/msid-135203839,width-1200,height-900,imgsize-919819,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T05:36:22Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Sri Lanka’s Perera to play for Janakpur Bolts in NPL",
+    "description": "KATHMANDU: Sri Lankan wicketkeeper-batter Kusal Perera is set to represent the Janakpur Bolts in the third edition of the Nepal Premier League (NPL). The Janakpur Bolts announced Perera’s signing on their official Facebook page today. Welcoming the Sri Lankan…",
+    "url": "https://english.khabarhub.com/2026/26/573182/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Kusal-Perera--e1792992720209.png",
+    "publishedAt": "2026-10-26T05:30:27Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "Business Standard",
     "title": "India rest Ishan Kishan for 3rd T20I vs NZ as precautionary measure",
     "description": "Injured wicketkeeper-batter Ishan Kishan will be unavailable for the third T20 International against New Zealand as a precautionary measure, India's bowling coach Morne Morkel said on Monday.\nThe 28-year-old had suffered a right adductor strain during the ser…",
@@ -196,78 +268,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b82/live/788e9ef0-d0a5-11f1-adbe-cd0eaeb0fff9.jpg",
     "publishedAt": "2026-10-25T18:54:42Z",
     "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Cricket: Newlands to provide test of more than bat and ball for Australia",
-    "description": "Australia will compete against South Africa in a crucial test match at Newlands, with both teams level in the series. Former captain Steve Smith, under scrutiny for past actions during the Sandpapergate scandal, aims to improve his performance. Current skippe…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-newlands-to-provide-test-of-more-than-bat-and-ball-for-australia/articleshow/135196935.cms",
-    "image": "https://img.etimg.com/thumb/msid-135196934,width-1200,height-900,imgsize-89626,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-25T18:44:28Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Deepti Sharma creates history, becomes first Indian woman to score ODI ton at No. 6 or lower",
-    "description": "In a remarkable display of skill, Deepti Sharma secured her place in history with an unbeaten century against Zimbabwe in Vadodara. Achieving the milestone in just 83 balls, she struck 15 boundaries, demonstrating her batting prowess from the No. 6 position. …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deepti-sharma-creates-history-becomes-first-indian-woman-to-score-odi-ton-at-no-6-or-lower/articleshow/135191534.cms",
-    "image": "https://s.yimg.com/lo/mysterio/api/76a92d20302d35ac843b9179ee21767310ff9d1399658374b0190c9517083429/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2Fdf1b63fb88992c8641cd06bfb7f7fe23.jpg",
-    "publishedAt": "2026-10-25T18:28:00Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Superman Shadab Khan,' 'One of the greatest ODI tons': Cricket world reacts as Pakistan pull off a heist against England",
-    "description": "With Shadab Khan leading Pakistan to a miraculous 1-wicket win over England, the cricket world was quick to laud him with praise for his hard-fought century.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shadab-khan-greatest-odi-tons-cricket-world-reacts-pakistan-beat-england/675ad186e315062200847b66",
-    "image": "https://s.yimg.com/lo/mysterio/api/a124b54f8b835b704258adbc4ead6eb35962d894727572234f3e13236c9b5984/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8e3ea1e5c69236bfff0b5c173fe02fbf",
-    "publishedAt": "2026-10-25T17:44:00Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Pakistan defeats England, setting a world record at the last wicket.",
-    "description": "Cricket is a beautiful game full of uncertainties. The thrilling one-wicket victory achieved by the Pakistan team against England in the tri-nation cricket series held in Pakistan once again demonstrated this reality to the world.Pakistan, which was on the ve…",
-    "url": "https://english.gossiplankanews.com/2026/10/pakistan-defeats-england-setting-world.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vCI-sRrk6eHCl9D1bUZ26nj21HoTE5URvfP0NRM23KNiquI34KCAUz2MiE8yHuELRUyeDop5VVSugApCTTYUsq9mwcIC2V0EaIpRscKpAYnLm6JKz4KjxJ8uS_F07GZNwjKOlytuMoPDxUUgg8y9eXiCGxiLh2Sgjo67w=w1600",
-    "publishedAt": "2026-10-25T17:40:21Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "BBC News",
-    "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-    "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-    "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3323/live/f31148a0-d085-11f1-a4ba-351760cfea6a.jpg",
-    "publishedAt": "2026-10-25T17:27:28Z",
-    "author": "https://www.facebook.com/bbcnews"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Harmanpreet, Deepti hit centuries as India thrash Zimbabwe by 121 runs in second ODI",
-    "description": "India secured a dominant victory over Zimbabwe in the second ODI, winning by 121 runs. Harmanpreet Kaur and Deepti Sharma each scored centuries, contributing significantly to India's total. The team set a challenging target of 328 runs for Zimbabwe to chase. …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/harmanpreet-kaur-and-deepti-sharma-shine-as-india-dominates-zimbabwe-by-121-runs-in-thrilling-womens-odi/articleshow/135195259.cms",
-    "image": "https://img.etimg.com/thumb/msid-135195314,width-1200,height-900,imgsize-82730,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-25T17:11:38Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shadab Khan and Haris Rauf with record 89-run partnership for last wicket, pull off miracle as Pakistan stun England in Lahore",
-    "description": "Shadab Khan, who came in at number eight, did the unthinkable, stitching together an unbeaten 89-run partnership for the last wicket with Rauf to take Pakistan home in the fourth ODI of the tri-series, which also features Sri Lanka.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shadab-khan-and-haris-rauf-pull-off-miracle-with-record-89-run-partnership-for-last-wicket-as-pakistan-stun-england-in-lahore/articleshow/135194965.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135195074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:04:34Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I want to accept it': Harmanpreet Kaur embraces life beyond captaincy, says cricket continues to give her happiness",
-    "description": "Harmanpreet Kaur delivered an outstanding performance with a remarkable 126 runs, steering India to a terrific victory against Zimbabwe in the second ODI. Emphasizing her newfound career phase, she expressed the thrill of enjoying her batting. Partnering with…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-to-accept-it-harmanpreet-kaur-embraces-life-beyond-captaincy-says-cricket-continues-to-give-her-happiness/articleshow/135194907.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135194966,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T16:58:37Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
