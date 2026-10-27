@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Rt-english.com",
+    "title": "ICC turning into an EU court – researcher (VIDEO)",
+    "description": "The ICC is becoming a European court as EU lawmakers reaffirm their support despite growing US pressure, George Szamuely has told RT Read Full Article at RT.com",
+    "url": "https://rt-english.com/news/647763-icc-becoming-eu-court-szamuely/",
+    "image": "https://mf.b37mrtl.ru/files/2026.10/article/6adf91cb203027183769cac8.png",
+    "publishedAt": "2026-10-26T19:28:25Z",
+    "author": "RT"
+  },
+  {
+    "source": "Silver And Black Pride",
+    "title": "Rams 13-personnel batter Raiders defense",
+    "description": "The Las Vegas Raiders defense is turning into the get-right game for opponents’ struggling offenses.",
+    "url": "https://www.silverandblackpride.com/las-vegas-raiders-analysis/143992/raiders-rams-week-7-defense-rod-leonard",
+    "image": "https://s.yimg.com/lo/mysterio/api/f9462eaed96a9de631bbc50f1400e178b7a24e9c714eedea73aca2ffcb7ef3ea/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F85b723c1bf92fecc0ebbc34f45524a39.jpg",
+    "publishedAt": "2026-10-26T19:01:00Z",
+    "author": "Philip Robinson"
+  },
+  {
+    "source": "The Times of India",
+    "title": "A cricket match where every physics answer scores a run",
+    "description": "IIM Ahmedabad prof chronicles Gujarat teacher-led innovations: cricket-style physics gamification, student-run library model, and low-cost school TV boosting learning.",
+    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/a-cricket-match-where-every-physics-answer-scores-a-run/articleshow/135218285.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135218283,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T18:40:51Z",
+    "author": "Parth Shastri"
+  },
+  {
+    "source": "The Times of India",
+    "title": "CSK clear the decks for Zaheer-led reset ahead of IPL 2027; part ways with Hussey, bowling coach, fielding coach, physio",
+    "description": "Five-time IPL champions Chennai Super Kings (CSK) have begun a major overhaul of their support staff ahead of the 2027 season, parting ways with several",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-clear-the-decks-for-zaheer-led-reset-ahead-of-ipl-2027-part-ways-with-hussey-bowling-coach-fielding-coach-physio/articleshow/135216211.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135216379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T17:23:25Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Chennai Super Kings and batting coach Mike Hussey part ways; Batty joins as assistant coach",
+    "description": "Chennai Super Kings have announced changes in their coaching staff in preparation for IPL 2027. They have parted ways with batting coach Mike Hussey and bowling coach Eric Simons, replacing them with new personnel. Former player Mohit Sharma has taken over as…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/chennai-super-kings-and-batting-coach-mike-hussey-part-ways-batty-joins-as-assistant-coach/articleshow/135215993.cms",
+    "image": "https://img.etimg.com/thumb/msid-135216002,width-1200,height-900,imgsize-91602,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T16:58:12Z",
+    "author": "PTI"
+  },
+  {
     "source": "New York Post",
     "title": "Ex-49ers player’s 2 baby mamas reveal wild shared living arrangement with their ‘Master’",
     "description": "A four-time Pro Bowler is living quite the lifestyle.",
@@ -142,132 +187,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135207850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-26T09:27:22Z",
     "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I genuinely thought I was going to die': Ex-Australia cricketer Usman Khawaja reveals career-long health secret",
-    "description": "Former Australian cricketer Usman Khawaja has revealed he secretly battled rheumatoid arthritis throughout his career. Diagnosed at 22, he suffered severe knee pain and feared for his life. Medication helped him return to cricket and achieve success, includin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-genuinely-thought-i-was-going-to-die-ex-australia-cricketer-usman-khawaja-reveals-career-long-health-secret/articleshow/135206169.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135206471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T08:20:30Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia vice-captain Gardner glad for cricket's 'escape' after personal turmoil",
-    "description": "MELBOURNE, Oct 26 : Australia vice-captain Ashleigh Gardner says cricket has provided a welcome escape during a challenging period in her personal life, as she thanked teammates for their support following the breakdown of her marriage.Gardner's marriage brok…",
-    "url": "https://www.channelnewsasia.com/sport/australia-vice-captain-gardner-glad-crickets-escape-after-personal-turmoil-6492506",
-    "image": "https://dam.mediacorp.sg/image/upload/s--lU3ifhoh--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-26T073458Z_1_LYNXNPEM9P0J6_RTROPTP_3_CRICKET-WWC-AUS-NZL.JPG?itok=oQba5ov0",
-    "publishedAt": "2026-10-26T07:34:58Z",
-    "author": null
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "I made history and changed Australian cricket | Australian Story",
-    "description": "And that's how you make history Pakistan-born Usman Khawaja became Australia's first Muslim Test cricketer at the age of 24.",
-    "url": "https://biztoc.com/x/f977a9abe0508c3d",
-    "image": "https://biztoc.com/cdn/f977a9abe0508c3d_s.webp",
-    "publishedAt": "2026-10-26T07:22:08Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Karnali Yaks seek replacement as Farhan returns to Pakistan",
-    "description": "KATHMANDU: Pakistani cricketer Sahibzada Farhan, who arrived in Nepal to play for the Karnali Yaks in the Nepal Premier League (NPL), is set to return to Pakistan after being called up to the national team. The Karnali Yaks announced that Farhan has been sele…",
-    "url": "https://english.khabarhub.com/2026/26/573198/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Sahibzada-Farhan-.png",
-    "publishedAt": "2026-10-26T06:51:56Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PM Modi’s lookalike takes a dig at Kunal Kamra on video call in Samay Raina India’s Got Latent, says ‘ye kya WhatsApp ka chutkula utha liya tha?’",
-    "description": "Raahil, also known as Odi Ji, showcased his talent by impersonating Prime Minister Narendra Modi on India’s Got Latent. After the performance, he engaged in a humorous video call with comedian Kunal Kamra. Raahil made a witty remark about the falling value of…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/pm-modis-lookalike-takes-a-dig-at-kunal-kamra-on-video-call-in-samay-raina-indias-got-latent-says-ye-kya-whatsapp-ka-chutkula-utha-liya-tha/articleshow/135203250.cms",
-    "image": "https://img.etimg.com/thumb/msid-135203839,width-1200,height-900,imgsize-919819,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-26T05:36:22Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Sri Lanka’s Perera to play for Janakpur Bolts in NPL",
-    "description": "KATHMANDU: Sri Lankan wicketkeeper-batter Kusal Perera is set to represent the Janakpur Bolts in the third edition of the Nepal Premier League (NPL). The Janakpur Bolts announced Perera’s signing on their official Facebook page today. Welcoming the Sri Lankan…",
-    "url": "https://english.khabarhub.com/2026/26/573182/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Kusal-Perera--e1792992720209.png",
-    "publishedAt": "2026-10-26T05:30:27Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India rest Ishan Kishan for 3rd T20I vs NZ as precautionary measure",
-    "description": "Injured wicketkeeper-batter Ishan Kishan will be unavailable for the third T20 International against New Zealand as a precautionary measure, India's bowling coach Morne Morkel said on Monday.\nThe 28-year-old had suffered a right adductor strain during the ser…",
-    "url": "https://www.business-standard.com/cricket/news/india-rest-ishan-kishan-for-3rd-t20i-vs-nz-as-precautionary-measure-126102600147_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791351207-1156.jpg",
-    "publishedAt": "2026-10-26T04:35:24Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ: Ishan Kishan ruled out ahead of 3rd T20I as precautionary measure",
-    "description": "Ishan Kishan will miss India's third T20 International against New Zealand in Wellington on October 27 as he continues recovering from a right adductor strain. Bowling coach Morne Morkel said the wicketkeeper-batter was improving but unavailable as a precauti…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-nz-ishan-kishan-ruled-out-ahead-of-3rd-t20i-as-precautionary-measure/articleshow/135202666.cms",
-    "image": "https://img.etimg.com/thumb/msid-135202728,width-1200,height-900,imgsize-99014,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-26T04:26:30Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ: Ishan Kishan ruled out of third T20I against New Zealand",
-    "description": "India had also brought in uncapped wicketkeeper-batter Kumar Kushagra as cover for the injured Kishan. The BCCI has confirmed that Kushagra will remain with the squad for the third match. India have won the first two matches and lead the five-match series 2-0…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ishan-kishan-ruled-out-of-third-t20i-against-new-zealand/articleshow/135202604.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135202645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T04:21:02Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Harmanpreet, Deepti lead India to ODI series win against Zimbabwe",
-    "description": "Harmanpreet Kaur was brutal and Deepti Sharma sublime as their twin centuries headlined India's commanding 121-run victory over minnows Zimbabwe in the second women's ODI here on Sunday.\nIndia thus took an unassailable 2-0 lead in the three-match series havin…",
-    "url": "https://www.business-standard.com/cricket/news/harmanpreet-deepti-lead-india-to-odi-series-win-against-zimbabwe-126102500700_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/26/thumb/fitandfill/1200X628/1792988315-0252.jpg",
-    "publishedAt": "2026-10-26T04:19:15Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India become first team to register 200 wins in T20Is after thrilling New Zealand chase",
-    "description": "India achieved a historic milestone by becoming the first team to secure 200 T20 International victories. In a thrilling match, India chased down 181 runs, recovering from a tough position at 70 for five. Tilak Varma and Nitish Kumar Reddy formed a crucial un…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-become-first-team-to-register-200-wins-in-t20is-after-thrilling-new-zealand-chase/articleshow/135202577.cms",
-    "image": "https://img.etimg.com/thumb/msid-135202576,width-1200,height-900,imgsize-179060,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-26T04:17:29Z",
-    "author": "ANI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Cricket remains my happiness: Harmanpreet opens up on life beyond captaincy",
-    "description": "Veteran batter Harmanpreet Kaur has come to terms with life beyond captaincy and said she wants to keep enjoying her batting after producing yet another superlative knock in India's 121-run win over Zimbabwe in the second ODI.\nAfter scoring a fine 91 in a T20…",
-    "url": "https://www.business-standard.com/cricket/news/cricket-remains-my-happiness-harmanpreet-opens-up-on-life-beyond-captaincy-126102500745_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/thumb/fitandfill/1200X628/1761885196-6526.jpg",
-    "publishedAt": "2026-10-26T04:15:18Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PAK vs ENG: Drama in Lahore! Shadab Khan walks off, England celebrate, then comes a twist - WATCH",
-    "description": "The drama unfolded in the 45th over when Gus Atkinson trapped Shadab on the pads. The bowler appealed, and the umpire raised his finger. Shadab appeared to accept his fate and began walking away. England's players thought they had won. Some started shaking ha…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/drama-in-lahore-shadab-khan-walks-off-england-celebrate-then-comes-a-twist/articleshow/135201353.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135201576,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T03:04:22Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Peoplesreview.com.np",
-    "title": "NPL starts today: Champion’s prize money raised to Rs 15 million, DRS introduced",
-    "description": "Kathmandu, Oct 26: The third edition of the Nepal Premier League (NPL) begins Monday at the Tribhuvan University International Cricket Ground in Kirtipur, with a bigger prize pool, rising commercial returns and the introduction of the Decision Review System (…",
-    "url": "https://peoplesreview.com.np/2026/10/26/npl-starts-today-champions-prize-money-raised-to-rs-15-million-drs-introduced/",
-    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/10/NPL2-edited.jpg",
-    "publishedAt": "2026-10-26T02:45:00Z",
-    "author": "team1"
   }
 ]
 ;
