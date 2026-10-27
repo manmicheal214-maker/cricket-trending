@@ -1,5 +1,131 @@
 window.cricketNews = [
   {
+    "source": "New York Post",
+    "title": "Ex-49ers player’s 2 baby mamas reveal wild shared living arrangement with their ‘Master’",
+    "description": "A four-time Pro Bowler is living quite the lifestyle.",
+    "url": "https://nypost.com/2026/10/26/sports/ex-49er-matthew-judon-2-baby-mamas-shared-living-arrangement/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-mjcncb6dc-1793029425539.jpg?quality=75&strip=all&1793015040&w=1200",
+    "publishedAt": "2026-10-26T15:56:49Z",
+    "author": "Grant Young"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Stand near a powerful fan': India coach's unique advice to players ahead of Wellington Test",
+    "description": "India will play a two-match Test series against New Zealand after the ongoing T20I and ODI series. The first Test is scheduled to begin at the Basin Reserve in Wellington on November 18.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/stand-near-a-powerful-fan-india-coachs-unique-advice-to-players-ahead-of-wellington-test/articleshow/135213961.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135214056,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T14:36:53Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL 2026: Lumbini Lions trounce Sudurpaschim Royals by seven wickets",
+    "description": "KATHMANDU: Defending champions Lumbini Lions have made an impressive start to their title defence in the 2026 Nepal Premier League (NPL), defeating Sudurpaschim Royals by seven wickets in the tournament’s inaugural match. At the TU International Cricket Groun…",
+    "url": "https://english.khabarhub.com/2026/26/573271/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/NPL.jpg",
+    "publishedAt": "2026-10-26T14:17:16Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "BBC News",
+    "title": "Surrey head coach Batty quits for IPL role",
+    "description": "Surrey head coach Gareth Batty steps down to join Indian Premier League side Chennai Super Kings as assistant head coach.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cj5ynk9v0x5eo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5949/live/48d7c3f0-d143-11f1-8d4e-ef1672a07d66.jpg",
+    "publishedAt": "2026-10-26T13:56:44Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "As Virat Kohli, Rohit Sharma's era winds down, Lance Klusener sees Vaibhav Sooryavanshi as 'India’s next superstar'",
+    "description": "Lance Klusener is optimistic about the future of Indian cricket, emphasizing that the legacy will endure even after legends like Virat Kohli and Rohit Sharma step back. He sees Shubman Gill as a viable leader for the future and also points to Vaibhav Sooryava…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/as-virat-kohli-rohit-sharmas-era-winds-down-lance-klusener-sees-vaibhav-sooryavanshi-as-indias-next-superstar/articleshow/135212360.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135212685,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T13:03:23Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Business Standard",
+    "title": "IPL 2027 auction in Goa on December 16; retentions due November 15: Reports",
+    "description": "The day-long mini-auction will coincide with India's second ODI against Sri Lanka in Bengaluru and will be the last in the current cycle before a mega auction ahead of the 2028 season",
+    "url": "https://www.business-standard.com/sports/business/ipl-2027-auction-december-16-goa-retention-deadline-november-15-126102601223_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/12/thumb/featurecrop/1200X628/1702358133-3099.jpg",
+    "publishedAt": "2026-10-26T13:00:24Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Australia push panic button ahead of third Test; release opener from squad, Steve Smith uncertain",
+    "description": "Maddinson and back-up wicketkeeper Sam Harper have been allowed to return to Australia to play in the Sheffield Shield, with Cameron Green and Josh Inglis fit again and available for selection.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-push-panic-button-ahead-of-third-test-release-opener-from-squad-steve-smith-uncertain/articleshow/135211953.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135212096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T12:36:48Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+    "description": "Pakistan came back from 154-9 to beat England by one wicket, thanks to a historic innings by all-rounder Shadab Khan.",
+    "url": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adeef7c68-1792995196_42b3d8-1793003582.jpg?resize=1200%2C630&quality=80",
+    "publishedAt": "2026-10-26T12:11:59Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "South Africa announce playing XI for third Test against Australia; Gerald Coetzee replaces Anrich Nortje",
+    "description": "South Africa is set to make a strategic adjustment for their crucial third Test against Australia, with fast bowler Gerald Coetzee taking the place of the injured Anrich Nortje. Captain Temba Bavuma is at the helm as they seek to secure a series win. Followin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/south-africa-announce-playing-xi-for-third-test-against-australia-gerald-coetzee-replaces-anrich-nortje/articleshow/135211176.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135211346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T11:57:35Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "PM Balen Shah at TU Cricket Stadium for NPL Opener",
+    "description": "KATHMANDU: Prime Minister (PM) Balendra Shah arrived at the TU International Cricket Stadium in Kirtipur to watch the opening match of the third edition of the Nepal Premier League (NPL). Security has been tightened at the stadium following the Prime Minister…",
+    "url": "https://english.khabarhub.com/2026/26/573243/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/balen-1-1.jpg",
+    "publishedAt": "2026-10-26T11:55:31Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'We can make the final again': Aiden Markram outlines South Africa’s WTC ambition ahead of Australia decider",
+    "description": "Aiden Markram is optimistic about South Africa's chances of reaching the ICC World Test Championship final again. They recently equalized the series against Australia with a solid performance in Gqeberha. As the pivotal third Test approaches at Newlands, both…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-can-make-the-final-again-aiden-markram-outlines-south-africas-wtc-ambition-ahead-of-australia-decider/articleshow/135209937.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135210447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T11:25:21Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "CSK coaching staff, IPL 2027: Full list of Chennai Super Kings coach and support staff for 2027 Indian Premier League",
+    "description": "Chennai Super Kings coaching staff for IPL 2027: Full list of coaches and support staff as Zaheer Khan gets appointed as head coach for the season.",
+    "url": "https://www.cricketnews.com/en/cricket/news/csk-coaching-staff-ipl-2027-coach-support-staff/9ea9c90f45ac0f38258b9369",
+    "image": "https://s.yimg.com/lo/mysterio/api/638778236a9a6bca367787d0b56aaaa04cb339f6abf0ab6df486d31176fe5d53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F434907eff17f4529202b8bcf2efe8817",
+    "publishedAt": "2026-10-26T11:23:18Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Thousands of Mumbaikars chant along with Krishna Das at NSCI Dome",
+    "description": "Mumbai hosted two shows featuring devotional singer Krishna Das, drawing an audience of about 24,000 people. Attendees participated actively by singing along and swaying to rhythmic chants during the performances. Many notable figures, including cricketer Vir…",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/thousands-of-mumbaikars-chant-along-with-krishna-das-at-nsci-dome/articleshow/135210114.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135210051,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-26T11:05:19Z",
+    "author": "Debarati S Sen"
+  },
+  {
+    "source": "CNA",
+    "title": "South Africa make one change for series decider against Australia",
+    "description": "CAPE TOWN, Oct 26 : South Africa have made one change to their team for the third and final test against Australia at Newlands with fast bowler Gerald Coetzee replacing injured Anrich Nortje.South Africa have opted to otherwise stick with the players who secu…",
+    "url": "https://www.channelnewsasia.com/sport/south-africa-make-one-change-series-decider-against-australia-6492916",
+    "image": "https://dam.mediacorp.sg/image/upload/s--w_Kg1T1m--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-26T110333Z_1_LYNXNPEM9P0VQ_RTROPTP_3_CRICKET-TEST-ZAF-WIN.JPG?itok=9c_aowxF",
+    "publishedAt": "2026-10-26T11:03:33Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "IPL 2027: Gareth Batty likely to join CSK's support staff | EXCLUSIVE",
     "description": "NEW DELHI: Former England off-spinner Gareth Batty is likely to join Chennai Super Kings' (CSK) support staff as batting coach, TimesofIndia.com has",
@@ -142,132 +268,6 @@ window.cricketNews = [
     "image": "https://peoplesreview.com.np/wp-content/uploads/2026/10/NPL2-edited.jpg",
     "publishedAt": "2026-10-26T02:45:00Z",
     "author": "team1"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I don't think we can reveal on live TV': Shadab Khan on chat with Haris Rauf",
-    "description": "Shadab Khan led a remarkable comeback for Pakistan against England by scoring an unbeaten 113 runs. Together with Haris Rauf, they built a record-breaking partnership for the last wicket in ODI history. Earlier, England posted a total of 241 runs, with Ben Du…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135200577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T02:03:30Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Chitwan Rhinos aim for NPL title, support rhino conservation",
-    "description": "CHITWAN: Chitwan Rhinos, a cricket club named after the district’s iconic one-horned rhinoceros, has pledged to support rhino conservation by allocating five percent of the proceeds from sales of its T-shirts and other merchandise to conservation efforts. The…",
-    "url": "https://english.khabarhub.com/2026/26/573150/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Chitwan-Rhinos-NPL.jpg",
-    "publishedAt": "2026-10-26T01:42:52Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression",
-    "description": "Amit Mishra faced significant challenges after being excluded from the Indian cricket team for an extended period. He battled depression for 18 months, questioning his performance while continuing to play. A conversation with a selector helped him realize he …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-did-i-do-wrong-ex-india-star-reveals-how-being-dropped-from-team-pushed-him-into-depression/articleshow/135200379.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135200409,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T01:32:05Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Vikings Set Stage to Trade for 3-Time Pro Bowler Amid Aaron Jones’ Injury",
-    "description": "The Minnesota Vikings have several more reasons to trade for a star RB following a win over the Colts in Week 7. The post Vikings Set Stage to Trade for 3-Time Pro Bowler Amid Aaron Jones’ Injury appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/minnesota-vikings/jonathan-taylor-trade-aaron-jones-injury-colts-nfl-news/",
-    "image": "https://s.yimg.com/lo/mysterio/api/6d84c9559e396907ca500ce1e7ce411b2f312819f9cae07097fee7d8b1c3f6cd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F33ab867a5d9914ee50ce4f29fa1b8eb5.jpg",
-    "publishedAt": "2026-10-26T00:41:12Z",
-    "author": "Max Dible"
-  },
-  {
-    "source": "The Punch",
-    "title": "Cricket: Nigeria stun Uganda to win Africa W’Cup Qualifier C",
-    "description": "Nigeria’s cricket team secured a dramatic one-run victory over Uganda, their first ever, to win the ICC Men’s T20 World Cup Africa Sub-Regional Qualifier C\n\nRead More: https://punchng.com/cricket-nigeria-stun-uganda-to-win-africa-wcup-qualifier-c/",
-    "url": "https://punchng.com/cricket-nigeria-stun-uganda-to-win-africa-wcup-qualifier-c/",
-    "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/26004457/Cricket_1792971897.webp",
-    "publishedAt": "2026-10-26T00:16:04Z",
-    "author": "Punch Newspapers"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Ravens Pro Bowler Accused of Being 'Scared' of Bengals' Ja'Marr Chase",
-    "description": "Baltimore Ravens cornerback Marlon Humphrey was called out by fans for being afraid to match up with Cincinnati Bengals wide receiver Ja'Marr Chase.\nThe two teams battled on Sunday, but Humphrey spoke about Chase on Thursday. Humphrey said one thing that caug…",
-    "url": "https://biztoc.com/x/32dd976865524db7",
-    "image": "https://biztoc.com/cdn/32dd976865524db7_s.webp",
-    "publishedAt": "2026-10-26T00:09:13Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Third edition of NPL begins today",
-    "description": "KATHMANDU: The third edition of the Nepal Premier League (NPL) is set to begin today (Monday), with the Tribhuvan University International Cricket Ground in Kirtipur decorated ahead of the tournament. The Cricket Association of Nepal (CAN) briefed the media o…",
-    "url": "https://english.khabarhub.com/2026/26/573133/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-TU-ground-e1792943788972.jpg",
-    "publishedAt": "2026-10-25T23:30:00Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "England 'gutted' after second extraordinary ODI defeat in as many games",
-    "description": "An 89-run last-wicket stand has given Pakistan a stunning ODI victory over England, who just days ago failed to defend 429 in its last game against Sri Lanka.",
-    "url": "https://www.abc.net.au/news/2026-10-26/england-falls-to-second-incredible-odi-defeat-in-a-week/107307980",
-    "image": "https://live-production.wcms.abc-cdn.net.au/5cca5eb3afbbaaf194527641821c682b?impolicy=wcms_watermark_news&cropH=1387&cropW=2466&xPos=437&yPos=186&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-25T22:30:22Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India dominate Zimbabwe in Vadodara as Harmanpreet, Deepti and Vaishnavi headline 121-run win",
-    "description": "In a dominant performance, India Women triumphed over Zimbabwe in the second ODI match, with both Harmanpreet Kaur and Deepti Sharma shining through with impressive centuries. Pratika Rawal added stability with a crucial innings, helping set a significant tot…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5afec14f-35cf-483b-bbf4-ee29e55852d9",
-    "image": null,
-    "publishedAt": "2026-10-25T21:40:00Z",
-    "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "Storms batter Europe hitting power supplies, flights and phones",
-    "description": "LONDON: Storms battered northern Europe Sunday (Oct 25), killing a man, cutting power to more than 150,000 homes and disrupting travel and phone networks.A man died when a tree fell on him in southwestern Scotland, while a runner in a marathon in northern Fra…",
-    "url": "https://www.channelnewsasia.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-6491546",
-    "image": "https://dam.mediacorp.sg/image/upload/s--trxFCnXg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Britain_Storms_8_639.jpg?itok=Hv9UfE3V",
-    "publishedAt": "2026-10-25T21:31:12Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "From outranking the Fab Four to fight for his place: Rise, reign and the unraveling of Marnus Labuschagne",
-    "description": "Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-outranking-the-fab-four-to-fight-for-his-place-rise-reign-and-the-unraveling-of-marnus-labuschagne/articleshow/135196369.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135196555,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T20:00:39Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "A match like none other: Transplant survivors, donors celebrate a victorious second innings",
-    "description": "Champions of Life Cricket Cup 2026 in Jaipur brought 70 transplant recipients and living donors together, highlighting active post-transplant life and women captains.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/a-match-like-none-other-transplant-survivors-donors-celebrate-a-victorious-second-innings/articleshow/135197357.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135197355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T19:36:11Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hose signs new three-year Worcestershire contract",
-    "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6dxwjj8znrvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/a304d944e2a0e53e08863ab4483b4c1b96cfd62f33964a372b4077b4d01bbd4e/lightyear_networkapi/resizefill_w602_h339%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F76f9e5d5146886ba38aded5157d0d599.jpg",
-    "publishedAt": "2026-10-25T19:01:05Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Hose signs new three-year Worcestershire contract",
-    "description": "Worcestershire batter Adam Hose signs a new three-year contract to stay with the county until the end of the 2029 season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6dxwjj8znrvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b82/live/788e9ef0-d0a5-11f1-adbe-cd0eaeb0fff9.jpg",
-    "publishedAt": "2026-10-25T18:54:42Z",
-    "author": "BBC Sport"
   }
 ]
 ;
