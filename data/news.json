@@ -1,5 +1,41 @@
 [
   {
+    "source": "Slickdeals.net",
+    "title": "Samsung - Refurbished Excellent - Galaxy S25 Ultra 512GB (Unlocked) - Titanium Black $689",
+    "description": "Screen Size: 6.9 inches\nRear-Facing Camera: 200 megapixels\nCarrier Compatibility: AT&T, Boost Mobile, Cricket, Google Fi, H2O Wireless, Mint Mobile, Sprint, T-Mobile, Ultra Mobile, US Cellular, V",
+    "url": "https://slickdeals.net/f/20213307-samsung-refurbished-excellent-galaxy-s25-ultra-512gb-unlocked-titanium-black-689",
+    "image": "https://slickdeals.net/attachment/3/1/5/9/9/2/9/5/450x450/22100424.thumb",
+    "publishedAt": "2026-10-27T00:22:32Z",
+    "author": "AquaMeal9193"
+  },
+  {
+    "source": "BBC News",
+    "title": "Lancashire consider Anderson farewell amid fan unrest",
+    "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cme8rw2gkd9go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e021e2392674ec52917095692ae95e720949ae1c1f75431071694084513ec7ba/lightyear_networkapi/resizefill_w945_h532%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc9e180ca8e2266c504b23fabc6045edf.jpg",
+    "publishedAt": "2026-10-26T23:01:17Z",
+    "author": "Matthew Henry - BBC Sport Journalist"
+  },
+  {
+    "source": "BBC News",
+    "title": "Lancashire consider Anderson farewell amid fan unrest",
+    "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ef2/live/1df62d70-d18e-11f1-826a-d3f8b2f29c2a.jpg",
+    "publishedAt": "2026-10-26T22:58:14Z",
+    "author": "Matthew Henry"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "iccdev 0.1.1",
+    "description": "Python bindings for RefIccMAX (iccDEV) - ICC color profile library",
+    "url": "https://pypi.org/project/iccdev/0.1.1/",
+    "image": null,
+    "publishedAt": "2026-10-26T22:49:55Z",
+    "author": null
+  },
+  {
     "source": "Rt-english.com",
     "title": "ICC turning into an EU court – researcher (VIDEO)",
     "description": "The ICC is becoming a European court as EU lawmakers reaffirm their support despite growing US pressure, George Szamuely has told RT Read Full Article at RT.com",
@@ -178,14 +214,5 @@
     "image": "https://static.toiimg.com/thumb/msid-135208789,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-10-26T10:10:51Z",
     "author": "Sahil Malhotra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pakistan batter Saim Ayub released from squad in the middle of ODI tri-series, PCB explains why",
-    "description": "Pakistan batter Saim Ayub has left the ODI tri-series squad to work on his batting after scoring three consecutive single-digit totals. Sahibzada Farhan has replaced him for the remaining matches. Pakistan have qualified for the final with three straight wins…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-batter-saim-ayub-released-from-squad-in-the-middle-of-odi-tri-series-pcb-explains-why/articleshow/135207616.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135207850,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-26T09:27:22Z",
-    "author": "Jyotirmoy Halder"
   }
 ]
