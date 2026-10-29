@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "CBS Sports",
+    "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
+    "description": "The trade makes sense for both sides",
+    "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
+    "image": "https://sportshub.cbsistatic.com/i/r/2020/11/07/4f42562b-39eb-490f-93b3-355a4e22842a/thumbnail/1200x675/eb7590590dfeefe0b5450ae7344f721d/deforest-buckner.jpg",
+    "publishedAt": "2026-10-27T22:33:47Z",
+    "author": "Shanna McCarriston"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Usman Khawaja reveals the illness he kept secret his entire cricket career | Australian Story",
+    "description": "When Pakistan-born Usman Khawaja made his Test debut in 2011, he became the first Muslim cricketer to wear the baggy green.",
+    "url": "https://biztoc.com/x/db01ab1841bb7bdd",
+    "image": "https://biztoc.com/cdn/db01ab1841bb7bdd_s.webp",
+    "publishedAt": "2026-10-27T21:53:37Z",
+    "author": "youtube.com"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Colts Trade 3X Pro Bowler to 49ers Hours After Quenton Nelson Deal",
+    "description": "The Indianapolis Colts are continuing their fire sale.\nAccording to The Ringer's Tom Pelissero, the Colts have traded star defensive tackle DeForest Buckner to the San Francisco 49ers in exchange for a 2027 fourth-round pick. This comes just hours after the C…",
+    "url": "https://biztoc.com/x/37cb408c02d170eb",
+    "image": "https://biztoc.com/cdn/37cb408c02d170eb_s.webp",
+    "publishedAt": "2026-10-27T21:03:45Z",
+    "author": "newsweek.com"
+  },
+  {
     "source": "The Times of India",
     "title": "Azim Gold Cup T20: Arvind’s century, Mukeem’s fifty steer Ankit Agarwal Academy to 10-wkt win; Dhruv and Aman’s half centuries help Inspire Academy beat Jaipur Club",
     "description": "Azim Gold Cup T20: Arvind’s century, Mukeem’s fifty steer Ankit Agarwal Academy to 10-wkt win; Dhruv and Aman’s half centuries help Inspire Academy beat Jaipur Club",
