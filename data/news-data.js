@@ -1,66 +1,138 @@
 window.cricketNews = [
   {
-    "source": "The Times of India",
-    "title": "Who is Orla Prendergast? First Ireland cricketer to be sold at WPL auction",
-    "description": "In a groundbreaking achievement for Irish women's cricket, Orla Prendergast has become the first player from Ireland to join the Women's Premier League, securing a deal with Gujarat Giants for Rs 30 lakh at the 2027 auction. This all-rounder has consistently …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/who-is-orla-prendergast-first-ireland-cricketer-to-be-sold-at-wpl-auction/articleshow/135268076.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135268490,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T13:54:40Z",
-    "author": "Nitesh Dubey"
+    "source": "Sportsnaut",
+    "title": "Detroit Lions ‘In Contact’ With 31-Year-Old Former Pro Bowler",
+    "description": "After back-to-back wins, the Detroit Lions are starting to heat up. Next up is perhaps their toughest challenge yet, a […]",
+    "url": "https://sportsnaut.com/nfl/detroit-lions-in-contact-with-31-year-old-former-pro-bowler",
+    "image": "https://s.yimg.com/lo/mysterio/api/bb534633483097e2ec4d79daf98cfc2832a7e3ab2cb038b5e41d724b23f40d08/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2Faa122af38852fdf85ef7b5e6360635c9.jpg",
+    "publishedAt": "2026-10-28T20:04:15Z",
+    "author": "Andrew Buller-Russ"
   },
   {
     "source": "The Times of India",
-    "title": "IND vs ZIM Women 3rd ODI: Vaishnavi Sharma's fifer powers India to 3-0 series sweep",
-    "description": "India completed a 3-0 women’s ODI series sweep against Zimbabwe with an eight-wicket victory. Young spinner Vaishnavi Sharma claimed five wickets for 39 runs to bowl Zimbabwe out for 131. Pratika Rawal scored an unbeaten 59, while Shafali Verma smashed 51 not…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-zim-women-3rd-odi-vaishnavi-sharmas-fifer-powers-india-to-3-0-series-sweep/articleshow/135267858.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135268322,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T13:46:51Z",
-    "author": "Jyotirmoy Halder"
+    "title": "BCCI Under-23 CK Nayudu Trophy: Karan Singh, Mukul Choudhary centuries help Rajasthan amass 491 against Mumbai",
+    "description": "Rajasthan posted 491 vs Mumbai in U-23 CK Nayudu Trophy as Karan Singh (127) and Mukul Choudhary (112) hit tons; Mumbai 96/1, trail 395.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/bcci-under-23-ck-nayudu-trophy-karan-singh-mukul-choudhary-centuries-help-rajasthan-amass-491-against-mumbai/articleshow/135278960.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135278956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T19:23:50Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "New York Post",
+    "title": "Miles Sanders’ attorney sends message to Jerry Jones after new twist in ex-Eagles star’s DUI case",
+    "description": "The one-time Pro Bowler's attorney is now attempting to get the attention of Dallas Cowboys owner Jerry Jones.",
+    "url": "https://nypost.com/2026/10/28/sports/miles-sanders-attorney-sends-message-to-jerry-jones-after-new-twist-in-dui-case/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-0yu0d8qrr-1793208179330.jpg?quality=75&strip=all&1793193848&w=1200",
+    "publishedAt": "2026-10-28T19:19:24Z",
+    "author": "Edward Lewis"
   },
   {
     "source": "The Times of India",
-    "title": "Career not ending! 44-year-old James Anderson to play in Italy after Lancashire exit",
-    "description": "James Anderson will continue his cricket career in Italy after Lancashire declined to renew his contract. The 44-year-old will captain and co-own a Naples-based team in a 10-over tournament starting November 18. The competition will feature international star…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/career-not-ending-44-year-old-james-anderson-to-play-in-italy-after-lancashire-exit/articleshow/135265147.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135265842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T13:16:09Z",
-    "author": "Jyotirmoy Halder"
+    "title": "Azim Gold Cup T20: Soulfil Fighters and Abbas Cricket Academy post wins; Rahul Khandelwal, Lokendra Choudhary excel",
+    "description": "Azim Gold Cup T20 Jaipur: Soulfil Fighters beat Bhadoria by 46 runs as Rahul Khandelwal hits 94; Abbas Cricket Academy win by 72, Lokendra Choudhary stars.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/azim-gold-cup-t20-soulfil-fighters-and-abbas-cricket-academy-post-wins-rahul-khandelwal-lokendra-choudhary-excel/articleshow/135278251.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135278248,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T18:54:34Z",
+    "author": "Suhas Nayse"
   },
   {
-    "source": "Al Jazeera English",
-    "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
-    "description": "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.",
-    "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae1ac94d6-1793174676.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-28T12:44:18Z",
-    "author": "Al Jazeera Staff"
+    "source": "SB Nation",
+    "title": "Indian Premier League cricket surges with value and parity",
+    "description": "The second most popular sport in the world is growing in value in India.",
+    "url": "https://www.sbnation.com/cricket/1134101/indian-premier-league-cricket-valuations-sportico-draft-auction",
+    "image": "https://s.yimg.com/lo/mysterio/api/54dcfed551c86f2326eb17e5297f5a3ab4bbc4f84312749f60ab530244014b6a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F045ffb596b2449fa1dd9c0e52664d32a.jpg",
+    "publishedAt": "2026-10-28T18:39:18Z",
+    "author": "James Dator"
   },
   {
-    "source": "BBC News",
-    "title": "Leading Blast scorer Weatherley signs deal to 2028",
-    "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cxg5j4yddnjyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/18bda088dd5ff7845d662782ad254191c5f19c768e1ef6b495ca6c47eb98730e/lightyear_networkapi/resizefill_w775_h436%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F089a18329844ad83f782a80745c69d3a.jpg",
-    "publishedAt": "2026-10-28T11:55:20Z",
-    "author": "Dan George - BBC Sport, Hampshire"
+    "source": "Cricketnews.com",
+    "title": "'Michael Jordan of cricket': Graeme Swann recalls New Yorkers asking about who Sachin Tendulkar was while playing in USA",
+    "description": "Former English bowler Graeme Swann recalls New Yorkers asking who Sachin Tendulkar was and him calling the Master Blaster the Michael Jordan of cricket.",
+    "url": "https://www.cricketnews.com/en/cricket/news/michael-jordan-cricket-graeme-swann-new-yorkers-who-sachin-tendulkar/5a876ab0f6c787b2d90c12ae",
+    "image": "https://s.yimg.com/lo/mysterio/api/89fe89aa820957e7d2f021f7a7dd00922a21d2848ccae603e5ed23913f25e0d7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3c628b49ddd80018f423dbe79fd14815",
+    "publishedAt": "2026-10-28T18:18:05Z",
+    "author": "Deepanjan Mitra"
   },
   {
-    "source": "BBC News",
-    "title": "Leading Blast scorer Weatherley signs deal to 2028",
-    "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3568/live/2af1e3e0-d2c2-11f1-bd17-fbcee4e93744.jpg",
-    "publishedAt": "2026-10-28T11:55:15Z",
-    "author": "Dan George"
+    "source": "Heavy.com",
+    "title": "Buccaneers Trade Pitch Sends $66 Million Pro Bowler to Chiefs",
+    "description": "ESPN calls Tampa Bay Buccaneers $66 million Pro Bowler top trade fit for Kansas City Chiefs. The post Buccaneers Trade Pitch Sends $66 Million Pro Bowler to Chiefs appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/tampa-bay-buccaneers/trade-chris-godwin-kansas-city-chiefs/",
+    "image": "https://s.yimg.com/lo/mysterio/api/94b92865c39d2cc7fb49b74be5e2d5047281bbd0f31b3417200dd36391209e9a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F6216818fdb7d233824d49a8449c0551f.jpg",
+    "publishedAt": "2026-10-28T18:17:01Z",
+    "author": "Tony Adame"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Visually impaired bowler Alexandra Bishop selected for New Zealand Blind Bowls World Championships",
+    "description": "Bowls gave Alexandra Bishop purpose and support after her husband died in 2024.",
+    "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/visually-impaired-bowler-alexandra-bishop-selected-for-new-zealand-blind-bowls-world-championships/XQD4MSXPZZDAXMEDY6JBHZA6QE/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/3P5AGBAOBBFC5B6HZ5I62E4OZA.jpg?auth=ebcdf96a2c46c5ef59045b2f4b07ba761c1108d89e144b9ff6582766669dd009&width=1200&height=675&quality=70&focal=1025%2C537&smart=false",
+    "publishedAt": "2026-10-28T18:16:45Z",
+    "author": "Kaitlyn Morrell"
   },
   {
     "source": "The Times of India",
-    "title": "No 50 in last three years! Marnus Labuschagne's lean patch lands in with unwanted record",
-    "description": "Marnus Labuschagne extended his unwanted record to 48 Test innings without a century, the longest drought for an Australian top-four batter. Simon Harmer dismissed Travis Head for 41 and Labuschagne for a duck in his first over as Australia reached 90-2 at lu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-50-in-last-three-years-marnus-labuschagnes-lean-patch-lands-in-with-unwanted-record/articleshow/135261880.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135264287,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T11:48:21Z",
-    "author": "Jyotirmoy Halder"
+    "title": "70th state school cricket championship: Kanpur division beats Ayodhya by 71 runs",
+    "description": "Kanpur division beat Ayodhya by 71 runs in the 70th state school cricket championship; Saifai, Varanasi, Gorakhpur and Lucknow also advanced.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/70th-state-school-cricket-championship-kanpur-division-beats-ayodhya-by-71-runs/articleshow/135276313.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-28T18:05:01Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "DCB busts online cricket betting racket in Pal",
+    "description": "Surat DCB busts online cricket betting racket in Pal during India-New Zealand T20; Dharmesh Shah named main accused; 12 phones seized, FIR under gambling law.",
+    "url": "https://timesofindia.indiatimes.com/city/surat/dcb-busts-online-cricket-betting-racket-in-pal/articleshow/135276263.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135276260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T18:03:25Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Cricket legend Kumar Sangakkara accuses Ryanair of 'discriminatory' and 'threatening' behaviour towards his family during 'unacceptable' Dublin airport incident",
+    "description": "Sangakkara, one of the greatest wicketkeeper-batters of all time, took to social media on Wednesday afternoon to express his fury at an unsavoury incident that had occurred.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16246267/Cricket-legend-Kumar-Sangakkara-accuses-Ryanair-discriminatory-threatening-behaviour-family-unacceptable-Dublin-airport-incident.html",
+    "image": "https://i.dailymail.com/1s/2026/10/28/17/112151193-0-image-m-35_1793208730515.jpg",
+    "publishedAt": "2026-10-28T17:47:46Z",
+    "author": "Will Pickworth"
+  },
+  {
+    "source": "The Irish Times",
+    "title": "Ireland call up Tim Tector for Namibia ODI series after Paul Stirling suffers broken finger",
+    "description": "Ireland captain suffered injury in third ODI and was unable to bat as Ireland went down to defeat",
+    "url": "https://www.irishtimes.com/sport/2026/10/28/ireland-call-up-tim-tector-for-namibia-odi-series-after-paul-stirling-suffers-broken-finger/",
+    "image": "https://www.irishtimes.com/resizer/v2/DOU4UQ2V7XPJTWMIT5BPTRGHWM.jpg?smart=true&auth=db686917fb8fcd524a017b1c1d6565c2cb7468af3c310233abe4c1f19abdf4f2&width=1200&height=630",
+    "publishedAt": "2026-10-28T17:33:14Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC Communications team gets a new head",
+    "description": "Prabhakaran Thanraj is set to lead the International Cricket Council's Communications function while retaining his role as Vice President for Marketing and Business Development. Since joining the ICC in January 2025, he has built considerable experience with …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-communications-team-gets-a-new-head/articleshow/135273858.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135274304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T17:06:54Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Defending champions RCB sign Jess Jonassen for Rs 40 lakh at WPL 2027 auction",
+    "description": "Mumbai Indians selected young batter Saanika Chalke for Rs 10 lakh at the Women's Premier League 2027 mini-auction. Royal Challengers Bengaluru secured Jess Jonassen and signed her at her base price of Rs 40 lakh. UP Warriorz added Kathryn Bryce and two other…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/defending-champions-rcb-sign-jess-jonassen-for-rs-40-lakh-at-wpl-2027-auction/articleshow/135273926.cms",
+    "image": "https://img.etimg.com/thumb/msid-135273924,width-1200,height-900,imgsize-1043174,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-28T17:02:52Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "RTE",
+    "title": "Tector replaces Stirling for remainder of Namibia series",
+    "description": "Ireland men's T20I captain Paul Stirling has been forced out of the remainder of the one-day international (ODI) series against Namibia due to injury and will be replaced by Tim Tector.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1028/1597114-tector-replaces-stirling-for-remainder-of-namibia-series/",
+    "image": "https://www.rte.ie/images/00253fab-1600.jpg",
+    "publishedAt": "2026-10-28T16:03:14Z",
+    "author": "RTÉ Sport"
   }
 ]
 ;
