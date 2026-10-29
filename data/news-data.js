@@ -1,228 +1,66 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
-    "title": "Why Bumrah, Hardik need different fitness playbooks",
-    "description": "As domestic, international and IPL workloads increase wear and tear, experts turn to routines tailored to ensure injured players can return to optimum levels. Getting the balance right is key as the clock ticks down to cricket’s marquee event next year",
-    "url": "https://timesofindia.indiatimes.com/toi-plus/sports/why-bumrah-hardik-need-different-fitness-playbooks/articleshow/135254315.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135255139,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T06:36:37Z",
-    "author": "Arani Basu"
+    "title": "Who is Orla Prendergast? First Ireland cricketer to be sold at WPL auction",
+    "description": "In a groundbreaking achievement for Irish women's cricket, Orla Prendergast has become the first player from Ireland to join the Women's Premier League, securing a deal with Gujarat Giants for Rs 30 lakh at the 2027 auction. This all-rounder has consistently …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/who-is-orla-prendergast-first-ireland-cricketer-to-be-sold-at-wpl-auction/articleshow/135268076.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135268490,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T13:54:40Z",
+    "author": "Nitesh Dubey"
   },
   {
     "source": "The Times of India",
-    "title": "Travis Head and Alex Carey mural unveiled in Adelaide ahead of Christmas Test",
-    "description": "Cricket Australia has marked the 50-day countdown to the Christmas Test by unveiling a mural. The mural features prominent cricketers Travis Head and Alex Carey, who both have connections to South Australian cricket. Family members of Travis Head attended the…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/travis-head-and-alex-carey-mural-unveiled-in-adelaide-ahead-of-christmas-test/articleshow/135252658.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135252852,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T05:05:41Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Ashes, India series drive Cricket Australia to A$81.8 million surplus",
-    "description": "Cricket Australia posts an A$81.8 million surplus after a loss in FY25, but expects losses over the next two financial years as its international touring schedule changes.",
-    "url": "https://www.business-standard.com/sports/business/cricket-australia-fy26-record-revenue-ashes-india-series-126102800324_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/28/thumb/featurecrop/1200X628/1793163147-9106.jpg",
-    "publishedAt": "2026-10-28T04:53:19Z",
-    "author": "Anish Kumar"
+    "title": "IND vs ZIM Women 3rd ODI: Vaishnavi Sharma's fifer powers India to 3-0 series sweep",
+    "description": "India completed a 3-0 women’s ODI series sweep against Zimbabwe with an eight-wicket victory. Young spinner Vaishnavi Sharma claimed five wickets for 39 runs to bowl Zimbabwe out for 131. Pratika Rawal scored an unbeaten 59, while Shafali Verma smashed 51 not…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-zim-women-3rd-odi-vaishnavi-sharmas-fifer-powers-india-to-3-0-series-sweep/articleshow/135267858.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135268322,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T13:46:51Z",
+    "author": "Jyotirmoy Halder"
   },
   {
     "source": "The Times of India",
-    "title": "Prakash Bhatt becomes second Indian after Javagal Srinath to be Test match referee",
-    "description": "Prakash Bhatt achieved his Test debut as a match referee during the first Test between Bangladesh and West Indies. Bhatt became the second Indian match referee in Tests, following Javagal Srinath. He was selected by the ICC for the new Emerging panel of match…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/prakash-bhatt-becomes-second-indian-after-javagal-srinath-to-be-test-match-referee/articleshow/135251459.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135251528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T04:08:40Z",
-    "author": "Gaurav Gupta"
+    "title": "Career not ending! 44-year-old James Anderson to play in Italy after Lancashire exit",
+    "description": "James Anderson will continue his cricket career in Italy after Lancashire declined to renew his contract. The 44-year-old will captain and co-own a Naples-based team in a 10-over tournament starting November 18. The competition will feature international star…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/career-not-ending-44-year-old-james-anderson-to-play-in-italy-after-lancashire-exit/articleshow/135265147.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135265842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T13:16:09Z",
+    "author": "Jyotirmoy Halder"
   },
   {
-    "source": "Yahoo Entertainment",
-    "title": "Bangladesh wins the toss and bats against West Indies in the first cricket test",
-    "description": "DHAKA, Bangladesh (AP) — Bangladesh captain Najmul Hossain Shanto won the toss Wednesday and elected to bat against West Indies in the first of two cricket tests Bangladesh, which still has an outside chance of making the World Test Championship final, left o…",
-    "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-bats-against-034211333.html",
-    "image": null,
-    "publishedAt": "2026-10-28T03:42:11Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Australia providing 'extraordinary' support to ICC staff amid Trump sanctions",
-    "description": "A senior official tells the ABC that Australia and other countries have provided public support and help through \"quiet diplomacy\" as the Trump administration forges ahead with sanctions against the International Criminal Court.",
-    "url": "https://www.abc.net.au/news/2026-10-28/australia-supporting-icc-amid-trump-sanctions-official-says/107317510",
-    "image": "https://live-production.wcms.abc-cdn.net.au/07e3289ae5281eca5ef97735856b6fe5?impolicy=wcms_watermark_news&cropH=2807&cropW=4989&xPos=0&yPos=36&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-28T03:10:07Z",
-    "author": "Stephen Dziedzic"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Brings the worst out of all of us’: Ex-India cricketer reacts to trolling after India's demolition of New Zealand",
-    "description": "Aakash Chopra found himself the target of social media trolls after his prediction for India's chase in Wellington. With a witty tone, he clarified that he was referring to a 10-over target, which he deemed challenging. Notably, he remarked on the pitch's mov…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/brings-the-worst-out-of-all-of-us-ex-india-cricketer-reacts-to-trolling-after-indias-nz-demolition/articleshow/135249964.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135250050,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T02:57:29Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-    "description": "Media rights agreements for the Ashes and a limited-overs series against India have helped Cricket Australia post a record revenue of 601.1 million Australian dollars ($423 million) and a net surplus of A$81.8 million ($57 million)",
-    "url": "https://biztoc.com/x/7ac61b14bc928d2d",
-    "image": "https://biztoc.com/cdn/7ac61b14bc928d2d_s.webp",
-    "publishedAt": "2026-10-28T02:53:15Z",
-    "author": "abcnews.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Sitting out for four years didn't feel difficult': Bhuvneshwar Kumar on India comeback",
-    "description": "Bhuvneshwar Kumar has made a comeback to cricket after a four-year absence from the national team. He expressed that he never chased this return, which has allowed him to focus on his game. Following the T20I series, he plans to participate in domestic tourna…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sitting-out-for-four-years-didnt-feel-difficult-bhuvneshwar-kumar-on-india-comeback/articleshow/135249829.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135249876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T02:47:41Z",
-    "author": "Rajesh Pansare"
-  },
-  {
-    "source": "Abcnews.com",
-    "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-    "description": "Media rights agreements for the Ashes and a limited-overs series against India have helped Cricket Australia post a record revenue of 601.1 million Australian dollars ($423 million) and a net surplus of A$81.8 million ($57 million)",
-    "url": "https://abcnews.com/Business/wireStory/ashes-india-series-result-record-revenue-net-surplus-137623293",
-    "image": "https://i.abcnewsfe.com/a/b5fe5d3c-3e60-48a5-ac68-10a21b3c4fe9/wirestory_185b9aa74f777a746b59f9fb6aa636ba_16x9.jpg?w=1600",
-    "publishedAt": "2026-10-28T02:46:08Z",
-    "author": "The Associated Press"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Sudurpaschim Royals to face Pokhara Avengers today",
-    "description": "KATHMANDU: Sudurpaschim Royals and Pokhara Avengers will face off in the third edition of the Nepal Premier League (NPL) on Wednesday. The match is scheduled to begin at 4:30 pm at the Tribhuvan University Cricket Ground in Kirtipur. Pokhara lost both of its …",
-    "url": "https://english.khabarhub.com/2026/28/573430/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/dipendra-and-kushal1.jpg",
-    "publishedAt": "2026-10-28T02:45:36Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Starc equals Dale Steyn, leaves several legends behind in elite list",
-    "description": "Mitchell Starc made headlines with his stellar 20th five-wicket haul in Test cricket, claiming 6/72 against South Africa. His fiery spell ignited a collapse in the opponent's batting lineup, shifting the momentum dramatically. From a strong position at 203/1,…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-equals-dale-steyn-leaves-several-legends-behind-in-elite-list/articleshow/135249219.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135249245,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-28T02:01:58Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Livemint",
-    "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-    "description": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-    "url": "https://www.livemint.com/companies/ashes-india-series-result-in-record-revenue-net-surplus-for-cricket-australia-11793152578596.html",
-    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-    "publishedAt": "2026-10-28T01:56:18Z",
-    "author": "list.metadata.agency"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Ashes, India series result in record revenue, net surplus for Cricket Australia",
-    "description": "MELBOURNE, Australia (AP) — Media rights agreements for the Ashes and a limited-overs series against India have helped Cricket Australia post a record revenue of 601.1 million Australian dollars ($423 million) and a net surplus of A$81.",
-    "url": "https://sports.yahoo.com/articles/ashes-india-series-result-record-015122233.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/4db6a12e2c4cd9cd9e9b85b5d5b8fe342179808b471c802f2307fa154fe526d0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F95f20b37941c4013d750f229ca28856a.jpg",
-    "publishedAt": "2026-10-28T01:51:22Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
-    "description": "The trade makes sense for both sides",
-    "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2020/11/07/4f42562b-39eb-490f-93b3-355a4e22842a/thumbnail/1200x675/eb7590590dfeefe0b5450ae7344f721d/deforest-buckner.jpg",
-    "publishedAt": "2026-10-27T22:33:47Z",
-    "author": "Shanna McCarriston"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Usman Khawaja reveals the illness he kept secret his entire cricket career | Australian Story",
-    "description": "When Pakistan-born Usman Khawaja made his Test debut in 2011, he became the first Muslim cricketer to wear the baggy green.",
-    "url": "https://biztoc.com/x/db01ab1841bb7bdd",
-    "image": "https://biztoc.com/cdn/db01ab1841bb7bdd_s.webp",
-    "publishedAt": "2026-10-27T21:53:37Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Colts Trade 3X Pro Bowler to 49ers Hours After Quenton Nelson Deal",
-    "description": "The Indianapolis Colts are continuing their fire sale.\nAccording to The Ringer's Tom Pelissero, the Colts have traded star defensive tackle DeForest Buckner to the San Francisco 49ers in exchange for a 2027 fourth-round pick. This comes just hours after the C…",
-    "url": "https://biztoc.com/x/37cb408c02d170eb",
-    "image": "https://biztoc.com/cdn/37cb408c02d170eb_s.webp",
-    "publishedAt": "2026-10-27T21:03:45Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Azim Gold Cup T20: Arvind’s century, Mukeem’s fifty steer Ankit Agarwal Academy to 10-wkt win; Dhruv and Aman’s half centuries help Inspire Academy beat Jaipur Club",
-    "description": "Azim Gold Cup T20: Arvind’s century, Mukeem’s fifty steer Ankit Agarwal Academy to 10-wkt win; Dhruv and Aman’s half centuries help Inspire Academy beat Jaipur Club",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/azim-gold-cup-t20-arvinds-century-mukeems-fifty-steer-ankit-agarwal-academy-to-10-wkt-win-dhruv-and-amans-half-centuries-help-inspire-academy-beat-jaipur-club/articleshow/135245101.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135245098,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-27T19:30:03Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI Senior Women’s T20 Trophy: Captain Suman Meena’s all-round show helps Rajasthan beat Saurashtra by 8 runs",
-    "description": "Rajasthan beat Saurashtra by 8 runs in the BCCI Senior Women’s T20 Trophy as captain Suman Meena starred with 33 and 4/16 in New Chandigarh.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/bcci-senior-womens-t20-trophy-captain-suman-meenas-all-round-show-helps-rajasthan-beat-saurashtra-by-8-runs/articleshow/135244921.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135244919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-27T19:14:01Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps v India: Captain Mitchell Santner’s big call backfires as New Zealand slide to T20 series loss",
-    "description": "NZ’s skipper held himself back as India’s batters made hay in Wellington.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-captain-mitchell-santners-big-call-backfires-as-new-zealand-slide-to-t20-series-loss/CPQ2NDW6NBDTRF3UF5NSGVO4XE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/ZQKATYWK3JHAPAMQT2G42LX75M.jpg?auth=ad76098bead95e8e52d32593ba1b35a3960880f96f3e43fa52a542932f9523d9&width=1200&height=675&quality=70&focal=629%2C173&smart=false",
-    "publishedAt": "2026-10-27T19:00:00Z",
-    "author": "Alex Powell"
-  },
-  {
-    "source": "The Florida Times-Union",
-    "title": "Colts trade Quenton Nelson days before facing Jacksonville Jaguars",
-    "description": "The Colts are trading 8-time Pro Bowler Quenton Nelson to the Seahawks. The move comes days before they're set to face the Jacksonville Jaguars.",
-    "url": "https://www.jacksonville.com/story/sports/nfl/jaguars/2026/10/27/colts-trade-quenton-nelson-ahead-of-jaguars-matchup/92461915007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/71bc2842f657fa400ebc648fb3b681b42fbd494880acccd8e81fca772a0e3594/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2Fbdf7e4ae7991c6349e812fca217715b8.jpg",
-    "publishedAt": "2026-10-27T18:35:48Z",
-    "author": "Demetrius Harvey, Jacksonville Florida Times-Union"
-  },
-  {
-    "source": "The Times of India",
-    "title": "72-year-old with cricket ball sized liver tumour undergoes keyhole surgery",
-    "description": "72-year-old with 10–12 cm stage III liver tumour undergoes laparoscopic right hepatectomy in Noida; successful keyhole surgery with low blood loss, clear margins.",
-    "url": "https://timesofindia.indiatimes.com/city/noida/72-year-old-with-cricket-ball-sized-liver-tumour-undergoes-keyhole-surgery/articleshow/135244011.cms",
-    "image": "https://static.toiimg.com/thumb/msid-131775791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-27T18:33:27Z",
-    "author": "Ayantika Pal"
-  },
-  {
-    "source": "CBS Sports",
-    "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
-    "description": "Seattle shores up protection for Sam Darnold with an eight-time Pro Bowler, while Indianapolis opens the door to sell more",
-    "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
-    "image": "https://sportshub.cbsistatic.com/i/r/2026/10/27/37cce308-3035-4fa9-8ef7-a8c483454d8b/thumbnail/1200x675/0c99de3ee1d3af02fc07c9c1e802103a/qn.jpg",
-    "publishedAt": "2026-10-27T18:29:31Z",
-    "author": "Jordan Dajani"
-  },
-  {
-    "source": "CNA",
-    "title": "Smith’s absence a pain in the neck for Australia’s reshuffled top six batting",
-    "description": "CAPE TOWN, Oct 27 : Fast bowler Mitchell Starc did not know Australia’s premier batsman Steve Smith would not take part in the decisive third test against South Africa at Newlands on Tuesday until he went to warm-up ahead of play.Smith tested his neck injury …",
-    "url": "https://www.channelnewsasia.com/sport/smiths-absence-pain-in-neck-australias-reshuffled-top-six-batting-6497571",
-    "image": "https://dam.mediacorp.sg/image/upload/s--KNPo5rmC--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T180316Z_1_LYNXNPEM9Q1UR_RTROPTP_3_CRICKET-ASHES.JPG?itok=VbZysiUr",
-    "publishedAt": "2026-10-27T17:55:06Z",
-    "author": null
+    "source": "Al Jazeera English",
+    "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
+    "description": "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.",
+    "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae1ac94d6-1793174676.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-28T12:44:18Z",
+    "author": "Al Jazeera Staff"
   },
   {
     "source": "BBC News",
-    "title": "Lancs treatment of Anderson 'disrespectful' - Broad",
-    "description": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
-    "url": "https://www.bbc.com/sport/cricket/articles/ck5ynrz680q4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/f7b8d9f7cbc989247b6747cafc586eea1b79edefbf6c7684f1f0182fcc2e37ff/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fddd4fc6055db756174e2f6dbb4d01d2f.jpg",
-    "publishedAt": "2026-10-27T17:48:03Z",
-    "author": "Matthew Henry - BBC Sport journalist"
+    "title": "Leading Blast scorer Weatherley signs deal to 2028",
+    "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cxg5j4yddnjyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/18bda088dd5ff7845d662782ad254191c5f19c768e1ef6b495ca6c47eb98730e/lightyear_networkapi/resizefill_w775_h436%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F089a18329844ad83f782a80745c69d3a.jpg",
+    "publishedAt": "2026-10-28T11:55:20Z",
+    "author": "Dan George - BBC Sport, Hampshire"
+  },
+  {
+    "source": "BBC News",
+    "title": "Leading Blast scorer Weatherley signs deal to 2028",
+    "description": "Hampshire batter Joe Weatherley signs a new contract with the county that will last through until the end of the 2028 season.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cxg5j4yddnjyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3568/live/2af1e3e0-d2c2-11f1-bd17-fbcee4e93744.jpg",
+    "publishedAt": "2026-10-28T11:55:15Z",
+    "author": "Dan George"
+  },
+  {
+    "source": "The Times of India",
+    "title": "No 50 in last three years! Marnus Labuschagne's lean patch lands in with unwanted record",
+    "description": "Marnus Labuschagne extended his unwanted record to 48 Test innings without a century, the longest drought for an Australian top-four batter. Simon Harmer dismissed Travis Head for 41 and Labuschagne for a duck in his first over as Australia reached 90-2 at lu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-50-in-last-three-years-marnus-labuschagnes-lean-patch-lands-in-with-unwanted-record/articleshow/135261880.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135264287,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-28T11:48:21Z",
+    "author": "Jyotirmoy Halder"
   }
 ]
 ;
