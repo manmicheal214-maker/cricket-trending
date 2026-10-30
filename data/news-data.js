@@ -1,5 +1,23 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "Imran Khan's son says no one has heard from imprisoned cricket legend for months - and that fears are growing",
+    "description": "Lawyers for Imran Khan have described the conditions he is being held in as 'amounting to torture', while the former sportsman's health is said to have deteriorated in recent months.",
+    "url": "https://www.dailymail.com/news/article-16247327/Imran-Khan-imprisoned-fears-growing-cricket-legend-PM.html",
+    "image": "https://i.dailymail.com/1s/2026/10/28/23/111019023-0-image-m-62_1793229144175.jpg",
+    "publishedAt": "2026-10-29T00:23:09Z",
+    "author": "Francine Wolfisz"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Sri Lanka vs. England free live stream: How to watch Pakistan ODI tri-series clash in India",
+    "description": "Find out how to watch Sri Lanka vs. England in the ODI tri-series live in India, including free live streaming options and TV broadcast details.",
+    "url": "https://www.sportingnews.com/in/cricket/news/sri-lanka-england-free-live-stream-watch-pakistan-odi-tri-series-india/f52ab5dff402cce3238a1172",
+    "image": "https://s.yimg.com/lo/mysterio/api/9340c57e89c24b66e4a9de44fb144ef435bd4531c693c06f26c36e271507706d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6d561fce71d49edde6778db403962aaf",
+    "publishedAt": "2026-10-28T20:30:01Z",
+    "author": "Anselm Noronha"
+  },
+  {
     "source": "Sportsnaut",
     "title": "Detroit Lions ‘In Contact’ With 31-Year-Old Former Pro Bowler",
     "description": "After back-to-back wins, the Detroit Lions are starting to heat up. Next up is perhaps their toughest challenge yet, a […]",
@@ -124,15 +142,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-135273924,width-1200,height-900,imgsize-1043174,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-10-28T17:02:52Z",
     "author": "ET Online"
-  },
-  {
-    "source": "RTE",
-    "title": "Tector replaces Stirling for remainder of Namibia series",
-    "description": "Ireland men's T20I captain Paul Stirling has been forced out of the remainder of the one-day international (ODI) series against Namibia due to injury and will be replaced by Tim Tector.",
-    "url": "https://www.rte.ie/sport/cricket/2026/1028/1597114-tector-replaces-stirling-for-remainder-of-namibia-series/",
-    "image": "https://www.rte.ie/images/00253fab-1600.jpg",
-    "publishedAt": "2026-10-28T16:03:14Z",
-    "author": "RTÉ Sport"
   }
 ]
 ;
