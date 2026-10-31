@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "2007 T20 World Cup-winning squad member named Mumbai Indians batting coach as MI announce new coaching staff ahead of IPL 2027",
+    "description": "Uthappa, McClenaghan and Kulkarni have previously represented Mumbai Indians as players. Pollard, meanwhile, has been associated with the franchise for 16 years.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/2007-t20-world-cup-winning-squad-member-named-mumbai-indians-batting-coach-as-mi-announce-new-coaching-staff-ahead-of-ipl-2027/articleshow/135344045.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135344659,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T05:00:17Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mumbai Indians unveil new coaching group for IPL 2027, Uthappa and McClenaghan return",
+    "description": "Mumbai Indians have announced a new coaching group for the upcoming IPL 2027 season. Robin Uthappa, Mitchell McClenaghan, T. Dilip, and Dhawal Kulkarni have been appointed to key coaching roles. Uthappa will focus on batting, while McClenaghan will lead the b…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mumbai-indians-unveil-new-coaching-group-for-ipl-2027-uthappa-and-mcclenaghan-return/articleshow/135344417.cms",
+    "image": "https://img.etimg.com/thumb/msid-135344599,width-1200,height-900,imgsize-128032,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-30T04:57:45Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "CNA",
+    "title": "Injured India seamer Krishna out of ODI series in NZ",
+    "description": "NEW DELHI, Oct 30 : Seamer Prasidh Krishna has been ruled out of the one-day international leg of India's ongoing tour of New Zealand with a hamstring injury, the Indian cricket board said on Friday.• Right-arm bowler Krishna will need additional time to buil…",
+    "url": "https://www.channelnewsasia.com/sport/injured-india-seamer-krishna-out-odi-series-in-nz-6506001",
+    "image": "https://dam.mediacorp.sg/image/upload/s--5C0hC12x--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T044443Z_1_LYNXNPEM9T0AQ_RTROPTP_3_CRICKET-ODI-ENG-IND.JPG?itok=O6_0PWRg",
+    "publishedAt": "2026-10-30T04:44:43Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "Rashid Khan scripts history; becomes first bowler to take 200 T20I wickets",
+    "description": "Rashid's 200th wicket has now put him 29 wickets clear at the top of the highest wicket-takers list in T20Is, ahead of England's Adil Rashid, who has 171 wickets to his name",
+    "url": "https://www.business-standard.com/cricket/news/rashid-khan-scripts-history-becomes-first-bowler-to-take-200-t20i-wickets-126103000332_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/30/thumb/fitandfill/1200X628/1793335232-3997.jpg",
+    "publishedAt": "2026-10-30T04:41:29Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Big blow for India: Star pacer ruled out of New Zealand ODI series due to injury",
+    "description": "India's preparations for the upcoming ODI series against New Zealand have suffered a setback, with pacer Prasidh Krishna ruled out of the five-match",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/big-blow-for-india-star-pacer-ruled-out-of-new-zealand-odi-series-due-to-injury/articleshow/135343482.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135343720,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T04:35:35Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs New Zealand: Prasidh Krishna ruled out of five-match ODI series",
+    "description": "India pacer Prasidh Krishna has been ruled out of the five-match ODI series against New Zealand as he continues to recover from a hamstring injury. He is expected to join India A for the final four-day match against New Zealand A, subject to fitness clearance…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-new-zealand-prasidh-krishna-ruled-out-of-five-match-odi-series/articleshow/135343211.cms",
+    "image": "https://img.etimg.com/thumb/msid-135343345,width-1200,height-900,imgsize-119490,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-30T04:19:49Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Two of the greatest in history': Mike Hesson backs struggling Babar Azam, Fakhar Zaman with bold claim",
+    "description": "Mike Hesson, Pakistan's head coach, is optimistic about the contributions of senior batsmen Babar Azam and Fakhar Zaman as they prepare for the ODI tri-series final against Sri Lanka. Despite facing recent challenges, the team has displayed resilience, clinch…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/two-of-the-greatest-in-history-mike-hesson-backs-struggling-babar-azam-fakhar-zaman-with-bold-claim/articleshow/135340124.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135340948,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T03:25:13Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Amidst winds of change, Rohit Sharma is the glue Mumbai Indians need right now",
+    "description": "Mumbai Indians are undergoing a major overhaul, with Kieron Pollard taking charge as head coach and several key members exiting the support staff. Amid the uncertainty, bringing Rohit Sharma back as captain could offer stability, continuity and breathing spac…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-amidst-winds-of-change-rohit-sharma-is-the-glue-mumbai-indians-need-right-now/articleshow/135340863.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135341027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T03:13:38Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Asian Champions Trophy: Harmanpreet, Sukhjeet help India win against China",
+    "description": "JALANDHAR: India battled past China 5-2 in their second fixture of the Asian Champions Trophy here on Thursday.",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/asian-champions-trophy-harmanpreet-sukhjeet-help-india-win-against-china/articleshow/135340265.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135340422,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T02:55:54Z",
+    "author": "Sukhmani Kooner"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I was very happy': Mandhana reveals Dhoni's special message after World Cup win",
+    "description": "Smriti Mandhana shared that MS Dhoni personally congratulated her via WhatsApp after the Women's ODI World Cup victory. Dhoni's message was particularly surprising because he rarely uses his phone for communication. He stated that Mandhana was the only team m…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-very-happy-smriti-mandhana-reveals-ms-dhonis-special-whatsapp-message-after-world-cup-win/articleshow/135339239.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135339319,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T02:17:27Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rashid Khan enters record books! Becomes first bowler to achieve historic T20I feat",
+    "description": "Rashid Khan achieved a historic milestone by taking his 200th T20I wicket during a match against Zimbabwe. The moment occurred in Sharjah as he dismissed Tadiwanashe Marumani for only two runs. Azmatullah Omarzai played a crucial role, scoring 116 runs and he…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rashid-khan-enters-record-books-afghanistan-star-becomes-first-bowler-to-achieve-historic-t20i-feat/articleshow/135338889.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135339023,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T02:03:45Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "One8, Agilitas merger okayed, Virat’s share up",
+    "description": "BENGALURU: Cricketer Virat Kohli’s stake in sportswear company Agilitas Sports has increased to 6.4% from 1.8% following the National Company Law",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/one8-agilitas-merger-okayed-virats-share-up/articleshow/135338338.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135338381,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T01:37:07Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL teams score big in the global valuation game",
+    "description": "The Indian Premier League's 10 franchises are valued at an average of $1.7 billion each, with a revenue multiple of 22.9 times, the highest among major global sports leagues, according to Sportico. Mumbai Indians lead the rankings at $2.1 billion, followed by…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-teams-score-big-in-the-global-valuation-game/articleshow/135338192.cms",
+    "image": "https://img.etimg.com/thumb/msid-135338296,width-1200,height-900,imgsize-265120,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-30T01:34:41Z",
+    "author": "ET Bureau"
+  },
+  {
     "source": "Gossiplankanews.com",
     "title": "Update: Sangakkara re-explains Ryan Air incident, says he was treated with racism",
     "description": "Former Sri Lankan cricket captain Kumar Sangakkara, who earned the respect of the world for his calm and dignified conduct both on and off the cricket field, has reportedly faced an unexpected and shocking experience at Dublin Airport in Ireland. This was due…",
@@ -78,51 +195,6 @@ window.cricketNews = [
     "url": "https://www.cricketnews.com/en/cricket/news/smriti-mandhana-harmanpreet-kaur-unspoken-tensions-brewing/cfc78dcd0cbf75d759eebf92",
     "image": "https://s.yimg.com/lo/mysterio/api/aad03030060e62ed88a9989c23b18ccfea9df26e13947d564ffe43df069eb39d/lightyear_networkapi/resizefill_w728_h410%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff6dbb27058f13a9f377c38b6225b7cb9",
     "publishedAt": "2026-10-29T17:18:28Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "AP high court stays GO leasing temple land for Kakinada cricket stadium",
-    "description": "AP High Court stayed a GO leasing Sri Bhavanarayana Swamy temple land for a Kakinada cricket stadium; endowment land works remain subject to verdict.",
-    "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-high-court-stays-go-leasing-temple-land-for-kakinada-cricket-stadium/articleshow/135324687.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135324953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-29T16:57:20Z",
-    "author": "Srikanth Aluri"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Ram raid pair jailed for smashing their way into West End's Yves Saint Laurent before stealing £30,000 worth of luxury handbags in night heist",
-    "description": "Ryan Brough, 32, and Max Tyson, 25, used a black Toyota SUV to batter through the fortified windows of Yves Saint Laurent in Old Bond Street, central London, at 3am on January 23.",
-    "url": "https://www.dailymail.com/news/article-16248605/Ram-raid-pair-jailed-smashing-Yves-Saint-Laurent-stealing-handbags.html",
-    "image": "https://i.dailymail.com/1s/2026/10/29/16/111173711-0-image-m-26_1793292187729.jpg",
-    "publishedAt": "2026-10-29T16:45:33Z",
-    "author": "Patrick Harrington"
-  },
-  {
-    "source": "Time",
-    "title": "How Europe Is Defying Trump by Rallying Around the ICC",
-    "description": "The U.S. sanctions against the International Criminal Court, and the Trump Administration's campaign to dismantle the institution \"brick-by-brick\" have been strongly criticized by European leaders. But some lawmakers are calling for more \"concrete action\" to …",
-    "url": "https://time.com/article/2026/10/29/how-europe-is-defying-trump-by-rallying-around-the-icc/",
-    "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blta726905d77954da5/6ae35bbcfd88e9a374babc78/GettyImages-2226582550.jpg?branch=production&width=7851&quality=75&auto=webp&crop=16:9",
-    "publishedAt": "2026-10-29T15:03:32Z",
-    "author": "Callum Sutherland"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Bears reportedly acquiring DT Jeffery Simmons from Titans",
-    "description": "Simmons is a three-time All-Pro and four-time Pro Bowler.",
-    "url": "https://sports.yahoo.com/nfl/breaking-news/article/bears-reportedly-acquiring-dt-jeffery-simmons-from-titans-142729326.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/0a54577c8dab3ea168229298fb15421cf4ca0ed9438efa630aee822dd8d6804d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa7b24789-d07e-44fe-a5f2-0930127a718c",
-    "publishedAt": "2026-10-29T14:27:10Z",
-    "author": "Sean Leahy"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "MI coaching staff, IPL 2027: Full list of Mumbai Indians coach and support staff for 2027 Indian Premier League",
-    "description": "Mumbai Indians coaching staff for IPL 2027: Full list of coaches and support staff as Kieron Pollard replaces Mahela Jayawardene as head coach for the season...",
-    "url": "https://www.cricketnews.com/en/cricket/news/mi-coaching-staff-ipl-2026-mumbai-indians-coach-support-staff-2027-ipl/484ba61a6262a26629ca7cd9",
-    "image": "https://s.yimg.com/lo/mysterio/api/704f49c3755154fe3d8cd87bac9194b02fd90a3dd292ad3cf563b317c3b011bb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa27b69b5f9534da478849e693020c399",
-    "publishedAt": "2026-10-29T13:25:49Z",
     "author": "Soham Mukherjee"
   }
 ]
