@@ -1,5 +1,14 @@
 [
   {
+    "source": "ABC News (AU)",
+    "title": "Strategy, succession planning needed for Australia after Cape Town collapse",
+    "description": "After a disastrous series loss to South Africa, Australian cricket faces some tough decisions.",
+    "url": "https://www.abc.net.au/news/2026-11-01/cricket-test-decisions-needed-australia-south-africa-cape-town/107332350",
+    "image": "https://live-production.wcms.abc-cdn.net.au/4f89101ab11a3974ea09f0e4e6e00f19?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=102&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-31T20:46:49Z",
+    "author": "https://www.abc.net.au/news/russell-jackson/12422852"
+  },
+  {
     "source": "Al Jazeera English",
     "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
     "description": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
@@ -52,41 +61,5 @@
     "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-10-31T17:40:36Z",
     "author": "The Times Of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Wheelchair cricketer bowls over odds to earn India call-up",
-    "description": "Wheelchair cricketer Arun John Kolluri from Telangana earns India call-up as reserve for India-Sri Lanka series, overcoming a 2011 accident and disability.",
-    "url": "https://timesofindia.indiatimes.com/city/hyderabad/wheelchair-cricketer-bowls-over-odds-to-earn-india-call-up/articleshow/135408156.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135408153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T17:24:15Z",
-    "author": "Ajay Tomar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Fakhar Zaman's century powers Pakistan to ODI Tri-Series title",
-    "description": "Pakistan beat Sri Lanka by three wickets to win the ODI tri-series final in Lahore. Fakhar Zaman led the chase with a brilliant 127 despite a knee injury and poor recent form. Saad Baig scored 74, while Arafat Minhas added a quick 61 to help Pakistan chase 32…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fakhar-zamans-century-powers-pakistan-to-odi-tri-series-title/articleshow/135407276.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135408126,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T17:22:55Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
-    "description": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final.",
-    "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26304540725854-1793465770.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-31T17:21:05Z",
-    "author": null
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Victory in the tri-nation final to Pakistan, who defeated Sri Lanka",
-    "description": "With Shaheen Shah Afridi's massive six soaring into the night sky at Gaddafi Stadium in Lahore, the Pakistan team successfully set a new record for the highest run chase in an ODI final in cricket history on their home soil. This was achieved by defeating the…",
-    "url": "https://english.gossiplankanews.com/2026/10/victory-in-tri-nation-final-to-pakistan.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uGx4B2vFfBCZpcz64Gup72Q6Lo7tsagXoh_vUBeG_h1joTwHQtL7st_xTvPlecvU7A8dHQM-p4E7I77bcjeFF0x_MyoKE8iqz7BMERKHyUfkx_ZFhQjATJJ58rgzObMkdOQBbR05MyHxdIbEArwbuqIpPgNF-YI4yVfyQ=w1600",
-    "publishedAt": "2026-10-31T16:40:25Z",
-    "author": "noreply@blogger.com (Unknown)"
   }
 ]
