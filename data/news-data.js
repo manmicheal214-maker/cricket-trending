@@ -1,228 +1,111 @@
 window.cricketNews = [
   {
-    "source": "Cricketnews.com",
-    "title": "PAK vs SL ODI Tri-series 2026 final live scorecard, toss winner, winning probability, result and highlights from Lahore",
-    "description": "PAK vs SL ODI Tri-Series 2026 final live score: Track real-time scorecard from Gaddafi Stadium, Lahore, toss winner, win probability, result, and video highlights.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pak-vs-sl-odi-tri-series-final-live-scorecard-result-highlights-lahore/b90beafba93f33cbbcbcfe2b",
-    "image": "https://s.yimg.com/lo/mysterio/api/316102369824658334aff3a76df97cba2af141f13cde18f486d1180fa416cce0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc5a86d23e9f16b34f65e72cae54adeeb",
-    "publishedAt": "2026-10-31T07:11:07Z",
-    "author": "Soham Mukherjee"
+    "source": "Rlsbb.cc",
+    "title": "ABC Cricket Magazine - Season Guide 2026-2027",
+    "description": "The unrivalled voice of Australian cricket! The ABC Cricket season guide remains the essential companion to our favourite summer game, and has been for the past 80 years. ABC Cricket has the stats, stories, controversy and expert opinion to see you through a …",
+    "url": "https://post.rlsbb.cc/abc-cricket-magazine-season-guide-2026-2027/",
+    "image": null,
+    "publishedAt": "2026-10-31T14:52:35Z",
+    "author": "saamaan1@yahoo.com (Master)"
   },
   {
     "source": "The Times of India",
-    "title": "‘Send him home’: Ex-India cricketer's blunt message to Gautam Gambhir-led team over Vaibhav Sooryavanshi",
-    "description": "Aakash Chopra has voiced his concerns regarding India’s choice to omit Vaibhav Sooryavanshi from the lineup for the fourth T20I. He stressed the importance of clear communication about Sooryavanshi's position and future with the team. Although he had previous…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/send-him-home-ex-india-cricketers-blunt-message-to-gautam-gambhir-led-team-over-vaibhav-sooryavanshi/articleshow/135391868.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135391937,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T06:53:51Z",
-    "author": "Pranav Shukla"
+    "title": "Ireland's Indian-origin pacer Jai Moondra creates cricket history with record-breaking 6/26 bowling figures",
+    "description": "Ireland pacer Jai Moondra made history against Namibia in the fourth ODI, taking six wickets for just 26 runs in 10 overs. His performance set a new record for Ireland’s best bowling figures in international cricket, surpassing Josh Little’s 6/36. Ireland won…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/irelands-indian-origin-pacer-jai-moondra-creates-cricket-history-with-record-breaking-6/26-bowling-figures/articleshow/135403168.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135403323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T14:06:31Z",
+    "author": "Jyotirmoy Halder"
   },
   {
     "source": "The Times of India",
-    "title": "'I wanted to see my career out with Lancs': James Anderson reveals emotional toll of County exit",
-    "description": "James Anderson faces a turning point as Lancashire decides against renewing his contract after a remarkable 25-year journey. In a surprising chat with the new director of cricket, he voiced his shock about the decision, which led him to reconsider his departu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wanted-to-see-my-career-out-with-lancs-james-anderson-reveals-emotional-toll-of-county-exit/articleshow/135390775.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135390875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T06:29:35Z",
-    "author": "Nitesh Dubey"
+    "title": "'Just need to clear something up': Kevin Pietersen on why he didn't travel to Pakistan with England cricket team",
+    "description": "Kevin Pietersen has clarified that he missed England's Pakistan tour because he works as a consultant, not a full-time employee. Addressing the issue on X, he said he would not accompany the team on every assignment. Appointed as England's white-ball mentor e…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-need-to-clear-something-up-kevin-pietersen-on-why-he-didnt-travel-to-pakistan-with-england-cricket-team/articleshow/135401608.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135401956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T13:13:15Z",
+    "author": "Jyotirmoy Halder"
   },
   {
-    "source": "Cricketnews.com",
-    "title": "Highest successful run chases at Cape Town in Test cricket: Biggest fourth-innings targets chased at Newlands stadium",
-    "description": "Here's a look at the top 10 fourth-innings chases at the Newlands Stadium in Cape Town, South Africa.",
-    "url": "https://www.cricketnews.com/en/cricket/news/highest-fourth-innings-run-chases-newlands-cape-town-test-cricket-targets/05354cb3ec272e71895e35c1",
-    "image": "https://s.yimg.com/lo/mysterio/api/1cea5b705369c807dbd61cada956c9b3af7c2dc67d5fb6769ef545679ad938e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F93c5d231267faeda27339a88d385a643",
-    "publishedAt": "2026-10-31T06:25:39Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "CNA",
-    "title": "India add pacer Nabi to squad for first three New Zealand ODIs",
-    "description": "Oct 31 : Pacer Auqib Nabi has been added to India's squad for the first three one-day internationals against New Zealand, the country's cricket board said on Saturday.• The 29-year-old, who made his India debut against West Indies in September, was initially …",
-    "url": "https://www.channelnewsasia.com/sport/india-add-pacer-nabi-squad-first-three-new-zealand-odis-6509201",
-    "image": "https://dam.mediacorp.sg/image/upload/s--9avkfWTT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-31T060915Z_1_LYNXNPEM9U055_RTROPTP_3_CRICKET-IPL-CSK-DC.JPG?itok=kuYp1QhG",
-    "publishedAt": "2026-10-31T06:09:15Z",
+    "source": "Al Jazeera English",
+    "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
+    "description": "West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.",
+    "url": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261031__D4ZA24N__v1__HighRes__CricketBanWisTest-1793448522.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-31T12:55:00Z",
     "author": null
   },
   {
+    "source": "BBC News",
+    "title": "Pears paceman Allison signs new three-year deal",
+    "description": "Worcestershire's former Essex fast bowler Ben Allison signs a new three-year contract.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b68b/live/62905820-d521-11f1-b9b6-63098f5263b3.jpg",
+    "publishedAt": "2026-10-31T12:36:40Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'UAE se haare': Pakistan PM gets fact-checked by ex-India cricketer after 'victory over India' post",
+    "description": "Pakistan beat India in the Hong Kong Sixes on Friday, a six-a-side tournament in which each team bats for six overs. Following the win, Sharif took to social media to praise the team and congratulate the players.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/uae-se-haare-pakistan-pm-gets-fact-checked-by-ex-india-cricketer-after-victory-over-india-tweet/articleshow/135399145.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135399461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T11:40:31Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Brandon King leads West Indies to an 8-wicket win over Bangladesh in 1st test",
+    "description": "DHAKA, Bangladesh (AP) — Opener Brandon King hit an unbeaten 81 as West Indies chased down 170 with ease to beat Bangladesh by eight wickets in the first cricket test Saturday.Bangladesh was bowled out for 142 in the second innings, taking a lead of just 169 …",
+    "url": "https://sports.yahoo.com/articles/brandon-king-leads-west-indies-105329725.html",
+    "image": null,
+    "publishedAt": "2026-10-31T10:53:29Z",
+    "author": "Associated Press"
+  },
+  {
     "source": "Cricketnews.com",
-    "title": "'Not doing justice to their talent': Yuvraj Singh wants India to give Abhishek, Ishan and Vaibhav chances in ODIs",
-    "description": "Yuvraj Singh urged selectors to give ODI opportunities to Abhishek Sharma, Ishan Kishan, and Vaibhav Sooryavanshi.",
-    "url": "https://www.cricketnews.com/en/cricket/news/justice-talent-yuvraj-singh-india-give-abhishek-ishan-vaibhav-chances-odi/4e28cacf83f9e89358d3993e",
-    "image": "https://s.yimg.com/lo/mysterio/api/72d771c749bd9d8effe237a6320e51f4303686c56f32498c1c0974b0af3d97e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa4d9b155f5c1f83034dfd9fc4d78cf3d",
-    "publishedAt": "2026-10-31T05:33:36Z",
+    "title": "‘PCB is making their lives even harder’: Pakistan players warned about potentially losing overseas franchise opportunities",
+    "description": "Pakistan cricketers have been warned that stricter PCB NOC policies, last-minute pullouts, and league caps are hurting overseas franchise cricket opportunities.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pcb-pakistan-players-harder-warning-losing-overseas-franchise-chances/b91586d36f70ae270921cc18",
+    "image": "https://s.yimg.com/lo/mysterio/api/e70e01e3d0de5667c8579d8a6dc398dd5b9d9db72d3d15dd4dc04404001f0d3b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cab2a3f46fa007fd0d9f5a388b5f139",
+    "publishedAt": "2026-10-31T10:24:28Z",
     "author": "Soham Mukherjee"
   },
   {
     "source": "The Times of India",
-    "title": "Pacer Auqib Nabi included to India's squad for first three ODIs against New Zealand",
-    "description": "Auqib Nabi has been added to India's ODI squad for the first three matches against New Zealand. This change comes after Prasidh Krishna was ruled out of the series due to a hamstring injury. The ODI series is scheduled to begin on November 4, 2026, at Eden Pa…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pacer-auqib-nabi-included-to-indias-squad-for-first-three-odis-against-new-zealand/articleshow/135389407.cms",
-    "image": "https://img.etimg.com/thumb/msid-135389406,width-1200,height-900,imgsize-403716,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-31T05:24:14Z",
-    "author": "ANI"
+    "title": "World record at 40! Sikandar Raza smashes unbeaten ton against Afghanistan, enters elite list",
+    "description": "Sikandar Raza smashed an unbeaten 106 off 56 balls against Afghanistan in the second T20I, becoming the oldest Full Member nation batter to score a T20I century at 40 years and 188 days. Despite his historic knock and an unbeaten 120-run stand with Tafadzwa T…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-record-at-40-sikandar-raza-smashes-unbeaten-ton-against-afghanistan-enters-elite-list/articleshow/135396958.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135397141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T09:58:33Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Not looking at him for white-ball cricket': Is Ravindra Jadeja's ODI career over?",
+    "description": "The 37-year-old was not included in India's squad for the five-match ODI series against New Zealand, with Axar Patel currently the team's first-choice left-arm finger spinner.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-looking-at-him-for-white-ball-cricket-is-ravindra-jadejas-odi-career-over/articleshow/135394658.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135395180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T08:51:32Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL: Lumbini Lions and Chitwan Rhinos match postponed",
+    "description": "KATHMANDU: The match between Lumbini Lions and Chitwan Rhinos scheduled for today under the third edition of the Nepal Premier League (NPL) has been postponed due to continuous rainfall. Cricket Association of Nepal (CAN) Secretary Paras Khadka confirmed that…",
+    "url": "https://english.khabarhub.com/2026/31/573850/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/TU-cricket-ground-1.jpg",
+    "publishedAt": "2026-10-31T08:14:11Z",
+    "author": "Khabarhub"
   },
   {
     "source": "Cricketnews.com",
-    "title": "Pakistan vs Sri Lanka ODI Tri-Series final prediction, lineups and Gaddafi Stadium pitch report — who will win?",
-    "description": "Read our Pakistan vs Sri Lanka ODI Tri-Series final prediction with probable lineups, team news and the Gaddafi Stadium pitch report",
-    "url": "https://www.cricketnews.com/en/cricket/play/pakistan-vs-sri-lanka-odi-tri-series-final-prediction-lineups/abe8bcfc0dfcf57be98cf847",
-    "image": "https://s.yimg.com/lo/mysterio/api/a075a7286919f3a32718daad72dc95ce5c736651a9d3d63358800f38067ad5c9/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8970c2da25fb296ed0cfea1c81a9d717",
-    "publishedAt": "2026-10-31T05:13:39Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "TechRadar",
-    "title": "How to watch Pakistan vs Sri Lanka ODI tri-series final 2026: free cricket live streams",
-    "description": "All the ways to watch Pakistan vs Sri Lanka live streams from anywhere as the two Asian nations play off in the final of this 2026 ODI tri-series series.",
-    "url": "https://www.techradar.com/entertainment/cricket/watch-pakistan-vs-sri-lanka-odi-tri-series-final-2026-free",
-    "image": "https://cdn.mos.cms.futurecdn.net/A6n6n6AhqPpAqaDfS7htKP-1920-80.jpg",
-    "publishedAt": "2026-10-31T05:00:00Z",
-    "author": "Adam Marshall"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rohit Sharma back as MI captain for IPL 2027? Big changes likely brewing at Mumbai Indians",
-    "description": "Rohit Sharma could make a return as captain of Mumbai Indians for IPL 2027. Hardik Pandya is expected to leave after a disappointing 2026 season. The franchise is currently evaluating its roster before the upcoming mini-auction in December. New coaching appoi…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-back-as-mi-captain-for-ipl-2027-big-changes-likely-brewing-at-mumbai-indians/articleshow/135388005.cms",
-    "image": "https://img.etimg.com/thumb/msid-135388754,width-1200,height-900,imgsize-56796,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-31T04:58:09Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Auqib Nabi added to India squad for first three ODIs against New Zealand",
-    "description": "India has included fast bowler Auqib Nabi in their squad for the first three ODIs against New Zealand. This decision follows an injury to Prasidh Krishna, who will miss the entire ODI series. Nitish Kumar Reddy will remain with the ODI squad before joining In…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/auqib-nabi-added-to-india-squad-for-first-three-odis-against-new-zealand/articleshow/135387387.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135387487,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T04:15:01Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India's first women's Test 50 years ago: 22,000 fans, Shantha Rangaswamy's historic six and a landmark draw against West Indies",
-    "description": "In October 1976, a historic event unfolded as India's women's cricket team faced off against the West Indies in Bengaluru, marking their first official Test match. Over 22,000 fans witnessed this landmark occasion. While the encounter ended in a draw, players…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-first-womens-test-50-years-ago-22000-fans-shantha-rangaswamys-historic-six-and-a-landmark-draw-against-west-indies/articleshow/135386705.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135386896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T03:49:16Z",
-    "author": "Manuja Veerappa"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL 2027: Rohit Sharma likely to lead Mumbai Indians again, Tilak Varma could be deputy",
-    "description": "As the Mumbai Indians strategize for IPL 2027, they are contemplating bringing Rohit Sharma back as captain while also considering trading Hardik Pandya to another team. With Kieron Pollard leading a revamped coaching staff that includes Robin Uthappa and T D…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-rohit-sharma-likely-to-lead-mumbai-indians-again-tilak-varma-could-be-deputy/articleshow/135385006.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135385115,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T02:41:33Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Pro Football Network",
-    "title": "‘Forget the Picks,’ ‘Go All In’ — Super Bowl Champion Pressures Cowboys Owner Jerry Jones To Make Blockbuster Trade for 5-Time Pro Bowler",
-    "description": "The Dallas Cowboys, currently second in the NFC East, have a lot to consider before the Nov. 10 trade deadline.",
-    "url": "https://www.profootballnetwork.com/super-bowl-champion-urges-cowboys-jerry-jones-blockbuster-trade/?utm_medium=rss&amp;utm_source=nordot",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f96802f95821cb8f55f305b81c0975cb6c433f0e9e475f32b9fe1535c0d9ea4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F76757aaa17d92b9c9b49b5fd6f8a47e9.jpg",
-    "publishedAt": "2026-10-31T02:35:05Z",
-    "author": "Colin Witte"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nemesis No. 1! Mitchell Santner scripts history, enters record books against India",
-    "description": "Mitchell Santner etched his name in history as the top wicket-taker against India in T20 internationals, achieving 32 dismissals. This remarkable feat occurred during the fourth T20I, where he claimed two wickets. He also celebrated reaching the 150-wicket mi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nemesis-no-1-mitchell-santner-scripts-history-enters-record-books-against-india/articleshow/135384489.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135384613,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T02:17:01Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Chasing big totals is good for cricket': Sanath Jayasuriya",
-    "description": "Sanath Jayasuriya appreciates the rising trend of teams successfully chasing large totals in white-ball cricket. He acknowledges the impressive performance of India and the potential of Abhishek Sharma in leading future success. The Sri Lankan team has gained…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chasing-big-totals-is-good-for-cricket-sanath-jayasuriya/articleshow/135384416.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135384579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T02:12:53Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jemimah Rodrigues returns after hamstring injury, joins Mumbai squad in Pune",
-    "description": "Jemimah Rodrigues is back on the cricket field after overcoming a hamstring injury that kept her out of action. She is now representing the Mumbai team in the Senior Women's T20 Elite tournament taking place in Pune. This comeback is crucial as she gears up f…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jemimah-rodrigues-returns-after-hamstring-injury-joins-mumbai-squad-in-pune/articleshow/135384206.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135384280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T02:03:10Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Nitish Reddy joins unwanted list after horror outing against New Zealand",
-    "description": "In the fourth T20I against New Zealand, Nitish Reddy had a tough outing, giving away 64 runs and ranking as the second-most expensive bowler in T20I history for India. New Zealand set an impressive target of 259 runs, winning the match by 87 runs and narrowin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nitish-reddy-joins-unwanted-list-after-horror-outing-against-new-zealand/articleshow/135383020.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135383074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T01:02:32Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Unique cricket memorabilia collection up for grabs featuring huge Lord’s collection",
-    "description": "More than 170 items from Nancy Doyle’s collection are listed on Cordy’s.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/unique-cricket-memorabilia-collection-up-for-grabs-featuring-huge-lords-collection/63BLEFDPG5ACJM733PEJBYT5MU/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/NZK2RV53S5G6TGJLTASOF6PHTU.jpg?auth=7095ca1acdd2b648c494295829111f80fa7bed32777f42d97ec984b500b1e917&width=1200&height=675&quality=70&focal=1036%2C521&smart=false",
-    "publishedAt": "2026-10-31T01:01:00Z",
-    "author": "Ben Francis"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Pakistan vs. Sri Lanka free live stream: How to watch ODI tri-series final in India",
-    "description": "Find out how to watch Pakistan vs. Sri Lanka in the ODI tri-series final live in India, including free live streaming options and TV broadcast details.",
-    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-sri-lanka-free-live-stream-watch-odi-tri-series-final-india/bfd13e0f5165d0fcd54e16e8",
-    "image": "https://s.yimg.com/lo/mysterio/api/33a5d916d4111bcb0ddca15c05f0725cae1e7842e0c4188a958988aa7c53f030/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdf4a592a100486ca1cf9a434fde1af50",
-    "publishedAt": "2026-10-30T20:30:01Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Pakistan vs. Sri Lanka prediction, team news, pitch report and betting tips for the ODI Tri-Series final",
-    "description": "Get our Pakistan vs Sri Lanka prediction for the ODI Tri-Series final in Lahore, with team news, probable XIs, pitch report and betting tips.",
-    "url": "https://www.sportingnews.com/in/cricket/news/pakistan-vs-sri-lanka-prediction-team-news-pitch-report-betting-tips-final/fcee916c96228e1622bb7c76",
-    "image": "https://s.yimg.com/lo/mysterio/api/4d434d5397636d47cd371d84d7b757ed8ab32a51a217f9859a3d78b15db0a777/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F4a622eeab5b0c0b5263de7b60e93c4ac",
-    "publishedAt": "2026-10-30T18:56:47Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "Dealcatcher.com",
-    "title": "Amazon - IPL Hair Removal Device Model AI17 for Women and Men, Facial and Whole Body $29.99",
-    "description": "How to Get This Deal\n\n- Clip the coupon on the product page.\n- Enter code Z9FEV5F8 at checkout.\n- Free shipping is included.",
-    "url": "https://www.dealcatcher.com/deals/health-beauty/personal-care/ipl-hair-removal-device-model-for-women-and-facial-and-whole-body-444441",
-    "image": "https://www.dealcatcher.com/__og-image__/image/deals/health-beauty/personal-care/ipl-hair-removal-device-model-for-women-and-facial-and-whole-body-444441/og.png?_query=%7B%22utm_source%22:%22rss%22%7D",
-    "publishedAt": "2026-10-30T18:03:28Z",
-    "author": "Dealcatcher"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'The Time Is Now' at Eden Park: How Glenn Phillips turned a John Cena moment into Team India's nightmare - WATCH",
-    "description": "Glenn Phillips, during the fourth T20I against India, walked out to bat after Daryl Mitchell was dismissed off the fifth ball of the third over, bowled by Mayank Yadav. He first exchanged a fist bump with opening batter Finn Allen. As he began walking towards…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/the-time-is-now-at-eden-park-how-glenn-phillips-turned-a-john-cena-moment-into-team-indias-nightmare/articleshow/135373273.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135373592,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-30T18:00:27Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Not doing justice to their talent': Yuvraj Singh wants Abhishek Sharma and Vaibhav Sooryavanshi in ODIs",
-    "description": "Former India all-rounder Yuvraj Singh believes young batters Abhishek Sharma, Ishan Kishan and Vaibhav Sooryavanshi deserve more opportunities in 50-over cricket. Yuvraj feels that not regularly considering these players for the ODI team does not do justice t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-doing-justice-to-their-talent-yuvraj-singh-wants-abhishek-sharma-and-vaibhav-sooryavanshi-in-odis/articleshow/135372489.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135372632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-30T17:38:43Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
-    "description": "Pakistan PM Shehbaz Sharif congratulated the team after beating India at Hong Kong Sixes 2026 but his celebratory post drew sarcastic reactions from cricket fans.",
-    "url": "https://www.cricketnews.com/en/cricket/news/cricket-fans-mock-pakistan-pm-celebrating-hong-kong-sixes-win-vs-india/439197eb11b1b0758203b70e",
-    "image": "https://s.yimg.com/lo/mysterio/api/3fa6876fc074c2ee1d6bd2f944f8abbd68ca437a3f3319dac136ae27b9cc5107/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffc8391ab72bd6795e2e432dd86e4f11d",
-    "publishedAt": "2026-10-30T17:32:00Z",
-    "author": "Saino Zachariah"
+    "title": "Pakistan's last ODI trophy: Full list of ODI trophies Pakistan has won listed",
+    "description": "Explore the complete list of all ODI trophies won by Pakistan: ICC World Cup, Champions Trophy, Asia Cups, Sharjah multi-nation tournaments, and bilateral series.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-last-odi-trophy-full-list-odi-trophies-pakistan-won/3aeff7bd3603f67b0544fbc2",
+    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
+    "publishedAt": "2026-10-31T08:12:25Z",
+    "author": "Soham Mukherjee"
   }
 ]
 ;
