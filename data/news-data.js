@@ -1,111 +1,93 @@
 window.cricketNews = [
   {
-    "source": "Rlsbb.cc",
-    "title": "ABC Cricket Magazine - Season Guide 2026-2027",
-    "description": "The unrivalled voice of Australian cricket! The ABC Cricket season guide remains the essential companion to our favourite summer game, and has been for the past 80 years. ABC Cricket has the stats, stories, controversy and expert opinion to see you through a …",
-    "url": "https://post.rlsbb.cc/abc-cricket-magazine-season-guide-2026-2027/",
-    "image": null,
-    "publishedAt": "2026-10-31T14:52:35Z",
-    "author": "saamaan1@yahoo.com (Master)"
+    "source": "Al Jazeera English",
+    "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+    "description": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+    "url": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261020__D3VD6AB__v1__HighRes__CricketPakEngOdi-1793470860.jpg?resize=1800%2C1200&quality=80",
+    "publishedAt": "2026-10-31T18:50:25Z",
+    "author": "Faisal Mohammad"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'This too shall pass': Sherfane Rutherford evokes Virat Kohli memory with X post on Babar Azam",
+    "description": "After Babar Azam once again failed to score big in the Tri-series finals, WI batter Sherfane Rutherford tweeted a heartfelt message for the former Pak skipper, evoking Babar's own tweet for Virat Kohli.",
+    "url": "https://www.cricketnews.com/en/cricket/news/sherfane-rutherford-evokes-virat-kohli-memory-x-babar-azam/6fd817fa35bf8e9d49598721",
+    "image": "https://s.yimg.com/lo/mysterio/api/51b880420d814193b5a9725bccdab1ccf64b94170c95b5a2d7d5514c22ea7257/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6bf1820218cca3c7080deda114eac10e",
+    "publishedAt": "2026-10-31T18:25:48Z",
+    "author": "Deepanjan Mitra"
   },
   {
     "source": "The Times of India",
-    "title": "Ireland's Indian-origin pacer Jai Moondra creates cricket history with record-breaking 6/26 bowling figures",
-    "description": "Ireland pacer Jai Moondra made history against Namibia in the fourth ODI, taking six wickets for just 26 runs in 10 overs. His performance set a new record for Ireland’s best bowling figures in international cricket, surpassing Josh Little’s 6/36. Ireland won…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/irelands-indian-origin-pacer-jai-moondra-creates-cricket-history-with-record-breaking-6/26-bowling-figures/articleshow/135403168.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135403323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T14:06:31Z",
-    "author": "Jyotirmoy Halder"
+    "title": "The rules have changed: T20 batting revolution is here, and India is leading the charge",
+    "description": "The growing dominance of batters in T20 cricket is not simply the result of flat pitches, small boundaries or favourable conditions, but a fundamental shift in batting mindset. Teams are treating wickets as expendable resources, with deep batting line-ups enc…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/t20-cricket-batting-revolution-india-aggressive-batting-strategy/articleshow/135409366.cms",
+    "image": "https://img.etimg.com/thumb/msid-135409479,width-1200,height-900,imgsize-118496,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-31T18:11:36Z",
+    "author": "Anand Vasu"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "End of Marnus Labuschagne: Horror South Africa Test series might be the end of the rope for Aussie No.3 batter",
+    "description": "After failing to score a single fifty across six innings in South Africa, Marnus Labuschagne's place as Australia's No. 3 is now under more threat than ever.",
+    "url": "https://www.cricketnews.com/en/cricket/news/end-marnus-labuschagne-south-africa-test-series-end-aussie-no3/32eef0e28cd4794f069d67cc",
+    "image": "https://s.yimg.com/lo/mysterio/api/4d0a214d89f6b5143776ed3247d872b1923e59c1a229ca5dc0de6ba77f756947/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc972c04ba57a0b9d56a653810c35106e",
+    "publishedAt": "2026-10-31T18:02:23Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘You Got To Take the Shot’ — Max Kellermann Puts Bills on Notice About Helping Josh Allen After Bears’ Jeffery Simmons Trade",
+    "description": "Four-time Pro Bowler Josh Allen has led the Buffalo Bills to an impressive 5-1 start to the season and the top of the AFC East Division. Alongside the San Francisco 49ers, the Bills are one of the favorites to reach Super Bowl 61, but Caleb Williams’ Chicago …",
+    "url": "https://www.profootballnetwork.com/max-kellermann-bills-josh-allen-bears-jeffery-simmons-trade/",
+    "image": "https://s.yimg.com/lo/mysterio/api/03c833ae13c35dbdc87e06cbeb8b8a851f54a10bada583ff08bf99ba1c08b324/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F175beeaa18b6b865bfa184bd222b6c4c.jpg",
+    "publishedAt": "2026-10-31T18:00:57Z",
+    "author": "Cabral Opiyo"
   },
   {
     "source": "The Times of India",
-    "title": "'Just need to clear something up': Kevin Pietersen on why he didn't travel to Pakistan with England cricket team",
-    "description": "Kevin Pietersen has clarified that he missed England's Pakistan tour because he works as a consultant, not a full-time employee. Addressing the issue on X, he said he would not accompany the team on every assignment. Appointed as England's white-ball mentor e…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-need-to-clear-something-up-kevin-pietersen-on-why-he-didnt-travel-to-pakistan-with-england-cricket-team/articleshow/135401608.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135401956,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T13:13:15Z",
+    "title": "Kanpur, Agra and Saifai Sports College win titles in inter-school cricket championship",
+    "description": "Kanpur, Agra and Saifai Sports College won U-19, U-14 and U-17 titles at the 70th state inter-school cricket championship in Kanpur; Mayra Gupta was U-9 chess runner-up.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-agra-and-saifai-sports-college-win-titles-in-inter-school-cricket-championship/articleshow/135408515.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-31T17:40:36Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Wheelchair cricketer bowls over odds to earn India call-up",
+    "description": "Wheelchair cricketer Arun John Kolluri from Telangana earns India call-up as reserve for India-Sri Lanka series, overcoming a 2011 accident and disability.",
+    "url": "https://timesofindia.indiatimes.com/city/hyderabad/wheelchair-cricketer-bowls-over-odds-to-earn-india-call-up/articleshow/135408156.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135408153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T17:24:15Z",
+    "author": "Ajay Tomar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Fakhar Zaman's century powers Pakistan to ODI Tri-Series title",
+    "description": "Pakistan beat Sri Lanka by three wickets to win the ODI tri-series final in Lahore. Fakhar Zaman led the chase with a brilliant 127 despite a knee injury and poor recent form. Saad Baig scored 74, while Arafat Minhas added a quick 61 to help Pakistan chase 32…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fakhar-zamans-century-powers-pakistan-to-odi-tri-series-title/articleshow/135407276.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135408126,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T17:22:55Z",
     "author": "Jyotirmoy Halder"
   },
   {
     "source": "Al Jazeera English",
-    "title": "West Indies thrash Bangladesh by eight wickets in first Test in Mirpur",
-    "description": "West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.",
-    "url": "https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261031__D4ZA24N__v1__HighRes__CricketBanWisTest-1793448522.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-31T12:55:00Z",
+    "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+    "description": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final.",
+    "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26304540725854-1793465770.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-31T17:21:05Z",
     "author": null
   },
   {
-    "source": "BBC News",
-    "title": "Pears paceman Allison signs new three-year deal",
-    "description": "Worcestershire's former Essex fast bowler Ben Allison signs a new three-year contract.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckly4pl95gq3o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b68b/live/62905820-d521-11f1-b9b6-63098f5263b3.jpg",
-    "publishedAt": "2026-10-31T12:36:40Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'UAE se haare': Pakistan PM gets fact-checked by ex-India cricketer after 'victory over India' post",
-    "description": "Pakistan beat India in the Hong Kong Sixes on Friday, a six-a-side tournament in which each team bats for six overs. Following the win, Sharif took to social media to praise the team and congratulate the players.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/uae-se-haare-pakistan-pm-gets-fact-checked-by-ex-india-cricketer-after-victory-over-india-tweet/articleshow/135399145.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135399461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T11:40:31Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Brandon King leads West Indies to an 8-wicket win over Bangladesh in 1st test",
-    "description": "DHAKA, Bangladesh (AP) — Opener Brandon King hit an unbeaten 81 as West Indies chased down 170 with ease to beat Bangladesh by eight wickets in the first cricket test Saturday.Bangladesh was bowled out for 142 in the second innings, taking a lead of just 169 …",
-    "url": "https://sports.yahoo.com/articles/brandon-king-leads-west-indies-105329725.html",
-    "image": null,
-    "publishedAt": "2026-10-31T10:53:29Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘PCB is making their lives even harder’: Pakistan players warned about potentially losing overseas franchise opportunities",
-    "description": "Pakistan cricketers have been warned that stricter PCB NOC policies, last-minute pullouts, and league caps are hurting overseas franchise cricket opportunities.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pcb-pakistan-players-harder-warning-losing-overseas-franchise-chances/b91586d36f70ae270921cc18",
-    "image": "https://s.yimg.com/lo/mysterio/api/e70e01e3d0de5667c8579d8a6dc398dd5b9d9db72d3d15dd4dc04404001f0d3b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0cab2a3f46fa007fd0d9f5a388b5f139",
-    "publishedAt": "2026-10-31T10:24:28Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "World record at 40! Sikandar Raza smashes unbeaten ton against Afghanistan, enters elite list",
-    "description": "Sikandar Raza smashed an unbeaten 106 off 56 balls against Afghanistan in the second T20I, becoming the oldest Full Member nation batter to score a T20I century at 40 years and 188 days. Despite his historic knock and an unbeaten 120-run stand with Tafadzwa T…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/world-record-at-40-sikandar-raza-smashes-unbeaten-ton-against-afghanistan-enters-elite-list/articleshow/135396958.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135397141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T09:58:33Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Not looking at him for white-ball cricket': Is Ravindra Jadeja's ODI career over?",
-    "description": "The 37-year-old was not included in India's squad for the five-match ODI series against New Zealand, with Axar Patel currently the team's first-choice left-arm finger spinner.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-looking-at-him-for-white-ball-cricket-is-ravindra-jadejas-odi-career-over/articleshow/135394658.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135395180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T08:51:32Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Lumbini Lions and Chitwan Rhinos match postponed",
-    "description": "KATHMANDU: The match between Lumbini Lions and Chitwan Rhinos scheduled for today under the third edition of the Nepal Premier League (NPL) has been postponed due to continuous rainfall. Cricket Association of Nepal (CAN) Secretary Paras Khadka confirmed that…",
-    "url": "https://english.khabarhub.com/2026/31/573850/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/TU-cricket-ground-1.jpg",
-    "publishedAt": "2026-10-31T08:14:11Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Pakistan's last ODI trophy: Full list of ODI trophies Pakistan has won listed",
-    "description": "Explore the complete list of all ODI trophies won by Pakistan: ICC World Cup, Champions Trophy, Asia Cups, Sharjah multi-nation tournaments, and bilateral series.",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-last-odi-trophy-full-list-odi-trophies-pakistan-won/3aeff7bd3603f67b0544fbc2",
-    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
-    "publishedAt": "2026-10-31T08:12:25Z",
-    "author": "Soham Mukherjee"
+    "source": "Gossiplankanews.com",
+    "title": "Victory in the tri-nation final to Pakistan, who defeated Sri Lanka",
+    "description": "With Shaheen Shah Afridi's massive six soaring into the night sky at Gaddafi Stadium in Lahore, the Pakistan team successfully set a new record for the highest run chase in an ODI final in cricket history on their home soil. This was achieved by defeating the…",
+    "url": "https://english.gossiplankanews.com/2026/10/victory-in-tri-nation-final-to-pakistan.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uGx4B2vFfBCZpcz64Gup72Q6Lo7tsagXoh_vUBeG_h1joTwHQtL7st_xTvPlecvU7A8dHQM-p4E7I77bcjeFF0x_MyoKE8iqz7BMERKHyUfkx_ZFhQjATJJ58rgzObMkdOQBbR05MyHxdIbEArwbuqIpPgNF-YI4yVfyQ=w1600",
+    "publishedAt": "2026-10-31T16:40:25Z",
+    "author": "noreply@blogger.com (Unknown)"
   }
 ]
 ;
