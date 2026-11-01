@@ -142,33 +142,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/10/30/14/112195003-0-image-m-18_1793369317048.jpg",
     "publishedAt": "2026-10-30T14:18:39Z",
     "author": "Lawrence Booth"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Malaysia, South Korea Secure Wins In Asian Champions Trophy",
-    "description": "Malaysia secured their third consecutive victory in the Asian Champions Trophy by defeating Bangladesh 6-1, with Abu Kamal Azrai scoring a brace. In another match, South Korea registered their first win of the tournament, narrowly beating China 2-1 after comi…",
-    "url": "https://www.rediff.com/sports/report/malaysia-continues-winning-run-korea-gets-first-win-in-act-hockey/20261030.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/aug/19india-hockey-3.jpg",
-    "publishedAt": "2026-10-30T13:33:36Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "CNA",
-    "title": "Lancashire exit came as shock, says Anderson",
-    "description": "Oct 30 : Former England fast bowler James Anderson has said he was shocked when Lancashire chose not to renew his contract, ending a 25-year association with his home county.The 44-year-old, England's leading test wicket taker with 704 victims in 188 matches,…",
-    "url": "https://www.channelnewsasia.com/sport/lancashire-exit-came-shock-says-anderson-6507331",
-    "image": "https://dam.mediacorp.sg/image/upload/s--nwF3Bu7J--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T132513Z_1_LYNXNPEM9T1BR_RTROPTP_3_CRICKET-ENGLAND-LAN-ANDERSON.JPG?itok=9_LEFEqi",
-    "publishedAt": "2026-10-30T13:25:13Z",
-    "author": null
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Rohidas Dismisses Retirement Talk, Eyes Continued India Play",
-    "description": "Veteran India defender Amit Rohidas has clarified that he has no plans to retire after the ongoing Asian Champions Trophy, contrary to recent reports. He expressed his desire to continue playing for the country as long as his form and fitness allow, focusing …",
-    "url": "https://www.rediff.com/sports/report/amit-rohidas-denies-retirement-eyes-la-olympics/20261030.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/aug/19india-hockey-3.jpg",
-    "publishedAt": "2026-10-30T13:02:23Z",
-    "author": "sports@rediff.co.in (Saumojyoti S Choudhury)"
   }
 ]
 ;
