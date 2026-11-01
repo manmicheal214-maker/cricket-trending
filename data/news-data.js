@@ -1,5 +1,176 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "PAK vs SL ODI Tri-series 2026 final live scorecard, toss winner, winning probability, result and highlights from Lahore",
+    "description": "PAK vs SL ODI Tri-Series 2026 final live score: Track real-time scorecard from Gaddafi Stadium, Lahore, toss winner, win probability, result, and video highlights.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pak-vs-sl-odi-tri-series-final-live-scorecard-result-highlights-lahore/b90beafba93f33cbbcbcfe2b",
+    "image": "https://s.yimg.com/lo/mysterio/api/316102369824658334aff3a76df97cba2af141f13cde18f486d1180fa416cce0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc5a86d23e9f16b34f65e72cae54adeeb",
+    "publishedAt": "2026-10-31T07:11:07Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Send him home’: Ex-India cricketer's blunt message to Gautam Gambhir-led team over Vaibhav Sooryavanshi",
+    "description": "Aakash Chopra has voiced his concerns regarding India’s choice to omit Vaibhav Sooryavanshi from the lineup for the fourth T20I. He stressed the importance of clear communication about Sooryavanshi's position and future with the team. Although he had previous…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/send-him-home-ex-india-cricketers-blunt-message-to-gautam-gambhir-led-team-over-vaibhav-sooryavanshi/articleshow/135391868.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135391937,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T06:53:51Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I wanted to see my career out with Lancs': James Anderson reveals emotional toll of County exit",
+    "description": "James Anderson faces a turning point as Lancashire decides against renewing his contract after a remarkable 25-year journey. In a surprising chat with the new director of cricket, he voiced his shock about the decision, which led him to reconsider his departu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wanted-to-see-my-career-out-with-lancs-james-anderson-reveals-emotional-toll-of-county-exit/articleshow/135390775.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135390875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T06:29:35Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases at Cape Town in Test cricket: Biggest fourth-innings targets chased at Newlands stadium",
+    "description": "Here's a look at the top 10 fourth-innings chases at the Newlands Stadium in Cape Town, South Africa.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-fourth-innings-run-chases-newlands-cape-town-test-cricket-targets/05354cb3ec272e71895e35c1",
+    "image": "https://s.yimg.com/lo/mysterio/api/1cea5b705369c807dbd61cada956c9b3af7c2dc67d5fb6769ef545679ad938e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F93c5d231267faeda27339a88d385a643",
+    "publishedAt": "2026-10-31T06:25:39Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "CNA",
+    "title": "India add pacer Nabi to squad for first three New Zealand ODIs",
+    "description": "Oct 31 : Pacer Auqib Nabi has been added to India's squad for the first three one-day internationals against New Zealand, the country's cricket board said on Saturday.• The 29-year-old, who made his India debut against West Indies in September, was initially …",
+    "url": "https://www.channelnewsasia.com/sport/india-add-pacer-nabi-squad-first-three-new-zealand-odis-6509201",
+    "image": "https://dam.mediacorp.sg/image/upload/s--9avkfWTT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-31T060915Z_1_LYNXNPEM9U055_RTROPTP_3_CRICKET-IPL-CSK-DC.JPG?itok=kuYp1QhG",
+    "publishedAt": "2026-10-31T06:09:15Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Not doing justice to their talent': Yuvraj Singh wants India to give Abhishek, Ishan and Vaibhav chances in ODIs",
+    "description": "Yuvraj Singh urged selectors to give ODI opportunities to Abhishek Sharma, Ishan Kishan, and Vaibhav Sooryavanshi.",
+    "url": "https://www.cricketnews.com/en/cricket/news/justice-talent-yuvraj-singh-india-give-abhishek-ishan-vaibhav-chances-odi/4e28cacf83f9e89358d3993e",
+    "image": "https://s.yimg.com/lo/mysterio/api/72d771c749bd9d8effe237a6320e51f4303686c56f32498c1c0974b0af3d97e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa4d9b155f5c1f83034dfd9fc4d78cf3d",
+    "publishedAt": "2026-10-31T05:33:36Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pacer Auqib Nabi included to India's squad for first three ODIs against New Zealand",
+    "description": "Auqib Nabi has been added to India's ODI squad for the first three matches against New Zealand. This change comes after Prasidh Krishna was ruled out of the series due to a hamstring injury. The ODI series is scheduled to begin on November 4, 2026, at Eden Pa…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pacer-auqib-nabi-included-to-indias-squad-for-first-three-odis-against-new-zealand/articleshow/135389407.cms",
+    "image": "https://img.etimg.com/thumb/msid-135389406,width-1200,height-900,imgsize-403716,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-31T05:24:14Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Pakistan vs Sri Lanka ODI Tri-Series final prediction, lineups and Gaddafi Stadium pitch report — who will win?",
+    "description": "Read our Pakistan vs Sri Lanka ODI Tri-Series final prediction with probable lineups, team news and the Gaddafi Stadium pitch report",
+    "url": "https://www.cricketnews.com/en/cricket/play/pakistan-vs-sri-lanka-odi-tri-series-final-prediction-lineups/abe8bcfc0dfcf57be98cf847",
+    "image": "https://s.yimg.com/lo/mysterio/api/a075a7286919f3a32718daad72dc95ce5c736651a9d3d63358800f38067ad5c9/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8970c2da25fb296ed0cfea1c81a9d717",
+    "publishedAt": "2026-10-31T05:13:39Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "TechRadar",
+    "title": "How to watch Pakistan vs Sri Lanka ODI tri-series final 2026: free cricket live streams",
+    "description": "All the ways to watch Pakistan vs Sri Lanka live streams from anywhere as the two Asian nations play off in the final of this 2026 ODI tri-series series.",
+    "url": "https://www.techradar.com/entertainment/cricket/watch-pakistan-vs-sri-lanka-odi-tri-series-final-2026-free",
+    "image": "https://cdn.mos.cms.futurecdn.net/A6n6n6AhqPpAqaDfS7htKP-1920-80.jpg",
+    "publishedAt": "2026-10-31T05:00:00Z",
+    "author": "Adam Marshall"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma back as MI captain for IPL 2027? Big changes likely brewing at Mumbai Indians",
+    "description": "Rohit Sharma could make a return as captain of Mumbai Indians for IPL 2027. Hardik Pandya is expected to leave after a disappointing 2026 season. The franchise is currently evaluating its roster before the upcoming mini-auction in December. New coaching appoi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-back-as-mi-captain-for-ipl-2027-big-changes-likely-brewing-at-mumbai-indians/articleshow/135388005.cms",
+    "image": "https://img.etimg.com/thumb/msid-135388754,width-1200,height-900,imgsize-56796,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-31T04:58:09Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Auqib Nabi added to India squad for first three ODIs against New Zealand",
+    "description": "India has included fast bowler Auqib Nabi in their squad for the first three ODIs against New Zealand. This decision follows an injury to Prasidh Krishna, who will miss the entire ODI series. Nitish Kumar Reddy will remain with the ODI squad before joining In…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/auqib-nabi-added-to-india-squad-for-first-three-odis-against-new-zealand/articleshow/135387387.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135387487,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T04:15:01Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India's first women's Test 50 years ago: 22,000 fans, Shantha Rangaswamy's historic six and a landmark draw against West Indies",
+    "description": "In October 1976, a historic event unfolded as India's women's cricket team faced off against the West Indies in Bengaluru, marking their first official Test match. Over 22,000 fans witnessed this landmark occasion. While the encounter ended in a draw, players…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-first-womens-test-50-years-ago-22000-fans-shantha-rangaswamys-historic-six-and-a-landmark-draw-against-west-indies/articleshow/135386705.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135386896,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T03:49:16Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Rohit Sharma likely to lead Mumbai Indians again, Tilak Varma could be deputy",
+    "description": "As the Mumbai Indians strategize for IPL 2027, they are contemplating bringing Rohit Sharma back as captain while also considering trading Hardik Pandya to another team. With Kieron Pollard leading a revamped coaching staff that includes Robin Uthappa and T D…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-rohit-sharma-likely-to-lead-mumbai-indians-again-tilak-varma-could-be-deputy/articleshow/135385006.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135385115,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T02:41:33Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘Forget the Picks,’ ‘Go All In’ — Super Bowl Champion Pressures Cowboys Owner Jerry Jones To Make Blockbuster Trade for 5-Time Pro Bowler",
+    "description": "The Dallas Cowboys, currently second in the NFC East, have a lot to consider before the Nov. 10 trade deadline.",
+    "url": "https://www.profootballnetwork.com/super-bowl-champion-urges-cowboys-jerry-jones-blockbuster-trade/?utm_medium=rss&amp;utm_source=nordot",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f96802f95821cb8f55f305b81c0975cb6c433f0e9e475f32b9fe1535c0d9ea4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F76757aaa17d92b9c9b49b5fd6f8a47e9.jpg",
+    "publishedAt": "2026-10-31T02:35:05Z",
+    "author": "Colin Witte"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nemesis No. 1! Mitchell Santner scripts history, enters record books against India",
+    "description": "Mitchell Santner etched his name in history as the top wicket-taker against India in T20 internationals, achieving 32 dismissals. This remarkable feat occurred during the fourth T20I, where he claimed two wickets. He also celebrated reaching the 150-wicket mi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nemesis-no-1-mitchell-santner-scripts-history-enters-record-books-against-india/articleshow/135384489.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135384613,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T02:17:01Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Chasing big totals is good for cricket': Sanath Jayasuriya",
+    "description": "Sanath Jayasuriya appreciates the rising trend of teams successfully chasing large totals in white-ball cricket. He acknowledges the impressive performance of India and the potential of Abhishek Sharma in leading future success. The Sri Lankan team has gained…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chasing-big-totals-is-good-for-cricket-sanath-jayasuriya/articleshow/135384416.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135384579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T02:12:53Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Jemimah Rodrigues returns after hamstring injury, joins Mumbai squad in Pune",
+    "description": "Jemimah Rodrigues is back on the cricket field after overcoming a hamstring injury that kept her out of action. She is now representing the Mumbai team in the Senior Women's T20 Elite tournament taking place in Pune. This comeback is crucial as she gears up f…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jemimah-rodrigues-returns-after-hamstring-injury-joins-mumbai-squad-in-pune/articleshow/135384206.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135384280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T02:03:10Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nitish Reddy joins unwanted list after horror outing against New Zealand",
+    "description": "In the fourth T20I against New Zealand, Nitish Reddy had a tough outing, giving away 64 runs and ranking as the second-most expensive bowler in T20I history for India. New Zealand set an impressive target of 259 runs, winning the match by 87 runs and narrowin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nitish-reddy-joins-unwanted-list-after-horror-outing-against-new-zealand/articleshow/135383020.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135383074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-31T01:02:32Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Unique cricket memorabilia collection up for grabs featuring huge Lord’s collection",
+    "description": "More than 170 items from Nancy Doyle’s collection are listed on Cordy’s.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/unique-cricket-memorabilia-collection-up-for-grabs-featuring-huge-lords-collection/63BLEFDPG5ACJM733PEJBYT5MU/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/NZK2RV53S5G6TGJLTASOF6PHTU.jpg?auth=7095ca1acdd2b648c494295829111f80fa7bed32777f42d97ec984b500b1e917&width=1200&height=675&quality=70&focal=1036%2C521&smart=false",
+    "publishedAt": "2026-10-31T01:01:00Z",
+    "author": "Ben Francis"
+  },
+  {
     "source": "Sporting News",
     "title": "Pakistan vs. Sri Lanka free live stream: How to watch ODI tri-series final in India",
     "description": "Find out how to watch Pakistan vs. Sri Lanka in the ODI tri-series final live in India, including free live streaming options and TV broadcast details.",
@@ -52,96 +223,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/3fa6876fc074c2ee1d6bd2f944f8abbd68ca437a3f3319dac136ae27b9cc5107/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffc8391ab72bd6795e2e432dd86e4f11d",
     "publishedAt": "2026-10-30T17:32:00Z",
     "author": "Saino Zachariah"
-  },
-  {
-    "source": "BBC News",
-    "title": "Moondra's record 6-26 helps Ireland force decider",
-    "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cq0732v1znz8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/60f094e2d3dbf56cbda201df4a62b015b2b6f2fbbded61a2674615b1d1003ba7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb389029c52430728a546aa45bac5871f.jpg",
-    "publishedAt": "2026-10-30T16:58:21Z",
-    "author": "Jonathan Bradley - BBC Sport NI senior journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Moondra's record 6-26 helps Ireland force decider",
-    "description": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e3b6/live/408b4580-d474-11f1-9dda-1ba6fcc7d159.jpg",
-    "publishedAt": "2026-10-30T16:35:44Z",
-    "author": "Jonathan Bradley"
-  },
-  {
-    "source": "The Irish Times",
-    "title": "Tim Tector and Jai Moondra star as Ireland level series against Namibia to set up decider",
-    "description": "Moondra took an Irish ODI record six for 26 while Tector marked his ODI debut with innings of 73",
-    "url": "https://www.irishtimes.com/sport/2026/10/30/tim-tector-and-jai-moondra-star-as-ireland-level-series-against-namibia-to-set-up-decider/",
-    "image": "https://www.irishtimes.com/resizer/v2/7N35C2NJQCQD4APVRKI2D6NBGE.jpg?smart=true&auth=c148eb21ac6e6862a445f0f74eec5e3c75a6382b3ad900018265107d300a91b3&width=1200&height=630",
-    "publishedAt": "2026-10-30T16:22:34Z",
-    "author": null
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Eagles 3x Pro Bowler Could Turn Chargers Into Buyers Before Trade Deadline",
-    "description": "Sitting as the league’s sole winless team, the Los Angeles Chargers need a last-ditch effort to save face, and pulling off a trade is the cleanest route.For weeks, trade pitches have framed Jim Harbaugh’s team as sellers built to flip assets like Khalil Mack,…",
-    "url": "https://heavy.com/sports/nfl/los-angeles-chargers/eagles-3x-pro-bowler-trade-deadline/",
-    "image": "https://s.yimg.com/lo/mysterio/api/8cc6fd6577de2c224f83fa3ba8e6f7d803cc69181fc5c8f3902d4dc5fc21ae04/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F2dc12e61b4e7e9dbdab2e2af9d64a0f3.jpg",
-    "publishedAt": "2026-10-30T16:21:57Z",
-    "author": "Pankti Parmar"
-  },
-  {
-    "source": "Bringatrailer.com",
-    "title": "1961 Triumph Triumph Tiger Cub T20 at No Reserve",
-    "description": "This 1961 Triumph Tiger Cub T20 was acquired by the seller circa 2019, and subsequently refurbished. Work included refinishing the bike in silver and black, overhauling the 199cc OHV four-stroke single, refreshing the 17\" wire-spoke wheels, and more. Shifting…",
-    "url": "https://bringatrailer.com/listing/1961-triumph-triumph-tiger-cub-t20/",
-    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/1961_triumph_triumph-tiger-cub-t20_1000001414-d5cbc96c7151775dbd841034157c1bc1-scaled-1-copy-2026-10-26-rpb-09df9bb9b949284316046bff995df57b.jpg",
-    "publishedAt": "2026-10-30T16:15:03Z",
-    "author": "bringatrailer"
-  },
-  {
-    "source": "RTE",
-    "title": "Moondra-inspired Ireland beat Namibia to level ODI series",
-    "description": "Ireland pace bowler Jai Moondra took a career-best 6-26 from 10 overs to lead the visitors to a dominant 130-run win over Namibia at the National Cricket Ground on Friday, tying the ODI series 2-2 ahead of Sunday's decider.",
-    "url": "https://www.rte.ie/sport/cricket/2026/1030/1597409-moondra-inspired-ireland-beat-namibia-to-level-odi-series/",
-    "image": "https://www.rte.ie/images/0025423a-1600.jpg",
-    "publishedAt": "2026-10-30T16:14:13Z",
-    "author": "RTÉ Sport"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "‘Possibly the most beautiful woman I've seen at Cricket’: Mark Howard simps for his wife during SA vs AUS Newlands Test commentary",
-    "description": "Australian commentator Mark Howard amused cricket fans with a hilarious on-air comment about his wife during the South Africa vs Australia third Test at Newlands.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1d5a39b-dbee-4939-bde2-68e9a0819a42",
-    "image": null,
-    "publishedAt": "2026-10-30T16:13:00Z",
-    "author": null
-  },
-  {
-    "source": "Livemint",
-    "title": "JioStar's Q2 profit falls 13% amid weak ad environment",
-    "description": "JioHotstar's monthly active users fell sequentially as the IPL season ended, but were up year-on-year.&nbsp;",
-    "url": "https://www.livemint.com/companies/company-results/jiostar-profits-decline-13-amid-weak-ad-environment-11793373229605.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/10/30/1600x900/logo/PTI05-02-2025-000206B-0_1747962569773_1793376300698_JyzA_1c7083c7-7e57-48e6-a923-c3e6c45e6e06_Rlnh.jpg",
-    "publishedAt": "2026-10-30T16:10:17Z",
-    "author": "Soumya Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I want teams to fear Mumbai Indians even when we play away': New MI batting coach Robin Uthappa",
-    "description": "Mumbai Indians batting coach Robin Uthappa wants the team to become a force not just at the Wankhede Stadium but also at every other venue in the IPL. He believes the five-time champions must win back the trust of their fans after a disappointing 2025 season.…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-want-teams-to-fear-mumbai-indians-even-when-we-play-away-new-mi-batting-coach-robin-uthappa/articleshow/135368378.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135368632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-30T15:43:19Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Kumar Sangakkara opens up on Ryanair 'race storm': Cricket legend reveals how 'rude' Dublin staff berated him and his wife before boarding - as he submits 2,000-word complaint to budget airline",
-    "description": "Sangakkara has filled out a Ryanair complaint form, explaining in 2,000 words the events and says he was told to expect a response from the airline within eight days.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16252463/kumar-sangakkara-ryanair-race-row-dublin.html",
-    "image": "https://i.dailymail.com/1s/2026/10/30/14/112195003-0-image-m-18_1793369317048.jpg",
-    "publishedAt": "2026-10-30T14:18:39Z",
-    "author": "Lawrence Booth"
   }
 ]
 ;
