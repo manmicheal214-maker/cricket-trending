@@ -1,147 +1,246 @@
 window.cricketNews = [
   {
+    "source": "RTE",
+    "title": "Stokell enters suspension after medication breach",
+    "description": "Ireland cricketer Rebecca Stokell has accepted a voluntary ban for what Cricket Ireland described as \"an inadvertent breach of the reporting requirements around the use of prescription medication\".",
+    "url": "https://www.rte.ie/sport/cricket/2026/1102/1597655-stokell-enters-suspension-after-medication-breach/",
+    "image": "https://www.rte.ie/images/002544d6-1600.jpg",
+    "publishedAt": "2026-11-02T14:57:49Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stokell in 'voluntary' ban after medication error",
+    "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6n9rngrplggo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/32d0bfaf4f1a30ca10fa611c977b756c1b4889b6bf10292df190335f85e0a22d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F36710fe33afca21221d716c814ea99ec.jpg",
+    "publishedAt": "2026-11-02T14:44:34Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Stokell in 'voluntary' ban after medication error",
+    "description": "Ireland cricketer Rebecca Stokell says she will \"fully accept\" responsibility for an inadvertent breach of reporting requirements regarding the use of prescription medication and has begun a \"voluntary suspension\".",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n9rngrplggo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9fca/live/2b9e08a0-d6c3-11f1-ac20-7783925c811f.jpg",
+    "publishedAt": "2026-11-02T14:44:30Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Why should I wake up at 5 am?': Sarfaraz Khan opens up on India snubs and motivation",
+    "description": "Sarfaraz Khan remains motivated to play cricket despite being overlooked for national selection multiple times. He questions his daily efforts while seeking inspiration from his father's dedication to his career. Although he has performed well in domestic mat…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-should-i-wake-up-at-5-am-sarfaraz-khan-opens-up-on-india-snubs-motivation-and-fathers-support/articleshow/135465475.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135465581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T14:43:07Z",
+    "author": "Rajesh Pansare"
+  },
+  {
+    "source": "The Irish Times",
+    "title": "Irish cricketer tests positive for banned substance",
+    "description": "Batter says positive test came from use of prescription medication ‘not performance related in any way’",
+    "url": "https://www.irishtimes.com/sport/2026/11/02/irish-cricketer-tests-positive-for-banned-substance/",
+    "image": "https://www.irishtimes.com/resizer/v2/4MFC4SH5AC44BEJCX6Q3ULR6HE.jpg?smart=true&auth=5c8eb39e920355db8b956969f967464c3f431ecf61d2158f0f730f9f73fd677e&width=1200&height=630",
+    "publishedAt": "2026-11-02T14:29:33Z",
+    "author": "Nathan Johns"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India vs New Zealand ODI schedule 2026: When & where will all 5 matches be played? Check full fixtures, venues, timings and squads",
+    "description": "India vs New Zealand ODI schedule 2026: India will take on New Zealand in a five-match ODI series from November 4 to 15, 2026. The opening match will be played in Auckland, with the final two games scheduled in Mount Maunganui. Shubman Gill will captain India…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-new-zealand-odi-schedule-2026-when-where-will-all-5-matches-be-played-check-full-fixtures-venues-timings-and-squads/articleshow/135464606.cms",
+    "image": "https://img.etimg.com/thumb/msid-135464812,width-1200,height-900,imgsize-414548,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-02T14:20:37Z",
+    "author": "Trending Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI announces India A squad led by Tilak Varma with Abhishek Sharma and Vaibhav Sooryavanshi",
+    "description": "In an exciting announcement, Tilak Varma will lead India A at the ACC Men's Rising Stars Asia Cup 2026 in Doha, scheduled from November 19 to 29. With eight teams in play and a shift to a 50-over game, this tournament promises to showcase a blend of experienc…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-announces-india-a-squad-led-by-tilak-varma-with-abhishek-sharma-and-vaibhav-sooryavanshi/articleshow/135462592.cms",
+    "image": "https://img.etimg.com/thumb/msid-135462667,width-1200,height-900,imgsize-97710,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-02T12:55:11Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Abhishek, Sooryavanshi feature in Tilak-led India A squad for Rising Stars Asia Cup",
+    "description": "BCCI has announced a strong 15-member India A squad for the upcoming ACC Men's Rising Stars Asia Cup. The tournament will take place in Doha, Qatar, from November 19 to 29, featuring several promising players. Tilak Varma will captain the squad, with Rajat Pa…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abhishek-sharma-vaibhav-sooryavanshi-feature-in-tilak-varma-led-india-a-squad-for-rising-stars-asia-cup/articleshow/135462618.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135462739,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T12:50:59Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Can Mohammad Amir register for IPL auction? Former Pakistan player eyes Indian Premier League after switching nationality",
+    "description": "With recent reports suggesting that Mohammad Amir will register for the upcoming IPL mini h auction, here's a look if that is actually possible.",
+    "url": "https://www.sportingnews.com/in/cricket/news/can-mohammad-amir-register-ipl-auction-pakistan-player-switching-nationality/05a13144d560f48a5534173f",
+    "image": "https://s.yimg.com/lo/mysterio/api/7624e0a2e406c6b2e413d3c188c68f9cbfc116f1f64148dd48d350f2b2ad9e1a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3f99dc5248be8dc73face43bce057637",
+    "publishedAt": "2026-11-02T12:25:59Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Mohammad Amir in IPL: Former Pakistan fast bowler set to register for Indian Premier League 2027 mini-auction",
+    "description": "With the 2027 IPL Mini-Auction right around the corner, former Pakistani pacer Mohammad Amir eyes to register for the bidding.",
+    "url": "https://www.cricketnews.com/en/cricket/news/mohammad-amir-ipl-pakistan-register-indian-premier-league-mini-auction/7bebe07bdc0ed2c8daadf2f4",
+    "image": "https://s.yimg.com/lo/mysterio/api/e6e5592d3368c55bd52fcff69725ddb5d6556e094892648a33a827cce39259e6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8a6a5a71b54519a3687e1ab442a00e30",
+    "publishedAt": "2026-11-02T11:17:15Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Australian Story S31E35 1080p WEB-DL H264-WH",
+    "description": "Season 31, Episode 35 – “Unbeaten (Usman Khawaja)”Usman Khawaja retired as one of the greats of Australian cricket but the Pakistan-born batsman struggled throughout his career to belong. Now he’s determined to change that for the next generation of migrant k…",
+    "url": "https://post.rlsbb.cc/australian-story-s31e35-1080p-web-dl-h264-wh/",
+    "image": null,
+    "publishedAt": "2026-11-02T10:54:54Z",
+    "author": "Lisa"
+  },
+  {
     "source": "Khabarhub.com",
-    "title": "Nepal announces 15-member squad for U-19 Asia Cup",
-    "description": "KATHMANDU: The Cricket Association of Nepal (CAN) has announced a 15-member squad for the upcoming Men’s U-19 Asia Cup, with Bipin Prasad Sharma named captain. According to CAN, the tournament will be held in Oman from November 5 to 14. Nepal has been placed …",
-    "url": "https://english.khabarhub.com/2026/02/574046/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2021/06/1200px-Cricket_Association_of_Nepal_logo.svg_.png",
-    "publishedAt": "2026-11-02T05:56:48Z",
+    "title": "NPL: Kathmandu Gorkhas beat Karnali Yaks by four wickets",
+    "description": "KATHMANDU: Kathmandu Gorkhas defeated Karnali Yaks by four wickets in an exciting Nepal Premier League (NPL) encounter on Monday. Chasing the target set by Karnali Yaks, Kathmandu secured the victory at the Tribhuvan University International Cricket Ground in…",
+    "url": "https://english.khabarhub.com/2026/02/574110/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/karnali-kathmandu-8-e1793609023177.jpg",
+    "publishedAt": "2026-11-02T10:41:46Z",
     "author": "Khabarhub"
   },
   {
     "source": "The Times of India",
-    "title": "No Starc, Cummins or Hazlewood: AUS name several new faces for ENG series",
-    "description": "Batting prospects Ollie Peake and Jake Fraser-McGurk have also been included, along with wicketkeepers Lachlan Shaw and Sam Harper. Mitchell Marsh will captain both the ODI and T20I teams.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-starc-cummins-or-hazlewood-in-squad-as-australia-name-several-new-faces-for-england-series/articleshow/135446006.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135446086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T05:18:52Z",
+    "title": "Shaheen Afridi pleads guilty as Pakistan punished after tri-series win; Babar advised to 'go to Australia' amid poor form",
+    "description": "Pakistan men's cricket team on Monday were fined five per cent of their match fee for maintaining a slow over-rate during the Final of the Pakistan ODI",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shaheen-afridi-pleads-guilty-as-pakistan-punished-after-tri-series-win-babar-advised-to-go-to-australia-amid-poor-form/articleshow/135454171.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135454264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T10:04:22Z",
     "author": "Shubhanshu Dwivedi"
   },
   {
     "source": "The Times of India",
-    "title": "India vs New Zealand: Shubman Gill turns up the volume at Eden Park; Virat Kohli opts for gym, Rohit Sharma stays indoors",
-    "description": "Shubman Gill put in a nearly three-hour workoutat Eden Park, combining an extended battingsession with intensive fielding drills, while KLRahul was the only other designated batter tohit the nets. Virat Kohli opted for a gym session,with Rohit Sharma and Rutu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-vs-new-zealand-shubman-gill-turns-up-the-volume-at-eden-park-virat-kohli-opts-for-gym-rohit-sharma-stays-indoors/articleshow/135444620.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135444790,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T04:11:25Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Australia squad for England ODI and T20I 2026: Full team lists as Starc, Cummins, Hazlewood rested for AUS vs ENG series",
-    "description": "Australia have named their ODI and T20I squads for the England series, with Mitchell Starc, Pat Cummins and Josh Hazlewood rested.",
-    "url": "https://www.cricketnews.com/en/cricket/news/australia-squad-england-odi-t20i-2026team-lists-starc-cummins-rested/62d38805bc5c52d92c43fc56",
-    "image": "https://s.yimg.com/lo/mysterio/api/e7647eba20493b2798ec0e648c7dfebf22272a7ef409ea35fc4e6c1496f20380/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdaa0a6c342c7f7697692387d9a07ab69",
-    "publishedAt": "2026-11-02T03:56:07Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Pypi.org",
-    "title": "crawlora-cricbuzz added to PyPI",
-    "description": "Crawlora Cricbuzz API client with 29 endpoints for cricket matches, schedules, news, rankings, series, and records",
-    "url": "https://pypi.org/project/crawlora-cricbuzz/",
-    "image": null,
-    "publishedAt": "2026-11-02T03:10:38Z",
-    "author": null
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Cricketer survives cardiac arrest after CPR and four defibrillator shocks at Canterbury match",
-    "description": "The batter is recovering in hospital after being airlifted in a critical condition.",
-    "url": "https://www.nzherald.co.nz/nz/cricketer-survives-cardiac-arrest-after-cpr-and-four-defibrillator-shocks-at-canterbury-match/QSEKSZH65VGRFBYYDTMMCDS2VA/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/WCGM5QOQ2TGSSLNWLK2RBZW6EU.jpg?auth=26fae90b95419a96174ae8c31e271313cae7509f1daae1c947049256870fe0cc&width=1200&height=675&quality=70&focal=329%2C166&smart=false",
-    "publishedAt": "2026-11-02T03:01:50Z",
-    "author": "Rafaella Melo"
+    "title": "Afghanistan reach all-time high of sixth in ICC Men's ODI Team Rankings, surpass Sri Lanka",
+    "description": "Afghanistan has achieved their highest-ever ODI ranking by reaching sixth place in the ICC Men's ODI Team Rankings. They have surpassed established teams like Sri Lanka, Pakistan, and Bangladesh. Their performances include a 4-0 series victory over Ireland an…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/afghanistan-reach-all-time-high-of-sixth-in-icc-mens-odi-team-rankings-surpass-sri-lanka/articleshow/135454273.cms",
+    "image": "https://img.etimg.com/thumb/msid-135454272,width-1200,height-900,imgsize-252590,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-02T10:01:34Z",
+    "author": "ANI"
   },
   {
     "source": "The Times of India",
-    "title": "No longer minnows! Namibia stun Full Member Ireland to script historic ODI series win",
-    "description": "Namibia created history on Sunday by winning their first-ever bilateral ODI series against a Full Member nation. They defeated Ireland by five wickets in the fifth and final ODI in Windhoek to seal the five-match series 3-2. The historic victory is a big boos…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-longer-minnows-namibia-stun-full-member-ireland-to-script-historic-odi-series-win/articleshow/135442196.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135443076,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T02:53:57Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Melbourne club dismayed by suspected e-bike vandalism of cricket pitch",
-    "description": "A local cricket club in the south-western suburbs has expressed dismay after its turf pitch was destroyed by suspected vandals on e-bikes.",
-    "url": "https://www.abc.net.au/news/2026-11-02/williamstown-cricket-pitch-destroyed-by-e-bikes/107335974",
-    "image": "https://live-production.wcms.abc-cdn.net.au/b7f95d58568afb122110c45213c40ad5?impolicy=wcms_watermark_news&cropH=506&cropW=900&xPos=0&yPos=514&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-02T02:27:57Z",
-    "author": "Ethan White"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Double injury blow! Two key players ruled out as New Zealand name updated ODI squad for India series",
-    "description": "New Zealand have suffered two injury setbacks ahead of their ODI series against India, with Mark Chapman and Rachin Ravindra ruled out. Chapman is recovering from a hamstring injury, while Ravindra is still struggling with a shoulder problem. Both players wil…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/double-injury-blow-two-key-players-ruled-out-as-new-zealand-name-updated-odi-squad-for-india-series/articleshow/135441725.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135441790,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T01:46:11Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Australia selects Renshaw and Green for England ODI series; Starc, Hazlewood, Cummins rested",
-    "description": "BRISBANE, Australia (AP) — Matt Renshaw and Cameron Green were among the six Australia players selected for a series of one-day cricket internationals against England in the immediate aftermath of a test series loss in South Africa on the weekend.Frontline pa…",
-    "url": "https://sports.yahoo.com/articles/australia-selects-renshaw-green-england-012235921.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/8718a8fcae5485da1c047a911c2e0e7c15f19fa139216a91b1ebf61c454f6777/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2a7a1ba3d29104d0da415ae9d2a8a527.jpg",
-    "publishedAt": "2026-11-02T01:22:35Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps v India: Rachin Ravindra, Mark Chapman ruled out of ODI series with injury",
-    "description": "Tim Siefert, Henry Nicholls and Dean Foxcroft have been called in.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-rachin-ravindra-mark-chapman-ruled-out-of-odi-series-with-injury/53GQ2I3H65G3HHEOFVJ7U4QPQQ/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/Y2AO74JLWFAFPGOXFX3MHFI7DI.jpg?auth=5ed0f5f58f8083bf8a98bbe489c164536cd963c5f6eeafec9007cce10c45b93c&width=1200&height=675&quality=70&focal=740%2C860&smart=false",
-    "publishedAt": "2026-11-02T01:01:00Z",
-    "author": "Nathan Limm"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Gautam Gambhir flags India's biggest challenge ahead of New Zealand ODIs",
-    "description": "Gautam Gambhir, the head coach of India, voiced his worries regarding the untested bowling lineup for the imminent ODI series against New Zealand. With seasoned players like Jasprit Bumrah and Hardik Pandya missing, the team will depend on bowlers such as Moh…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/most-inexperienced-bowling-attack-gautam-gambhir-flags-indias-biggest-challenge-ahead-of-new-zealand-odis/articleshow/135433893.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135434023,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T00:29:00Z",
+    "title": "Highest-ever! Afghanistan make historic leap, overtake Sri Lanka, England and West Indies in ODI rankings",
+    "description": "Afghanistan's cricket team has achieved a historic milestone by entering the top six of the ICC Men's ODI Team Rankings. They have surpassed Sri Lanka after consistent performances and landmark victories against major teams. Their climb follows notable wins d…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/highest-ever-afghanistan-make-historic-leap-overtake-sri-lanka-england-and-west-indies-in-odi-rankings/articleshow/135453393.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135453548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T09:31:47Z",
     "author": "Hijam Raju Singh"
   },
   {
-    "source": "CNA",
-    "title": "Ravindra and Chapman to miss NZ's ODI series against India",
-    "description": "Nov 2 : Rachin Ravindra and Mark Chapman will miss New Zealand's one-day international series against India this month as they continue to recuperate from shoulder and hamstring injuries respectively, the team said on Monday.• All-rounder Ravindra's right sho…",
-    "url": "https://www.channelnewsasia.com/sport/ravindra-and-chapman-miss-nzs-odi-series-against-india-6511721",
-    "image": "https://dam.mediacorp.sg/image/upload/s--_lsFQHfW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-01T234441Z_1_LYNXNPEMA01GU_RTROPTP_3_CRICKET-ENG-NZL.JPG?itok=lB7gEi1I",
-    "publishedAt": "2026-11-01T23:44:41Z",
-    "author": null
+    "source": "The Times of India",
+    "title": "Virat Kohli has better chance of scoring century than Rohit Sharma: Former India cricketer drops big verdict",
+    "description": "Pujara feels Kohli's position at number three gives him more time to settle in and build an innings. Rohit, meanwhile, usually has the responsibility of giving India an aggressive start during the powerplay",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-has-better-chance-of-scoring-century-than-rohit-sharma-former-india-cricketer-drops-big-verdict/articleshow/135452394.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135453076,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T09:22:58Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
-    "source": "The Irish Times",
-    "title": "Namibia take ODI series after Ireland batting collapse in Windhoek",
-    "description": "Ireland were bowled out for just 129 as hosts went on to win by five wickets",
-    "url": "https://www.irishtimes.com/sport/2026/11/01/namibia-take-odi-series-after-ireland-batting-collapse-in-windhoek/",
-    "image": "https://www.irishtimes.com/resizer/v2/MMU3S6S3WWP5NDSBFXZA2NHVXQ.jpg?smart=true&auth=40d70c0396cd1b22e19dd049e5569ee0075b598aa91a147f7848413d5ae2b797&width=1200&height=630",
-    "publishedAt": "2026-11-01T18:49:11Z",
-    "author": null
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Fulton On India's Win: Consistency Matters",
-    "description": "India secured its fourth consecutive victory at the Asian Champions Trophy, defeating Malaysia 4-2, with Harmanpreet Singh scoring a hat-trick. Coach Craig Fulton acknowledged the significant setback of losing striker Abhishek to an ankle injury just before t…",
-    "url": "https://www.rediff.com/sports/report/fulton-abhishek-injury-a-setback-before-indias-win/20261101.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/oct/14harmanpreet.jpg",
-    "publishedAt": "2026-11-01T16:29:34Z",
-    "author": "sports@rediff.co.in (Saumojyoti S Choudhury)"
+    "source": "Khabarhub.com",
+    "title": "NPL: Karnali Yaks set 181-run target for Kathmandu Gorkhas",
+    "description": "KATHMANDU: Karnali Yaks have set a target of 181 runs for Kathmandu Gorkhas in the Nepal Premier League (NPL) match at the Tribhuvan University International Cricket Ground in Kirtipur on Monday. After winning the toss, Kathmandu captain Karan KC elected to b…",
+    "url": "https://english.khabarhub.com/2026/02/574088/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/karnali-kathmandu-8-e1793609023177.jpg",
+    "publishedAt": "2026-11-02T08:42:28Z",
+    "author": "Khabarhub"
   },
   {
     "source": "The Times of India",
-    "title": "Harmanpreet's hat-trick sinks Malaysia as India keep perfect Asian Champions Trophy unbeaten record",
-    "description": "In a thrilling Asian Champions Trophy match, India triumphed over Malaysia with a score of 4-2. Harmanpreet Singh mesmerized fans by netting a spectacular hat-trick, while Sukhjeet Singh added to the excitement with a brilliant field goal. Although Malaysia b…",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreets-hat-trick-sinks-malaysia-as-india-keep-perfect-asian-champions-trophy-unbeaten-record/articleshow/135431684.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135431713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-01T15:56:58Z",
-    "author": "Nitesh Dubey"
+    "title": "Shafali Verma's heroics, Harmanpreet's catch and Deepti's five-for: The night that changed Indian women's cricket forever with ODI World Cup win",
+    "description": "India had also beaten Australia in the semi-final to book their place in the title clash. After years of coming close, the team finally had a chance to win the trophy.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shafali-vermas-heroics-harmanpreets-catch-and-deeptis-five-for-the-night-that-changed-indian-womens-cricket-forever-with-odi-world-cup-win/articleshow/135450799.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135451112,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T08:20:17Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "You guys have set the tone for rest of the tour: Gambhir praises Shreyas Iyer led T20 team for series win against NZ",
+    "description": "Gautam Gambhir praised the T20 team's performance after their recent series victory against New Zealand. The team managed to achieve this success despite limited practice time and travel fatigue. He emphasized the importance of this achievement in setting the…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/you-guys-have-set-the-tone-for-rest-of-the-tour-gambhir-praises-shreyas-iyer-led-t20-team-for-series-win-against-nz/articleshow/135450933.cms",
+    "image": "https://img.etimg.com/thumb/msid-135451055,width-1200,height-900,imgsize-112536,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-02T08:10:11Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India T20 team set the tone despite limited preparation, says Gambhir",
+    "description": "India head coach Gautam Gambhir says the Shreyas Iyer-led T20 team has set the tone for the upcoming ODI and Test assignments in the ongoing tour of New Zealand by triumphing in the shortest format despite a lack of practice leading up to the rubber.\nIndia de…",
+    "url": "https://www.business-standard.com/cricket/news/india-t20-team-set-the-tone-despite-limited-preparation-says-gambhir-126110200583_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/16/thumb/fitandfill/1200X628/1763291846-2292.jpg",
+    "publishedAt": "2026-11-02T08:05:23Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Pujara predicts tough NZ challenge for India amid mid-series squad changes",
+    "description": "Former India batter Cheteshwar Pujara believes the ODI series between India and New Zealand starting on Wednesday will end 2-2 as he expects the visitors to be at a slight disadvantage owing to some pre-decided mid-series changes in the squad.\nPujara also rec…",
+    "url": "https://www.business-standard.com/cricket/news/pujara-predicts-tough-nz-challenge-for-india-amid-mid-series-squad-changes-126110200473_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/28/thumb/fitandfill/1200X628/1790574410-3772.jpg",
+    "publishedAt": "2026-11-02T08:01:41Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Green, Renshaw return as Australia name squads for ODI series vs England",
+    "description": "Matt Renshaw and Cameron Green were among the six Australia players selected for a series of one-day cricket internationals against England in the immediate aftermath of a test series loss in South Africa on the weekend.\nFrontline pace bowlers Mitch Starc, Jo…",
+    "url": "https://www.business-standard.com/cricket/news/green-renshaw-return-as-australia-name-squads-for-odi-series-vs-england-126110200204_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/24/thumb/fitandfill/1200X628/1756022183-2026.jpg",
+    "publishedAt": "2026-11-02T07:59:37Z",
+    "author": "AP"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey close out Challenge League with Qatar win",
+    "description": "Jersey end their victorious ICC Challenge League campaign with a 34-run win over Qatar in Nairobi.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c670pgj8lkqwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/534b64dbcce812b0d60894f1bf85a67f1f26291c919fe6ffa24ee1624f7127ac/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fefe75a0f0f989f9338e949be0f285ca1.jpg",
+    "publishedAt": "2026-11-02T07:59:25Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Chapman, Ravindra ruled out of India ODIs; Nicholls and Seifert join squad",
+    "description": "Senior batters Mark Chapman and Rachin Ravindra have been ruled out of the five-match ODI series against India starting on Wednesday as they have failed to recuperate from their respective injuries, New Zealand Cricket said on Monday.\nChapman is undergoing re…",
+    "url": "https://www.business-standard.com/cricket/news/chapman-ravindra-ruled-out-of-india-odis-nicholls-and-seifert-join-squad-126110200182_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/05/thumb/featurecrop/1200X628/1741173559-3377.jpg",
+    "publishedAt": "2026-11-02T07:52:07Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL 2026: Kathmandu Gorkhas win toss, elect to bowl against Karnali Yaks",
+    "description": "KATHMANDU: Kathmandu Gorkhas have won the toss and elected to bowl first against Karnali Yaks in the Nepal Premier League (NPL) 2026 at the Tribhuvan University International Cricket Ground in Kirtipur. Kathmandu captain Karan KC called correctly at the toss …",
+    "url": "https://english.khabarhub.com/2026/02/574074/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/NPL-kathmandu-karnali-1.jpg",
+    "publishedAt": "2026-11-02T07:24:25Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India at Auckland's Eden Park: Wins, losses and record ahead of New Zealand ODI series",
+    "description": "India will start a five-match ODI series against New Zealand at Eden Park, which has historically been challenging for them. Their ODI record at this venue shows only four wins out of eleven matches played against New Zealand. In their last encounter on Novem…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-at-aucklands-eden-park-wins-losses-and-record-ahead-of-new-zealand-odi-series/articleshow/135449520.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135449700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-02T07:17:11Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Livemint",
+    "title": "Yuvraj Singh launches supplement brand Protocol 32, TheLiverDoc calls it ‘in very bad faith’, 'business of bad science'",
+    "description": "Hepatologist Dr. Cyriac Abby Philips criticized former cricketer Yuvraj Singh’s new supplement venture, Protocol 32, alleging that its ingredients pose health risks and that many lack strong evidence. Philips also questioned Singh’s collaborators and urged pe…",
+    "url": "https://www.livemint.com/companies/people/yuvraj-singh-launches-supplement-brand-protocol-32-theliverdoc-calls-it-in-very-bad-faith-business-of-bad-science-11793601441321.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/ld_1793601869218_QDFq_1793601886579_QkT5_79a2a6ee-db5b-4cde-b9cd-487e183caafb_I462.jpg",
+    "publishedAt": "2026-11-02T06:51:56Z",
+    "author": "Bobins Vayalil Abraham"
   }
 ]
 ;
