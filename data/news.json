@@ -1,5 +1,59 @@
 [
   {
+    "source": "The Times of India",
+    "title": "'The Big Show' is over: Glenn Maxwell announces retirement from international cricket",
+    "description": "Maxwell, popularly known as 'The Big Show', represented Australia in 149 ODIs, 130 T20Is and seven Test matches. He was part of Australia's 2015 and 2023 ODI World Cup-winning teams and also played a key role in the team's T20 World Cup triumph in 2021.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/glenn-maxwell-announces-retirement-from-international-cricket/articleshow/135477981.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135478056,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-03T00:50:48Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cyclone Murasu's eye enters Andhra, 120 kmph winds batter coast as landfall nears",
+    "description": "Severe Cyclonic Storm Murasu is currently making landfall between Nellore and Narsapur, affecting south Andhra Pradesh. Gale winds of 100-110 kmph and heavy rainfall are expected in the region. Chief Minister N Chandrababu Naidu has urged officials to ensure …",
+    "url": "https://economictimes.indiatimes.com/news/india/cyclone-murasus-eye-enters-andhra-120-kmph-winds-batter-coast-as-landfall-nears/articleshow/135477884.cms",
+    "image": "https://img.etimg.com/thumb/msid-135477883,width-1200,height-900,imgsize-123166,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-03T00:44:43Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma on the verge of multiple milestones! 21K runs, 400 sixes in sight vs NZ",
+    "description": "Rohit Sharma gears up for the upcoming five-match ODI series against New Zealand with significant milestones within reach. Approaching the remarkable 21,000-run mark in international cricket, he aspires to be the first Indian opener to accumulate 5,000 runs i…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rohit-sharma-on-the-verge-of-multiple-milestones-21k-international-runs-400-odi-sixes-in-sight-against-new-zealand/articleshow/135468386.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135468471,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-03T00:29:00Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "San Francisco Chronicle",
+    "title": "Jilted to joyous, how 49ers' DeForest Buckner overcame hurt and pushed for a reunion",
+    "description": "The San Francisco 49ers dealt DT DeForest Buckner to the Colts for a 1st-round pick in 2020. Now, a trade back to the Bay Area has the three-time Pro Bowler celebrating: \"Life just came full circle.\"",
+    "url": "https://www.sfchronicle.com/sports/49ers/article/san-francisco-49ers-happy-player-returning-dt-22506372.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+    "image": "https://s.yimg.com/lo/mysterio/api/683677f25903a2587adfc062acd5558aea8ecf7b3d62536eff6fba0619722273/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2F8873bada984eaf9c46c409fe428b2d71.jpg",
+    "publishedAt": "2026-11-02T23:49:53Z",
+    "author": "Eric Branch"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Maxwell retires from international cricket and continues playing franchise T20s",
+    "description": "Glenn Maxwell calls time on his international career after building a reputation as one of the world's most dangerous short-form players.",
+    "url": "https://www.abc.net.au/news/2026-11-03/cricket-glenn-maxwell-international-retirement/107339946",
+    "image": "https://live-production.wcms.abc-cdn.net.au/cb0a3c65643173ab5b43bd978181d370?impolicy=wcms_watermark_news&cropH=1913&cropW=3401&xPos=0&yPos=107&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-02T23:08:37Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Much ado about Harmer: Simon's Newlands heroics leave Australian pundits eating their words as Moises Henriques is vindicated",
+    "description": "Simon Harmer's Newlands 10-fer was a strong reply to 'club cricketer' jibes from Brendon Julian, Steve O'Keefe and Stuart MacGill, vindicating Moises Henriques.",
+    "url": "https://www.cricketnews.com/en/cricket/news/harmer-newlands-heroics-australia-eating-words-henriques-vindicated/105aa4c404dbee71ca34b596",
+    "image": "https://s.yimg.com/lo/mysterio/api/d28e11f16a077a9b29b0e197bfb882b5377397258d1cb3bc7846d7355e1a7e43/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F110e9529eb6d04698938f0e44eecbefa",
+    "publishedAt": "2026-11-02T23:00:01Z",
+    "author": "Saino Zachariah"
+  },
+  {
     "source": "CNA",
     "title": "Nearly 8.4 million ticket requests received for India and Pakistan's 2027 World Cup clash",
     "description": "Nov 2 : Nearly 8.4 million ticket applications have been received for India and Pakistan's group-stage clash at next year's Men's Cricket World Cup, organisers said on Monday.• The rivals are set to clash in Johannesburg at The Wanderers on October 10, 2027. …",
@@ -213,33 +267,6 @@
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shaheen-afridi-pleads-guilty-as-pakistan-punished-after-tri-series-win-babar-advised-to-go-to-australia-amid-poor-form/articleshow/135454171.cms",
     "image": "https://static.toiimg.com/thumb/msid-135454264,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-02T10:04:22Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Afghanistan reach all-time high of sixth in ICC Men's ODI Team Rankings, surpass Sri Lanka",
-    "description": "Afghanistan has achieved their highest-ever ODI ranking by reaching sixth place in the ICC Men's ODI Team Rankings. They have surpassed established teams like Sri Lanka, Pakistan, and Bangladesh. Their performances include a 4-0 series victory over Ireland an…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/afghanistan-reach-all-time-high-of-sixth-in-icc-mens-odi-team-rankings-surpass-sri-lanka/articleshow/135454273.cms",
-    "image": "https://img.etimg.com/thumb/msid-135454272,width-1200,height-900,imgsize-252590,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-02T10:01:34Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Highest-ever! Afghanistan make historic leap, overtake Sri Lanka, England and West Indies in ODI rankings",
-    "description": "Afghanistan's cricket team has achieved a historic milestone by entering the top six of the ICC Men's ODI Team Rankings. They have surpassed Sri Lanka after consistent performances and landmark victories against major teams. Their climb follows notable wins d…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/highest-ever-afghanistan-make-historic-leap-overtake-sri-lanka-england-and-west-indies-in-odi-rankings/articleshow/135453393.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135453548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T09:31:47Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli has better chance of scoring century than Rohit Sharma: Former India cricketer drops big verdict",
-    "description": "Pujara feels Kohli's position at number three gives him more time to settle in and build an innings. Rohit, meanwhile, usually has the responsibility of giving India an aggressive start during the powerplay",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-has-better-chance-of-scoring-century-than-rohit-sharma-former-india-cricketer-drops-big-verdict/articleshow/135452394.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135453076,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-02T09:22:58Z",
     "author": "Shubhanshu Dwivedi"
   }
 ]
