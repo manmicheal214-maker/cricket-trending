@@ -1,5 +1,113 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Keeper error and rare cricket rule gives Renegades first win of WBBL season",
+    "description": "One of cricket's rarely needed rules has cost the Hobart Hurricanes in a four-wicket WBBL loss to the Melbourne Renegades.",
+    "url": "https://www.abc.net.au/news/2026-11-05/melbourne-renegades-beat-hobart-hurricanes-wbbl/107348342",
+    "image": "https://live-production.wcms.abc-cdn.net.au/7a2403b01895ff48ab187954ea1f93fb?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-04T21:01:31Z",
+    "author": null
+  },
+  {
+    "source": "ClutchPoints",
+    "title": "New Celebration Bowl projection has South Carolina State, Alabama A&M on top",
+    "description": "One weekend was enough to shake up the race to Atlanta, and the Cricket Celebration Bowl’s latest Toyota Championship Projection shows how much. South Carolina State still sits atop of the MEAC. The Bulldogs reach the Celebration Bowl in 40.63 percent of the …",
+    "url": "https://clutchpoints.com/hbcu/new-celebration-bowl-projection-has-south-carolina-state-alabama-am-on-top",
+    "image": "https://s.yimg.com/lo/mysterio/api/cec618f8be531119f3945aeb9d808e1b5e9c99021b02a9fe1007b4961291032f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F3dac565b894b8eb9135b9da2b957562c.jpg",
+    "publishedAt": "2026-11-04T20:47:28Z",
+    "author": "Randall Barnes, ClutchPoints"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rising Cup U-14 cricket tournament concludes with a grand finale; Tonk beat Jaipur’s Narayana Academy by 54 runs to clinch title",
+    "description": "Rising Cup U-14 final: Blair Cricket Academy, Tonk beat Jaipur’s Narayana Academy by 54 runs; Nayaf M Rasheed starred with 173 and 594 runs.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/rising-cup-u-14-cricket-tournament-concludes-with-a-grand-finale-tonk-beat-jaipurs-narayana-academy-by-54-runs-to-clinch-title/articleshow/135550580.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135550574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T19:22:19Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "Sportsnaut",
+    "title": "Report Makes 5-Time Pro Bowler Perfect Minnesota Vikings Trade Target Before Deadline",
+    "description": "While the Minnesota Vikings are reportedly among the teams pursuing a trade for Jonathan Taylor, a new report makes a […]",
+    "url": "https://sportsnaut.com/nfl/minnesota-vikings-derrick-henry-trade-speculation",
+    "image": "https://s.yimg.com/lo/mysterio/api/2c70a6768317e3f55f415eb7443cb8a582ac664e19fa0d5b180ba6b970bffa09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F2e3c8a9ae8a543172e5186a96e9b06c0.jpg",
+    "publishedAt": "2026-11-04T19:08:21Z",
+    "author": "Jason Burgos"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ahmedabad: Retired ASI’s son attacks him with stump, brick",
+    "description": "Retired Ahmedabad rural police ASI allegedly attacked by son with cricket stump and brick in Chandkheda; case registered after assault continued before police.",
+    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-retired-asis-son-attacks-him-with-stump-brick/articleshow/135549782.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135549780,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T18:38:25Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IPL 2027 trade rumours: CSK's HP laptop weather video leaves fans decoding 5 hints about Hardik Pandya",
+    "description": "Chennai's latest HP laptop video has once again sparked trade rumours on Hardik Pandya's supposed move to CSK as fans decode five hints.",
+    "url": "https://www.cricketnews.com/en/ipl/news/ipl-2027-trade-rumours-csk-hp-weather-video-decoding-5-hints-hardik-pandya/38151439f305359b156fe32a",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b3b2dde584264b4d738ebaac00034b9349566e2dc4654c2a321160760e7a156/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99be0a6738a4f42bba8f11bb1796a0f3",
+    "publishedAt": "2026-11-04T18:29:59Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Murasu toll rises to 4 as heavy rains batter Andhra Pradesh",
+    "description": "Cyclone Murasu death toll in Andhra Pradesh rises to 4 as heavy rains, landslides and rockslides hit coastal districts; IMD warns of more squally winds.",
+    "url": "https://timesofindia.indiatimes.com/city/vijayawada/murasu-toll-rises-to-4-as-heavy-rains-batter-andhra-pradesh/articleshow/135546443.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135546441,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T16:54:19Z",
+    "author": "Nalla Ram Babu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "From Chandigarh nightmare to Auckland redemption, Anshul Kamboj turns a corner",
+    "description": "Anshul Kamboj faced challenges at the beginning of his ODI career, but his recent match against New Zealand marked a turning point. He bounced back with a stellar performance, taking two wickets and maintaining an economical bowling style, which rewarded him …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-chandigarh-nightmare-to-auckland-redemption-anshul-kamboj-turns-a-corner/articleshow/135545942.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135546041,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T16:43:18Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Late starts, moisture making it difficult to defend totals: Jacob Duffy",
+    "description": "Jacob Duffy expressed concerns that evening moisture and late starts have hindered New Zealand's ability to defend their totals effectively. In a rain-affected ODI at Eden Park, the Black Caps faced a tough loss to India, where they struggled to set a competi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/late-starts-moisture-making-it-difficult-to-defend-totals-jacob-duffy/articleshow/135545540.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135545705,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T16:32:53Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ace and pace do it for India: Kohli conquers Eden Park, pacers run riot in rain-hit win over New Zealand",
+    "description": "Icon Kohli tames bouncy Eden Park conditions with poised 74 off 51 after Arshdeep, Kamboj & Co. impress in rain-hit first ODI against Kiwis",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ace-and-pace-do-it-for-india-kohli-conquers-eden-park-pacers-run-riot-in-rain-hit-win-over-new-zealand/articleshow/135545187.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135545356,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T16:22:49Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Harmanpreet, Shilanand lead India's goal fest as hosts thrash South Korea 8-1, set ACT final against Japan",
+    "description": "India delivered a stunning display of skill, overpowering South Korea 8-1 in the Asian Champions Trophy semi-final. With Shilanand Lakra and Dilpreet Singh each netting two goals and Harmanpreet Singh converting a key penalty corner, the team regained control…",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-shilanand-lead-indias-goal-fest-as-hosts-thrash-south-korea-8-1-set-act-final-against-japan/articleshow/135544008.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135544247,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T15:52:28Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Unfazed by Emerging Teams Asia Cup snub, Priyansh Arya vows to keep pushing",
+    "description": "Despite missing out on the Emerging Teams Asia Cup, Priyansh Arya remains unfazed, determined to keep pushing for opportunities. The Delhi batter discusses his explosive white-ball game, competition with Abhishek Sharma and Vaibhav Sooryavanshi, his red-ball …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/unfazed-by-emerging-teams-asia-cup-snub-priyansh-arya-vows-to-keep-pushing/articleshow/135543933.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135544196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T15:34:24Z",
+    "author": "Pratyush Raj"
+  },
+  {
     "source": "USA Today",
     "title": "Andy Reid comments on Pro Bowler's recent impact as a pass rusher",
     "description": "During his press conference, Kansas City Chiefs head coach Andy Reid commented on Pro Bowler Chris Jones' recent impact as a pass rusher | @EdEastonJr",
@@ -160,114 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135533171,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-04T09:43:36Z",
     "author": "Sahil Malhotra"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps v India result: New Zealand batting implodes as visitors claim ODI series opener at Eden Park",
-    "description": "New Zealand folded for just 185 at Eden Park, with more than nine overs unused.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-result-new-zealand-batting-implodes-as-visitors-claim-odi-series-opener-at-eden-park/X6U6XWOI2NA6ZLK6SYBHOVMQXA/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/FMFPJZHLTVDXTHRAPCTQYSR2SM.JPG?auth=d0756d26ec7f9cedcb0bbc596e07faa1aa3bbf09ccd535c424b87fa033c411e8&width=1200&height=675&quality=70&smart=true",
-    "publishedAt": "2026-11-04T09:39:48Z",
-    "author": "Alex Powell"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'We learned some great lessons': McCullum reflects on Pakistan setback ahead of Australia challenge",
-    "description": "Brendon McCullum emphasizes the critical role of the upcoming series against Australia in gearing up for the ICC Men's Cricket World Cup. Following England's disappointing performance in the ODI tri-series in Pakistan, with just one victory, the coach aims to…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_507b8459-3515-4abe-a7d4-121d38a4fdc1",
-    "image": null,
-    "publishedAt": "2026-11-04T08:51:00Z",
-    "author": null
-  },
-  {
-    "source": "Ozbargain.com.au",
-    "title": "Australian Crypto Convention, ICC Sydney 28-29 Nov - 2-Day VIP $ $1,343.20 (Was $1,679.00) @ Aus Crypto Convention",
-    "description": "Australia’s biggest crypto, blockchain, and fintech event returns to Sydney this November (28-29 Nov 2026). Join 10,000+ attendees, including investors, traders, tech leaders, and blockchain …",
-    "url": "https://www.ozbargain.com.au/node/981642",
-    "image": "https://files.ozbargain.com.au/n/42/981642x.jpg?h=687e0233",
-    "publishedAt": "2026-11-04T08:26:36Z",
-    "author": "auscryptoconvention"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli scripts history in Auckland, becomes first batter to achieve this feat",
-    "description": "Virat Kohli celebrated a monumental achievement, becoming the first to score 13,000 runs while batting at No. 3 in ODIs during India's opening match against New Zealand at Eden Park. With a striking career average of 61.61, Kohli's performance was stellar. In…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-scripts-history-in-auckland-becomes-first-batter-to-achieve-this-feat/articleshow/135531067.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135531364,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T08:19:15Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Anshul Kamboj joins Bumrah in elite list after record-breaking spell against NZ",
-    "description": "In his second ODI appearance, Anshul Kamboj delivered an impressive performance by securing two wickets for just 22 runs. The Indian bowling unit functioned impeccably, restricting New Zealand to a modest total of 185 runs in Auckland. Contributing significan…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/anshul-kamboj-joins-jasprit-bumrah-in-elite-list-after-record-breaking-spell-against-new-zealand/articleshow/135529699.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135530559,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T07:54:16Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli milestone: Fans react as India star becomes first player in history to score 13,000 ODI runs at No.3",
-    "description": "Virat Kohli creates cricket history by becoming the first batter to score 13,000 ODI runs at No. 3. See how fans reacted and explore the all-time list.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-milestone-first-player-history-13000-odi-runs-no3/b97b9fbc309c4e2d06707291",
-    "image": "https://s.yimg.com/lo/mysterio/api/ab0472ebcf986b56c80a9917568d5373abca1aeeb1520c72f900c65efb77c03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Facbf3dea7c04432286b542c98d743c05",
-    "publishedAt": "2026-11-04T07:52:51Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Explained: Arshdeep Singh 'steps celebration' after dismissing Kyle Jamieson in 1st ODI in Auckland",
-    "description": "Wondering why Arshdeep Singh celebrated with a unique dance step after dismissing Kyle Jamieson in Auckland? Here is what the Indian pacer revealed.",
-    "url": "https://www.cricketnews.com/en/cricket/news/arshdeep-singh-celebration-kyle-jamieson-1st-odi-auckland/5fe01e6e0a1859d5e9d0356f",
-    "image": "https://s.yimg.com/lo/mysterio/api/46720de4e3c8039abc2c5f79fae92038f32662c213c67a52f78d75d216650c01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb8e3c810efbd61334aa25ce764c8c656",
-    "publishedAt": "2026-11-04T07:00:00Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Ajinkya Rahane's wife buys two flats in Mumbai's Shivaji Park for Rs 25 cr",
-    "description": "Radhika Ajinkya Rahane, wife of Indian cricketer Ajinkya Rahane, has purchased two apartments in Mumbai's Oceana building in Shivaji Park.",
-    "url": "https://www.business-standard.com/finance/personal-finance/ajinkya-rahane-s-wife-buys-two-flats-in-mumbai-s-shivaji-park-for-rs-25-cr-126110400670_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/featurecrop/1200X628/1793775196-8032.jpg",
-    "publishedAt": "2026-11-04T06:53:34Z",
-    "author": "Sunainaa Chadha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL: MI, PBKS in talks over Hardik Pandya, Arshdeep Singh trade",
-    "description": "MUMBAI: The IPL trading window has sprung to life with a potential blockbuster deal involving Hardik Pandya and Arshdeep Singh.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mi-pbks-in-talks-over-hardik-pandya-arshdeep-singh-trade/articleshow/135527632.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135527811,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T06:37:17Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "NZ vs IND, 1st ODI: Arshdeep joins Srinath, Shami in elite list after four-fer at Auckland",
-    "description": "Arshdeep Singh became the third Indian fast bowler to take four wickets in New Zealand's ODIs. He took 4 wickets for 70 runs in the first match against New Zealand. Following his performance, New Zealand was restricted to 185 runs by the Indian bowlers. Gurno…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nz-vs-ind-1st-odi-arshdeep-joins-srinath-shami-in-elite-list-after-four-fer-at-auckland/articleshow/135527402.cms",
-    "image": "https://img.etimg.com/thumb/msid-135527400,width-1200,height-900,imgsize-115234,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-04T06:26:47Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Literally belies logic’: Ex-cricketer questions Shubman Gill-led India's selection calls",
-    "description": "Murali Kartik expressed concerns over India's selection strategy in the first ODI against New Zealand. He noted the absence of established players like Mohammed Siraj and Kuldeep Yadav from the playing XI. Kartik questioned the logical reasoning behind select…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/literally-belies-logic-ex-cricketer-questions-shubman-gill-led-indias-selection-calls/articleshow/135525175.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135525621,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T05:46:43Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "What is the 'Temple' device Shubman Gill wore during IND vs NZ 1st ODI in Auckland? ICC rules on advertising brand devices during matches explored",
-    "description": "Wondering what device Shubman Gill wore during the 1st ODI in Auckland? Here is what Deepinder Goyal's 'Temple' tracker does and how ICC rules apply.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1811d3e2-ead0-4baf-bcf8-33abe75d9f95",
-    "image": null,
-    "publishedAt": "2026-11-04T05:19:02Z",
-    "author": null
   }
 ]
 ;
