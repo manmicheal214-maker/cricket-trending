@@ -1,192 +1,273 @@
 window.cricketNews = [
   {
-    "source": "Cricketnews.com",
-    "title": "How to watch IND vs NZ ODI 2026 live: Start time, TV channels and streaming details as RoKo return for New Zealand tour",
-    "description": "With the T20I series concluded 3-2 in the favour of India, here's a look at where you can catch the ODI series live across the world on both TV and streaming...",
-    "url": "https://www.cricketnews.com/en/cricket/news/how-watch-ind-vs-nz-odi-2026-live-start-time-tv-channels-and-streaming/eeb33a4968cfb281e875e0f2",
-    "image": "https://s.yimg.com/lo/mysterio/api/69e71b3fedba42b715e202a780692fb21b0df562f80a65ce64881bdc831df027/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
-    "publishedAt": "2026-11-03T19:40:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
     "source": "The Times of India",
-    "title": "India tour of New Zealand: Allrounder Michael Bracewell expects high-scoring ODI series",
-    "description": "New Zealand allrounder Michael Bracewell believes rapid improvements in batting skills are making it increasingly difficult for bowlers to contain scoring in white-ball cricket. Ahead of the five-match ODI series against India, he called for a better balance …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-tour-of-new-zealand-allrounder-michael-bracewell-expects-high-scoring-odi-series/articleshow/135512018.cms",
-    "image": "https://img.etimg.com/thumb/msid-135512064,width-1200,height-900,imgsize-134096,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-03T19:24:49Z",
-    "author": "Amit Chaudhary"
-  },
-  {
-    "source": "PEOPLE",
-    "title": "Lions Coach Dan Campbell Says Linebacker Jack Campbell Is ‘Improving’ After Neck Injury",
-    "description": "The Pro Bowler was hospitalized following the scary injury in Detroit’s game on Sunday, Nov. 1",
-    "url": "https://people.com/lions-dan-campbell-says-jack-campbell-is-improving-after-neck-injury-12219707",
-    "image": "https://s.yimg.com/lo/mysterio/api/abe4a91183b837db7e0d4d537c4b124a286a94c0d6f52904bdc1150022fbf97c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3091aaee2d67eb6a5dfc5c81fd0ee39b.jpg",
-    "publishedAt": "2026-11-03T18:51:06Z",
-    "author": "Natasha Dye"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mumbai defeats UP by 29 runs in Women’s T20 match",
-    "description": "Mumbai beat UP by 29 runs in a rain-shortened 9-over Senior Women’s T20 match in Kanpur, scoring 84/2 before restricting UP to 55/6.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/mumbai-defeats-up-by-29-runs-in-womens-t20-match/articleshow/135510120.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-11-03T18:14:52Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Fox News",
-    "title": "Popeyes revives long-lost menu item that fans have been waiting years to taste again",
-    "description": "A discontinued menu item from Popeyes returns, sparking nostalgia and debate as some customers praised the crispy batter while others disagreed.",
-    "url": "https://www.foxnews.com/food-drink/popeyes-revives-long-lost-menu-item-fans-have-been-waiting-years-taste-again",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/popeyes_drive_thru.jpg",
-    "publishedAt": "2026-11-03T17:57:02Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Sussex appoint Barrett-Wild as first female CEO",
-    "description": "Sussex name Beth Barrett-Wild as their next CEO with ex-England bowler Holly Colvin set to join as a non-executive director.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c9zrdj2xjmkmo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ce3/live/2d83aaf0-d7a7-11f1-84dd-e55f4bec0ecd.png",
-    "publishedAt": "2026-11-03T17:21:05Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket Writers' Awards for Robinson, Sharma & Bamber",
-    "description": "Fast bowlers dominate at Cricket Writers' Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cjy56dd4v63yo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-11-03T16:41:37Z",
-    "author": "Ged Scott - BBC Sport England"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ranji Trophy: Delhi's Ayush Doseja admits second-season blues after hitting season's first fifty",
-    "description": "A year on from a prolific 949-run season, Ayush Doseja has faced outside noise and a string of unfortunate dismissals in the Ranji Trophy. The Delhi batter insists his confidence remains intact, credits the Bengal attack for a valuable challenge and believes …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-delhis-ayush-doseja-admits-second-season-blues-after-hitting-seasons-first-fifty/articleshow/135506673.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135506806,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-03T16:39:17Z",
-    "author": "Pratyush Raj"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cricket Writers' Awards for Robinson, Sharma & Bamber",
-    "description": "Fast bowlers dominate at Cricket Writers' Club awards as England's Ollie Robinson, Naayva Sharma and Ethan Bamber all claim prizes.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cjy56dd4v63yo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1ab/live/fe30d510-d798-11f1-801d-cf196dc7232c.png",
-    "publishedAt": "2026-11-03T16:24:50Z",
-    "author": "Ged Scott"
+    "title": "‘Literally belies logic’: Ex-cricketer questions Shubman Gill-led India's selection calls",
+    "description": "Murali Kartik expressed concerns over India's selection strategy in the first ODI against New Zealand. He noted the absence of established players like Mohammed Siraj and Kuldeep Yadav from the playing XI. Kartik questioned the logical reasoning behind select…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/literally-belies-logic-ex-cricketer-questions-shubman-gill-led-indias-selection-calls/articleshow/135525175.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135525621,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T05:46:43Z",
+    "author": "Pranav Shukla"
   },
   {
     "source": "Yahoo Entertainment",
-    "title": "England cricketer of the year named as star promises there is 'plenty more to come'",
-    "description": "The Bob Willis Trophy was handed out at the Vitality Cricket Media Club Awards at Lord’s",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e30058c-8057-4be3-903b-e2b3ffde04a4",
+    "title": "What is the 'Temple' device Shubman Gill wore during IND vs NZ 1st ODI in Auckland? ICC rules on advertising brand devices during matches explored",
+    "description": "Wondering what device Shubman Gill wore during the 1st ODI in Auckland? Here is what Deepinder Goyal's 'Temple' tracker does and how ICC rules apply.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1811d3e2-ead0-4baf-bcf8-33abe75d9f95",
     "image": null,
-    "publishedAt": "2026-11-03T16:23:16Z",
+    "publishedAt": "2026-11-04T05:19:02Z",
     "author": null
   },
   {
-    "source": "Sporting News",
-    "title": "Auckland weather forecast for New Zealand vs. India ODI: Chances of rain, average temperatures ahead of 1st match",
-    "description": "Check the latest Auckland weather forecast for the New Zealand vs. India 1st ODI, including rain chances, expected temperatures and conditions at Eden Park.",
-    "url": "https://www.sportingnews.com/in/cricket/news/auckland-weather-forecast-new-zealand-india-odi-rain-temperatures-1st-match/c3bf0233bbed2758b03fabb4",
-    "image": "https://s.yimg.com/lo/mysterio/api/55fd91b00997b8a0c21eb95a2b11a25da04efca37686b495ec859d5e4b5db99d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F74020375481c364b5560fbb00ea96dcb",
-    "publishedAt": "2026-11-03T16:10:47Z",
-    "author": "Anselm Noronha"
+    "source": "The Times of India",
+    "title": "'Try stopping me if you can': Virat Kohli's stunning catch, Rohit Sharma's run-out lights up Auckland ODI",
+    "description": "Virat Kohli and Rohit Sharma showed their fitness and fielding skills in India's first ODI against New Zealand in Auckland on Wednesday, producing two",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/try-stopping-me-if-you-can-virat-kohlis-stunning-catch-rohit-sharmas-run-out-lights-up-auckland-odi/articleshow/135523913.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135524405,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T05:08:06Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
-    "source": "Sporting News",
-    "title": "Eden Park, Auckland pitch report, ODI records and average scores ahead of New Zealand vs. India 1st match",
-    "description": "A look at Eden Park's pitch conditions, ODI records and average scores ahead of the first ODI between New Zealand and India.",
-    "url": "https://www.sportingnews.com/in/cricket/news/eden-park-auckland-pitch-report-odi-records-scores/09bb88133bb49bdc0a397986",
-    "image": "https://s.yimg.com/lo/mysterio/api/1e1eec6eef187c2b8143d3de70c4bc58ff0c2789a235981d6580bb203828aaa8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F782a12676cd6468f9c7bd34914b699e0",
-    "publishedAt": "2026-11-03T15:03:39Z",
-    "author": "Anselm Noronha"
+    "source": "The Times of India",
+    "title": "Virat Kohli's Gurgaon House: Inside his lavish ₹80,00,00,000 bungalow in DLF Phase 1 featuring a private swimming pool, gym, spacious balconies, marble flooring and luxurious interiors",
+    "description": "Virat Kohli celebrates his birthday on November 5th while competing in the ODI series against New Zealand. His stunning residence in Gurgaon’s DLF Phase 1 is valued at approximately 80 crores. Spanning over 10,000 square feet, this modern bungalow features lu…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/virat-kohlis-gurgaon-house-inside-his-lavish-800000000-bungalow-in-dlf-phase-1-featuring-a-private-swimming-pool-gym-spacious-balconies-marble-flooring-and-luxurious-interiors/articleshow/135524112.cms",
+    "image": "https://img.etimg.com/thumb/msid-135524313,width-1200,height-900,imgsize-1431655,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-04T05:00:50Z",
+    "author": "Trending Desk"
   },
   {
     "source": "Khabarhub.com",
-    "title": "NPL 2026: Lumbini defeats Pokhara by eight wickets",
-    "description": "KATHMANDU: Lumbini Lions defeated Pokhara Avengers by eight wickets in Tuesday’s Nepal Premier League (NPL) T20 cricket match. In the match held at the Tribhuvan University International Cricket Ground in Kirtipur this evening, Lumbini bowled out Pokhara for …",
-    "url": "https://english.khabarhub.com/2026/03/574334/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/NPL-pokhara-lumbini-6.jpg",
-    "publishedAt": "2026-11-03T14:24:45Z",
+    "title": "South African cricketer David Miller arrives in Nepal",
+    "description": "KATHMANDU: South African cricketer David Miller has arrived in Nepal to play in the third edition of the Nepal Premier League (NPL). Miller landed at Tribhuvan International Airport (TIA) this morning, where he was welcomed by representatives of NPL franchise…",
+    "url": "https://english.khabarhub.com/2026/04/574420/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/David-Miller--e1793768106544.jpg",
+    "publishedAt": "2026-11-04T04:55:14Z",
     "author": "Khabarhub"
   },
   {
-    "source": "Cricketnews.com",
-    "title": "'It's too early': Sachin Tendulkar cautions against giving Vaibhav Sooryavanshi key role",
-    "description": "Cricket legend Sachin Tendulkar has cautioned against naming 15-year-old Vaibhav Sooryavanshi vice-captain in first-class cricket. Details.",
-    "url": "https://www.cricketnews.com/en/cricket/news/sachin-tendulkar-cautions-against-vaibhav-sooryavanshi-captaincy-role/a665feeed3d82b734c58dcd2",
-    "image": "https://s.yimg.com/lo/mysterio/api/19972e687d709e1301858741f2e998815f9b85027a10a18a41ed28af4ec23be3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2bd9856be32c567c60a83a23fb6624d4",
-    "publishedAt": "2026-11-03T14:11:24Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Nee po mone Dinesha': Sachin Tendulkar drops Mohanlal's iconic dialogue when asked about Sanju Samson",
-    "description": "Sachin Tendulkar uses Mohanlal's iconic 'Nee po mone Dinesha' dialogue when asked about his conversations with Sanju Samson during the 2026 T20 World Cup.",
-    "url": "https://www.cricketnews.com/en/cricket/news/nee-po-mone-dinesha-sachin-tendulkar-mohanlal-dialogue-sanju-samson/0cb21f71396cba2ec2b94cd1",
-    "image": "https://s.yimg.com/lo/mysterio/api/257477122a331accef49b495af0424b14dc38f8ac04ae9d59a37634674046635/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4d89d65e560702345db296b354dc8f9f",
-    "publishedAt": "2026-11-03T14:09:03Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Shubman Gill and Mitchell Santner steal players and make intriguing picks in fun India vs New Zealand cricket challenge",
-    "description": "Shubman Gill and Mitchell Santner made surprising player picks in a viral India vs New Zealand cricket challenge, revealing who they would steal and hate facing.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shubman-gill-mitchell-santner-steal-players-picks-fun-ind-vs-nz-challenge/9b8c8a32c0cf914607aa81c9",
-    "image": "https://s.yimg.com/lo/mysterio/api/aa19d033dab451927a64a31a92786c5b0279a8c1b1a31909218ded80fc48aa62/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff1f021a1fc216f30d5f75b6395a62c90",
-    "publishedAt": "2026-11-03T13:22:50Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-England bowler Colvin set to join Sussex board",
-    "description": "Former England bowler Holly Colvin is among five proposed new non-executive directors of Sussex.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c9zrdj2xjmkmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-11-03T13:20:43Z",
-    "author": "BBC"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "'We are stuck': Residents of small Arizona community stranded after flooding washes out only bridge - 12News",
-    "description": "'We are stuck': Residents of small Arizona community stranded after flooding washes out only bridge12News ‘Devastating’ Damage as Hard Rains and Flash Floods Batter the SouthwestThe New York Times Rain clears but flood risk remains high after destructive stor…",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186568406",
-    "image": null,
-    "publishedAt": "2026-11-03T13:13:19Z",
-    "author": "feedfeeder"
+    "source": "Business Standard",
+    "title": "DDCA seeks venue change for India-Sri Lanka ODI over pollution concerns",
+    "description": "The opening One-Day International between India and Sri Lanka slated to be played in the national capital on December 13 is likely to be moved out due to pollution and outfield revamp.\nWith pollution at its peak in the months of November and December being a …",
+    "url": "https://www.business-standard.com/cricket/news/ddca-seeks-venue-change-for-india-sri-lanka-odi-over-pollution-concerns-126110301633_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/03/thumb/fitandfill/1200X628/1791015222-4221.jpg",
+    "publishedAt": "2026-11-04T04:46:09Z",
+    "author": "Press Trust of India"
   },
   {
     "source": "The Times of India",
-    "title": "Up 53 spots! Vaishnavi Sharma makes giant leap in ICC ODI rankings after stunning spells against Zimbabwe",
-    "description": "India's women cricket team displayed unmatched dominance by sweeping the three-match ODI series against Zimbabwe. Vaishnavi Sharma shone brightly, capturing nine wickets and climbing the bowling rankings. Meanwhile, players like Sayali Satghare and Pratika Ra…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/up-53-spots-vaishnavi-sharma-makes-giant-leap-in-icc-odi-rankings-after-stunning-spells-against-zimbabwe/articleshow/135497039.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135497931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-03T12:25:39Z",
-    "author": "Hijam Raju Singh"
+    "title": "India series 'taxing', players 'jarred' ahead of ODIs: Mitchell Santner",
+    "description": "Modern international cricket rarely pauses to catch its breath, and New Zealand captain Mitchell Santner made no effort to sugarcoat the physical toll on",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-series-taxing-players-jarred-ahead-of-odis-mitchell-santner/articleshow/135523231.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135523231,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T04:42:05Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘India went through a dark phase’: Sachin Tendulkar opens up on captaincy stint",
+    "description": "In a recent social media session, cricket legend Sachin Tendulkar shared insights about his captaincy during the 1990s, highlighting the hurdles he encountered, particularly in team selection. He named Sourav Ganguly and MS Dhoni as his top Indian captain pic…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-cricket-went-through-a-dark-phase-sachin-tendulkars-big-revelation-on-captaincy-stint/articleshow/135523453.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135523592,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T04:40:26Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Pregnant cricket WAG Emma Lyon shows off her growing baby bump as she greets husband Nathan at the airport with their daughter ahead of welcoming their second child",
+    "description": "They announced they were expecting their second child in August.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16264047/emma-lyon-nathan-lyon-pregnant-baby-bump-airport-cricket-wag-daughter.html",
+    "image": "https://i.dailymail.com/1s/2026/11/04/04/112287581-0-image-m-24_1793766955951.jpg",
+    "publishedAt": "2026-11-04T04:40:05Z",
+    "author": "Jade Watkins"
   },
   {
     "source": "Cricketnews.com",
-    "title": "New Zealand vs India 1st ODI prediction, lineups and Eden Park pitch report — who will win?",
-    "description": "Who will win the New Zealand vs India 1st ODI? Get our prediction, predicted lineups, team news and Eden Park pitch report as Rohit and Kohli return",
-    "url": "https://www.cricketnews.com/en/cricket/play/new-zealand-vs-india-1st-odi-prediction-lineups-eden-park-pitch-report/2709cdbda3780c623cf54078",
+    "title": "Rohit Sharma sets fitness goals: Fans react as India veteran pulls off a diving effort to run out Daryl Mitchell during 1st ODI",
+    "description": "At 39, Rohit Sharma pulled off a brilliant diving effort on the pitch to run out dangerous Daryl Mitchell in the 1st ODI in Auckland.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-fitness-goals-diving-effort-run-out-daryl-mitchell/d6c290fe7cdecba9b68ee821",
+    "image": "https://s.yimg.com/lo/mysterio/api/435e68eda6953bfb0832d9d07412657d80783ac526a7a21aa973693b11662148/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2ab03c2ba242718f07f1fa717ec260f1",
+    "publishedAt": "2026-11-04T04:34:00Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "BCCI opens applications for women's fielding coach and men's head physio",
+    "description": "The BCCI on Tuesday invited applications for the positions of fielding coach of the women's team and head physiotherapist of the men's side.\nThe deadline to submit applications is November 16, the Board stated in a media release.\nMunish Bali served as the wom…",
+    "url": "https://www.business-standard.com/cricket/news/bcci-opens-applications-for-women-s-fielding-coach-and-men-s-head-physio-126110301904_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/fitandfill/1200X628/1788934658-5567.jpg",
+    "publishedAt": "2026-11-04T04:32:12Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Tall and quick': Shubman Gill's choice of pacers for 2027 World Cup",
+    "description": "On the eve of India’s opening ODI against New Zealand at the Eden Park, Auckland, the Indian skipper laid bare the blueprint behind India’s recent pace-bowling auditions, pegging tall, hit-the-deck quicks as a core priority with an eye on the 2027 World Cup i…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tall-and-quick-shubman-gills-choice-of-pacers-for-2027-world-cup/articleshow/135522406.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135522582,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T04:14:57Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India face tricky Eden Park: Gill leads full-strength ODI side; Conway concussion hits NZ",
+    "description": "Batting stars Shubman Gill, Rohit Sharma, Virat Kohli and KL Rahul are back in the mix, while Mohammed Siraj is set to strengthen the pace attack.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-odi-ground-realities-hit-india-hard-at-eden-park/articleshow/135522085.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135522084,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T04:03:15Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in ODI cricket at Eden Park, Auckland: Full list of records",
+    "description": "Discover the most successful ODI run chases at Eden Park, Auckland. From New Zealand's record 340-run chase to historic thrillers, here is the full list.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-odi-cricket-eden-park-auckland/9c90f98eb443db5f5308560d",
+    "image": "https://s.yimg.com/lo/mysterio/api/c3152a941dd973fe788115fbe270511c409036dea0987c91ddf143a336b0dc2f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe97010fcb0ff561ecf006a2ae58a976a",
+    "publishedAt": "2026-11-04T03:41:22Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "There is no home advantage anymore: Michael Bracewell",
+    "description": "MUMBAI: New Zealand may have lost the T20I series 3-2 but victories in the final two matches have boosted their belief ahead of the five-match ODI series",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/there-is-no-home-advantage-anymore-michael-bracewell/articleshow/135520712.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135520750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T03:25:18Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'We learned some great lessons': McCullum reflects on Pakistan setback ahead of Australia challenge",
+    "description": "Brendon McCullum emphasizes the critical role of the upcoming series against Australia in gearing up for the ICC Men's Cricket World Cup. Following England's disappointing performance in the ODI tri-series in Pakistan, with just one victory, the coach aims to…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-learned-some-great-lessons-mccullum-reflects-on-pakistan-setback-ahead-of-australia-challenge/articleshow/135520551.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135520691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T03:22:11Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Team India pacer Gurnoor Brar caught in viral chat controversy, unverified screenshots set social media abuzz",
+    "description": "Indian fast bowler Gurnoor Brar finds himself at the center of unverified social media allegations involving personal texts and images. These claims have generated significant discussion but remain unsubstantiated by reliable sources. The Board of Control for…",
+    "url": "https://timesofindia.indiatimes.com/relationships/team-india-pacer-gurnoor-brar-caught-in-viral-chat-controversy-unverified-screenshots-set-social-media-abuzz/articleshow/135510166.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135510481,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T03:15:20Z",
+    "author": "TOI Lifestyle Desk"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "India wins the toss and chooses to bowl in the 1st ODI against New Zealand as Gil, Kohli return",
+    "description": "AUCKLAND, New Zealand (AP) — India captain Shubman Gil won a delayed toss and decided to bowl Wednesday in the first of five one-day cricket internationals against New Zealand.The toss was delayed by 20 minutes by a passing shower at Eden Park, and Gil said i…",
+    "url": "https://sports.yahoo.com/articles/india-wins-toss-chooses-bowl-023817194.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/1f34a34c2d753f846894ad8a373b1aa1f8ab10419321bb0ca0a6bcf2ffb0ce0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F661380777731d472cfc72e42651bada5.jpg",
+    "publishedAt": "2026-11-04T02:38:17Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Business Standard",
+    "title": "India's cricket sponsorship market crowded, expensive at the top: EMW CEO",
+    "description": "EMW Global CEO Michael Rocha-Keys says India's cricket sponsorship market is crowded and expensive at the top, but emerging athletes, digital content and overseas markets offer room for growth.",
+    "url": "https://www.business-standard.com/sports/business/emw-global-michael-rocha-keys-rinku-singh-india-cricket-sponsorship-market-126110400066_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/featurecrop/1200X628/1793758461-8769.jpg",
+    "publishedAt": "2026-11-04T02:14:12Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Shubman Gill opts to bowl, Mohammed Siraj and Kuldeep Yadav miss out as India go with four pacers against New Zealand",
+    "description": "India's decision to field first in the ODI against New Zealand was made after winning the toss. Captain Shubman Gill explained that they opted for a pace-heavy attack to exploit the conditions. New Zealand made changes to their lineup, with Tim Seifert replac…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-opts-to-bowl-mohammed-siraj-and-kuldeep-yadav-miss-out-as-india-go-with-four-pacers/articleshow/135518182.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135518303,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T02:09:10Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Virat Kohli score today for New Zealand vs. India 1st ODI in Auckland",
+    "description": "Virat Kohli's score in the 1st ODI between India and New Zealand in Auckland.",
+    "url": "https://www.sportingnews.com/in/cricket/news/virat-kohli-score-today-india-new-zealand-1st-odi-auckland/e5bad0971adf799ac522bf65",
+    "image": "https://s.yimg.com/lo/mysterio/api/17b7fe1a3f0fbc175775eef1d87521273da0cb202b4b1bac130d84c68c0ba91f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd98c26aeb22845cb514b990a9a822414",
+    "publishedAt": "2026-11-04T02:03:53Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland",
+    "description": "Rohit Sharma's score in the 1st ODI between India and New Zealand in Auckland.",
+    "url": "https://www.sportingnews.com/in/cricket/news/rohit-sharma-score-today-india-new-zealand-1st-odi-auckland/503349be7dc50d0ff5b93152",
+    "image": "https://s.yimg.com/lo/mysterio/api/8b12c13d11fadd595880dea5805ff82ab42018bd9b82249915c74e6d86f7933c/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb73458a93d22dacf83bd16b60bbd966f",
+    "publishedAt": "2026-11-04T01:57:52Z",
+    "author": "Ritabrata_Banerjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "New Zealand vs India 1st ODI live streaming: Where to watch today's match?",
+    "description": "India captain Shubman Gill wins the toss and elected to bat first in the 1st ODI of five-match series. Fans in India can live stream of India vs New Zealand 1st ODI on the SonyLIV app and website",
+    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-1st-odi-live-streaming-where-to-watch-today-s-match-126110300599_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/03/thumb/resize/1200X628/1793688379-1732.jpg",
+    "publishedAt": "2026-11-04T01:53:56Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘I will be the fielding coach’: Ex-England captain's dig at India as BCCI invites applications",
+    "description": "Michael Vaughan has spotlighted India's ongoing struggles with fielding as the BCCI seeks a new fielding coach. Recent matches, particularly during the Women's T20 World Cup, have revealed troubling catching mistakes, including in a series against Zimbabwe. W…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-will-be-the-fielding-coach-ex-england-captains-dig-at-india-as-bcci-invites-applications/articleshow/135517351.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135517438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T01:08:45Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Cricket Australia chief defends controversial sale plan",
+    "description": "Todd Greenberg on private investment and the push to stay competitive in the global game",
+    "url": "https://biztoc.com/x/a44b0da421b2f1e3",
+    "image": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-11-04T01:06:16Z",
+    "author": "ft.com"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps v India live updates: First One-Day International at Eden Park",
+    "description": "Live updates of the first ODI between the Black Caps and India at Eden Park.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-live-updates-first-one-day-international-at-eden-park/X6U6XWOI2NA6ZLK6SYBHOVMQXA/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/3Q4TRLOT6BFRBDJLIUGEVDMRTY.jpg?auth=5d93e3c452ca9d795c39cee34bd07ec1d63a4c438bd70c0465100def3ba1c786&width=1200&height=675&quality=70&focal=1143%2C589&smart=false",
+    "publishedAt": "2026-11-04T01:04:54Z",
+    "author": "NZ Herald"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ Live: India begin 2027 WC preparations under Gill's captaincy",
+    "description": "India vs New Zealand Live Score, 1st ODI: With the 2027 ODI World Cup approaching, India have little time left to settle on their strongest combinati",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-shubman-live-streaming-auckland/liveblog/135506408.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135506408,width-1280,height-720,imgsize-118301,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T00:30:16Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "Sporting News",
+    "title": "New Zealand vs. India 1st ODI live score, win probability and chances of victory in Auckland",
+    "description": "NZ vs IND 1st ODI live score: Follow real-time scorecard updates from Eden Park, Auckland, including toss results, win probability, lineups, and highlights.",
+    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-india-live-score-win-probability-1st-odi-auckland/e4b1e8530828edb7ba745453",
+    "image": "https://s.yimg.com/lo/mysterio/api/409bd3afab857c02ed521569070361f572ef9965ccd635ff5a0e1649e610f9f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F49aa5feb819669ee73c1d5c1864819d6",
+    "publishedAt": "2026-11-04T00:30:01Z",
+    "author": "Ritabrata Banerjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs NZ 1st ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Eden Park, Auckland",
+    "description": "IND vs NZ 5th T20I live score: Real-time scorecard from Eden Park, Auckland, win probability, result, and match highlights.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-1st-odi-2026-live-scorecard-result-highlights-auckland/6c9a5398c30a3507e8672d0a",
     "image": "https://s.yimg.com/lo/mysterio/api/6d856057375b97c9ab75a134e431109b6694929e59c882185ea4288234e9b005/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb918b6151a2d0118469918f69f6cac08",
-    "publishedAt": "2026-11-03T12:16:42Z",
-    "author": "Ajay Gandhar"
+    "publishedAt": "2026-11-04T00:30:01Z",
+    "author": "Soham Mukherjee"
   },
   {
-    "source": "The Times of India",
-    "title": "'Past players will start to go at them': Ex-England cricketer warns Australia ahead of 2027 Ashes",
-    "description": "Former England cricketer Michael Atherton has urged England to \"keep the pressure on Australia\" during their upcoming white-ball series, warning that the hosts could \"implode\" before the 2027 Ashes. Australia are struggling after losing 2-1 to South Africa, w…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/past-players-will-start-to-go-at-them-ex-england-cricketer-warns-australia-ahead-of-2027-ashes/articleshow/135493983.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135494254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-03T11:15:56Z",
-    "author": "Jyotirmoy Halder"
+    "source": "Bringatrailer.com",
+    "title": "Supercharged LSA-Powered 1969 Chevrolet Chevelle Nomad",
+    "description": "This 1969 Chevrolet Chevelle Nomad was sent to Dutchboys Hotrods of Vicksburg, Michigan, by the owner in 2019, and the build was completed in 2023. Power is provided by a supercharged 6.2-liter LSA V8 paired with a Bowler Performance 4L80-E four-speed automat…",
+    "url": "https://bringatrailer.com/listing/1969-chevrolet-chevelle-nomad/",
+    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/TWSR8721-1e3edd817e14655f9eeebb02f6a227bc.jpg",
+    "publishedAt": "2026-11-04T00:17:35Z",
+    "author": "bringatrailer"
   }
 ]
 ;
