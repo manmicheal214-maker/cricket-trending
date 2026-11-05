@@ -1,5 +1,257 @@
 window.cricketNews = [
   {
+    "source": "USA Today",
+    "title": "Andy Reid comments on Pro Bowler's recent impact as a pass rusher",
+    "description": "During his press conference, Kansas City Chiefs head coach Andy Reid commented on Pro Bowler Chris Jones' recent impact as a pass rusher | @EdEastonJr",
+    "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/04/kansas-city-chiefs-hc-andy-reid-comments-on-chris-jones-recent-impact-as-a-pass-rusher/92580277007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/5603e5779bf1d55163d09b893852fa6978f08747a6861616da3ce2b917ab6cf2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2F274213683a61edbdad9e22d1b8bcf5e3.jpg",
+    "publishedAt": "2026-11-04T14:00:41Z",
+    "author": "Ed Easton Jr., Chiefs Wire"
+  },
+  {
+    "source": "The Times of India",
+    "title": "WPL 2027 schedule announced: Vadodara, Mumbai to host fifth edition; RCB face MI in opener",
+    "description": "The Board of Control for Cricket in India has officially unveiled the schedule for the eagerly awaited fifth edition of the Women's Premier League. Kicking off on January 14, 2027, the tournament will take place across the vibrant cities of Vadodara and Mumba…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/wpl-2027-schedule-announced-vadodara-mumbai-to-host-fifth-edition-rcb-face-mi-in-opener/articleshow/135540888.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135541015,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T13:38:27Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Drone survey conducted for cricket stadium in Mangaluru",
+    "description": "Drone survey conducted at five proposed sites for a new cricket stadium in Mangaluru; MUDA to present plan to KSCA seeking 50 acres of govt land.",
+    "url": "https://timesofindia.indiatimes.com/city/mangaluru/drone-survey-conducted-for-cricket-stadium-in-mangaluru/articleshow/135540928.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135540925,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T13:34:24Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Jacob Duffy gets Virat Kohli's wicket, teases RCB teammate as 'annoying' after Auckland ODI",
+    "description": "Jacob Duffy might have taken Virat Kohli's wicket at Auckland, but his RCB teammate had already done the damage by scoring a quick 74 and leading India to a five-wicket rain-affected victory.",
+    "url": "https://www.cricketnews.com/en/cricket/news/jacob-duffy-virat-kohli-wicket-calls-annoying-auckland-odi-loss/2dd4a0b73173efeba39c8f44",
+    "image": "https://s.yimg.com/lo/mysterio/api/d4487efb542d52797f4c2c1599fa0617433443e7140ce1f639f88b38e39571f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F323acf124ebe67e59895d636cbdaf6e0",
+    "publishedAt": "2026-11-04T13:25:54Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma says he will bring his brand on Shark Tank India: “Ek Din Mera Bhi Brand Leke Aaunga”",
+    "description": "In a festive twist, Family Full House will showcase a special Diwali episode featuring cricket sensation Rohit Sharma alongside the dynamic Shark Tank India sharks and a lineup of comedians. Expect a lively atmosphere with engaging discussions and lots of lau…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rohit-sharma-says-he-will-bring-his-brand-on-shark-tank-india-ek-din-mera-bhi-brand-leke-aaunga/articleshow/135540075.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135540178,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T13:03:50Z",
+    "author": "etimes.in"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'One match doesn't decide a career': Anshul Kamboj's strong response after match-winning show against New Zealand",
+    "description": "Anshul Kamboj made a significant impact in India's ODI against New Zealand, skillfully taking two wickets and aiding in restricting the opponent to a modest score of 185. His disciplined bowling, emphasised through consistent lengths and a wobble seam deliver…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/one-match-doesnt-decide-a-career-anshul-kambojs-strong-response-after-match-winning-show-against-new-zealand/articleshow/135539300.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135539453,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T12:32:09Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "The ultimate ODI chase master: Virat Kohli continues to burgeon his reputation as the greatest chaser in ODIs",
+    "description": "After yet another dominant innings against the Kiwis at Auckland, Virat Kohli continues to cement his legacy as ODI cricket's greatest chase master.",
+    "url": "https://www.cricketnews.com/en/cricket/cricket-features/ultimate-chase-master-virat-kohli-reputation-greatest-chaser-odi/efe8619ba700241c346fca90",
+    "image": "https://s.yimg.com/lo/mysterio/api/ab0472ebcf986b56c80a9917568d5373abca1aeeb1520c72f900c65efb77c03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Facbf3dea7c04432286b542c98d743c05",
+    "publishedAt": "2026-11-04T12:15:26Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'He was annoying': Jacob Duffy's hilarious take on Virat Kohli after India's win",
+    "description": "Jacob Duffy shed light on Virat Kohli's remarkable display during India's decisive five-wicket triumph over New Zealand in an ODI match. Scoring 74 runs off 51 balls, Kohli showcased his class against a struggling New Zealand side, which could only muster 180…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135538223,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T11:45:18Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Rohit bhai's run-out changed the momentum': Shubman Gill reveals turning point in India's win over New Zealand",
+    "description": "In a thrilling ODI, Shubman Gill lauded Rohit Sharma for his pivotal run-out of Daryl Mitchell, which turned the tide in India's favor. The bowlers, led by Arshdeep Singh's four-wicket haul, effectively limited New Zealand to 185 runs. Virat Kohli's 74 runs w…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rohit-bhais-run-out-changed-the-momentum-shubman-gill-reveals-turning-point-in-indias-win-over-new-zealand/articleshow/135537939.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135538196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T11:44:49Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Wobble seam was working very well': Kamboj on match-winning spell against New Zealand in 1st ODI",
+    "description": "Anshul Kamboj delivered an outstanding performance in the first ODI against New Zealand, achieving remarkable bowling figures of 2/22. His precise line and length proved instrumental in limiting New Zealand to a total of just 185 runs. India successfully chas…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/wobble-seam-was-working-very-well-kamboj-on-match-winning-spell-against-new-zealand-in-1st-odi/articleshow/135538025.cms",
+    "image": "https://img.etimg.com/thumb/msid-135538109,width-1200,height-900,imgsize-228390,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-04T11:39:26Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Why Arshdeep Singh has been preferred over Mohammed Siraj in India's ODI team ahead of the 2027 World Cup",
+    "description": "As Arshdeep Singh once again gets to be in the playing XI in the first ODI at Auckland, it is becoming increasingly clear that India is moving away from Mohammad Siraj, and here's why.",
+    "url": "https://www.cricketnews.com/en/cricket/news/why-arshdeep-singh-picked-over-siraj-india-odi-2027-world-cup/0073e1f4cb024380030050cf",
+    "image": "https://s.yimg.com/lo/mysterio/api/46720de4e3c8039abc2c5f79fae92038f32662c213c67a52f78d75d216650c01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb8e3c810efbd61334aa25ce764c8c656",
+    "publishedAt": "2026-11-04T11:32:23Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mitchell Starc dethrones Marco Jansen to reclaim No.1 spot in ICC Test rankings",
+    "description": "Mitchell Starc has climbed to the pinnacle of the ICC Test bowling rankings following an impressive series where he captured 15 wickets against South Africa. Although Australia faced a 2-1 defeat in the series, Starc's individual brilliance shined through. Me…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-dethrones-marco-jansen-to-reclaim-no-1-spot-in-icc-test-rankings/articleshow/135535550.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135536984,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T11:11:46Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli surpasses Sachin Tendulkar for most runs while chasing in ODI history",
+    "description": "Virat Kohli recorded a significant milestone by surpassing Sachin Tendulkar for the most ODI chase runs. He scored 74 runs in a rain-affected match against New Zealand, helping India win easily. Kohli also levelled with Ricky Ponting for the most runs against…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/virat-kohli-surpasses-sachin-tendulkar-for-most-runs-while-chasing-in-odi-history/articleshow/135536597.cms",
+    "image": "https://img.etimg.com/thumb/msid-135536596,width-1200,height-900,imgsize-157906,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-04T10:52:26Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: Young pace unit, peerless Kohli script impressive win in 1st ODI",
+    "description": "India secured a comfortable victory over New Zealand in the first ODI held in Auckland. Virat Kohli played a key role by scoring 74 runs, which paved the way for the win. A young Indian pace attack excelled, dismissing New Zealand for just 185 runs in 40.2 ov…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ind-vs-nz-young-pace-unit-peerless-kohli-script-impressive-win-in-1st-odi/articleshow/135535325.cms",
+    "image": "https://img.etimg.com/thumb/msid-135536147,width-1200,height-900,imgsize-63122,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-04T10:35:59Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sachin Tendulkar's record gone! Virat Kohli creates history during India's New Zealand chase",
+    "description": "During the rain-affected first ODI against New Zealand at Eden Park, Virat Kohli achieved remarkable feats, overtaking Sachin Tendulkar's long-standing record of 8,720 runs in chases. He mirrored Ricky Ponting's tally of 1,971 runs against New Zealand and bec…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sachin-tendulkars-record-gone-virat-kohli-creates-history-during-indias-new-zealand-chase/articleshow/135535026.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135535340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T10:13:11Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli's 74, Arshdeep Singh's four-wicket haul guide India to victory against New Zealand in rain-hit ODI",
+    "description": "In an exhilarating start to the ODI series, Virat Kohli's innings of 74 runs propelled India to a crucial five-wicket win over New Zealand. Despite rain interruptions, India's pace attack, spearheaded by Arshdeep Singh's four wickets, limited New Zealand to 1…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohlis-74-arshdeep-singhs-four-wicket-haul-guide-india-to-victory-against-new-zealand-in-rain-hit-odi/articleshow/135534542.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135534919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T10:05:18Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "CNA",
+    "title": "Australia's Starc displaces Jansen at top of ICC test bowling rankings",
+    "description": "Nov 4 : Australia fast bowler Mitchell Starc has moved to the top of the ICC test bowling rankings, reclaiming top spot from South African all-rounder Marco Jansen.• Starc was the leading wicket taker in the recently concluded series in South Africa, picking …",
+    "url": "https://www.channelnewsasia.com/sport/australias-starc-displaces-jansen-top-icc-test-bowling-rankings-6523571",
+    "image": "https://dam.mediacorp.sg/image/upload/s--_Yln6b_h--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-04T095635Z_1_LYNXNPEMA311J_RTROPTP_3_CRICKET-ASHES.JPG?itok=OrAJvsLW",
+    "publishedAt": "2026-11-04T09:56:35Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "AK47 finds the target: Relentless Anshul Kamboj reaps benefits of better planning",
+    "description": "Kamboj has had forgettable outings in international cricket but he ensured Auckland didn't follow the pattern. With relentless lengths, sharp use of the wobble seam and speeds, the highly-rated Haryana bowler showed why the management didn't give up on him.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ak47-finds-the-target-relentless-anshul-kamboj-reaps-benefits-of-better-planning/articleshow/135533057.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135533171,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T09:43:36Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps v India result: New Zealand batting implodes as visitors claim ODI series opener at Eden Park",
+    "description": "New Zealand folded for just 185 at Eden Park, with more than nine overs unused.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-result-new-zealand-batting-implodes-as-visitors-claim-odi-series-opener-at-eden-park/X6U6XWOI2NA6ZLK6SYBHOVMQXA/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/FMFPJZHLTVDXTHRAPCTQYSR2SM.JPG?auth=d0756d26ec7f9cedcb0bbc596e07faa1aa3bbf09ccd535c424b87fa033c411e8&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-11-04T09:39:48Z",
+    "author": "Alex Powell"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'We learned some great lessons': McCullum reflects on Pakistan setback ahead of Australia challenge",
+    "description": "Brendon McCullum emphasizes the critical role of the upcoming series against Australia in gearing up for the ICC Men's Cricket World Cup. Following England's disappointing performance in the ODI tri-series in Pakistan, with just one victory, the coach aims to…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_507b8459-3515-4abe-a7d4-121d38a4fdc1",
+    "image": null,
+    "publishedAt": "2026-11-04T08:51:00Z",
+    "author": null
+  },
+  {
+    "source": "Ozbargain.com.au",
+    "title": "Australian Crypto Convention, ICC Sydney 28-29 Nov - 2-Day VIP $ $1,343.20 (Was $1,679.00) @ Aus Crypto Convention",
+    "description": "Australia’s biggest crypto, blockchain, and fintech event returns to Sydney this November (28-29 Nov 2026). Join 10,000+ attendees, including investors, traders, tech leaders, and blockchain …",
+    "url": "https://www.ozbargain.com.au/node/981642",
+    "image": "https://files.ozbargain.com.au/n/42/981642x.jpg?h=687e0233",
+    "publishedAt": "2026-11-04T08:26:36Z",
+    "author": "auscryptoconvention"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli scripts history in Auckland, becomes first batter to achieve this feat",
+    "description": "Virat Kohli celebrated a monumental achievement, becoming the first to score 13,000 runs while batting at No. 3 in ODIs during India's opening match against New Zealand at Eden Park. With a striking career average of 61.61, Kohli's performance was stellar. In…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-scripts-history-in-auckland-becomes-first-batter-to-achieve-this-feat/articleshow/135531067.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135531364,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T08:19:15Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Anshul Kamboj joins Bumrah in elite list after record-breaking spell against NZ",
+    "description": "In his second ODI appearance, Anshul Kamboj delivered an impressive performance by securing two wickets for just 22 runs. The Indian bowling unit functioned impeccably, restricting New Zealand to a modest total of 185 runs in Auckland. Contributing significan…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/anshul-kamboj-joins-jasprit-bumrah-in-elite-list-after-record-breaking-spell-against-new-zealand/articleshow/135529699.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135530559,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T07:54:16Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli milestone: Fans react as India star becomes first player in history to score 13,000 ODI runs at No.3",
+    "description": "Virat Kohli creates cricket history by becoming the first batter to score 13,000 ODI runs at No. 3. See how fans reacted and explore the all-time list.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-milestone-first-player-history-13000-odi-runs-no3/b97b9fbc309c4e2d06707291",
+    "image": "https://s.yimg.com/lo/mysterio/api/ab0472ebcf986b56c80a9917568d5373abca1aeeb1520c72f900c65efb77c03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Facbf3dea7c04432286b542c98d743c05",
+    "publishedAt": "2026-11-04T07:52:51Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Explained: Arshdeep Singh 'steps celebration' after dismissing Kyle Jamieson in 1st ODI in Auckland",
+    "description": "Wondering why Arshdeep Singh celebrated with a unique dance step after dismissing Kyle Jamieson in Auckland? Here is what the Indian pacer revealed.",
+    "url": "https://www.cricketnews.com/en/cricket/news/arshdeep-singh-celebration-kyle-jamieson-1st-odi-auckland/5fe01e6e0a1859d5e9d0356f",
+    "image": "https://s.yimg.com/lo/mysterio/api/46720de4e3c8039abc2c5f79fae92038f32662c213c67a52f78d75d216650c01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb8e3c810efbd61334aa25ce764c8c656",
+    "publishedAt": "2026-11-04T07:00:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Ajinkya Rahane's wife buys two flats in Mumbai's Shivaji Park for Rs 25 cr",
+    "description": "Radhika Ajinkya Rahane, wife of Indian cricketer Ajinkya Rahane, has purchased two apartments in Mumbai's Oceana building in Shivaji Park.",
+    "url": "https://www.business-standard.com/finance/personal-finance/ajinkya-rahane-s-wife-buys-two-flats-in-mumbai-s-shivaji-park-for-rs-25-cr-126110400670_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/featurecrop/1200X628/1793775196-8032.jpg",
+    "publishedAt": "2026-11-04T06:53:34Z",
+    "author": "Sunainaa Chadha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL: MI, PBKS in talks over Hardik Pandya, Arshdeep Singh trade",
+    "description": "MUMBAI: The IPL trading window has sprung to life with a potential blockbuster deal involving Hardik Pandya and Arshdeep Singh.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-mi-pbks-in-talks-over-hardik-pandya-arshdeep-singh-trade/articleshow/135527632.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135527811,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-04T06:37:17Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "NZ vs IND, 1st ODI: Arshdeep joins Srinath, Shami in elite list after four-fer at Auckland",
+    "description": "Arshdeep Singh became the third Indian fast bowler to take four wickets in New Zealand's ODIs. He took 4 wickets for 70 runs in the first match against New Zealand. Following his performance, New Zealand was restricted to 185 runs by the Indian bowlers. Gurno…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nz-vs-ind-1st-odi-arshdeep-joins-srinath-shami-in-elite-list-after-four-fer-at-auckland/articleshow/135527402.cms",
+    "image": "https://img.etimg.com/thumb/msid-135527400,width-1200,height-900,imgsize-115234,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-04T06:26:47Z",
+    "author": "ANI"
+  },
+  {
     "source": "The Times of India",
     "title": "‘Literally belies logic’: Ex-cricketer questions Shubman Gill-led India's selection calls",
     "description": "Murali Kartik expressed concerns over India's selection strategy in the first ODI against New Zealand. He noted the absence of established players like Mohammed Siraj and Kuldeep Yadav from the playing XI. Kartik questioned the logical reasoning behind select…",
@@ -16,258 +268,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-11-04T05:19:02Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Try stopping me if you can': Virat Kohli's stunning catch, Rohit Sharma's run-out lights up Auckland ODI",
-    "description": "Virat Kohli and Rohit Sharma showed their fitness and fielding skills in India's first ODI against New Zealand in Auckland on Wednesday, producing two",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/try-stopping-me-if-you-can-virat-kohlis-stunning-catch-rohit-sharmas-run-out-lights-up-auckland-odi/articleshow/135523913.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135524405,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T05:08:06Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli's Gurgaon House: Inside his lavish ₹80,00,00,000 bungalow in DLF Phase 1 featuring a private swimming pool, gym, spacious balconies, marble flooring and luxurious interiors",
-    "description": "Virat Kohli celebrates his birthday on November 5th while competing in the ODI series against New Zealand. His stunning residence in Gurgaon’s DLF Phase 1 is valued at approximately 80 crores. Spanning over 10,000 square feet, this modern bungalow features lu…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/virat-kohlis-gurgaon-house-inside-his-lavish-800000000-bungalow-in-dlf-phase-1-featuring-a-private-swimming-pool-gym-spacious-balconies-marble-flooring-and-luxurious-interiors/articleshow/135524112.cms",
-    "image": "https://img.etimg.com/thumb/msid-135524313,width-1200,height-900,imgsize-1431655,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-04T05:00:50Z",
-    "author": "Trending Desk"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "South African cricketer David Miller arrives in Nepal",
-    "description": "KATHMANDU: South African cricketer David Miller has arrived in Nepal to play in the third edition of the Nepal Premier League (NPL). Miller landed at Tribhuvan International Airport (TIA) this morning, where he was welcomed by representatives of NPL franchise…",
-    "url": "https://english.khabarhub.com/2026/04/574420/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/David-Miller--e1793768106544.jpg",
-    "publishedAt": "2026-11-04T04:55:14Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Business Standard",
-    "title": "DDCA seeks venue change for India-Sri Lanka ODI over pollution concerns",
-    "description": "The opening One-Day International between India and Sri Lanka slated to be played in the national capital on December 13 is likely to be moved out due to pollution and outfield revamp.\nWith pollution at its peak in the months of November and December being a …",
-    "url": "https://www.business-standard.com/cricket/news/ddca-seeks-venue-change-for-india-sri-lanka-odi-over-pollution-concerns-126110301633_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/03/thumb/fitandfill/1200X628/1791015222-4221.jpg",
-    "publishedAt": "2026-11-04T04:46:09Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India series 'taxing', players 'jarred' ahead of ODIs: Mitchell Santner",
-    "description": "Modern international cricket rarely pauses to catch its breath, and New Zealand captain Mitchell Santner made no effort to sugarcoat the physical toll on",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-series-taxing-players-jarred-ahead-of-odis-mitchell-santner/articleshow/135523231.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135523231,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T04:42:05Z",
-    "author": "Hindol Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘India went through a dark phase’: Sachin Tendulkar opens up on captaincy stint",
-    "description": "In a recent social media session, cricket legend Sachin Tendulkar shared insights about his captaincy during the 1990s, highlighting the hurdles he encountered, particularly in team selection. He named Sourav Ganguly and MS Dhoni as his top Indian captain pic…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-cricket-went-through-a-dark-phase-sachin-tendulkars-big-revelation-on-captaincy-stint/articleshow/135523453.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135523592,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T04:40:26Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Pregnant cricket WAG Emma Lyon shows off her growing baby bump as she greets husband Nathan at the airport with their daughter ahead of welcoming their second child",
-    "description": "They announced they were expecting their second child in August.",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16264047/emma-lyon-nathan-lyon-pregnant-baby-bump-airport-cricket-wag-daughter.html",
-    "image": "https://i.dailymail.com/1s/2026/11/04/04/112287581-0-image-m-24_1793766955951.jpg",
-    "publishedAt": "2026-11-04T04:40:05Z",
-    "author": "Jade Watkins"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Rohit Sharma sets fitness goals: Fans react as India veteran pulls off a diving effort to run out Daryl Mitchell during 1st ODI",
-    "description": "At 39, Rohit Sharma pulled off a brilliant diving effort on the pitch to run out dangerous Daryl Mitchell in the 1st ODI in Auckland.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-fitness-goals-diving-effort-run-out-daryl-mitchell/d6c290fe7cdecba9b68ee821",
-    "image": "https://s.yimg.com/lo/mysterio/api/435e68eda6953bfb0832d9d07412657d80783ac526a7a21aa973693b11662148/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2ab03c2ba242718f07f1fa717ec260f1",
-    "publishedAt": "2026-11-04T04:34:00Z",
-    "author": "Ritabrata_Banerjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "BCCI opens applications for women's fielding coach and men's head physio",
-    "description": "The BCCI on Tuesday invited applications for the positions of fielding coach of the women's team and head physiotherapist of the men's side.\nThe deadline to submit applications is November 16, the Board stated in a media release.\nMunish Bali served as the wom…",
-    "url": "https://www.business-standard.com/cricket/news/bcci-opens-applications-for-women-s-fielding-coach-and-men-s-head-physio-126110301904_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/fitandfill/1200X628/1788934658-5567.jpg",
-    "publishedAt": "2026-11-04T04:32:12Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Tall and quick': Shubman Gill's choice of pacers for 2027 World Cup",
-    "description": "On the eve of India’s opening ODI against New Zealand at the Eden Park, Auckland, the Indian skipper laid bare the blueprint behind India’s recent pace-bowling auditions, pegging tall, hit-the-deck quicks as a core priority with an eye on the 2027 World Cup i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tall-and-quick-shubman-gills-choice-of-pacers-for-2027-world-cup/articleshow/135522406.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135522582,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T04:14:57Z",
-    "author": "Hindol Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India face tricky Eden Park: Gill leads full-strength ODI side; Conway concussion hits NZ",
-    "description": "Batting stars Shubman Gill, Rohit Sharma, Virat Kohli and KL Rahul are back in the mix, while Mohammed Siraj is set to strengthen the pace attack.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-odi-ground-realities-hit-india-hard-at-eden-park/articleshow/135522085.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135522084,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T04:03:15Z",
-    "author": "Hindol Basu"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Highest successful run chases in ODI cricket at Eden Park, Auckland: Full list of records",
-    "description": "Discover the most successful ODI run chases at Eden Park, Auckland. From New Zealand's record 340-run chase to historic thrillers, here is the full list.",
-    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-odi-cricket-eden-park-auckland/9c90f98eb443db5f5308560d",
-    "image": "https://s.yimg.com/lo/mysterio/api/c3152a941dd973fe788115fbe270511c409036dea0987c91ddf143a336b0dc2f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe97010fcb0ff561ecf006a2ae58a976a",
-    "publishedAt": "2026-11-04T03:41:22Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "There is no home advantage anymore: Michael Bracewell",
-    "description": "MUMBAI: New Zealand may have lost the T20I series 3-2 but victories in the final two matches have boosted their belief ahead of the five-match ODI series",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/there-is-no-home-advantage-anymore-michael-bracewell/articleshow/135520712.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135520750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T03:25:18Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We learned some great lessons': McCullum reflects on Pakistan setback ahead of Australia challenge",
-    "description": "Brendon McCullum emphasizes the critical role of the upcoming series against Australia in gearing up for the ICC Men's Cricket World Cup. Following England's disappointing performance in the ODI tri-series in Pakistan, with just one victory, the coach aims to…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-learned-some-great-lessons-mccullum-reflects-on-pakistan-setback-ahead-of-australia-challenge/articleshow/135520551.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135520691,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T03:22:11Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Team India pacer Gurnoor Brar caught in viral chat controversy, unverified screenshots set social media abuzz",
-    "description": "Indian fast bowler Gurnoor Brar finds himself at the center of unverified social media allegations involving personal texts and images. These claims have generated significant discussion but remain unsubstantiated by reliable sources. The Board of Control for…",
-    "url": "https://timesofindia.indiatimes.com/relationships/team-india-pacer-gurnoor-brar-caught-in-viral-chat-controversy-unverified-screenshots-set-social-media-abuzz/articleshow/135510166.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135510481,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T03:15:20Z",
-    "author": "TOI Lifestyle Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India wins the toss and chooses to bowl in the 1st ODI against New Zealand as Gil, Kohli return",
-    "description": "AUCKLAND, New Zealand (AP) — India captain Shubman Gil won a delayed toss and decided to bowl Wednesday in the first of five one-day cricket internationals against New Zealand.The toss was delayed by 20 minutes by a passing shower at Eden Park, and Gil said i…",
-    "url": "https://sports.yahoo.com/articles/india-wins-toss-chooses-bowl-023817194.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/1f34a34c2d753f846894ad8a373b1aa1f8ab10419321bb0ca0a6bcf2ffb0ce0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F661380777731d472cfc72e42651bada5.jpg",
-    "publishedAt": "2026-11-04T02:38:17Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Business Standard",
-    "title": "India's cricket sponsorship market crowded, expensive at the top: EMW CEO",
-    "description": "EMW Global CEO Michael Rocha-Keys says India's cricket sponsorship market is crowded and expensive at the top, but emerging athletes, digital content and overseas markets offer room for growth.",
-    "url": "https://www.business-standard.com/sports/business/emw-global-michael-rocha-keys-rinku-singh-india-cricket-sponsorship-market-126110400066_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/featurecrop/1200X628/1793758461-8769.jpg",
-    "publishedAt": "2026-11-04T02:14:12Z",
-    "author": "Anish Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shubman Gill opts to bowl, Mohammed Siraj and Kuldeep Yadav miss out as India go with four pacers against New Zealand",
-    "description": "India's decision to field first in the ODI against New Zealand was made after winning the toss. Captain Shubman Gill explained that they opted for a pace-heavy attack to exploit the conditions. New Zealand made changes to their lineup, with Tim Seifert replac…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/shubman-gill-opts-to-bowl-mohammed-siraj-and-kuldeep-yadav-miss-out-as-india-go-with-four-pacers/articleshow/135518182.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135518303,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T02:09:10Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Virat Kohli score today for New Zealand vs. India 1st ODI in Auckland",
-    "description": "Virat Kohli's score in the 1st ODI between India and New Zealand in Auckland.",
-    "url": "https://www.sportingnews.com/in/cricket/news/virat-kohli-score-today-india-new-zealand-1st-odi-auckland/e5bad0971adf799ac522bf65",
-    "image": "https://s.yimg.com/lo/mysterio/api/17b7fe1a3f0fbc175775eef1d87521273da0cb202b4b1bac130d84c68c0ba91f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd98c26aeb22845cb514b990a9a822414",
-    "publishedAt": "2026-11-04T02:03:53Z",
-    "author": "Ritabrata_Banerjee"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland",
-    "description": "Rohit Sharma's score in the 1st ODI between India and New Zealand in Auckland.",
-    "url": "https://www.sportingnews.com/in/cricket/news/rohit-sharma-score-today-india-new-zealand-1st-odi-auckland/503349be7dc50d0ff5b93152",
-    "image": "https://s.yimg.com/lo/mysterio/api/8b12c13d11fadd595880dea5805ff82ab42018bd9b82249915c74e6d86f7933c/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb73458a93d22dacf83bd16b60bbd966f",
-    "publishedAt": "2026-11-04T01:57:52Z",
-    "author": "Ritabrata_Banerjee"
-  },
-  {
-    "source": "Business Standard",
-    "title": "New Zealand vs India 1st ODI live streaming: Where to watch today's match?",
-    "description": "India captain Shubman Gill wins the toss and elected to bat first in the 1st ODI of five-match series. Fans in India can live stream of India vs New Zealand 1st ODI on the SonyLIV app and website",
-    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-1st-odi-live-streaming-where-to-watch-today-s-match-126110300599_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/03/thumb/resize/1200X628/1793688379-1732.jpg",
-    "publishedAt": "2026-11-04T01:53:56Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I will be the fielding coach’: Ex-England captain's dig at India as BCCI invites applications",
-    "description": "Michael Vaughan has spotlighted India's ongoing struggles with fielding as the BCCI seeks a new fielding coach. Recent matches, particularly during the Women's T20 World Cup, have revealed troubling catching mistakes, including in a series against Zimbabwe. W…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-will-be-the-fielding-coach-ex-england-captains-dig-at-india-as-bcci-invites-applications/articleshow/135517351.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135517438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T01:08:45Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Cricket Australia chief defends controversial sale plan",
-    "description": "Todd Greenberg on private investment and the push to stay competitive in the global game",
-    "url": "https://biztoc.com/x/a44b0da421b2f1e3",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-11-04T01:06:16Z",
-    "author": "ft.com"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps v India live updates: First One-Day International at Eden Park",
-    "description": "Live updates of the first ODI between the Black Caps and India at Eden Park.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-live-updates-first-one-day-international-at-eden-park/X6U6XWOI2NA6ZLK6SYBHOVMQXA/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/3Q4TRLOT6BFRBDJLIUGEVDMRTY.jpg?auth=5d93e3c452ca9d795c39cee34bd07ec1d63a4c438bd70c0465100def3ba1c786&width=1200&height=675&quality=70&focal=1143%2C589&smart=false",
-    "publishedAt": "2026-11-04T01:04:54Z",
-    "author": "NZ Herald"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ Live: India begin 2027 WC preparations under Gill's captaincy",
-    "description": "India vs New Zealand Live Score, 1st ODI: With the 2027 ODI World Cup approaching, India have little time left to settle on their strongest combinati",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-shubman-live-streaming-auckland/liveblog/135506408.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135506408,width-1280,height-720,imgsize-118301,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T00:30:16Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Sporting News",
-    "title": "New Zealand vs. India 1st ODI live score, win probability and chances of victory in Auckland",
-    "description": "NZ vs IND 1st ODI live score: Follow real-time scorecard updates from Eden Park, Auckland, including toss results, win probability, lineups, and highlights.",
-    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-india-live-score-win-probability-1st-odi-auckland/e4b1e8530828edb7ba745453",
-    "image": "https://s.yimg.com/lo/mysterio/api/409bd3afab857c02ed521569070361f572ef9965ccd635ff5a0e1649e610f9f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F49aa5feb819669ee73c1d5c1864819d6",
-    "publishedAt": "2026-11-04T00:30:01Z",
-    "author": "Ritabrata Banerjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IND vs NZ 1st ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Eden Park, Auckland",
-    "description": "IND vs NZ 5th T20I live score: Real-time scorecard from Eden Park, Auckland, win probability, result, and match highlights.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-1st-odi-2026-live-scorecard-result-highlights-auckland/6c9a5398c30a3507e8672d0a",
-    "image": "https://s.yimg.com/lo/mysterio/api/6d856057375b97c9ab75a134e431109b6694929e59c882185ea4288234e9b005/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb918b6151a2d0118469918f69f6cac08",
-    "publishedAt": "2026-11-04T00:30:01Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Bringatrailer.com",
-    "title": "Supercharged LSA-Powered 1969 Chevrolet Chevelle Nomad",
-    "description": "This 1969 Chevrolet Chevelle Nomad was sent to Dutchboys Hotrods of Vicksburg, Michigan, by the owner in 2019, and the build was completed in 2023. Power is provided by a supercharged 6.2-liter LSA V8 paired with a Bowler Performance 4L80-E four-speed automat…",
-    "url": "https://bringatrailer.com/listing/1969-chevrolet-chevelle-nomad/",
-    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/TWSR8721-1e3edd817e14655f9eeebb02f6a227bc.jpg",
-    "publishedAt": "2026-11-04T00:17:35Z",
-    "author": "bringatrailer"
   }
 ]
 ;
