@@ -1,5 +1,59 @@
 [
   {
+    "source": "Dailymail.com",
+    "title": "Aussie cricket star Chris Lynn's secret cocaine ban after drug binge following quarter-final victory",
+    "description": "Aussie cricket star Chris Lynn admitted using cocaine for several hours after a knockout win, before testing positive on T20 Blast Finals Day.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16269949/Aussie-cricket-star-Chris-Lynns-secret-cocaine-ban-drug-binge-following-quarter-final-victory.html",
+    "image": "https://i.dailymail.com/1s/2026/11/05/22/112335283-0-image-a-109_1793917653155.jpg",
+    "publishedAt": "2026-11-05T22:43:48Z",
+    "author": "Josh Alston"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘That’s the Only Glaring Need That They Have’ — Ex-Bengals WR Pushes Cincinnati To Make Trade for 3-Time Pro Bowler",
+    "description": "At 5-2, the Cincinnati Bengals sit among the best teams in the AFC. Behind quarterback Joe Burrow, the Bengals look like the part of a team with the potential to make a deep playoff run.",
+    "url": "https://www.profootballnetwork.com/ex-bengals-wr-pushes-trade-for-pro-bowler/?utm_medium=rss&amp;utm_source=nordot",
+    "image": "https://s.yimg.com/lo/mysterio/api/c435b8ae4cc51445524f45ebb26028d5c6b88c09e802f99d3c4c80c65ab76229/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Feae97ba16e547796b9e6b041ac00e99f.jpg",
+    "publishedAt": "2026-11-05T22:34:14Z",
+    "author": "Terrance Biggs"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Helen Flanagan dazzles in a stunning green sequinned gown as she makes a glamorous arrival for This Is Manchester Awards",
+    "description": "The Coronation Street star dazzled in a stunning green sequinned gown as she arrived for the event at the Old Trafford Cricket Ground.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16269953/Helen-Flanagan-dazzles-green-sequinned-gown-Manchester-Awards.html",
+    "image": "https://i.dailymail.com/1s/2026/11/05/21/112334327-0-image-m-27_1793915604349.jpg",
+    "publishedAt": "2026-11-05T21:59:49Z",
+    "author": "Laura Fox"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "WA quick Lance 'Wild Thing' Morris hopes to be even faster after surgery",
+    "description": "After years of back issues, cricketer Lance Morris is finally fit and firing, and the Western Australian is keen to put his name in the frame for a Test call up once again.",
+    "url": "https://www.abc.net.au/news/2026-11-06/wa-cricket-lance-morris-back-surgery-test-matches/107222308",
+    "image": "https://live-production.wcms.abc-cdn.net.au/bb58852ca823c27f184a0adc11e2805a?impolicy=wcms_watermark_news&cropH=3375&cropW=6000&xPos=0&yPos=36&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-05T21:18:46Z",
+    "author": "Tom Wildie"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI Col CK Nayudu U-23 Trophy: Young pacer Honey Pratap Singh takes 6 wickets to bowl Rajasthan in command against Bihar",
+    "description": "Honey Pratap Singh’s 6-47 puts Rajasthan in command vs Bihar in CK Nayudu U-23 Trophy; Bihar follow on, 186/3 and 120 behind on Day 3.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/bcci-col-ck-nayudu-u-23-trophy-young-pacer-honey-pratap-singh-takes-6-wickets-to-bowl-rajasthan-in-command-against-bihar/articleshow/135584932.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135584930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-05T18:59:51Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "BBC News",
+    "title": "Northants' Lynn served drugs ban after Blast final",
+    "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cm75p05x3l9po?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/9e1f8142807a3a43ab6852bb54ab47da104aa4b60303efc68d890be3e62fc007/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff66d16e87fa4a9e348ace597b1165559.jpg",
+    "publishedAt": "2026-11-05T18:26:32Z",
+    "author": "Glenn Speller - BBC Sport journalist"
+  },
+  {
     "source": "BBC News",
     "title": "Northants' Lynn served drugs ban after Blast final",
     "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
@@ -169,77 +223,5 @@
     "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Lumbini-Lions-Cricket-rohit-paudel--e1793874509669.jpg",
     "publishedAt": "2026-11-05T10:28:01Z",
     "author": "Khabarhub"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027: CSK trade Khaleel, Ellis for SRH's Livingstone, Edwards",
-    "description": "Livingstone will join CSK for Rs 6 crore, a reduction from the Rs 13 crore SRH paid for him at the IPL 2025 mini-auction",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-csk-trade-khaleel-ellis-for-srh-s-livingstone-edwards-126110501053_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/05/thumb/resize/1200X628/1793872041-3097.jpg",
-    "publishedAt": "2026-11-05T09:24:32Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Selectors could be forced to think’: Irfan Pathan backs Anshul Kamboj for 2027 ODI World Cup",
-    "description": "Irfan Pathan has endorsed fast bowler Anshul Kamboj as a potential player for the 2027 ODI World Cup. Kamboj recently showcased his skills in a match against New Zealand, where he achieved impressive figures. His past experiences in international cricket have…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/selectors-could-be-forced-to-think-irfan-pathan-backs-anshul-kamboj-for-2027-odi-world-cup/articleshow/135566849.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135566936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T09:17:01Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Chennai Super Kings and Sunrisers Hyderabad agree to four-player trade",
-    "description": "Chennai Super Kings and Sunrisers Hyderabad have completed a significant four-player trade before the IPL 2027 auction. Liam Livingstone and Jack Edwards will join CSK while Khaleel Ahmed and Nathan Ellis head to SRH. Livingstone joined CSK at a reduced fee, …",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/chennai-super-kings-and-sunrisers-hyderabad-agree-to-four-player-trade/articleshow/135566759.cms",
-    "image": "https://img.etimg.com/thumb/msid-135566932,width-1200,height-900,imgsize-145278,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-05T09:10:00Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "CSK, SRH complete four-player trade ahead of IPL 2027; Liam Livingstone, Khaleel Ahmed switch teams",
-    "description": "Chennai Super Kings and Sunrisers Hyderabad have made headlines with a notable four-player trade for IPL 2027. CSK welcomes Liam Livingstone and Jack Edwards, while SRH gains Khaleel Ahmed and Nathan Ellis. Livingstone’s new contract is INR 6 crore, reflectin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/csk-srh-complete-four-player-trade-ahead-of-ipl-2027-liam-livingstone-khaleel-ahmed-switch-teams/articleshow/135565981.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135566049,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T08:43:35Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "CSK confirm double trade with SRH: Rope in Liam Livingstone and Jack Edwards for two key bowlers ahead of IPL 2027",
-    "description": "Chennai Super Kings have acquired Liam Livingstone and Jack Edwards from SRH in a 4-player trade ahead of IPL 2027. Get full fee breakdowns and trade details...",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-csk-srh-liam-livingstone-jack-edwards-four-player-trade/9a9cd27c41f135332edd0485",
-    "image": "https://s.yimg.com/lo/mysterio/api/593de839fc4c49bd5aede0a3c7fea6e0093ef761a97bd82fd717eba5d0a44121/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F60c9d84e305abecb2fa621dd7179eb9f",
-    "publishedAt": "2026-11-05T08:42:25Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Lumbini Lions set 150-run target for Janakpur Bolts",
-    "description": "KATHMANDU: Defending champions Lumbini Lions have set a target of 150 runs for Janakpur Bolts in the Nepal Premier League (NPL). Batting first after Janakpur won the toss and elected to bowl at the Tribhuvan University Cricket Ground in Kirtipur, Lumbini scor…",
-    "url": "https://english.khabarhub.com/2026/05/574576/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Janakpur-Lumbini-NPL.jpg",
-    "publishedAt": "2026-11-05T08:28:49Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘He got greedy’: Ex-India captain's blunt take on Arshdeep Singh after four-wicket haul",
-    "description": "Ajay Jadeja praised Arshdeep Singh for his performance during India's ODI match against New Zealand in Auckland. India won the match comfortably after chasing the revised target of 143 runs in just 22.4 overs. While Arshdeep took four wickets, he conceded 23 …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-got-greedy-ex-india-captains-blunt-take-on-arshdeep-singh-after-four-wicket-haul/articleshow/135564801.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135564934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T08:04:02Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'You can't see me': Virat Kohli gives Glenn Phillips a John Cena moment - WATCH",
-    "description": "Virat Kohli welcomed Glenn Phillips by mimicking John Cena's gesture during the first ODI match. This incident occurred when Phillips entered the field while John Cena's entrance music played. Kohli performed this gesture to lighten the moment but went unnoti…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/you-cant-see-me-virat-kohli-gives-glenn-phillips-a-john-cena-moment-watch/articleshow/135564278.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135564644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T07:53:52Z",
-    "author": "Amit Kumar"
   }
 ]
