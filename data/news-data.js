@@ -1,5 +1,167 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Northants' Lynn served drugs ban after Blast final",
+    "description": "Northants batter Chris Lynn returned a positive drugs test after playing in this season's T20 Blast Finals Day, the Cricket Regulator has revealed.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm75p05x3l9po",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c30d/live/ed8bc410-d935-11f1-8bce-2396c9c50357.jpg",
+    "publishedAt": "2026-11-05T17:47:10Z",
+    "author": "Glenn Speller"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli’s record in Wellington: How the Indian talisman has performed at Hnry Stadium in all formats",
+    "description": "With the second ODI against New Zealand set for Wellington, here's a look at how many runs Virat Kohli scored at the Hnry Stadium.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-record-wellington-india-hnry-stadium-all-formats/bdc790961626ac82ee1c4277",
+    "image": "https://s.yimg.com/lo/mysterio/api/ab0472ebcf986b56c80a9917568d5373abca1aeeb1520c72f900c65efb77c03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Facbf3dea7c04432286b542c98d743c05",
+    "publishedAt": "2026-11-05T17:18:34Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "A plan to rebuild USA Cricket, which went bankrupt and was discarded",
+    "description": "American cricket is currently in an era of stark contradictions. On one hand, the national team is achieving massive victories on the field, becoming champions of World Cup League 2 after a challenging three-year tournament.Concurrently, with an eye on the 20…",
+    "url": "https://english.gossiplankanews.com/2026/11/a-plan-to-rebuild-usa-cricket-which.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vMKmzpI_qV5PbFM6CFy5Mv9Aqt7ywcC66JQjT0Bonzjxn1SDVKF679mVQ-AvJayaFtb7aMSp9_gFpNi-rflifvbgGJTbF2WvMQx2bX58VyW3d-MrMt_nCSe_IrPE1Tw2mqTar9d5J4drKEur26LWWx5aHTVSB1HwCWt0M=w1600",
+    "publishedAt": "2026-11-05T17:05:45Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "CNA",
+    "title": "India-Sri Lanka ODI moved from Delhi to Visakhapatnam",
+    "description": "Nov 5 : India's opening one-day international against Sri Lanka on December 13 has been moved from Delhi to Visakhapatnam after the Delhi and District Cricket Association asked for a venue change, the Board of Control for Cricket in India said on Thursday.The…",
+    "url": "https://www.channelnewsasia.com/sport/india-sri-lanka-odi-moved-delhi-visakhapatnam-6528366",
+    "image": "https://dam.mediacorp.sg/image/upload/s--UNGkvshQ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T154724Z_1_LYNXNPEMA41PJ_RTROPTP_3_CRICKET-IND-SL.JPG?itok=pqtWwXxf",
+    "publishedAt": "2026-11-05T15:47:24Z",
+    "author": null
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Sri Lanka-India cricket match moved to Visakhapatnam due to air pollution in New Delhi",
+    "description": "It has been officially decided to move the first One-Day International (ODI) cricket match between Sri Lanka and India, scheduled for December 13, from New Delhi to Visakhapatnam. Indian media reports on this change indicate that the reason for relocating thi…",
+    "url": "https://english.gossiplankanews.com/2026/11/sri-lanka-india-cricket-match-moved-to.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vLn8r1qw71fDEmsaphWz48e-63U18nggwcR8jpxcKv0FJcpRrwJdl0aqEDyl2M5KgJwVrNkwmJkf9XeJQbAB35XqrhmC1BevrP00klNXBbX4hL5vDsIqj2mNZxFS49S7_jHJ2ixlGcskc9JDmRnCwXGOHNaRSKREAMDg=w1600",
+    "publishedAt": "2026-11-05T15:15:19Z",
+    "author": "noreply@blogger.com (Unknown)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "If Virat Kohli wants to play Vijay Hazare Trophy, I would love to have him: Vijay Dahiya",
+    "description": "Delhi coach Vijay Dahiya is keen to have Virat Kohli in the dressing room if the senior India batter wants to play the Vijay Hazare Trophy. Dahiya also expressed his desire to have veteran pacer Ishant Sharma as a red-ball mentor. The Ranji Trophy match betwe…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-virat-kohli-wants-to-play-vijay-hazare-trophy-i-would-love-to-have-him-vijay-dahiya/articleshow/135576355.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135576492,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-05T14:01:58Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Kieron Pollard to exit MI London after landing Mumbai Indians head coach job",
+    "description": "MI London might have to look for a new head coach as Kieron Pollard looks to be all set for India after becoming the new bench boss for five-time IPL champions Mumbai Indians.",
+    "url": "https://www.cricketnews.com/en/ipl/news/kieron-pollard-exit-mi-london-mumbai-indians-head-coach-job/1e29494465e72a6a6791e139",
+    "image": "https://s.yimg.com/lo/mysterio/api/704f49c3755154fe3d8cd87bac9194b02fd90a3dd292ad3cf563b317c3b011bb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa27b69b5f9534da478849e693020c399",
+    "publishedAt": "2026-11-05T13:30:09Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI announces major venue change for India-Sri Lanka series; 1st ODI moved from New Delhi",
+    "description": "India and Sri Lanka's first One Day International match is set to take place in Visakhapatnam instead of Delhi. This relocation is due to ongoing renovations and potential bad weather in the capital. The Board of Control for Cricket in India approved this mov…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-announces-major-venue-change-for-india-sri-lanka-series-1st-odi-moved-from-new-delhi/articleshow/135575134.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135575268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-05T13:23:16Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "BBC News",
+    "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
+    "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+    "url": "https://www.bbc.com/sport/cricket/articles/ckd7q9l0n7dyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-11-05T13:10:26Z",
+    "author": "Alex Hoad - BBC Sport England; Steve Kitchen - BBC Radio Gloucestershire"
+  },
+  {
+    "source": "BBC News",
+    "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
+    "description": "Gloucestershire will compete under the name of Bristol in the T20 Blast from next season in a big to attract new audiences and address falling revenue.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8bf2/live/30120bc0-d90c-11f1-b72c-d16cdc75f35f.jpg",
+    "publishedAt": "2026-11-05T13:10:22Z",
+    "author": "Alex Hoad, Steve Kitchen"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan Cricket Board's demand for NOC fee forces Pak players' exodus from Abu Dhabi T10 league",
+    "description": "The Pakistan Cricket Board has implemented a new fee for no-objection certificates, which are essential for players wishing to join various leagues. This has led to a number of Pakistani players being unable to participate in the forthcoming Abu Dhabi T10 Lea…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-cricket-boards-demand-for-noc-fee-forces-pak-players-exodus-from-abu-dhabi-t10-league/articleshow/135574492.cms",
+    "image": "https://img.etimg.com/thumb/msid-135574706,width-1200,height-900,imgsize-109744,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-05T13:01:58Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Coloradoan",
+    "title": "Fan's choice: Vote for top Northern Colorado softball hitter in 2026",
+    "description": "Who was the top hitter in Northern Colorado high school softball? Fans, you tell us. Vote for top batter from Fort Collins, Loveland, Greeley areas.",
+    "url": "https://www.coloradoan.com/story/sports/high-school/softball/2026/11/05/poll-vote-for-top-hitter-in-2026-northern-colorado-prep-softball/92616409007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/1e1c54ee2907e4f28914403c7ec533f91edb1fec57e79175f1d277008b73c814/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-coloradoan%2F1b82ee62378e275ac03f43b8a90fec7b.jpg",
+    "publishedAt": "2026-11-05T12:31:33Z",
+    "author": "Chris Abshire, Fort Collins Coloradoan"
+  },
+  {
+    "source": "BBC News",
+    "title": "Jersey playing at highest level ever - Tribe",
+    "description": "Jersey all-rounder Zak Tribe feels the island side is playing its best-ever cricket.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cq5ynjj96wz3o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9353/live/9a4177a0-d90d-11f1-94c6-3f8050561bf5.jpg",
+    "publishedAt": "2026-11-05T12:24:52Z",
+    "author": "Brent Pilnick, Danny Parkinson"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Old boys cricket club is relegated for not having a girls team - even though the school has no female pupils",
+    "description": "The Old Hamptonians Cricket Club in south-west London has been relegated from their league for not having a girls' team or a junior section.",
+    "url": "https://www.dailymail.com/news/article-16267771/old-hamptonians-cricket-club-relegated-league.html",
+    "image": "https://i.dailymail.com/1s/2026/11/05/12/112320869-0-image-a-10_1793880160263.jpg",
+    "publishedAt": "2026-11-05T12:14:12Z",
+    "author": "Olivia Day"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "CSK-SRH trade deal: Fans slam Chennai Super Kings for releasing Nathan Ellis ahead of IPL 2027 season",
+    "description": "CSK made a bold call on Thursday when they released both Khaleel Ahmed and Nathan Ellis to bring in Liam Livingstone to Chennai ahead of the mini-auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/csk-srh-trade-fans-slam-releasing-nathan-ellis-ipl-2027-season/6ade464976b1334e1d1fd227",
+    "image": "https://s.yimg.com/lo/mysterio/api/3eb01dabbf7c189fca3fec25e12d30bf6e5492ab545c9a9c6984864a3d331a40/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb4ffe82b1524df5c2fc0f046c1140b44",
+    "publishedAt": "2026-11-05T11:20:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "BBC News",
+    "title": "Robinson returns to Sussex as director of cricket",
+    "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cr62y44wz8yzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/3c9759055b7424b549b3054f6fd271adf59f719ec384366dfbacc77e0f925868/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3cf56951ee757d073f36e5086629994b.jpg",
+    "publishedAt": "2026-11-05T11:05:21Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Robinson returns to Sussex as director of cricket",
+    "description": "Former Sussex player and head coach Mark Robinson returns to the club as director of cricket.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cr62y44wz8yzo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb7e/live/c1cae700-d905-11f1-960e-7dd59f59b29b.jpg",
+    "publishedAt": "2026-11-05T11:04:54Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "CNA",
+    "title": "CSK, SRH complete four-player trade ahead of IPL 2027",
+    "description": "Nov 5 : Chennai Super Kings have traded fast bowlers Khaleel Ahmed and Nathan Ellis to Sunrisers Hyderabad in exchange for all-rounders Liam Livingstone and Jack Edwards ahead of next year's Indian Premier League season, the organisers said on Thursday.• Engl…",
+    "url": "https://www.channelnewsasia.com/sport/csk-srh-complete-four-player-trade-ahead-ipl-2027-6527286",
+    "image": "https://dam.mediacorp.sg/image/upload/s--xZQeGfIb--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T105153Z_1_LYNXNPEMA40ZR_RTROPTP_3_CRICKET-IPL-KKR-CSK.JPG?itok=GKmx_nVd",
+    "publishedAt": "2026-11-05T10:51:53Z",
+    "author": null
+  },
+  {
     "source": "Khabarhub.com",
     "title": "NPL: Lumbini Lions defeat Janakpur Bolts by 16 runs",
     "description": "KATHMANDU: Unbeaten Lumbini Lions continued their impressive run in the third edition of the Nepal Premier League (NPL), defeating Janakpur Bolts by 16 runs on Thursday. Chasing a target of 150 runs at the Tribhuvan University Cricket Ground in Kirtipur, Jana…",
@@ -79,186 +241,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135564644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-05T07:53:52Z",
     "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Virat Kohli's birthday wishlist: Records that the India talisman would aim to achieve before retiring",
-    "description": "From reaching 100 centuries and an elusive ODI double hundred to targeting Rohit's 264, explore the records Virat Kohli could chase before retiring.",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-birthday-wishlist-records/334d6a7dd418bd409838dbe4",
-    "image": "https://s.yimg.com/lo/mysterio/api/f6315496cf93e363f6ad6e878fa8c9807a478a56a78db5c70b19f10b5b334b06/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9aa377358c14d8062f009ae182e2992c",
-    "publishedAt": "2026-11-05T06:30:47Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "43 runs over a century! Virat Kohli's unexpected choice for his best ODI innings",
-    "description": "Virat Kohli took to Star Sports to reflect on his best ODI inning, choosing his unexpected 43 runs from the 2013 ICC Champions Trophy final against England. This decision underlines his ability to thrive under pressure over more recognized innings. Kohli's st…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/43-runs-over-a-century-virat-kohlis-unexpected-choice-for-his-best-odi-innings-of-all-time/articleshow/135561495.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135561601,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T06:11:59Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'Babar Azam has the most toxic fan base': Azam Khan opens up on social media abuse in Pakistan cricket",
-    "description": "Azam Khan has hit out at Babar Azam's online followers, defending the batter's game while labelling the toxic fan culture and trolling as completely ignorant.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5c9b4186-737d-4ddb-87f7-61ea6a257005",
-    "image": null,
-    "publishedAt": "2026-11-05T05:46:18Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli birthday: 10 inspiring quotes from the batting superstar",
-    "description": "Virat Kohli has inspired many with his achievements and motivational thoughts. He has secured numerous trophies, including the 50-over and T20 World Cups, and is India's most successful Test captain. Kohli has an impressive record in all formats of the game, …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-birthday-10-inspiring-quotes-from-the-batting-superstar/articleshow/135559297.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135560288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T05:28:40Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Not Hobart, not 183 vs Pak! Virat Kohli names surprising knock as his greatest ever ODI innings on his 38th birthday",
-    "description": "In a 'Winner Stays On' challenge, Virat Kohli overlooked his every ODI hundred to crown a surprising pick as the greatest ODI knock",
-    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-picks-best-odi-innings/3a28fffc781b8c06588a9111",
-    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
-    "publishedAt": "2026-11-05T05:12:29Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Falcons Named Top Trade Landing Spot for Cowboys’ $27 Million Pro Bowl WR",
-    "description": "The Falcons have been named the top destination for a Cowboys Pro Bowler, but Dallas' latest stance could complicate any deal. The post Falcons Named Top Trade Landing Spot for Cowboys’ $27 Million Pro Bowl WR appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/atlanta-falcons/falcons-george-pickens-cowboys-trade-landing-spot/",
-    "image": "https://s.yimg.com/lo/mysterio/api/6908b9d487fe1c24c90f00dda38c83c65c4ac0ce7eb21b4bc2d46737795c3bbb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F16309ea31ac1a4d9a60bf5271c0be17d.jpg",
-    "publishedAt": "2026-11-05T05:11:11Z",
-    "author": "Shane Shoemaker"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli's 38th birthday, 38 stats: The King, the records and a legacy like no other",
-    "description": "Virat Kohli, one of cricket's greatest players, celebrates his 38th birthday today and reflects on his journey. He has achieved numerous records and is aiming for more milestones in his career. Kohli's contributions to India include a 2011 World Cup title and…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohlis-38th-birthday-38-stats-the-king-the-records-and-a-legacy-like-no-other/articleshow/135556372.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135558183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T04:01:10Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "West Indies wins the toss and bats 1st in the 2nd cricket test against Bangladesh",
-    "description": "SYLHET, Bangladesh (AP) — West Indies captain Roston Chase won the toss and decided to bat first in the second and final cricket test against Bangladesh on Thursday.West Indies won the first test by eight wickets in Dhaka.",
-    "url": "https://sports.yahoo.com/articles/west-indies-wins-toss-bats-033133328.html",
-    "image": null,
-    "publishedAt": "2026-11-05T03:31:33Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Could not even chase 120': Azam Khan tears into Pakistan teammates & explodes over T20 2024 World Cup scapegoating",
-    "description": "Pakistan's Azam Khan fires back at critics over 2024 T20 World Cup backlash, questioning how he took the blame despite playing only one ball in the tournamen...",
-    "url": "https://www.cricketnews.com/en/cricket/news/azam-khan-2024-t20-world-cup-criticism-fitness-pakistan/e69cce01037a5949eb8a66b5",
-    "image": "https://s.yimg.com/lo/mysterio/api/5393d136ffa3199129f62019b4e75ff1f769b4fd98bd8b8dc4b97572d4ae9500/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7c73a1862aa3c549657c1f04ebb56894",
-    "publishedAt": "2026-11-05T03:18:58Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "834 runs in six innings! Chinmay Sutar creates first-class cricket history",
-    "description": "Chinmay Sutar has made waves in his first-class cricket career by scoring a remarkable 175 runs against Arunachal Pradesh, pushing his total runs to 834. This outstanding feat allowed him to break the previous record of 831 runs by Bashir Shah. Highlighting t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/834-runs-in-six-innings-chinmay-sutar-creates-first-class-cricket-history/articleshow/135556764.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135556794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T02:58:25Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "11 years after Rishabh Pant got the nod, Mohit Ahlawat scripts a comeback with maiden first-class ton",
-    "description": "Mohit Ahlawat celebrated a significant milestone in his cricket career, scoring an impressive 142 runs for Services against Delhi. His maiden first-class century came during a tense match where scoring was tough due to challenging pitch conditions. Ahlawat ha…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/11-years-after-rishabh-pant-got-the-nod-mohit-ahlawat-scripts-a-comeback-with-maiden-first-class-ton/articleshow/135556551.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135556594,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T02:46:44Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India thrash Korea 8-1 to storm into Asian Champions Trophy final against Japan",
-    "description": "India delivered an impressive performance, overwhelming Korea with an 8-1 scoreline in the Asian Champions Trophy semifinals. Key players Shilanand Lakra and Dilpreet Singh each contributed two goals to this convincing victory. With Japan awaiting in the fina…",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/india-thrash-korea-8-1-to-storm-into-asian-champions-trophy-final-against-japan/articleshow/135556237.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135556262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T02:31:27Z",
-    "author": "Arnab Lall Seal"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Two matches scheduled for today",
-    "description": "KATHMANDU: Cricket fans are in for an exciting double-header today as four teams take the field in two crucial matches of the Nepal Premier League (NPL) at the Tribhuvan University International Cricket Ground in Kirtipur. In the first match, scheduled to beg…",
-    "url": "https://english.khabarhub.com/2026/05/574524/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-TU-ground-e1792943788972.jpg",
-    "publishedAt": "2026-11-05T02:17:45Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'When he stays in fourth gear, then God help you': Ravi Shastri as Virat Kohli surpasses Sachin Tendulkar",
-    "description": "Virat Kohli made batting look easy in India's first ODI against New Zealand in Auckland on Wednesday. The star batter scored 74 runs off 51 balls to help India win the match by five wickets (DLS) and take a 1-0 lead in the five-match series. India had to chas…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-he-stays-in-fourth-gear-then-god-help-you-ravi-shastri-as-virat-kohli-surpasses-sachin-tendulkar/articleshow/135555478.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135555622,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T01:35:54Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli creates history! Becomes first to average 50-plus in all SENA countries",
-    "description": "Virat Kohli has reached a remarkable achievement by maintaining an average above 50 across all four SENA nations. In the first ODI against New Zealand, he contributed 74 runs, leading India to a decisive victory. Moreover, he surpassed Sachin Tendulkar to bec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-creates-odi-history-becomes-first-batter-to-average-50-plus-in-all-sena-countries/articleshow/135542156.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135542363,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-05T00:27:00Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-    "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-    "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
-    "publishedAt": "2026-11-04T23:12:47Z",
-    "author": "https://www.facebook.com/bbcnews"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Keeper error and rare cricket rule gives Renegades first win of WBBL season",
-    "description": "One of cricket's rarely needed rules has cost the Hobart Hurricanes in a four-wicket WBBL loss to the Melbourne Renegades.",
-    "url": "https://www.abc.net.au/news/2026-11-05/melbourne-renegades-beat-hobart-hurricanes-wbbl/107348342",
-    "image": "https://live-production.wcms.abc-cdn.net.au/7a2403b01895ff48ab187954ea1f93fb?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-04T21:01:31Z",
-    "author": null
-  },
-  {
-    "source": "ClutchPoints",
-    "title": "New Celebration Bowl projection has South Carolina State, Alabama A&M on top",
-    "description": "One weekend was enough to shake up the race to Atlanta, and the Cricket Celebration Bowl’s latest Toyota Championship Projection shows how much. South Carolina State still sits atop of the MEAC. The Bulldogs reach the Celebration Bowl in 40.63 percent of the …",
-    "url": "https://clutchpoints.com/hbcu/new-celebration-bowl-projection-has-south-carolina-state-alabama-am-on-top",
-    "image": "https://s.yimg.com/lo/mysterio/api/cec618f8be531119f3945aeb9d808e1b5e9c99021b02a9fe1007b4961291032f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F3dac565b894b8eb9135b9da2b957562c.jpg",
-    "publishedAt": "2026-11-04T20:47:28Z",
-    "author": "Randall Barnes, ClutchPoints"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rising Cup U-14 cricket tournament concludes with a grand finale; Tonk beat Jaipur’s Narayana Academy by 54 runs to clinch title",
-    "description": "Rising Cup U-14 final: Blair Cricket Academy, Tonk beat Jaipur’s Narayana Academy by 54 runs; Nayaf M Rasheed starred with 173 and 594 runs.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/rising-cup-u-14-cricket-tournament-concludes-with-a-grand-finale-tonk-beat-jaipurs-narayana-academy-by-54-runs-to-clinch-title/articleshow/135550580.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135550574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T19:22:19Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "Sportsnaut",
-    "title": "Report Makes 5-Time Pro Bowler Perfect Minnesota Vikings Trade Target Before Deadline",
-    "description": "While the Minnesota Vikings are reportedly among the teams pursuing a trade for Jonathan Taylor, a new report makes a […]",
-    "url": "https://sportsnaut.com/nfl/minnesota-vikings-derrick-henry-trade-speculation",
-    "image": "https://s.yimg.com/lo/mysterio/api/2c70a6768317e3f55f415eb7443cb8a582ac664e19fa0d5b180ba6b970bffa09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F2e3c8a9ae8a543172e5186a96e9b06c0.jpg",
-    "publishedAt": "2026-11-04T19:08:21Z",
-    "author": "Jason Burgos"
   }
 ]
 ;
