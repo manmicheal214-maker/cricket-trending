@@ -1,5 +1,32 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "'When he stays in fourth gear, then God help you': Ravi Shastri as Virat Kohli surpasses Sachin Tendulkar",
+    "description": "Virat Kohli made batting look easy in India's first ODI against New Zealand in Auckland on Wednesday. The star batter scored 74 runs off 51 balls to help India win the match by five wickets (DLS) and take a 1-0 lead in the five-match series. India had to chas…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/when-he-stays-in-fourth-gear-then-god-help-you-ravi-shastri-as-virat-kohli-surpasses-sachin-tendulkar/articleshow/135555478.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135555622,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-05T01:35:54Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli creates history! Becomes first to average 50-plus in all SENA countries",
+    "description": "Virat Kohli has reached a remarkable achievement by maintaining an average above 50 across all four SENA nations. In the first ODI against New Zealand, he contributed 74 runs, leading India to a decisive victory. Moreover, he surpassed Sachin Tendulkar to bec…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-creates-odi-history-becomes-first-batter-to-average-50-plus-in-all-sena-countries/articleshow/135542156.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135542363,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-05T00:27:00Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "BBC News",
+    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+    "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+    "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
+    "publishedAt": "2026-11-04T23:12:47Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
     "source": "ABC News (AU)",
     "title": "Keeper error and rare cricket rule gives Renegades first win of WBBL season",
     "description": "One of cricket's rarely needed rules has cost the Hobart Hurricanes in a four-wicket WBBL loss to the Melbourne Renegades.",
@@ -232,42 +259,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-135536147,width-1200,height-900,imgsize-63122,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-11-04T10:35:59Z",
     "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sachin Tendulkar's record gone! Virat Kohli creates history during India's New Zealand chase",
-    "description": "During the rain-affected first ODI against New Zealand at Eden Park, Virat Kohli achieved remarkable feats, overtaking Sachin Tendulkar's long-standing record of 8,720 runs in chases. He mirrored Ricky Ponting's tally of 1,971 runs against New Zealand and bec…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sachin-tendulkars-record-gone-virat-kohli-creates-history-during-indias-new-zealand-chase/articleshow/135535026.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135535340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T10:13:11Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virat Kohli's 74, Arshdeep Singh's four-wicket haul guide India to victory against New Zealand in rain-hit ODI",
-    "description": "In an exhilarating start to the ODI series, Virat Kohli's innings of 74 runs propelled India to a crucial five-wicket win over New Zealand. Despite rain interruptions, India's pace attack, spearheaded by Arshdeep Singh's four wickets, limited New Zealand to 1…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohlis-74-arshdeep-singhs-four-wicket-haul-guide-india-to-victory-against-new-zealand-in-rain-hit-odi/articleshow/135534542.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135534919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T10:05:18Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "CNA",
-    "title": "Australia's Starc displaces Jansen at top of ICC test bowling rankings",
-    "description": "Nov 4 : Australia fast bowler Mitchell Starc has moved to the top of the ICC test bowling rankings, reclaiming top spot from South African all-rounder Marco Jansen.• Starc was the leading wicket taker in the recently concluded series in South Africa, picking …",
-    "url": "https://www.channelnewsasia.com/sport/australias-starc-displaces-jansen-top-icc-test-bowling-rankings-6523571",
-    "image": "https://dam.mediacorp.sg/image/upload/s--_Yln6b_h--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-04T095635Z_1_LYNXNPEMA311J_RTROPTP_3_CRICKET-ASHES.JPG?itok=OrAJvsLW",
-    "publishedAt": "2026-11-04T09:56:35Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "AK47 finds the target: Relentless Anshul Kamboj reaps benefits of better planning",
-    "description": "Kamboj has had forgettable outings in international cricket but he ensured Auckland didn't follow the pattern. With relentless lengths, sharp use of the wobble seam and speeds, the highly-rated Haryana bowler showed why the management didn't give up on him.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ak47-finds-the-target-relentless-anshul-kamboj-reaps-benefits-of-better-planning/articleshow/135533057.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135533171,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-04T09:43:36Z",
-    "author": "Sahil Malhotra"
   }
 ]
 ;
