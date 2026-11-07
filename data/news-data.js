@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "Dailymail.com",
+    "title": "'We were ALL in on it': Aussie cricket star Usman Khawaja admits EVERY player knew about sandpaper cheating plan as he blows apart claim from senior stars in stunning new revelation",
+    "description": "LAWRENCE BOOTH: Usman Khawaja has claimed that the entire Australian dressing-room knew about the sandpaper scandal at Cape Town in 2018.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16272833/Sandpapergate-Australia-Usman-Khawaja.html",
+    "image": "https://i.dailymail.com/1s/2026/11/06/20/111743209-0-image-m-18_1793995395425.jpg",
+    "publishedAt": "2026-11-06T20:06:30Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Vaibhav Sooryavanshi's meteoric rise continues as Bihar hand him captaincy at 15",
+    "description": "At just 15 years old, Vaibhav Sooryavanshi has been named the captain of the senior cricket team for Bihar. The Bihar Cricket Association revealed the squad for the Syed Mushtaq Ali Trophy, featuring 17 players, with Suraj Kashyap as vice-captain. The team's …",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8d650cb9-bf52-4c05-919a-49e2c30fab26",
+    "image": null,
+    "publishedAt": "2026-11-06T19:58:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Swinging spearhead Shami quits Tests,to continue playing white-ball formats",
+    "description": "Mohammed Shami retires from Test cricket after 64 matches and 229 wickets, cites injuries; will continue playing white-ball cricket, domestic games and IPL.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/swinging-spearhead-shami-quits-teststo-continue-playing-white-ball-formats/articleshow/135619722.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135619721,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-06T19:55:01Z",
+    "author": "Fazal Khan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Baroda’s Heena Patel appointed as India A team’s batting coach",
+    "description": "BCCI appoints Baroda’s Heena Patel as India A women’s batting coach for Bengaluru tri-series vs Nepal and India-B; 3 BCA U-19 players selected.",
+    "url": "https://timesofindia.indiatimes.com/city/vadodara/barodas-heena-patel-appointed-as-india-a-teams-batting-coach/articleshow/135618923.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135618922,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-06T19:03:18Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Cricket's next 500 million fans: ICC reveals ambitious 10-year plan for China",
+    "description": "With India already the biggest market for ICC, the cricket governing body has now announced China as part of its next plan to bring in the sport's next 500 million fans.",
+    "url": "https://www.cricketnews.com/en/cricket/news/crickets-next-500-million-fans-icc-reveals-ambitious-10-year-plan-china/f85f5d0ac4ae5f2558c24ef8",
+    "image": "https://s.yimg.com/lo/mysterio/api/2134ea9ea5b3eb2118eccddfceb32ab95c82e69c1337da329c8eb0ff81a91ff3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52321619fac51cd856da4f04775f7eac",
+    "publishedAt": "2026-11-06T18:58:14Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "I try to play with a smile: Tickner finds perspective beyond cricket after wife's cancer battle",
+    "description": "Blair Tickner, the Wellington fast bowler, discusses how his wife's cancer battle changed his perspective on life. He now focuses on enjoying his cricket and feeling less pressure compared to earlier in his career. Tickner reflects on the challenges during hi…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/i-try-to-play-with-a-smile-tickner-finds-perspective-beyond-cricket-after-wifes-cancer-battle/articleshow/135618564.cms",
+    "image": "https://img.etimg.com/thumb/msid-135618618,width-1200,height-900,imgsize-57898,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-06T18:48:15Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Thank you, Test Cricket’: Shami retires from longest format of the game",
+    "description": "Mohammed Shami announced his retirement from Test cricket on Friday, exactly 13 years after making his debut against West Indies in 2013. The 36-year-old fast bowler signed off with 229 wickets from 64 Tests, including six five-wicket hauls. Shami last played…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thank-you-test-cricket-mohammed-shami-retires-from-longest-format-of-the-game/articleshow/135617607.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135617825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-06T18:14:07Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pace heavy India look to extend advantage over New Zealand in second ODI",
+    "description": "India's new pace attack looks to build on their success against New Zealand in the upcoming ODI. Adjustments are expected due to the unique dimensions of the Hnry Stadium's boundaries. Rohit Sharma is anticipated to bounce back after his earlier dismissal, wh…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pace-heavy-india-look-to-extend-advantage-over-new-zealand-in-second-odi/articleshow/135617111.cms",
+    "image": "https://img.etimg.com/thumb/msid-135617254,width-1200,height-900,imgsize-95966,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-06T17:58:12Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Insurance Journal",
+    "title": "AM Best Upgrades Credit Ratings of Illinois Casualty and Lebanon Valley",
+    "description": "AM Best has upgraded the Financial Strength Rating (FSR) to A (Excellent) from A- (Excellent) and the Long-Term Issuer Credit Ratings (Long-Term ICRs) to “a” (Excellent) from “a-” (Excellent) of Illinois Casualty Company (ICC) and Lebanon Valley Insurance Com…",
+    "url": "https://www.insurancejournal.com/news/midwest/2026/11/06/891867.htm",
+    "image": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+    "publishedAt": "2026-11-06T17:22:15Z",
+    "author": "admin"
+  },
+  {
+    "source": "Business Standard",
+    "title": "To Bishan, With Love: A tribute to the cricket legend beyond the pitch",
+    "description": "Anju Bedi's essay is an honest account of the sacrifices wives are expected to make",
+    "url": "https://www.business-standard.com/book/to-bishan-with-love-a-tribute-to-the-cricket-legend-beyond-the-pitch-126110601972_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/fitandfill/1200X628/1793982356-5147.jpg",
+    "publishedAt": "2026-11-06T16:27:23Z",
+    "author": "Chintan Girish Modi"
+  },
+  {
     "source": "Biztoc.com",
     "title": "Ex-Broncos Pro Bowler Tells Chiefs Fans to Stop Whining About Week 8 Ending",
     "description": "Former Broncos Pro Bowler Justin Simmons called out Chiefs fans for whining about the controversial call in their Week 8 loss.",
@@ -178,96 +268,6 @@ window.cricketNews = [
     "image": "https://im.rediff.com/1200-630/money/2016/aug/24modi1.jpg",
     "publishedAt": "2026-11-06T11:33:34Z",
     "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sourav Ganguly's personality rights violated? Delhi high court directs 'Doosra' makers to add disclaimer, furnish Rs 2 crore guarantee",
-    "description": "The Delhi high court has said the film “Doosra” prima facie violated cricketer Sourav Ganguly’s personality rights but declined to stop its theatrical screening. Justice Tejas Karia directed the makers to add a disclaimer and furnish a Rs 2 crore bank guarant…",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/sourav-gangulys-personality-rights-violated-delhi-hc-directs-doosra-makers-to-add-disclaimer-furnish-rs-2-crore-guarantee/articleshow/135603837.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135605107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T11:08:43Z",
-    "author": "TOI City Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "2-year ban for ‘Clicky Ponting’, England club relegated with 60-point deduction",
-    "description": "Brian Devine, nicknamed ‘Clicky Ponting’, has been banned from cricket for two years after a viral video showed him allegedly faking an edge by clicking his fingers. Saltburn CC’s second XI has also been relegated and handed a 60-point deduction. While severa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2-year-ban-for-clicky-ponting-england-club-relegated-with-60-point-deduction/articleshow/135603819.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135604317,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T10:43:11Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "HC: 'Doosra' Violated Ganguly's Rights, Orders Disclaimer",
-    "description": "The Delhi High Court has ruled that the film \"Doosra\" prima facie violated cricketer Sourav Ganguly's personality rights. While refusing to halt its theatrical screening, the court ordered the filmmakers to add a disclaimer and furnish a bank guarantee of Rs …",
-    "url": "https://www.rediff.com/sports/report/delhi-hc-says-doosra-infringes-sourav-gangulys-rights/20261106.htm",
-    "image": "https://im.rediff.com/1200-630/sports/2026/oct/23sourav-ganguly.jpg",
-    "publishedAt": "2026-11-06T10:09:31Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 2nd ODI, Wellington Weather Forecast: Will rain wash out India vs New Zealand encounter?",
-    "description": "India will face New Zealand in the second ODI at Wellington on November 7, aiming to extend their 1-0 series lead after a five-wicket win in Auckland, powered by Virat Kohli’s 74. However, rain threatens the match, with a 60% precipitation chance. The pitch i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-2nd-odi-wellington-weather-forecast-will-rain-wash-out-india-vs-new-zealand-encounter/articleshow/135602540.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135602963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T10:03:58Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Kohli challenge excites New Zealand as Tickner eyes improved showing",
-    "description": "Virat Kohli presents an \"awesome opportunity\" for New Zealand, said fast bowler Blair Tickner, adding that his side would look to be more effective with the ball and produce a stronger batting performance in the second ODI here on Saturday.\nTickner acknowledg…",
-    "url": "https://www.business-standard.com/cricket/news/kohli-challenge-excites-new-zealand-as-tickner-eyes-improved-showing-126110600663_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/featurecrop/1200X628/1793957020-4672.jpg",
-    "publishedAt": "2026-11-06T09:24:39Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Sudurpaschim Royals set 177-run target for Karnali Yaks",
-    "description": "KATHMANDU: Sudurpaschim Royals have set Karnali Yaks a target of 177 runs in the opening match of the Nepal Premier League (NPL), posting 176 for six in their allotted 20 overs at the Tribhuvan University International Cricket Ground in Kirtipur. After Karnal…",
-    "url": "https://english.khabarhub.com/2026/06/574724/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/sudurpashim-karnali-15.jpg",
-    "publishedAt": "2026-11-06T08:49:24Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Conditions to be similar’: Gill on why NZ ODIs are crucial for 2027 WC plans",
-    "description": "Shubman Gill, captain of the Indian cricket team, emphasizes the importance of the ODI series against New Zealand, seeing it as a crucial preparation for the World Cup. He’s arrived early to adapt to the red ball for enhanced performance. India currently lead…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/conditions-are-going-to-be-a-lot-more-similar-shubman-gill-reveals-why-nz-odi-series-is-crucial-for-indias-2027-world-cup-plans/articleshow/135600763.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135600912,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T08:49:11Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Virender Sehwag: Performance, not age, should determine a player’s place in the team",
-    "description": "Former India cricketer Virender Sehwag made his OTT hosting debut with the second season of Rise and Fall, which concluded today. He discusses handling controversies on reality television, his reaction to Rohit Sharma’s entry into hosting and why he does not …",
-    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/virender-sehwag-performance-not-age-should-determine-a-players-place-in-the-team/articleshow/135600193.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135600362,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T08:34:53Z",
-    "author": "Neha Maheshwri"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "‘Ordinary bowler’: Ex-India captain slams CSK's 'confusing' trade, says SRH are the real winners",
-    "description": "Kris Srikkanth has raised concerns regarding Chennai Super Kings' recent trades involving Liam Livingstone and Jack Edwards. He contends that Sunrisers Hyderabad emerged as the true winners of the four-player exchange ahead of the IPL 2027 auction. Srikkanth …",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a9e6c705-dc29-456d-b8d7-8893aa5324fe",
-    "image": null,
-    "publishedAt": "2026-11-06T08:03:00Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Chances of rain in Wellington on Saturday: Latest weather forecast for NZ vs IND 2nd ODI at Hnry Stadium",
-    "description": "Will rain wash out the IND vs NZ 2nd ODI in Wellington? Check the latest Saturday hourly weather forecast for rain chances at Hnry Stadium.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-2nd-odi-wellington-weather-forecast-rain-chances/3a2d260ce8de744e04061ea7",
-    "image": "https://s.yimg.com/lo/mysterio/api/df64950722642ab34892f52568c7de96720a41e9e0c49fe8187ebb9eb1f495d3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdb7c22f93f8ccc5cfaea4f36ec93c067",
-    "publishedAt": "2026-11-06T07:54:44Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
