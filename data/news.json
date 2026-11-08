@@ -1,5 +1,14 @@
 [
   {
+    "source": "ABC News (AU)",
+    "title": "Megan Schutt on ADHD, medication and what's changed since her diagnosis",
+    "description": "Like many women in their 30s and 40s, Australian bowler Megan Schutt has been diagnosed with ADHD later in life. The world champion sat down with ABC Sport to talk medication, mum guilt on tour and her decision to retire from ICC tournaments.",
+    "url": "https://www.abc.net.au/news/2026-11-07/megan-schutt-adhd-diagnosis-womens-cricket-australia-bowler/107354788",
+    "image": "https://live-production.wcms.abc-cdn.net.au/f806be0b78906e852b473caf117ee827?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-06T20:57:27Z",
+    "author": "Brittany Carter"
+  },
+  {
     "source": "Dailymail.com",
     "title": "'We were ALL in on it': Aussie cricket star Usman Khawaja admits EVERY player knew about sandpaper cheating plan as he blows apart claim from senior stars in stunning new revelation",
     "description": "LAWRENCE BOOTH: Usman Khawaja has claimed that the entire Australian dressing-room knew about the sandpaper scandal at Cape Town in 2018.",
@@ -259,14 +268,5 @@
     "image": null,
     "publishedAt": "2026-11-06T11:44:30Z",
     "author": null
-  },
-  {
-    "source": "Rediff.com",
-    "title": "PM Modi Meets Cricketer Surya Kumar Yadav And Family",
-    "description": "Indian cricketer Surya Kumar Yadav, accompanied by his family, met Prime Minister Narendra Modi in New Delhi on Friday. The meeting included a special moment where Yadav's niece sang a Kannada song, which PM Modi appreciated, linking the visit to Deepavali fe…",
-    "url": "https://www.rediff.com/sports/report/cricketer-surya-kumar-yadav-meets-pm-modi-with-family/20261106.htm",
-    "image": "https://im.rediff.com/1200-630/money/2016/aug/24modi1.jpg",
-    "publishedAt": "2026-11-06T11:33:34Z",
-    "author": "sports@rediff.co.in (Rediff Sports Desk)"
   }
 ]
