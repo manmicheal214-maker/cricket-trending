@@ -1,5 +1,203 @@
 window.cricketNews = [
   {
+    "source": "Sporting News",
+    "title": "Virat Kohli score today for New Zealand vs. India 2nd ODI in Wellington",
+    "description": "Wondering what Virat Kohli scored today in the IND vs NZ 2nd ODI? Track the details.",
+    "url": "https://www.sportingnews.com/in/cricket/news/virat-kohli-score-today-new-zealand-india-2nd-odi-wellington/d8717bab2ae3be7983ad875a",
+    "image": "https://s.yimg.com/lo/mysterio/api/17b7fe1a3f0fbc175775eef1d87521273da0cb202b4b1bac130d84c68c0ba91f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd98c26aeb22845cb514b990a9a822414",
+    "publishedAt": "2026-11-07T06:34:24Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "CNA",
+    "title": "India's Shami keeps white-ball focus after ending test career",
+    "description": "Nov 7 : India fast bowler Mohammed Shami said he would continue playing white-ball cricket and remain available for domestic multi-day matches after retiring from test cricket on Friday, bringing the curtain down on a 13-year red-ball career.The 36-year-old, …",
+    "url": "https://www.channelnewsasia.com/sport/indias-shami-keeps-white-ball-focus-after-ending-test-career-6532806",
+    "image": "https://dam.mediacorp.sg/image/upload/s---NSRfobF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-07T052216Z_1_LYNXNPEMA604N_RTROPTP_3_CRICKET-INDIA-SHAMI.JPG?itok=_At1F_vs",
+    "publishedAt": "2026-11-07T05:22:16Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘No s***, Sherlock’: Michael Vaughan takes brutal dig as Usman Khawaja reopens Australia's ball-tampering scandal",
+    "description": "With the publication of Usman Khawaja's autobiography, the spotlight has returned to the 2018 ball-tampering scandal that shook Australian cricket. Khawaja reveals that discussions about tampering were commonplace among players during their time in South Afri…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-s-sherlock-michael-vaughan-takes-brutal-dig-as-usman-khawaja-reopens-australias-ball-tampering-scandal/articleshow/135627241.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135627387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T05:14:58Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'They cheated,' ‘Everything Australia have ever won is null and void’: Fans react to Usman Khawaja's Sandpapergate revelations",
+    "description": "See how cricket fans and social media reacted to Usman Khawaja's explosive 2018 Sandpapergate revelations.",
+    "url": "https://www.cricketnews.com/en/cricket/news/cheated-australia-won-null-fans-react-khawaja-sandpapergate-revelations/e8002346fe6a1759d7a26f99",
+    "image": "https://s.yimg.com/lo/mysterio/api/94a521077d5f22efe7ac3d5b32c2db02f01ceea32a12db222d35994082dceac2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb08138d93b3365f73ccf03a1c6654f9c",
+    "publishedAt": "2026-11-07T05:07:22Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "India wins the toss and bowls in the 2nd ODI cricket match against New Zealand",
+    "description": "WELLINGTON, New Zealand (AP) — India captain Shubman Gill won a delayed toss and chose to bowl Saturday in the second one-day cricket international against New Zealand, a match reduced by rain to 47 overs per side.A wet outfield caused the toss to be delayed …",
+    "url": "https://sports.yahoo.com/articles/india-wins-toss-bowls-2nd-050717041.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/5f24bff625e19f0ed73714c3208fc10c458d984059079944ef2a5283837315c0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa2e16bc8bfec7b5ef57f59c994bb91c7.jpg",
+    "publishedAt": "2026-11-07T05:07:17Z",
+    "author": "STEVE McMORRAN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Vaibhav Sooryavanshi, 15, all set to captain Bihar in Syed Mushtaq Ali Trophy as selectors look for fresh direction",
+    "description": "Sakibul Gani led Bihar in the first three Ranji games before Mangal Mahrour took over against Goa, but neither captain could arrest the slide. The BCCI-appointed selection committee, headed by Harvinder Singh, has now turned to Vaibhav, with Suraj Kashyap nam…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-15-all-set-to-captain-bihar-in-syed-mushtaq-ali-trophy-as-selectors-look-for-fresh-direction/articleshow/135627082.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135627113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T05:03:51Z",
+    "author": "Sourav Modak"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Rohit Sharma score today for New Zealand vs. India 2nd ODI in Wellington",
+    "description": "Wondering what Rohit Sharma scored today in the IND vs NZ 2nd ODI? Track the details here.",
+    "url": "https://www.sportingnews.com/in/cricket/news/rohit-sharma-score-today-new-zealand-india-2nd-odi-wellington/396be1c7890f1ebb1442f9e6",
+    "image": "https://s.yimg.com/lo/mysterio/api/fd18eed691db4b2e40a8d538a96eff524035ad8a5709c1942000da92abe228fa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F0066fa242b740f5fb6baf7812cb7af4b",
+    "publishedAt": "2026-11-07T05:01:08Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Seven years later, India bowlers recreate New Zealand's World Cup nightmare",
+    "description": "India captain Shubman Gill won the toss and elected to bowl first. Arshdeep Singh and Auqib Nabi made full use of the conditions and kept the New Zealand batters under pressure. India are leading the five-match ODI series 1-0.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/seven-years-later-india-bowlers-recreate-new-zealands-2019-world-cup-semifinal-nightmare/articleshow/135626169.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135626199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T04:08:20Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL: Lumbini Lions take on Kathmandu Gorkhas today",
+    "description": "KATHMANDU: Defending champions Lumbini Lions will face Kathmandu Gorkhas in the only Nepal Premier League (NPL) fixture scheduled for today at the Tribhuvan University International Cricket Ground in Kirtipur. The match is set to begin at 5:00 pm. Lumbini Lio…",
+    "url": "https://english.khabarhub.com/2026/07/574793/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-TU-ground-e1792943788972.jpg",
+    "publishedAt": "2026-11-07T04:06:57Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘He helped me quite a lot’: Morne Morkel reveals Mohammed Shami's role in Indian dressing room",
+    "description": "Morne Morkel has acknowledged Mohammed Shami's contributions as he retires from Test cricket after 12 years. Shami played a significant role in helping Morkel adjust to the Indian team culture during his early days. With 229 Test wickets, Shami concludes a no…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-helped-me-quite-a-lot-morne-morkel-reveals-mohammed-shamis-role-in-indian-dressing-room/articleshow/135626092.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135626128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T04:01:21Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "How to watch Abu Dhabi T10 League on DafaNews: Live stream, schedule for UAE cricket tournament",
+    "description": "Learn how to watch the Abu Dhabi T10 League live on DafaNews. Get the complete 2026 tournament schedule, match timings, six franchises, captains, and format.",
+    "url": "https://www.sportingnews.com/in/cricket/news/watch-abu-dhabi-t10-league-dafanews-live-stream-schedule-uae-cricket-tournament/0dac8dc7a27240b509cc173e",
+    "image": "https://s.yimg.com/lo/mysterio/api/d0137c960dd82cd65ba51e03397c61317e9d34ed9e2b49016fab70d8f2b2d1db/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fd643a966fdc7555c28cdf14ca7044fd7",
+    "publishedAt": "2026-11-07T03:48:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Mohammed Shami retires from Tests: A legacy of seam, swing and 229 wickets",
+    "description": "From Johannesburg with the ball to Lord's with the bat, Mohammed Shami leaves Tests with 229 wickets in 64 matches. The 36-year-old will continue playing white-ball cricket.",
+    "url": "https://www.business-standard.com/cricket/news/mohammed-shami-test-retirement-229-wickets-lords-fifty-126110700101_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/07/thumb/featurecrop/1200X628/1794022173-5767.jpg",
+    "publishedAt": "2026-11-07T03:31:44Z",
+    "author": "Anish Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Sad day to see him go': India bowling coach Morkel pays heartfelt tribute to Mohammed Shami after Test retirement",
+    "description": "Shami announced his retirement from Test cricket, bringing an end to a career that saw him become one of India's most dependable fast bowlers across conditions and on the biggest stages.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/sad-day-to-see-him-go-india-bowling-coach-morkel-pays-heartfelt-tribute-to-mohammed-shami-after-test-retirement/articleshow/135625319.cms",
+    "image": "https://img.etimg.com/thumb/msid-135625318,width-1200,height-900,imgsize-206006,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-07T03:24:22Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Legends don't say goodbye’: Ex-cricketer's tribute for Shami after retirement",
+    "description": "Mohammed Shami has officially announced his retirement from Test cricket, marking the end of a distinguished twelve-year journey. Over his career, he participated in 64 Tests, claiming 229 wickets for India, with standout performances particularly against Sou…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/some-legends-dont-say-goodbye-ex-india-cricketers-heartfelt-message-for-mohammed-shami-after-test-retirement/articleshow/135624969.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135624975,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T03:19:24Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
+    "description": "Usman Khawaja revealed that discussions about ball-tampering among the Australian cricket team were more common than previously reported. He stated these conversations included the use of sandpaper to scuff the ball during the 2018 South Africa tour. Cricket …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/articleshow/135625074.cms",
+    "image": "https://img.etimg.com/thumb/msid-135625073,width-1200,height-900,imgsize-132000,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-07T03:07:41Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: India eye 2-0 lead as Wellington weather threatens second ODI",
+    "description": "India leads the ODI series against New Zealand 1-0 after a successful match in Auckland. The second match is scheduled to take place at Hnry Stadium in Wellington under potentially challenging weather conditions. Players like Virat Kohli and pacers Arshdeep S…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-india-eye-2-0-lead-as-wellington-weather-threatens-second-odi/articleshow/135624679.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135624699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T02:51:28Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Business Standard",
+    "title": "NZ vs IND 2nd ODI live streaming: Where to watch today's cricket match?",
+    "description": "New Zealand vs India 2nd ODI begins at 7:30 am IST on Saturday, with the toss at 7 am IST. Fans in India can stream the match on the SonyLIV app and website",
+    "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-2nd-odi-live-streaming-where-to-watch-today-s-cricket-match-126110601027_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/featurecrop/1200X628/1793957491-7467.jpg",
+    "publishedAt": "2026-11-07T02:31:45Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "CNA",
+    "title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
+    "description": "SYDNEY, Nov 7 : Former Australian cricketer Usman Khawaja said in a new autobiography excerpted on Saturday that discussions about ball-tampering during Australia's 2018 tour of South Africa were more widespread within the team than Cricket Australia's invest…",
+    "url": "https://www.channelnewsasia.com/sport/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe-6532531",
+    "image": "https://dam.mediacorp.sg/image/upload/s--hrYwbTJp--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-07T013401Z_1_LYNXNPEMA601T_RTROPTP_3_CRICKET-AUSTRALIA-KHAWAJA.JPG?itok=DULDZ1hi",
+    "publishedAt": "2026-11-07T01:34:01Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs NZ 2nd ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Hnry Stadium, Wellington",
+    "description": "IND vs NZ 2nd ODI live score: Real-time scorecard from Hnry Stadium, Wellington, win probability, result, and match highlights.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-2nd-odi-2026-live-scorecard-result-highlights-wellington/6952df8d90d15d884393026b",
+    "image": "https://s.yimg.com/lo/mysterio/api/f0241059fc94a15ac05a49f5ef07e51eba5d4af37e6d448755c3ecfcab041533/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcbae5e7c89c179879a613e38e9563e60",
+    "publishedAt": "2026-11-07T01:10:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Sporting News",
+    "title": "New Zealand vs. India 2nd ODI live score, win probability and chances of victory in Wellington",
+    "description": "India take on New Zealand in the second ODI of the five-match series in Wellington on Saturday.",
+    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-india-2nd-odi-live-score-win-probability-chances-victory-wellington/11f2884deb161b9c5bb9ff0f",
+    "image": "https://s.yimg.com/lo/mysterio/api/abc7a1a335769a7ec9eaac1c1ddf70124b2ebcd4d48ae29f567b6be2d4c13d8b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdf2f12568b9f90a135a514e12cf6be20",
+    "publishedAt": "2026-11-07T01:00:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Not an easy task to be coach of the Indian cricket team: Kyle Mills",
+    "description": "India's cricket team is experiencing a transition under coach Gautam Gambhir while maintaining stability in the ODI format. Senior players like Virat Kohli and Rohit Sharma play crucial roles in this transition. Former New Zealand bowler Kyle Mills commends G…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-an-easy-task-to-be-coach-of-the-indian-cricket-team-kyle-mills/articleshow/135623854.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135623906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T00:49:38Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ 2nd ODI: Will rain play spoilsport in Wellington?",
+    "description": "India vs New Zealand Live Score, 2nd ODI: Wellington will host the next chapter of India's New Zealand tour as the teams prepare for the second ODI a",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-2nd-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-shubman-live-streaming-wellington/liveblog/135612326.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135612326,width-1280,height-720,imgsize-148506,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T00:30:18Z",
+    "author": "The Times Of India"
+  },
+  {
     "source": "ABC News (AU)",
     "title": "Megan Schutt on ADHD, medication and what's changed since her diagnosis",
     "description": "Like many women in their 30s and 40s, Australian bowler Megan Schutt has been diagnosed with ADHD later in life. The world champion sat down with ABC Sport to talk medication, mum guilt on tour and her decision to retire from ICC tournaments.",
@@ -70,204 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135617825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-06T18:14:07Z",
     "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Pace heavy India look to extend advantage over New Zealand in second ODI",
-    "description": "India's new pace attack looks to build on their success against New Zealand in the upcoming ODI. Adjustments are expected due to the unique dimensions of the Hnry Stadium's boundaries. Rohit Sharma is anticipated to bounce back after his earlier dismissal, wh…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pace-heavy-india-look-to-extend-advantage-over-new-zealand-in-second-odi/articleshow/135617111.cms",
-    "image": "https://img.etimg.com/thumb/msid-135617254,width-1200,height-900,imgsize-95966,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-06T17:58:12Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Insurance Journal",
-    "title": "AM Best Upgrades Credit Ratings of Illinois Casualty and Lebanon Valley",
-    "description": "AM Best has upgraded the Financial Strength Rating (FSR) to A (Excellent) from A- (Excellent) and the Long-Term Issuer Credit Ratings (Long-Term ICRs) to “a” (Excellent) from “a-” (Excellent) of Illinois Casualty Company (ICC) and Lebanon Valley Insurance Com…",
-    "url": "https://www.insurancejournal.com/news/midwest/2026/11/06/891867.htm",
-    "image": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
-    "publishedAt": "2026-11-06T17:22:15Z",
-    "author": "admin"
-  },
-  {
-    "source": "Business Standard",
-    "title": "To Bishan, With Love: A tribute to the cricket legend beyond the pitch",
-    "description": "Anju Bedi's essay is an honest account of the sacrifices wives are expected to make",
-    "url": "https://www.business-standard.com/book/to-bishan-with-love-a-tribute-to-the-cricket-legend-beyond-the-pitch-126110601972_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/06/thumb/fitandfill/1200X628/1793982356-5147.jpg",
-    "publishedAt": "2026-11-06T16:27:23Z",
-    "author": "Chintan Girish Modi"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Ex-Broncos Pro Bowler Tells Chiefs Fans to Stop Whining About Week 8 Ending",
-    "description": "Former Broncos Pro Bowler Justin Simmons called out Chiefs fans for whining about the controversial call in their Week 8 loss.",
-    "url": "https://biztoc.com/x/5c59d77212efaccc",
-    "image": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-11-06T16:12:26Z",
-    "author": "newsweek.com"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Wellington weather forecast for New Zealand vs. India ODI: Chances of rain, average temperatures ahead of 2nd match",
-    "description": "Check the latest Wellington weather forecast for the New Zealand vs. India 2nd ODI, including rain chances, expected temperatures, and conditions at the Hnry Stadium.",
-    "url": "https://www.sportingnews.com/in/cricket/news/wellington-weather-forecast-new-zealand-india-odi-chances-rain-temperatures/fa90f09489badbd6c46e09d4",
-    "image": "https://s.yimg.com/lo/mysterio/api/726b6421a4298d31b14a2145b7c145636b29842fdfe4ee1c886985f3e309221a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F1977513bf79b4e19ee2f67e5d5585ed4",
-    "publishedAt": "2026-11-06T16:12:24Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Chitwan Rhinos beat Pokhara Avengers by 30 runs",
-    "description": "KATHMANDU: Chitwan Rhinos registered their second victory in the Nepal Premier League (NPL), defeating Pokhara Avengers by 30 runs in a match dominated by an impressive bowling performance at the Tribhuvan University International Cricket Ground in Kirtipur o…",
-    "url": "https://english.khabarhub.com/2026/06/574764/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/chitwan-pokhara-7-1.jpg",
-    "publishedAt": "2026-11-06T15:46:44Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal",
-    "description": "Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.",
-    "url": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aedeed64f885-1793978070.jpg?resize=1920%2C1398",
-    "publishedAt": "2026-11-06T15:44:48Z",
-    "author": null
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch New Zealand vs. India live stream, TV channel, start time and lineups for 2nd ODI",
-    "description": "Find out where to watch New Zealand vs. India second ODI, including start time, TV channel, live streaming and lineups.",
-    "url": "https://www.sportingnews.com/in/cricket/news/watch-new-zealand-india-live-stream-tv-channel-start-time-lineups-2nd-odi/11937e5bc1e70c4f51f6f6d0",
-    "image": "https://s.yimg.com/lo/mysterio/api/00482300450921656d9dd319a708490748a287351ef84a4e7818762ac8218fa6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F01e94309cbc033e8b07e95a93a34ec19",
-    "publishedAt": "2026-11-06T14:30:01Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vaibhav Sooryavanshi's meteoric rise continues as Bihar hand him captaincy at 15",
-    "description": "At just 15 years old, Vaibhav Sooryavanshi has been named the captain of the senior cricket team for Bihar. The Bihar Cricket Association revealed the squad for the Syed Mushtaq Ali Trophy, featuring 17 players, with Suraj Kashyap as vice-captain. The team's …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-meteoric-rise-continues-as-bihar-hand-him-captaincy-at-15/articleshow/135611148.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135611256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T14:29:09Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "CSK-SRH IPL 2027 trade: Liam Livingstone reacts after R Ashwin's co-host compares him to 'trash'",
-    "description": "After R. Ashwin's co-host, Prassanna Raman, threw shade at Liam Livingstone for his move to CSK,, the English batter handled the comeback with cool composure...",
-    "url": "https://www.cricketnews.com/en/ipl/news/csk-ipl-liam-livingstone-reacts-ashwin-co-host-compares-trash/67d8115b0a499e6c47203fe2",
-    "image": "https://s.yimg.com/lo/mysterio/api/593de839fc4c49bd5aede0a3c7fea6e0093ef761a97bd82fd717eba5d0a44121/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F60c9d84e305abecb2fa621dd7179eb9f",
-    "publishedAt": "2026-11-06T14:27:11Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ireland name uncapped duo for T20 tournament",
-    "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c8e366xzkyp9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-11-06T14:17:54Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ireland name uncapped duo for T20 tournament",
-    "description": "Ireland name two uncapped players in a 14-strong squad for the Emerging Nations Trophy T20 tournament, with Lara Maritz included after last playing for her country in 2021.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8e366xzkyp9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d0c8/live/f2d02d20-d9ea-11f1-bbe5-797ee05bee69.jpg",
-    "publishedAt": "2026-11-06T14:12:50Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Syed Mushtaq Ali Trophy: Abhimanyu Easwaran to captain as Bengal name 19-member squad",
-    "description": "Bengal have announced a 19-member squad for the upcoming Syed Mushtaq Ali Trophy, with Abhimanyu Easwaran as captain. Under-23 skipper Shashank Singh and former RCB bowler Prayas Ray Barman are included, while experienced pacers Mohammed Shami and Mukesh Kuma…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/syed-mushtaq-ali-trophy-abhimanyu-easwaran-to-captain-as-bengal-name-19-member-squad/articleshow/135610360.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135610546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T14:09:13Z",
-    "author": "Archiman Bhaduri"
-  },
-  {
-    "source": "BBC News",
-    "title": "Women's rights matter more than any league, say Afghan cricketers",
-    "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cwr7ydgv03kvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/51b5806a42dd350c08eba1f1043e5f57ab5cad9c199141c8e0077ca43b523301/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fefa05788acb9e958fed5fb50b2e10315.jpg",
-    "publishedAt": "2026-11-06T14:07:22Z",
-    "author": "Ffion Wynne - BBC Sport Journalist; Alison Mitchell - BBC Stumped host"
-  },
-  {
-    "source": "BBC News",
-    "title": "Women's rights matter more than any league, say Afghan cricketers",
-    "description": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/388c/live/b1dc5b40-d922-11f1-ad94-e17fee4cd332.jpg",
-    "publishedAt": "2026-11-06T13:40:59Z",
-    "author": "Ffion Wynne, Alison Mitchell"
-  },
-  {
-    "source": "CNA",
-    "title": "'Clicky Ponting' handed two-year suspension for finger-clicking deception",
-    "description": "Nov 6 : The English amateur cricketer who went viral for finger-clicking trickery has been handed a two-year suspension, the North Yorkshire & South Durham Cricket League said on Friday.The fielder, dubbed \"Clicky Ponting\" on social media in a nod to former A…",
-    "url": "https://www.channelnewsasia.com/sport/clicky-ponting-handed-two-year-suspension-finger-clicking-deception-6531446",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-11-06T13:04:43Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'NZ conditions ‘a lot more similar’ to 2027 World Cup: India could gain an early edge from ODI series, says Shubman Gill",
-    "description": "With the 2027 World Cup just a year away, Indian skipper Shubman Gill believes that playing in New Zealand's conditions would help the Men in Blue in South Africa.",
-    "url": "https://www.cricketnews.com/en/cricket/news/nz-conditions-similar-2027-world-cup-india-odi-series-south-africa/fc13a9ecc077f4de1a72f054",
-    "image": "https://s.yimg.com/lo/mysterio/api/eef55f01fcd27fcc4fe0eb5a77e500003ccc6d1a9273b4940e5159953aa41cc3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb1f6f9c86f06a3fc154bb67cbe764e1a",
-    "publishedAt": "2026-11-06T13:03:34Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Inward FDI to ODI ratio narrows to 4.2 times in FY26 from 5.5 times: RBI",
-    "description": "The RBI's annual census shows a narrowing gap between inward FDI and overseas direct investment, with the US emerging as the largest source of outstanding FDI in India.",
-    "url": "https://www.business-standard.com/economy/news/inward-fdi-to-odi-ratio-narrows-to-4-2-times-in-fy26-from-5-5-times-rbi-126110601554_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/fitandfill/1200X628/1793780659-2742.JPG",
-    "publishedAt": "2026-11-06T12:35:41Z",
-    "author": "Our Bureau"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Mahmud claims 6-90 to help Bangladesh stem the tide in 2nd test as West Indies lead by 268",
-    "description": "SYLHET, Bangladesh (AP) — Fast bowler Hasan Mahmud claimed 6-90 to help Bangladesh stem the tide in the second cricket test against West Indies on Friday.Hasan moved the ball admirably on day 2 as West Indies was out for 356 in the first innings.",
-    "url": "https://sports.yahoo.com/articles/mahmud-claims-6-90-help-121303060.html",
-    "image": null,
-    "publishedAt": "2026-11-06T12:13:03Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "BBC News",
-    "title": "Two-year ban for 'Clicky Ponting' cricketer",
-    "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c62keenz7dzjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/571355aaf065c00ea540c048eecd15cdfa34062c872b8b48f7001a05fd6d4535/lightyear_networkapi/resizefill_w622_h350%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7162eb17568a818dfbbc11a7ae944568.jpg",
-    "publishedAt": "2026-11-06T12:00:25Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "Two-year ban for 'Clicky Ponting' cricketer",
-    "description": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7baf/live/615172d0-8cd0-11f1-97f5-93fc85ee9dc4.jpg",
-    "publishedAt": "2026-11-06T12:00:21Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Does IPL have a ceiling for player salaries? Explaining team purse as top stars demand Rs 40 crore",
-    "description": "Does the IPL impose a ceiling on player salaries? We break down BCCI purse limits, overseas pay caps, and whether a ₹40 crore contract is mathematically possible.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fc22ad30-d781-44cb-af4a-e0b767e4df12",
-    "image": null,
-    "publishedAt": "2026-11-06T11:44:30Z",
-    "author": null
   }
 ]
 ;
