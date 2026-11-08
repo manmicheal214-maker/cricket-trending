@@ -1,5 +1,77 @@
 [
   {
+    "source": "BBC News",
+    "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+    "description": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1349/live/3bebbbb0-dad5-11f1-a701-fddedf244c16.jpg",
+    "publishedAt": "2026-11-07T18:11:12Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Biggest IPL trade in years': Fans excited as MI and PBKS set to swap Hardik Pandya and Arshdeep Singh in trade deal",
+    "description": "Fans continue to lose their minds as Mumbai Indians and Punjab Kings pull off a blockbuster trade sending Hardik Pandya to PBKS and bringing Arshdeep Singh to MI.",
+    "url": "https://www.cricketnews.com/en/cricket/news/biggest-ipl-trade-fans-mi-pbks-hardik-arshdeep-trade-deal/181b0b964b943712d0d0d3f4",
+    "image": "https://s.yimg.com/lo/mysterio/api/6b3b2dde584264b4d738ebaac00034b9349566e2dc4654c2a321160760e7a156/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F99be0a6738a4f42bba8f11bb1796a0f3",
+    "publishedAt": "2026-11-07T17:50:11Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India U19 vs Pakistan U19 Live Streaming: When and where to watch ACC U19 Asia Cup 2026 clash; squads, points table and match details",
+    "description": "The ACC Men's Under-19 Asia Cup is heating up as India prepares to clash with Pakistan. Both teams delivered strong performances in their opening games, with India overcoming Nepal and Pakistan defeating the UAE. Scheduled for the Al Amerat Cricket Ground in …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-u19-vs-pakistan-u19-live-streaming-when-and-where-to-watch-acc-u19-asia-cup-2026-clash-squads-points-table-and-match-details/articleshow/135643150.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135643275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T17:31:59Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Honolulu Star-Advertiser",
+    "title": "Kapaa’s Kimura, Mililani’s Kim rule the bowling lanes",
+    "description": "Radium had nothing on William Kimura. The Kapaa senior became the first KIF boy to win the bowling state title since Angelo Matias of Kauai won in 1995 at Lihue Lanes. Kimura, the lone boys bowler from his school, finished with a two-day, eight-game total of …",
+    "url": "https://www.staradvertiser.com/2026/11/07/sports/hawaii-prep-world/kapaas-kimura-mililanis-kim-rule-the-bowling-lanes/",
+    "image": null,
+    "publishedAt": "2026-11-07T17:04:00Z",
+    "author": "Paul Honda paul., The Honolulu Star-Advertiser"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Late release, upright seam, heavy ball: Decoding Mohammed Shami's sorcery",
+    "description": "Mohammed Shami retires from Test cricket after 64 matches, leaving behind a legacy of exceptional seam movement, late swing and devastating heavy balls. Renowned for match-winning spells overseas, he mentored younger bowlers and played a vital role in India's…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/late-release-upright-seam-heavy-ball-decoding-mohammed-shamis-sorcery/articleshow/135639964.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135640027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T16:47:06Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "ILT20 Season 5 introduces new batter zone Wide rule and two-way 60-second stop clock",
+    "description": "The ILT20’s fifth season introduces a new ‘batter zone’ rule for determining Wides and extends the 60-second stop clock to batting teams. Batters must be ready within a minute, with five penalty runs for repeated delays after two warnings. Playing XIs must al…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-season-5-introduces-new-batter-zone-wide-rule-and-two-way-60-second-stop-clock/articleshow/135640898.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135641408,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-07T16:13:33Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Kathmandu Gorkhas end Lumbini Lions’ unbeaten run with 36-run victory",
+    "description": "KATHMANDU: Kathmandu Gorkhas registered their third consecutive victory in the Nepal Premier League (NPL), bringing defending champions Lumbini Lions’ unbeaten run to an end with a 36-run win at the Tribhuvan University International Cricket Ground in Kirtipu…",
+    "url": "https://english.khabarhub.com/2026/07/574868/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Kathmandu-Gorkhas-NPL-Cricket.jpg",
+    "publishedAt": "2026-11-07T15:24:16Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "iccdev-mcp 0.1.2",
+    "description": "MCP server for ICC color profile tools (iccDEV)",
+    "url": "https://pypi.org/project/iccdev-mcp/0.1.2/",
+    "image": null,
+    "publishedAt": "2026-11-07T15:21:45Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "Josh Tongue ruled out of Australia ODIs with toe injury, England suffer fresh pace blow",
     "description": "Josh Tongue has been ruled out of the upcoming ODI series against Australia due to a toe injury. He will return to the UK for further assessment of his injury, which has hampered his recent performances. Tongue's absence comes as England has started their tou…",
@@ -178,68 +250,5 @@
     "image": "https://www.nzherald.co.nz/resizer/v2/NBSSJ43R2NFH7CVLCCAMUDTI7Q.JPG?auth=be37b74c8eb87ec11051a920e07d2aa196fbc9ae9cb69cbed586413d23172940&width=1200&height=675&quality=70&focal=679%2C166&smart=false",
     "publishedAt": "2026-11-07T10:01:00Z",
     "author": "Alex Powell"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'God did not accept it': Ex-India cricketer on Mohammed Shami's unfulfilled Test comeback",
-    "description": "Mohammed Shami announced his retirement from Test cricket, concluding a notable 13-year career. Bengal coach Laxmi Ratan Shukla expressed disappointment over Shami's inability to return to the Indian side. Shami last represented India in the 2023 World Test C…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/god-did-not-accept-it-ex-india-cricketer-on-mohammed-shamis-unfulfilled-test-comeback/articleshow/135632109.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135632791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T09:39:11Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "‘Some legends don't say goodbye’: Ex-India cricketer's heartfelt message for Mohammed Shami after Test retirement",
-    "description": "Mohammed Shami has officially announced his retirement from Test cricket, marking the end of a distinguished twelve-year journey. Over his career, he participated in 64 Tests, claiming 229 wickets for India, with standout performances particularly against Sou…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_02aa81e4-35d6-45b9-bcc8-f52327bccb43",
-    "image": null,
-    "publishedAt": "2026-11-07T08:49:00Z",
-    "author": null
-  },
-  {
-    "source": "Business Standard",
-    "title": "Agniveer cricketer Jayant Goyat: The story of Services' Ranji Trophy talent",
-    "description": "The 21-year-old Air Force Agniveer from Bhiwani has taken his first Ranji five-wicket haul for Services, adding pace bowling to a game shaped by his father and an early love of batting.",
-    "url": "https://www.business-standard.com/cricket/news/jayant-goyat-agniveer-services-ranji-trophy-profile-126110700509_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/07/thumb/featurecrop/1200X628/1794040109-5746.jpg",
-    "publishedAt": "2026-11-07T08:28:23Z",
-    "author": "Anish Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Four-star Gurnoor blows away New Zealand as hosts bowled out for 134",
-    "description": "Gurnoor Brar led India's bowling attack with an impressive performance, taking four wickets against New Zealand. The inexperienced bowlers restricted the hosts to a low score of 134 in the second ODI. Auqib Nabi and Anshul Kamboj also contributed with two wic…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/four-star-gurnoor-blows-away-new-zealand-as-hosts-bowled-out-for-134/articleshow/135630012.cms",
-    "image": "https://img.etimg.com/thumb/msid-135630165,width-1200,height-900,imgsize-120298,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T07:31:21Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Defined an era of Indian pace bowling': BCCI's tribute to Mohammad Shami after Test retirement",
-    "description": "In a heartfelt farewell, Mohammad Shami has declared his retirement from Test cricket after an illustrious journey, concluding with 229 wickets. Celebrated as one of India's finest pacers, his departure has prompted praise from the BCCI and former players ali…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/defined-an-era-of-indian-pace-bowling-bccis-tribute-to-mohammad-shami-after-test-retirement/articleshow/135630138.cms",
-    "image": "https://img.etimg.com/thumb/msid-135630158,width-1200,height-900,imgsize-50524,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T07:28:49Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Daryl Mitchell breaks 27-year-old New Zealand record against India, joins elite list",
-    "description": "Daryl Mitchell celebrated a remarkable achievement by breaking Chris Cairns' record for the most ODI runs against India. He accomplished this during the second ODI of the ongoing series, amassing a total of 435 runs in just five matches. Though Tillakaratne D…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/daryl-mitchell-breaks-27-year-old-new-zealand-record-against-india-joins-elite-list/articleshow/135629251.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135629316,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T07:18:12Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "176 dot balls, 134 all out! India bowlers hand New Zealand unwanted home record",
-    "description": "India's young bowlers produced an outstanding performance against New Zealand, dismissing them for just 134 runs. The match marked New Zealand's lowest all-out total at home against India in ODI history. Gurnoor Brar led India's attack with impressive bowling…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/176-dot-balls-134-all-out-india-bowlers-hand-new-zealand-unwanted-home-record/articleshow/135629695.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135629835,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T07:16:53Z",
-    "author": "Amit Kumar"
   }
 ]
