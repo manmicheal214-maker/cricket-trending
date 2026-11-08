@@ -1,5 +1,23 @@
 [
   {
+    "source": "Yahoo Entertainment",
+    "title": "Rams Add Dual-Threat RB, Two-Time Pro Bowler Amid Myles Garrett News",
+    "description": "The Los Angeles announced a slew of roster moves, including major news about star edge defender Myles Garrett. The post Rams Add Dual-Threat RB, Two-Time Pro Bowler Amid Myles Garrett News appeared first on HEAVY.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_04565ee9-812b-412a-ab71-4c765e12adfa",
+    "image": null,
+    "publishedAt": "2026-11-07T21:18:57Z",
+    "author": null
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Coach says Bancroft will 'let bat do the talking' after Khawaja bombshell",
+    "description": "Usman Khawaja's bombshell claims about the 2018 ball-tampering scandal have sent shock waves through Australian cricket, casting doubt on exactly who knew what.",
+    "url": "https://www.abc.net.au/news/2026-11-08/cameron-bancroft-backed-to-keep-calm-after-sandpaper-revel/107360442",
+    "image": "https://live-production.wcms.abc-cdn.net.au/def979a3fb99c565e312599f14f589bb?impolicy=wcms_watermark_news&cropH=1187&cropW=2111&xPos=11&yPos=129&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-07T20:10:51Z",
+    "author": null
+  },
+  {
     "source": "BBC News",
     "title": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
     "description": "Blackpool survive a scare at Hornchurch, needing a 118th-minute winner from Josh Bowler to secure a 2-1 comeback victory at the Hornchurch Stadium.",
@@ -223,32 +241,5 @@
     "image": "https://static.toiimg.com/thumb/msid-135634141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-07T10:41:16Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Batting on a trampoline': Daryl Mitchell explains Wellington pitch after New Zealand's collapse against India",
-    "description": "In their second ODI match against India, New Zealand encountered significant challenges thanks to an unstable pitch. Daryl Mitchell highlighted the unpredictable bounce that impeded their progression. With early wickets lost, the team crumbled to just 134 run…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/batting-on-a-trampoline-daryl-mitchell-explains-wellington-pitch-after-new-zealands-collapse-against-india/articleshow/135632890.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135633640,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T10:15:09Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What is the DLS method? Duckworth–Lewis rules explained for ODIs and T20Is",
-    "description": "Wondering how rain-affected matches are decided in cricket? How the DLS method works in ODIs and T20Is, and how targets are adjusted fairly when weather interrupts play.",
-    "url": "https://www.cricketnews.com/en/cricket/news/what-dls-method-duckworth-lewis-rules-explained-odis-and-t20is/c28d39092446c764e68b6aa0",
-    "image": "https://s.yimg.com/lo/mysterio/api/fcf3bccd605ae32fba8e7f956e196e29bb58cc2f3618f8eede779462cf6a3fe9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb6a3cfa14b0365618a8a40964e0b1368",
-    "publishedAt": "2026-11-07T10:03:00Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Black Caps v India result: Rain denies New Zealand chance to push for ODI victory in low-scoring thriller",
-    "description": "NZ were three wickets away from winning before Mother Nature gave India a 2-0 series lead.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-result-rain-denies-new-zealand-chance-to-push-for-odi-victory-in-low-scoring-thriller/LX4KMWR34BCMHDXC4SBJX5MJS4/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/NBSSJ43R2NFH7CVLCCAMUDTI7Q.JPG?auth=be37b74c8eb87ec11051a920e07d2aa196fbc9ae9cb69cbed586413d23172940&width=1200&height=675&quality=70&focal=679%2C166&smart=false",
-    "publishedAt": "2026-11-07T10:01:00Z",
-    "author": "Alex Powell"
   }
 ]
