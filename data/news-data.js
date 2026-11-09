@@ -1,5 +1,122 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "Chances of rain in Hamilton on Tuesday: Latest weather forecast for NZ vs IND 3rd ODI at Seddon Park",
+    "description": "Will rain hit the IND vs NZ 3rd ODI in Hamilton? Check Tuesday's hourly weather forecast for rain chances at Seddon Park.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rain-hamilton-tuesday-weather-forecast-nz-vs-ind-3rd-odi-seddon-park/b34d66a3e4445c6544206a1e",
+    "image": "https://s.yimg.com/lo/mysterio/api/df64950722642ab34892f52568c7de96720a41e9e0c49fe8187ebb9eb1f495d3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdb7c22f93f8ccc5cfaea4f36ec93c067",
+    "publishedAt": "2026-11-08T05:55:34Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'I'll do anything to win World Cup': Rohit Sharma jokes about getting Shubman Gill married to win maiden ODI World Cup trophy",
+    "description": "Rohit Sharma and Anupam Mittal leave fans in splits over Shubman Gill's marriage theory on Sony LIV's Family Full House.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-jokes-shubman-gill-married-win-odi-world-cup-trophy/23be910da62220e8a1a4c3cd",
+    "image": "https://s.yimg.com/lo/mysterio/api/632ac7c6b61bde3686c2cf676bbe0a77e577c95dd2f0a4a543b91329144c5fc6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fdf2f12568b9f90a135a514e12cf6be20",
+    "publishedAt": "2026-11-08T05:52:57Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Wrong to eliminate toss in U-23 matches’: Dilip Vengsarkar urges BCCI to restore it",
+    "description": "Former cricketer Dilip Vengsarkar has voiced his disapproval of the BCCI's recent decision to abolish the toss in Under-23 matches. He believes this move strips the game of its excitement and strategic depth. Vengsarkar stresses that teams must learn to adapt…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wrong-to-eliminate-toss-in-u-23-matches-vengsarkar-urges-bcci-to-restore-it/articleshow/135652268.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135652305,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T05:31:22Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘I haven’t thrown anyone under the bus’: Usman Khawaja hits back amid Sandpapergate row",
+    "description": "In his autobiography, Usman Khawaja reveals that the entire Australian cricket team was aware of the ball-tampering incident during their 2018 tour of South Africa. He addressed claims that he kept this information hidden for personal benefit, emphasizing his…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-havent-thrown-anyone-under-the-bus-usman-khawaja-hits-back-amid-sandpapergate-row/articleshow/135651992.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135652012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T05:16:24Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "CNA",
+    "title": "Khawaja denies throwing 'anyone under the bus' with comments about ball-tampering scandal",
+    "description": "Nov 8 : Usman Khawaja on Sunday denied that he had \"thrown anyone under the bus\", a day after an excerpt from the former Australian cricketer's autobiography claimed the entire team had been aware of ball-tampering during a 2018 tour of South Africa.The scand…",
+    "url": "https://www.channelnewsasia.com/sport/khawaja-denies-throwing-anyone-under-bus-comments-about-ball-tampering-scandal-6533946",
+    "image": "https://dam.mediacorp.sg/image/upload/s--lw_rQGPA--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-08T050135Z_1_LYNXNPEMA703K_RTROPTP_3_CRICKET-AUSTRALIA-KHAWAJA.JPG?itok=BjhWhgeS",
+    "publishedAt": "2026-11-08T05:01:35Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Usman Khawaja reveals why he waited eight years to make bombshell Sandpapergate claims that rocked Aussie cricket: 'He talked me out of it'",
+    "description": "His explanation came a day after he admitted sandpaper had been used in the Test prior to Cape Town 2018 and the entire team were responsible.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16275363/usman-khawaja-eight-year-sandpapergate-silence.html",
+    "image": "https://i.dailymail.com/1s/2026/11/08/04/112374679-0-image-m-15_1794113276744.jpg",
+    "publishedAt": "2026-11-08T04:58:55Z",
+    "author": "Scott Bailey, Justin Chadwick"
+  },
+  {
+    "source": "The Times of India",
+    "title": "23 years after Javagal Srinath, Gurnoor Brar achieves rare Indian bowling feat in New Zealand",
+    "description": "Gurnoor Brar made waves in the second ODI against New Zealand, achieving remarkable bowling figures of 4/30. This stat positions him as the second-best Indian fast bowler in ODIs in New Zealand history. The match, disrupted by rain, saw India bowl out New Zea…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/23-years-after-javagal-srinath-gurnoor-brar-achieves-rare-indian-bowling-feat-in-new-zealand/articleshow/135650313.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135650359,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T03:36:11Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘There was nothing wrong’: Sunil Gavaskar shuts down criticism of Gautam Gambhir's decision to bat Axar Patel at No. 5",
+    "description": "Legendary India batter Sunil Gavaskar endorsed the decision to promote Axar Patel during the second ODI against New Zealand. India faced early challenges while chasing a modest target of 135 after losing key wickets. Axar was sent in at No. 5 but scored only …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/there-was-nothing-wrong-sunil-gavaskar-shuts-down-criticism-of-gautam-gambhirs-decision-to-bat-axar-patel-at-no-5/articleshow/135649980.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135649991,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T02:57:05Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "IPL retained players 2027: List of retentions from all 10 Indian Premier League teams ahead of mini-auction",
+    "description": "All 10 IPL teams have announced their retained players ahead of the 2027 mini-auction. Check the full list of retentions team by team.",
+    "url": "https://www.sportingnews.com/in/cricket/news/ipl-retained-players-12-team-2027-indian-premier-league-mini-auction/a2fe8eea719f01413319a491",
+    "image": "https://s.yimg.com/lo/mysterio/api/0aed44e25fb66ef2c5ff02ce3009db84ca1bba4326fb41aff4d67c6b4f2750a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F8fcb58cc8c9630a0443129e90f67db1b",
+    "publishedAt": "2026-11-08T02:30:01Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Not a long-term solution’: Ex-India cricketer questions Gautam Gambhir and team management’s strategy",
+    "description": "Dodda Ganesh has raised eyebrows over India's choice to position Axar Patel at the fifth spot in the batting lineup. He expresses that this approach limits KL Rahul's potential to elevate his batting status. In the second ODI versus New Zealand, India's middl…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-a-long-term-solution-ex-india-cricketer-questions-gautam-gambhir-and-team-managements-strategy/articleshow/135649529.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135649534,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T01:55:19Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Meet the surgeon saving the careers of cricket's best fast bowlers",
+    "description": "New Zealand spinal surgeon Rowan Schouten has gained a reputation as the man to see for a generation of injury-plagued fast bowlers.",
+    "url": "https://www.abc.net.au/news/2026-11-08/pars-stabilisation-surgery-saving-crickets-best-fast-bowlers/107272126",
+    "image": "https://live-production.wcms.abc-cdn.net.au/f4f7a4a9a09b182ab669fa232f840823?impolicy=wcms_watermark_news&cropH=2097&cropW=3728&xPos=0&yPos=171&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-08T01:24:37Z",
+    "author": "Tom Wildie"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma enters record books with historic feat in rain-hit Wellington ODI",
+    "description": "During the second ODI, Rohit Sharma set a new record for the most sixes hit against New Zealand in One-Day Internationals, breaking Shahid Afridi’s previous record by launching two sixes off Kyle Jamieson. Although rain interrupted play, India managed to secu…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rohit-sharma-enters-record-books-with-historic-feat-in-rain-hit-wellington-odi/articleshow/135649345.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135649357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-08T01:07:33Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "U-19 Asia Cup: Schedule, results, teams, live stream and TV channel for cricket tournament",
+    "description": "Here's everything you need to know about the upcoming U-19 Asia Cup, including where to catch the games live without missing a minute.",
+    "url": "https://www.sportingnews.com/in/cricket/news/u-19-asia-cup-schedule-results-teams-live-stream-tv-channel-cricket-tournament/3c95c38ca58de2fb866c589e",
+    "image": "https://s.yimg.com/lo/mysterio/api/6e854731b315f191a196e0880d814cacf22d89f516d14a4cec80f070c60f729b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5572702289c147f4221374e95512b0da",
+    "publishedAt": "2026-11-08T00:30:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Rams Add Dual-Threat RB, Two-Time Pro Bowler Amid Myles Garrett News",
     "description": "The Los Angeles announced a slew of roster moves, including major news about star edge defender Myles Garrett. The post Rams Add Dual-Threat RB, Two-Time Pro Bowler Amid Myles Garrett News appeared first on HEAVY.",
@@ -133,114 +250,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-135638398,width-1200,height-900,imgsize-113132,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-11-07T13:34:35Z",
     "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'It was a tricky wicket': Skipper Mitchell Santner rues New Zealand's missed opportunity against India",
-    "description": "New Zealand captain Mitchell Santner admitted his team fell short with the bat on a challenging surface against India in the second ODI. He praised both bowling attacks but felt New Zealand could have scored 160-180. Santner also updated Blair Tickner's condi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/it-was-a-tricky-wicket-skipper-mitchell-santner-rues-new-zealands-missed-opportunity-against-india/articleshow/135636871.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135637276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T13:03:09Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "NPL: Kathmandu Gorkhas set 161-run target for Lumbini Lions",
-    "description": "KATHMANDU: Kathmandu Gorkhas have set a target of 161 runs for Lumbini Lions in their Nepal Premier League (NPL) encounter at the Tribhuvan University International Cricket Stadium in Kirtipur on Saturday. Batting first after losing the toss, Kathmandu posted…",
-    "url": "https://english.khabarhub.com/2026/07/574850/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Cricket-.jpeg",
-    "publishedAt": "2026-11-07T12:59:09Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'A pleasure to watch him bat': Irfan Pathan hails KL Rahul's composure in tricky New Zealand chase",
-    "description": "KL Rahul proved to be a linchpin for India's ODI squad during the encounter against New Zealand. His unbeaten innings was pivotal amidst the early dismissals of his teammates, securing India’s victory through the DLS method. Meanwhile, New Zealand faltered at…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/a-pleasure-to-watch-him-bat-irfan-pathan-hails-kl-rahuls-composure-in-tricky-new-zealand-chase/articleshow/135637172.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135637410,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T12:55:11Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'He's got the pace and bounce': Shubman Gill identifies key quality in Gurnoor Brar as India plan for 2027 ODI World Cup",
-    "description": "Gurnoor Brar has made waves with his standout performance in the second ODI against New Zealand, capturing the attention of captain Shubman Gill. With impressive figures of 4/30, Brar has underscored his potential while spotlighting the importance of consiste…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/hes-got-the-pace-and-bounce-shubman-gill-identifies-key-quality-in-gurnoor-brar-as-india-plan-for-2027-odi-world-cup/articleshow/135636570.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135636646,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T12:24:39Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'KL Rahul saves Team India': India star hailed as Men in Blue clinch a narrow win in Wellington to go 2-0 up in ODI series",
-    "description": "After a close 4-run victory at Wellington against New Zealand, fans and critics were quick to hail KL Rahul as India's savior.",
-    "url": "https://www.cricketnews.com/en/cricket/news/kl-rahul-india-india-hailed-clinch-win-wellington/2ef089887876304770967e5c",
-    "image": "https://s.yimg.com/lo/mysterio/api/d8df2a371491ff16f0f0bbf62fc429922786725384b21e818448a024f9197277/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe2bf10b8c8ce377337a43052a9d34b17",
-    "publishedAt": "2026-11-07T12:03:04Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "From run-fest to a spicy feast: A tale of two 113s in Wellington",
-    "description": "India's low-scoring ODI thriller against New Zealand highlighted the challenges of batting on a seaming, bouncy pitch. Despite a modest 135-run target, India's top order struggled against Kyle Jamieson's aggressive bowling. The decision to promote Axar Patel …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-run-fest-to-a-spicy-feast-a-tale-of-two-113s-in-wellington/articleshow/135635513.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135635562,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T11:47:44Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "11 defeats against India in 2026: New Zealand register unwanted record after 2nd ODI loss",
-    "description": "India narrowly edged out New Zealand in the second ODI, pushing their series lead to 2-0. Struggling initially, the hosts managed a total of only 134 runs before being dismissed. However, India's bowling duo, Gurnoor Brar and Auqib Nabi, delivered exceptional…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/11-defeats-against-india-in-2026-new-zealand-register-unwanted-record-after-2nd-odi-loss/articleshow/135635151.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135635707,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T11:46:20Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Towhid Hridoy hits record-breaking double century for Bangladesh in 2nd test against West Indies",
-    "description": "SYLHET, Bangladesh (AP) — Bangladesh batter Towhid Hridoy converted his maiden century into a double century to lift his team into a dominant position in the second and final cricket test against West Indies on Saturday.His masterclass helped Bangladesh reach…",
-    "url": "https://sports.yahoo.com/articles/towhid-hridoy-hits-record-breaking-114148897.html",
-    "image": null,
-    "publishedAt": "2026-11-07T11:41:48Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "NZ vs IND, 2nd ODI: Gurnoor Brar's four-wicket streak leads India to win by four runs",
-    "description": "Team India achieved a narrow victory over New Zealand by just four runs in Wellington. India's bowlers dominated the New Zealand batting lineup, led by Gurnoor Brar's impressive four-wicket haul. Despite a rocky start in their chase, Shreyas Iyer and KL Rahul…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nz-vs-ind-2nd-odi-gurnoor-brars-four-wicket-streak-leads-india-to-win-by-four-runs/articleshow/135634775.cms",
-    "image": "https://img.etimg.com/thumb/msid-135634774,width-1200,height-900,imgsize-224758,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T11:24:34Z",
-    "author": "ANI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "KL Rahul vs Axar Patel at No. 5: Why India should prefer Rahul in pace-friendly SENA conditions and at 2027 ODI World Cup",
-    "description": "With India continuing to struggle in the pace-friendly conditions of New Zealand, KL Rahul has emerged as the better bet for the Men in Blue at number 5.",
-    "url": "https://www.cricketnews.com/en/cricket/news/kl-rahul-vs-axar-patel-no-5-india-should-prefer-sena-conditions/7bf0bbd38188e87d218e6de6",
-    "image": "https://s.yimg.com/lo/mysterio/api/d8df2a371491ff16f0f0bbf62fc429922786725384b21e818448a024f9197277/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe2bf10b8c8ce377337a43052a9d34b17",
-    "publishedAt": "2026-11-07T11:10:27Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-    "description": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
-    "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261107__D6QF2LB__v1__HighRes__CricketNzlInd-1794047525.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-07T10:50:54Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "India survive New Zealand scare in rain-hit thriller, take 2-0 lead after four-run DLS victory in 2nd ODI",
-    "description": "India secured a narrow victory against New Zealand by four runs in the second ODI match. The Indian pace attack restricted New Zealand to a mere 134 runs in their innings. After a shaky start, Shreyas Iyer and KL Rahul helped stabilize India's chase before th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-survive-new-zealand-scare-in-rain-hit-thriller-take-2-0-lead-after-four-run-dls-victory-in-2nd-odi/articleshow/135633691.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135634141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-07T10:41:16Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
