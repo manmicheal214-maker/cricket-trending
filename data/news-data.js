@@ -1,5 +1,167 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Breaking: Warner says Khawaja's ball-tampering claim '100 per cent accurate'",
+    "description": "David Warner throws his full support behind his childhood friend, Usman Khawaja, while slamming Cricket Australia's investigation into ball tampering.",
+    "url": "https://www.abc.net.au/news/2026-11-09/cricket-warner-backs-khawaja-ball-tampering-claims-slams-probe/107365778",
+    "image": "https://live-production.wcms.abc-cdn.net.au/014a13b561f7d04d9f44c0f274d17689?impolicy=wcms_watermark_news&cropH=2330&cropW=4143&xPos=0&yPos=240&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-09T07:38:18Z",
+    "author": "Chris De Silva"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL: Pokhara Avengers win toss",
+    "description": "KATHMANDU: Pokhara Avengers have elected to bat first after winning the toss against Karnali Yaks in the third edition of the Nepal Premier League (NPL) at the Tribhuvan University International Cricket Ground in Kirtipur. Pokhara are yet to register a win in…",
+    "url": "https://english.khabarhub.com/2026/09/575015/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/pokhara-karnali-4.jpg",
+    "publishedAt": "2026-11-09T07:18:04Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Stay calm': NZ coach impressed by India's young pacers, tells batters to adapt",
+    "description": "New Zealand's batting coach Luke Ronchi expressed admiration for India's young pace bowlers during the ongoing ODI series. He noted their ability to adapt their bowling techniques to challenging conditions that help them excel. Ronchi emphasised the importanc…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/stay-calm-new-zealand-coach-impressed-by-indias-young-pacers-tells-batters-to-adapt-to-tough-pitches/articleshow/135673571.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135673726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T06:37:46Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Hardik Pandya set to join Punjab Kings from MI in Arshdeep trade: Reports",
+    "description": "Decks have been cleared for star all-rounder Hardik Pandya to move to Punjab Kings in exchange for pacer Arshdeep Singh, with Mumbai Indians and Punjab Kings agreeing to the trade ahead of the IPL auction later this month.\nThe proposed trade will see Hardik r…",
+    "url": "https://www.business-standard.com/cricket/ipl/hardik-pandya-set-to-join-punjab-kings-from-mi-in-arshdeep-trade-reports-126110701052_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/12/thumb/fitandfill/1200X628/1786508505-2441.jpg",
+    "publishedAt": "2026-11-09T06:14:14Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Ayush Badoni replaces injured Rajat Patidar in India A Rising Stars squad",
+    "description": "Ayush Badoni on Sunday replaced middle-order batter Rajat Patidar in the India A squad for the Rising Stars Asia Cup after the latter failed to fully recover from his existing injuries.\nIn another development, Rinku Singh has been named vice-captain for the e…",
+    "url": "https://www.business-standard.com/cricket/news/ayush-badoni-replaces-injured-rajat-patidar-in-india-a-rising-stars-squad-126110800211_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/05/thumb/fitandfill/1200X628/1757060292-2276.jpg",
+    "publishedAt": "2026-11-09T06:07:20Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Pakistan PCB extends Hesson's interim Test coaching role through WTC cycle",
+    "description": "Pakistan's white-ball head coach Mike Hesson will continue as the national team's interim red-ball head coach until the completion of the current ICC World Test Championship cycle.\nHesson took over the interim responsibility of the Test side during the team's…",
+    "url": "https://www.business-standard.com/cricket/news/pakistan-pcb-extends-hesson-s-interim-test-coaching-role-through-wtc-cycle-126110800424_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/14/thumb/featurecrop/1200X628/1773491745-1213.jpg",
+    "publishedAt": "2026-11-09T06:04:14Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "Business Standard",
+    "title": "NZ call up Kristian Clarke as injury-hit squad braces for third India ODI",
+    "description": "Fast bowler Kristian Clarke has been called up to the New Zealand squad as cover for Blair Tickner ahead of the third ODI against India here on Tuesday as the home team battles multiple injury concerns in the ongoing series.\nPacer Lockie Ferguson has been rul…",
+    "url": "https://www.business-standard.com/cricket/news/nz-call-up-kristian-clarke-as-injury-hit-squad-braces-for-third-india-odi-126110900059_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/09/thumb/featurecrop/1200X628/1794203022-8974.jpg",
+    "publishedAt": "2026-11-09T05:44:16Z",
+    "author": "Press Trust of India"
+  },
+  {
+    "source": "The Times of India",
+    "title": "KL Rahul: The all-weather ODI batter keeping India steady",
+    "description": "KL Rahul's adaptability has made him India's dependable middle-order pillar in ODIs. From rebuilding innings to accelerating against different bowling attacks, the wicketkeeper-batter has mastered the art of switching roles. As India prepare for the challenge…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kl-rahul-the-all-weather-odi-batter-keeping-india-steady/articleshow/135671712.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135671869,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T05:18:14Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Cricket’s sandpaper scandal: Usman Khawaja’s claims put Pat Cummins under scrutiny – Opinion",
+    "description": "OPINION: Australia's captain cannot remain silent after revelations from Usman Khawaja.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/cape-town-sandpaper-scandal-khawajas-claims-put-pat-cummins-under-scrutiny-opinion/EO42E7Q24VBEPKYHXKNGILMDAY/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/2RR7GF64XFDBZJNNAQV46WAVIU.jpg?auth=14ae8f8085bd7923358d52829f9126132d0d243c0dd317255b41118b3268851f&width=1200&height=675&quality=70&focal=643%2C280&smart=false",
+    "publishedAt": "2026-11-09T05:02:00Z",
+    "author": "Daily Telegraph UK"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Sri Lanka captain Mendis wins toss, sends a new-look Pakistan lineup in to bat in 1st cricket test",
+    "description": "RAWALPINDI, Pakistan (AP) — Sri Lanka captain Kusal Mendis won the toss and elected to bowl first Monday in the first cricket test against a new-look Pakistan lineup containing four players on debut.Arafat Minhas, a spinning allrounder and player of the recen…",
+    "url": "https://sports.yahoo.com/articles/sri-lanka-captain-mendis-wins-044400958.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/31cf9146806a1f7118d425498111bbc03dc8d09b0d98c7d76d1f90f5dd72732b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1fe05e14e6e80c8f89f15fdcdcaa4734.jpg",
+    "publishedAt": "2026-11-09T04:44:00Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Sacrifice runs for Virat Kohli’: Sunil Gavaskar's big take on pressure facing Shubman Gill and Shreyas Iyer",
+    "description": "Sunil Gavaskar recently commented on Virat Kohli's pursuit of 100 international centuries during an ODI match. Kohli contributed significantly to India's victory but fell short of his century with a score of 74 runs. Gavaskar suggested a teammate might help K…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sacrifice-runs-for-virat-kohli-sunil-gavaskars-big-take-on-pressure-facing-shubman-gill-and-shreyas-iyer/articleshow/135670891.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135670983,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T04:36:17Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "New Zealand vs India 3rd ODI: Playing 11, live toss time (IST), streaming",
+    "description": "While India's bowling unit has emerged as the biggest positive from the first two matches, the batting performances have left room for improvement",
+    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-3rd-odi-playing-11-live-toss-time-ist-streaming-126110900175_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/09/thumb/resize/1200X628/1794197826-7689.jpg",
+    "publishedAt": "2026-11-09T04:17:15Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Injury crisis hits NZ ahead of 3rd India ODI; Ferguson ruled out, Clarke called up",
+    "description": "New Zealand are experiencing significant challenges regarding player injuries ahead of the third ODI against India. Lockie Ferguson is ruled out of the final two ODIs due to a calf injury he sustained previously. Blair Tickner is also unable to play immediate…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/injury-crisis-hits-new-zealand-ahead-of-third-india-odi-lockie-ferguson-ruled-out-kristian-clarke-called-up/articleshow/135670295.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135670564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T04:08:17Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Australia axe batter Marnus Labuschagne for New Zealand tests",
+    "description": "The batsman's highest score in the three recent tests against South Africa was 39.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/australia-axe-batter-marnus-labuschagne-for-new-zealand-tests/IYJKZ564PJH2DIP2SLWQ2ZSIZ4/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/IHKAE24FQZAZLGBC2ZHUQ5KUFA.jpg?auth=262461f9934278310a88b4f133ce711d39474a0594aaf2f99559039d31b656d1&width=1200&height=675&quality=70&focal=1414%2C459&smart=false",
+    "publishedAt": "2026-11-09T02:45:42Z",
+    "author": "AFP"
+  },
+  {
+    "source": "Github.io",
+    "title": "Show HN: ICC display calibration QR code markers",
+    "description": "Article URL: https://iccqr.github.io\nComments URL: https://news.ycombinator.com/item?id=50420362\nPoints: 1\n# Comments: 0",
+    "url": "https://iccqr.github.io",
+    "image": null,
+    "publishedAt": "2026-11-09T02:43:53Z",
+    "author": "snshn"
+  },
+  {
+    "source": "The Times of India",
+    "title": "PAK vs SL: New Pakistan Test squad ready to fight Sri Lanka, says Babar Azam",
+    "description": "Babar Azam expresses confidence in the Pakistan cricket team's chances as they gear up for a Test series against Sri Lanka. After a less than stellar performance in England, the team has welcomed fresh talent while sidelining some seasoned players. Azam is de…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pak-vs-sl-new-pakistan-test-squad-ready-to-fight-sri-lanka-says-babar-azam/articleshow/135668058.cms",
+    "image": "https://img.etimg.com/thumb/msid-135668057,width-1200,height-900,imgsize-153972,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-09T02:03:54Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Arshdeep Singh, Gurnoor Brar, Auqib Nabi to stay back for India’s Test preparations",
+    "description": "India has decided to retain pacers Arshdeep Singh, Gurnoor Brar, and Auqib Nabi for Test preparations. Batting coach Sitanshu Kotak stated that the ODI series conditions have been beneficial for the upcoming Test matches. A preparatory camp for Test players i…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-gurnoor-brar-auqib-nabi-to-stay-back-for-indias-test-preparations/articleshow/135667559.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135667608,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T01:23:25Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Conversation Africa",
+    "title": "Did Australia’s cricket leaders sandpaper over the truth? New ball tampering revelations suggest so",
+    "description": "One of sport’s greatest cheating scandals has erupted again. It may have far-reaching ramifications for Cricket Australia and several players.",
+    "url": "https://theconversation.com/did-australias-cricket-leaders-sandpaper-over-the-truth-new-ball-tampering-revelations-suggest-so-296128",
+    "image": "https://images.theconversation.com/files/770662/original/file-20261108-64-11tffz.jpg?ixlib=rb-4.1.1&rect=0%2C49%2C3562%2C1781&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-11-09T00:12:56Z",
+    "author": "David Rowe, Emeritus Professor of Cultural Research, Institute for Culture and Society, Western Sydney University"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "'Head of the seven kingdoms': Travis Head gets his own Game of Thrones-style Iron Throne made of cricket bats",
     "description": "Australian star Travis Head gets a Game of Thrones-inspired Iron Throne made of cricket bats.",
@@ -70,114 +232,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/d2a9ea58bfa4748ec305398a31c746716c3a1755c444d15ac4b25596504d9c6f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F072eacf716bb606047ac0b2a5d8d8c76",
     "publishedAt": "2026-11-08T12:15:42Z",
     "author": "Anselm Noronha"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Hodge's 140 not out puts West Indies in control vs Bangladesh on 4th day of 2nd test",
-    "description": "SYLHET, Bangladesh (AP) — Kavem Hodge struck 140 not out as West Indies established control in the second and final cricket test against Bangladesh on Sunday in its quest to sweep the series.Complemented by half-centuries from Kevin Wickham (78) and opener Br…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e0c78c7-3b03-423a-9a55-2a22ed1eaf0f",
-    "image": null,
-    "publishedAt": "2026-11-08T11:44:35Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "‘I will let my bat do the talking’: Mukul Choudhary on handling pressure, absorbing advice at LSG",
-    "description": "Mukul Choudhary encountered several hurdles this season but rose to the occasion with outstanding performances in domestic cricket. Despite not being selected for Rajasthan's Ranji Trophy, he shined in the CK Nayudu Trophy. His diligence bore fruit when he wa…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f554e347-bff1-4197-8a30-36cb4b5545c2",
-    "image": null,
-    "publishedAt": "2026-11-08T11:25:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Who is Arjun Rajput? The left-handed batter who came to India's rescue against Pakistan in U19 Asia Cup",
-    "description": "Jalandhar's Arjun Rajput rescued India with a brilliant 107 off 85 balls against Pakistan in the U-19 Asia Cup after the team slipped to 22/3. The 18-year-old has enjoyed an impressive rise, scoring 695 runs in the Vinoo Mankad Trophy. Coming from a humble fa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-is-arjun-rajput-the-left-handed-batter-who-came-to-indias-rescue-against-pakistan-in-u19-asia-cup/articleshow/135657095.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135657493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-08T11:13:45Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IND vs NZ 3rd ODI predicted playing XI: Will Mohammed Siraj replace Arshdeep Singh in Hamilton?",
-    "description": "IND vs NZ 3rd ODI predicted playing XI: Will Mohammed Siraj replace Arshdeep Singh in Hamilton? Check India's team news and bowling combinations.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-3rd-odi-predicted-playing-xi/1b7bc9c1c9a9700fb055eae9",
-    "image": "https://s.yimg.com/lo/mysterio/api/46720de4e3c8039abc2c5f79fae92038f32662c213c67a52f78d75d216650c01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb8e3c810efbd61334aa25ce764c8c656",
-    "publishedAt": "2026-11-08T10:30:31Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "How has Pakistan performed in Rawalpindi in Test cricket? Analysing PAK's record at Rawalpindi Cricket Stadium",
-    "description": "With Pakistan all set for the 1st Test against Sri Lanka, here's a look at how they've performed at Rawalpindi and what's their overall record",
-    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-test-record-rawalpindi-cricket-stadium/320f2ee94e95a25d11e8699f",
-    "image": "https://s.yimg.com/lo/mysterio/api/93cf384d3c4c6679a4422e0f79c32f8922a24f0a0dd5137a3d0702d58260affd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fbad36d1ce87b5d00ab0377382b16d481",
-    "publishedAt": "2026-11-08T10:30:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jemimah Rodrigues to lead Mumbai in Super League stage of Senior Women's T20 Trophy",
-    "description": "Jemimah Rodrigues will captain Mumbai in the Senior Women's T20 Trophy Super League stage in Ahmedabad from November 14. Her unbeaten impact and match-winning 107 off 47 balls against Pondicherry helped Mumbai secure qualification. Head coach Ajay Kadam prais…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jemimah-rodrigues-to-lead-mumbai-in-super-league-stage-of-senior-womens-t20-trophy/articleshow/135656095.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135656597,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-08T10:13:09Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
-    "description": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
-    "url": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2023/12/AP23169422109245-1702480466.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-08T08:57:45Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Will Seddon Park provide another bowler-friendly track? Exploring pitch condition in Hamilton before NZ vs IND 3rd ODI",
-    "description": "Will Seddon Park offer another bowler-friendly track? Explore the Hamilton pitch report for IND vs NZ 3rd ODI.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ecdb2960-f5ed-4c4d-8f77-3ffc64096fc2",
-    "image": null,
-    "publishedAt": "2026-11-08T08:23:51Z",
-    "author": null
-  },
-  {
-    "source": "Fox News",
-    "title": "#948 – Counting Stars: Alley Scorecards & Outfield Strikes",
-    "description": "In today’s episode of The Quiz, we’re testing your knowledge on everything from the fundamentals of the batter’s box to the precise math of the bowling lanes. Can you answer these? The Batter’s Box: In America’s pastime, pitchers battle hitters across counts …",
-    "url": "https://radio.foxnews.com/2026/11/08/948-counting-stars-alley-scorecards-outfield-strikes/",
-    "image": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2025/03/LOGO_600x450_THE_QUIZ_SPORTS_EDITION.png",
-    "publishedAt": "2026-11-08T08:00:01Z",
-    "author": "Connor Markey"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "America’s war on the ICC",
-    "description": "Last month, new US sanctions on the International Criminal Court (ICC) began to take effect. All US-linked companies that provide services to the court face penalties; it has had to find European alternatives to US software, and end its relationship with insu…",
-    "url": "https://biztoc.com/x/4b133d63ad97928a",
-    "image": "https://biztoc.com/cdn/4b133d63ad97928a_s.webp",
-    "publishedAt": "2026-11-08T07:50:59Z",
-    "author": "theweek.com"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Australia's star player Glenn Maxwell retires from international cricket.",
-    "description": "Australia's star player Glenn Maxwell has decided to retire from international cricket. The 38-year-old has announced that he will retire not only from international cricket but also from first-class cricket and List A formats.However, having extended his con…",
-    "url": "https://english.gossiplankanews.com/2026/11/australias-star-player-glenn-maxwell.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sJMMYCbtVFbyuCOT17kKRXL0nA_llK_dijrZ58OV5P9tRGla_M_Vg-qS8BB2evNAB8HZ9sAtpdZnV7VpqHME1ScV3aX-9uYN_8zhlZzHVZggWg1j4lN6vyXhw1Biw_S5Vap04Y4vVk2ero7LFv3drydmV4MAHE8GCbzQ=w1600",
-    "publishedAt": "2026-11-08T07:15:25Z",
-    "author": "noreply@blogger.com (Unknown)"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Major ball-tampering incidents in cricket history listed: Sachin Tendulkar, Rahul Dravid to 'Sandpaper Gate'",
-    "description": "Explore the major ball-tampering incidents in cricket history, from Sachin Tendulkar and Rahul Dravid to Sandpapergate and Fakhar Zaman, with full ban details.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f36efad-8e13-432f-bf85-3c6211f28b13",
-    "image": null,
-    "publishedAt": "2026-11-08T07:12:12Z",
-    "author": null
   }
 ]
 ;
