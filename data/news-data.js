@@ -1,5 +1,167 @@
 window.cricketNews = [
   {
+    "source": "Sporting News",
+    "title": "Seddon Park, Hamilton pitch report, ODI records and average scores ahead of New Zealand vs. India 3rd match",
+    "description": "With the third ODI taking the Men in Blue to the Seddon Park, here's a look at what Team India can expect from Hamilton as they look to seal the series against NZ with their third win.",
+    "url": "https://www.sportingnews.com/in/cricket/news/seddon-park-hamilton-pitch-report-odi-records-scores/552d93a07c27469bfdebbed1",
+    "image": "https://s.yimg.com/lo/mysterio/api/5d93f40a9d3badeaab0c6c6deb9d54df32e0f9ce787ca4106e62c706024edec6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5a08a05de55eb426a8c54ff5b3132324",
+    "publishedAt": "2026-11-09T16:22:30Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Sporting News",
+    "title": "New Zealand vs. India prediction, team news, pitch report and betting tips for 3rd ODI",
+    "description": "Read our New Zealand vs. India 3rd ODI prediction with team news, pitch report, probable XIs and betting tips to help you back the right side.",
+    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-vs-india-prediction-pitch-report-betting-3rd-odi/2d84f34b4fb5fb739b3a82db",
+    "image": "https://s.yimg.com/lo/mysterio/api/bc2f3d7aac78e7b73b1f0eeb98ab4efcaf7ecbad53aae16f49d7850f015c9c9f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Facbf3dea7c04432286b542c98d743c05",
+    "publishedAt": "2026-11-09T15:53:26Z",
+    "author": "Ajay Gandhar"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Mushfiqur Rahim makes Bangladesh cricket history, becomes first to score 7,000 Test runs",
+    "description": "Mushfiqur Rahim has made history by becoming the first Bangladeshi batsman to cross the 7,000-run mark in Test cricket. This memorable feat was achieved during the ongoing second Test match against West Indies in Sylhet. Known for his remarkable consistency, …",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e38631ae-bbd0-48e9-a6bc-417a26f9dec7",
+    "image": null,
+    "publishedAt": "2026-11-09T15:24:00Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Rohit Sharma’s record in Hamilton: How the Hitman has performed at Seddon Park in all formats",
+    "description": "With the third ODI between New Zealand and India taking the Men in Blue to Hamilton, here's a look at how Rohit Sharma has performed at the Seddon Park.",
+    "url": "https://www.cricketnews.com/en/cricket/news/rohit-sharma-record-hamilton-performed-seddon-park-all-formats/2ee9d503cd0c299d4305108d",
+    "image": "https://s.yimg.com/lo/mysterio/api/d1cec25d827fdb540cc77e84fbf3d1c91e4d8f8960f0d4a4461f22f216b56423/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0066fa242b740f5fb6baf7812cb7af4b",
+    "publishedAt": "2026-11-09T14:38:39Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "USA Today",
+    "title": "Ex-Raider Marcel Reece: RB Ashton Jeanty is closer than you think",
+    "description": "Former Las Vegas Raiders Pro Bowler Marcel Reece explains why he thinks RB Ashton Jeanty is closer to his breakout than fans think.",
+    "url": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2026/11/09/ex-raider-marcel-reece-rb-ashton-jeanty-is-closer-than-you-think/92687739007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/5ae9691a0ec9a0c320e228f58c8a0692a2cf3656c0ae1bb1c0df72e565f7f8ce/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flas_vegas_raiders_wire_usa_today_sports_articles_842%2F4101432fb8c560e898c11d51f20d0f37.jpg",
+    "publishedAt": "2026-11-09T14:02:08Z",
+    "author": "Justin Melo, Raiders Wire"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Virat Kohli’s record in Hamilton: How the India talisman has performed at Seddon Park in all formats",
+    "description": "With India poised to clinch the series against New Zealand at Seddon Park, here's a look at Virat Kohli's record in Hamilton ahead of the 3rd ODI.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-kohli-record-hamilton-performed-seddon-park-all-formats/ceff016111ec52a2a00e0f8f",
+    "image": "https://s.yimg.com/lo/mysterio/api/ab0472ebcf986b56c80a9917568d5373abca1aeeb1520c72f900c65efb77c03a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Facbf3dea7c04432286b542c98d743c05",
+    "publishedAt": "2026-11-09T13:24:48Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "SMAT: SKY named Mumbai captain; Shardul returns from finger injury",
+    "description": "The Mumbai Cricket Association has appointed Suryakumar Yadav as captain for the upcoming Syed Mushtaq Ali Trophy. SKY will aim to regain his place in the Indian team with strong performances. Shardul Thakur returns after recovering from a finger fracture, wh…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/smat-suryakumar-yadav-named-mumbai-captain-shardul-thakur-returns-from-finger-injury/articleshow/135682870.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135682952,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T12:55:36Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "Juventus.com",
+    "title": "JUVENTUS RECOGNISED WITH HONG KONG–ITALY PARTNERSHIP AWARD",
+    "description": "Juventus has been honoured with the Hong Kong–Italy Partnership Award at the ICC Business Awards, organised by the Italian Chamber of Commerce in Hong Kong and Macao, recognising the Club’s contr...",
+    "url": "https://www.juventus.com/en/news/articles/juventus-recognised-with-hong-kong-italy-partnership-award",
+    "image": "https://s.yimg.com/lo/mysterio/api/3ed53e81dc0c70f92aa6dc66635b468034d8fe9cd2c25e20db4af964a3752213/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjuventus_football_club_articles_524%2Fdff42147beaae58dfdf6ec3f3600abb1.jpg",
+    "publishedAt": "2026-11-09T12:13:00Z",
+    "author": "Juventus Football Club"
+  },
+  {
+    "source": "BBC News",
+    "title": "England clear way for Carse return and drop Bashir",
+    "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cw8dzd953nq5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/d19f09d6476d2dc36eeb0a5a47ebc09e92f30102d2464bfeaca50c71b9c18fd0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8d523e1455bf509480a87b0455771420.jpg",
+    "publishedAt": "2026-11-09T12:07:42Z",
+    "author": "Stephan Shemilt - Cricket correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "England clear way for Carse return and drop Bashir",
+    "description": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1bb6/live/f5827880-dc32-11f1-958b-3f65a8ba2dc3.jpg",
+    "publishedAt": "2026-11-09T12:00:30Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'What justice is it to send KL Rahul at No.6?': Former India selector raises question amid New Zealand ODIs",
+    "description": "KL Rahul’s batting position sparked debate after India’s second ODI against New Zealand, as Krishnamachari Srikkanth criticised sending Axar Patel ahead of him. Axar managed just seven runs, while Rahul looked comfortable. Srikkanth called it unfair to Rahul,…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/what-justice-is-it-to-send-kl-rahul-at-no-6-former-india-selector-raises-question-amid-new-zealand-odis/articleshow/135680131.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135680351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T11:25:03Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+    "description": "Russia has targeted multiple electrical substations in Ukraine amid ongoing military actions. Ukrainian forces have hit a major oil refinery in Russia, crippling its supply capabilities. Diplomatic talks between Russia and Ukraine are scheduled with U.S. medi…",
+    "url": "https://economictimes.indiatimes.com/news/defence/a-day-before-us-brokered-talks-russia-and-ukraine-batter-each-other-with-long-range-strikes/articleshow/135680214.cms",
+    "image": "https://img.etimg.com/thumb/msid-135680212,width-1200,height-900,imgsize-204072,overlay-etdefence/articleshow.jpg",
+    "publishedAt": "2026-11-09T11:22:15Z",
+    "author": "AP"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "PV Sindhu Celebrates Diwali With Hardik Pandya, Mahieka",
+    "description": "Badminton star PV Sindhu celebrated Diwali with cricketer Hardik Pandya and his girlfriend Mahieka Sharma, sharing a festive photograph on Instagram.",
+    "url": "https://www.rediff.com/sports/report/diwali-delight-pv-sindhu-celebrates-diwali-with-hardik-pandya-mahieka-sharma/20261109.htm",
+    "image": "https://im.rediff.com/1200-630/cricket/2026/nov/09sindhu-hardik-pandya-insta.jpg",
+    "publishedAt": "2026-11-09T11:18:31Z",
+    "author": "sports@rediff.co.in (REDIFF SPORTS)"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Towhid Hridoy's 82 helps Bangladesh to salvage a draw vs West Indies in 2nd test",
+    "description": "SYLHET, Bangladesh (AP) — Towhid Hridoy hit 82 as Bangladesh salvaged a draw against West Indies in the second cricket test on Monday.Hridoy who struck an epic 242 not out in the first innings, steered the side to 184-4 before the bad light forced stumps, whi…",
+    "url": "https://sports.yahoo.com/articles/towhid-hridoys-82-helps-bangladesh-111828349.html",
+    "image": null,
+    "publishedAt": "2026-11-09T11:18:28Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Abcnews.com",
+    "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+    "description": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery",
+    "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+    "image": "https://i.abcnewsfe.com/a/8df85207-1d50-4d9a-8756-355ff244d574/wirestory_514ff90fc04fae340898967e6655151c_16x9.jpg?w=1600",
+    "publishedAt": "2026-11-09T11:14:22Z",
+    "author": "SUSIE BLANN Associated Press"
+  },
+  {
+    "source": "Ozbargain.com.au",
+    "title": "[Pre-Order] Sabr: Usman Khawaja Biography $29 +Delivery ($0 Prime/ $59 Spend) @ Amazon AU",
+    "description": "A memoir of resilience, identity, courage, and one of the most remarkable comebacks in Australian Test cricket history. ",
+    "url": "https://www.ozbargain.com.au/node/982283",
+    "image": "https://files.ozbargain.com.au/n/83/982283l.jpg?h=9bf4dee6",
+    "publishedAt": "2026-11-09T10:11:37Z",
+    "author": "deanmoriarty"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mushfiqur Rahim makes Bangladesh cricket history, becomes first to score 7,000 Test runs",
+    "description": "Mushfiqur Rahim has made history by becoming the first Bangladeshi batsman to cross the 7,000-run mark in Test cricket. This memorable feat was achieved during the ongoing second Test match against West Indies in Sylhet. Known for his remarkable consistency, …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mushfiqur-rahim-makes-bangladesh-cricket-history-becomes-first-to-score-7000-test-runs/articleshow/135677890.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135678044,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-09T09:54:27Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL: Pokhara Avengers set Karnali Yaks a target of 218 runs",
+    "description": "KATHMANDU: Pokhara Avengers have set Karnali Yaks a target of 218 runs in the first match of the Nepal Premier League (NPL) cricket tournament today. After winning the toss and electing to bat first at the Tribhuvan University International Cricket Ground in …",
+    "url": "https://english.khabarhub.com/2026/09/575029/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/karnali-pokhara.png",
+    "publishedAt": "2026-11-09T09:28:15Z",
+    "author": "Khabarhub"
+  },
+  {
     "source": "ABC News (AU)",
     "title": "Breaking: Warner says Khawaja's ball-tampering claim '100 per cent accurate'",
     "description": "David Warner throws his full support behind his childhood friend, Usman Khawaja, while slamming Cricket Australia's investigation into ball tampering.",
@@ -52,186 +214,6 @@ window.cricketNews = [
     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/14/thumb/featurecrop/1200X628/1773491745-1213.jpg",
     "publishedAt": "2026-11-09T06:04:14Z",
     "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "NZ call up Kristian Clarke as injury-hit squad braces for third India ODI",
-    "description": "Fast bowler Kristian Clarke has been called up to the New Zealand squad as cover for Blair Tickner ahead of the third ODI against India here on Tuesday as the home team battles multiple injury concerns in the ongoing series.\nPacer Lockie Ferguson has been rul…",
-    "url": "https://www.business-standard.com/cricket/news/nz-call-up-kristian-clarke-as-injury-hit-squad-braces-for-third-india-odi-126110900059_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/09/thumb/featurecrop/1200X628/1794203022-8974.jpg",
-    "publishedAt": "2026-11-09T05:44:16Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "KL Rahul: The all-weather ODI batter keeping India steady",
-    "description": "KL Rahul's adaptability has made him India's dependable middle-order pillar in ODIs. From rebuilding innings to accelerating against different bowling attacks, the wicketkeeper-batter has mastered the art of switching roles. As India prepare for the challenge…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kl-rahul-the-all-weather-odi-batter-keeping-india-steady/articleshow/135671712.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135671869,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-09T05:18:14Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Cricket’s sandpaper scandal: Usman Khawaja’s claims put Pat Cummins under scrutiny – Opinion",
-    "description": "OPINION: Australia's captain cannot remain silent after revelations from Usman Khawaja.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/cape-town-sandpaper-scandal-khawajas-claims-put-pat-cummins-under-scrutiny-opinion/EO42E7Q24VBEPKYHXKNGILMDAY/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/2RR7GF64XFDBZJNNAQV46WAVIU.jpg?auth=14ae8f8085bd7923358d52829f9126132d0d243c0dd317255b41118b3268851f&width=1200&height=675&quality=70&focal=643%2C280&smart=false",
-    "publishedAt": "2026-11-09T05:02:00Z",
-    "author": "Daily Telegraph UK"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Sri Lanka captain Mendis wins toss, sends a new-look Pakistan lineup in to bat in 1st cricket test",
-    "description": "RAWALPINDI, Pakistan (AP) — Sri Lanka captain Kusal Mendis won the toss and elected to bowl first Monday in the first cricket test against a new-look Pakistan lineup containing four players on debut.Arafat Minhas, a spinning allrounder and player of the recen…",
-    "url": "https://sports.yahoo.com/articles/sri-lanka-captain-mendis-wins-044400958.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/31cf9146806a1f7118d425498111bbc03dc8d09b0d98c7d76d1f90f5dd72732b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1fe05e14e6e80c8f89f15fdcdcaa4734.jpg",
-    "publishedAt": "2026-11-09T04:44:00Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Sacrifice runs for Virat Kohli’: Sunil Gavaskar's big take on pressure facing Shubman Gill and Shreyas Iyer",
-    "description": "Sunil Gavaskar recently commented on Virat Kohli's pursuit of 100 international centuries during an ODI match. Kohli contributed significantly to India's victory but fell short of his century with a score of 74 runs. Gavaskar suggested a teammate might help K…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/sacrifice-runs-for-virat-kohli-sunil-gavaskars-big-take-on-pressure-facing-shubman-gill-and-shreyas-iyer/articleshow/135670891.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135670983,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-09T04:36:17Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "New Zealand vs India 3rd ODI: Playing 11, live toss time (IST), streaming",
-    "description": "While India's bowling unit has emerged as the biggest positive from the first two matches, the batting performances have left room for improvement",
-    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-3rd-odi-playing-11-live-toss-time-ist-streaming-126110900175_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/09/thumb/resize/1200X628/1794197826-7689.jpg",
-    "publishedAt": "2026-11-09T04:17:15Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Injury crisis hits NZ ahead of 3rd India ODI; Ferguson ruled out, Clarke called up",
-    "description": "New Zealand are experiencing significant challenges regarding player injuries ahead of the third ODI against India. Lockie Ferguson is ruled out of the final two ODIs due to a calf injury he sustained previously. Blair Tickner is also unable to play immediate…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/injury-crisis-hits-new-zealand-ahead-of-third-india-odi-lockie-ferguson-ruled-out-kristian-clarke-called-up/articleshow/135670295.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135670564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-09T04:08:17Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Australia axe batter Marnus Labuschagne for New Zealand tests",
-    "description": "The batsman's highest score in the three recent tests against South Africa was 39.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/australia-axe-batter-marnus-labuschagne-for-new-zealand-tests/IYJKZ564PJH2DIP2SLWQ2ZSIZ4/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/IHKAE24FQZAZLGBC2ZHUQ5KUFA.jpg?auth=262461f9934278310a88b4f133ce711d39474a0594aaf2f99559039d31b656d1&width=1200&height=675&quality=70&focal=1414%2C459&smart=false",
-    "publishedAt": "2026-11-09T02:45:42Z",
-    "author": "AFP"
-  },
-  {
-    "source": "Github.io",
-    "title": "Show HN: ICC display calibration QR code markers",
-    "description": "Article URL: https://iccqr.github.io\nComments URL: https://news.ycombinator.com/item?id=50420362\nPoints: 1\n# Comments: 0",
-    "url": "https://iccqr.github.io",
-    "image": null,
-    "publishedAt": "2026-11-09T02:43:53Z",
-    "author": "snshn"
-  },
-  {
-    "source": "The Times of India",
-    "title": "PAK vs SL: New Pakistan Test squad ready to fight Sri Lanka, says Babar Azam",
-    "description": "Babar Azam expresses confidence in the Pakistan cricket team's chances as they gear up for a Test series against Sri Lanka. After a less than stellar performance in England, the team has welcomed fresh talent while sidelining some seasoned players. Azam is de…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/pak-vs-sl-new-pakistan-test-squad-ready-to-fight-sri-lanka-says-babar-azam/articleshow/135668058.cms",
-    "image": "https://img.etimg.com/thumb/msid-135668057,width-1200,height-900,imgsize-153972,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-09T02:03:54Z",
-    "author": "AFP"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Arshdeep Singh, Gurnoor Brar, Auqib Nabi to stay back for India’s Test preparations",
-    "description": "India has decided to retain pacers Arshdeep Singh, Gurnoor Brar, and Auqib Nabi for Test preparations. Batting coach Sitanshu Kotak stated that the ODI series conditions have been beneficial for the upcoming Test matches. A preparatory camp for Test players i…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/arshdeep-singh-gurnoor-brar-auqib-nabi-to-stay-back-for-indias-test-preparations/articleshow/135667559.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135667608,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-09T01:23:25Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Conversation Africa",
-    "title": "Did Australia’s cricket leaders sandpaper over the truth? New ball tampering revelations suggest so",
-    "description": "One of sport’s greatest cheating scandals has erupted again. It may have far-reaching ramifications for Cricket Australia and several players.",
-    "url": "https://theconversation.com/did-australias-cricket-leaders-sandpaper-over-the-truth-new-ball-tampering-revelations-suggest-so-296128",
-    "image": "https://images.theconversation.com/files/770662/original/file-20261108-64-11tffz.jpg?ixlib=rb-4.1.1&rect=0%2C49%2C3562%2C1781&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-11-09T00:12:56Z",
-    "author": "David Rowe, Emeritus Professor of Cultural Research, Institute for Culture and Society, Western Sydney University"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'Head of the seven kingdoms': Travis Head gets his own Game of Thrones-style Iron Throne made of cricket bats",
-    "description": "Australian star Travis Head gets a Game of Thrones-inspired Iron Throne made of cricket bats.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f446f0fc-c60f-4418-b72c-bdf237087d59",
-    "image": null,
-    "publishedAt": "2026-11-08T23:00:01Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Win toss and bat first once: Former India bowler Tinu Yohannan on what India must do in NZ ODIs as part of 2027 World Cup preparation",
-    "description": "India have taken a 2-0 lead in the five-match ODI series against New Zealand but a former India bowler feels Shubman Gill’s side needs to test themselves a bit further as they ramp up their 2027 World Cup preparation.",
-    "url": "https://www.cricketnews.com/en/cricket/news/win-toss-bat-first-tinu-yohannan-what-india-must-do-nz-odis-2027-world-cup-preparation/07c66fae09cafd2aa63a901b",
-    "image": "https://s.yimg.com/lo/mysterio/api/265909db8d8dd2c89d7edbe22602d6f36d66200c2db9aaeb59f2e7af1771fdda/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3e78de2e5c4e7b83dcfe4e7009c1d6db",
-    "publishedAt": "2026-11-08T17:37:15Z",
-    "author": "Ashwin Muralidharan"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Disabled cricket player Manjunath Marathe passes away",
-    "description": "Specially-abled cricketer Manjunath Marathe, 49, of Hubballi, dies; he represented India vs England in 2002 and captained Karnataka’s disabled team.",
-    "url": "https://timesofindia.indiatimes.com/city/hubballi/disabled-cricket-player-manjunath-marathe-passes-away/articleshow/135662704.cms",
-    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-11-08T16:32:08Z",
-    "author": "TIMES NEWS NETWORK"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Can any player refuse to be traded in IPL? Explaining BCCI's consent forms and rules for denying a trade",
-    "description": "Here's a look at BCCI's consent forms and rules for denying a trade and if a player can refuse to be traded to another team.",
-    "url": "https://www.cricketnews.com/en/cricket/news/can-any-player-refuse-be-traded-ipl-explaining-bcci-consent-forms-rules/96b9ab616aa292ad587b412e",
-    "image": "https://s.yimg.com/lo/mysterio/api/9192e0ca16a7d50abdbc61bcdf9bd966fd8b40c5f8df9c99f19893f2bad4cf35/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd4fd5403c6d5e80527f1fabdd48f1823",
-    "publishedAt": "2026-11-08T16:03:22Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘He's a tough guy’: Former NZ star hails India coach Gautam Gambhir for leading cricket's most 'scrutinised' team",
-    "description": "Former New Zealand pacer Kyle Mills has hailed India coach Gautam Gambhir, calling him a tough taskmaster and a tactician built for cricket's most scrutinised job.",
-    "url": "https://www.cricketnews.com/en/cricket/news/tough-guy-kyle-mills-hails-gautam-gambhir-india-most-scrutinised-team/0e75db919d2160d7574123aa",
-    "image": "https://s.yimg.com/lo/mysterio/api/a39b3b1839add7df13499138b618d55d3c8353b6f85ee39b41e929e56e8b7e8f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa653f2c321345feb59b2d2b4fb8d46b2",
-    "publishedAt": "2026-11-08T15:52:44Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "MI retention list for IPL 2027 auction: Full list of retained and released players by Mumbai Indians ahead of mini-auction",
-    "description": "Check out Mumbai Indians' full list of retained and released players ahead of the IPL 2027 mini auction.",
-    "url": "https://www.cricketnews.com/en/ipl/news/mi-retention-list-ipl-2027-mini-auction-mumbai-indians/8615613e22b776ccda03e696",
-    "image": "https://s.yimg.com/lo/mysterio/api/351fd2356894e0ada1d9b98f81ee1b5f10c1665b7732d5ce3a507a7125fec566/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5c8438cf8c3b6a509f34bcb280f1a9d3",
-    "publishedAt": "2026-11-08T14:30:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Hardik Pandya-Arshdeep Singh trade: What do MI and PBKS stand to gain from the deal",
-    "description": "With reports of a completed trade to bring in Arshdeep Singh in exchange for Hardik Pandya, here's what MI could gain from signing the PBKS bowler.",
-    "url": "https://www.cricketnews.com/en/cricket/news/hardik-pandya-arshdeep-singh-trade-what-do-mi-and-pbks-stand-gain-deal/bc8e5462062f406746019b06",
-    "image": "https://s.yimg.com/lo/mysterio/api/bf7a3bb44a88a8d8c9a68a481b3feacbcfa02fa3f6c0f2d20e9249d4c3b2e64d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F95d6bc0b3764c3a3161a6db2349cda08",
-    "publishedAt": "2026-11-08T12:32:24Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "CSK retention list for IPL 2027 auction: Full list of retained and released players by Chennai Super Kings ahead of mini auction",
-    "description": "Check out Chennai Super Kings' full list of retained and released players ahead of the IPL 2027 mini auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/csk-retention-list-ipl-2027-mini-auction-chennai-super-kings/ca7a3cf085c4f79b5924e0af",
-    "image": "https://s.yimg.com/lo/mysterio/api/d2a9ea58bfa4748ec305398a31c746716c3a1755c444d15ac4b25596504d9c6f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F072eacf716bb606047ac0b2a5d8d8c76",
-    "publishedAt": "2026-11-08T12:15:42Z",
-    "author": "Anselm Noronha"
   }
 ]
 ;
