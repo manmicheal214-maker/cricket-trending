@@ -1,5 +1,230 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "KKR retention list for IPL 2027 auction: Full list of retained and released players by Kolkata Knight Riders ahead of mini-auction",
+    "description": "Check out Kolkata Knight Riders' full list of retained and released players ahead of the IPL 2027 mini auction.",
+    "url": "https://www.cricketnews.com/en/ipl/news/kkr-retention-list-ipl-2027-auction-mini-kolkata-knight-riders/22231413574addcfd766ae17",
+    "image": "https://s.yimg.com/lo/mysterio/api/bb398b10580452ae625855bc9878ab697e05466700b6b1d0689141b8fac04160/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F45b2a8fee695749d0dcf163d0a778177",
+    "publishedAt": "2026-11-12T16:00:02Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "DC retention list for IPL 2027 auction: Full list of retained and released players by Delhi Capitals ahead of mini-auction",
+    "description": "The Cricket News takes a look at the full list of retained and released players by Delhi Capitals ahead of the mini-auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/dc-retention-list-ipl-2027-mini-auction-players-delhi-capitals/4539cc70c55cfe83dcab542c",
+    "image": "https://s.yimg.com/lo/mysterio/api/3659a2bab611656d0776c21995bc9d3a4c0aa4f973dac5184d59a6246f27f305/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7061908222dcef0de995052836671024",
+    "publishedAt": "2026-11-12T15:20:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Need more clarity': Mohsin Naqvi shares big update on Mohammad Rizwan, Imam-ul-Haq probe",
+    "description": "Pakistan Cricket Board chairman Mohsin Naqvi confirmed that investigations into players Mohammad Rizwan and Imam-ul-Haq are nearing completion and findings are expected soon. Both players are allowed to continue participating in domestic cricket during the in…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/need-more-clarity-mohsin-naqvi-shares-big-update-on-mohammad-rizwan-imam-ul-haq-probe/articleshow/135774133.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135774215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T15:01:58Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Wisden Cricket Monthly - Issue 102 2026",
+    "description": "Founded in 1864 by the Victorian cricketer-cum-entrepreneur John Wisden - a tiny fast bowler from Brighton who is still the only player to have bowled all 10 batsmen in the same first-class innings - the Almanack has long been the most prestigious name in spo…",
+    "url": "https://post.rlsbb.cc/wisden-cricket-monthly-issue-102-2026/",
+    "image": null,
+    "publishedAt": "2026-11-12T15:01:12Z",
+    "author": "saamaan1@yahoo.com (Master)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mitchell Marsh reveals Australia's preferred top six for 2027 ODI World Cup ahead of England series",
+    "description": "Australia is in full swing, gearing up for the 2027 ODI World Cup and assessing their batting options for future matches. Stand-in captain Mitchell Marsh hints at a solid core that could feature heavily. The opening ODI against England in Perth is set to reve…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-marsh-reveals-australias-preferred-top-six-for-2027-odi-world-cup-ahead-of-england-series/articleshow/135773131.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135773446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T14:31:56Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Northants batter Bartlett agrees contract extension",
+    "description": "Northamptonshire batter George Bartlett signs a one-year contract extension that will see him remain with the county until the end of the 2028 season.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65f43cea-c019-47bc-a7d2-5deb66acd193",
+    "image": null,
+    "publishedAt": "2026-11-12T13:12:51Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "India's Pant clears fitness test ahead of New Zealand tests",
+    "description": "Nov 12 : India wicketkeeper-batter Rishabh Pant has passed a fitness test and left to join the national team in New Zealand for a two-test series, media reports said on Thursday.The 29-year-old, who last played for India in August, was sidelined with a left-s…",
+    "url": "https://www.channelnewsasia.com/sport/indias-pant-clears-fitness-test-ahead-new-zealand-tests-6546226",
+    "image": "https://dam.mediacorp.sg/image/upload/s--z375jnrJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T123033Z_1_LYNXNPEMAB19R_RTROPTP_3_CRICKET-IPL-LSG-PBKS.JPG?itok=5-Trs5qL",
+    "publishedAt": "2026-11-12T12:30:33Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI sponsors air fare for India's visually challenged cricket squad",
+    "description": "Durga Rao Tompaki will lead a 17-member visually challenged Indian cricket team at the Asia Cup. The tournament is set to take place in Dhaka from November 15 to 20. India aims to reclaim the title they last won a decade ago. The Cricket Association for the B…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-sponsors-air-fare-for-indias-visually-challenged-cricket-squad/articleshow/135769555.cms",
+    "image": "https://img.etimg.com/thumb/msid-135769593,width-1200,height-900,imgsize-67912,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-12T12:27:23Z",
+    "author": "PTI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Simon Taufel returns to lead ILT20 match officials' panel for Season 5",
+    "description": "Simon Taufel will return as match referee for the fifth season of the International League T20. The tournament will begin on November 21 with a match between Desert Vipers and MI Emirates. Updated playing conditions will be introduced to improve the pace of t…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/simon-taufel-returns-to-lead-ilt20-match-officials-panel-for-season-5/articleshow/135769087.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135769317,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T12:18:11Z",
+    "author": "TOI Sports Desk"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "What playing cricket for the U.S. taught me about the hardest decisions CEOs face",
+    "description": "Long before I became a CEO, I played international cricket for the United States. The lesson I draw on most in business is this: Before deciding how aggressively to play, you have to read the pitch.\nIn cricket, the pitch is the strip of ground at the center o…",
+    "url": "https://biztoc.com/x/f34f2184d1996eea",
+    "image": "https://biztoc.com/cdn/f34f2184d1996eea_s.webp",
+    "publishedAt": "2026-11-12T12:08:41Z",
+    "author": "fortune.com"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Ramayana: Rise of a Legend' actor Addinath Kothare recalls being Ranbir Kapoor’s schoolmate; says they played cricket together before reuniting as brothers in Nitesh Tiwari's epic film",
+    "description": "Addinath Kothare reflected on his childhood connection with co-star Ranbir Kapoor during promotional activities. They were schoolmates, playing cricket together in their early lives, which Kothare reminisced about. An interesting family connection emerged, as…",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-actor-addinath-kothare-recalls-being-ranbir-kapoors-schoolmate-says-they-played-cricket-together-before-reuniting-as-brothers-in-nitesh-tiwaris-epic-film/articleshow/135767907.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135768107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T11:44:24Z",
+    "author": "TOI Entertainment Desk"
+  },
+  {
+    "source": "Fortune",
+    "title": "What playing cricket for the U.S. taught me about the hardest decisions CEOs face",
+    "description": "“Think bigger” is not a strategy.",
+    "url": "https://fortune.com/2026/11/12/ceo-read-the-pitch-cricket-bluebeam-usman-shuja/",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/usman-shuja.jpg?resize=1200,600",
+    "publishedAt": "2026-11-12T11:30:00Z",
+    "author": "Usman Shuja"
+  },
+  {
+    "source": "Sporting News",
+    "title": "Where to watch Australia vs. England ODI series: Live stream, TV channel, start time for first match in Perth",
+    "description": "Australia kicks off its home summer cricket schedule with a three-match ODI series against England with the first match to be played in Perth.",
+    "url": "https://www.sportingnews.com/us/cricket/news/watch-australia-england-odi-stream-tv-time-match-one-perth/c4a818435b501fd1d2dc2ff5",
+    "image": "https://s.yimg.com/lo/mysterio/api/902cfd0fc5bd668abf42816c95819594348b345d2c3a6fe142432151471685e0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7b24b2518ec3827b80b0b0a302a27fc4",
+    "publishedAt": "2026-11-12T10:53:33Z",
+    "author": "Peter Maniaty"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kusal Mendis scripts history, joins Virat Kohli, Steve Smith and Joe Root in elite club",
+    "description": "In a remarkable feat, Kusal Mendis has etched his name in cricket history as the first Sri Lankan to score a century on debut as Test captain, amassing an impressive 117 not out. His stellar performance came at a crucial moment, aiding Sri Lanka in recovering…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kusal-mendis-scripts-history-joins-virat-kohli-steve-smith-and-joe-root-in-elite-club/articleshow/135765621.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135765961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T10:47:12Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Sporting News",
+    "title": "New Zealand vs. India 4th ODI weather forecast: Chances of rain at Bay Oval, Tauranga",
+    "description": "With India looking to seal the series at Mount Maunganui, here's a look at what kind of weather both teams can expect at the Bay Oval for the fourth ODI.",
+    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-india-4th-odi-weather-forecast-chances-rain-bay-oval-tauranga/cde5c66c79a29efe49997602",
+    "image": "https://s.yimg.com/lo/mysterio/api/0de5936f7a15d9dcc2da352ae128cd523de6be4e4628f69d4e1958266d3ae369/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3e78de2e5c4e7b83dcfe4e7009c1d6db",
+    "publishedAt": "2026-11-12T10:30:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘It could well be KL Rahul’: Ex-India cricketer on Delhi Capitals captaincy plans after Rishabh Pant trade",
+    "description": "Aakash Chopra has raised crucial points about the Delhi Capitals as they gear up for the IPL season. He expressed worries over the unresolved captaincy situation and questioned the efficiency of their bowling attack. Moreover, Chopra suggested that Rishabh Pa…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-could-well-be-kl-rahul-ex-india-cricketer-on-delhi-capitals-captaincy-plans-after-rishabh-pant-trade/articleshow/135763551.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135763726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T09:59:26Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Not Shubman Gill, Shreyas Iyer to lead India in 4th and 5th ODI against New Zealand; here's why",
+    "description": "India lead 2-0 in the series and will look to seal it with a win in the remaining two matches. New Zealand, meanwhile, need to win both games to draw the series after the third ODI was abandoned.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-shubman-gill-shreyas-iyer-to-lead-india-in-4th-and-5th-odi-against-new-zealand-heres-why/articleshow/135763636.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135763735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T09:50:23Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "GT retention list for IPL 2027 auction: Full list of retained and released players by Gujarat Titans ahead of mini-auction",
+    "description": "Check out Gujarat Titans' full list of retained and released players ahead of the IPL 2027 mini auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/gt-retention-list-ipl-2027-auction-retained-released-players/36d51a22ec74508999712789",
+    "image": "https://s.yimg.com/lo/mysterio/api/152cda19c3668a10c04ccf88af6cac0741dddec411df023ebc156b3820cdc97c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5028fe95e41e4e43e025a41816cce82d",
+    "publishedAt": "2026-11-12T09:50:02Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Can't really target anyone individually': Tim Seifert explains why India's bowling attack has troubled New Zealand",
+    "description": "New Zealand's batters are struggling against India's consistent and varied pace attack during the ongoing ODI series. Tim Seifert has acknowledged the team's difficulties in targeting Indian bowlers due to their collective strength and discipline. Despite tra…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/cant-really-target-anyone-individually-tim-seifert-explains-why-indias-bowling-attack-has-troubled-new-zealand/articleshow/135763482.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135763746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T09:38:28Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ness Wadia backs Juhi Chawla's proposal to start IPL in January, says cricket calendar must allow change",
+    "description": "Ness Wadia agrees with Juhi Chawla's suggestion of starting the IPL in January, stressing that it is reliant on the cricketing schedule worldwide. He believes that an earlier start could ease challenges posed by heat and rain in typical months. While he appre…",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ness-wadia-backs-juhi-chawlas-proposal-to-start-ipl-in-january-says-cricket-calendar-must-allow-change/articleshow/135763511.cms",
+    "image": "https://img.etimg.com/thumb/msid-135763628,width-1200,height-900,imgsize-25936,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-12T09:33:12Z",
+    "author": "PTI"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Pokhara set 133-run target for Biratnagar in NPL",
+    "description": "KATHMANDU: Pokhara Avengers have set a target of 133 runs for Biratnagar Kings in the third edition of the Nepal Premier League (NPL). Batting first after winning the toss at the Tribhuvan University International Cricket Ground in Kirtipur, Pokhara were bowl…",
+    "url": "https://english.khabarhub.com/2026/12/575347/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/NPL-2.jpg",
+    "publishedAt": "2026-11-12T09:30:06Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "SRH retention list for IPL 2027 auction: Full list of retained and released players by Sunrisers Hyderabad ahead of mini-auction",
+    "description": "Check out Sunrisers Hyderabad's full list of retained and released players ahead of the IPL 2027 mini auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/srh-retention-list-ipl-2027-auction-retained-released-players/bc4ccced79ee397ebbcc864b",
+    "image": "https://s.yimg.com/lo/mysterio/api/9be7ed70bda857da7852e27caf1f736a42348e5521b4945ef67e240d8ac7e1a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F01fbac8c462313170681de2fc422200c",
+    "publishedAt": "2026-11-12T09:17:49Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "BBC News",
+    "title": "England legend Anderson, 44, signs for Surrey",
+    "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6879g5z0v0wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/85b3afac6c4cd832103735cb84980180d3f213b2ce2f6e5b19ac6742775b18b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa1965581aecc83064c8a4680affd58ea.jpg",
+    "publishedAt": "2026-11-12T09:00:57Z",
+    "author": "Stephan Shemilt - Cricket Correspondent"
+  },
+  {
+    "source": "BBC News",
+    "title": "England legend Anderson, 44, signs for Surrey",
+    "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8c6/live/b2936f70-de76-11f1-9115-cfe6d179af3a.jpg",
+    "publishedAt": "2026-11-12T09:00:52Z",
+    "author": "Stephan Shemilt"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Australia, England set for ODI series opener in Perth",
+    "description": "Australia is gearing up to clash with England in an exciting three-match ODI series commencing at Perth Stadium this Friday. Captains Mitchell Marsh and Harry Brook recently revealed the trophy during a charming ceremony, complete with tea. The opening match …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-england-set-for-odi-series-opener-in-perth/articleshow/135760656.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135760741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T07:53:45Z",
+    "author": "TOI Sports Desk"
+  },
+  {
     "source": "The Times of India",
     "title": "Hardik Pandya's long-term Punjab Kings move will support Shreyas Iyer, says Ness Wadia",
     "description": "Punjab Kings co-owner Ness Wadia expressed confidence in Hardik Pandya's potential contribution to the team. Pandya joins the squad after trading Arshdeep Singh to Mumbai Indians, marking a historic IPL transaction. Wadia highlighted the team's long-term comm…",
@@ -43,231 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/0a55a8a67974835524402bbb9bcf235b28eb7ff5ed4b76f34d24a64861072573/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd94af36c9b293a195c06a23e4ac267f7.jpg",
     "publishedAt": "2026-11-12T06:47:04Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "The Times of India",
-    "title": "21 sixes in an innings! New Zealand batter Bevon Jacobs comes close to world record",
-    "description": "Bevon Jacobs achieved remarkable success in the Ford Trophy, scoring 202 not out against Otago. His innings included a record-setting 21 sixes, the highest for a New Zealand batter in List A cricket. Despite Jacobs' effort, Auckland lost the match as Otago su…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-sixes-in-an-innings-new-zealand-batter-bevon-jacobs-comes-close-to-world-record/articleshow/135757902.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135758094,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T06:18:01Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Shreyas Iyer gets chance to prove his mettle as India eye ODI series win against New Zealand",
-    "description": "Shreyas Iyer will debut as ODI captain for India in the upcoming match against New Zealand. India leads the series 2-0, with New Zealand aiming to reclaim some momentum. Several players have left both squads, making way for fresh talent to shine. In the absen…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/shreyas-iyer-gets-chance-to-prove-his-mettle-as-india-eye-odi-series-win-against-new-zealand/articleshow/135757747.cms",
-    "image": "https://img.etimg.com/thumb/msid-135757770,width-1200,height-900,imgsize-143270,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T06:05:58Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Business Standard",
-    "title": "'They work well as a unit,' Seifert praises India's young pace attack",
-    "description": "New Zealand wicketkeeper Tim Seifert on Thursday heaped praise on India's young pace attack that has troubled his team, saying that the visiting bowlers work quite well as a unit despite being inherently different from each other.\nLeft-armer Arshdeep Singh, a…",
-    "url": "https://www.business-standard.com/cricket/news/they-work-well-as-a-unit-seifert-praises-india-s-young-pace-attack-126111200238_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/resize/1200X628/1794461648-6476.jpg",
-    "publishedAt": "2026-11-12T05:34:35Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Pacer Auqib Nabi banks on domestic experience to succeed in New Zealand",
-    "description": "Extra pace has its benefits but Indian pacer Auqib Nabi says he is relying more on seam movement and skills acquired over the years in the domestic circuit to make a mark in the ongoing ODI series against New Zealand.\nNabi, who has played three ODIs after mak…",
-    "url": "https://www.business-standard.com/cricket/news/pacer-auqib-nabi-banks-on-domestic-experience-to-succeed-in-new-zealand-126111200262_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/featurecrop/1200X628/1794461463-1753.jpg",
-    "publishedAt": "2026-11-12T05:32:22Z",
-    "author": "Press Trust of India"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We absolutely support Pat': Cricket Australia backs Cummins amid fresh Sandpapergate row",
-    "description": "The controversy has returned to the spotlight after former Australia batter Usman Khawaja made fresh claims in his autobiography, \"Sabr\". Khawaja alleged that all members of the Australian team on the 2018 South Africa tour knew about the plan to tamper with …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-absolutely-support-pat-cricket-australia-backs-cummins-amid-fresh-sandpapergate-row/articleshow/135756627.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135756741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T05:25:02Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027: Player consent, fitness tests and fee rules in trades explained",
-    "description": "IPL trading rules allow players to have a say in whether they want to move to another franchise, while also specifying how the transfer fee, revised annual contract and medical assessments are handled",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-player-consent-fitness-tests-and-fee-rules-in-trades-explained-126111200299_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/resize/1200X628/1794461009-9253.jpg",
-    "publishedAt": "2026-11-12T05:23:23Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Auqib Nabi prioritises seam movement over pace in New Zealand ODI series",
-    "description": "Auqib Nabi expresses confidence in his skills acquired from domestic cricket while preparing for the ODI series. He emphasises reliance on seam movement rather than solely increasing pace for effectiveness against New Zealand's batsmen. Nabi is gaining valuab…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/extra-pace-is-good-but-nabi-backing-his-domestic-skills-to-succeed-in-international-cricket/articleshow/135756113.cms",
-    "image": "https://img.etimg.com/thumb/msid-135756605,width-1200,height-900,imgsize-138994,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T05:18:58Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "DC captain for IPL 2027: Exploring possible options if Axar Patel steps down",
-    "description": "Delhi Capitals could be looking for a new captain ahead of IPL 2027, with Axar Patel reportedly reluctant to continue in the role.",
-    "url": "https://www.cricketnews.com/en/cricket/news/dc-captain-ipl-2027-possible-options-axar-patel-steps-down/686821a9f6c97930fd117632",
-    "image": "https://s.yimg.com/lo/mysterio/api/c45fb1067cbb06befde1a01f658c90cc0576aa83a29c017db2b53b457e3f7580/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0894a73e0f2c66b55af1168bad964861",
-    "publishedAt": "2026-11-12T05:07:34Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Browns’ Deshaun Watson Sends Blunt Message About Facing Texans",
-    "description": "Cleveland Browns quarterback Deshaun Watson spoke candidly about facing the Houston Texans, who did not mince words about the Pro Bowler. The post Browns’ Deshaun Watson Sends Blunt Message About Facing Texans appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/houston-texans/watson-blunt-message-anderson-stroud-browns-ryans/",
-    "image": "https://s.yimg.com/lo/mysterio/api/be4c590bdd6b6709a6dcd50b1b9bb9265b827e77a54a0dd71666c543503c6805/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F9f9dc23c1f7a467bfe6c9445f766d14c.jpg",
-    "publishedAt": "2026-11-12T04:51:35Z",
-    "author": "Josh Buckhalter"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Australia vs. England 1st ODI prediction, lineups and Perth Stadium pitch report — who will win?",
-    "description": "Get our Australia vs. England 1st ODI prediction, predicted lineups and Perth Stadium pitch report ahead of the November 13 opener.",
-    "url": "https://www.cricketnews.com/en/cricket/play/australia-vs-england-1st-odi-prediction-pitch-report/e8dbc2582ce4709c9a5beb30",
-    "image": "https://s.yimg.com/lo/mysterio/api/f218c020824c84570f1287c7fd3b029d9063242e47049f12d786110f81d819b5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe30105b41f88bbc80206aa41f8bf4f2f",
-    "publishedAt": "2026-11-12T04:50:02Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "CNA",
-    "title": "Who said what as Khawaja autobiography revives Sandpapergate",
-    "description": "SYDNEY, Nov 12 : Former Australia batsman Usman Khawaja's new autobiography \"Sabr\" has triggered calls for another investigation into the 2018 ball-tampering incident in the third test against South Africa at Newlands in Cape Town. Steve Smith and David Warne…",
-    "url": "https://www.channelnewsasia.com/sport/who-said-what-khawaja-autobiography-revives-sandpapergate-6544956",
-    "image": "https://dam.mediacorp.sg/image/upload/s--gUWTv8S7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T043628Z_1_LYNXNPEMAB0BP_RTROPTP_3_CRICKET-SANDPAPERGATE.JPG?itok=Ump6xXsi",
-    "publishedAt": "2026-11-12T04:36:28Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Will IPL teams pick Bangladesh players? Registered players and chances of Bangladesh stars getting picked at mini-auction",
-    "description": "Seven Bangladesh players have registered for the IPL 2027 mini-auction, but will franchises be willing to sign them?",
-    "url": "https://www.cricketnews.com/en/cricket/news/will-ipl-teams-pick-bangladesh-players-registered-mini-auction/977ba5e6f7ba17e5f37860c8",
-    "image": "https://s.yimg.com/lo/mysterio/api/30847913e4b7a6ac288cccdfc1b5f7ae4196c06d8de8f5e971b85efc3eff8d58/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4825cbff1af77e27fe75b89c703a305d",
-    "publishedAt": "2026-11-12T04:22:59Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "Business Standard",
-    "title": "New Zealand vs India 4th ODI: Playing 11, live toss time (IST), streaming",
-    "description": "India will have a different captain and a reshuffled squad for the final two matches as they look to seal the series at Bay Oval",
-    "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-4th-odi-playing-11-live-toss-time-ist-streaming-126111200210_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/resize/1200X628/1794457196-5362.jpg",
-    "publishedAt": "2026-11-12T04:20:50Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Australian media reacts to Usman Khawaja claims whole team knew about sandpaper ball tampering",
-    "description": "Cricket Australia twice said players could still share information.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/australian-media-reacts-to-usman-khawaja-claims-whole-team-knew-about-sandpaper-ball-tampering/TCFISF4J65GYBKVTG3JERFCFEY/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/HH2JCKRY6VGXPNV7TBUVUFTJRM.jpg?auth=73bf60362cb0a0b3709bc893d59dfc63b05d3722cb3ba4bc1b4296833ecb5372&width=1200&height=675&quality=70&focal=1265%2C284&smart=false",
-    "publishedAt": "2026-11-12T04:01:00Z",
-    "author": "NZ Herald"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Australia vs. England prediction, team news, pitch report and betting tips for 1st ODI",
-    "description": "Get our Australia vs. England 1st ODI prediction, team news, pitch report and betting tips for the Perth Stadium clash on November 13.",
-    "url": "https://www.sportingnews.com/in/cricket/news/australia-vs-england-prediction-pitch-report-betting-tips-1st-odi/7a262d5e7e3ba21e12912c7f",
-    "image": "https://s.yimg.com/lo/mysterio/api/ca00f9489db40d7843836cb94dc706a144625d748f565b9610e4c03f48d197b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fb3e473f759bdcca38c6e5a590cd6c839",
-    "publishedAt": "2026-11-12T04:00:02Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 4th ODI: Pacer who took 5 wickets in 5 balls added to New Zealand squad",
-    "description": "India lead the five-match series 2-0 after winning the first two games. The third ODI in Hamilton was abandoned due to rain. Brett Randell has played 145 professional matches, including five for New Zealand A. He recently returned from a stint with English co…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-4th-odi-pacer-who-took-5-wickets-in-5-balls-added-to-new-zealand-squad/articleshow/135752975.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135753080,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T02:53:06Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IPL 2027 retention deadline: Final date for teams to submit list of retained players before mini-auction",
-    "description": "With the 2027 IPL mini-auction just days away, the final date for franchises to submit their list of retained players has been released.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-retention-deadline-date-retained-players-mini-auction/7cdc39d5a9eddc5c2dc37629",
-    "image": "https://s.yimg.com/lo/mysterio/api/b68254bb1d6548506d477e745810355b5507c31ca15c579598f1c8428c6d5dc3/lightyear_networkapi/resizefill_w1198_h674%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fea00472e4355667287ce3567221e37e2",
-    "publishedAt": "2026-11-12T02:45:00Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Kevin Malloy elected New Zealand Cricket chair as governing body faces $7.3m deficit",
-    "description": "Kevin Malloy has been an NZC director since 2019 and has served as deputy chair.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/kevin-malloy-elected-new-zealand-cricket-chair-as-governing-body-faces-73m-deficit/BDY4OHJSEJH4PKRYEHOECKZHTA/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/EOK7EZEANRA2FILFVZM7HRYUPI.jpg?auth=c489e586132594397f6017674cbe00f694b5f4ca449f7f3a591403569bb4f30a&width=1200&height=675&quality=70&focal=983%2C304&smart=false",
-    "publishedAt": "2026-11-12T02:37:01Z",
-    "author": "RNZ"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Axar Patel reluctant to lead, Delhi Capitals in a fix ahead of IPL auction",
-    "description": "NEW DELHI: As the IPL franchises begin planning for next month's mini auction, Delhi Capitals are in a fix over identifying their captain for the next",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/axar-patel-reluctant-to-lead-delhi-capitals-in-a-fix-ahead-of-ipl-auction/articleshow/135752666.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135752750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T02:35:57Z",
-    "author": "Arani Basu"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "New Zealand vs. India 4th ODI prediction, lineups and Bay Oval pitch report — who will win?",
-    "description": "New Zealand vs. India 4th ODI prediction, lineups and Bay Oval pitch report. Can the tourists claim the series win?",
-    "url": "https://www.cricketnews.com/en/cricket/play/new-zealand-vs-india-4th-odi-prediction-pitch-report/ccb4f3de241df2f8daa6602b",
-    "image": "https://s.yimg.com/lo/mysterio/api/788b086ce417931aebc2c9457cb9a35a74b8b98929bd7f8080004577b06e6101/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F83de462064bc78aa9e734eed4989a1c4",
-    "publishedAt": "2026-11-12T02:30:01Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL: Hardik Pandya, Arshdeep Singh swap jerseys",
-    "description": "MUMBAI: In one of the biggest trades in IPL history, Mumbai Indians (MI) and Punjab Kings (PBKS) have swapped two of India's premier white-ball players,",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-hardik-pandya-arshdeep-singh-swap-jerseys/articleshow/135752462.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135752572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T02:23:50Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Sporting News",
-    "title": "New Zealand vs. India prediction, team news, pitch report and betting tips for 4th ODI",
-    "description": "New Zealand vs. India 4th ODI prediction, team news, pitch report and betting tips for Bay Oval on November 13, with India 2-0 up and eyeing the series.",
-    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-vs-india-prediction-pitch-report-betting-4th-odi/f0daf1db934601dbefa4e51e",
-    "image": "https://s.yimg.com/lo/mysterio/api/409bd3afab857c02ed521569070361f572ef9965ccd635ff5a0e1649e610f9f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F49aa5feb819669ee73c1d5c1864819d6",
-    "publishedAt": "2026-11-12T02:00:01Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I'd tape it to my thumb': Ex-Australia star admits to using sandpaper after Usman Khawaja's revelations - WATCH",
-    "description": "Stuart MacGill has acknowledged using sandpaper on the ball during his cricket career, indicating it was not a deliberate cheating strategy. His admission follows recent statements made by Usman Khawaja in his memoir, which has reopened discussions on Sandpap…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/id-tape-it-to-my-thumb-ex-australia-star-admits-to-using-sandpaper-after-usman-khawajas-revelations-watch/articleshow/135752000.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135752045,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T01:39:48Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 4th ODI | 'Pace is good, but skills matter': Auqib Nabi on adapting to New Zealand conditions",
-    "description": "Auqib Nabi had a quiet start to the five-match series, returning figures of 0/33 in the first ODI, which India won by five wickets (DLS method). He bounced back in the second match, dismissing New Zealand openers Will Young and Tim Seifert to help India regis…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-4th-odi-pace-is-good-but-skills-matter-auqib-nabi-on-adapting-to-new-zealand-conditions/articleshow/135751784.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135751799,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T01:06:24Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "CBC News",
-    "title": "Series of storms leaves B.C. woman with tree stuck on her house for days",
-    "description": "As B.C. continues to batten down its hatches amid the third in a series of major fall storms, one resident who saw a tree fall onto her house last Friday says it'll have to remain in place as high winds continue to batter the province.",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624",
-    "image": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3BResize%3D620",
-    "publishedAt": "2026-11-12T00:47:39Z",
-    "author": "Akshay Kulkarni"
   }
 ]
 ;
