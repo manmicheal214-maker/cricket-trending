@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "New Zealand Herald",
+    "title": "Weekend could see temperatures hit 30C as dry, settled spell moves over New Zealand",
+    "description": "Highs of 30C on way in east Sunday, with sunshine today for cricket fans in Tauranga.",
+    "url": "https://www.nzherald.co.nz/nz/weekend-could-see-temperatures-hit-30c-as-dry-settled-spell-moves-over-new-zealand/N5P57MEJRBCP5P3QSLR66WY2BE/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/CRFRGIJY5FHNXJUEPXVQEO6FKQ.jpg?auth=2202d476522f225da5522309dce5ec72d0acb5e84d0877945debfeb21264fa77&width=1200&height=675&quality=70&focal=1153%2C558&smart=false",
+    "publishedAt": "2026-11-12T21:36:55Z",
+    "author": "Herald Reporters"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Live: Cummins to address ball tampering claims after Khawaja revelations",
+    "description": "Australia Test captain Pat Cummins is set to speak to the media at Cricket NSW's headquarters about Usman Khawaja's recent revelations about Australia's ball tampering in 2018. Follow live.",
+    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
+    "image": "https://live-production.wcms.abc-cdn.net.au/f28a64f0283a269a364e4651bf0060c3?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-12T21:26:54Z",
+    "author": "Jon Healy"
+  },
+  {
+    "source": "Ozbargain.com.au",
+    "title": "[PC, Steam] BALL x PIT $10.99 @ Steam",
+    "description": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate …",
+    "url": "https://www.ozbargain.com.au/node/982862",
+    "image": "https://files.ozbargain.com.au/n/62/982862l.jpg?h=9926aa81",
+    "publishedAt": "2026-11-12T21:19:27Z",
+    "author": "staphuler"
+  },
+  {
+    "source": "Camer.be",
+    "title": "Monde Entier - Cricket Fans, Orange Money and Online Casino Payment Risks in 2026",
+    "description": "The Match Is Free to Watch. The Fan Economy Isn't: Cricket's Orange\nMoney Payment Puzzle\n\nImagine a cricket fan in Dakar settling in for a Women's Big Bash\nLeag...",
+    "url": "https://www.camer.be/actualites/societe/monde-entier-cricket-fans-orange-money-and-online-casino-payment-risks-in-2026",
+    "image": "https://www.camer.be/storage/photos/shares/Monde3/Casino_Seven13112026.jpg",
+    "publishedAt": "2026-11-12T21:04:00Z",
+    "author": "Franck Bafeli"
+  },
+  {
+    "source": "TechRadar",
+    "title": "How to watch Australia vs England ODI Series 2026: Free Streams, TV Channels, Schedule & Preview",
+    "description": "All the ways to watch the Australia vs England 2026 ODI series from anywhere in the world for free with TV channels, broadcast details, schedule and preview included.",
+    "url": "https://www.techradar.com/entertainment/cricket/how-to-watch-australia-vs-england-2026-odi-series-free",
+    "image": "https://cdn.mos.cms.futurecdn.net/HooTW2hxiiFBZhxVNH7xbL-2560-80.jpg",
+    "publishedAt": "2026-11-12T21:00:00Z",
+    "author": "Krishi Chowdhary"
+  },
+  {
+    "source": "The Times of India",
+    "title": "NZ vs IND 4th ODI: New Zealand look to avoid series defeat, as Iyer set for ODI captaincy debut",
+    "description": "The third ODI in Hamilton presented New Zealand with an opportunity to bounce back, but persistent rain washed out the contest without a ball being bowled. The abandonment meant India retained their 2-0 lead in the five-match series.",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/articleshow/135780562.cms",
+    "image": "https://img.etimg.com/thumb/msid-135780596,width-1200,height-900,imgsize-143270,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-12T18:23:32Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Vision Cricket India League National Veterans T20 tournament in Jaipur from Nov 13 to 15; Five teams to compete, league officially announced with jersey launch",
+    "description": "Vision Cricket India League National Veterans T20 tournament in Jaipur from Nov 13 to 15; Five teams to compete, league officially announced with jersey launch",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/vision-cricket-india-league-national-veterans-t20-tournament-in-jaipur-from-nov-13-to-15-five-teams-to-compete-league-officially-announced-with-jersey-launch/articleshow/135780453.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135780451,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T18:16:07Z",
+    "author": "TNN"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Overreaction, error and anger still plague Australia's sandpaper response",
+    "description": "Usman Khawaja's revelations on Sandpapergate may have come eight years after the fact, but time has not changed Australia's response to the cricket scandal.",
+    "url": "https://www.abc.net.au/news/2026-11-13/cricket-australia-response-sandpaper-error-usman-khawaja-book/107378542",
+    "image": "https://live-production.wcms.abc-cdn.net.au/353581797027acb5fd6f53dc45f36912?impolicy=wcms_watermark_news&cropH=2048&cropW=3640&xPos=0&yPos=150&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-12T18:00:00Z",
+    "author": "Russell Jackson"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Tone-deaf Australians are taking us for fools with Sandpapergate cover-up that shames their nation - if they won't punish cowardly cheats before the Ashes, the ICC must do it for them",
+    "description": "I spoke to one England insider yesterday who said Australia were turning into a laughing stock. 'There is no way in the world that the rest of the lads in that team did not know what was going on,' he said.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16286673/Australia-Sandpapergate-cheats-Ashes-ICC.html",
+    "image": "https://i.dailymail.com/1s/2026/11/12/16/112471199-0-image-m-34_1794500511557.jpg",
+    "publishedAt": "2026-11-12T17:01:20Z",
+    "author": "Oliver Holt"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Are they hiding anything?': Late Shane Warne's Sandpapergate questions about Australia's 'bowling cartel' resurface in 2026",
+    "description": "Late legend Shane Warne's 2022 questions to Cricket Australia over a Sandpapergate cover-up resurface after Usman Khawaja's book.",
+    "url": "https://www.cricketnews.com/en/cricket/news/shane-warne-sandpapergate-questions-australia-resurface-khawaja-expose/e8344d92193758cf7214802d",
+    "image": "https://s.yimg.com/lo/mysterio/api/2c43d3bf2955ddfda489343016a3a8db130808747904e696be45fe325da30a86/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F883145e7e0a998c70fc1efced8f31c1c",
+    "publishedAt": "2026-11-12T16:30:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "RTE",
+    "title": "Gunaratne and Perera power Sri Lanka past Ireland",
+    "description": "Sri Lanka chased down 106 without losing a wicket to beat Ireland on the opening day of the ICC Women's Emerging Nations Trophy 2026 in Ajman in the UAE.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1112/1599016-gunaratne-and-perera-power-sri-lanka-past-ireland/",
+    "image": "https://www.rte.ie/images/00255495-1600.jpg",
+    "publishedAt": "2026-11-12T16:23:18Z",
+    "author": "RTÉ Sport"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "KKR retention list for IPL 2027 auction: Full list of retained and released players by Kolkata Knight Riders ahead of mini-auction",
     "description": "Check out Kolkata Knight Riders' full list of retained and released players ahead of the IPL 2027 mini auction.",
@@ -169,105 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135763746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-12T09:38:28Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ness Wadia backs Juhi Chawla's proposal to start IPL in January, says cricket calendar must allow change",
-    "description": "Ness Wadia agrees with Juhi Chawla's suggestion of starting the IPL in January, stressing that it is reliant on the cricketing schedule worldwide. He believes that an earlier start could ease challenges posed by heat and rain in typical months. While he appre…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ness-wadia-backs-juhi-chawlas-proposal-to-start-ipl-in-january-says-cricket-calendar-must-allow-change/articleshow/135763511.cms",
-    "image": "https://img.etimg.com/thumb/msid-135763628,width-1200,height-900,imgsize-25936,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T09:33:12Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Pokhara set 133-run target for Biratnagar in NPL",
-    "description": "KATHMANDU: Pokhara Avengers have set a target of 133 runs for Biratnagar Kings in the third edition of the Nepal Premier League (NPL). Batting first after winning the toss at the Tribhuvan University International Cricket Ground in Kirtipur, Pokhara were bowl…",
-    "url": "https://english.khabarhub.com/2026/12/575347/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/NPL-2.jpg",
-    "publishedAt": "2026-11-12T09:30:06Z",
-    "author": "Khabarhub"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "SRH retention list for IPL 2027 auction: Full list of retained and released players by Sunrisers Hyderabad ahead of mini-auction",
-    "description": "Check out Sunrisers Hyderabad's full list of retained and released players ahead of the IPL 2027 mini auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/srh-retention-list-ipl-2027-auction-retained-released-players/bc4ccced79ee397ebbcc864b",
-    "image": "https://s.yimg.com/lo/mysterio/api/9be7ed70bda857da7852e27caf1f736a42348e5521b4945ef67e240d8ac7e1a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F01fbac8c462313170681de2fc422200c",
-    "publishedAt": "2026-11-12T09:17:49Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "BBC News",
-    "title": "England legend Anderson, 44, signs for Surrey",
-    "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6879g5z0v0wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/85b3afac6c4cd832103735cb84980180d3f213b2ce2f6e5b19ac6742775b18b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa1965581aecc83064c8a4680affd58ea.jpg",
-    "publishedAt": "2026-11-12T09:00:57Z",
-    "author": "Stephan Shemilt - Cricket Correspondent"
-  },
-  {
-    "source": "BBC News",
-    "title": "England legend Anderson, 44, signs for Surrey",
-    "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8c6/live/b2936f70-de76-11f1-9115-cfe6d179af3a.jpg",
-    "publishedAt": "2026-11-12T09:00:52Z",
-    "author": "Stephan Shemilt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Australia, England set for ODI series opener in Perth",
-    "description": "Australia is gearing up to clash with England in an exciting three-match ODI series commencing at Perth Stadium this Friday. Captains Mitchell Marsh and Harry Brook recently revealed the trophy during a charming ceremony, complete with tea. The opening match …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-england-set-for-odi-series-opener-in-perth/articleshow/135760656.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135760741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T07:53:45Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hardik Pandya's long-term Punjab Kings move will support Shreyas Iyer, says Ness Wadia",
-    "description": "Punjab Kings co-owner Ness Wadia expressed confidence in Hardik Pandya's potential contribution to the team. Pandya joins the squad after trading Arshdeep Singh to Mumbai Indians, marking a historic IPL transaction. Wadia highlighted the team's long-term comm…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/hardik-pandyas-long-term-punjab-kings-move-will-support-shreyas-iyer-says-ness-wadia/articleshow/135760464.cms",
-    "image": "https://img.etimg.com/thumb/msid-135760517,width-1200,height-900,imgsize-76328,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T07:44:20Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India contemplate releasing Gurnoor Brar early for Test preparations",
-    "description": "India are considering releasing Gurnoor Brar from the ODI squad after Friday's match to bolster their preparations for the upcoming Test series against New Zealand. Meanwhile, Ruturaj Gaikwad is likely to replace Shubman Gill as an opener for the fourth ODI, …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-contemplate-releasing-gurnoor-brar-early-for-test-preparations/articleshow/135760235.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135760311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T07:37:39Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Saqib's 7-wicket total on debut gives Sri Lanka a slender 1st-innings lead vs Pakistan",
-    "description": "RAWALPINDI, Pakistan (AP) — Debutant fast bowler Saqib Khan led Pakistan’s comeback in the first cricket test with a seven-wicket haul as Sri Lanka took a first-innings lead of 12 runs on Thursday.Saqib picked up 7-130 and made full use of perfect overcast co…",
-    "url": "https://sports.yahoo.com/articles/saqibs-7-wicket-total-debut-073233064.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/94ef7fe67e8cb7e54c616762f1d9ad4b0f42d61e4af042c4a3ce26af31206301/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F35879f16c0e145bf6f127b7f46ae2612.jpg",
-    "publishedAt": "2026-11-12T07:32:33Z",
-    "author": "RIZWAN ALI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Aaryavir Sehwag's old video of interviewing Virat Kohli goes viral amid U19 Asia Cup heroics - Watch",
-    "description": "Aaryavir was a child when he interviewed Kohli, who was then India's captain across all three formats, for Star Sports. Since then, he has taken his first steps in age-group cricket and is now making a name for himself with the bat.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aaryavir-sehwags-old-video-of-interviewing-virat-kohli-goes-viral-amid-u19-asia-cup-heroics-watch/articleshow/135758854.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135759364,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T07:12:51Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Marsh dodges Sandpapergate questions as Australia readies for England white-ball cricket series",
-    "description": "PERTH, Australia (AP) — The usually free-hitting Mitch Marsh played defense to a few questions about the Sandpapergate scandal on the eve of a white-ball cricket series against England, saying his focus was on leading Australia's limited-overs squad starting …",
-    "url": "https://sports.yahoo.com/articles/marsh-dodges-sandpapergate-questions-australia-064704661.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/0a55a8a67974835524402bbb9bcf235b28eb7ff5ed4b76f34d24a64861072573/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd94af36c9b293a195c06a23e4ac267f7.jpg",
-    "publishedAt": "2026-11-12T06:47:04Z",
-    "author": "Associated Press"
   }
 ]
 ;
