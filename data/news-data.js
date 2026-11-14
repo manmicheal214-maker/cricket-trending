@@ -1,5 +1,95 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "Time for some modifications as India aim to seal ODI series against New Zealand",
+    "description": "With the Test series beginning on Nov 19, both India and New Zealand are having to juggle their resources, leaving their ODI combinations considerably",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/time-for-some-modifications-as-india-aim-to-seal-odi-series-against-new-zealand/articleshow/135786856.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135786855,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T02:45:55Z",
+    "author": "Hindol Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Nine changes in India vs New Zealand 4th ODI at Mount Maunganui: Who comes in, who misses out?",
+    "description": "India and New Zealand made numerous changes to their playing XIs for the fourth ODI match. Shreyas Iyer won the toss and chose to bowl first, taking conditions into account. India leads the series 2-0 after a rain-affected third ODI match was canceled. New Ze…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nine-changes-in-india-vs-new-zealand-4th-odi-at-mount-maunganui-who-comes-in-who-misses-out/articleshow/135786299.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135786385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T02:06:55Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "India wins the toss and bowls in the 4th cricket ODI against New Zealand",
+    "description": "MOUNT MAUNGANUI, New Zealand (AP) — India has changed its captain but not its success with the toss as Shreyas Iyer called correctly and chose to bowl Friday in the fourth one-day cricket international against New Zealand at Bay Oval.Iyer takes over the capta…",
+    "url": "https://sports.yahoo.com/articles/india-wins-toss-bowls-4th-015811016.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/1cc5927237cf898e197782cfde084ef57cab13e11724e0f974635db041cbf2f4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffcc9dac8559c2b82d2c6933c4c30a9d0.jpg",
+    "publishedAt": "2026-11-13T01:58:11Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs NZ 4th ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Bay Oval, Mount Maunganui",
+    "description": "Follow New Zealand vs India 4th ODI live score, real-time win probability, and victory chances from Bay Oval, Mount Maunganui, as Shreyas Iyer leads Team India.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-4th-odi-2026-live-scorecard-result-highlights-mount-maunganui/e92de0ad1d98f9055236fde1",
+    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
+    "publishedAt": "2026-11-13T01:34:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Business Standard",
+    "title": "NZ vs IND 4th ODI live streaming: Where to watch today's cricket match?",
+    "description": "New Zealand vs India 4th ODI begins at 7:30 am IST on Friday, with the toss at 7 am IST. Fans in India can stream the match on the SonyLIV app and website",
+    "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-4th-odi-live-streaming-where-to-watch-today-s-cricket-match-126111200220_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/featurecrop/1200X628/1794457679-8738.jpg",
+    "publishedAt": "2026-11-13T01:30:08Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "New Atlas",
+    "title": "It's official, Australians have crowned their 2026 Christmas icon",
+    "description": "Move over, sunburnt Santa in flip-flops holding a cricket bat, the land Down Under has a new favorite Christmas character – a golden beetle that will have entomologists more excited than they usually are. Which says a lot.Continue ReadingCategory: Biology, Sc…",
+    "url": "https://newatlas.com/biology/australia-2026-christmas-icon/",
+    "image": "https://assets.newatlas.com/dims4/default/b539d03/2147483647/strip/true/crop/2822x1482+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcb%2Ff4%2F14c542264892b070709527bdd473%2Fscreenshot-2026-11-13-at-10-37-01-am.png&na.image_optimisation=0",
+    "publishedAt": "2026-11-13T01:03:00Z",
+    "author": "Bronwyn Thompson"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Cummins hits out at Khawaja in passionate hour-long press conference",
+    "description": "Australian Test cricket captain Pat Cummins rubbishes Usman Khawaja's ball tampering claims in a long and passionate press conference.",
+    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770",
+    "image": "https://live-production.wcms.abc-cdn.net.au/3a409892b31342586b04fada8a2fd05e?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-13T00:39:48Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "How to watch AUS vs ENG ODI 2026 live: Start time, TV channels, streaming and broadcast details for England tour of Australia",
+    "description": "Full broadcast details on where to watch the Australia vs England ODI series 2026 live on TV and live-streaming platforms.",
+    "url": "https://www.cricketnews.com/en/cricket/news/how-watch-aus-vs-eng-odi-2026-live-start-time-tv-streaming-broadcast/8d868acd26ea5fc214f0d8fc",
+    "image": "https://s.yimg.com/lo/mysterio/api/631589ca1222b2ac6a085fc787006d4642f18f180c79d23594aa2913d9ad2472/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37a4537941ea096275411af3616fb20a",
+    "publishedAt": "2026-11-13T00:00:01Z",
+    "author": "Saino Zachariah"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ 4th ODI: Shreyas Iyer to lead, Ishan Kishan likely to open with Rohit Sharma",
+    "description": "India vs New Zealand Live Score, 4th ODI: The India vs New Zealand fourth ODI promises an intriguing contest as the two sides meet at Bay Oval in Mou",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-4th-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-live-streaming-weather-wellington/liveblog/135775634.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135775634,width-1280,height-720,imgsize-104602,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-12T23:55:57Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "Rlsbb.cc",
+    "title": "Hard Quiz Kids AU S03E06 1080p WEBDL H264-Pr1M371M3",
+    "description": "Season 3, Episode 06 – \"Grease, Mozart, Steve Smith and The Inbestigators\"Four young know-it-alls try to get their hands on Tom Gleeson's Big Brass Mug, but which eclectic topic will win the day: the film Grease, Mozart, cricketer Steve Smith, or TV series Th…",
+    "url": "https://post.rlsbb.cc/hard-quiz-kids-au-s03e06-1080p-webdl-h264-pr1m371m3/",
+    "image": null,
+    "publishedAt": "2026-11-12T23:05:27Z",
+    "author": "Lisa"
+  },
+  {
     "source": "New Zealand Herald",
     "title": "Weekend could see temperatures hit 30C as dry, settled spell moves over New Zealand",
     "description": "Highs of 30C on way in east Sunday, with sunshine today for cricket fans in Tauranga.",
@@ -178,96 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135769317,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-12T12:18:11Z",
     "author": "TOI Sports Desk"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "What playing cricket for the U.S. taught me about the hardest decisions CEOs face",
-    "description": "Long before I became a CEO, I played international cricket for the United States. The lesson I draw on most in business is this: Before deciding how aggressively to play, you have to read the pitch.\nIn cricket, the pitch is the strip of ground at the center o…",
-    "url": "https://biztoc.com/x/f34f2184d1996eea",
-    "image": "https://biztoc.com/cdn/f34f2184d1996eea_s.webp",
-    "publishedAt": "2026-11-12T12:08:41Z",
-    "author": "fortune.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Ramayana: Rise of a Legend' actor Addinath Kothare recalls being Ranbir Kapoor’s schoolmate; says they played cricket together before reuniting as brothers in Nitesh Tiwari's epic film",
-    "description": "Addinath Kothare reflected on his childhood connection with co-star Ranbir Kapoor during promotional activities. They were schoolmates, playing cricket together in their early lives, which Kothare reminisced about. An interesting family connection emerged, as…",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-actor-addinath-kothare-recalls-being-ranbir-kapoors-schoolmate-says-they-played-cricket-together-before-reuniting-as-brothers-in-nitesh-tiwaris-epic-film/articleshow/135767907.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135768107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T11:44:24Z",
-    "author": "TOI Entertainment Desk"
-  },
-  {
-    "source": "Fortune",
-    "title": "What playing cricket for the U.S. taught me about the hardest decisions CEOs face",
-    "description": "“Think bigger” is not a strategy.",
-    "url": "https://fortune.com/2026/11/12/ceo-read-the-pitch-cricket-bluebeam-usman-shuja/",
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/usman-shuja.jpg?resize=1200,600",
-    "publishedAt": "2026-11-12T11:30:00Z",
-    "author": "Usman Shuja"
-  },
-  {
-    "source": "Sporting News",
-    "title": "Where to watch Australia vs. England ODI series: Live stream, TV channel, start time for first match in Perth",
-    "description": "Australia kicks off its home summer cricket schedule with a three-match ODI series against England with the first match to be played in Perth.",
-    "url": "https://www.sportingnews.com/us/cricket/news/watch-australia-england-odi-stream-tv-time-match-one-perth/c4a818435b501fd1d2dc2ff5",
-    "image": "https://s.yimg.com/lo/mysterio/api/902cfd0fc5bd668abf42816c95819594348b345d2c3a6fe142432151471685e0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7b24b2518ec3827b80b0b0a302a27fc4",
-    "publishedAt": "2026-11-12T10:53:33Z",
-    "author": "Peter Maniaty"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kusal Mendis scripts history, joins Virat Kohli, Steve Smith and Joe Root in elite club",
-    "description": "In a remarkable feat, Kusal Mendis has etched his name in cricket history as the first Sri Lankan to score a century on debut as Test captain, amassing an impressive 117 not out. His stellar performance came at a crucial moment, aiding Sri Lanka in recovering…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kusal-mendis-scripts-history-joins-virat-kohli-steve-smith-and-joe-root-in-elite-club/articleshow/135765621.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135765961,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T10:47:12Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Sporting News",
-    "title": "New Zealand vs. India 4th ODI weather forecast: Chances of rain at Bay Oval, Tauranga",
-    "description": "With India looking to seal the series at Mount Maunganui, here's a look at what kind of weather both teams can expect at the Bay Oval for the fourth ODI.",
-    "url": "https://www.sportingnews.com/in/cricket/news/new-zealand-india-4th-odi-weather-forecast-chances-rain-bay-oval-tauranga/cde5c66c79a29efe49997602",
-    "image": "https://s.yimg.com/lo/mysterio/api/0de5936f7a15d9dcc2da352ae128cd523de6be4e4628f69d4e1958266d3ae369/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3e78de2e5c4e7b83dcfe4e7009c1d6db",
-    "publishedAt": "2026-11-12T10:30:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘It could well be KL Rahul’: Ex-India cricketer on Delhi Capitals captaincy plans after Rishabh Pant trade",
-    "description": "Aakash Chopra has raised crucial points about the Delhi Capitals as they gear up for the IPL season. He expressed worries over the unresolved captaincy situation and questioned the efficiency of their bowling attack. Moreover, Chopra suggested that Rishabh Pa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-could-well-be-kl-rahul-ex-india-cricketer-on-delhi-capitals-captaincy-plans-after-rishabh-pant-trade/articleshow/135763551.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135763726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T09:59:26Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Not Shubman Gill, Shreyas Iyer to lead India in 4th and 5th ODI against New Zealand; here's why",
-    "description": "India lead 2-0 in the series and will look to seal it with a win in the remaining two matches. New Zealand, meanwhile, need to win both games to draw the series after the third ODI was abandoned.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/not-shubman-gill-shreyas-iyer-to-lead-india-in-4th-and-5th-odi-against-new-zealand-heres-why/articleshow/135763636.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135763735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T09:50:23Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "GT retention list for IPL 2027 auction: Full list of retained and released players by Gujarat Titans ahead of mini-auction",
-    "description": "Check out Gujarat Titans' full list of retained and released players ahead of the IPL 2027 mini auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gt-retention-list-ipl-2027-auction-retained-released-players/36d51a22ec74508999712789",
-    "image": "https://s.yimg.com/lo/mysterio/api/152cda19c3668a10c04ccf88af6cac0741dddec411df023ebc156b3820cdc97c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5028fe95e41e4e43e025a41816cce82d",
-    "publishedAt": "2026-11-12T09:50:02Z",
-    "author": "Anselm Noronha"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Can't really target anyone individually': Tim Seifert explains why India's bowling attack has troubled New Zealand",
-    "description": "New Zealand's batters are struggling against India's consistent and varied pace attack during the ongoing ODI series. Tim Seifert has acknowledged the team's difficulties in targeting Indian bowlers due to their collective strength and discipline. Despite tra…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/cant-really-target-anyone-individually-tim-seifert-explains-why-indias-bowling-attack-has-troubled-new-zealand/articleshow/135763482.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135763746,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T09:38:28Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
