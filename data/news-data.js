@@ -1,273 +1,273 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
-    "title": "Time for some modifications as India aim to seal ODI series against New Zealand",
-    "description": "With the Test series beginning on Nov 19, both India and New Zealand are having to juggle their resources, leaving their ODI combinations considerably",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/time-for-some-modifications-as-india-aim-to-seal-odi-series-against-new-zealand/articleshow/135786856.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135786855,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-13T02:45:55Z",
-    "author": "Hindol Basu"
+    "title": "'Appoint Rinku as captain': Ex-India cricketer's advice to KKR ahead of auction",
+    "description": "With Ajinkya Rahane retiring from the IPL, Kolkata Knight Riders are on the hunt for a new captain. Aakash Chopra has thrown Rinku Singh's name into the mix for potential leadership in IPL 2027. As the retention deadline approaches alongside the auction on No…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/appoint-rinku-singh-as-captain-ex-india-cricketers-advice-to-kkr-ahead-of-ipl-2027-auction/articleshow/135799999.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135800072,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T11:11:05Z",
+    "author": "Pranav Shukla"
   },
   {
     "source": "The Times of India",
-    "title": "Nine changes in India vs New Zealand 4th ODI at Mount Maunganui: Who comes in, who misses out?",
-    "description": "India and New Zealand made numerous changes to their playing XIs for the fourth ODI match. Shreyas Iyer won the toss and chose to bowl first, taking conditions into account. India leads the series 2-0 after a rain-affected third ODI match was canceled. New Ze…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nine-changes-in-india-vs-new-zealand-4th-odi-at-mount-maunganui-who-comes-in-who-misses-out/articleshow/135786299.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135786385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-13T02:06:55Z",
+    "title": "Deepti Sharma bags second ICC Player of the Month award; Marco Jansen claims men's honour",
+    "description": "In a remarkable achievement, Marco Jansen from South Africa and Deepti Sharma from India have been named ICC Player of the Month. Jansen shined during South Africa’s Test series against Australia, amassing 198 runs while also taking 13 wickets. Meanwhile, Dee…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deepti-sharma-bags-second-icc-player-of-the-month-award-marco-jansen-claims-mens-honour/articleshow/135800290.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135800407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T11:02:32Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mahli Beardman and Matt Henry replicate rare ODI feat last achieved by Rashid Khan and Paul Stirling in 2017",
+    "description": "On November 13, a historic day in ODI cricket saw Mahli Beardman and Matt Henry dazzle fans with sensational six-wicket hauls. Beardman debuted for Australia against England, claiming 6 wickets for just 24 runs in Perth. Meanwhile, Henry's remarkable 6/27 led…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mahli-beardman-and-matt-henry-replicate-rare-odi-feat-last-achieved-by-rashid-khan-and-paul-stirling-in-2017/articleshow/135799917.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135800024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T10:51:06Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Slickdeals.net",
+    "title": "VEVOR Electronic Dart Board, 13.5\" Target Dartboard with 45 Games & 474 Variations for Up to 8 Players, 6 Dart $59.88",
+    "description": "VEVOR Electronic Dart Board, 13.5\" Target Dartboard with 45 Games & 474 Variations for Up to 8 Players, 6 Dart Shafts with Flights & 50 Soft Tips, Color LED Cricket Scoring Screen for Home Party Bar...",
+    "url": "https://slickdeals.net/f/20302623-vevor-electronic-dart-board-13-5-target-dartboard-with-45-games-474-variations-for-up-to-8-players-6-dart-59-88",
+    "image": "https://slickdeals.net/attachment/4/9/2/5/6/2/450x450/22335978.thumb",
+    "publishedAt": "2026-11-13T10:39:15Z",
+    "author": "cvp33"
+  },
+  {
+    "source": "BBC News",
+    "title": "Test Match Special Podcast",
+    "description": "Michael Vaughan reacts to Cummins’ press conference and England’s defeat in the first ODI",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pmshnr?at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pmshrv.jpg",
+    "publishedAt": "2026-11-13T10:17:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Most ducks in ODIs: Virat Kohli equals Sachin Tendulkar's unwanted India record",
+    "description": "With the dismissal, Kohli's tally of ducks in ODI cricket moved to 20, taking him level with Tendulkar for the most ducks by an Indian batter in the format.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/most-ducks-in-odis-virat-kohli-equals-sachin-tendulkars-unwanted-india-record/articleshow/135798067.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135798260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T10:08:32Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "NPR",
+    "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+    "description": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3829x2154+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F6f%2F2ddc4c6345e4ab2246d52e61647e%2Fgettyimages-1829280584.jpg",
+    "publishedAt": "2026-11-13T10:01:00Z",
+    "author": "Ava Berger"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: India suffer second-biggest ODI defeat; lose fourth ODI to New Zealand by 244 runs",
+    "description": "India suffered a significant loss in the fourth ODI, bowled out for just 89 runs while chasing 334 runs. New Zealand's Matt Henry took six wickets, leading to India's second biggest loss by runs in ODI history. Will Young scored a century for New Zealand, con…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-india-suffer-second-biggest-odi-defeat-lose-fourth-odi-to-new-zealand-by-244-runs/articleshow/135796561.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135796937,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T09:14:49Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "BBC News",
+    "title": "Yorkshire re-sign paceman Ali on T20 deal",
+    "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cmq5vejy6y7do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+    "publishedAt": "2026-11-13T09:08:51Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Yorkshire re-sign paceman Ali on T20 deal",
+    "description": "Yorkshire re-sign Pakistan fast bowler Hassan Ali on a two-year T20 Blast contract for 2027 and 2028.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmq5vejy6y7do",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30c9/live/13a2dc10-df3f-11f1-a48c-75dd2efdacb5.jpg",
+    "publishedAt": "2026-11-13T09:08:46Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "CNA",
+    "title": "Young smashes ton, Henry takes six as New Zealand crush India in fourth ODI",
+    "description": "Nov 13 : Will Young hit a century and Matt Henry took six wickets as New Zealand sealed a dominant 244-run victory by bowling India out for 89 in the fourth one-day international in Mount Maunganui on Friday to remain afloat in the series.The hosts trail Indi…",
+    "url": "https://www.channelnewsasia.com/sport/young-smashes-ton-henry-takes-six-new-zealand-crush-india-in-fourth-odi-6548986",
+    "image": "https://dam.mediacorp.sg/image/upload/s--QemFiPWU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T085454Z_1_LYNXNPEMAC0MB_RTROPTP_3_CRICKET-T20-WORLDCUP-ENG-NZL.JPG?itok=zFrKbKk7",
+    "publishedAt": "2026-11-13T08:50:31Z",
+    "author": null
+  },
+  {
+    "source": "Business Standard",
+    "title": "NZ vs IND 4th ODI: India suffer their 2nd biggest defeat in ODI history",
+    "description": "India's 89 all-out against New Zealand at Bay Oval is also their sixth-lowest total in ODI history",
+    "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-4th-odi-india-suffer-their-2nd-biggest-defeat-in-odi-history-126111300795_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/13/thumb/resize/1200X628/1794559572-015.jpg",
+    "publishedAt": "2026-11-13T08:47:55Z",
+    "author": "Aditya Kaushik"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps v India result: Will Young century, Matt Henry six-wicket haul see New Zealand to huge ODI victory",
+    "description": "Fighting to save the series, a perfect team performance was exactly what NZ ordered.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-result-will-young-century-matt-henry-six-wicket-haul-see-new-zealand-to-huge-odi-victory/KFHN5ITDIBHJ7FSRUJQVTFGGCU/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/WPAJULZ4TZHX7JO6E3ATAVSS5A.JPG?auth=52ba71a35f3c66b6925058277dc1140696875247b3322a89f0d0b7bdd69c7f5c&width=1200&height=675&quality=70&focal=657%2C246&smart=false",
+    "publishedAt": "2026-11-13T08:26:16Z",
+    "author": "Alex Powell"
+  },
+  {
+    "source": "BBC News",
+    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "url": "https://www.bbc.com/news/articles/c6702z750zvyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/4a637f29fad06b7d8aba2a9c6d39913cf722a2ffd6483a1b9f2d58441552d45c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6afccd6a5bdd9fa95af1ce3cd4d268c0.jpg",
+    "publishedAt": "2026-11-13T08:25:48Z",
+    "author": "Tiffanie Turnbull - Sydney"
+  },
+  {
+    "source": "BBC News",
+    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+    "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+    "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
+    "publishedAt": "2026-11-13T08:20:28Z",
+    "author": "https://www.facebook.com/bbcnews"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ 4th ODI: 9/4 again! Team India suffer 1983 World Cup deja vu after 43 years",
+    "description": "India's recent ODI match against New Zealand marked a significant collapse, resembling their 1983 World Cup fiasco. After losing three wickets for zero runs, India's situation deteriorated rapidly as they trailed behind the target of 334 runs. Rohit Sharma an…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/9/4-again-team-india-suffer-1983-world-cup-deja-vu-after-43-years/articleshow/135794698.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135795030,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T08:06:13Z",
     "author": "Amit Kumar"
   },
   {
     "source": "Yahoo Entertainment",
-    "title": "India wins the toss and bowls in the 4th cricket ODI against New Zealand",
-    "description": "MOUNT MAUNGANUI, New Zealand (AP) — India has changed its captain but not its success with the toss as Shreyas Iyer called correctly and chose to bowl Friday in the fourth one-day cricket international against New Zealand at Bay Oval.Iyer takes over the capta…",
-    "url": "https://sports.yahoo.com/articles/india-wins-toss-bowls-4th-015811016.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/1cc5927237cf898e197782cfde084ef57cab13e11724e0f974635db041cbf2f4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffcc9dac8559c2b82d2c6933c4c30a9d0.jpg",
-    "publishedAt": "2026-11-13T01:58:11Z",
-    "author": "Associated Press"
+    "title": "Pakistan leads by 139 after Babar and Agha fall in Sri Lanka fielding trap on 5th day of 1st test",
+    "description": "RAWALPINDI, Pakistan (AP) — Pakistan's top-order batters stumbled against Sri Lanka captain Kusal Mendis’ innovative field setting to reach 151-5 on the fifth and final day of the first cricket test on Friday.Skipper Babar Azam, who scored 34, and Salman Ali …",
+    "url": "https://sports.yahoo.com/articles/pakistan-leads-139-babar-agha-075753094.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/7ea2995ffa833c6db723122c16786ae84c2f624b94e3f13db8d1062b4e525935/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fef90420e1adc37c6518abeb2b759ff1c.jpg",
+    "publishedAt": "2026-11-13T07:57:53Z",
+    "author": "RIZWAN ALI"
   },
   {
     "source": "Cricketnews.com",
-    "title": "IND vs NZ 4th ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Bay Oval, Mount Maunganui",
-    "description": "Follow New Zealand vs India 4th ODI live score, real-time win probability, and victory chances from Bay Oval, Mount Maunganui, as Shreyas Iyer leads Team India.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-4th-odi-2026-live-scorecard-result-highlights-mount-maunganui/e92de0ad1d98f9055236fde1",
-    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
-    "publishedAt": "2026-11-13T01:34:01Z",
+    "title": "India's lowest ODI totals: Listing down Men in Blue's worst-ever performances in One-day cricket",
+    "description": "Check the complete list of India's lowest ODI totals ever, including Men in Blue's worst scores in New Zealand and the lowest ODI totals by Full Member nations.",
+    "url": "https://www.cricketnews.com/en/cricket/news/india-lowest-odi-totals-worst-ever-performances-one-day-cricket/bfd627a400033d0b67de5cf4",
+    "image": "https://s.yimg.com/lo/mysterio/api/7ce51ded7716ca9122a87d6c7c65ddb3b93c11278798965ac71dd95f2c8858cb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7912a886b984d04752b90ff3d098ac21",
+    "publishedAt": "2026-11-13T07:57:45Z",
     "author": "Soham Mukherjee"
+  },
+  {
+    "source": "BBC News",
+    "title": "England bundled out by Australia in first ODI",
+    "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c6rrg52pvjpko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/9512d77982919e5ab8c1d1eac176bb998f150dd74c19c52771b3a8e6e1c77704/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdaffc4e18d80984dcb87ef3219a0441c.jpg",
+    "publishedAt": "2026-11-13T07:16:16Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "England bundled out by Australia in first ODI",
+    "description": "England meekly offer Australia respite from the ongoing sandpaper scandal by being bowled out for 131 in the first one-day international in Perth.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6rrg52pvjpko",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/06c8/live/61c3c440-df30-11f1-b441-2b33b063138f.jpg",
+    "publishedAt": "2026-11-13T07:16:11Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Australia's next fast bowling star blows England away on ODI debut",
+    "description": "Mahli Beardman becomes just the second Australian to snare a five-for in their ODI debut as England is skittled for 131 in Perth.",
+    "url": "https://www.abc.net.au/news/2026-11-13/mahli-beardman-australia-england-first-odi/107384130",
+    "image": "https://live-production.wcms.abc-cdn.net.au/decbb991143e2218078f195be7c53457?impolicy=wcms_watermark_news&cropH=2316&cropW=4117&xPos=447&yPos=171&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-13T06:59:08Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'What's just happened': Mahli Beardman does what McGrath, Starc and Cummins couldn't; Aussie pacer unleashes pace storm on debut against England to make history",
+    "description": "Beardman also became only the second Australian male bowler to take five or more wickets in his first ODI as England were bowled out for just 131 in the series opener.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/whats-just-happened-mahli-beardman-does-what-mcgrath-starc-and-cummins-couldnt-aussie-pacer-unleashes-pace-storm-on-debut-against-england-to-make-history/articleshow/135792958.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135793110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T06:57:20Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ 4th ODI: Rohit Sharma, Virat Kohli, Shreyas Iyer fall for ducks; India suffer first-ever 0/3 start in ODIs",
+    "description": "In the fourth ODI against New Zealand, India faced a catastrophic start to their innings. Rohit Sharma, Virat Kohli, and Shreyas Iyer were dismissed by Matt Henry in the opening over. Rohit fell to a golden duck, followed by Kohli and Iyer, who were also dism…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-4th-odi-rohit-sharma-virat-kohli-shreyas-iyer-fall-for-ducks-india-suffer-first-ever-0/3-start-in-odis/articleshow/135792949.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135793121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T06:47:48Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Virat Kohli plays peacemaker after Gurnoor Brar's animated send-off to Seifert, video goes viral - Watch",
+    "description": "Seifert attempted to pull Brar off the sixth ball of the 12th over but failed to make proper contact. The ball went high in the air and wicketkeeper Ishan Kishan completed the catch.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-plays-peacemaker-after-gurnoor-brars-animated-send-off-to-seifert-video-goes-viral-watch/articleshow/135790745.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135791060,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T05:46:23Z",
+    "author": "Shubhanshu Dwivedi"
   },
   {
     "source": "Business Standard",
-    "title": "NZ vs IND 4th ODI live streaming: Where to watch today's cricket match?",
-    "description": "New Zealand vs India 4th ODI begins at 7:30 am IST on Friday, with the toss at 7 am IST. Fans in India can stream the match on the SonyLIV app and website",
-    "url": "https://www.business-standard.com/cricket/news/nz-vs-ind-4th-odi-live-streaming-where-to-watch-today-s-cricket-match-126111200220_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/12/thumb/featurecrop/1200X628/1794457679-8738.jpg",
-    "publishedAt": "2026-11-13T01:30:08Z",
-    "author": "Aditya Kaushik"
+    "title": "Cummins rejects Khawaja's claims, says he was shocked by book revelations",
+    "description": "Australia captain Pat Cummins has described as \"utter nonsense\" the allegation from ex-teammate Usman Khawaja that he knew about using sandpaper to tamper with a ball in a 2018 cheating scandal that rocked cricket.\nCummins held an extraordinary news conferenc…",
+    "url": "https://www.business-standard.com/cricket/news/cummins-rejects-khawaja-s-claims-says-he-was-shocked-by-book-revelations-126111300060_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/13/thumb/featurecrop/1200X628/1794546274-0273.jpg",
+    "publishedAt": "2026-11-13T05:04:53Z",
+    "author": "AP"
   },
   {
-    "source": "New Atlas",
-    "title": "It's official, Australians have crowned their 2026 Christmas icon",
-    "description": "Move over, sunburnt Santa in flip-flops holding a cricket bat, the land Down Under has a new favorite Christmas character – a golden beetle that will have entomologists more excited than they usually are. Which says a lot.Continue ReadingCategory: Biology, Sc…",
-    "url": "https://newatlas.com/biology/australia-2026-christmas-icon/",
-    "image": "https://assets.newatlas.com/dims4/default/b539d03/2147483647/strip/true/crop/2822x1482+0+168/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcb%2Ff4%2F14c542264892b070709527bdd473%2Fscreenshot-2026-11-13-at-10-37-01-am.png&na.image_optimisation=0",
-    "publishedAt": "2026-11-13T01:03:00Z",
-    "author": "Bronwyn Thompson"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Cummins hits out at Khawaja in passionate hour-long press conference",
-    "description": "Australian Test cricket captain Pat Cummins rubbishes Usman Khawaja's ball tampering claims in a long and passionate press conference.",
-    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770",
-    "image": "https://live-production.wcms.abc-cdn.net.au/3a409892b31342586b04fada8a2fd05e?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-13T00:39:48Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "How to watch AUS vs ENG ODI 2026 live: Start time, TV channels, streaming and broadcast details for England tour of Australia",
-    "description": "Full broadcast details on where to watch the Australia vs England ODI series 2026 live on TV and live-streaming platforms.",
-    "url": "https://www.cricketnews.com/en/cricket/news/how-watch-aus-vs-eng-odi-2026-live-start-time-tv-streaming-broadcast/8d868acd26ea5fc214f0d8fc",
-    "image": "https://s.yimg.com/lo/mysterio/api/631589ca1222b2ac6a085fc787006d4642f18f180c79d23594aa2913d9ad2472/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37a4537941ea096275411af3616fb20a",
-    "publishedAt": "2026-11-13T00:00:01Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 4th ODI: Shreyas Iyer to lead, Ishan Kishan likely to open with Rohit Sharma",
-    "description": "India vs New Zealand Live Score, 4th ODI: The India vs New Zealand fourth ODI promises an intriguing contest as the two sides meet at Bay Oval in Mou",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-4th-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-live-streaming-weather-wellington/liveblog/135775634.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135775634,width-1280,height-720,imgsize-104602,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T23:55:57Z",
-    "author": "The Times Of India"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Hard Quiz Kids AU S03E06 1080p WEBDL H264-Pr1M371M3",
-    "description": "Season 3, Episode 06 – \"Grease, Mozart, Steve Smith and The Inbestigators\"Four young know-it-alls try to get their hands on Tom Gleeson's Big Brass Mug, but which eclectic topic will win the day: the film Grease, Mozart, cricketer Steve Smith, or TV series Th…",
-    "url": "https://post.rlsbb.cc/hard-quiz-kids-au-s03e06-1080p-webdl-h264-pr1m371m3/",
-    "image": null,
-    "publishedAt": "2026-11-12T23:05:27Z",
-    "author": "Lisa"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Weekend could see temperatures hit 30C as dry, settled spell moves over New Zealand",
-    "description": "Highs of 30C on way in east Sunday, with sunshine today for cricket fans in Tauranga.",
-    "url": "https://www.nzherald.co.nz/nz/weekend-could-see-temperatures-hit-30c-as-dry-settled-spell-moves-over-new-zealand/N5P57MEJRBCP5P3QSLR66WY2BE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/CRFRGIJY5FHNXJUEPXVQEO6FKQ.jpg?auth=2202d476522f225da5522309dce5ec72d0acb5e84d0877945debfeb21264fa77&width=1200&height=675&quality=70&focal=1153%2C558&smart=false",
-    "publishedAt": "2026-11-12T21:36:55Z",
-    "author": "Herald Reporters"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Live: Cummins to address ball tampering claims after Khawaja revelations",
-    "description": "Australia Test captain Pat Cummins is set to speak to the media at Cricket NSW's headquarters about Usman Khawaja's recent revelations about Australia's ball tampering in 2018. Follow live.",
-    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
-    "image": "https://live-production.wcms.abc-cdn.net.au/f28a64f0283a269a364e4651bf0060c3?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-12T21:26:54Z",
-    "author": "Jon Healy"
+    "source": "Business Standard",
+    "title": "David Warner slams Cummins over Khawaja remarks, says book tells truth",
+    "description": "Former batter David Warner on Friday accused Australian skipper Pat Cummins of throwing Usman Khawaja \"under the bus\" and asserted that what his one-time opening partner wrote in his autobiography about the 2018 ball tampering scandal was \"true\".\nWarner mount…",
+    "url": "https://www.business-standard.com/cricket/news/david-warner-slams-cummins-over-khawaja-remarks-says-book-tells-truth-126111300403_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-01/02/thumb/fitandfill/1200X628/1704172049-0543.jpg",
+    "publishedAt": "2026-11-13T04:33:34Z",
+    "author": "Press Trust of India"
   },
   {
     "source": "Ozbargain.com.au",
-    "title": "[PC, Steam] BALL x PIT $10.99 @ Steam",
-    "description": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate …",
-    "url": "https://www.ozbargain.com.au/node/982862",
-    "image": "https://files.ozbargain.com.au/n/62/982862l.jpg?h=9926aa81",
-    "publishedAt": "2026-11-12T21:19:27Z",
-    "author": "staphuler"
-  },
-  {
-    "source": "Camer.be",
-    "title": "Monde Entier - Cricket Fans, Orange Money and Online Casino Payment Risks in 2026",
-    "description": "The Match Is Free to Watch. The Fan Economy Isn't: Cricket's Orange\nMoney Payment Puzzle\n\nImagine a cricket fan in Dakar settling in for a Women's Big Bash\nLeag...",
-    "url": "https://www.camer.be/actualites/societe/monde-entier-cricket-fans-orange-money-and-online-casino-payment-risks-in-2026",
-    "image": "https://www.camer.be/storage/photos/shares/Monde3/Casino_Seven13112026.jpg",
-    "publishedAt": "2026-11-12T21:04:00Z",
-    "author": "Franck Bafeli"
-  },
-  {
-    "source": "TechRadar",
-    "title": "How to watch Australia vs England ODI Series 2026: Free Streams, TV Channels, Schedule & Preview",
-    "description": "All the ways to watch the Australia vs England 2026 ODI series from anywhere in the world for free with TV channels, broadcast details, schedule and preview included.",
-    "url": "https://www.techradar.com/entertainment/cricket/how-to-watch-australia-vs-england-2026-odi-series-free",
-    "image": "https://cdn.mos.cms.futurecdn.net/HooTW2hxiiFBZhxVNH7xbL-2560-80.jpg",
-    "publishedAt": "2026-11-12T21:00:00Z",
-    "author": "Krishi Chowdhary"
-  },
-  {
-    "source": "The Times of India",
-    "title": "NZ vs IND 4th ODI: New Zealand look to avoid series defeat, as Iyer set for ODI captaincy debut",
-    "description": "The third ODI in Hamilton presented New Zealand with an opportunity to bounce back, but persistent rain washed out the contest without a ball being bowled. The abandonment meant India retained their 2-0 lead in the five-match series.",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/nz-vs-ind-4th-odi-new-zealand-look-to-avoid-series-defeat-as-iyer-set-for-odi-captaincy-debut/articleshow/135780562.cms",
-    "image": "https://img.etimg.com/thumb/msid-135780596,width-1200,height-900,imgsize-143270,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T18:23:32Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vision Cricket India League National Veterans T20 tournament in Jaipur from Nov 13 to 15; Five teams to compete, league officially announced with jersey launch",
-    "description": "Vision Cricket India League National Veterans T20 tournament in Jaipur from Nov 13 to 15; Five teams to compete, league officially announced with jersey launch",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/vision-cricket-india-league-national-veterans-t20-tournament-in-jaipur-from-nov-13-to-15-five-teams-to-compete-league-officially-announced-with-jersey-launch/articleshow/135780453.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135780451,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T18:16:07Z",
-    "author": "TNN"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Overreaction, error and anger still plague Australia's sandpaper response",
-    "description": "Usman Khawaja's revelations on Sandpapergate may have come eight years after the fact, but time has not changed Australia's response to the cricket scandal.",
-    "url": "https://www.abc.net.au/news/2026-11-13/cricket-australia-response-sandpaper-error-usman-khawaja-book/107378542",
-    "image": "https://live-production.wcms.abc-cdn.net.au/353581797027acb5fd6f53dc45f36912?impolicy=wcms_watermark_news&cropH=2048&cropW=3640&xPos=0&yPos=150&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-12T18:00:00Z",
-    "author": "Russell Jackson"
+    "title": "ODI Australia England 1st innings free @ kayo freebies",
+    "description": "Deal: ODI Australia England 1st innings free @ kayo freebies, Store: Kayo Sports, Category: Entertainment",
+    "url": "https://www.ozbargain.com.au/node/982951",
+    "image": "https://www.ozbargain.com.au/themes/ozbargain/logo-square.png",
+    "publishedAt": "2026-11-13T04:21:04Z",
+    "author": "Captain Hindsight"
   },
   {
     "source": "Dailymail.com",
-    "title": "Tone-deaf Australians are taking us for fools with Sandpapergate cover-up that shames their nation - if they won't punish cowardly cheats before the Ashes, the ICC must do it for them",
-    "description": "I spoke to one England insider yesterday who said Australia were turning into a laughing stock. 'There is no way in the world that the rest of the lads in that team did not know what was going on,' he said.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16286673/Australia-Sandpapergate-cheats-Ashes-ICC.html",
-    "image": "https://i.dailymail.com/1s/2026/11/12/16/112471199-0-image-m-34_1794500511557.jpg",
-    "publishedAt": "2026-11-12T17:01:20Z",
-    "author": "Oliver Holt"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Are they hiding anything?': Late Shane Warne's Sandpapergate questions about Australia's 'bowling cartel' resurface in 2026",
-    "description": "Late legend Shane Warne's 2022 questions to Cricket Australia over a Sandpapergate cover-up resurface after Usman Khawaja's book.",
-    "url": "https://www.cricketnews.com/en/cricket/news/shane-warne-sandpapergate-questions-australia-resurface-khawaja-expose/e8344d92193758cf7214802d",
-    "image": "https://s.yimg.com/lo/mysterio/api/2c43d3bf2955ddfda489343016a3a8db130808747904e696be45fe325da30a86/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F883145e7e0a998c70fc1efced8f31c1c",
-    "publishedAt": "2026-11-12T16:30:01Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "RTE",
-    "title": "Gunaratne and Perera power Sri Lanka past Ireland",
-    "description": "Sri Lanka chased down 106 without losing a wicket to beat Ireland on the opening day of the ICC Women's Emerging Nations Trophy 2026 in Ajman in the UAE.",
-    "url": "https://www.rte.ie/sport/cricket/2026/1112/1599016-gunaratne-and-perera-power-sri-lanka-past-ireland/",
-    "image": "https://www.rte.ie/images/00255495-1600.jpg",
-    "publishedAt": "2026-11-12T16:23:18Z",
-    "author": "RTÉ Sport"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "KKR retention list for IPL 2027 auction: Full list of retained and released players by Kolkata Knight Riders ahead of mini-auction",
-    "description": "Check out Kolkata Knight Riders' full list of retained and released players ahead of the IPL 2027 mini auction.",
-    "url": "https://www.cricketnews.com/en/ipl/news/kkr-retention-list-ipl-2027-auction-mini-kolkata-knight-riders/22231413574addcfd766ae17",
-    "image": "https://s.yimg.com/lo/mysterio/api/bb398b10580452ae625855bc9878ab697e05466700b6b1d0689141b8fac04160/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F45b2a8fee695749d0dcf163d0a778177",
-    "publishedAt": "2026-11-12T16:00:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "DC retention list for IPL 2027 auction: Full list of retained and released players by Delhi Capitals ahead of mini-auction",
-    "description": "The Cricket News takes a look at the full list of retained and released players by Delhi Capitals ahead of the mini-auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/dc-retention-list-ipl-2027-mini-auction-players-delhi-capitals/4539cc70c55cfe83dcab542c",
-    "image": "https://s.yimg.com/lo/mysterio/api/3659a2bab611656d0776c21995bc9d3a4c0aa4f973dac5184d59a6246f27f305/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7061908222dcef0de995052836671024",
-    "publishedAt": "2026-11-12T15:20:01Z",
-    "author": "Soham Mukherjee"
+    "title": "David Warner unloads on Pat Cummins for throwing Usman Khawaja 'under the bus' over Sandpapergate - and reveals he and wife Candice lost a baby during the fallout as he describes his 'life punishment'",
+    "description": "David Warner addressed Pat Cummins' claims while commentating for Fox Cricket before Australia's one day international match against England at Perth's Optus Stadium on Friday.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16289211/David-Warner-unloads-Pat-Cummins-throwing-Usman-Khawaja-bus-Sandpapergate-reveals-wife-Candice-lost-baby-fallout-describes-life-punishment.html",
+    "image": "https://i.dailymail.com/1s/2026/11/13/03/112482183-0-image-a-14_1794540565473.jpg",
+    "publishedAt": "2026-11-13T03:35:35Z",
+    "author": "Kylie Stevens, Alasdair Belling"
   },
   {
     "source": "The Times of India",
-    "title": "'Need more clarity': Mohsin Naqvi shares big update on Mohammad Rizwan, Imam-ul-Haq probe",
-    "description": "Pakistan Cricket Board chairman Mohsin Naqvi confirmed that investigations into players Mohammad Rizwan and Imam-ul-Haq are nearing completion and findings are expected soon. Both players are allowed to continue participating in domestic cricket during the in…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/need-more-clarity-mohsin-naqvi-shares-big-update-on-mohammad-rizwan-imam-ul-haq-probe/articleshow/135774133.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135774215,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T15:01:58Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Rlsbb.cc",
-    "title": "Wisden Cricket Monthly - Issue 102 2026",
-    "description": "Founded in 1864 by the Victorian cricketer-cum-entrepreneur John Wisden - a tiny fast bowler from Brighton who is still the only player to have bowled all 10 batsmen in the same first-class innings - the Almanack has long been the most prestigious name in spo…",
-    "url": "https://post.rlsbb.cc/wisden-cricket-monthly-issue-102-2026/",
-    "image": null,
-    "publishedAt": "2026-11-12T15:01:12Z",
-    "author": "saamaan1@yahoo.com (Master)"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mitchell Marsh reveals Australia's preferred top six for 2027 ODI World Cup ahead of England series",
-    "description": "Australia is in full swing, gearing up for the 2027 ODI World Cup and assessing their batting options for future matches. Stand-in captain Mitchell Marsh hints at a solid core that could feature heavily. The opening ODI against England in Perth is set to reve…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-marsh-reveals-australias-preferred-top-six-for-2027-odi-world-cup-ahead-of-england-series/articleshow/135773131.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135773446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T14:31:56Z",
-    "author": "Nitesh Dubey"
+    "title": "AUS vs ENG 1st ODI: Australia opt to field vs England in Perth",
+    "description": "",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-vs-england-aus-vs-eng-1st-odi-live-updates-commentary-perth/liveblog/135788281.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135788281,width-1280,height-720,imgsize-83206,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-13T03:34:16Z",
+    "author": "The Times Of India"
   },
   {
     "source": "Yahoo Entertainment",
-    "title": "Northants batter Bartlett agrees contract extension",
-    "description": "Northamptonshire batter George Bartlett signs a one-year contract extension that will see him remain with the county until the end of the 2028 season.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_65f43cea-c019-47bc-a7d2-5deb66acd193",
-    "image": null,
-    "publishedAt": "2026-11-12T13:12:51Z",
-    "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "India's Pant clears fitness test ahead of New Zealand tests",
-    "description": "Nov 12 : India wicketkeeper-batter Rishabh Pant has passed a fitness test and left to join the national team in New Zealand for a two-test series, media reports said on Thursday.The 29-year-old, who last played for India in August, was sidelined with a left-s…",
-    "url": "https://www.channelnewsasia.com/sport/indias-pant-clears-fitness-test-ahead-new-zealand-tests-6546226",
-    "image": "https://dam.mediacorp.sg/image/upload/s--z375jnrJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T123033Z_1_LYNXNPEMAB19R_RTROPTP_3_CRICKET-IPL-LSG-PBKS.JPG?itok=5-Trs5qL",
-    "publishedAt": "2026-11-12T12:30:33Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "BCCI sponsors air fare for India's visually challenged cricket squad",
-    "description": "Durga Rao Tompaki will lead a 17-member visually challenged Indian cricket team at the Asia Cup. The tournament is set to take place in Dhaka from November 15 to 20. India aims to reclaim the title they last won a decade ago. The Cricket Association for the B…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/bcci-sponsors-air-fare-for-indias-visually-challenged-cricket-squad/articleshow/135769555.cms",
-    "image": "https://img.etimg.com/thumb/msid-135769593,width-1200,height-900,imgsize-67912,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-12T12:27:23Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Simon Taufel returns to lead ILT20 match officials' panel for Season 5",
-    "description": "Simon Taufel will return as match referee for the fifth season of the International League T20. The tournament will begin on November 21 with a match between Desert Vipers and MI Emirates. Updated playing conditions will be introduced to improve the pace of t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/simon-taufel-returns-to-lead-ilt20-match-officials-panel-for-season-5/articleshow/135769087.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135769317,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-12T12:18:11Z",
-    "author": "TOI Sports Desk"
+    "title": "Australia’s Mitch Marsh wins toss, sends England in to bat in 1st cricket ODI",
+    "description": "PERTH, Australia (AP) — Australia captain Mitch Marsh won the toss and sent England in to bat in the series-opening one-day cricket international on Friday that has been overshadowed by the reignition of the 2018 Sandpapergate scandal.Less than four hours bef…",
+    "url": "https://sports.yahoo.com/articles/australia-mitch-marsh-wins-toss-032914024.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/dc867fa3a61d6d6172803d60e24c8a8bcf6999c54f910bbffc06e3eb2b7e9d95/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc73345aa23db53b764ba6da0b00a0714.jpg",
+    "publishedAt": "2026-11-13T03:29:14Z",
+    "author": "Associated Press"
   }
 ]
 ;
