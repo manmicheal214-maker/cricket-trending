@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "The Daily Caller",
+    "title": "‘Stop Quoting Laws To Men With Swords’: Marco Rubio Delivers Speech Slamming Global Institutions",
+    "description": "Secretary of State Marco Rubio invoked Roman general Pompey to warn the ICC its rulings hold no power over Americans in a Federalist Society speech.",
+    "url": "https://dailycaller.com/2026/11/14/marco-rubio-icc-warning-federalist-society-national-lawyers-convention",
+    "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/11/GettyImages-2304490969_2.jpg",
+    "publishedAt": "2026-11-14T17:15:29Z",
+    "author": "Mark Tanos, Mark TanosMTanoshttps://api.dailycaller.com/static/default-author.pngmarklorenzotanoswriter@gmail.com , Mark Tanos"
+  },
+  {
+    "source": "New York Post",
+    "title": "Urgent bacteria warning issued for all LA beaches after storms batter SoCal",
+    "description": "Los Angeles County officials are urgently asking all residents to stay away from the beaches this weekend after a Friday rainstorm.",
+    "url": "https://nypost.com/2026/11/14/us-news/los-angeles-county-issues-beach-water-contamination-advisory-after-heavy-rain/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148748872.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-11-14T16:50:59Z",
+    "author": "Titus Wu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Outstanding day for Indian cricket’: President Murmu, PM Modi hail U-19 Asia Cup champions",
+    "description": "NEW DELHI: President Droupadi Murmu and Prime Minister Narendra Modi on Saturday congratulated the Indian men's Under-19 cricket team after it defeated",
+    "url": "https://timesofindia.indiatimes.com/india/outstanding-day-for-indian-cricket-president-murmu-pm-modi-hail-u-19-asia-cup-champions/articleshow/135837860.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135837952,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T16:46:33Z",
+    "author": "Priyanka Jaiswal"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Indian cricket is in safe hands': Karthik, Irfan, Sehwag hail India U19 after dramatic Asia Cup final win",
+    "description": "In an electrifying showdown, India's U19 cricket team clinched a stunning one-wicket victory over Pakistan in the Asia Cup final. Chasing a daunting target of 338 runs, the young players delivered stellar performances, with Aaryavir Sehwag emerging as the tou…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-cricket-is-in-safe-hands-karthik-irfan-sehwag-hail-india-u19-after-dramatic-asia-cup-final-win/articleshow/135837620.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135837724,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T16:32:29Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "India Clinches U19 Asia Cup; President Extends Congratulations",
+    "description": "President Droupadi Murmu congratulated the Indian cricket team for winning the men's Under-19 Asia Cup tournament. India defeated Pakistan by one wicket in a thrilling final held in Oman on Saturday, showcasing exceptional skill and determination.",
+    "url": "https://www.rediff.com/sports/report/president-droupadi-murmu-congratulates-team-india-on-u19-asia-cup-win/20261114.htm",
+    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+    "publishedAt": "2026-11-14T16:21:57Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BCCI set to shift WPL-2027 matches in Mumbai from CCI to Wankhede Stadium",
+    "description": "The BCCI has officially announced the relocation of the Women's Premier League matches to Wankhede Stadium, a strategic move designed to safeguard the pitch before the ICC Women's Champions Trophy commences. Scheduled from January 14 to February 7, these exci…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-set-to-shift-wpl-2027-matches-in-mumbai-from-cci-to-wankhede-stadium/articleshow/135836497.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135836690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T15:35:51Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'It was a roller coaster': India U19 captain Lakshya Raichandani on dramatic one-wicket win over Pakistan",
+    "description": "In a nail-biting finale, India's Under-19 cricket team triumphed over Pakistan by successfully chasing down 338 runs. Captain Lakshya Raichandani was instrumental, scoring 80 runs from 101 deliveries, while Manal Chauhan and Mohit Ulva also made key contribut…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-was-a-roller-coaster-india-u19-captain-lakshya-raichandani-on-dramatic-one-wicket-win-over-pakistan/articleshow/135836324.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135836394,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T15:22:24Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "Modi Congratulates U-19 Cricket Team",
+    "description": "Prime Minister Narendra Modi congratulated the Indian U-19 cricket team for their Asia Cup victory in Oman, highlighting their inspiring performance after a thrilling win against Pakistan.",
+    "url": "https://www.rediff.com/sports/report/pm-modi-congratulates-indias-u-19-asia-cup-champions/20261114.htm",
+    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+    "publishedAt": "2026-11-14T14:55:11Z",
+    "author": "sports@rediff.co.in (Rediff Sports Desk)"
+  },
+  {
+    "source": "Pro Football Network",
+    "title": "‘He Hits The Panic Button,’ ‘They Don’t Fully Trust Him’ — 3-Time Pro Bowler Calls J.J. McCarthy a ‘One-Read Quarterback’ After Giants’ TNF Loss",
+    "description": "The New York Giants dropped to 5-3-1 following the 24-21 loss on Thursday, while the Washington Commanders improved to 3-5-1. It was an unfortunate ending for J.",
+    "url": "https://www.profootballnetwork.com/pro-bowler-j-j-mccarthy-one-read-quarterback-giants-tnf/?utm_medium=rss&amp;utm_source=nordot",
+    "image": "https://s.yimg.com/lo/mysterio/api/2ddac6313dd386ea8fdc942cb19a682513de0ce4c3df2109bae05fe3a4a21718/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F1dec982b74998b9d7f7c694055056cee.jpg",
+    "publishedAt": "2026-11-14T14:36:55Z",
+    "author": "Maliha Akter"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pat Cummins and wife Rebecca bought their Moss Vale investment property for $905,000 in 2017, rented it out for $550 a week, now sold it for $1.16 million after eight months on the market",
+    "description": "Australian cricket captain Pat Cummins and wife Rebecca have sold their Moss Vale investment property for an estimated $1.16 million after eight months on the market. The couple bought the 1920s three-bedroom bungalow for $905,000 in 2017. Previously rented f…",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/pat-cummins-and-wife-rebecca-bought-their-moss-vale-investment-property-for-905000-in-2017-rented-it-out-for-550-a-week-now-selling-it-for-1-16-million-after-eight-months-on-the-market/articleshow/135831282.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135831468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T14:32:18Z",
+    "author": "TOI Real Estate Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Outstanding day for Indian cricket': PM Narendra Modi congratulates India U-19 team on Asia Cup triumph",
+    "description": "Prime Minister Narendra Modi expressed his heartfelt congratulations to the Indian Under-19 cricket team after their nail-biting win against Pakistan in the Asia Cup. India pulled off a remarkable one-wicket chase, successfully overcoming a challenging target…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/outstanding-day-for-indian-cricket-pm-narendra-modi-congratulates-india-u-19-team-on-asia-cup-triumph/articleshow/135835262.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135835300,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T14:25:49Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Biratnagar Kings set 167-run target for Lumbini Lions",
+    "description": "KATHMANDU: Biratnagar Kings have set a target of 167 runs for Lumbini Lions in Saturday’s Nepal Premier League (NPL) match. In the match being played at the Tribhuvan University International Cricket Stadium in Kirtipur, Lumbini Lions won the toss and elected…",
+    "url": "https://english.khabarhub.com/2026/14/575605/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/NPL-.jpg",
+    "publishedAt": "2026-11-14T13:52:36Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'I was envious': R Ashwin makes honest confession about Ravindra Jadeja",
+    "description": "Ravichandran Ashwin explained how he capitalized on Ravindra Jadeja's strengths in their successful partnership. They formed a potent spin duo in Test cricket, taking a combined total of 587 wickets. Ashwin noted Jadeja's consistency, which allowed him to tak…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-envious-r-ashwin-makes-honest-confession-about-ravindra-jadeja/articleshow/135833131.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135833598,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T13:15:00Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "starshield-forensics 0.3.8",
+    "description": "Deterministic, offline Chromium & Electron LevelDB (.log) carver, PNG/JPEG screenshot & ICC provenance inspector, ISO-13616/Luhn financial checksum validator, and zero-dependency Model Context Protocol (MCP) server.",
+    "url": "https://pypi.org/project/starshield-forensics/0.3.8/",
+    "image": null,
+    "publishedAt": "2026-11-14T12:26:24Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Who will replace Rishabh Pant? Ex-India opener reveals LSG's two leading captaincy options",
+    "description": "In a pivotal acquisition, Lucknow Super Giants have secured Kuldeep Yadav from Delhi Capitals as a strategic enhancement to their bowling lineup ahead of IPL 2027. With his proven wicket-taking skills and spin capabilities, Kuldeep's impact at Ekana Stadium i…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/who-will-replace-rishabh-pant-ex-india-opener-reveals-lsgs-two-leading-captaincy-options/articleshow/135829606.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135831143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T11:19:57Z",
+    "author": "Pranav Shukla"
+  },
+  {
     "source": "The Times of India",
     "title": "'You can't completely surrender': Ex-India cricketer's blunt assessment after Matt Henry's six-wicket demolition",
     "description": "India suffered a significant batting collapse in the fourth ODI against New Zealand, leading to serious concerns. Head coach Gautam Gambhir and former opener Aakash Chopra emphasized the need for greater responsibility from the batters. New Zealand's Matt Hen…",
@@ -133,141 +268,6 @@ window.cricketNews = [
     "image": "https://static.dw.com/image/75877498_6.jpg",
     "publishedAt": "2026-11-14T06:37:00Z",
     "author": "Midhat Fatimah"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Vaibhav Sooryavanshi scripts history, becomes youngest captain in men's T20 cricket history",
-    "description": "The Bihar Cricket Association (BCA) announced a 17-member squad last Friday, naming Sooryavanshi captain for the first two matches of the tournament. Suraj Kashyap was appointed vice-captain.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-scripts-history-becomes-youngest-captain-in-mens-t20-cricket-history/articleshow/135824695.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135824756,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T06:29:56Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "New Zealand vs. India 5th ODI prediction, lineups and Bay Oval pitch report — who will win?",
-    "description": "India lead 2-1 at Bay Oval. Our NZ vs IND 5th ODI preview has the prediction, likely lineups and pitch report to help you pick the winner.",
-    "url": "https://www.cricketnews.com/en/cricket/play/new-zealand-vs-india-5th-odi-prediction-lineups-bay-oval-pitch-report/eb3b010099e54d68839981be",
-    "image": "https://s.yimg.com/lo/mysterio/api/69e71b3fedba42b715e202a780692fb21b0df562f80a65ce64881bdc831df027/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F429915765bbff0148b5e9ff8a3c6ec37",
-    "publishedAt": "2026-11-14T06:13:00Z",
-    "author": "Ajay Gandhar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Far more than 3 people involved' - Old quotes from David Warner's manager resurface amid CA row over Sandpapergate investigation",
-    "description": "David Warner's manager James Erskine's 2022 claims accusing Cricket Australia executives of approving ball-tampering resurface.",
-    "url": "https://www.cricketnews.com/en/cricket/news/james-erskine-david-warner-2022-sandpapergate-australia/09a6b56f2bc811d4fc0443ef",
-    "image": "https://s.yimg.com/lo/mysterio/api/db24994573290043f5664e0dc0fa0e3074cda45aacf0d0b63000cf649789e73e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9781515dd5cae8f4795c1a01c7c3e816",
-    "publishedAt": "2026-11-14T05:43:19Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "CNA",
-    "title": "India add Brar to test squad for New Zealand series, release Kuldeep",
-    "description": "Nov 14 : Fast bowler Gurnoor Brar has been added to India's squad for the two-test series against New Zealand, while spinner Kuldeep Yadav has been released to play domestic cricket in India, the country's cricket board (BCCI) said on Saturday.• Brar, 26, wil…",
-    "url": "https://www.channelnewsasia.com/sport/india-add-brar-test-squad-new-zealand-series-release-kuldeep-6551356",
-    "image": "https://dam.mediacorp.sg/image/upload/s--u6syLDsA--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-14T051948Z_1_LYNXNPEMAD06O_RTROPTP_3_CRICKET-ODI-ENG-IND.JPG?itok=R24NCDpa",
-    "publishedAt": "2026-11-14T05:19:48Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
-    "description": "From an enthusiastic kid to a teenage tearaway, Mahli Beardman's talents were spotted early as a junior cricketer in regional WA.",
-    "url": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108",
-    "image": "https://live-production.wcms.abc-cdn.net.au/7f010c432a62af5268d01acf823ab12c?impolicy=wcms_watermark_news&cropH=353&cropW=627&xPos=0&yPos=211&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-14T05:17:48Z",
-    "author": "Yousuf Shameel and Jacqueline Lynch"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ: Gurnoor Brar added to Test squad, Kuldeep Yadav released as India go heavier on pace",
-    "description": "The two-Test series begins in Wellington on November 19. Gurnoor will join the Indian squad in Wellington and, as a result, will miss the fifth and final ODI against New Zealand on Sunday.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-gurnoor-brar-added-to-test-squad-kuldeep-yadav-released-as-india-go-heavier-on-pace/articleshow/135823318.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135823582,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T05:16:47Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Times Shield is an institution, says Amol Muzumdar",
-    "description": "At the Times Cricket Shield function, head coach Amol Muzumdar emphasised his formative experiences in cricket and the invaluable lessons from mentor Sandeep Patil. He stressed the importance of respecting the sport and using setbacks as learning opportunitie…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/times-shield-is-an-institution-says-amol-muzumdar/articleshow/135823213.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135823304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T04:54:05Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Harassed in name of love': 17-year-old cricketer, who played BCCI U-15 trophy, dies by suicide in Telangana; kin blames 2 youths",
-    "description": "A 17-year-old girl was found dead at her grandmother's house in Vikarabad on Friday. Family members claim that two youths harassed her excessively in recent days, leading to her tragic death. The girl had shown great promise in cricket, having represented the…",
-    "url": "https://timesofindia.indiatimes.com/city/hyderabad/harassed-in-name-of-love-17-year-old-cricketer-who-played-bcci-u-15-trophy-dies-by-suicide-kin-blames-2-youths/articleshow/135823098.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135823197,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T04:52:28Z",
-    "author": "Madhu Rasala"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "David Warner delivers blistering attack on Australia's top cricket organisation over Sandpapergate investigation - as Pat Cummins appears carefree on family walk after shutting down Usman Khawaja's controversial claims",
-    "description": "David Warner has branded Cricket Australia's investigation into Sandpapergate 'shoddy'.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16291871/david-warner-cricket-australia-sandpapergate-cummins-khawaja.html",
-    "image": "https://i.dailymail.com/1s/2026/11/14/04/112502909-0-image-m-24_1794629298214.jpg",
-    "publishedAt": "2026-11-14T04:20:26Z",
-    "author": "Caitlin Powell"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Syed Mushtaq Ali Trophy offers players a final chance to impress IPL scouts",
-    "description": "Kickstarting this Saturday, the Syed Mushtaq Ali T20 Trophy unfolds at five venues throughout India, shining a spotlight on promising talent. It's a chance for uncapped players to capture the attention of IPL scouts ahead of the auction. Veteran players like …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/syed-mushtaq-ali-trophy-offers-players-a-final-chance-to-impress-ipl-scouts/articleshow/135822492.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135822589,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T04:20:00Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-    "description": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
-    "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-14T04:03:49Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Breaking: Warner says ball-tampering investigation 'stinks of a cover-up'",
-    "description": "David Warner says Cricket Australia's investigation into the ball tampering perpetrated by the team, which saw him banned for a year, was poorly handled and sought a pre-determined outcome.",
-    "url": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252",
-    "image": "https://live-production.wcms.abc-cdn.net.au/f8d2db95ba2825014fcb05337bb71e17?impolicy=wcms_watermark_news&cropH=1692&cropW=3008&xPos=0&yPos=192&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-14T03:44:22Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Hazlewood, Starc or Lyon weren't interviewed': David Warner makes bombshell claim on ball-tampering, accuses CA of 'cover up'",
-    "description": "In another development in the controversy that rocked Australian cricket, Warner claimed that CA did not interview Josh Hazlewood, Mitchell Starc or Nathan Lyon during its investigation in the days after the Cape Town Test in 2018.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hazlewood-starc-or-lyon-werent-interviewed-david-warner-makes-bombshell-claim-on-ball-tampering-accuses-ca-of-cover-up/articleshow/135821344.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135821499,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T03:34:35Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Sandpaper scratch is totally different': Wasim Akram questions Australian bowlers' 'didn't know' defence in Sandpapergate",
-    "description": "Calling Pat Cummins a 'very close friend,' Pakistan legend Wasim Akram explains why any experienced bowler would spot sandpaper scratches on a ball immediately.",
-    "url": "https://www.cricketnews.com/en/cricket/news/wasim-akram-sandpapergate-pat-cummins-australia/b9143867e5bca9b584009211",
-    "image": "https://s.yimg.com/lo/mysterio/api/5186ab7e9028ce7f4afe8842ad280ff243d0d62e731957010999a603e0b981ce/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F01c0936e9778ca36cb23618f7056843d",
-    "publishedAt": "2026-11-14T03:29:31Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "AUS vs ENG 1st ODI: Inspired by Mitchell Johnson of 2013-14, Mahli Beardman runs through England on debut",
-    "description": "Mahli Beardman expressed his admiration for fast bowlers Mitchell Johnson and Dale Steyn during his debut match. He took an impressive 6 wickets for 24 runs in just 7.4 overs against England. Australia's victory came as they chased down a target of 132 runs c…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aus-vs-eng-1st-odi-inspired-by-mitchell-johnson-of-2013-14-mahli-beardman-runs-through-england-on-debut/articleshow/135821338.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135821479,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T03:28:27Z",
-    "author": "Diptayan Hazra"
   }
 ]
 ;
