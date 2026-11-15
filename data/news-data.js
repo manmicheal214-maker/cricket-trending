@@ -1,5 +1,14 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
+    "description": "The ball-tampering scandal doesn't look like it's going away any time soon, with Greg Chappell fearing Australian cricket could \"eat itself\".",
+    "url": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
+    "image": "https://live-production.wcms.abc-cdn.net.au/56c90eafc4cd46c88dba0ae62749509b?impolicy=wcms_watermark_news&cropH=1418&cropW=2521&xPos=1598&yPos=739&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-13T23:41:21Z",
+    "author": null
+  },
+  {
     "source": "Al Jazeera English",
     "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
     "description": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
@@ -259,15 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135804722,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-13T13:10:57Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "Khabarhub.com",
-    "title": "Sudurpaschim Royals secure NPL playoff berth with seven-run victory over Kathmandu Gorkhas",
-    "description": "KATHMANDU: Sudurpaschim Royals have booked their place in the Nepal Premier League (NPL) playoffs after registering a seven-run victory over Kathmandu Gorkhas on Friday. Batting first at the TU International Cricket Ground in Kirtipur, Sudurpaschim posted 125…",
-    "url": "https://english.khabarhub.com/2026/13/575467/",
-    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Dipendra-singh-airi.jpg",
-    "publishedAt": "2026-11-13T12:44:01Z",
-    "author": "Khabarhub"
   }
 ]
 ;
