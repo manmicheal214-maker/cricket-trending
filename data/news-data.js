@@ -1,5 +1,50 @@
 window.cricketNews = [
   {
+    "source": "Pro Football Network",
+    "title": "‘Clearly Just Trying to Go Viral’ — 3-Time Pro Bowler Blasts Jameis Winston Over Bizarre ‘Who Let the Dogs Out’ Call in Giants-Commanders",
+    "description": "Jameis Winston brought a little karaoke to a tense fourth quarter. Donte Whitner wanted him cleaning out his locker the next morning.",
+    "url": "https://www.profootballnetwork.com/pro-bowler-jameis-winston-bizarre-call-giants-commanders/?utm_medium=rss&amp;utm_source=nordot",
+    "image": "https://s.yimg.com/lo/mysterio/api/e8a0eddccb123847e2884dea5b443fcda118058ee8affa3691d1385bd534bd7c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fe79194eace5995d9227b8fe27f5d79fc.jpg",
+    "publishedAt": "2026-11-14T21:06:56Z",
+    "author": "Colin Witte"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MP Meet Hayer lays stone for international cricket stadium near Barnala",
+    "description": "MP Meet Hayer lays foundation stone for a Rs 7 crore international-level cricket stadium at Handiaya near Barnala, along the Bathinda-Chandigarh highway.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/mp-meet-hayer-lays-stone-for-international-cricket-stadium-near-barnala/articleshow/135841350.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135841349,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T18:55:19Z",
+    "author": "Neel Kamal"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IND vs NZ 5th ODI 2026 live scorecard, toss winner, winning probability, result and highlights from Bay Oval, Mount Maunganui",
+    "description": "Follow New Zealand vs India 5th ODI live score, real-time win probability, and victory chances from Bay Oval, Mount Maunganui, as Shreyas Iyer leads Team India again.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ind-vs-nz-5th-odi-scorecard-result-highlights-mount-maunganui/7c9aa5a818615007d6fae60b",
+    "image": "https://s.yimg.com/lo/mysterio/api/0042ac1cefcf3827d74c270a2a80eb2ff6f80bb9e7827272fcf71a212c76e574/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd98c26aeb22845cb514b990a9a822414",
+    "publishedAt": "2026-11-14T18:33:39Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pro HPCL Season 4 to kick off in Shimla today",
+    "description": "Pro HPCL Season 4 begins Nov 15 in Shimla; matches Nov 17–Dec 1 at Shimla Cricket Ground with 12 teams, 600+ players and Rs 14 lakh prize.",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/pro-hpcl-season-4-to-kick-off-in-shimla-today/articleshow/135839878.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135839877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T17:44:46Z",
+    "author": "Times News Network"
+  },
+  {
+    "source": "New York Post",
+    "title": "Former Pro Bowler Donte Whitner says Jameis Winston should be cut for ‘Who Let the Dogs Out’ stunt",
+    "description": "Not everyone was thrilled with Jameis Winston’s viral hard count.",
+    "url": "https://nypost.com/2026/11/14/sports/donte-whitner-says-jameis-winston-should-be-cut-for-who-let-the-dogs-out-stunt/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-k13j3mh3e-1794672713076.jpg?quality=75&strip=all&1794654748&w=1200",
+    "publishedAt": "2026-11-14T17:41:15Z",
+    "author": "Jared Schwartz"
+  },
+  {
     "source": "The Daily Caller",
     "title": "‘Stop Quoting Laws To Men With Swords’: Marco Rubio Delivers Speech Slamming Global Institutions",
     "description": "Secretary of State Marco Rubio invoked Roman general Pompey to warn the ICC its rulings hold no power over Americans in a Federalist Society speech.",
@@ -223,51 +268,6 @@ window.cricketNews = [
     "image": "https://img.etimg.com/thumb/msid-135826109,width-1200,height-900,imgsize-81236,overlay-economictimes/articleshow.jpg",
     "publishedAt": "2026-11-14T07:21:42Z",
     "author": "PTI"
-  },
-  {
-    "source": "BBC News",
-    "title": "Warner accuses Cricket Australia of 'cover-up'",
-    "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation...",
-    "url": "https://www.bbc.com/sport/cricket/articles/c59vwpv4rxjeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/4518a660ff6cb94376c16f70191772768090199aab99654788cddce30eb5f3c6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdca3e475cb8837aa483ae517e9bf5ece.jpg",
-    "publishedAt": "2026-11-14T07:20:28Z",
-    "author": "Matthew Henry - BBC Sport Journalist"
-  },
-  {
-    "source": "BBC News",
-    "title": "Warner accuses Cricket Australia of 'cover-up'",
-    "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/438c/live/e3344b00-dff6-11f1-b441-2b33b063138f.jpg",
-    "publishedAt": "2026-11-14T07:20:24Z",
-    "author": "Matthew Henry"
-  },
-  {
-    "source": "CNA",
-    "title": "India's Sooryavanshi becomes youngest captain in men's T20 history",
-    "description": "Nov 14 : India batter Vaibhav Sooryavanshi became the youngest captain in men's Twenty20 history at 15 years and 232 days after leading Bihar in India's domestic T20 competition, the Syed Mushtaq Ali Trophy, on Saturday.• The teenager surpassed Croatia's Zach…",
-    "url": "https://www.channelnewsasia.com/sport/indias-sooryavanshi-becomes-youngest-captain-in-mens-t20-history-6551466",
-    "image": "https://dam.mediacorp.sg/image/upload/s--0Hj8mAo_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-14T071633Z_1_LYNXNPEMAD08D_RTROPTP_3_CRICKET-T20-ENG-IND.JPG?itok=Jp28UzD2",
-    "publishedAt": "2026-11-14T07:16:33Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Indian batters look for answers against seaming ball in fifth ODI against New Zealand",
-    "description": "India is determined to enhance their batting performance in the fifth ODI against New Zealand. The series currently stands at 2-1 in favor of India, making this match crucial. After a poor performance, head coach Gautam Gambhir emphasized the need for improve…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/indian-batters-look-for-answers-against-seaming-ball-in-fifth-odi/articleshow/135825509.cms",
-    "image": "https://img.etimg.com/thumb/msid-135825545,width-1200,height-900,imgsize-78834,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-14T06:55:49Z",
-    "author": "PTI"
-  },
-  {
-    "source": "DW (English)",
-    "title": "India: UK's Prince William, wife Kate to visit India",
-    "description": "During their trip to India, Prince William and Kate will attend the Earthshot Prize ceremony in Mumbai and other events linked to Indian cricket, fashion and cinema. For Princess Kate, the trip to India marks a significant milestone in her gradual return to i…",
-    "url": "https://www.dw.com/en/india-uks-prince-william-wife-kate-to-visit-india/live-79946817",
-    "image": "https://static.dw.com/image/75877498_6.jpg",
-    "publishedAt": "2026-11-14T06:37:00Z",
-    "author": "Midhat Fatimah"
   }
 ]
 ;
