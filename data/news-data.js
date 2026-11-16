@@ -1,5 +1,68 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "IND vs NZ: After sitting out four games, Mohammed Siraj gets his chance in fifth ODI; Yash Thakur makes debut",
+    "description": "Mohammed Siraj finally got an opportunity in the series as India brought back the experienced pacer for the fifth and final ODI against New Zealand at Bay",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-after-sitting-out-four-games-mohammed-siraj-gets-his-chance-in-fifth-odi-yash-thakur-makes-debut/articleshow/135845486.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135845512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-15T02:03:00Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "New Zealand finally wins a toss and opts to bowl in the 5th ODI against India",
+    "description": "MOUNT MAUNGANUI, New Zealand (AP) — New Zealand captain Mitchell Santner has finally won a toss and chosen to bowl Sunday in the fifth one-day cricket international against India at Bay Oval.India's captains Shubman Gill and Shreyas Iyer have won eight of nin…",
+    "url": "https://sports.yahoo.com/articles/zealand-finally-wins-toss-opts-020223689.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/58a0974188c1eb01018be80fcaddb8520e31a1c3660f45430ed152fd17fc3b7c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd946901ae7816547c21d06fb0b0bcbf3.jpg",
+    "publishedAt": "2026-11-15T02:02:23Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "NPL: Two matches scheduled today to determine final league standings",
+    "description": "KATHMANDU: Two matches are scheduled to take place at the Tribhuvan University International Cricket Ground in Kirtipur today under the Nepal Premier League (NPL). The matches will mark the conclusion of the league stage, determining the final points table st…",
+    "url": "https://english.khabarhub.com/2026/15/575630/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/10/Cricket-TU-ground-e1792943788972.jpg",
+    "publishedAt": "2026-11-15T01:48:39Z",
+    "author": "Khabarhub"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Black Caps v India live updates: Fifth One-Day International, from Mt Maunganui’s Bay Oval",
+    "description": "Live updates of the fifth ODI between NZ and India, from Bay Oval.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-live-updates-fifth-one-day-international-from-mt-maunganuis-bay-oval/EFHR5ZN33ZFIRDVOLDRATENCXQ/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/GHHFRCJ6BJCGRI7CFOC4BBWOLE.JPG?auth=1d1914a6d5076f1b64ffb0bd34460fa768baf009adc3eb723ce42d50757bc693&width=1200&height=675&quality=70&focal=794%2C236&smart=false",
+    "publishedAt": "2026-11-15T01:00:00Z",
+    "author": "NZ Herald"
+  },
+  {
+    "source": "Khaama.com",
+    "title": "Cricket Scotland Restricts Afghanistan Ties Over Womens Rights",
+    "description": "ricket Scotland will not arrange bilateral matches with Afghanistan outside ICC events, citing Taliban restrictions on women and girls.",
+    "url": "https://www.khaama.com/cricket-scotland-restricts-afghanistan-ties-womens-rights/",
+    "image": "https://www.khaama.com/wp-content/uploads/2026/11/Cricekt-Afghanistan.jpeg",
+    "publishedAt": "2026-11-15T00:04:49Z",
+    "author": "Fidel Rahmati"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ, 5th ODI: All eyes on Rohit, Virat as wounded India eye series win",
+    "description": "India vs New Zealand Live Score, 5th ODI: India and New Zealand lock horns in the fifth and final ODI of the series at Bay Oval, Mount Maunganui, on",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-5th-odi-2026-match-today-scorecard-virat-kohli-rohit-sharma-weather-forecast-live-streaming/liveblog/135837247.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135837247,width-1280,height-720,imgsize-76108,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-14T23:55:46Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "CBC News",
+    "title": "Wet, windy weather not yet finished with B.C.'s South Coast",
+    "description": "Yet another in a series of systems is forecast to batter the region on Saturday, triggering multiple yellow warnings from Environment and Climate Change Canada.",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-more-rain-and-wind-9.7422394",
+    "image": "https://i.cbc.ca/ais/510e7f41-3c40-4955-a286-797f856eb459,1794695082386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4729%2C2660%29%3BResize%3D620",
+    "publishedAt": "2026-11-14T22:55:25Z",
+    "author": "Simon Little"
+  },
+  {
     "source": "Pro Football Network",
     "title": "‘Clearly Just Trying to Go Viral’ — 3-Time Pro Bowler Blasts Jameis Winston Over Bizarre ‘Who Let the Dogs Out’ Call in Giants-Commanders",
     "description": "Jameis Winston brought a little karaoke to a tense fourth quarter. Donte Whitner wanted him cleaning out his locker the next morning.",
@@ -205,69 +268,6 @@ window.cricketNews = [
     "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ea6/live/8d0137e0-e00d-11f1-b441-2b33b063138f.jpg",
     "publishedAt": "2026-11-14T09:53:45Z",
     "author": "Matthew Henry"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘I’ll know straight away’: Wasim Akram questions Pat Cummins’ Sandpapergate defence",
-    "description": "Wasim Akram has expressed doubt regarding Pat Cummins' assertion of being unaware of the 2018 ball-tampering scandal. Akram states that a bowler with experience should be able to recognise the distinctive scratches made by sandpaper. Conversely, Cummins has f…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ill-know-straight-away-wasim-akram-questions-pat-cummins-sandpapergate-defence/articleshow/135828975.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135829101,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T09:45:26Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "CNA",
-    "title": "'Stinks of a cover-up': Warner blasts Cricket Australia probe",
-    "description": "Nov 14 : Former Australia opener David Warner on Saturday accused Cricket Australia of orchestrating a cover-up in its Sandpapergate investigation, alleging the governing body ignored key witnesses while seeking to pin blame on three players.Former Australia …",
-    "url": "https://www.channelnewsasia.com/sport/stinks-cover-up-warner-blasts-cricket-australia-probe-6551556",
-    "image": "https://dam.mediacorp.sg/image/upload/s--5fdGC3hb--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-14T092547Z_1_LYNXNPEMAD0AI_RTROPTP_3_CRICKET-TEST-ENG-AUS.JPG?itok=UjfBmHJa",
-    "publishedAt": "2026-11-14T09:25:47Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "IPL has to become longer so that all 10 teams play each other home and away: Mohit Burman",
-    "description": "Mohit Burman, co-owner of Punjab Kings, emphasizes the need for a longer IPL window to facilitate a home and away format. He believes all teams should play each other twice, which would enhance the league's structure. Additionally, Burman stated that no new t…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/ipl-needs-longer-format-for-balanced-competition-mohit-burman-advocates-home-and-away-matches-for-all-teams/articleshow/135827797.cms",
-    "image": "https://img.etimg.com/thumb/msid-135827811,width-1200,height-900,imgsize-37570,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-14T08:50:47Z",
-    "author": "PTI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Former Australian cricket captain Michael Clarke is putting his renovated Sydney mansion under the hammer with a $15 million guide; the property was previously marketed for more than $20 million",
-    "description": "Former Australian cricket captain Michael Clarke is putting his renovated Sydney mansion under the hammer with a $15 million guide; the property was previously marketed for more than $20 million",
-    "url": "https://timesofindia.indiatimes.com/real-estate/news/former-australian-cricket-captain-michael-clarke-is-putting-his-renovated-sydney-mansion-under-the-hammer-with-a-15-million-guide-the-property-was-previously-marketed-for-more-than-20-million/articleshow/135815828.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135815838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-14T08:43:41Z",
-    "author": "TOI Real Estate Desk"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-    "description": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-    "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-1908729549-1794642639.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-14T08:10:14Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "15-year-old Vaibhav Sooryavanshi becomes youngest captain in men's T20 history",
-    "description": "Vaibhav Sooryavanshi has become the youngest captain in men's T20 cricket history at the age of 15. He was appointed captain of Bihar for the Syed Mushtaq Ali Trophy 2026 tournament. This achievement surpasses previous records held by other young cricketers f…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/15-year-old-vaibhav-sooryavanshi-becomes-youngest-captain-in-mens-t20-history/articleshow/135826312.cms",
-    "image": "https://img.etimg.com/thumb/msid-135826311,width-1200,height-900,imgsize-147568,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-14T07:36:01Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Will Young calls NZ's win over India one of their most comprehensive victories, eyes series leveller in final ODI",
-    "description": "New Zealand's explosive opener Will Young expressed the team's intent to level the ODI series against India. Following a comprehensive victory in the fourth match, Young highlighted the importance of adapting to conditions. New Zealand scored 333 runs while I…",
-    "url": "https://economictimes.indiatimes.com/news/sports/cricket/will-young-calls-nzs-win-over-india-one-of-their-most-comprehensive-victories-eyes-series-leveller-in-final-odi/articleshow/135825959.cms",
-    "image": "https://img.etimg.com/thumb/msid-135826109,width-1200,height-900,imgsize-81236,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-14T07:21:42Z",
-    "author": "PTI"
   }
 ]
 ;
