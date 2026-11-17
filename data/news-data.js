@@ -1,5 +1,158 @@
 window.cricketNews = [
   {
+    "source": "Biztoc.com",
+    "title": "Massive Waves Batter California Coast, Forcing Closure Of Iconic Piers",
+    "description": "Massive waves battered California's coastline on Sunday, flooding beaches and forcing authorities to close several popular piers amid dangerous ocean conditions.\nNational Weather Service meteorologist Rachel Kennedy attributed the high surf to intense Pacific…",
+    "url": "https://biztoc.com/x/2f94f352434100b1",
+    "image": "https://biztoc.com/cdn/2f94f352434100b1_s.webp",
+    "publishedAt": "2026-11-16T19:57:34Z",
+    "author": "tippinsights.com"
+  },
+  {
+    "source": "Whatkatewore.com",
+    "title": "It’s Veronica Beard & Alexander McQueen for Gully Cricket in Mumbai",
+    "description": "The Princess of Wales chose a Veronica Beard blazer for a cricket match in India. The Prince and Princess arrived in Mumbai last night on …",
+    "url": "https://whatkatewore.com/2026/11/16/its-veronica-beard-alexander-mcqueen-for-gully-cricket-in-mumbai/",
+    "image": null,
+    "publishedAt": "2026-11-16T18:01:23Z",
+    "author": "admin"
+  },
+  {
+    "source": "The Times of India",
+    "title": "BL XI defeat YMCC by 36 runs in inaugural match of Ajay Sharma Memorial T-20 cricket",
+    "description": "BL XI beat YMCC by 36 runs in the Ajay Sharma Memorial T20 opener in Kanpur; Samyak Kumar hit 93 and was named man of the match.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/bl-xi-defeat-ymcc-by-36-runs-in-inaugural-match-of-ajay-sharma-memorial-t-20-cricket/articleshow/135898615.cms",
+    "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-11-16T17:51:28Z",
+    "author": "The Times Of India"
+  },
+  {
+    "source": "CNA",
+    "title": "Greenway appointed ECB's head of women's game strategy",
+    "description": "Nov 16 : Former England batter and current national selector Lydia Greenway is also taking on the role of the country's head of women's game strategy, the England and Wales Cricket Board (ECB) said on Monday.• Greenway's new role will involve working with the…",
+    "url": "https://www.channelnewsasia.com/sport/greenway-appointed-ecbs-head-womens-game-strategy-6556286",
+    "image": "https://dam.mediacorp.sg/image/upload/s--xJO-x1zm--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-16T155625Z_1_LYNXNPEMAF1JJ_RTROPTP_3_CRICKET-ENGLAND.JPG?itok=ubEeD5vM",
+    "publishedAt": "2026-11-16T15:52:02Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Watch: Street cricket and metro ride as Prince and Princess of Wales visit India",
+    "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+    "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/953c/live/db21c7a0-e1cf-11f1-b8c8-67fa35f5afdb.jpg",
+    "publishedAt": "2026-11-16T15:08:59Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Gloucestershire CEO Priscott to step down",
+    "description": "Gloucestershire cricket club CEO Neil Priscott is to step down after seven and a half years with the club.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cm1wrq3452ewo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "image": "https://s.yimg.com/lo/mysterio/api/e4d8e904067df2723a634e09b6f1b67e0a6bdc767ae9ea537a8af9654bb03375/lightyear_networkapi/resizefill_w976_h549%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F98dc935795f79db3b59f4a183af3e681.jpg",
+    "publishedAt": "2026-11-16T14:46:14Z",
+    "author": "BBC"
+  },
+  {
+    "source": "BBC News",
+    "title": "Gloucestershire CEO Priscott to step down",
+    "description": "Gloucestershire cricket club CEO Neil Priscott is to step down after seven and a half years with the club.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cm1wrq3452ewo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5569/live/855759d0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+    "publishedAt": "2026-11-16T14:46:10Z",
+    "author": "BBC Sport"
+  },
+  {
+    "source": "Radio Free Europe/ Radio Liberty",
+    "title": "Taliban Bans Cricket Coverage On Radio Stations In Kandahar",
+    "description": "The Taliban authorities have banned radio stations in Kandahar, the movement’s power base, from broadcasting cricket-related content, including news, commentary, and live match coverage, according to multiple sources in Afghanistan who spoke to RFE/RL.",
+    "url": "https://www.rferl.org/a/afghanistan-kandahar-radio-cricket-coverage-ban-taliban/33899631.html",
+    "image": "https://gdb.rferl.org/c8aabe24-d5f3-4293-84b6-08df3ee82709_cx0_cy6_cw0_w1200_h630.jpg",
+    "publishedAt": "2026-11-16T14:38:00Z",
+    "author": "Farangis Najibullah, Firuza Azizi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mohammed Shami set to join Rajasthan Royals in IPL trade involving Sam Curran",
+    "description": "Mohammed Shami is moving from Lucknow Super Giants to Rajasthan Royals in a trade deal involving Sam Curran. Lucknow Super Giants will release M Siddharth as part of the trade agreement. Shami, despite his recent retirement from Test cricket, brings valuable …",
+    "url": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-set-to-join-rajasthan-royals-in-ipl-trade-involving-sam-curran/articleshow/135892749.cms",
+    "image": "https://img.etimg.com/thumb/msid-135892871,width-1200,height-900,imgsize-132276,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-16T14:28:21Z",
+    "author": "ANI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: LSG likely to trade Mohammed Shami to Rajasthan Royals for Sam Curran",
+    "description": "Lucknow Super Giants are in advanced discussions to trade Mohammed Shami to Rajasthan Royals for Sam Curran. Rajasthan Royals paid Rs 2.4 crore for Curran last season, but he did not play due to injury. Shami was previously acquired by LSG for Rs 10 crore fro…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-lsg-likely-to-trade-mohammed-shami-to-rajasthan-royals-for-sam-curran/articleshow/135892599.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135892696,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-16T14:25:07Z",
+    "author": "Arani Basu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Is Lalit Modi, now a UK citizen, beyond the reach of Indian agencies?",
+    "description": "The IPL founder faces allegations of financial irregularities in India. While the new nationality does not grant him legal immunity or formally prevent extradition, it could narrow India’s options for securing his return",
+    "url": "https://timesofindia.indiatimes.com/toi-plus/international/is-lalit-modi-now-a-uk-citizen-beyond-the-reach-of-indian-agencies/articleshow/135892061.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135892570,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-16T14:21:41Z",
+    "author": "Team TOI Plus"
+  },
+  {
+    "source": "Freerepublic.com",
+    "title": "‘Stop Quoting Laws To Men With Swords’: Marco Rubio Delivers Speech Slamming Global Institutions",
+    "description": "Marco Rubio reached back more than 2,000 years to a Roman general to warn the International Criminal Court (ICC) that its rulings carry no force over Americans. The secretary of state delivered the message during a keynote to the Federalist Society’s National…",
+    "url": "https://freerepublic.com/focus/f-news/4403202/posts",
+    "image": null,
+    "publishedAt": "2026-11-16T13:57:04Z",
+    "author": "The Daily Caller"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Russell, Pollard, Billings and Curran headline six wildcard picks for ILT20 Season 5",
+    "description": "As the countdown to the International League T20 Season 5 begins, six franchises have unveiled their new wildcard picks, promising an electrifying tournament starting on November 21. Among the highlighted additions are Andre Russell, Tom Curran, and Sam Billi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/russell-pollard-billings-and-curran-headline-six-wildcard-picks-for-ilt20-season-5/articleshow/135891525.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135891670,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-16T13:51:14Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pakistan fast bowling coach Shaun Tait says seamer-friendly home wickets are crucial for success",
+    "description": "RAWALPINDI, Pakistan (AP) — Pakistan fast bowling coach Shaun Tait believes preparing seamer-friendly cricket pitches at home is the way forward for Pakistan to compete in World Test Championship in future.Last week, last-placed Pakistan drew its first test i…",
+    "url": "https://sports.yahoo.com/articles/pakistan-fast-bowling-coach-shaun-133145813.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/ec3bf6870a12702bf42b58e12a7c62845a49e8a8f82a0921647beb81942b5341/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff572f04031e611a670e1228b506be794.jpg",
+    "publishedAt": "2026-11-16T13:31:45Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kevin Pietersen leaves England camp midway through Australia tour, heads to India; Here's why",
+    "description": "Kevin Pietersen will leave the England cricket camp to attend a YouTube summit in Mumbai, India. He has been serving as a consultant coach for England during their white-ball series in Australia. England's ODI series against Australia is currently tied at 1-1…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kevin-pietersen-leaves-england-camp-midway-through-australia-tour-heads-to-india-heres-why/articleshow/135890957.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135891085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-16T13:30:53Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "The Test cricketer who climbed Everest: 'You can see the ends of the earth'",
+    "description": "\"I shouldn't have survived to be honest,\" Parore tells The Athletic from his home in Auckland",
+    "url": "https://www.business-standard.com/world-news/the-test-cricketer-who-climbed-everest-you-can-see-the-ends-of-the-earth-126111601614_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/16/thumb/fitandfill/1200X628/1794835388-388.jpg",
+    "publishedAt": "2026-11-16T13:23:56Z",
+    "author": "NYT"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'He makes the ball speak': Auqib Nabi wins India's Impact Player award after New Zealand ODI series triumph",
+    "description": "Auqib Nabi has earned the title of India's 'Impact Player of the Series' after a triumphant ODI victory over New Zealand. His remarkable performance, including crucial wickets under challenging conditions, played a vital role in India's achievement. From a ro…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-makes-the-ball-speak-auqib-nabi-wins-indias-impact-player-award-after-new-zealand-odi-series-triumph/articleshow/135890786.cms",
+    "image": "https://static.toiimg.com/thumb/msid-135890873,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-16T13:21:43Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
     "source": "The Times of India",
     "title": "When will Rohit Sharma and Virat Kohli play next after New Zealand batting failure?",
     "description": "Throughout the ODI series against New Zealand, Rohit Sharma and Virat Kohli encountered difficulties at the crease. Despite Kohli leading the run charts for India, Rohit’s consistency faltered. Looking ahead to the white-ball series against Sri Lanka in Decem…",
@@ -115,159 +268,6 @@ window.cricketNews = [
     "image": "https://s.yimg.com/lo/mysterio/api/f96dcb4fcb016dd323e4e682be5a33a6eb7a975838cbff018bfcc9b2366b1eef/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3cc05018b5f530a6d61d6411c048eb18.jpg",
     "publishedAt": "2026-11-16T10:34:54Z",
     "author": "Associated Press"
-  },
-  {
-    "source": "Dpa-international.com",
-    "title": "UK's princess proves a match for Indian cricket great Tendulkar",
-    "description": "The UK's Princess of Wales told Mumbai crowds on Monday it was “wonderful” to be back in India as she played cricket with the country's former captain Sachin Tendulkar. The event launched the couple’s three-day visit to India to stage William’s Earthshot Priz…",
-    "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:261116-930-1724/",
-    "image": "https://s.yimg.com/lo/mysterio/api/9ac0bc8c53a82506283dff5811a8ad4f72c071e7390b856cb50badf8acf6c417/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff192d312c7264bec9c6afa67aed459f2.jpg",
-    "publishedAt": "2026-11-16T09:48:27Z",
-    "author": "DPA"
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘Double XL’ actor and former Indian cricketer Shikhar Dhawan says wife Sophie brought stability to his life, admits having NO contact with son for 4 years",
-    "description": "Former Indian cricketer and ‘Double XL’ actor Shikhar Dhawan, who lives in a luxury Gurugram apartment with wife Sophie Shine, says she brought stability to his life. He recounted their love story and proposal, and admitted he hasn’t been in touch with his so…",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/double-xl-actor-and-former-indian-cricketer-shikhar-dhawan-says-wife-sophie-brought-stability-to-his-life-admits-having-no-contact-with-son-for-4-years/articleshow/135881150.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135881245,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T09:37:23Z",
-    "author": "TOI Entertainment Desk"
-  },
-  {
-    "source": "C21media.net",
-    "title": "Sesame Workshop join forces with Cricket Media on FAST channel launch",
-    "description": "Sesame Workshop, the non-profit organisation behind Sesame Street, has teamed up with children's learning company Cricket Media to launch a Sesame Street-themed FAST channel. The 24/7 network will draw...",
-    "url": "https://www.c21media.net/news/sesame-workshop-join-forces-with-cricket-media-on-fast-channel-launch/",
-    "image": "https://cdn.c21media.net/wp-content/uploads/2026/11/sesame-street-fast-xumo-backgroundart.jpg",
-    "publishedAt": "2026-11-16T08:57:42Z",
-    "author": "Neil Batey"
-  },
-  {
-    "source": "Business Standard",
-    "title": "UK's Prince William, Princess Kate begin India visit with street cricket",
-    "description": "The game took place in an alley in Ballard Estate, a heritage neighbourhood in South Mumbai",
-    "url": "https://www.business-standard.com/external-affairs-defence-security/news/uk-s-prince-william-princess-kate-begin-india-visit-with-street-cricket-126111601111_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/16/thumb/fitandfill/1200X628/1794818757-179.JPG",
-    "publishedAt": "2026-11-16T08:51:03Z",
-    "author": "Reuters"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Exclusive Interview | Shubman Gill's hunger and appetite to improve set him apart: Kane Williamson",
-    "description": "Shubman Gill arrived early with Gurnoor Brar, and Kane Williamson arranged a camp for his former Gujarat Titans teammate before the ODI series got underway. In an exclusive conversation with TOI, Williamson, who has released his autobiography, \"The Bare Margi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/exclusive-interview-shubman-gills-hunger-and-appetite-to-improve-set-him-apart-kane-williamson/articleshow/135878420.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135878777/135878777.jpg",
-    "publishedAt": "2026-11-16T08:35:34Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Test cricket hopefuls let last chance slip to bang door down",
-    "description": "With only days left before selectors put together their Test squad to face New Zealand, Sam Konstas and Jack Clayton have their chance to impress in the One-Day Cup, but they can't cash in.",
-    "url": "https://www.abc.net.au/news/2026-11-16/test-cricket-hopefuls-let-last-chance-slip-to-bang-door-down/107392054",
-    "image": "https://live-production.wcms.abc-cdn.net.au/0af4f91d5805d42c039f1bde768c77eb?impolicy=wcms_watermark_news&cropH=2656&cropW=4722&xPos=0&yPos=139&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-16T08:30:14Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Prince and Princess of Wales play street cricket in Mumbai",
-    "description": "William and Catherine met locals on their visit to India, ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.",
-    "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/868d/live/3b574a80-e191-11f1-93e1-3b657b665bcf.jpg",
-    "publishedAt": "2026-11-16T08:13:17Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Exclusive interview | 'Donkey work' awaits Bumrah & Co: Shane Bond, Kyle Mills on Wellington's wind challenge",
-    "description": "In simpler terms, a fast bowler has to be prepared to run into the wind and put in the hard yards for extended periods during a Test match. Former New Zealand fast bowler Shane Bond says both Wellington and Christchurch are windy cities, but the strength of t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/donkey-work-awaits-bumrah-co-shane-bond-kyle-mills-on-wellingtons-wind-challenge-exclusive-interview/articleshow/135877333.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135877786/135877786.jpg",
-    "publishedAt": "2026-11-16T07:59:03Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "'They cut a bit different': Khawaja opens up on facing racism growing up",
-    "description": "Usman Khawaja speaks out on a range of topics beyond Sandpapergate, including where he felt he belonged in Australia, the racist stereotyping he faced and his early mental health struggles coping with cricket failures.",
-    "url": "https://www.abc.net.au/news/2026-11-16/usman-khawaja-speaks-out-mental-health-racism/107390656",
-    "image": "https://live-production.wcms.abc-cdn.net.au/3dc8bcc03eda0d57ad389ca0617ccd3c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=191&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-11-16T06:49:08Z",
-    "author": "Andrew McGarry"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "A right royal pairing! William and Kate enjoy game of street cricket after arriving in India for first joint tour in four years",
-    "description": "The Prince and Princess of Wales have arrived in Mumbai for their first joint royal tour in four years - and immediately set about knocking the city for six.",
-    "url": "https://www.dailymail.com/news/article-16295623/William-Kate-game-street-cricket-arriving-India-joint-tour.html",
-    "image": "https://i.dailymail.com/1s/2026/11/16/06/112530379-0-image-m-14_1794810656745.jpg",
-    "publishedAt": "2026-11-16T06:36:15Z",
-    "author": "Rebecca English"
-  },
-  {
-    "source": "CNA",
-    "title": "India's Shah elected for second term as ICC chair",
-    "description": "NEW DELHI, Nov 16 : Jay Shah was elected unopposed for a second term as chair of the International Cricket Council at the governing body's board meeting in Bali, the ICC said on Monday.• Former India cricket board secretary Shah became the youngest ICC chair …",
-    "url": "https://www.channelnewsasia.com/sport/indias-shah-elected-second-term-icc-chair-6554406",
-    "image": "https://dam.mediacorp.sg/image/upload/s--zVYj6j7R--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-16T054929Z_2_LYNXNPEMAF0FR_RTROPTP_3_GAMES-CRICKET-INDIA.JPG?itok=slTWtdF0",
-    "publishedAt": "2026-11-16T05:47:29Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Watch: William plays cricket, meets Sachin Tendulkar, enjoys kulhad tea with Kate in Mumbai",
-    "description": "NEW DELHI: Prince William and Princess Kate Middleton received a grand welcome in Mumbai on Monday as they began their three-day visit to India for this",
-    "url": "https://timesofindia.indiatimes.com/india/watch-william-plays-cricket-meets-sachin-tendulkar-enjoys-kulhad-tea-with-kate-in-mumbai/articleshow/135873748.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135874563,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T05:40:12Z",
-    "author": "Vivek Dubey"
-  },
-  {
-    "source": "Fangraphs.com",
-    "title": "Reviewing Batter maxEV Gainers — Apr 7, 2026",
-    "description": "Today, I’m going to review the early season maxEV gainers. Since maxEV could change every day of the season if a batter continues hitting the ball harder than the previous day, already recording a meaningful game over a small sample could be meaningful of rea…",
-    "url": "https://fantasy.fangraphs.com/reviewing-batter-maxev-gainers-apr-7-2026/",
-    "image": "https://fantasy.fangraphs.com/wp-content/uploads/sites/3/2026/11/2026-09-24T232734Z_1200308423_MT1USATODAY29903638_RTRMADP_3_MLB-CLEVELAND-GUARDIANS-AT-BOSTON-RED-SOX-scaled-e1794262083856.jpg",
-    "publishedAt": "2026-11-16T05:39:59Z",
-    "author": "Mike Podhorzer"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Jay Shah secures second term as ICC chairman after unopposed reappointment",
-    "description": "Following his reappointment, Shah thanked the ICC Board for its confidence and said his focus would be on building a sustainable future for cricket",
-    "url": "https://www.business-standard.com/cricket/news/jay-shah-secures-second-term-as-icc-chairman-after-unopposed-reappointment-126111600806_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/27/thumb/fitandfill/1200X628/1724774298-3044.jpg",
-    "publishedAt": "2026-11-16T05:26:59Z",
-    "author": "Aditya Kaushik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jay Shah reappointed unopposed as ICC chairman for second term",
-    "description": "The reappointment reflects the Board's confidence in Jay Shah's leadership and ensures continuity at a crucial juncture for the sport, with global expansion, growing fan engagement and commercial development among the key priorities on the ICC's strategic roa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-reappointed-unopposed-as-icc-chairman-for-second-term/articleshow/135873860.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135873907,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T05:13:02Z",
-    "author": "TOI Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Abusive language': Yashveer Goud reveals why India celebrated fiercely after U19 Asia Cup final win over Pakistan",
-    "description": "Young batter Yashveer Goud revealed that emotional reactions followed India's U19 Asia Cup final victory over Pakistan. India had previously lost to Pakistan in the group stages during Diwali and wanted to avenge that loss. In the final, India successfully ch…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abusive-language-yashveer-goud-reveals-why-india-celebrated-fiercely-after-u19-asia-cup-final-win-over-pakistan/articleshow/135873057.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135873184,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T04:56:44Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India cricketer Rinku Singh meets PM Modi, invites him to wedding with Priya Saroj",
-    "description": "Indian cricketer Rinku Singh met Prime Minister Narendra Modi with his family on Sunday to invite him to his December 4 wedding with Samajwadi Party MP Priya Saroj in Lucknow. His family also invited Uttar Pradesh CM Yogi Adityanath. The couple got engaged in…",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/india-cricketer-rinku-singh-meets-pm-modi-invites-him-to-wedding-with-priya-saroj/articleshow/135873111.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135873247,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T04:51:01Z",
-    "author": "Jyotirmoy Halder"
   }
 ]
 ;
