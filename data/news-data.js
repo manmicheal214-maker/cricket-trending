@@ -1,273 +1,273 @@
 window.cricketNews = [
   {
-    "source": "BusinessLine",
-    "title": "MS Dhoni is new mentor of Chennai Super Kings, retires from playing IPL",
-    "description": "Dhoni retires from IPL play but remains CSK mentor, guiding a new generation as the team transitions for IPL 2027.",
-    "url": "https://www.thehindubusinessline.com/news/ms-dhoni-is-new-mentor-of-chennai-super-kings-retires-from-playing-ipl/article71712214.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/ij0ahu/article71712236.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000158A.jpg",
-    "publishedAt": "2026-11-17T13:44:17Z",
-    "author": "BL Chennai Bureau"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "Dhoni's playing career ends in IPL, appointed mentor by CSK",
-    "description": "Mahendra Singh Dhoni has announced his retirement from playing in the IPL and will now serve as a mentor. The decision came during a call discussing player retention for the upcoming season, revealing his fitness concerns. Dhoni's contributions to the Chennai…",
-    "url": "https://m.economictimes.com/news/sports/cricket/ms-dhoni-retires-from-ipl-playing-career-takes-on-mentor-role-with-chennai-super-kings/articleshow/135927584.cms",
-    "image": "https://img.etimg.com/thumb/msid-135927852,resizemode-4,width-1200,height-900,imgsize-116306,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-17T13:33:45Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "IPL 2027 mini-auction: Remaining purse and budget for each Indian Premier League team detailed",
-    "description": "Check the remaining purse and auction budget for all 10 teams ahead of the IPL 2027 mini-auction in Goa, including the ₹157 crore salary cap and trade impact...",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-mini-auction-remaining-purse-budget/c9b5bc94e78e3e790531ef50",
-    "image": "https://s.yimg.com/lo/mysterio/api/d16e31cc095a58a404d17150098de20f87adfc3beba0f35e7ac859a75afc6a19/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ff345ab2dc123f92a17decfc9c1270019",
-    "publishedAt": "2026-11-17T13:31:55Z",
-    "author": "Soham Mukherjee"
+    "source": "The Intercept",
+    "title": "Inside the Trump Administration’s War on the International Criminal Court",
+    "description": "Marco Rubio publicly advocates a return to might-makes-right barbarism by threatening to use military force against the ICC.\nThe post Inside the Trump Administration’s War on the International Criminal Court appeared first on The Intercept.",
+    "url": "https://theintercept.com/2026/11/17/trump-icc-sanctions-war-crimes/",
+    "image": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2304491270.jpg?fit=5081%2C3387",
+    "publishedAt": "2026-11-17T21:42:54Z",
+    "author": "Ashley Gate"
   },
   {
     "source": "Yahoo Entertainment",
-    "title": "DC squad 2027 team list: Full players list of Delhi Capitals for IPL 2027 season",
-    "description": "Here's the full list of players for Delhi Capitals for the 2027 IPL season.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_809ee79d-a486-40bd-8530-6822930b104e",
+    "title": "IPL 2027: Delhi Capitals retention list, released players, trades and remaining purse",
+    "description": "As the IPL 2027 auction approaches, Delhi Capitals have reshaped their lineup drastically. Departures of important players such as Mitchell Starc, Nitish Rana, and Abhishek Porel are noteworthy, while Rishabh Pant returns from his stint with Lucknow Super Gia…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_23fb8799-c6f8-445e-a593-82719475796a",
     "image": null,
-    "publishedAt": "2026-11-17T13:30:58Z",
+    "publishedAt": "2026-11-17T20:43:00Z",
     "author": null
   },
   {
-    "source": "Cricketnews.com",
-    "title": "LSG squad 2027 team list: Full players list of Lucknow Super Giants for IPL 2027 season",
-    "description": "Here's the full list of players for Lucknow Super Giants ahead of the 2027 IPL season.",
-    "url": "https://www.cricketnews.com/en/cricket/news/lsg-squad-2027-team-players-lucknow-super-giants-ipl-season/e7946f6b6d3bc56a32dc8f09",
-    "image": "https://s.yimg.com/lo/mysterio/api/0fd43f1a23da14600279c6095488f19add19f86de3f4d30c5b9c75e24c4b6934/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fc66f0185550c42c34a9c446199857b80",
-    "publishedAt": "2026-11-17T13:29:13Z",
-    "author": "Deepanjan Mitra"
+    "source": "Yahoo Entertainment",
+    "title": "IPL 2027: Rajasthan Royals retention list, released players and remaining purse",
+    "description": "Ahead of the IPL 2027 auction, Rajasthan Royals have made significant changes, parting ways with nine players, including Shimron Hetmyer. They've secured 17 players, with Riyan Parag taking the captaincy and Jofra Archer on board. Additionally, the franchise …",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9f45f289-73ef-4b66-b675-99723e11d3fc",
+    "image": null,
+    "publishedAt": "2026-11-17T20:02:00Z",
+    "author": null
+  },
+  {
+    "source": "Economictimes.com",
+    "title": "Cricket: IPL career over, Dhoni unveiled as Chennai team mentor",
+    "description": "The 45-year-old, who captained Chennai to a record five IPL titles and two Champions League Twenty20 crowns, quit international cricket in 2020.",
+    "url": "https://m.economictimes.com/news/sports/cricket/cricket-ipl-career-over-dhoni-unveiled-as-chennai-team-mentor/articleshow/135938823.cms",
+    "image": "https://img.etimg.com/thumb/msid-135938821,resizemode-4,width-1200,height-900,imgsize-90778,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-17T19:13:39Z",
+    "author": "Reuters"
   },
   {
     "source": "The Times of India",
-    "title": "'Fans proved me wrong': Dhoni's latest post after IPL retirement goes viral",
-    "description": "MS Dhoni sparked an emotional reaction among fans with a rare Instagram post following the end of his IPL playing career. Accompanied by Mein Pal Do Pal Ka Shayar Hoon, his message went viral. CSK confirmed he would become a mentor after announcing retirement…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/fans-proved-me-wrong-ms-dhonis-latest-social-media-post-after-ipl-retirement-goes-viral/articleshow/135927428.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135927630/135927630.jpg",
-    "publishedAt": "2026-11-17T13:28:11Z",
+    "title": "Riyan Parag-led Rajasthan Royals back core group ahead of IPL 2027; Shimron Hetmyer, Tushar Deshpande released",
+    "description": "Rajasthan Royals name 19-man IPL 2027 squad led by Riyan Parag; Shami and Siddharth traded in, Sam Curran out; Hetmyer, Deshpande released.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/riyan-parag-led-rajasthan-royals-back-core-group-ahead-of-ipl-2027-shimron-hetmyer-tushar-deshpande-released/articleshow/135938496.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135938495/135938495.jpg",
+    "publishedAt": "2026-11-17T18:55:31Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Garuda Bengaluru crowned Season-1 champions of Vision Cricket India League",
+    "description": "Garuda Bengaluru win Vision Cricket India League (VCIL) Season 1 at Kalwar Ground, Jaipur, led by captain Vishwajeet Nayak in the three-day veterans tournament.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/garuda-bengaluru-crowned-season-1-champions-of-vision-cricket-india-league/articleshow/135938228.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135938227/135938227.jpg",
+    "publishedAt": "2026-11-17T18:45:02Z",
+    "author": "TNN"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Yash Dayal retained by RCB for IPL 2027: Pacer set for return after legal case reportedly dropped",
+    "description": "Yash Dayal has been retained by RCB for ₹5 crore ahead of IPL 2027, with head coach Andy Flower confirming the pacer's return after missing the 2026 season.",
+    "url": "https://www.cricketnews.com/en/cricket/news/yash-dayal-retained-rcb-ipl-2027-pacer-set-return-legal-case-dropped/b5c5a4ed2faf539f2a489546",
+    "image": "https://s.yimg.com/lo/mysterio/api/3601925c515efc1d908f2de132a2bfe39fcb75b31dd3ab85d17c7fdd0c5544a1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F0c771888ae9b8ec93cd5b07046bd779a",
+    "publishedAt": "2026-11-17T18:00:00Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Geeksaresexy.net",
+    "title": "A 100-Million-Year-Old Fart Trapped Inside a Cricket in Amber?",
+    "description": "View this post on Instagram This might be the oldest fart ever caught on camera! Trapped in amber for 100 million years, this little cricket has a tiny gas bubble in its belly that somehow survived all this time. And here’s the really crazy part: the bubble s…",
+    "url": "https://www.geeksaresexy.net/2026/11/17/a-100-million-year-old-fart-trapped-inside-a-cricket-in-amber/",
+    "image": "https://www.geeksaresexy.net/wp-content/uploads/2026/11/cricket.jpg",
+    "publishedAt": "2026-11-17T17:33:27Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "IPL 2027 auction: What every team needs after the retention deadline",
+    "description": "IPL 2027 auction team needs explained after the retention deadline day. Check the remaining purse, vacant slots, and top auction targets for all 10 franchises.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7335d935-9493-49c0-8517-fe0dab1321fd",
+    "image": null,
+    "publishedAt": "2026-11-17T17:20:01Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'So proud of you, Mahi': Sakshi Dhoni's emotional message to husband MS Dhoni after IPL retirement will melt your heart",
+    "description": "MS Dhoni has announced his transition from a player to a mentor for the Chennai Super Kings. His wife, Sakshi Dhoni, shared a heartfelt tribute on Instagram regarding this significant change. In her post, she expressed gratitude for the support they have rece…",
+    "url": "https://timesofindia.indiatimes.com/relationships/so-proud-of-you-mahi-sakshi-dhonis-emotional-message-to-husband-ms-dhoni-after-ipl-retirement-will-melt-your-heart/articleshow/135934471.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135934760/135934760.jpg",
+    "publishedAt": "2026-11-17T17:18:17Z",
+    "author": "TOI Lifestyle Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "The last whistle for Thala: MS Dhoni's Chennai story was always bigger than cricket",
+    "description": "The No. 7 jersey will no longer be worn, but the whistles, the yellow flags and the memories of those evenings when Dhoni walked out to bat with a game hanging in the balance will endure. CSK may be moving into a new chapter, but the man who shaped its identi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-last-whistle-for-thala-ms-dhonis-chennai-story-was-always-bigger-than-cricket/articleshow/135933265.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135933534/135933534.jpg",
+    "publishedAt": "2026-11-17T17:01:15Z",
+    "author": "Vineet Ramakrishnan"
+  },
+  {
+    "source": "The Times of India",
+    "title": "MS Dhoni's IPL career comes to an end: 12 staggering records that may never be broken",
+    "description": "Mahendra Singh Dhoni concludes his playing career in the Indian Premier League after 18 seasons. He has left a legacy marked by numerous records and unforgettable moments in the tournament. Dhoni is renowned for his finishing skills and captained CSK to five …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ms-dhonis-ipl-career-comes-to-an-end-12-staggering-records-that-may-never-be-broken/articleshow/135934016.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135934043/135934043.jpg",
+    "publishedAt": "2026-11-17T16:59:17Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Ranchi bids emotional farewell to Dhoni as CSK announces IPL retirement",
+    "description": "Ranchi bids emotional farewell as CSK announces MS Dhoni’s IPL retirement; he will shift to a mentor role from the 2027 season, ending an era.",
+    "url": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-bids-emotional-farewell-to-dhoni-as-csk-announces-ipl-retirement/articleshow/135933524.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135933521/135933521.jpg",
+    "publishedAt": "2026-11-17T16:36:52Z",
+    "author": "Shikha Yadav"
+  },
+  {
+    "source": "BBC News",
+    "title": "TV pundit put hand up woman's skirt, jury told",
+    "description": "Priim is accused of sexually assaulting a woman in a cricket club toilet in July 2022.",
+    "url": "https://www.bbc.co.uk/news/articles/cm0rknk0pgdpo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd7a/live/35e5ca20-e2a1-11f1-8dda-8925a81c3da5.jpg",
+    "publishedAt": "2026-11-17T16:33:14Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Head, Starc among players released before IPL 2027 auction",
+    "description": "(adds Dhoni's first names in paragraph eight)Nov 17 : Travis Head, Mitchell Starc, Jacob Bethell and Trent Boult were among the high-profile names released by their Indian Premier League franchises on Tuesday ahead of the IPL 2027 auction on December 16.Sunri…",
+    "url": "https://www.channelnewsasia.com/sport/head-starc-among-players-released-ipl-2027-auction-6559986",
+    "image": "https://dam.mediacorp.sg/image/upload/s--X7dzjqQs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T162420Z_1_LYNXNPEMAG1MB_RTROPTP_3_CRICKET-IPL-DC-RR.JPG?itok=AunSfeL9",
+    "publishedAt": "2026-11-17T16:26:27Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "At 19, China’s Asian champions women’s skipper is up for the challenge",
+    "description": "19-year-old Wei Qixiao to captain China at Women’s Asian Champions Trophy Bhopal 2026, leading a youthful squad after Junior Asia Cup success.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/at-19-chinas-asian-champions-womens-skipper-is-up-for-the-challenge/articleshow/135931328.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135931320/135931320.jpg",
+    "publishedAt": "2026-11-17T16:13:04Z",
+    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
+  },
+  {
+    "source": "BusinessLine",
+    "title": "MS Dhoni is new mentor of Chennai Super Kings, retires from playing IPL",
+    "description": "Dhoni retires from IPL play but remains CSK mentor, guiding a new generation as the team transitions for IPL 2027.",
+    "url": "https://www.thehindubusinessline.com/news/sports/ms-dhoni-is-new-mentor-of-chennai-super-kings-retires-from-playing-ipl/article71712214.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/ij0ahu/article71712236.ece/alternates/LANDSCAPE_1200/PTI11_17_2026_000158A.jpg",
+    "publishedAt": "2026-11-17T16:00:28Z",
+    "author": "BL Chennai Bureau"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Gujarat Titans retention list, released players and remaining purse",
+    "description": "Gujarat Titans (GT) have announced their list of retained and released players ahead of the IPL 2027 auction, with the franchise releasing six players from its previous squad. Veteran Indian fast bowler Ishant Sharma and all-rounder Shahrukh Khan are among th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-gujarat-titans-retention-list-released-players-and-remaining-purse/articleshow/135931734.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135932127/135932127.jpg",
+    "publishedAt": "2026-11-17T15:55:20Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "At 19 and uncapped, China’s Asian champions skipper is up for the challenge",
+    "description": "China name 19-year-old Wei Qixiao captain for 2026 Women’s Asian Champions Trophy in Bhopal, despite no senior caps, after starring at Junior Asia Cup.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/at-19-and-uncapped-chinas-asian-champions-skipper-is-up-for-the-challenge/articleshow/135931328.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135931320/135931320.jpg",
+    "publishedAt": "2026-11-17T15:42:13Z",
+    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "IPL 2027: Mohammed Shami, M Siddharth move to Rajasthan Royals; Sam Curran joins Lucknow Super Giants in trade deal",
+    "description": "Rajasthan Royals and Lucknow Super Giants have completed a player trade ahead of the IPL 2027 season. Mohd Shami and M Siddharth are joining Rajasthan, while Sam Curran moves to Lucknow. Shami brings extensive IPL experience after playing with Lucknow Super G…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cbe7ad11-13f7-4232-b135-367c1f4d9c1e",
+    "image": null,
+    "publishedAt": "2026-11-17T15:40:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027 retention: Full list of retained and released players, remaining purse",
+    "description": "All ten IPL franchises have completed the process of retaining and releasing players before the IPL 2027 auction. Focus will now shift towards the upcoming auction where teams strategize to fill squad gaps. Each franchise's remaining purse will significantly …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-retention-list-full-list-of-retained-and-released-players-remaining-purse-of-all-10-teams/articleshow/135926264.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135926421/135926421.jpg",
+    "publishedAt": "2026-11-17T15:36:19Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Lucknow Super Giants retention list, released players and remaining purse",
+    "description": "Lucknow Super Giants (LSG) have released seven players ahead of the IPL 2027 auction, with fast bowler Avesh Khan among the biggest names to leave the franchise.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-lucknow-super-giants-retention-list-released-players-and-remaining-purse/articleshow/135931224.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135931398/135931398.jpg",
+    "publishedAt": "2026-11-17T15:33:49Z",
     "author": "Jyotirmoy Halder"
   },
   {
     "source": "Cricketnews.com",
-    "title": "CSK squad 2027 team list: Full players list of Chennai Super Kings for IPL 2027 season",
-    "description": "Check out the complete IPL 2027 squad list for the Chennai Super Kings.",
-    "url": "https://www.cricketnews.com/en/cricket/news/csk-squad-2027-team-players-list-chennai-super-kings/190962fcf3b3153145c8712c",
-    "image": "https://s.yimg.com/lo/mysterio/api/6961f384b0254b209d5dfd7e6c652aad5557a5cbb5e119ee839ecdbed63bdc43/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F510760cb3fd8c6d097cf3e094500cdc8",
-    "publishedAt": "2026-11-17T13:26:49Z",
-    "author": "Saino Zachariah"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "IPL 2027 Retention List: When and where to watch today's announcements; check date, time and live streaming details",
-    "description": "The IPL franchises will confirm their retained and released players on November 17, 2026. The retention announcements are crucial for teams ahead of the mini-auction. Players released will enter the auction pool, offering opportunities for other franchises. T…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7c9df3df-1417-43d2-9870-04f4435c8b41",
-    "image": null,
-    "publishedAt": "2026-11-17T13:21:00Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "SRH squad 2027 team list: Full players list of Sunrisers Hyderabad for IPL 2027 season",
-    "description": "Here's a list of all of members of the Sunrisers Hyderabad ahead of the IPL 2027 season.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_44b8d8c7-76ee-4539-9223-0127be471afd",
-    "image": null,
-    "publishedAt": "2026-11-17T13:16:18Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "RR squad 2027 team list: Full players list of Rajasthan Royals for IPL 2027 season",
-    "description": "Here's the full players list for Rajasthan Royals ahead of the 2027 IPL Season.",
-    "url": "https://www.cricketnews.com/en/cricket/news/rr-squad-2027-team-players-rajasthan-royals-ipl-season/264a58c0914a0cd93adeae7d",
-    "image": "https://s.yimg.com/lo/mysterio/api/3a09cda365e9c7c20d34a7ac4811934b2747f547c26b090a439cd732054b13a9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6d0805f66b9eee764c2a783e06a9d295",
-    "publishedAt": "2026-11-17T13:16:14Z",
+    "title": "Which was MS Dhoni's final match for CSK?",
+    "description": "With MS Dhoni officially retired from the IPL, here's a look at his last match for the Chennai Super Kings.",
+    "url": "https://www.cricketnews.com/en/ipl/news/which-was-ms-dhonis-final-match-csk/faa26febd1fb2eb3a7743f8f",
+    "image": "https://s.yimg.com/lo/mysterio/api/a77bbb5fe1d5b2c7f1eae3dd6f716aa53c7c8068152eaca60411e10edcc2fed8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffef1924a0c66c57982afa3b6a3aebdcf",
+    "publishedAt": "2026-11-17T15:29:18Z",
     "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "GT squad 2027 team list: Full players list of Gujarat Titans for IPL 2027 season",
-    "description": "Here's the full list of Gujarat Titans ahead of the 2027 IPL season.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gt-squad-2027-team-players-gujarat-titans-ipl-season/9501542b02457f3035086f92",
-    "image": "https://s.yimg.com/lo/mysterio/api/7b41c5063418dd8238f6548f93437dabb8ccabfccbae7550cd917da2e2fe253e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5d44d44bec6ed60448bcf77128607b8b",
-    "publishedAt": "2026-11-17T13:16:10Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "RCB squad 2027 team list: Full players list of Royal Challengers Bengaluru for IPL 2027 season",
-    "description": "Check out the complete IPL 2027 squad list for the Royal Challengers Bangalore",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_085972d6-685f-4811-a21f-ad42d525e5e8",
-    "image": null,
-    "publishedAt": "2026-11-17T13:15:53Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "MI squad 2027 team list: Full players list of Mumbai Indians for IPL 2027 season",
-    "description": "Here's the full list of players for Mumbai Indians ahead of the 2027 IPL.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mi-squad-2027-team-players-mumbai-indians-ipl-2027-season/193b06281f2b7e6ecbea1500",
-    "image": "https://s.yimg.com/lo/mysterio/api/2f9ae07dccdd4d420b5ebc8b1c815534d76ce65ec8f2a8736d11c9ad09bbce1b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F93a8266142f3237ce4f98812c2a6e50a",
-    "publishedAt": "2026-11-17T13:15:51Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Deadline",
-    "title": "Cricket Legend Ben Stokes Launches Production Company",
-    "description": "EXCLUSIVE: Cricketing legend Ben Stokes is moving into the content game. Riverside 55 will produce a “slate of podcasts, documentaries and entertainment formats across sport and culture,” with the first being That’s Not Cricket, a podcast co-hosted by the ex-…",
-    "url": "https://deadline.com/2026/11/ben-stokes-thats-not-cricket-podcast-riverside-55-1237226353/",
-    "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-5.jpg",
-    "publishedAt": "2026-11-17T13:00:00Z",
-    "author": "Max Goldbart"
-  },
-  {
-    "source": "Dpa-international.com",
-    "title": "Brazil batter Singapore 7-0 without banned Ancelotti",
-    "description": "Brazil crushed Singapore 7-0 away in a friendly on Tuesday as they made up for the recent loss in Japan, which led to coach Carlo Ancelotti being suspended. Raphinha was also missing following his and Ancelotti's red cards on Saturday after Japan's controvers…",
-    "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261117-930-8294/",
-    "image": "https://s.yimg.com/lo/mysterio/api/ebdaf930a4fbee4aaf72e19b55d53eb2d9509004493bbcbdf7e6bf45fcee15d9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F15ca27189c557098b6bdfae8cb6cf3a9.jpg",
-    "publishedAt": "2026-11-17T12:48:28Z",
-    "author": "DPA"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "KKR squad 2027 team list: Full players list of Kolkata Knight Riders for IPL 2027 season",
-    "description": "Here's a list of all the players Kolkata Knight Riders will be having in their squad ahead of the 2027 IPL.",
-    "url": "https://www.cricketnews.com/en/cricket/news/kkr-squad-2027-team-players-kolkata-knight-riders-ipl/b87660022cc5d8ec426fb57e",
-    "image": "https://s.yimg.com/lo/mysterio/api/005b1586988e1f68ce93caf0d82e0ac4f338d9fdbedc579b6cc7bea32e1f25ab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fadb08e2004eb107a45745ffcb78d00e4",
-    "publishedAt": "2026-11-17T12:43:39Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Business Standard",
-    "title": "IPL 2027: Shami moves to RR after a Rs 2 crore pay cut, Curran joins LSG",
-    "description": "Mohammed Shami joins Rajasthan Royals for Rs 8 crore after a Rs 2 crore pay cut. Check all IPL 2027 trades, player salaries and Sam Curran's move to LSG.",
-    "url": "https://www.business-standard.com/cricket/ipl/ipl-2027-retained-released-players-list-shami-curran-trades-126111701056_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/18/full/1760789146-1014.jpg",
-    "publishedAt": "2026-11-17T12:42:22Z",
-    "author": "Anish Kumar"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "How MS Dhoni informed CSK about his decision to retire ahead of IPL retention deadline",
-    "description": "Instead of a big announcement, former CSK skipper and IPL legend MS Dhoni quietly announced his retirement just hours ahead of the retention deadline.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bd2024ab-aa37-4997-84e9-fcf598b22fb7",
-    "image": null,
-    "publishedAt": "2026-11-17T12:41:34Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Kent chief Fulton ready for David & Goliath challenge",
-    "description": "New director of cricket David Fulton wants Kent to be \"passionate and competitive\" on their return to Division One in 2027.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6jre21899wro",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e93a/live/06e816f0-e284-11f1-b166-176de21e2352.jpg",
-    "publishedAt": "2026-11-17T12:40:56Z",
-    "author": "Tim Durrans, James Dunn"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "MS Dhoni calls time on Indian Premier League playing career",
-    "description": "DELHI, India (AP) — MS Dhoni called time on his Indian Premier League cricket career on Tuesday as Chennai Super Kings announced its retention list ahead of the 2027 players’ auction.The 45-year-old batter-wicketkeeper didn’t feature in the list and the franc…",
-    "url": "https://sports.yahoo.com/articles/ms-dhoni-calls-time-indian-122344839.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/7336f4279b9e03716fb487f299dc9cac563c17db522784cd32283076657c27b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-    "publishedAt": "2026-11-17T12:23:44Z",
-    "author": "Associated Press"
   },
   {
     "source": "The Times of India",
-    "title": "Evening Newswrap: Trump praises PM Modi; MS Dhoni retires from IPL & more",
-    "description": "Trump called PM Modi a \\\"tough man\\\", \\\"great leader\\\" at the Quad leaders' meeting in Manila, praising close US-India coordination.",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-trump-praises-pm-modi-ms-dhoni-retires-from-ipl-more/articleshow/135924929.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135925356/135925356.jpg",
-    "publishedAt": "2026-11-17T12:16:31Z",
-    "author": "Prisha Patnaik"
-  },
-  {
-    "source": "Business Standard",
-    "title": "MS Dhoni's IPL records: Five titles as captain, most keeper dismissals",
-    "description": "MS Dhoni ends his IPL playing career with five titles as captain, 5,439 runs and the most wicketkeeping dismissals, as CSK name him mentor ahead of the 2027 retention announcement",
-    "url": "https://www.business-standard.com/cricket/ipl/ms-dhoni-s-ipl-records-five-titles-as-captain-most-keeper-dismissals-126111700943_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/28/full/1774674111-6803.jpg",
-    "publishedAt": "2026-11-17T11:52:14Z",
-    "author": "Anish Kumar"
+    "title": "At 19 and uncapped, China’s Asian c’ship skipper is up for the challenge",
+    "description": "China name 19-year-old Wei Qixiao captain for 2026 Women’s Asian Champions Trophy in Bhopal, leading a youthful squad in her senior debut.",
+    "url": "https://timesofindia.indiatimes.com/city/bhopal/at-19-and-uncapped-chinas-asian-cship-skipper-is-up-for-the-challenge/articleshow/135931328.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135931320/135931320.jpg",
+    "publishedAt": "2026-11-17T15:24:25Z",
+    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
   },
   {
     "source": "The Times of India",
-    "title": "MS Dhoni missed daughter Ziva's birth for the 2015 World Cup: What he later revealed about the difficult decision and how fatherhood changed him",
-    "description": "In a poignant moment, MS Dhoni found himself at a crossroads when he chose the ICC Cricket World Cup over witnessing the birth of his daughter. While in Australia, teammate Suresh Raina broke the news of Ziva's arrival. Reflecting on this experience, Dhoni ac…",
-    "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/ms-dhoni-missed-daughter-zivas-birth-for-the-2015-world-cup-what-he-later-revealed-about-the-difficult-decision-and-how-fatherhood-changed-him/articleshow/135923926.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135924126/135924126.jpg",
-    "publishedAt": "2026-11-17T11:46:34Z",
-    "author": "TOI Lifestyle Desk"
-  },
-  {
-    "source": "Human Rights Watch",
-    "title": "ICC: Afghanistan Decision Risks Narrowing Access to Justice",
-    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n The International Criminal Court (ICC) is seen in The Hague, Netherlands, November 7, 2019. \n © 2019 AP Photo/Peter Dejong, File\n \n \n\n\n \n(The Hague) – An International Criminal Court (ICC) decision risks hindering a …",
-    "url": "https://www.hrw.org/news/2026/11/17/icc-afghanistan-decision-risks-narrowing-access-to-justice",
-    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2020/12/202012global_icc_building.jpg?h=310ac57c&itok=SoWVISGC",
-    "publishedAt": "2026-11-17T11:00:00Z",
-    "author": "Liz Evenson"
-  },
-  {
-    "source": "BusinessLine",
-    "title": "Dhoni's playing career ends in IPL, appointed mentor by CSK",
-    "description": "‘There is no CSK without MS Dhoni. For nearly two decades, we have walked and grown alongside each other, through triumphs, setbacks and everything in between,’ CSK owner N Srinivasan said",
-    "url": "https://www.thehindubusinessline.com/news/sports/dhonis-playing-career-ends-in-ipl-appointed-mentor-by-csk/article71711339.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/bc1z7m/article71162507.ece/alternates/LANDSCAPE_1200/PTI05_20_2025_000450A.jpg",
-    "publishedAt": "2026-11-17T10:58:34Z",
-    "author": "PTI"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "Congress Slams Gujarat Govt Over Yusuf Pathan Land Allotment",
-    "description": "The Congress party in Gujarat has accused the BJP government of illegally gifting a piece of land in Vadodara to former cricketer Yusuf Pathan. State Congress chief Amit Chavda alleged that Pathan occupied the land illegally and that the government waived pen…",
-    "url": "https://www.rediff.com/sports/report/gujarat-bjp-accused-of-double-standards-over-yusuf-pathan-land/20261117.htm",
-    "image": "https://im.rediff.com/1600-900/news/2024/may/10yusuf-pathan4.jpg",
-    "publishedAt": "2026-11-17T10:55:12Z",
-    "author": "Rediff Sports Desk"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "'There is no CSK without MS Dhoni': N Srinivasan as former skipper calls time on IPL career",
-    "description": "Chennai Super Kings has announced that MS Dhoni will serve as team mentor after his playing career. This decision highlights Dhoni's significant contributions to CSK during his 19 years as a player. CSK owner N Srinivasan emphasized Dhoni's indispensable role…",
-    "url": "https://m.economictimes.com/news/sports/cricket/there-is-no-csk-without-ms-dhoni-n-srinivasan-as-former-skipper-calls-time-on-ipl-career/articleshow/135921780.cms",
-    "image": "https://img.etimg.com/thumb/msid-135921779,resizemode-4,width-1200,height-900,imgsize-101958,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-17T10:49:04Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India pacer Gurnoor Brar reprimanded! ICC takes action over aggressive celebration against New Zealand",
-    "description": "Gurnoor Brar, an Indian pacer, has been reprimanded by ICC for breaching its Code of Conduct. This reprimand follows his aggressive celebration after dismissing New Zealand's Tim Seifert during an ODI match. Brar received one demerit point added to his discip…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-pacer-gurnoor-brar-reprimanded-icc-takes-action-over-aggressive-celebration-against-new-zealand/articleshow/135921479.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135921569/135921569.jpg",
-    "publishedAt": "2026-11-17T10:44:55Z",
+    "title": "IPL 2027: SRH retention list, released players, trades and remaining purse",
+    "description": "Sunrisers Hyderabad has released several players, including Travis Head and Jaydev Unadkat, as part of their squad restructuring. The team retained key players like Pat Cummins, Abhishek Sharma, and Ishan Kishan for IPL 2027. They have also traded in bowlers …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-srh-retention-list-released-players-trades-and-remaining-purse/articleshow/135929355.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135929414/135929414.jpg",
+    "publishedAt": "2026-11-17T15:21:09Z",
     "author": "Pranav Shukla"
   },
   {
-    "source": "Cricketnews.com",
-    "title": "'A leader, a finisher': IPL world reacts to MS Dhoni's CSK retirement ahead of the 2027 season",
-    "description": "Fans react as MS Dhoni retires from IPL playing duty and takes over as CSK mentor ahead of IPL 2027.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ipl-world-reacts-ms-dhoni-csk-retirement/140080de6ed5354043bb74a6",
-    "image": "https://s.yimg.com/lo/mysterio/api/41ff80f355aa6254edfe3a95b8a99a3b8d67c1a299c968f00ef1e9b9fe04248e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Feff7a9913d0fcf1e9f5d72ff48174e55",
-    "publishedAt": "2026-11-17T10:40:00Z",
-    "author": "Soham Mukherjee"
+    "source": "The Times of India",
+    "title": "IPL 2027: Punjab Kings retention list, released players and remaining purse",
+    "description": "Punjab Kings (PBKS) have announced their list of retained and released players ahead of the IPL 2027 auction, with the franchise making six changes to its squad following the previous season.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-punjab-kings-retention-list-released-players-and-remaining-purse/articleshow/135931090.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135931125/135931125.jpg",
+    "publishedAt": "2026-11-17T15:18:12Z",
+    "author": "Jyotirmoy Halder"
   },
   {
-    "source": "CNA",
-    "title": "IPL career over, Dhoni unveiled as Chennai team mentor",
-    "description": "NEW DELHI, Nov 17 : Mahendra Singh Dhoni will take over as team mentor at the Chennai Super Kings, the Indian Premier League (IPL) franchise said on Tuesday, confirming the retirement of arguably the most adored player in the history of the league.The 45-year…",
-    "url": "https://www.channelnewsasia.com/sport/ipl-career-over-dhoni-unveiled-chennai-team-mentor-6558756",
-    "image": "https://dam.mediacorp.sg/image/upload/s--0bbD3TIZ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-17T103528Z_2_LYNXNPEMAG0TW_RTROPTP_3_CRICKET-IPL-CSK-RR.JPG?itok=cU_WdYYV",
-    "publishedAt": "2026-11-17T10:35:28Z",
-    "author": null
+    "source": "The Times of India",
+    "title": "IPL 2027: Delhi Capitals retention list, released players, trades and remaining purse",
+    "description": "As the IPL 2027 auction approaches, Delhi Capitals have reshaped their lineup drastically. Departures of important players such as Mitchell Starc, Nitish Rana, and Abhishek Porel are noteworthy, while Rishabh Pant returns from his stint with Lucknow Super Gia…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-delhi-capitals-retention-list-released-players-trades-and-remaining-purse/articleshow/135929330.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135929338/135929338.jpg",
+    "publishedAt": "2026-11-17T15:13:49Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: RCB retention list, released players, remaining purse and squad details",
+    "description": "Royal Challengers Bengaluru has chosen to retain a majority of its squad while releasing six players. Notable releases include Jacob Bethell, who has been sidelined by injury and will require surgery. The team enters the upcoming IPL 2027 auction with a remai…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-2027-rcb-retention-list-released-players-remaining-purse-and-squad-details/articleshow/135929218.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135929266/135929266.jpg",
+    "publishedAt": "2026-11-17T15:04:31Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "KQED",
+    "title": "Powerful Waves Batter Pacifica as El Niño Raises Fears of Coastal Flooding This Winter",
+    "description": "Dangerous surf, rising sea levels and king tides threaten the Bay Area’s shorelines as El Niño heightens flood risks.",
+    "url": "https://www.kqed.org/news/12109972/powerful-waves-batter-pacifica-as-el-nino-raises-fears-of-coastal-flooding-this-winter",
+    "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/11/261116-pacificawaves-TV00768-KQED-c59e8c8b.jpg",
+    "publishedAt": "2026-11-17T15:00:00Z",
+    "author": "Steph Rodriguez"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL 2027: Kolkata Knight Riders retention list, released players and remaining purse",
+    "description": "Kolkata Knight Riders (KKR) have retained 17 players ahead of the IPL 2027 auction, opting to stick with a strong core while making a few changes to their squad following the previous season.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2027-kolkata-knight-riders-retention-list-released-players-and-remaining-purse/articleshow/135930284.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135930387/135930387.jpg",
+    "publishedAt": "2026-11-17T14:55:48Z",
+    "author": "Jyotirmoy Halder"
   }
 ]
 ;
