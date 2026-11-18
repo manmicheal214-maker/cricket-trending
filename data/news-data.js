@@ -1,5 +1,113 @@
 window.cricketNews = [
   {
+    "source": "Cricketnews.com",
+    "title": "IPL retention rules explained: How many players can a team release and retain ahead of 2027 auction?",
+    "description": "With new players up for grabs each s season, here's a look at how many players can a team retain and release before each IPL auction.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ipl-retention-rules-players-team-release-retain-2027-auction/69457b099dc2dcb0d8d800cc",
+    "image": "https://s.yimg.com/lo/mysterio/api/b1ce245cbcffca9795bc7e6815859cd08e169d4d958dafba13104c2c070c7eaf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f99dc5248be8dc73face43bce057637",
+    "publishedAt": "2026-11-17T03:18:56Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Syed Mushtaq Ali Trophy: Rajat Patidar sets record for most sixes with an unbeaten 135 off 48 balls",
+    "description": "Rajat Patidar, who recently withdrew from India's Rising Stars Asia Cup squad in Doha to manage existing injuries, has made his priorities clear: T20",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/syed-mushtaq-ali-trophy-rajat-patidar-sets-record-for-most-sixes-with-an-unbeaten-135-off-48-balls/articleshow/135908578.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135908652/135908652.jpg",
+    "publishedAt": "2026-11-17T03:11:02Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Must be taught how to behave': Vengsarkar criticises India players' conduct against Pakistan after U19 Asia Cup win",
+    "description": "The scenes that followed India's dramatic triumph sparked intense debate even among the sane and reasonable cricket fans in India after Indian players rushed onto the field and celebrated wildly",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/must-be-taught-how-to-behave-vengsarkar-criticises-india-players-conduct-against-pakistan-after-u19-asia-cup-win/articleshow/135907997.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135908222/135908222.jpg",
+    "publishedAt": "2026-11-17T02:55:35Z",
+    "author": "Nitin Naik"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Prince William and Kate to attend Earthshot Prize event today in Mumbai",
+    "description": "Prince William and Catherine, Princess of Wales, began their visit to Mumbai on Monday. They participated in activities such as gully cricket and enjoying local tea served in traditional kulhad. The royal couple's visit is part of the Earthshot Prize Awards e…",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/prince-william-and-kate-to-attend-earthshot-prize-event-today-in-mumbai/articleshow/135907908.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135907930/135907930.jpg",
+    "publishedAt": "2026-11-17T02:36:14Z",
+    "author": "Richa Pinto"
+  },
+  {
+    "source": "Peoplesreview.com.np",
+    "title": "Match fixing carries three-year jail term, Rs 50,000 fine",
+    "description": "Kathmandu, Nov 17: The third edition of the Nepal Premier League (NPL) is underway at the TU Cricket Ground in Kirtipur, Kathmandu, and began on Kartik 9. Competitive sporting events of this nature, particularly those involving national and international part…",
+    "url": "https://peoplesreview.com.np/2026/11/17/match-fixing-carries-three-year-jail-term-rs-50000-fine/",
+    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/11/npl-edited.jpg",
+    "publishedAt": "2026-11-17T02:00:00Z",
+    "author": "team1"
+  },
+  {
+    "source": "Economictimes.com",
+    "title": "New Zealand all-rounder Mitch Santner ruled out of India tests with broken hand",
+    "description": "Mitch Santner has been ruled out of the upcoming two-test series against India after suffering a fractured hand. The injury occurred while batting during the fifth ODI against India, resulting in his exclusion from the squad. Dean Foxcroft has been called up …",
+    "url": "https://m.economictimes.com/news/sports/cricket/new-zealand-all-rounder-mitch-santner-ruled-out-of-india-tests-with-broken-hand/articleshow/135907327.cms",
+    "image": "https://img.etimg.com/thumb/msid-135907349,resizemode-4,width-1200,height-900,imgsize-116156,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-17T01:59:19Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ | 'We will play four fast bowlers': Shubman Gill ahead of first Test vs New Zealand",
+    "description": "India's captain Shubman Gill announced the team's plan to field four fast bowlers in the upcoming Test. The series against New Zealand poses a bigger challenge compared to the recently concluded ODI series. Jasprit Bumrah is expected to lead the pace attack w…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-we-will-play-four-fast-bowlers-shubman-gill-ahead-of-first-test-vs-new-zealand/articleshow/135907124.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135907155/135907155.jpg",
+    "publishedAt": "2026-11-17T01:42:55Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "French cricket 'dying' as federation crisis and chaos deepens",
+    "description": "Cricket in France is at risk of disappearing altogether, less than two years before the sport makes its long-awaited Olympic return.The organisation lost its recognition by France's sports ministry early this year, while the International Cricket Council (ICC…",
+    "url": "https://sports.yahoo.com/articles/french-cricket-dying-federation-crisis-013452591.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/dc6d689ba4189d35b2acbb59074178e2ce3dff7340f2f7ab41b01f7d401c70c1/lightyear_networkapi/resizefill_w768_h532%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4cd3cc3f112e7320244a739ee03cb995.jpg",
+    "publishedAt": "2026-11-17T01:34:52Z",
+    "author": "Barnaby CHESTERMAN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IND vs NZ: Big blow for New Zealand! Mitchell Santner ruled out of India Tests with hand fracture",
+    "description": "Mitchell Santner has been ruled out of the upcoming Test series against India due to a hand fracture. His injury occurred while batting in the fifth ODI against India, confirmed by scans. Dean Foxcroft has been named as his replacement in the Test squad led b…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/mitchell-santner-ruled-out-of-india-test-series-with-hand-fracture-dean-foxcroft-named-replacement-ind-vs-nz/articleshow/135906582.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135906640/135906640.jpg",
+    "publishedAt": "2026-11-17T00:58:01Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Mehreen Faruqi blasts cricket as a 'white' sport as she weighs in on Usman Khawaja Sandpapergate firestorm and says he's facing 'racist tropes'",
+    "description": "Greens Senator Mehreen Faruqi has come out in defence of Usman Khawaja.",
+    "url": "https://www.dailymail.com/news/article-16297823/mehreen-faruqi-usman-Khawaja.html",
+    "image": "https://i.dailymail.com/1s/2026/11/16/22/112547135-0-image-m-17_1794869391228.jpg",
+    "publishedAt": "2026-11-16T23:35:12Z",
+    "author": "Nicholas Comino"
+  },
+  {
+    "source": "CNA",
+    "title": "New Zealand all-rounder Santner ruled out of India tests with broken hand",
+    "description": "Nov 17 : New Zealand all-rounder Mitch Santner has been ruled out of the two-test series against India after being struck on the hand while batting during the fifth ODI.New Zealand Cricket said on Tuesday scans revealed Santner had fractured his right hand an…",
+    "url": "https://www.channelnewsasia.com/sport/new-zealand-all-rounder-santner-ruled-out-india-tests-broken-hand-6556971",
+    "image": "https://dam.mediacorp.sg/image/upload/s--2EsIGXaa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-16T231316Z_1_LYNXNPEMAF22Q_RTROPTP_3_CRICKET-WORLDCUP-ENG-NZL.JPG?itok=1NKs9RER",
+    "publishedAt": "2026-11-16T23:13:16Z",
+    "author": null
+  },
+  {
+    "source": "RTE",
+    "title": "Ireland earn back-to-back wins in Emerging Nations Trophy",
+    "description": "Ireland beat Papua New Guinea by 45 runs on Monday in Ajman to make it back-to-back wins in the ICC Women's Emerging Nations Trophy.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1116/1599478-ireland-earn-back-to-back-wins-in-emerging-nations-trophy/",
+    "image": "https://www.rte.ie/images/002559fb-1600.jpg",
+    "publishedAt": "2026-11-16T22:49:32Z",
+    "author": "RTÉ Sport"
+  },
+  {
     "source": "Biztoc.com",
     "title": "Massive Waves Batter California Coast, Forcing Closure Of Iconic Piers",
     "description": "Massive waves battered California's coastline on Sunday, flooding beaches and forcing authorities to close several popular piers amid dangerous ocean conditions.\nNational Weather Service meteorologist Rachel Kennedy attributed the high surf to intense Pacific…",
@@ -160,114 +268,6 @@ window.cricketNews = [
     "image": "https://static.toiimg.com/thumb/msid-135889786,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
     "publishedAt": "2026-11-16T12:48:51Z",
     "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Why Vaibhav Sooryavanshi missed Bihar's second SMAT match after historic captaincy debut",
-    "description": "Vaibhav Sooryavanshi captained Bihar in one match before joining India A for the Rising Stars Asia Cup. His departure meant Suraj Kashyap took over and led the team to victory against Railways. Sooryavanshi made history as the youngest captain in T20 cricket …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-vaibhav-sooryavanshi-missed-bihars-second-smat-match-after-historic-captaincy-debut/articleshow/135889549.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135889782,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T12:48:33Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Watch: Cricket Legend Sachin Tendulkar Joins Prince William And Kate Middleton On Mumbai Pitch",
-    "description": "Britain’s Prince William and Princess Catherine traded royal protocol for a lively game of gully cricket at Mumbai’s historic Ballard Estate on Monday, joining Indian batting legend Sachin Tendulkar and local schoolchildren.\nThe light-hearted match—in which b…",
-    "url": "https://biztoc.com/x/852af4e1ca614677",
-    "image": "https://biztoc.com/cdn/852af4e1ca614677_s.webp",
-    "publishedAt": "2026-11-16T12:37:02Z",
-    "author": "tippinsights.com"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "What happens when an IPL team releases a player? Salary, auction pool and buy-back explained",
-    "description": "IPL teams always have the option to release a player before a season starts, and here's everything you'll need to know about the process.",
-    "url": "https://www.cricketnews.com/en/cricket/news/what-happens-ipl-team-releases-player-salary-auction-pool-buy-back/24c905f54d3654ed16d25317",
-    "image": "https://s.yimg.com/lo/mysterio/api/b1ce245cbcffca9795bc7e6815859cd08e169d4d958dafba13104c2c070c7eaf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3f99dc5248be8dc73face43bce057637",
-    "publishedAt": "2026-11-16T12:30:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Which cricket teams can qualify for the LA 2028 Olympics and how?",
-    "description": "Six men's and six women's teams will compete for the medals in T20 format as cricket returns to the Olympics in 2028.",
-    "url": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/GettyImages-2265440791-1772990706.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-16T12:15:59Z",
-    "author": "Anushe Engineer"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-Kent skipper Fulton named director of cricket",
-    "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c32l5dzxk5z1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-    "publishedAt": "2026-11-16T12:02:37Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Ex-Kent skipper Fulton named director of cricket",
-    "description": "Former Kent captain David Fulton replaces Simon Cook as director of cricket overseeing both men's and women's talent pathways.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c32l5dzxk5z1o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c86/live/009ccb60-e1b2-11f1-9a3f-99aca912798e.jpg",
-    "publishedAt": "2026-11-16T12:02:33Z",
-    "author": "BBC Sport"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'He will regret it after 10 years': Kapil Dev questions Virat Kohli's big decision",
-    "description": "In a candid critique, Kapil Dev has questioned Virat Kohli's decision to step away from Test cricket, asserting that Kohli was fit enough to continue his remarkable journey at the top level. He underscored the significance of tenacity in cricket, drawing insp…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-will-regret-it-after-10-years-kapil-dev-questions-virat-kohlis-big-decision/articleshow/135885922.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135886654,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T11:49:58Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Why Australian cricket is struggling to move on from Sandpapergate | 7.30",
-    "description": "Just over a week ago, Australian cricket was thrown into turmoil over Usman Khawaja's seismic revelations that the use of ...",
-    "url": "https://biztoc.com/x/a5270876e7ca2a4d",
-    "image": "https://biztoc.com/cdn/a5270876e7ca2a4d_s.webp",
-    "publishedAt": "2026-11-16T11:30:54Z",
-    "author": "youtube.com"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jay Shah gets second term as ICC Chair! BCCI hails leadership as cricket prepares for Olympic return",
-    "description": "In a unanimous decision, Jay Shah has been reappointed as ICC Chair for a second term at the helm of world cricket. His new tenure will coincide with cricket's return to the Olympics at Los Angeles 2028. The BCCI hailed his contributions to the game, includin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-gets-second-term-as-icc-chair-bcci-hails-leadership-as-cricket-prepares-for-olympic-return/articleshow/135886162.cms",
-    "image": "https://static.toiimg.com/thumb/msid-135886802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-16T11:25:19Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Bangladesh strikes after putting up 400 on day 2 against South Africa in 1st test",
-    "description": "JOHANNESBURG, South Africa (AP) — Litton Das scored 120 off 179 balls as Bangladesh posted 400 runs in its first innings in the first cricket test against South Africa.The visitors were 327-6 at stumps on day one, with Das unbeaten on 92.",
-    "url": "https://sports.yahoo.com/articles/bangladesh-strikes-putting-400-day-105024561.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/36830bd9616feff8870757401ac93b2f1cfedcc3ca191a8252bc71ebf6c5dc89/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6e22f9274db3d46eb8bb99a2e0cc73ff.jpg",
-    "publishedAt": "2026-11-16T10:50:24Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Kate plays cricket in £550 Veronica Beard blazer during India tour before dazzling Mumbai Metro in £1,295 dress she first wore to Wimbledon",
-    "description": "Kate, 44, had her game face on as she touched down in Mumbai with Prince William ahead of his Earthshot Prize award ceremony in the country's financial capital tomorrow.",
-    "url": "https://www.dailymail.com/news/royals/article-16295815/Kate-plays-cricket-550-Veronica-Beard-blazer-India-tourMumbai-Metro-1-295-dress.html",
-    "image": "https://i.dailymail.com/1s/2026/11/16/10/112532575-0-image-m-21_1794823358338.jpg",
-    "publishedAt": "2026-11-16T10:48:48Z",
-    "author": "Maanya Sachdeva"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Jay Shah reelected as ICC chair for second term as world cricket's most powerful official",
-    "description": "DUBAI, United Arab Emirates (AP) — Jay Shah is staying on as the most powerful official in world cricket.The Indian has been reelected for a second term as International Cricket Council chair, the global governing body announced Monday, that will include over…",
-    "url": "https://sports.yahoo.com/articles/jay-shah-reelected-icc-chair-103454492.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/f96dcb4fcb016dd323e4e682be5a33a6eb7a975838cbff018bfcc9b2366b1eef/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3cc05018b5f530a6d61d6411c048eb18.jpg",
-    "publishedAt": "2026-11-16T10:34:54Z",
-    "author": "Associated Press"
   }
 ]
 ;
