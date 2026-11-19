@@ -1,273 +1,192 @@
 window.cricketNews = [
   {
     "source": "The Times of India",
+    "title": "IND vs NZ, 1st Test: Shubman Gill's men look to end 17-year drought",
+    "description": "India vs New Zealand Live Score, 1st Test: The focus now shifts to Test cricket as India take on New Zealand in the opening match of their two-Test s",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-test-2026-match-today-scorecard-shubman-gill-wellington-weather-forecast-live-streaming/liveblog/135967818.cms",
+    "image": "https://static.toiimg.com/photo/msid-33550531/33550531.jpg",
+    "publishedAt": "2026-11-18T21:00:12Z",
+    "author": null
+  },
+  {
+    "source": "Crikey",
+    "title": "Albanese poses with Putin in China as Sandpapergate steals the headlines",
+    "description": "Cameron Bancroft’s explosive first-person piece claiming the whole Australian cricket team knew about the 2018 sandpaper scandal dominates the news agenda. Meanwhile, Anthony Albanese has posed for a picture with Vladimir Putin but says he won’t be taking les…",
+    "url": "https://www.crikey.com.au/2026/11/19/albanese-putin-apec-tony-abbott-sandpapergate-bancroft/",
+    "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/11/20261111169152263662-original-1.jpg?quality=70&w=840",
+    "publishedAt": "2026-11-18T20:11:19Z",
+    "author": "Rich James"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Azim Gold Cup: Inspire Cricket Academy to clash with Soulfeel Fighters in final",
+    "description": "Inspire Cricket Academy to face Soulfeel Fighters in Azim Gold Cup final at Jaipur’s Railway Cricket Ground after semi-final wins.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/azim-gold-cup-inspire-cricket-academy-to-clash-with-soulfeel-fighters-in-final/articleshow/135971032.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135971029/135971029.jpg",
+    "publishedAt": "2026-11-18T19:49:12Z",
+    "author": "TNN"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kashi cricket stadium likely to open in Dec",
+    "description": "Varanasi International Cricket Stadium in Kashi likely to open in Dec; ICC chair Jay Shah urges UPCA to finish pending work by Nov 30.",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/kashi-cricket-stadium-likely-to-open-in-dec/articleshow/135970791.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970790/135970790.jpg",
+    "publishedAt": "2026-11-18T19:27:19Z",
+    "author": "Fazal Khan"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "English press revels in Sandpapergate, likens Cummins to Bill Clinton",
+    "description": "The civil war engulfing Australian cricket is making big headlines in Blighty, where many fans and media pundits are revelling in their old enemy's pain.",
+    "url": "https://www.abc.net.au/news/2026-11-19/sandpapergate-cameron-bancroft-article-makes-headlines-in-uk/107401658",
+    "image": "https://live-production.wcms.abc-cdn.net.au/7a078a2ba9a2dc7e46d6ef0797cbcbe6?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=45&width=862&height=485",
+    "publishedAt": "2026-11-18T19:26:35Z",
+    "author": "Riley Stuart, Syan Vallance"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'Biggest pillar of CSK': Suresh Raina credits MS Dhoni for franchise's success, opens up on his IPL retirement",
+    "description": "Former Chennai Super Kings batter Suresh Raina acknowledged Mahendra Singh Dhoni's pivotal role in the franchise's success. After announcing his retirement, Dhoni will now serve as a mentor for CSK. Raina reflected on Dhoni's emotional connection with fans an…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e98852e8-daef-473f-86ba-7cc2042f9ded",
+    "image": null,
+    "publishedAt": "2026-11-18T19:26:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Syed Mushtaq Ali T20 Trophy: Opener Abhijeet Tomar smashes 80 off 42 balls to steer Rajasthan to third successive win",
+    "description": "Abhijeet Tomar’s 80 off 42 powers Rajasthan to a 7-wicket win over Chandigarh at Wankhede, making it three straight Syed Mushtaq Ali wins.",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/syed-mushtaq-ali-t20-trophy-opener-abhijeet-tomar-smashes-80-off-42-balls-to-steer-rajasthan-to-third-successive-win/articleshow/135970760.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970757/135970757.jpg",
+    "publishedAt": "2026-11-18T19:25:33Z",
+    "author": "Suhas Nayse"
+  },
+  {
+    "source": "Rediff.com",
+    "title": "VMC Approves Land Deal For Yusuf Pathan Amid Row",
+    "description": "The Vadodara Municipal Corporation has approved a controversial proposal to allot a 978-square metre disputed land parcel to former cricketer and TMC MP Yusuf Pathan. The deal involves giving 500 sq m for free and the rest at a discount, sparking protests fro…",
+    "url": "https://www.rediff.com/sports/report/vadodara-civic-body-allots-disputed-plot-to-yusuf-pathan/20261118.htm",
+    "image": "https://im.rediff.com/1600-900/news/2024/may/10yusuf-pathan4.jpg",
+    "publishedAt": "2026-11-18T18:12:18Z",
+    "author": "Rediff Sports Desk"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Kanpur South, PAC win quarterfinals in T-20 cricket tournament",
+    "description": "Kanpur South and PAC reach Ajay Sharma Memorial T20 semis; Himanshu Singh 75* leads 7-wicket win. DPS Barra wins inter-school archery overall. Kabaddi trials Nov 22.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-south-pac-win-quarterfinals-in-t-20-cricket-tournament/articleshow/135969234.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+    "publishedAt": "2026-11-18T18:01:15Z",
+    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Cameron Bancroft's bomb is Australian cricket's point of no return",
+    "description": "Cameron Bancroft's statement is the atom bomb Cricket Australia has always feared. For so many of the game's key figures, there is no turning back now.",
+    "url": "https://www.abc.net.au/news/2026-11-19/bancroft-bomb-is-australian-crickets-point-of-no-return/107401338",
+    "image": "https://live-production.wcms.abc-cdn.net.au/4fd06c11b885dceefe38d4fb9475d864?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=250&width=862&height=485",
+    "publishedAt": "2026-11-18T18:00:00Z",
+    "author": "Dean Bilton"
+  },
+  {
+    "source": "Bringatrailer.com",
+    "title": "LT4-Powered 1969 Chevrolet Camaro Coupe 6-Speed",
+    "description": "This 1969 Chevrolet Camaro coupe was acquired by the seller in 2000 and subsequently modified with a supercharged 6.2-liter LT4 V8 linked to a Bowler Performance Tremec six-speed manual transmission and a GearFX 9\" rear axle. Finished in silver with black str…",
+    "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-650/",
+    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/IMG_5148-scaled-copy-2026-11-02-fir-cdd378241fe4b493feadb97f98f9678c.jpg",
+    "publishedAt": "2026-11-18T17:30:04Z",
+    "author": "DavidMac54"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'Very hard to let Kuldeep go': Sourav Ganguly opens up on Delhi Capitals' big trade for Rishabh Pant",
+    "description": "Delhi Capitals made a significant trade decision before IPL 2027, involving Kuldeep Yadav moving to Lucknow Super Giants. Rishabh Pant returns to Delhi Capitals after being signed for a revised fee of Rs 15 crore. Sourav Ganguly expressed that parting with Ku…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cadf03be-890b-4497-abf2-142078238426",
+    "image": null,
+    "publishedAt": "2026-11-18T17:18:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "ICC hits Shreyas Iyer’s India with fine after 3-1 series win over New Zealand",
+    "description": "India were fined 35 per cent of their match fee for maintaining a slow over-rate during the fifth ODI against New Zealand in Mount Maunganui on November 15. Shreyas Iyer’s team was seven overs short of the target. Iyer accepted the charge and penalty, avoidin…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-hits-shreyas-iyers-india-with-fine-after-3-1-series-win-over-new-zealand/articleshow/135967061.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135967286/135967286.jpg",
+    "publishedAt": "2026-11-18T15:58:20Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'You've created history': Suryakumar Yadav's special message for MS Dhoni after IPL retirement",
+    "description": "Suryakumar Yadav paid an emotional tribute to MS Dhoni following his retirement from IPL. Dhoni, with a celebrated tenure including five IPL championships with Chennai Super Kings, is set to shift into a mentorship role next season. Yadav emphasized Dhoni's r…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youve-created-history-suryakumar-yadavs-special-message-for-ms-dhoni-after-ipl-retirement/articleshow/135966627.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135966727/135966727.jpg",
+    "publishedAt": "2026-11-18T15:19:23Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Told Sourav there was something special': Sachin Tendulkar's heartfelt message as MS Dhoni retires from IPL",
+    "description": "MS Dhoni has officially retired from the Indian Premier League, concluding an incredible 19-season career. Embracing a new chapter, he will serve as a mentor for the Chennai Super Kings, a team he has long been associated with. The franchise expressed heartfe…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135966272/135966272.jpg",
+    "publishedAt": "2026-11-18T14:59:10Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Brand pitch awaits MS Dhoni as IPL retirement shifts focus to endorsements",
+    "description": "As MS Dhoni retires from the IPL, brand experts weigh his enduring appeal, loyal fan base and credibility against declining match visibility and growing competition from younger stars",
+    "url": "https://www.business-standard.com/sports/business/brand-pitch-awaits-ms-dhoni-as-ipl-retirement-shifts-focus-to-endorsements-126111801299_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/23/full/1776922141-4146.jpg",
+    "publishedAt": "2026-11-18T14:36:09Z",
+    "author": "Anushka Bhardwaj"
+  },
+  {
+    "source": "RTE",
+    "title": "Bancroft: Entire team were aware of ball-tampering",
+    "description": "Cameron Bancroft on Wednesday claimed that the entire Australian team had known about ball-tampering during a 2018 tour of South Africa, adding that he had lied about the extent of the plot to protect Cricket Australia's investigation into the incident.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1118/1599701-bancroft-entire-team-were-aware-of-ball-tampering/",
+    "image": "https://www.rte.ie/images/00255cf6-1600.jpg",
+    "publishedAt": "2026-11-18T14:15:33Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "Business Standard",
+    "title": "Nike eyes threefold growth in India over five years, bets on cricket",
+    "description": "Nike plans to triple its India business over five years, focusing on running, training and sportswear, while tapping cricket through its Mumbai Indians partnership and new footwear",
+    "url": "https://www.business-standard.com/companies/news/nike-eyes-threefold-growth-in-india-over-five-years-bets-on-cricket-126111801247_1.html",
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/09/full/1744195001-2546.JPG",
+    "publishedAt": "2026-11-18T14:10:45Z",
+    "author": "Shine Jacob"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Biggest pillar of CSK': Suresh Raina credits MS Dhoni for franchise's success, opens up on his IPL retirement",
+    "description": "Former Chennai Super Kings batter Suresh Raina acknowledged Mahendra Singh Dhoni's pivotal role in the franchise's success. After announcing his retirement, Dhoni will now serve as a mentor for CSK. Raina reflected on Dhoni's emotional connection with fans an…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/biggest-pillar-of-csk-suresh-raina-credits-ms-dhoni-for-franchises-success-opens-up-on-his-ipl-retirement/articleshow/135965099.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135965250/135965250.jpg",
+    "publishedAt": "2026-11-18T13:56:44Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Brilliant openers, finding a way to knock over old nemesis Travis Head and Sandpapergate blowing up in Australia's face - where it went right for England in ODI series win",
+    "description": "LAWRENCE BOOTH: England's comprehensive 97-run win in the deciding ODI against Australia in Hobart gave Harry Brook's 50-over team their greatest moment yet.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16302377/England-Australia-ODI-series-Sandpapergate.html",
+    "image": "https://i.dailymail.com/1s/2026/11/18/12/112583113-0-image-m-47_1795006752030.jpg",
+    "publishedAt": "2026-11-18T13:02:48Z",
+    "author": "Lawrence Booth"
+  },
+  {
+    "source": "The Times of India",
     "title": "'Truly humbled to have you as a mentor': Dewald Brevis pens heartfelt tribute to MS Dhoni after IPL retirement",
     "description": "Dewald Brevis has expressed his heartfelt thanks to MS Dhoni, acknowledging the invaluable mentorship he received at CSK. Reflecting on their first encounter in 2022, Brevis highlighted how Dhoni's guidance shaped his growth. As Dhoni closes the chapter on hi…",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/truly-humbled-to-have-you-as-a-mentor-dewald-brevis-pens-heartfelt-tribute-to-ms-dhoni-after-ipl-retirement/articleshow/135963067.cms",
     "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135963763/135963763.jpg",
     "publishedAt": "2026-11-18T12:45:24Z",
     "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Arshdeep Singh makes big jump in ODI bowling rankings, Rohit Sharma slips after New Zealand series",
-    "description": "Arshdeep Singh has made remarkable strides in the ICC ODI bowling rankings after an impressive series against New Zealand. He is currently tied for 19th place with Axar Patel, while Kuldeep Yadav has slipped to 15th. On the batting side, Rohit Sharma has drop…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/arshdeep-singh-makes-big-jump-in-odi-bowling-rankings-rohit-sharma-slips-after-new-zealand-series/articleshow/135962954.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135963246/135963246.jpg",
-    "publishedAt": "2026-11-18T12:22:49Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Saif Ali Khan discusses films, cricket, father Tiger Pataudi with Prince William",
-    "description": "Bollywood actor Saif Ali Khan, who met Prince William in the city on Wednesday, has shared the details of his \"light\" conversation with the British royalty.",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-discusses-films-cricket-father-tiger-pataudi-with-prince-william/articleshow/135963079.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135963088/135963088.jpg",
-    "publishedAt": "2026-11-18T12:17:35Z",
-    "author": "IANS"
-  },
-  {
-    "source": "Human Rights Watch",
-    "title": "Sudan: Transfer War Crimes Suspects to ICC",
-    "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Left to right: Governor of South Kordofan Ahmed Haroun in South Kordofan State, August 23, 2011. © 2011 Reuters; Abdel Rahim Mohammed Hussein. © 2010 غيداء نجم الدين سعيد ابراهيم/Wikipedia; and Omar al-Bashir. © 2009…",
-    "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
-    "image": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/11/202611afr_sudan_icc.jpg?h=bffccde9&itok=sacgrrmX",
-    "publishedAt": "2026-11-18T12:07:13Z",
-    "author": "Liz Evenson"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Cameron Bancroft claims entire Australian team knew about ‘sandpapergate’",
-    "description": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
-    "url": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-939517420-1795002359.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-18T11:51:26Z",
-    "author": "Al Jazeera Staff"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Very hard to let Kuldeep go': Sourav Ganguly opens up on Delhi Capitals' big trade for Rishabh Pant",
-    "description": "Delhi Capitals made a significant trade decision before IPL 2027, involving Kuldeep Yadav moving to Lucknow Super Giants. Rishabh Pant returns to Delhi Capitals after being signed for a revised fee of Rs 15 crore. Sourav Ganguly expressed that parting with Ku…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-hard-to-let-kuldeep-go-sourav-ganguly-opens-up-on-delhi-capitals-big-trade-for-rishabh-pant/articleshow/135962219.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135962289/135962289.jpg",
-    "publishedAt": "2026-11-18T11:49:23Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Ben Duckett stars with 133 as England thrash Australia by 97 runs to win ODI series in Hobart",
-    "description": "In a thrilling conclusion to the ODI series, England triumphed over Australia in Hobart, clinching the victory with impressive performances. Ben Duckett shone brightly, amassing a fantastic 133 runs, while Sonny Baker’s extraordinary bowling, securing 4 wicke…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ben-duckett-stars-with-133-as-england-thrash-australia-by-97-runs-to-win-odi-series-in-hobart/articleshow/135961942.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135962239/135962239.jpg",
-    "publishedAt": "2026-11-18T11:46:13Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "CNA",
-    "title": "South Africa make early inroads as Bangladesh reach 58-3",
-    "description": "JOHANNESBURG, Nov 18 : South Africa made early inroads into the Bangladesh batting, leaving the tourists 58-3 in their second innings at tea on the fourth day of the first test at the Wanderers on Wednesday.• Fast bowler Marco Jansen removed opener Tamim Hasa…",
-    "url": "https://www.channelnewsasia.com/sport/south-africa-make-early-inroads-bangladesh-reach-58-3-6562431",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-11-18T11:05:00Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Pat Cummins has torched his own reputation over Sandpapergate - the poster boy of Australian cricket betrayed the essence of his nation's character, savaged his own team-mates and let three pals swing in the wind. He cannot remain as captain",
-    "description": "OLIVER HOLT: It is hard to see how Cummins can remain Australia captain. Once, he may have been seen as a unifying figure but not anymore. Australian cricket is tearing itself apart on his watch.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16302105/pat-cummins-sandpapergate-captaincy.html",
-    "image": "https://i.dailymail.com/1s/2026/11/18/11/112580715-0-image-a-62_1794999709136.jpg",
-    "publishedAt": "2026-11-18T11:02:29Z",
-    "author": "Oliver Holt"
-  },
-  {
-    "source": "The Times of India",
-    "title": "EXCLUSIVE | Rachin Ravindra: A father's lessons go beyond the boundary",
-    "description": "Rachin Ravindra's rise to international cricket has not changed life for his father, Ravi Krishnamurthy, who continues to balance his software engineering career with coaching at Hutt Hawks. From nurturing young New Zealand talent to giving his son space away…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/exclusive-rachin-ravindra-a-fathers-lessons-go-beyond-the-boundary/articleshow/135958654.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135960592/135960592.jpg",
-    "publishedAt": "2026-11-18T10:52:52Z",
-    "author": "Sahil Malhotra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Why are cricket scoreboards backwards in Australia?",
-    "description": "Our Ask Me Anything team explains why cricket scoreboards are backwards in Australia",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c2k4j5vjzgxo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fcf/live/d68d46e0-e339-11f1-99b6-a35a62fa4264.png",
-    "publishedAt": "2026-11-18T10:44:23Z",
-    "author": "Jonty Colman"
-  },
-  {
-    "source": "Business Standard",
-    "title": "What the IPL will miss when MS Dhoni is no longer the next man in",
-    "description": "MS Dhoni moves from player to CSK mentor. From Chepauk's roar to jersey sales and TV audiences, here's what the IPL will miss without Thala.",
-    "url": "https://www.business-standard.com/cricket/ipl/ms-dhoni-ipl-exit-csk-mentor-legacy-126111800795_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/31/full/1774930738-9677.jpg",
-    "publishedAt": "2026-11-18T10:36:58Z",
-    "author": "Anish Kumar"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "ICC Rankings: Tom Banton closes in on top 10 in ODI Rankings after Adelaide ton against Australia",
-    "description": "Tom Banton's remarkable innings of 121 runs played a crucial role in England's victory against Australia. His performance has propelled him 34 places up the ICC Men's ODI Player Rankings to number 13. Joe Root also made an impact, moving to ninth after scorin…",
-    "url": "https://m.economictimes.com/news/sports/cricket/icc-rankings-tom-banton-closes-in-on-top-10-in-odi-rankings-after-adelaide-ton-against-australia/articleshow/135957599.cms",
-    "image": "https://img.etimg.com/thumb/msid-135957598,resizemode-4,width-1200,height-900,imgsize-261522,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-18T10:26:22Z",
-    "author": "ANI"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Arshdeep Singh makes massive leap in ICC ODI rankings after New Zealand series; Tom Banton climbs to career-best",
-    "description": "Arshdeep Singh has achieved remarkable success, reaching a joint 19th position in the ICC ODI bowling rankings. His outstanding performances against New Zealand have propelled him forward. Meanwhile, England's Tom Banton made a notable leap after a stellar ce…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/arshdeep-singh-makes-massive-leap-in-icc-odi-rankings-after-new-zealand-series-tom-banton-climbs-to-career-best/articleshow/135958317.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135958592/135958592.jpg",
-    "publishedAt": "2026-11-18T09:51:13Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
-    "description": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
-    "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T023852Z_1703278223_RC2QKOAN59B3_RTRMADP_3_CRICKET-SANDPAPERGATE-1794289434.jpg?resize=1200%2C630",
-    "publishedAt": "2026-11-18T09:18:37Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "‘We all knew’: Cameron Bancroft breaks silence on Sandpapergate, admits withholding truth to protect teammates and Cricket Australia",
-    "description": "Cameron Bancroft has revealed that the entire Australian cricket squad was aware of the ball-tampering scheme, admitting he withheld the full truth during the Cricket Australia investigation to shield others. His disclosures have reignited the spotlight on th…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-all-knew-cameron-bancroft-breaks-silence-on-sandpapergate-admits-withholding-truth-to-protect-teammates-and-cricket-australia/articleshow/135957321.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135957471/135957471.jpg",
-    "publishedAt": "2026-11-18T09:15:51Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Will miss walking out with this rockstar': Travis Head's emotional message for Abhishek Sharma",
-    "description": "Travis Head has announced he will not participate in IPL 2027 to prioritize his international career. He expressed gratitude towards Sunrisers Hyderabad and his opening partner Abhishek Sharma. Head's decision comes after three notable seasons with the franch…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-miss-walking-out-with-this-rockstar-travis-heads-emotional-message-for-abhishek-sharma/articleshow/135956522.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135956522/135956522.jpg",
-    "publishedAt": "2026-11-18T08:55:42Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'I've got nothing to hide': Darren Lehmann welcomes Cricket Australia's Sandpapergate forum as Khawaja raises questions",
-    "description": "Darren Lehmann has expressed his support for Cricket Australia's establishment of an independent forum regarding the 2018 ball-tampering incident. This platform is intended for participants to recount their stories in a respectful manner. Usman Khawaja's rece…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ive-got-nothing-to-hide-darren-lehmann-welcomes-cricket-australias-sandpapergate-forum-as-khawaja-raises-questions/articleshow/135956448.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135956600/135956600.jpg",
-    "publishedAt": "2026-11-18T08:49:27Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "India Aims For Historic Fourth Asian Champions Trophy Win",
-    "description": "Defending champions India are set to compete in the Women's Asian Champions Trophy, aiming for a record fourth title. The team enters the tournament with significant momentum, having recently secured an Asian Games gold medal and a strong World Cup performanc…",
-    "url": "https://www.rediff.com/sports/report/india-eye-record-fourth-title-at-womens-asian-champions-trophy/20261118.htm",
-    "image": "https://im.rediff.com/1600-900/sports/2025/may/20women-hockey.jpg",
-    "publishedAt": "2026-11-18T08:44:04Z",
-    "author": "Rediff Sports Desk"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Duckett makes ton, Renshaw takes wickets in ODI decider",
-    "description": "England sets Australia another 300-plus target to win the final ODI in Hobart after a century to Ben Duckett, but wickets from Matt Renshaw keep the tourists' total within reach.",
-    "url": "https://www.abc.net.au/news/2026-11-18/australia-vs-england-third-odi-hobart/107399944",
-    "image": "https://live-production.wcms.abc-cdn.net.au/f235f40e35097fe37edd13103b6b71b3?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=3&width=862&height=485",
-    "publishedAt": "2026-11-18T07:57:37Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Australia are setting up a 'safe space' forum for their cricketers to talk about sandpapergate... but what is the point? LAWRENCE BOOTH on a Trump-like speech, Steve Smith's silence and why bizarre process is doomed to fail",
-    "description": "Cricket Australia's decision to set up an 'independent forum' to allow their cricketers a 'safe setting' in which to talk openly about the sandpaper fiasco looks at first sight like a decent idea.",
-    "url": "https://www.dailymail.com/sport/football/article-16301935/Australia-setting-safe-space-forum-cricketers-talk-sandpapergate-point-LAWRENCE-BOOTH-Trump-like-speech-Steve-Smiths-silence-bizarre-process-doomed-fail.html",
-    "image": "https://i.dailymail.com/1s/2026/11/18/07/112577151-0-image-m-24_1794987420943.jpg",
-    "publishedAt": "2026-11-18T07:54:25Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sports Ministry forms 14-member panel to chart roadmap for India's leagues",
-    "description": "The Ministry of Youth Affairs and Sports (MYAS) has formed a 14-member committee, featuring Joint Secretary Kunal, IOA CEO Raghuram Iyer, IPL COO Hemang Amin and leading corporate and broadcast executives, to develop a sustainable sports league ecosystem. The…",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/sports-ministry-forms-14-member-panel-to-chart-roadmap-for-indias-leagues/articleshow/135954332.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135954705/135954705.jpg",
-    "publishedAt": "2026-11-18T07:54:08Z",
-    "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "CNA",
-    "title": "Unprecedented ticket demand shows Cricket World Cup is a must-see event: tournament director",
-    "description": "DUBAI, Nov 18 : Ticket applications for next year's Cricket World Cup have vastly exceeded expectations and catapulted it into the category of must-see sporting events, said tournament director Sarah Edgar.The International Cricket Council said it was close t…",
-    "url": "https://www.channelnewsasia.com/sport/unprecedented-ticket-demand-shows-cricket-world-cup-must-see-event-tournament-director-6561881",
-    "image": "https://dam.mediacorp.sg/image/upload/s--Eg5KjITB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-18T074413Z_1_LYNXNPEMAH0MM_RTROPTP_3_CRICKET-WORLDCUP-IND-PAK.JPG?itok=tkTPG7w1",
-    "publishedAt": "2026-11-18T07:45:02Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Usman Khawaja questions Cricket Australia's Sandpapergate forum: 'It's hard to get the whole truth'",
-    "description": "Usman Khawaja has raised concerns about the sincerity of the new independent forum established by Cricket Australia. While the forum seeks to gather insights from players involved in the 2018 ball-tampering incident, Khawaja is wary about the information that…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/usman-khawaja-questions-cricket-australias-sandpapergate-forum-its-hard-to-get-the-whole-truth/articleshow/135954268.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135954415/135954415.jpg",
-    "publishedAt": "2026-11-18T07:40:33Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "The Times of India",
-    "title": "California bowler Warren Crawford threw 243 strikes in an hour, 52 more than the previous mark; his Nov11 Veterans Day attempt in Redding also raised $20,000 for a veterans nonprofit, with Guinness verification pending",
-    "description": "Warren Crawford stunned everyone with his astounding bowling prowess, clocking in 243 strikes within a single hour at a charity event that benefitted veterans and first responders. The endeavor successfully garnered around $20,000 in donations. Utilizing a un…",
-    "url": "https://timesofindia.indiatimes.com/world/us/california-bowler-warren-crawford-threw-243-strikes-in-an-hour-52-more-than-the-previous-mark-his-nov11-veterans-day-attempt-in-redding-also-raised-20000-for-a-veterans-nonprofit-with-guinness-verification-pending/articleshow/135948584.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-47529300/47529300.jpg",
-    "publishedAt": "2026-11-18T07:39:39Z",
-    "author": "TOI World Desk"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "MS Dhoni, an avid gamer himself, waits 13 years for GTA 6, retires from IPL just as it is releasing. Fans say Thala's next innings could be on a gaming screen",
-    "description": "MS Dhoni's IPL retirement has sparked hilarious GTA 6 memes, with an X user joking that the former CSK captain retired just in time for the game's launch. Fans joined in with '7 retired before 6' jokes. Meanwhile, CSK appointed Dhoni as Team Mentor ahead of I…",
-    "url": "https://m.economictimes.com/magazines/panache/ms-dhoni-an-avid-gamer-himself-waits-13-years-for-gta-6-retires-from-ipl-just-as-it-is-releasing-fans-say-thalas-next-innings-could-be-on-a-gaming-screen/articleshow/135950176.cms",
-    "image": "https://img.etimg.com/thumb/msid-135952460,resizemode-4,width-1200,height-900,imgsize-147525,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-11-18T06:41:39Z",
-    "author": "ET Entertainment Desk"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "Was hard to let go Kuldeep but we needed Pant for balance factor: Sourav Ganguly",
-    "description": "Delhi Capitals head coach Sourav Ganguly discussed the team's decision to release Kuldeep Yadav and Mitchell Starc. The team required an Indian batter for balance, leading to Rishabh Pant's inclusion. Ganguly emphasized the importance of retaining key players…",
-    "url": "https://m.economictimes.com/news/sports/cricket/was-hard-to-let-go-kuldeep-but-we-needed-pant-for-balance-factor-sourav-ganguly/articleshow/135951984.cms",
-    "image": "https://img.etimg.com/thumb/msid-135952095,resizemode-4,width-1200,height-900,imgsize-63036,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-18T06:26:58Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 1st Test | 'Three pacers, one bowling all-rounder': Tom Latham reveals New Zealand's plan against India",
-    "description": "The pace attack is expected to feature Matt Henry and Kyle Jamieson, along with another fast bowler. The bowling all-rounder will provide an additional option to the attack.New Zealand are currently at the top of the WTC table with four wins and one loss from…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/three-pacers-one-bowling-all-rounder-tom-latham-reveals-new-zealands-plan-against-india/articleshow/135950886.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135951019/135951019.jpg",
-    "publishedAt": "2026-11-18T05:48:35Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Is your doctor using an AI scribe?",
-    "description": "Does your GP use an AI scribe? On the Health Report this week, Dr Preeya Alexander and Jacinta Bowler talk to Professor Enrico ...",
-    "url": "https://biztoc.com/x/9cbc20b73f11ed56",
-    "image": "https://cdn.biztoc.com/9cbc20b73f11ed56_s.webp",
-    "publishedAt": "2026-11-18T05:22:07Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "MS Dhoni’s IPL moments: 19 seasons, countless memories – Seven moments that defined the CSK legend",
-    "description": "MS Dhoni's illustrious IPL journey concluded after 19 remarkable seasons, 17 with the Chennai Super Kings, who opted not to retain him this time. Renowned for steering CSK to numerous championships, Dhoni's legacy comprises unforgettable moments and sheer det…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhonis-ipl-moments-19-seasons-countless-memories-seven-moments-that-defined-the-csk-legend/articleshow/135950243.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135950368/135950368.jpg",
-    "publishedAt": "2026-11-18T05:21:59Z",
-    "author": "Hindol Basu"
   }
 ]
 ;
