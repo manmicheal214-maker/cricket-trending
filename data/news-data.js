@@ -1,5 +1,104 @@
 window.cricketNews = [
   {
+    "source": "The Conversation Africa",
+    "title": "How can Cricket Australia move on from its greatest controversy? The ‘underarm incident’ may offer lessons",
+    "description": "A generational change may provide Cricket Australia with an opportunity to finally move beyond the sandpaper scandal with a fresh slate.",
+    "url": "https://theconversation.com/how-can-cricket-australia-move-on-from-its-greatest-controversy-the-underarm-incident-may-offer-lessons-297037",
+    "image": "https://images.theconversation.com/files/772911/original/file-20261119-64-t9zyn0.jpg?ixlib=rb-4.1.1&rect=0%2C24%2C2071%2C1035&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-11-19T02:49:07Z",
+    "author": "Steve Georgakis"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Bancroft says he is 'freed' as Cummins hits nets with captaincy in question",
+    "description": "Cameron Bancroft has made his first public statement since alleging the entire Australian cricket team knew of the 2018 ball-tampering plot.",
+    "url": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-makes-first-statement-since-sandpaper-article/107403394",
+    "image": "https://live-production.wcms.abc-cdn.net.au/a3913a4efa70b38e8f87d33b4ccc0f19?impolicy=wcms_crop_resize&cropH=349&cropW=620&xPos=0&yPos=32&width=862&height=485",
+    "publishedAt": "2026-11-19T02:17:26Z",
+    "author": "Michael Doyle"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Highest successful run chases in Test cricket at Basin Reserve, Wellington: Full list of records",
+    "description": "With India all set to start the final part of their month-long tour of New Zealand, here's a look at the highest successful run chases at Basin Reserve, Wellington.",
+    "url": "https://www.cricketnews.com/en/cricket/news/highest-successful-run-chases-test-basin-reserve-wellington/aeb5bc4a447bb69300f77b80",
+    "image": "https://s.yimg.com/lo/mysterio/api/4cc266e572a42057fd8564d117423efea99bc35e7cac994980b2db26c05f6b05/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd5b55367fa534371f91d1799ceeb131b",
+    "publishedAt": "2026-11-19T01:33:04Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Under-fire Pat Cummins breaks cover with a kiss from his wife - as cricket legend warns he'll 'struggle to captain' following Cameron Bancroft's Sandpapergate bombshell",
+    "description": "Pat Cummins has responded to Cameron Bancroft's explosive Sandpapergate allegations.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16304105/pat-cummins-breaks-cover-kiss-wife-cameron-bancroft-sandpapergate.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/01/112597267-0-image-m-19_1795051323709.jpg",
+    "publishedAt": "2026-11-19T01:16:32Z",
+    "author": "Josh Alston, Aap"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cummins defiant as 'Sandpapergate' roils Australian cricket",
+    "description": "Pat Cummins remained defiant on Thursday as his position as Australia Test captain was called into question after he was dragged back into the \"Sandpapergate\" scandal by Cameron Bancroft's explosive revelations.\"Pat Cummins' future as Test captain should be p…",
+    "url": "https://sports.yahoo.com/articles/cummins-defiant-sandpapergate-roils-australian-010544999.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/4107df8efc9e15c74c57cf4eb96163bfb950bc12aa5c9895bab9915c47c4a732/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F57ef04433dfd6656d462da7d6d92e1bf.jpg",
+    "publishedAt": "2026-11-19T01:05:44Z",
+    "author": "AFP"
+  },
+  {
+    "source": "Bringatrailer.com",
+    "title": "6.2L-Powered 1956 Ford Fairlane Club Sedan",
+    "description": "This 1956 Ford Fairlane Club sedan was acquired by the seller in 2023, and a subsequent build by Killer Hot Rods in Alvarado, Texas, that totaled more than $130k involved the installation of a Don Hardy LS Engine Package, a Bowler Transmissions Tru-Street 4L7…",
+    "url": "https://bringatrailer.com/listing/1956-ford-fairlane-45/",
+    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/1956_ford_fairlane_1956_ford_fairlane_ca0ec619-dab6-499e-8856-f44e94fcd4c7-BnvRRY-28e17d973e1b012aec26f55a565349dc-0defdaef16295bd2513c289c58b289de-scaled-5ffef1736a1508711db2d8c119162c4e.jpg",
+    "publishedAt": "2026-11-19T00:15:06Z",
+    "author": "Puffy_150"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "The six biggest bombshells in Cameron Bancroft's damning Sandpapergate verdict that tore Australia apart: How Steve Smith will now be hounded, the brave voice they all ignored... and how two English cricket figures are mired in scandal",
+    "description": "The force of Bancroft's allegations has turned up the heat on the governing body to upgrade an independent forum into a new probe. Here are the key takeaways from his bombshell essay...",
+    "url": "https://www.dailymail.com/sport/cricket/article-16302507/The-six-biggest-bombshells-Cameron-Bancrofts-damning-Sandpapergate-verdict-tore-Australia-apart-ow-Steve-Smith-hounded-brave-voice-ignored-two-English-cricket-figures-mired-scandal.html",
+    "image": "https://i.dailymail.com/1s/2026/11/18/16/112587805-0-image-m-23_1795020177236.jpg",
+    "publishedAt": "2026-11-18T22:34:42Z",
+    "author": "Richard Gibson"
+  },
+  {
+    "source": "CNA",
+    "title": "Bumrah strikes early as India reduce NZ to 60-4 in first test",
+    "description": "Nov 19 : Jasprit Bumrah, playing his first test cricket in a year, struck with the third delivery of the day as India reduced New Zealand to 60 for 4 at lunch on the first day of the first test in Wellington on Thursday.    • Henry Nicholls, who had made 29 n…",
+    "url": "https://www.channelnewsasia.com/sport/bumrah-strikes-early-india-reduce-nz-60-4-in-first-test-6563906",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-11-18T22:02:54Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Bumrah returns with a bang but NZ cling on in first test",
+    "description": "Nov 19 : Jasprit Bumrah returned to test cricket with a bang on Thursday, taking 3 for 31 as India restricted a dogged New Zealand side to 140 for five at tea on the first day of the first test in Wellington.    • Paceman Bumrah had not played the longest for…",
+    "url": "https://www.channelnewsasia.com/sport/bumrah-returns-bang-nz-cling-in-first-test-6563906",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-11-18T22:02:54Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Bumrah is back: India wins the toss and bowls in the 1st test against New Zealand",
+    "description": "WELLINGTON, New Zealand (AP) — India captain Shubman Gill has won the toss and chosen to bowl in the first cricket test against New Zealand at the Basin Reserve as the tourists are bolstered by the return of star pacer Jasprit Bumrah, who will play his first …",
+    "url": "https://sports.yahoo.com/articles/bumrah-back-india-wins-toss-220146900.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/28c2ea13b9815b450bd543536374713f6b1347814e289c83029bb91a69a2b16b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F139a88b84d9714ab6aa27941c3aeea22.jpg",
+    "publishedAt": "2026-11-18T22:01:46Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "yorkerapi added to PyPI",
+    "description": "Python client for the YorkerAPI Cricket data API. No dependencies.",
+    "url": "https://pypi.org/project/yorkerapi/",
+    "image": null,
+    "publishedAt": "2026-11-18T21:23:49Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
     "title": "IND vs NZ, 1st Test: Shubman Gill's men look to end 17-year drought",
     "description": "India vs New Zealand Live Score, 1st Test: The focus now shifts to Test cricket as India take on New Zealand in the opening match of their two-Test s",
@@ -106,87 +205,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-11-18T17:18:00Z",
     "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "ICC hits Shreyas Iyer’s India with fine after 3-1 series win over New Zealand",
-    "description": "India were fined 35 per cent of their match fee for maintaining a slow over-rate during the fifth ODI against New Zealand in Mount Maunganui on November 15. Shreyas Iyer’s team was seven overs short of the target. Iyer accepted the charge and penalty, avoidin…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-hits-shreyas-iyers-india-with-fine-after-3-1-series-win-over-new-zealand/articleshow/135967061.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135967286/135967286.jpg",
-    "publishedAt": "2026-11-18T15:58:20Z",
-    "author": "Jyotirmoy Halder"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'You've created history': Suryakumar Yadav's special message for MS Dhoni after IPL retirement",
-    "description": "Suryakumar Yadav paid an emotional tribute to MS Dhoni following his retirement from IPL. Dhoni, with a celebrated tenure including five IPL championships with Chennai Super Kings, is set to shift into a mentorship role next season. Yadav emphasized Dhoni's r…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/youve-created-history-suryakumar-yadavs-special-message-for-ms-dhoni-after-ipl-retirement/articleshow/135966627.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135966727/135966727.jpg",
-    "publishedAt": "2026-11-18T15:19:23Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Told Sourav there was something special': Sachin Tendulkar's heartfelt message as MS Dhoni retires from IPL",
-    "description": "MS Dhoni has officially retired from the Indian Premier League, concluding an incredible 19-season career. Embracing a new chapter, he will serve as a mentor for the Chennai Super Kings, a team he has long been associated with. The franchise expressed heartfe…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/told-sourav-there-was-something-special-sachin-tendulkars-heartfelt-message-as-ms-dhoni-retires-from-ipl/articleshow/135966220.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135966272/135966272.jpg",
-    "publishedAt": "2026-11-18T14:59:10Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Brand pitch awaits MS Dhoni as IPL retirement shifts focus to endorsements",
-    "description": "As MS Dhoni retires from the IPL, brand experts weigh his enduring appeal, loyal fan base and credibility against declining match visibility and growing competition from younger stars",
-    "url": "https://www.business-standard.com/sports/business/brand-pitch-awaits-ms-dhoni-as-ipl-retirement-shifts-focus-to-endorsements-126111801299_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/23/full/1776922141-4146.jpg",
-    "publishedAt": "2026-11-18T14:36:09Z",
-    "author": "Anushka Bhardwaj"
-  },
-  {
-    "source": "RTE",
-    "title": "Bancroft: Entire team were aware of ball-tampering",
-    "description": "Cameron Bancroft on Wednesday claimed that the entire Australian team had known about ball-tampering during a 2018 tour of South Africa, adding that he had lied about the extent of the plot to protect Cricket Australia's investigation into the incident.",
-    "url": "https://www.rte.ie/sport/cricket/2026/1118/1599701-bancroft-entire-team-were-aware-of-ball-tampering/",
-    "image": "https://www.rte.ie/images/00255cf6-1600.jpg",
-    "publishedAt": "2026-11-18T14:15:33Z",
-    "author": "RTÉ Sport"
-  },
-  {
-    "source": "Business Standard",
-    "title": "Nike eyes threefold growth in India over five years, bets on cricket",
-    "description": "Nike plans to triple its India business over five years, focusing on running, training and sportswear, while tapping cricket through its Mumbai Indians partnership and new footwear",
-    "url": "https://www.business-standard.com/companies/news/nike-eyes-threefold-growth-in-india-over-five-years-bets-on-cricket-126111801247_1.html",
-    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/09/full/1744195001-2546.JPG",
-    "publishedAt": "2026-11-18T14:10:45Z",
-    "author": "Shine Jacob"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Biggest pillar of CSK': Suresh Raina credits MS Dhoni for franchise's success, opens up on his IPL retirement",
-    "description": "Former Chennai Super Kings batter Suresh Raina acknowledged Mahendra Singh Dhoni's pivotal role in the franchise's success. After announcing his retirement, Dhoni will now serve as a mentor for CSK. Raina reflected on Dhoni's emotional connection with fans an…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/biggest-pillar-of-csk-suresh-raina-credits-ms-dhoni-for-franchises-success-opens-up-on-his-ipl-retirement/articleshow/135965099.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135965250/135965250.jpg",
-    "publishedAt": "2026-11-18T13:56:44Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Brilliant openers, finding a way to knock over old nemesis Travis Head and Sandpapergate blowing up in Australia's face - where it went right for England in ODI series win",
-    "description": "LAWRENCE BOOTH: England's comprehensive 97-run win in the deciding ODI against Australia in Hobart gave Harry Brook's 50-over team their greatest moment yet.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16302377/England-Australia-ODI-series-Sandpapergate.html",
-    "image": "https://i.dailymail.com/1s/2026/11/18/12/112583113-0-image-m-47_1795006752030.jpg",
-    "publishedAt": "2026-11-18T13:02:48Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Truly humbled to have you as a mentor': Dewald Brevis pens heartfelt tribute to MS Dhoni after IPL retirement",
-    "description": "Dewald Brevis has expressed his heartfelt thanks to MS Dhoni, acknowledging the invaluable mentorship he received at CSK. Reflecting on their first encounter in 2022, Brevis highlighted how Dhoni's guidance shaped his growth. As Dhoni closes the chapter on hi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/truly-humbled-to-have-you-as-a-mentor-dewald-brevis-pens-heartfelt-tribute-to-ms-dhoni-after-ipl-retirement/articleshow/135963067.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135963763/135963763.jpg",
-    "publishedAt": "2026-11-18T12:45:24Z",
-    "author": "Nitesh Dubey"
   }
 ]
 ;
