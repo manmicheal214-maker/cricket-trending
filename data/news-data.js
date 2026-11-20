@@ -1,5 +1,194 @@
 window.cricketNews = [
   {
+    "source": "Blogdoandroid.com",
+    "title": "10CRIC IPL Betting Bonus Guide: How to Maximize the Cricket Pack, Free Match‑Day Bets & Cashback",
+    "description": "The Indian Premier League attracts millions of fans each season, and most of them want a reliable platform to turn their cricket knowledge into real money.",
+    "url": "https://blogdoandroid.com/10cric-ipl-betting-bonus-guide-how-to-maximize-the-cricket-pack-free-match-day-bets-cashback/",
+    "image": null,
+    "publishedAt": "2026-11-19T11:17:06Z",
+    "author": "edward"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Record! Yuzvendra Chahal becomes first Indian bowler to cross historic milestone",
+    "description": "Yuzvendra Chahal became the first Indian bowler to take 400 T20 wickets, reaching the milestone while playing for Haryana against Tamil Nadu in the Syed Mushtaq Ali Trophy. The 36-year-old finished with 3/16, taking his tally to 402 wickets in 246 matches. He…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/record-yuzvendra-chahal-becomes-first-indian-bowler-to-cross-historic-milestone/articleshow/135987389.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135987571/135987571.jpg",
+    "publishedAt": "2026-11-19T10:50:43Z",
+    "author": "Jyotirmoy Halder"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "'A lot of snooker players are a bit thick. I'd rather be thick and world No 5': 'Overthinker' Ronnie O'Sullivan opens up on his future - and finding his sport boring - as he invests in new T20-style event",
+    "description": "O'Sullivan, 50, now owns a 50 per cent stake in the new fast-paced 900 Global Championship snooker format, which he won its inaugural crown in May.",
+    "url": "https://www.dailymail.com/sport/snooker/article-16305213/snooker-players-Ronnie-OSullivan-future-stake-event.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/10/112604945-0-image-m-15_1795084749260.jpg",
+    "publishedAt": "2026-11-19T10:48:44Z",
+    "author": "Harry Bamforth"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "South Africa beats Bangladesh on Day 5 of first cricket test after Harmer shines again",
+    "description": "JOHANNESBURG (AP) — Simon Harmer ran through Bangladesh's tail and South Africa knocked off the 12 runs required to win the first test by nine wickets on Thursday, taking a 1-0 lead in the teams' two-match cricket test series.Resuming on 100-5 at the Wanderer…",
+    "url": "https://sports.yahoo.com/articles/south-africa-beats-bangladesh-day-101508054.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/d04df85d8eac5b7cd518c638075a39aae4b30b78a1764396cba03ce04c59e743/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fcfa84b27fca3919f3ea3a2062ff9abab.jpg",
+    "publishedAt": "2026-11-19T10:15:08Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Venugopal Rao: 'Built a cricket ecosystem from scratch, now ready for the next chapter'",
+    "description": "After four-and-a-half years of building GMR Group's cricket ecosystem across franchises, Venugopal Rao is stepping away for a family break but not from cricket. Reflecting on Delhi Capitals' missed opportunities, backing KL Rahul and the importance of giving …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/venugopal-rao-built-a-cricket-ecosystem-from-scratch-now-ready-for-the-next-chapter/articleshow/135984973.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135985198/135985198.jpg",
+    "publishedAt": "2026-11-19T09:43:22Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Why Mohammed Siraj's absence from Wellington Test is harsh but not a surprise",
+    "description": "When asked about Siraj's exclusion, batting coach Sitanshu Kotak asserted that they played the XI the management felt best suited for these conditions. Kotak further added that Siraj remains world-class and said there was nothing wrong with the bowler that le…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-mohammed-sirajs-absence-from-wellington-test-is-harsh-but-not-a-surprise/articleshow/135985192.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135985218/135985218.jpg",
+    "publishedAt": "2026-11-19T09:42:33Z",
+    "author": "Sahil Malhotra"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "'Freed' Cameron Bancroft speaks for first time since dropping a bomb on cricket's Sandpapergate saga... but it's his 'Cape Town' cap that's really raised eyebrows",
+    "description": "Cameron Bancroft feels 'freed' after releasing his Sandpapergate story that began as a journal entry, written earlier this year that the batter did not plan to publish.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16304989/cameron-bancroft-sandpapergate-cape-town-khawaja-warner-cummins-cricket.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/08/112602899-0-image-m-24_1795076632520.jpg",
+    "publishedAt": "2026-11-19T08:24:54Z",
+    "author": "Scott Bailey, Daily"
+  },
+  {
+    "source": "Gearculture.com",
+    "title": "Best Waffle Makers: Breville Smart, Cuisinart Vertical and All-Clad Picks",
+    "description": "Breville's Smart Waffle Pro leads this guide at $247.99. The timer sets itself. Cuisinart's Vertical Waffle Maker lands at $99.59 and pours batter through a spout at the top of an upright body that stands on a small base. All-Clad's digital four-slice model s…",
+    "url": "https://gearculture.com/goods/best-waffle-makers/",
+    "image": "https://gearculture.com/wp-content/uploads/2026/11/guide-hero-112.jpg",
+    "publishedAt": "2026-11-19T08:17:33Z",
+    "author": "Christian Zaguirre"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "The court that forgot the law",
+    "description": "The ICC in The Hague overstepped its own authority to prosecute Israel. Opinion.",
+    "url": "https://www.israelnationalnews.com/flashes/697925",
+    "image": "https://2.a7.org/files/pictures/000/1075218.jpg",
+    "publishedAt": "2026-11-19T07:38:43Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test",
+    "description": "RAWALPINDI, Pakistan (AP) — Pakistan seamers picked up two more wickets despite losing Saqib Khan due to a hamstring strain as Sri Lanka reached 167-5 at lunch on Day 3 of the second cricket test.Saqib, who took a seven-wicket haul on debut last week, was rul…",
+    "url": "https://sports.yahoo.com/articles/sri-lanka-reaches-167-5-072716682.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/eb0f17e57be6b81bdaf0afd2ce5c6e5e5b71582d10cccedddc5fcba6f749af51/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F07ed461f597b9833beb529b2adaa2039.jpg",
+    "publishedAt": "2026-11-19T07:27:16Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Crisis engulfing Australian cricket divides the nation and parliament",
+    "description": "An eight-year-old cheating scandal was revived this week after a former player accused his teammates of knowing about the plot.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3466593d-1840-4cf8-866c-b775a2eec79b",
+    "image": null,
+    "publishedAt": "2026-11-19T06:58:21Z",
+    "author": null
+  },
+  {
+    "source": "Economictimes.com",
+    "title": "Bumrah is back: India paceman's 3-wicket comeback spoiled by Nicholls', Phillips' stubborn stand",
+    "description": "Jasprit Bumrah made his return to Test cricket after a long injury absence during the match against New Zealand. He took three early wickets, which helped India limit New Zealand's scoring initially. A strong partnership between Henry Nicholls and Glenn Phill…",
+    "url": "https://m.economictimes.com/news/sports/cricket/bumrah-is-back-india-pacemans-3-wicket-comeback-spoiled-by-nicholls-phillips-stubborn-stand/articleshow/135980373.cms",
+    "image": "https://img.etimg.com/thumb/msid-135980368,resizemode-4,width-1200,height-900,imgsize-143948,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-19T06:47:03Z",
+    "author": "AP"
+  },
+  {
+    "source": "Economictimes.com",
+    "title": "MS Dhoni's 19-season IPL journey comes full circle: A look back at CSK legend's iconic career, five titles and enduring legacy",
+    "description": "MS Dhoni's IPL career ended with his exclusion from the Chennai Super Kings' retention list for 2027. After 19 seasons, he transitions to a mentor role following significant contributions to CSK and the IPL. Dhoni led CSK to five title wins and 10 finals duri…",
+    "url": "https://m.economictimes.com/news/sports/cricket/ms-dhonis-19-season-ipl-journey-comes-full-circle-a-look-back-at-csk-legends-iconic-career-five-titles-and-enduring-legacy/articleshow/135978892.cms",
+    "image": "https://img.etimg.com/thumb/msid-135978891,resizemode-4,width-1200,height-900,imgsize-100716,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-19T05:52:23Z",
+    "author": "ANI"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "'Virat and Dhoni were a sight to see': Usman Khawaja recalls how India duo took T20 World Cup 2016 game away from Australia in Mohali",
+    "description": "Usman Khawaja looks back at how Virat Kohli and MS Dhoni inspired India's memorable T20 World Cup 2016 win over Australia in Mohali.",
+    "url": "https://www.cricketnews.com/en/cricket/news/virat-dhoni-khawaja-india-t20-world-cup-2016-game-australia-mohali/bd6746d85cd15fa0b45e430f",
+    "image": "https://s.yimg.com/lo/mysterio/api/810643b244730e0e99d095f60892a46910b5f8d01b0e734c7d554ace81f5f2a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F143645855326a526c4a7a8f9cd39a00a",
+    "publishedAt": "2026-11-19T05:29:02Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cricketer at center of Australian ball-tampering scandal says he's 'freed' after lengthy rebuttal",
+    "description": "BRISBANE, Australia (AP) — If Cameron Bancroft was trying to exorcize his past misdeeds over the controversial 2018 Sandpapergate cricket cheating scandal in South Africa, it took him a while — both in length of time and the length of his message.Bancroft, wh…",
+    "url": "https://sports.yahoo.com/articles/cricketer-center-australian-ball-tampering-051521658.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/595f877c65aba4bb063e97064b51784f27608cb38f11d6fb3943bd76e675366a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1cf2434f4233c72c0e5578d15dc3dd1.jpg",
+    "publishedAt": "2026-11-19T05:15:21Z",
+    "author": "DENNIS PASSA"
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "The context you need to understand Bancroft's version of Sandpapergate",
+    "description": "If you feel like you missed a beat with the Australian cricket's sandpaper scandal and why its back in the news, this breakdown of Cameron Bancroft's article will bring you up to speed.",
+    "url": "https://www.abc.net.au/news/2026-11-19/cameron-bancroft-sandpaper-breakdown/107403066",
+    "image": "https://live-production.wcms.abc-cdn.net.au/b6fa02888ef642869bee9e62b4055bf6?impolicy=wcms_crop_resize&cropH=1555&cropW=2761&xPos=15&yPos=166&width=862&height=485",
+    "publishedAt": "2026-11-19T04:53:01Z",
+    "author": "Russell Jackson"
+  },
+  {
+    "source": "Israelnationalnews.com",
+    "title": "The court that forgot the law",
+    "description": "The ICC in The Hague overstepped its own authority to prosecute Israel. Opinion.",
+    "url": "https://www.israelnationalnews.com/news/436599",
+    "image": "https://2.a7.org/files/pictures/000/1040119.jpg",
+    "publishedAt": "2026-11-19T04:30:00Z",
+    "author": "Christoforos Ioannidis"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Inspired by Sunelita, Pooja Sahoo eyes dream debut as India begin ACT campaign",
+    "description": "Several years and countless training sessions later, the defender from Kukuda village in Odisha’s Sundargarh district has earned a maiden senior call-up of her own after being named in India’s squad for the Women’s Asian Champions Trophy, which begins in Bhop…",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/inspired-by-sunelita-pooja-sahoo-eyes-dream-debut-as-india-begin-act-campaign/articleshow/135977434.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135977468/135977468.jpg",
+    "publishedAt": "2026-11-19T04:28:13Z",
+    "author": "Arnab Lall Seal"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Shane Warne's eerie Sandpapergate prediction resurfaces amid Cameron Bancroft's bombshell claims: 'One day the truth will come out'",
+    "description": "In his final interview, published 25 days before his death, Shane Warne took aim at the 'bowling cartel' and asked what Cricket Australia knew about Sandpapergate.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16304407/shane-warne-sandpapergate-warning-cameron-bancroft-claims.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/03/112598557-0-image-m-127_1795057362944.jpg",
+    "publishedAt": "2026-11-19T04:06:19Z",
+    "author": "Josh Alston"
+  },
+  {
+    "source": "Economictimes.com",
+    "title": "Australia captain Cummins under pressure as Sandpapergate scandal deepens",
+    "description": "Pat Cummins is facing increased scrutiny over his involvement in the 2018 ball-tampering scandal. Cameron Bancroft recently questioned Cummins' credibility, insisting that he has been misleading the public. Cricket Australia is under pressure to reopen the ca…",
+    "url": "https://m.economictimes.com/news/sports/cricket/australia-captain-cummins-under-pressure-as-sandpapergate-scandal-deepens/articleshow/135976583.cms",
+    "image": "https://img.etimg.com/thumb/msid-135976581,resizemode-4,width-1200,height-900,imgsize-113492,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-19T03:44:34Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Syed Mushtaq Ali Trophy: Bihar stun Delhi despite Yash Dhull ton",
+    "description": "After being asked to bat first, Delhi posted 224/5 in 20 overs, thanks to Yash Dhull’s brilliant 59-ball 125 (16x4, 7x6). Bihar began the chase in fifth gear, racing away to 96 in Powerplay. Wicketkeeper-batter Ayush Loharuka led the charge with a knock of 50…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/syed-mushtaq-ali-trophy-bihar-stun-delhi-despite-yash-dhull-ton/articleshow/135976442.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135976490/135976490.jpg",
+    "publishedAt": "2026-11-19T03:38:12Z",
+    "author": "Gaurav Gupta"
+  },
+  {
     "source": "The Conversation Africa",
     "title": "How can Cricket Australia move on from its greatest controversy? The ‘underarm incident’ may offer lessons",
     "description": "A generational change may provide Cricket Australia with an opportunity to finally move beyond the sandpaper scandal with a fresh slate.",
@@ -34,177 +223,6 @@ window.cricketNews = [
     "image": "https://i.dailymail.com/1s/2026/11/19/01/112597267-0-image-m-19_1795051323709.jpg",
     "publishedAt": "2026-11-19T01:16:32Z",
     "author": "Josh Alston, Aap"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Cummins defiant as 'Sandpapergate' roils Australian cricket",
-    "description": "Pat Cummins remained defiant on Thursday as his position as Australia Test captain was called into question after he was dragged back into the \"Sandpapergate\" scandal by Cameron Bancroft's explosive revelations.\"Pat Cummins' future as Test captain should be p…",
-    "url": "https://sports.yahoo.com/articles/cummins-defiant-sandpapergate-roils-australian-010544999.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/4107df8efc9e15c74c57cf4eb96163bfb950bc12aa5c9895bab9915c47c4a732/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F57ef04433dfd6656d462da7d6d92e1bf.jpg",
-    "publishedAt": "2026-11-19T01:05:44Z",
-    "author": "AFP"
-  },
-  {
-    "source": "Bringatrailer.com",
-    "title": "6.2L-Powered 1956 Ford Fairlane Club Sedan",
-    "description": "This 1956 Ford Fairlane Club sedan was acquired by the seller in 2023, and a subsequent build by Killer Hot Rods in Alvarado, Texas, that totaled more than $130k involved the installation of a Don Hardy LS Engine Package, a Bowler Transmissions Tru-Street 4L7…",
-    "url": "https://bringatrailer.com/listing/1956-ford-fairlane-45/",
-    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/1956_ford_fairlane_1956_ford_fairlane_ca0ec619-dab6-499e-8856-f44e94fcd4c7-BnvRRY-28e17d973e1b012aec26f55a565349dc-0defdaef16295bd2513c289c58b289de-scaled-5ffef1736a1508711db2d8c119162c4e.jpg",
-    "publishedAt": "2026-11-19T00:15:06Z",
-    "author": "Puffy_150"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "The six biggest bombshells in Cameron Bancroft's damning Sandpapergate verdict that tore Australia apart: How Steve Smith will now be hounded, the brave voice they all ignored... and how two English cricket figures are mired in scandal",
-    "description": "The force of Bancroft's allegations has turned up the heat on the governing body to upgrade an independent forum into a new probe. Here are the key takeaways from his bombshell essay...",
-    "url": "https://www.dailymail.com/sport/cricket/article-16302507/The-six-biggest-bombshells-Cameron-Bancrofts-damning-Sandpapergate-verdict-tore-Australia-apart-ow-Steve-Smith-hounded-brave-voice-ignored-two-English-cricket-figures-mired-scandal.html",
-    "image": "https://i.dailymail.com/1s/2026/11/18/16/112587805-0-image-m-23_1795020177236.jpg",
-    "publishedAt": "2026-11-18T22:34:42Z",
-    "author": "Richard Gibson"
-  },
-  {
-    "source": "CNA",
-    "title": "Bumrah strikes early as India reduce NZ to 60-4 in first test",
-    "description": "Nov 19 : Jasprit Bumrah, playing his first test cricket in a year, struck with the third delivery of the day as India reduced New Zealand to 60 for 4 at lunch on the first day of the first test in Wellington on Thursday.    • Henry Nicholls, who had made 29 n…",
-    "url": "https://www.channelnewsasia.com/sport/bumrah-strikes-early-india-reduce-nz-60-4-in-first-test-6563906",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-11-18T22:02:54Z",
-    "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "Bumrah returns with a bang but NZ cling on in first test",
-    "description": "Nov 19 : Jasprit Bumrah returned to test cricket with a bang on Thursday, taking 3 for 31 as India restricted a dogged New Zealand side to 140 for five at tea on the first day of the first test in Wellington.    • Paceman Bumrah had not played the longest for…",
-    "url": "https://www.channelnewsasia.com/sport/bumrah-returns-bang-nz-cling-in-first-test-6563906",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-11-18T22:02:54Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Bumrah is back: India wins the toss and bowls in the 1st test against New Zealand",
-    "description": "WELLINGTON, New Zealand (AP) — India captain Shubman Gill has won the toss and chosen to bowl in the first cricket test against New Zealand at the Basin Reserve as the tourists are bolstered by the return of star pacer Jasprit Bumrah, who will play his first …",
-    "url": "https://sports.yahoo.com/articles/bumrah-back-india-wins-toss-220146900.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/28c2ea13b9815b450bd543536374713f6b1347814e289c83029bb91a69a2b16b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F139a88b84d9714ab6aa27941c3aeea22.jpg",
-    "publishedAt": "2026-11-18T22:01:46Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "Pypi.org",
-    "title": "yorkerapi added to PyPI",
-    "description": "Python client for the YorkerAPI Cricket data API. No dependencies.",
-    "url": "https://pypi.org/project/yorkerapi/",
-    "image": null,
-    "publishedAt": "2026-11-18T21:23:49Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ, 1st Test: Shubman Gill's men look to end 17-year drought",
-    "description": "India vs New Zealand Live Score, 1st Test: The focus now shifts to Test cricket as India take on New Zealand in the opening match of their two-Test s",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-test-2026-match-today-scorecard-shubman-gill-wellington-weather-forecast-live-streaming/liveblog/135967818.cms",
-    "image": "https://static.toiimg.com/photo/msid-33550531/33550531.jpg",
-    "publishedAt": "2026-11-18T21:00:12Z",
-    "author": null
-  },
-  {
-    "source": "Crikey",
-    "title": "Albanese poses with Putin in China as Sandpapergate steals the headlines",
-    "description": "Cameron Bancroft’s explosive first-person piece claiming the whole Australian cricket team knew about the 2018 sandpaper scandal dominates the news agenda. Meanwhile, Anthony Albanese has posed for a picture with Vladimir Putin but says he won’t be taking les…",
-    "url": "https://www.crikey.com.au/2026/11/19/albanese-putin-apec-tony-abbott-sandpapergate-bancroft/",
-    "image": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/11/20261111169152263662-original-1.jpg?quality=70&w=840",
-    "publishedAt": "2026-11-18T20:11:19Z",
-    "author": "Rich James"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Azim Gold Cup: Inspire Cricket Academy to clash with Soulfeel Fighters in final",
-    "description": "Inspire Cricket Academy to face Soulfeel Fighters in Azim Gold Cup final at Jaipur’s Railway Cricket Ground after semi-final wins.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/azim-gold-cup-inspire-cricket-academy-to-clash-with-soulfeel-fighters-in-final/articleshow/135971032.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135971029/135971029.jpg",
-    "publishedAt": "2026-11-18T19:49:12Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kashi cricket stadium likely to open in Dec",
-    "description": "Varanasi International Cricket Stadium in Kashi likely to open in Dec; ICC chair Jay Shah urges UPCA to finish pending work by Nov 30.",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/kashi-cricket-stadium-likely-to-open-in-dec/articleshow/135970791.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970790/135970790.jpg",
-    "publishedAt": "2026-11-18T19:27:19Z",
-    "author": "Fazal Khan"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "English press revels in Sandpapergate, likens Cummins to Bill Clinton",
-    "description": "The civil war engulfing Australian cricket is making big headlines in Blighty, where many fans and media pundits are revelling in their old enemy's pain.",
-    "url": "https://www.abc.net.au/news/2026-11-19/sandpapergate-cameron-bancroft-article-makes-headlines-in-uk/107401658",
-    "image": "https://live-production.wcms.abc-cdn.net.au/7a078a2ba9a2dc7e46d6ef0797cbcbe6?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=45&width=862&height=485",
-    "publishedAt": "2026-11-18T19:26:35Z",
-    "author": "Riley Stuart, Syan Vallance"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'Biggest pillar of CSK': Suresh Raina credits MS Dhoni for franchise's success, opens up on his IPL retirement",
-    "description": "Former Chennai Super Kings batter Suresh Raina acknowledged Mahendra Singh Dhoni's pivotal role in the franchise's success. After announcing his retirement, Dhoni will now serve as a mentor for CSK. Raina reflected on Dhoni's emotional connection with fans an…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e98852e8-daef-473f-86ba-7cc2042f9ded",
-    "image": null,
-    "publishedAt": "2026-11-18T19:26:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Syed Mushtaq Ali T20 Trophy: Opener Abhijeet Tomar smashes 80 off 42 balls to steer Rajasthan to third successive win",
-    "description": "Abhijeet Tomar’s 80 off 42 powers Rajasthan to a 7-wicket win over Chandigarh at Wankhede, making it three straight Syed Mushtaq Ali wins.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/syed-mushtaq-ali-t20-trophy-opener-abhijeet-tomar-smashes-80-off-42-balls-to-steer-rajasthan-to-third-successive-win/articleshow/135970760.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135970757/135970757.jpg",
-    "publishedAt": "2026-11-18T19:25:33Z",
-    "author": "Suhas Nayse"
-  },
-  {
-    "source": "Rediff.com",
-    "title": "VMC Approves Land Deal For Yusuf Pathan Amid Row",
-    "description": "The Vadodara Municipal Corporation has approved a controversial proposal to allot a 978-square metre disputed land parcel to former cricketer and TMC MP Yusuf Pathan. The deal involves giving 500 sq m for free and the rest at a discount, sparking protests fro…",
-    "url": "https://www.rediff.com/sports/report/vadodara-civic-body-allots-disputed-plot-to-yusuf-pathan/20261118.htm",
-    "image": "https://im.rediff.com/1600-900/news/2024/may/10yusuf-pathan4.jpg",
-    "publishedAt": "2026-11-18T18:12:18Z",
-    "author": "Rediff Sports Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Kanpur South, PAC win quarterfinals in T-20 cricket tournament",
-    "description": "Kanpur South and PAC reach Ajay Sharma Memorial T20 semis; Himanshu Singh 75* leads 7-wicket win. DPS Barra wins inter-school archery overall. Kabaddi trials Nov 22.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-south-pac-win-quarterfinals-in-t-20-cricket-tournament/articleshow/135969234.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-    "publishedAt": "2026-11-18T18:01:15Z",
-    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Cameron Bancroft's bomb is Australian cricket's point of no return",
-    "description": "Cameron Bancroft's statement is the atom bomb Cricket Australia has always feared. For so many of the game's key figures, there is no turning back now.",
-    "url": "https://www.abc.net.au/news/2026-11-19/bancroft-bomb-is-australian-crickets-point-of-no-return/107401338",
-    "image": "https://live-production.wcms.abc-cdn.net.au/4fd06c11b885dceefe38d4fb9475d864?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=250&width=862&height=485",
-    "publishedAt": "2026-11-18T18:00:00Z",
-    "author": "Dean Bilton"
-  },
-  {
-    "source": "Bringatrailer.com",
-    "title": "LT4-Powered 1969 Chevrolet Camaro Coupe 6-Speed",
-    "description": "This 1969 Chevrolet Camaro coupe was acquired by the seller in 2000 and subsequently modified with a supercharged 6.2-liter LT4 V8 linked to a Bowler Performance Tremec six-speed manual transmission and a GearFX 9\" rear axle. Finished in silver with black str…",
-    "url": "https://bringatrailer.com/listing/1969-chevrolet-camaro-650/",
-    "image": "https://bringatrailer.com/wp-content/uploads/2026/10/IMG_5148-scaled-copy-2026-11-02-fir-cdd378241fe4b493feadb97f98f9678c.jpg",
-    "publishedAt": "2026-11-18T17:30:04Z",
-    "author": "DavidMac54"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'Very hard to let Kuldeep go': Sourav Ganguly opens up on Delhi Capitals' big trade for Rishabh Pant",
-    "description": "Delhi Capitals made a significant trade decision before IPL 2027, involving Kuldeep Yadav moving to Lucknow Super Giants. Rishabh Pant returns to Delhi Capitals after being signed for a revised fee of Rs 15 crore. Sourav Ganguly expressed that parting with Ku…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cadf03be-890b-4497-abf2-142078238426",
-    "image": null,
-    "publishedAt": "2026-11-18T17:18:00Z",
-    "author": null
   }
 ]
 ;
