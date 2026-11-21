@@ -1,5 +1,140 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "ILT20 Season 5 preview: Focus on South Africans, Associates as league avoids SA20 clash",
+    "description": "The ILT20’s revised schedule has opened the door for several South African stars to feature without clashing with SA20, while mandatory UAE, Afghanistan and Associate player representation strengthens opportunities for emerging talent. Season 5 of UAE's T20 c…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/focus-on-south-africans-associates-as-ilt20-season-5-prepares-to-get-underway/articleshow/136039591.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136039608/136039608.jpg",
+    "publishedAt": "2026-11-20T22:34:23Z",
+    "author": "Tanuj Lakhina"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Deserved justice': Why IND boycotted presentation after PAK won Asia Cup - Explained",
+    "description": "Pakistan were awarded the title on the basis of a better net run rate. However, CABI general secretary Shailendra Yadav accused Pakistan of declaring themselves champions without following the position of the World Blind Cricket Council (WBCC) Technical Commi…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136039680/136039680.jpg",
+    "publishedAt": "2026-11-20T22:30:48Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Sandpapergate: Aussie quick Josh Hazlewood launces defiant defence of under-fire captain Pat Cummins",
+    "description": "Cricket Australia is expected to reiterate its support for Pat Cummins",
+    "url": "https://www.nzherald.co.nz/sport/sandpapergate-aussie-quick-josh-hazlewood-launces-defiant-defence-of-under-fire-captain-pat-cummins/AZHCJ3ZYEJAB7K4YGZ2JSVAVNE/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/F6SFVLJW5NC4JEIAPNRLAKEXFA.jpg?auth=5a978cf2435c1dab7cf77ce36051c4e03c2c6a7e4410e3fee065518cc90c10a2",
+    "publishedAt": "2026-11-20T22:14:37Z",
+    "author": null
+  },
+  {
+    "source": "Heavy.com",
+    "title": "Lions Get Unwelcome Injury Update on Buccaneers Pro Bowler Ahead of Week 11",
+    "description": "Lions get discouraging news before the Sunday clash, as Buccaneers' two-time Pro-Bowler gets a fresh injury update The post Lions Get Unwelcome Injury Update on Buccaneers Pro Bowler Ahead of Week 11 appeared first on HEAVY.",
+    "url": "https://heavy.com/sports/nfl/detroit-lions/unwelcome-injury-update-buccaneers-baker-mayfield/",
+    "image": "https://s.yimg.com/lo/mysterio/api/a7123f305044ccfcbc5c195f9474e0b72f338be70b64cdde7762889a7d64272b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F43685702a4b69f5e63ad641273b6646f.jpg",
+    "publishedAt": "2026-11-20T22:14:10Z",
+    "author": "Avik Das"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Steelers Pro Bowler dealing with broken thumb",
+    "description": "patrick queen thumb",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9e0f3d7-b85d-4214-b4be-a7438cdb4081",
+    "image": null,
+    "publishedAt": "2026-11-20T21:45:52Z",
+    "author": null
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Josh Hazlewood breaks ranks to defend Pat Cummins as Sandpapergate scandal continues",
+    "description": "The fast bowler has warned that removing Cummins would divide the squad.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16310231/pat-cummins-hazlewood-sandpapergate-captain-cricket-australia.html",
+    "image": "https://i.dailymail.com/1s/2026/11/20/21/112643447-0-image-m-9_1795210361085.jpg",
+    "publishedAt": "2026-11-20T21:44:30Z",
+    "author": "Joanna Hynds"
+  },
+  {
+    "source": "USA Today",
+    "title": "Pro Bowler among 3 kicker Raiders workouts in light of Matt Gay injury",
+    "description": "With Matt Gay's status in doubt Week 11 vs the Broncos, the Raiders had three kickers in for workouts, one a former Pro Bowler.",
+    "url": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2026/11/20/raiders-workouts-kickers-younghoe-koo-week-11-broncos-matt-gay-injury/92883276007/",
+    "image": "https://s.yimg.com/lo/mysterio/api/06dbb2595820b12e176e777034460c888d20bd374658acad4c4bfa4e642e42c2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flas_vegas_raiders_wire_usa_today_sports_articles_842%2Fde70648aa3dc090e5d2d951f7920f2f2.jpg",
+    "publishedAt": "2026-11-20T20:41:04Z",
+    "author": "Levi Damien, Raiders Wire"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+    "description": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
+    "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Nepal-fans-at-India-vs-Nepal-Asia-Cup-Rising-Stars-1795201329.jpg?resize=1800%2C1200&quality=80",
+    "publishedAt": "2026-11-20T20:03:11Z",
+    "author": "Faisal Mohammad"
+  },
+  {
+    "source": "Screenanarchy.com",
+    "title": "BEST PANCAKES IN THE COUNTY Review: Stodgy Batter Leaves for a Bitter Aftertaste",
+    "description": "False advertising is a hell of a thing. When a diner professes to have 'the best pancakes in the county', there's often a high bar to hurdle. The same applies for when Nicolas Cage adorns the poster of a low-budget thriller wearing THE most insane nose you ha…",
+    "url": "https://screenanarchy.com/2026/11/best-pancakes-in-the-county-review-stodgy-batter-leaves-for-a-bitter-aftertaste.html",
+    "image": "https://screenanarchy.com/assets_c/2026/11/Best-Pancakes-in-the-County-poster-thumb-430x430-107503.jpg",
+    "publishedAt": "2026-11-20T20:02:03Z",
+    "author": null
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Former Pro Bowler Has Some Strong Advice For Cowboys WR: 'Run Away'",
+    "description": "On Sunday, just like Dallas Cowboys fans, the team’s defense also failed to show up in the loss against the San Francisco 49ers. But out of the sea of red, white and gold at AT&T Stadium, there was a bright blue spot: their offense.\nAnd that was thanks to wid…",
+    "url": "https://biztoc.com/x/7ee42b1494af47c1",
+    "image": "https://cdn.biztoc.com/7ee42b1494af47c1_s.webp",
+    "publishedAt": "2026-11-20T19:54:13Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
+    "description": "A controversy arose after Pakistan was declared winners of the Men's Blind Cricket Asia Cup 2026. The final match against India was abandoned because of rain, leading to dissatisfaction from the Indian team. India's cricket association alleged that the decisi…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a33d4b8c-60ec-40e0-b090-331d005815d0",
+    "image": null,
+    "publishedAt": "2026-11-20T19:26:00Z",
+    "author": null
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Nepal cricket fans celebrate their team’s global rise",
+    "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-19.17.11-1795202413.png?resize=1200%2C675",
+    "publishedAt": "2026-11-20T19:24:26Z",
+    "author": null
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Trying to get your head around Sandpapergate? We're here to help",
+    "description": "Here's a quick guide to the Sandpapergate drama — absolutely zero knowledge of cricket rules needed.",
+    "url": "https://www.abc.net.au/news/2026-11-21/sandpapergate-ball-tampering-scandal/107404386",
+    "image": "https://live-production.wcms.abc-cdn.net.au/6a66ccad3d34041eb00481776f541f8e?impolicy=wcms_crop_resize&cropH=1474&cropW=2621&xPos=334&yPos=140&width=862&height=485",
+    "publishedAt": "2026-11-20T18:00:00Z",
+    "author": "Elissa Fitzgerald"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'This is all politics, focus on your cricket': Sarfaraz Khan recalls Gautam Gambhir's phone call over dressing-room leak reports after BGT 2025",
+    "description": "Sarfaraz Khan reveals how India head coach Gautam Gambhir called him and his father, Naushad Khan, after the dressing room leak controversy.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_db06240c-df04-4eda-81db-92c497606a67",
+    "image": null,
+    "publishedAt": "2026-11-20T17:30:47Z",
+    "author": null
+  },
+  {
+    "source": "Livemint",
+    "title": "Who is Jay Mehta? Meet Juhi Chawla’s husband selling half of his 45% KKR stake for $400 million",
+    "description": "Jay Mehta, husband of actor Juhi Chawla and a director of the Mehta Group, is reportedly set to sell half of his 45% stake in Kolkata Knight Riders to US-based Ares Management for $400 million. The deal would value the IPL franchise at around $1.78 billion, s…",
+    "url": "https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/KKR_Champions_Hoist_the_IPL_Trophy_1795193935922_voS1_1795193941012_j9zF_74eef382-0888-409f-b64d-c6f2b01d8a37_aiFK.png",
+    "publishedAt": "2026-11-20T17:21:34Z",
+    "author": "Bhanu Pratap"
+  },
+  {
     "source": "Cricketnews.com",
     "title": "Nepal bowled out for 26 by India A: Why it won't be the lowest ODI total ever",
     "description": "India A bowled Nepal out for 26 in the Asia Cup Rising Stars 2026, but ICC List A vs ODI classification rules explain why 35 remains the lowest ODI score.",
@@ -88,159 +223,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-11-20T14:08:00Z",
     "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Controversy in blind Asia Cup 2026 final: India boycott trophy ceremony after Pakistan named winners after washout",
-    "description": "CABI rejects Pakistan's controversial Men's Blind Cricket Asia Cup 2026 title after a rain-washed final in Dhaka, alleging manipulation and demanding joint winners.",
-    "url": "https://www.cricketnews.com/en/cricket/news/india-pakistan-blind-asia-cup-2026-title-rain-final-dhaka/773343e587566e24ec46ca13",
-    "image": "https://s.yimg.com/lo/mysterio/api/f0482f84ab4c156a0cffbb231733c26e5a3215e9c97bf0858b0d0404a43efafc/lightyear_networkapi/resizefill_w847_h476%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F07478fb34f515af373dab9af685f4ee6",
-    "publishedAt": "2026-11-20T13:58:00Z",
-    "author": "Soham Mukherjee"
-  },
-  {
-    "source": "The Times of India",
-    "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
-    "description": "A controversy arose after Pakistan was declared winners of the Men's Blind Cricket Asia Cup 2026. The final match against India was abandoned because of rain, leading to dissatisfaction from the Indian team. India's cricket association alleged that the decisi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136029839/136029839.jpg",
-    "publishedAt": "2026-11-20T13:57:09Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'Don Bradman of one-day cricket': Brian Lara and Aaron Finch hail Virat Kohli as the GOAT ahead of 2027 World Cup",
-    "description": "Brian Lara compares Virat Kohli to Don Bradman while Aaron Finch calls him the greatest ODI player ever and an 'intense animal' ahead of the 2027 World Cup.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2954f5bc-7795-4c7c-9e9f-f1acb064e8ed",
-    "image": null,
-    "publishedAt": "2026-11-20T12:59:30Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘You can spend half an hour with AB de Villiers or Ajit Agarkar’: David Hussey reveals what makes IPL the ‘ultimate’ T20 tournament",
-    "description": "Former IPL icon David Hussey recently revealed IPL as the ultimate T20 tournament while also naming Ajit Agarkar as one of the players he loved to have a 30-minute chat with.",
-    "url": "https://www.cricketnews.com/en/cricket/news/ab-de-villiers-or-ajit-agarkar-david-hussey-reveals-ipl-ultimate-t20/557dcb9679035d6450e01272",
-    "image": "https://s.yimg.com/lo/mysterio/api/eb56c0373efde3da961dac3f732c66b4dedea7bb042992cbe703f3a72e7eb2dd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F675b12757518255aaf105996b1c9b0e2",
-    "publishedAt": "2026-11-20T11:30:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'We've got all bases covered': Ricky Ponting explains PBKS' strategy behind retaining 19 players and trading for Hardik Pandya",
-    "description": "Ricky Ponting, head coach of Punjab Kings, showcased his optimism about the team's structure following the acquisition of Hardik Pandya. Retaining 19 players while letting go of six ensures consistency as they gear up for IPL 2027. He stressed the significanc…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/weve-got-all-bases-covered-ricky-ponting-explains-pbks-strategy-behind-retaining-19-players-and-trading-for-hardik-pandya/articleshow/136023973.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136024521/136024521.jpg",
-    "publishedAt": "2026-11-20T11:12:29Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘My role model is Tim Paine’: Pakistan WK Ghazi Ghori's admission leaves cricket fans amused amid Sandpapergate",
-    "description": "With the revelations from Usman Khawaja ripping through Cricket Australia, Pakistan keeper Ghazi Ghori's latest admission that he wants to be more like Tim Paine has left the cricket world stunned.",
-    "url": "https://www.cricketnews.com/en/cricket/news/role-model-tim-paine-pakistan-ghazi-ghori-cricket-fans-sandpapergate/b343c5fb27a97a0c94dfbd3a",
-    "image": "https://s.yimg.com/lo/mysterio/api/0ef6303c29af0aa0777016a022be8bc9deeb4fb2a8950a6746a0d8c2ce801450/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe0c860d7ec91db4dfae4acfe5c6dbbe0",
-    "publishedAt": "2026-11-20T11:10:01Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "CNA",
-    "title": "Markram to lead S Africa in second test against Bangladesh as T20, ODI squads named",
-    "description": "Nov 20 : Cricket South Africa (CSA) have confirmed injured captain Temba Bavuma will not feature in Monday’s second test against Bangladesh in Centurion and has been replaced in the squad by spinning all-rounder Senuran Muthusamy.• Aiden Markram will captain …",
-    "url": "https://www.channelnewsasia.com/sport/markram-lead-s-africa-in-second-test-against-bangladesh-t20-odi-squads-named-6569181",
-    "image": "https://dam.mediacorp.sg/image/upload/s--QOp_7FL4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-20T111217Z_1_LYNXNPEMAJ0VB_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=htJa-fK2",
-    "publishedAt": "2026-11-20T11:06:38Z",
-    "author": null
-  },
-  {
-    "source": "Rediff.com",
-    "title": "SC To Rajasthan HC: Decide Women's Quota In RCA By Dec 7",
-    "description": "The Supreme Court has urged the Rajasthan High Court to decide by December 7 on pleas concerning women's reservation in the Rajasthan Cricket Association (RCA). This follows an earlier directive where the SC allowed RCA elections but barred the declaration of…",
-    "url": "https://www.rediff.com/sports/report/sc-asks-hc-to-decide-womens-quota-in-rajasthan-cricket/20261120.htm",
-    "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-    "publishedAt": "2026-11-20T10:40:09Z",
-    "author": "Rediff Sports Desk"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Pat Cummins set to remain captain: Cricket Australia to back Test skipper despite prediction he could stand down over Sandpapergate fallout",
-    "description": "Pat Cummins' status as skipper has come under intense focus following the controversial Sandpapergate revelations.",
-    "url": "https://www.dailymail.com/news/article-16308563/Pat-Cummins-captain-cricket-australia.html",
-    "image": "https://i.dailymail.com/1s/2026/11/20/10/112629829-0-image-a-15_1795170517060.jpg",
-    "publishedAt": "2026-11-20T10:30:55Z",
-    "author": "Aidan Wondracz"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cummins retains Cricket Australia support as captain",
-    "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c6808y17r0l0o",
-    "image": "https://s.yimg.com/lo/mysterio/api/231424acf728309fd867c0cc4578b86d06272e0547a2b11a8f775543c1d01818/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4534c79cd89edec82eae50f96fa5fa56.jpg",
-    "publishedAt": "2026-11-20T10:13:27Z",
-    "author": "BBC"
-  },
-  {
-    "source": "BBC News",
-    "title": "Cummins retains Cricket Australia support as captain",
-    "description": "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e8c4/live/5e65d480-e4c8-11f1-8ebd-0fa6091698b5.jpg",
-    "publishedAt": "2026-11-20T10:13:23Z",
-    "author": null
-  },
-  {
-    "source": "BBC News",
-    "title": "Yorkshire re-sign Pakistan batter Imam",
-    "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crq5vzgqgl01o",
-    "image": "https://s.yimg.com/lo/mysterio/api/d6b911809b5349c1a699ff5a90fa1eee983ffa61fc5773e01f55fbaf44bdcf39/lightyear_networkapi/resizefill_w1091_h614%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F12dbc16983d56b1e382de52a45003be4.jpg_up.jpg",
-    "publishedAt": "2026-11-20T09:21:08Z",
-    "author": "Ian Woodcock BBC Sport England"
-  },
-  {
-    "source": "BBC News",
-    "title": "Yorkshire re-sign Pakistan batter Imam",
-    "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0403/live/c7ab88a0-e445-11f1-9192-3924a59e54c7.jpg",
-    "publishedAt": "2026-11-20T09:21:03Z",
-    "author": "Ian Woodcock"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "IPL has fast-tracked New Zealand cricket’s rise: Ross Taylor",
-    "description": "Ross Taylor provided his observations on the ongoing Test match between India and New Zealand in Wellington. He praised India for their performance and highlighted their bowlers' effectiveness. Taylor noted the cultural evolution within New Zealand cricket th…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0587bca7-aa7b-45e0-a71e-840658397e6f",
-    "image": null,
-    "publishedAt": "2026-11-20T08:57:00Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Cricket Australia prepares to stand by Pat Cummins despite Cameron Bancroft's Sandpapergate revelations",
-    "description": "While Cameron Bancroft's 4000-word claims about the sandpapergate flung Cricket Australia into uncertainty, the board is still ready to support skipper Pat Cummins.",
-    "url": "https://www.cricketnews.com/en/cricket/news/cricket-australia-support-pat-cummins-after-bancroft-sandpapergate/0b4c2d7d40733476a5bfaf1f",
-    "image": "https://s.yimg.com/lo/mysterio/api/0cdbea53fc842d2c5a729c53f13b0c4e370350feb43e0851e0505c52de8c3a70/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9525915e1fad6f58249256ba8fa2bc15",
-    "publishedAt": "2026-11-20T08:45:09Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Mahela Jayawardene takes charge of Delhi Capitals' WPL cricket operations ahead of 2027 season",
-    "description": "Mahela Jayawardene has been named the Director of Cricket for the Delhi Capitals' Women's Premier League team, where he will concentrate on crafting team strategies, identifying talent, and fostering player development in anticipation of the 2027 season. His …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/mahela-jayawardene-takes-charge-of-delhi-capitals-wpl-cricket-operations-ahead-of-2027-season/articleshow/136019484.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136019641/136019641.jpg",
-    "publishedAt": "2026-11-20T08:38:39Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "Gossiplankanews.com",
-    "title": "Mahela gets a new cricket position",
-    "description": "Former Sri Lanka cricket captain Mahela Jayawardene has been appointed as the Director of Cricket for GMR Sports, an international sports organization. GMR Sports, a leading global sports institution focusing on various sports and international markets, annou…",
-    "url": "https://english.gossiplankanews.com/2026/11/mahela-gets-new-cricket-position.html",
-    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssz60wLozDma1PD3WepdUrmG3udiEO4yPSPx7LvEWwLB2JNOyGAhj-0VPWdHYcTQNWj0j8zGdKNNe6pLUmKr-sOccn-yg3DEuF-AbvnY12axAZ0pu1cyG69o3C87E9msw4YpOt8ddnHdQWzfS69MY5x2kJj-WgYm_jxQ=w1200-h675-p-k-no-nu",
-    "publishedAt": "2026-11-20T08:30:25Z",
-    "author": "Unknown"
   }
 ]
 ;
