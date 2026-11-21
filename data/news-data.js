@@ -1,5 +1,230 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Yorkshire re-sign Pakistan batter Imam",
+    "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
+    "url": "https://www.bbc.com/sport/cricket/articles/crq5vzgqgl01o",
+    "image": "https://s.yimg.com/lo/mysterio/api/d6b911809b5349c1a699ff5a90fa1eee983ffa61fc5773e01f55fbaf44bdcf39/lightyear_networkapi/resizefill_w1091_h614%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F12dbc16983d56b1e382de52a45003be4.jpg_up.jpg",
+    "publishedAt": "2026-11-20T09:21:08Z",
+    "author": "Ian Woodcock BBC Sport England"
+  },
+  {
+    "source": "BBC News",
+    "title": "Yorkshire re-sign Pakistan batter Imam",
+    "description": "Yorkshire re-sign Pakistan batter Imam-ul-Haq for the 2027 County Championship season.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/crq5vzgqgl01o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0403/live/c7ab88a0-e445-11f1-9192-3924a59e54c7.jpg",
+    "publishedAt": "2026-11-20T09:21:03Z",
+    "author": "Ian Woodcock"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "IPL has fast-tracked New Zealand cricket’s rise: Ross Taylor",
+    "description": "Ross Taylor provided his observations on the ongoing Test match between India and New Zealand in Wellington. He praised India for their performance and highlighted their bowlers' effectiveness. Taylor noted the cultural evolution within New Zealand cricket th…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0587bca7-aa7b-45e0-a71e-840658397e6f",
+    "image": null,
+    "publishedAt": "2026-11-20T08:57:00Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Cricket Australia prepares to stand by Pat Cummins despite Cameron Bancroft's Sandpapergate revelations",
+    "description": "While Cameron Bancroft's 4000-word claims about the sandpapergate flung Cricket Australia into uncertainty, the board is still ready to support skipper Pat Cummins.",
+    "url": "https://www.cricketnews.com/en/cricket/news/cricket-australia-support-pat-cummins-after-bancroft-sandpapergate/0b4c2d7d40733476a5bfaf1f",
+    "image": "https://s.yimg.com/lo/mysterio/api/0cdbea53fc842d2c5a729c53f13b0c4e370350feb43e0851e0505c52de8c3a70/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9525915e1fad6f58249256ba8fa2bc15",
+    "publishedAt": "2026-11-20T08:45:09Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mahela Jayawardene takes charge of Delhi Capitals' WPL cricket operations ahead of 2027 season",
+    "description": "Mahela Jayawardene has been named the Director of Cricket for the Delhi Capitals' Women's Premier League team, where he will concentrate on crafting team strategies, identifying talent, and fostering player development in anticipation of the 2027 season. His …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/mahela-jayawardene-takes-charge-of-delhi-capitals-wpl-cricket-operations-ahead-of-2027-season/articleshow/136019484.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136019641/136019641.jpg",
+    "publishedAt": "2026-11-20T08:38:39Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "Mahela gets a new cricket position",
+    "description": "Former Sri Lanka cricket captain Mahela Jayawardene has been appointed as the Director of Cricket for GMR Sports, an international sports organization. GMR Sports, a leading global sports institution focusing on various sports and international markets, annou…",
+    "url": "https://english.gossiplankanews.com/2026/11/mahela-gets-new-cricket-position.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssz60wLozDma1PD3WepdUrmG3udiEO4yPSPx7LvEWwLB2JNOyGAhj-0VPWdHYcTQNWj0j8zGdKNNe6pLUmKr-sOccn-yg3DEuF-AbvnY12axAZ0pu1cyG69o3C87E9msw4YpOt8ddnHdQWzfS69MY5x2kJj-WgYm_jxQ=w1200-h675-p-k-no-nu",
+    "publishedAt": "2026-11-20T08:30:25Z",
+    "author": "Unknown"
+  },
+  {
+    "source": "The Times of India",
+    "title": "‘Kaisa chal raha?’: Akash Deep reveals how Gautam Gambhir motivated him through lengthy injury layoff",
+    "description": "After a lengthy recovery from a back injury, Akash Deep made his long-awaited return to Test cricket, having last played in August 2025. He expressed heartfelt appreciation for coach Gautam Gambhir's unwavering support throughout his rehabilitation journey. I…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/kaisa-chal-raha-akash-deep-reveals-how-gautam-gambhir-motivated-him-through-lengthy-injury-layoff/articleshow/136017578.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136017702/136017702.jpg",
+    "publishedAt": "2026-11-20T07:21:30Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+    "description": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
+    "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-937400600-1795156308.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-20T07:04:27Z",
+    "author": "Reuters"
+  },
+  {
+    "source": "Gossiplankanews.com",
+    "title": "A record from New Zealand's Glenn Phillips, who scored centuries against India in all three cricket formats",
+    "description": "Scoring centuries in all three international cricket formats against a single opponent within the same calendar year is a unique milestone never before achieved by anyone in the history of world cricket. New Zealand batsman Glenn Phillips recorded this unpara…",
+    "url": "https://english.gossiplankanews.com/2026/11/a-record-from-new-zealands-glenn.html",
+    "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v6O-wakSdEnn1OTzOm4rqi2w5BtUE8RBKbGCIiXFpb3GQjA221pm54dmahcIVlKe4YlhtS0IWkXNRXgCuhVgNTcx98-u0HhtpKfjwQMsB44t35BN-rRFsOKCKMussxzhe4Lig8ounlUzOxduFkksy7s--vrPidXjUCXNk=w1200-h675-p-k-no-nu",
+    "publishedAt": "2026-11-20T06:30:25Z",
+    "author": "Unknown"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years",
+    "description": "RAWALPINDI, Pakistan (AP) — A new-look Pakistan romped to an eight-win over Sri Lanka in the second cricket test on Friday for its first series win in two years in this format.Pakistan raced to 90-2 in 13 overs within first session on Day 4 to win the series …",
+    "url": "https://sports.yahoo.com/articles/pakistan-romps-eight-wicket-win-062014588.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e5051af6705b3528e1721628d7cfbf07aa120d769cfffb798f71ebe03df3054b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F765e4e1963c820abe16d09f570fbaf43.jpg",
+    "publishedAt": "2026-11-20T06:20:14Z",
+    "author": "RIZWAN ALI"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Henry Nicholls scripts history vs India, breaks 36-year-old record with unbeaten 175 in first Test",
+    "description": "Henry Nicholls has set a New Zealand record for the highest score by a No. 3 batter in a Test innings against India.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/henry-nicholls-scripts-history-vs-india-breaks-36-year-old-record-with-unbeaten-175-in-first-test/articleshow/136015280.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136015280/136015280.jpg",
+    "publishedAt": "2026-11-20T06:14:08Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cyclone Akvan: Heavy rain, strong winds and rough seas batter coast as landfall begins",
+    "description": "Cyclone Akvan is bringing heavy rainfall, powerful winds and rough sea conditions to coastal areas as landfall begins. The storm is disrupting coastal conditions, prompting concerns over public safety and possible damage. Follow the latest developments, weath…",
+    "url": "https://economictimes.indiatimes.com/news/short-videos/cyclone-akvan-heavy-rain-strong-winds-and-rough-seas-batter-coast-as-landfall-begins/videoshow/136015499.cms",
+    "image": "https://img.etimg.com/thumb/msid-136015499,width-1200,height-900,overlay-economictimes/news/short-videos/cyclone-akvan-heavy-rain-strong-winds-and-rough-seas-batter-coast-as-landfall-begins.jpg",
+    "publishedAt": "2026-11-20T06:03:11Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Freethoughtblogs.com",
+    "title": "‘Sandpapergate’ scandal rocks the cricket world",
+    "description": "The world of cricket once held to supposedly high standards of sportsmanship, even giving rise to the phrase ‘that’s not cricket’ when someone behaved unethically. However, like in so many professional sports, the desire to win has led players and even teams …",
+    "url": "https://freethoughtblogs.com/singham/2026/11/20/sandpapergate-scandal-rocks-the-cricket-world/",
+    "image": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
+    "publishedAt": "2026-11-20T05:28:05Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Donald aims for England T20 chance in Australia",
+    "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cqe9lmngjm0eo",
+    "image": "https://s.yimg.com/lo/mysterio/api/73a6e7c2701b1e547341eb97e29b47ab8f220b79e1b8ea3efbff4acf4d131f02/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fee1855296278a56fd65cd313cc607416.jpg",
+    "publishedAt": "2026-11-20T05:04:35Z",
+    "author": "Gareth Griffiths BBC Sport Wales"
+  },
+  {
+    "source": "BBC News",
+    "title": "Donald aims for England T20 chance in Australia",
+    "description": "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ef1/live/392719c0-e362-11f1-9f51-4bfc31543510.jpg",
+    "publishedAt": "2026-11-20T05:04:29Z",
+    "author": "Gareth Griffiths"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Centuries in all three formats against one team in a calendar year: Glenn Phillips joins Rohit Sharma in exclusive club",
+    "description": "After a blistering century in Wellington that saved the Kiwis from a collapse, New Zealand batter Glenn Philips joins Rohit Sharma as only the second player to score tons in all three formats against a single opponent in a year.",
+    "url": "https://www.cricketnews.com/en/cricket/news/centuries-all-three-formats-against-one-team-calendar-year/89776259ab54d09f085031cc",
+    "image": "https://s.yimg.com/lo/mysterio/api/e355e0ec6f3356c10e8c5abafd759278a224589130269f221cfde2f12d853f73/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd7203686669749ec1c01b27936b5ac3d",
+    "publishedAt": "2026-11-20T04:27:39Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Put egos aside': Heinrich Klaasen keen to tap into Gulf Giants' wealth of T20 experience in ILT20 title bid",
+    "description": "Heinrich Klaasen begins a new leadership chapter as Gulf Giants captain in ILT20 Season 5, despite limited captaincy experience across his T20 career. Having learned from leaders such as Albie Morkel, Henry Davids and Faf du Plessis, the South African is keen…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/put-egos-aside-heinrich-klaasen-keen-to-tap-into-gulf-giants-wealth-of-t20-experience-in-ilt20-title-bid/articleshow/136012157.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136012338/136012338.jpg",
+    "publishedAt": "2026-11-20T04:11:19Z",
+    "author": "Tanuj Lakhina"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepal to play six matches against Scotland, Bangladesh and Ireland in England in 2027",
+    "description": "KATHMANDU: Nepal’s national men’s cricket team is set to tour England in 2027, where it will play six matches against Scotland, Bangladesh and Ireland. The Cricket Association of Nepal (CAN) announced the tour schedule at a press conference in Kathmandu on Th…",
+    "url": "https://english.khabarhub.com/2026/20/576276/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Cricketers.jpg",
+    "publishedAt": "2026-11-20T03:59:03Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Pooran': Digvesh Rathi drops hint on LSG's new captain after Rishabh Pant trade",
+    "description": "Lucknow Super Giants spinner Digvesh Rathi has hinted that Nicholas Pooran could take over as the franchise's captain in the Indian Premier League (IPL).",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pooran-digvesh-rathi-drops-hint-on-lsgs-new-captain-after-rishabh-pant-trade/articleshow/136011850.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136012206/136012206.jpg",
+    "publishedAt": "2026-11-20T03:55:21Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Cameras barred as Steve Smith trains behind closed doors as Sandpapergate fallout continues to engulf Australia: Report",
+    "description": "With the fallout from the Sandpapergate ripping through Australian cricket, Steve Smith, the only active player from the 2018 scandal, is set to train behind closed doors amid new tensions.",
+    "url": "https://www.cricketnews.com/en/cricket/news/cameras-steve-smith-training-sandpapergate-fallout-engulf-australia/0ba70912a822b8a49c018043",
+    "image": "https://s.yimg.com/lo/mysterio/api/79f176d9c59b676ad839f1fb3938a8104c1a9fc9b5da7eb8e6d95cc327b0aaf2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F52de59cda0b889b9571f19c6cc9d794d",
+    "publishedAt": "2026-11-20T03:40:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "IPL has fast-tracked New Zealand cricket’s rise: Ross Taylor",
+    "description": "Ross Taylor provided his observations on the ongoing Test match between India and New Zealand in Wellington. He praised India for their performance and highlighted their bowlers' effectiveness. Taylor noted the cultural evolution within New Zealand cricket th…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-has-fast-tracked-new-zealand-crickets-rise-ross-taylor/articleshow/136011527.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136011609/136011609.jpg",
+    "publishedAt": "2026-11-20T03:28:00Z",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Glenn Phillips scripts history, becomes first player ever to achieve rare batting feat against India",
+    "description": "Phillips completed his century in the first innings of the ongoing Test, having already scored hundreds against India in ODIs and T20Is earlier this year. He made 106 in the ODI at Indore on January 18 before scoring 107 off 49 balls in the T20I at Auckland o…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/glenn-phillips-scripts-history-becomes-first-batter-ever-to-achieve-rare-batting-feat-against-india/articleshow/136010121.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136010370/136010370.jpg",
+    "publishedAt": "2026-11-20T03:17:41Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Dailymail.com",
+    "title": "Pat Cummins' captaincy on the brink? Australian cricket legend predicts Test skipper will be forced to stand down over explosive Sandpapergate revelations",
+    "description": "Cummins' status as skipper remains under intense focus following Cameron Bancroft's explosive statement on Wednesday.",
+    "url": "https://www.dailymail.com/sport/cricket/article-16307397/sandpapergate-cricket-australia-johnson-pat-cummins-captaincy-pressure.html",
+    "image": "https://i.dailymail.com/1s/2026/11/19/22/112620451-0-image-m-144_1795126318239.jpg",
+    "publishedAt": "2026-11-20T03:06:59Z",
+    "author": "Roger Vaughan"
+  },
+  {
+    "source": "CNA",
+    "title": "Government urges Sandpapergate forum transparency as Cricket Australia faces backlash",
+    "description": "MELBOURNE, Nov 20 : Cricket Australia should ensure its forum into Sandpapergate is handled as independently and openly as possible, a government spokesperson said on Friday, as former players slammed the governing body's attempts to defuse an escalating cont…",
+    "url": "https://www.channelnewsasia.com/sport/government-urges-sandpapergate-forum-transparency-cricket-australia-faces-backlash-6568131",
+    "image": "https://dam.mediacorp.sg/image/upload/s--UMeUi9yU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-20T030349Z_1_LYNXNPEMAJ06S_RTROPTP_3_CRICKET-SANDPAPERGATE.JPG?itok=J2zzyyiO",
+    "publishedAt": "2026-11-20T02:59:30Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Just the second batter in history of cricket! Glenn Phillips equals Rohit Sharma's rare feat with century against India",
+    "description": "New Zealand batter Glenn Phillips became the first player to score centuries in all three formats of international cricket against India in the same",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/just-the-second-batter-in-history-of-cricket-glenn-phillips-equals-rohit-sharmas-rare-feat-with-century-against-india/articleshow/136009469.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136009564/136009564.jpg",
+    "publishedAt": "2026-11-20T01:28:47Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Phillips out for 118. New Zealand reaches 317-6 at lunch on Day 2 of 1st cricket test against India",
     "description": "WELLINGTON, New Zealand (AP) — Glenn Phillips completed his second test century for New Zealand before India broke his 216-run partnership with Henry Nicholls ahead of lunch Friday on the second day of the series-opening cricket match.New Zealand was 317-6 at…",
@@ -16,87 +241,6 @@ window.cricketNews = [
     "image": null,
     "publishedAt": "2026-11-20T00:00:00Z",
     "author": "Niaz Mahmud, Joinul Islam, Md. Jannatul Ferdaus, Reza Tahergorabi"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Sandpapergate: Michael Clarke, Mitchell Johnson criticise handling of scandal after Cameron Bancroft allegations",
-    "description": "Australian greats are demanding Cricket Australia get to the bottom of sandpapergate.",
-    "url": "https://www.nzherald.co.nz/sport/cricket/sandpapergate-michael-clarke-mitchell-johnson-critial-over-handling-of-scandal-after-cameron-bancroft-allegations/OUJ7P3QIIVABBF5SANYDL23UYY/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/UBCWKPRNNVHCRIPNUYCDDCZZPA.jpg?auth=ad19cad945e25290ac7983e6a47e812737172ef8b640f5bf317892e82c18dc76",
-    "publishedAt": "2026-11-19T21:11:10Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "The growing factions and fractures behind the Sandpapergate saga",
-    "description": "The Sandpapergate saga has seen a definitive split between some of Australia's greatest cricketers. Here's what everyone has said so far.",
-    "url": "https://www.abc.net.au/news/2026-11-20/cricket-cards-who-has-said-what-about-sandpapergate/107376348",
-    "image": "https://live-production.wcms.abc-cdn.net.au/e67cc40acf477e032838f945cf994ced?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-    "publishedAt": "2026-11-19T20:44:08Z",
-    "author": "Audrey Courty, Simon Smale"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "峰會達4共識 重申核戰打不得",
-    "description": "全球矚目的美中俄三方峰會，19日在大陸深圳登場。美國總統川普當天稍早在APEC峰會場邊，先後分別與俄羅斯總統普丁、東道主大陸國家主席習近平會晤，三國元首隨即展開歷史性會談。根據官方事後公布的《中俄美元首和平宣言》，三國達成4大核心共識，不僅重申「核戰打不得」，更批國際刑事法院（ICC）失控。",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_03e911bf-5971-498f-a181-64152d31244e",
-    "image": null,
-    "publishedAt": "2026-11-19T20:10:00Z",
-    "author": null
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Cummins's agent criticises 'hysteria' as sandpaper saga continues",
-    "description": "Neil Maxwell, the agent for Test cricket captain Pat Cummins, has criticised the \"hysteria\" surrounding his client as the Sandpapergate scandal continues.",
-    "url": "https://www.abc.net.au/news/2026-11-20/pat-cummins-agent-criticises-sandpaper-hysteria/107407092",
-    "image": "https://live-production.wcms.abc-cdn.net.au/7d2622664e8211fa90d85b128cb334d4?impolicy=wcms_crop_resize&cropH=2480&cropW=4409&xPos=0&yPos=0&width=862&height=485",
-    "publishedAt": "2026-11-19T19:45:55Z",
-    "author": "Myles Houlbrook-Walk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rain washes out UP-TN U-23 Women’s tie",
-    "description": "Rain washed out the UP vs Tamil Nadu U-23 Women’s T20 match in Bhubaneswar; no ball was bowled and both teams shared two points each.",
-    "url": "https://timesofindia.indiatimes.com/city/kanpur/rain-washes-out-up-tn-u-23-womens-tie/articleshow/136003851.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-    "publishedAt": "2026-11-19T19:36:20Z",
-    "author": "TNN"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "Selectors, play the long innings: Balancing India's cricketing legends with Gen Next ahead of 2027 World Cup",
-    "description": "As the Indian team prepares for the ODI World Cup, selectors face tough choices regarding aging stars. Honest discussions between selectors and senior players are essential for future planning. The emergence of young talents could also change team dynamics an…",
-    "url": "https://m.economictimes.com/opinion/et-commentary/selectors-play-the-long-innings-balancing-indias-cricketing-legends-with-gen-next-ahead-of-2027-world-cup/articleshow/136002840.cms",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-89384,resizemode-75,msid-136002840/opinion/et-commentary/selectors-play-the-long-innings-balancing-indias-cricketing-legends-with-gen-next-ahead-of-2027-world-cup.jpg",
-    "publishedAt": "2026-11-19T18:47:15Z",
-    "author": "Prasad Pradhan"
-  },
-  {
-    "source": "BBC News",
-    "title": "Weekly quiz: Which star played cricket with Catherine in India?",
-    "description": "How much attention did you pay to what happened in the world over the past seven days?",
-    "url": "https://www.bbc.co.uk/news/articles/cmvg2edq12nno",
-    "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fae6/live/95169960-e432-11f1-99a1-253766e7ad8b.jpg",
-    "publishedAt": "2026-11-19T18:43:15Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Nepal to face Bangladesh at Lord's in historic T20I; six-match England tour announced",
-    "description": "On June 3, 2027, Nepal will face off against Bangladesh in a men's T20 International at the historic Lord's Cricket Ground. This historic match will mark Bangladesh's debut T20I appearance at this prestigious venue. Nepal's itinerary includes a total of six m…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e16a6e2d-7725-4d7b-ac8b-4498f9d7fe3b",
-    "image": null,
-    "publishedAt": "2026-11-19T18:21:00Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "‘I've started scoring runs again’: Suryakumar Yadav targets IPL 2027 title with MI after ‘lucky’ meeting with PM Modi",
-    "description": "Suryakumar Yadav credits his 'lucky' Diwali meeting with PM Narendra Modi for ending his batting slump as he targets the IPL 2027 title with Mumbai Indians.",
-    "url": "https://www.cricketnews.com/en/cricket/news/suryakumar-yadav-targets-ipl-2027-title-mi-after-lucky-meeting-pm-modi/c6eff77e2688f3d3f68cb64a",
-    "image": "https://s.yimg.com/lo/mysterio/api/fb9747c7fe2d692e127fa9179f4c966bc69955471ae01d679b703c7f2833578d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Faa038097b17bf47be015cc58828af432",
-    "publishedAt": "2026-11-19T18:00:01Z",
-    "author": "Soham Mukherjee"
   }
 ]
 ;
