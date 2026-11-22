@@ -1,174 +1,273 @@
 window.cricketNews = [
   {
+    "source": "BBC News",
+    "title": "Australia's Chaudhary downs England in tetchy first T20",
+    "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a75a/live/19e88440-e5a1-11f1-a094-5fdc692f3e33.jpg",
+    "publishedAt": "2026-11-21T12:07:16Z",
+    "author": null
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "6 Steelers questionable to play against Eagles in Week 11",
+    "description": "The Pittsburgh Steelers have listed six players as questionable for the Week 11 matchup against the Eagles, including Pro Bowler Patrick Queen.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_93130d96-1d98-4494-8fcf-d5bbcd844426",
+    "image": null,
+    "publishedAt": "2026-11-21T12:03:37Z",
+    "author": null
+  },
+  {
+    "source": "Sanfordherald.com",
+    "title": "$35 million sports complex breaks ground in Chatham County",
+    "description": "NEW HILL — Construction is underway on a $35 million sports and recreation complex in Chatham County that will feature cricket grounds, pickleball courts and facilities for several other sports while attracting regional and national tournaments. The Pavilion …",
+    "url": "https://www.sanfordherald.com/archives/35-million-sports-complex-breaks-ground-in-chatham-county/article_055930af-e982-5cfd-89a5-4387c2b000f3.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/7336f4279b9e03716fb487f299dc9cac563c17db522784cd32283076657c27b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+    "publishedAt": "2026-11-21T12:01:00Z",
+    "author": "The Sanford Herald, N.C"
+  },
+  {
+    "source": "BBC News",
+    "title": "Australia's Chaudhary downs England in tetchy first T20",
+    "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+    "url": "https://www.bbc.com/sport/cricket/articles/cme39qlevnrqo",
+    "image": "https://s.yimg.com/lo/mysterio/api/97d7adf976394922a111baf720bf3ce073af5590699f8b66f41d7266ae7a8260/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F396722eb15c87276f95f82de27f556e8.jpg",
+    "publishedAt": "2026-11-21T11:55:52Z",
+    "author": "BBC"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cricket takes flight in the Falklands: ICC's smallest member with 3,800 population wins T20I series",
+    "description": "There is only one commercial flight a week to and from the territory, connecting it with Santiago in Chile.",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_072e8aaf-2b14-4b26-a23a-5fe8e319e46a",
+    "image": null,
+    "publishedAt": "2026-11-21T11:15:00Z",
+    "author": null
+  },
+  {
     "source": "The Times of India",
-    "title": "'Making my job easier': Zaheer Khan opens up on Dhoni's 'unexpected' retirement",
-    "description": "Dhoni will no longer take the field for CSK but will remain associated with the five-time champions as their team mentor from IPL 2027. Zaheer said the team would miss having Dhoni as a player but was looking forward to working with him in his new role.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/making-my-job-easier-csk-head-coach-zaheer-khan-breaks-silence-on-ms-dhonis-unexpected-retirement/articleshow/136043185.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136043185/136043185.jpg",
-    "publishedAt": "2026-11-21T02:52:51Z",
-    "author": "Shubhanshu Dwivedi"
+    "title": "Karnataka stun defending champions Railways in last-ball thriller to win maiden Women's T20 Trophy",
+    "description": "Karnataka celebrated a historic moment by clinching their inaugural BCCI Women’s T20 Trophy title against the formidable Railways. Under the astute leadership of Shubha Sateesh, the team set a challenging target of 150 runs. The bowlers executed a commendable…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/karnataka-stun-defending-champions-railways-in-last-ball-thriller-to-win-maiden-womens-t20-trophy/articleshow/136051566.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136051640/136051640.jpg",
+    "publishedAt": "2026-11-21T10:38:37Z",
+    "author": "Manuja Veerappa"
+  },
+  {
+    "source": "The Times of India",
+    "title": "India U19 squad announced for England T20 series; Bhavika Ahire named captain",
+    "description": "BCCI has announced the squad for the upcoming U19 women's T20 series against England U19. Bhavika Ahire will lead the team as captain, with Anaadi Tagde as the vice-captain. The five-match series is scheduled to take place in Vadodara and Surat from November …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-u19-squad-announced-for-england-t20-series-bhavika-ahire-named-captain/articleshow/136051265.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136051545/136051545.jpg",
+    "publishedAt": "2026-11-21T10:33:48Z",
+    "author": "Nitesh Dubey"
+  },
+  {
+    "source": "The Times of India",
+    "title": "England eclipse India’s MCG record as Harry Brook’s fireworks power them to new T20I high vs Australia",
+    "description": "England recorded a monumental T20I score of 187/9 at the Melbourne Cricket Ground against fierce rivals Australia, breaking India’s previous record of 186 from the 2022 T20 World Cup. Harry Brook led the charge with a solid 65, aided by some missed opportunit…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-eclipse-indias-mcg-record-as-harry-brooks-fireworks-power-them-to-new-t20i-high-vs-australia/articleshow/136051353.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136051441/136051441.jpg",
+    "publishedAt": "2026-11-21T10:29:20Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pat Cummins to stay as Australia captain after ‘unanimous support’ amid Sandpapergate row",
+    "description": "Cummins’ has been backed by the Cricket Australia board after a fortnight of claims and counter-claims concerning the ball tampering furore in 2018",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7bbe5f9f-3089-4097-be91-b0b1faf0e281",
+    "image": null,
+    "publishedAt": "2026-11-21T09:48:40Z",
+    "author": null
   },
   {
     "source": "Cricketnews.com",
-    "title": "'A great leader': Josh Hazlewood threatens Test exit if Cricket Australia sacks skipper Pat Cummins over Sandpapergate",
-    "description": "Josh Hazlewood denies knowing about the 2018 Sandpapergate plot, backs embattled captain Pat Cummins, and hints he could quit if action is taken against him.",
-    "url": "https://www.cricketnews.com/en/cricket/news/josh-hazlewood-defends-pat-cummins-sandpapergate-australia/b3f98277c1dcae7617b65acb",
-    "image": "https://s.yimg.com/lo/mysterio/api/0277970ee354a6aeed5fbb86cf6ed57594e3ede1958e2e75cbd87913071b85a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa9e8cf7bf262d6995acfbd205b74ece8",
-    "publishedAt": "2026-11-21T02:01:22Z",
+    "title": "PCB central contracts 2026-27 full list: Mohammad Rizwan, Shan Masood, and Saim Ayub dropped; Babar Azam excluded from T20I deal",
+    "description": "PCB drops Mohammad Rizwan, Shan Masood, and Saim Ayub from the 2026-27 central contracts list, while Babar Azam receives a Test and ODI-only deal.",
+    "url": "https://www.cricketnews.com/en/cricket/news/pakistan-central-contracts-2026-27-rizwan-masood-ayub-babar-test-odi-t20i/1ed89245c77652ddbcd94c82",
+    "image": "https://s.yimg.com/lo/mysterio/api/4dcf8e68b7f21d280e80671af8de397f1b47599d41ab5b27e58f06dbfffe9b9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fcf8b982f0c33154e6596984b4d5c7836",
+    "publishedAt": "2026-11-21T09:42:01Z",
     "author": "Soham Mukherjee"
   },
   {
-    "source": "The Times of India",
-    "title": "IND vs NZ 1st Test: Akash Deep 2.0 is better, smarter and stronger",
-    "description": "Akash Deep recently returned to Test cricket after a 15-month injury hiatus. He showcased his skills by taking three wickets in his comeback match. Previously, he had faced challenges including a stress fracture during the Ranji Trophy. Akash expressed gratit…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-akash-deep-2-0-is-better-smarter-and-stronger/articleshow/136042664.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136042681/136042681.jpg",
-    "publishedAt": "2026-11-21T01:43:25Z",
-    "author": "Nitin Naik"
-  },
-  {
-    "source": "The Times of India",
-    "title": "IND vs NZ 1st Test: KL Rahul joins Sachin Tendulkar, Rahul Dravid, Virat Kohli in rare Test century club",
-    "description": "KL Rahul scored a century during the first Test against New Zealand at Basin Reserve in Wellington. This century marked his 13th in Test cricket and was his first in New Zealand. He celebrated by acknowledging his teammates and performing his traditional cele…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-1st-test-kl-rahul-joins-sachin-tendulkar-rahul-dravid-virat-kohli-in-rare-test-century-club/articleshow/136042499.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136042518/136042518.jpg",
-    "publishedAt": "2026-11-21T01:12:57Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Chiefs Linked to Reunion With Patrick Mahomes’ 2-Time Super Bowl Teammate After Saints Cut",
-    "description": "Patrick Mahomes and the Kansas City Chiefs improved to 7-2 after a dominant 35-13 win over the Atlanta Falcons in Week 10. The six-time Pro Bowler threw for 348 yards and five touchdowns for the first time since 2022 to keep Kansas City tied with the Denver B…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_caea93d2-8bc5-41ca-9413-f3cd55666b49",
-    "image": null,
-    "publishedAt": "2026-11-21T00:47:15Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Rahul, Padikkal steer India to 239-1 at lunch on Day 3 of the 1st test against New Zealand",
-    "description": "WELLINGTON, New Zealand (AP) — Devdutt Padikkal reached a half century Saturday as India made slow but comfortable progress to lunch on the third day of the first cricket test, easing into New Zealand's first innings of 368.India resumed at 159-1 and at lunch…",
-    "url": "https://sports.yahoo.com/articles/rahul-padikkal-steer-india-239-002304856.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/4e5e475bcbe2d6210864ccee7d51132882cce5d4932b84279934716ba37d3ed0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F09b5bf0d12b75cb0afdf7636414c6a35.jpg",
-    "publishedAt": "2026-11-21T00:23:04Z",
-    "author": "STEVE McMORRAN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "ILT20 Season 5 preview: Focus on South Africans, Associates as league avoids SA20 clash",
-    "description": "The ILT20’s revised schedule has opened the door for several South African stars to feature without clashing with SA20, while mandatory UAE, Afghanistan and Associate player representation strengthens opportunities for emerging talent. Season 5 of UAE's T20 c…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/focus-on-south-africans-associates-as-ilt20-season-5-prepares-to-get-underway/articleshow/136039591.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136039608/136039608.jpg",
-    "publishedAt": "2026-11-20T22:34:23Z",
-    "author": "Tanuj Lakhina"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Deserved justice': Why IND boycotted presentation after PAK won Asia Cup - Explained",
-    "description": "Pakistan were awarded the title on the basis of a better net run rate. However, CABI general secretary Shailendra Yadav accused Pakistan of declaring themselves champions without following the position of the World Blind Cricket Council (WBCC) Technical Commi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136039680/136039680.jpg",
-    "publishedAt": "2026-11-20T22:30:48Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "New Zealand Herald",
-    "title": "Sandpapergate: Aussie quick Josh Hazlewood launces defiant defence of under-fire captain Pat Cummins",
-    "description": "Cricket Australia is expected to reiterate its support for Pat Cummins",
-    "url": "https://www.nzherald.co.nz/sport/sandpapergate-aussie-quick-josh-hazlewood-launces-defiant-defence-of-under-fire-captain-pat-cummins/AZHCJ3ZYEJAB7K4YGZ2JSVAVNE/",
-    "image": "https://www.nzherald.co.nz/resizer/v2/F6SFVLJW5NC4JEIAPNRLAKEXFA.jpg?auth=5a978cf2435c1dab7cf77ce36051c4e03c2c6a7e4410e3fee065518cc90c10a2",
-    "publishedAt": "2026-11-20T22:14:37Z",
-    "author": null
-  },
-  {
-    "source": "Heavy.com",
-    "title": "Lions Get Unwelcome Injury Update on Buccaneers Pro Bowler Ahead of Week 11",
-    "description": "Lions get discouraging news before the Sunday clash, as Buccaneers' two-time Pro-Bowler gets a fresh injury update The post Lions Get Unwelcome Injury Update on Buccaneers Pro Bowler Ahead of Week 11 appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/detroit-lions/unwelcome-injury-update-buccaneers-baker-mayfield/",
-    "image": "https://s.yimg.com/lo/mysterio/api/a7123f305044ccfcbc5c195f9474e0b72f338be70b64cdde7762889a7d64272b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F43685702a4b69f5e63ad641273b6646f.jpg",
-    "publishedAt": "2026-11-20T22:14:10Z",
-    "author": "Avik Das"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Steelers Pro Bowler dealing with broken thumb",
-    "description": "patrick queen thumb",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9e0f3d7-b85d-4214-b4be-a7438cdb4081",
-    "image": null,
-    "publishedAt": "2026-11-20T21:45:52Z",
-    "author": null
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "Josh Hazlewood breaks ranks to defend Pat Cummins as Sandpapergate scandal continues",
-    "description": "The fast bowler has warned that removing Cummins would divide the squad.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16310231/pat-cummins-hazlewood-sandpapergate-captain-cricket-australia.html",
-    "image": "https://i.dailymail.com/1s/2026/11/20/21/112643447-0-image-m-9_1795210361085.jpg",
-    "publishedAt": "2026-11-20T21:44:30Z",
-    "author": "Joanna Hynds"
-  },
-  {
-    "source": "USA Today",
-    "title": "Pro Bowler among 3 kicker Raiders workouts in light of Matt Gay injury",
-    "description": "With Matt Gay's status in doubt Week 11 vs the Broncos, the Raiders had three kickers in for workouts, one a former Pro Bowler.",
-    "url": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2026/11/20/raiders-workouts-kickers-younghoe-koo-week-11-broncos-matt-gay-injury/92883276007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/06dbb2595820b12e176e777034460c888d20bd374658acad4c4bfa4e642e42c2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flas_vegas_raiders_wire_usa_today_sports_articles_842%2Fde70648aa3dc090e5d2d951f7920f2f2.jpg",
-    "publishedAt": "2026-11-20T20:41:04Z",
-    "author": "Levi Damien, Raiders Wire"
-  },
-  {
     "source": "Al Jazeera English",
-    "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-    "description": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-    "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Nepal-fans-at-India-vs-Nepal-Asia-Cup-Rising-Stars-1795201329.jpg?resize=1800%2C1200&quality=80",
-    "publishedAt": "2026-11-20T20:03:11Z",
-    "author": "Faisal Mohammad"
+    "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
+    "description": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
+    "url": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T003005Z_680998989_UP1EMBD01E3D9_RTRMADP_3_CRICKET-SANDPAPERGATE-1795250752.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-21T09:38:29Z",
+    "author": "AFP"
   },
   {
-    "source": "Screenanarchy.com",
-    "title": "BEST PANCAKES IN THE COUNTY Review: Stodgy Batter Leaves for a Bitter Aftertaste",
-    "description": "False advertising is a hell of a thing. When a diner professes to have 'the best pancakes in the county', there's often a high bar to hurdle. The same applies for when Nicolas Cage adorns the poster of a low-budget thriller wearing THE most insane nose you ha…",
-    "url": "https://screenanarchy.com/2026/11/best-pancakes-in-the-county-review-stodgy-batter-leaves-for-a-bitter-aftertaste.html",
-    "image": "https://screenanarchy.com/assets_c/2026/11/Best-Pancakes-in-the-County-poster-thumb-430x430-107503.jpg",
-    "publishedAt": "2026-11-20T20:02:03Z",
+    "source": "CNA",
+    "title": "Pakistan revamps central contract structure, Babar and Agha top new format-based system",
+    "description": "Nov 21 : The Pakistan Cricket Board (PCB) unveiled on Saturday a revamped central contract structure for 2026-27, expanding the pool of contracted players to 38 from 30, with Salman Ali Agha and Babar Azam the only players placed in the highest category.• The…",
+    "url": "https://www.channelnewsasia.com/sport/pakistan-revamps-central-contract-structure-babar-and-agha-top-new-format-based-system-6571396",
+    "image": "https://dam.mediacorp.sg/image/upload/s--10DMAChW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-21T090501Z_1_LYNXNPEMAK065_RTROPTP_3_CRICKET-CHAMPIONSTROPHY-PAK-NZL.JPG?itok=FoMGcZR2",
+    "publishedAt": "2026-11-21T09:05:01Z",
     "author": null
   },
   {
-    "source": "Biztoc.com",
-    "title": "Former Pro Bowler Has Some Strong Advice For Cowboys WR: 'Run Away'",
-    "description": "On Sunday, just like Dallas Cowboys fans, the team’s defense also failed to show up in the loss against the San Francisco 49ers. But out of the sea of red, white and gold at AT&T Stadium, there was a bright blue spot: their offense.\nAnd that was thanks to wid…",
-    "url": "https://biztoc.com/x/7ee42b1494af47c1",
-    "image": "https://cdn.biztoc.com/7ee42b1494af47c1_s.webp",
-    "publishedAt": "2026-11-20T19:54:13Z",
-    "author": null
+    "source": "Cricketnews.com",
+    "title": "'Chennai is denying evolution': Ambati Rayudu lays bare reasons behind CSK's three-year IPL play-off drought",
+    "description": "Former star Ambati Rayudu explains why Chennai Super Kings are struggling in the 10-team IPL era, saying CSK is denying T20 evolution and failing with youngsters.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ambati-rayudu-csk-evolution-ipl-playoff-drought-explained/e8ffa411261ac3a26af3fcd7",
+    "image": "https://s.yimg.com/lo/mysterio/api/e0557c6c5ce67642f9d60d6ba9298881e5dc551c066e4a4fe5d2aa0617e06623/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4a0c72384ad3ab6a36ead0773e1901f3",
+    "publishedAt": "2026-11-21T09:00:05Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "IPL 2027 auction rules explained: Purse, squad size, overseas-player limit and RTM rules",
+    "description": "Check all IPL 2027 mini-auction rules ahead of the Dec 16 event in Goa, including each team's remaining purse, squad size, overseas limit, RTM, and Impact Player.",
+    "url": "https://www.cricketnews.com/en/cricket/news/ipl-2027-auction-rules-purse-squad-size-overseas-player-limit-rtm-rules/4b93d3007b9f01930209d00d",
+    "image": "https://s.yimg.com/lo/mysterio/api/dbfc11b0a1456424a2b509a080191841724bd510455e1dc4c1c325d29cc64f6c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F7fbd1b5b22061775835de9d56f5c379b",
+    "publishedAt": "2026-11-21T09:00:01Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "KKR likely auction targets: Who will they buy in IPL 2027 mini-auction?",
+    "description": "After freeing up nearly 30 crores in released players, here's a look at which names the Kolkata Knight Riders might target at the 2027 IPL mini-auction.",
+    "url": "https://www.cricketnews.com/en/ipl/news/kkr-likely-auction-targets-who-will-they-buy-ipl-2027-mini-auction/e8f5d6053eacfe7378e9fc0e",
+    "image": "https://s.yimg.com/lo/mysterio/api/608d362c096754136bbf288f6b731ed8f1c50cd88e57bd85008e50a8db7b65c9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd7efaf618710f8fbf6f6e7b624c56529",
+    "publishedAt": "2026-11-21T08:50:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Sandpapergate fallout: Usman Khawaja, David Warner pulled from commentary duties amid fresh storm",
+    "description": "Fox Cricket has decided to rest Usman Khawaja and David Warner from commentary due to recent controversies. This decision follows new disclosures from Khawaja's autobiography and comments by Cameron Bancroft regarding the ball-tampering scandal. Bancroft's al…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sandpapergate-fallout-usman-khawaja-david-warner-pulled-from-commentary-duties-amid-fresh-storm/articleshow/136049281.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136049365/136049365.jpg",
+    "publishedAt": "2026-11-21T08:45:19Z",
+    "author": "Hijam Raju Singh"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "RCB likely auction targets: Who will they buy in IPL 2027 mini-auction?",
+    "description": "With the 2027 IPL auction just weeks away, here's a look at who the likeliest targets are for the Royal Challengers Bangalore.",
+    "url": "https://www.cricketnews.com/en/ipl/news/rcb-likely-auction-targets-who-will-they-buy-2027-mini-auction/282f90e7088875797535a0ba",
+    "image": "https://s.yimg.com/lo/mysterio/api/fafdc801e234a87ad53951b2d29002fe7253083ce54a76d2e4b5e4881a5a460f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F253b595cc0afd89f9168e5eb695cd687",
+    "publishedAt": "2026-11-21T08:30:01Z",
+    "author": "Deepanjan Mitra"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Pakistan drop Mohammad Rizwan, Shan Masood and Imam-ul-Haq as PCB finally announces long-delayed central contracts",
+    "description": "The Pakistan Cricket Board has finalised central contracts for 38 players after a considerable delay. Key exclusions include Mohammad Rizwan, Shan Masood, and Imam-ul-Haq, who have faced recent challenges. Shadab Khan, the former captain, now receives a contr…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-drop-mohammad-rizwan-shan-masood-and-imam-ul-haq-as-pcb-finally-announces-long-delayed-central-contracts/articleshow/136048989.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136049025/136049025.jpg",
+    "publishedAt": "2026-11-21T08:25:54Z",
+    "author": "Hijam Raju Singh"
   },
   {
     "source": "Yahoo Entertainment",
-    "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout",
-    "description": "A controversy arose after Pakistan was declared winners of the Men's Blind Cricket Asia Cup 2026. The final match against India was abandoned because of rain, leading to dissatisfaction from the Indian team. India's cricket association alleged that the decisi…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a33d4b8c-60ec-40e0-b090-331d005815d0",
-    "image": null,
-    "publishedAt": "2026-11-20T19:26:00Z",
-    "author": null
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Nepal cricket fans celebrate their team’s global rise",
-    "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-19.17.11-1795202413.png?resize=1200%2C675",
-    "publishedAt": "2026-11-20T19:24:26Z",
-    "author": null
+    "title": "Australia wins the toss and will bowl in the 1st of 5 T20 matches against England",
+    "description": "MELBOURNE, Australia (AP) — Australia won the toss and decided to bowl in the first of five Twenty20 cricket internationals on Saturday at the Melbourne Cricket Ground.Henry Crocombe will make his T20 debut for England after making his ODI debut earlier this …",
+    "url": "https://sports.yahoo.com/articles/australia-wins-toss-bowl-1st-081728321.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/f3c6f8f9b6c537cc3d58c761929900362fe428d010d03c7db77e84603b81fcb1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb724b8c5111ab066c62dd8c96afd590b.jpg",
+    "publishedAt": "2026-11-21T08:17:28Z",
+    "author": "Associated Press"
   },
   {
     "source": "ABC News (AU)",
-    "title": "Trying to get your head around Sandpapergate? We're here to help",
-    "description": "Here's a quick guide to the Sandpapergate drama — absolutely zero knowledge of cricket rules needed.",
-    "url": "https://www.abc.net.au/news/2026-11-21/sandpapergate-ball-tampering-scandal/107404386",
-    "image": "https://live-production.wcms.abc-cdn.net.au/6a66ccad3d34041eb00481776f541f8e?impolicy=wcms_crop_resize&cropH=1474&cropW=2621&xPos=334&yPos=140&width=862&height=485",
-    "publishedAt": "2026-11-20T18:00:00Z",
-    "author": "Elissa Fitzgerald"
+    "title": "Breaking: Lehmann denies knowledge of sandpaper plot despite Bancroft statement",
+    "description": "Former Australian cricket coach Darren Lehmann apologises for his role in the sandpaper saga from 2018, but denies that he knew of the plan prior to it happening.",
+    "url": "https://www.abc.net.au/news/2026-11-21/cricket-lehmann-responds-bancroft-australia-sandpaper-drama/107412988",
+    "image": "https://live-production.wcms.abc-cdn.net.au/8b9737be68a229579db03c0b0be45d30?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=326&width=862&height=485",
+    "publishedAt": "2026-11-21T08:03:56Z",
+    "author": null
+  },
+  {
+    "source": "Pypi.org",
+    "title": "python-lcms2 0.2.2",
+    "description": "Color management for NumPy: LittleCMS2 bindings, color spaces, ICC profile authoring and colormaps",
+    "url": "https://pypi.org/project/python-lcms2/0.2.2/",
+    "image": null,
+    "publishedAt": "2026-11-21T07:56:24Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Cummins' integrity not compromised - CA",
+    "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
+    "url": "https://www.bbc.com/sport/cricket/articles/c65y1gjnqe50o",
+    "image": "https://s.yimg.com/lo/mysterio/api/8400f2904b229911d932c80c08d9938ee95a0fc60e859a238b56c6a23615d049/lightyear_networkapi/resizefill_w861_h484%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2691d8adf455a8987c6204a70633c4ae.jpg_up.jpg",
+    "publishedAt": "2026-11-21T07:55:10Z",
+    "author": "Ben Ramsdale"
+  },
+  {
+    "source": "BBC News",
+    "title": "Cummins' integrity not compromised - Cricket Australia",
+    "description": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7262/live/0dfc94a0-e574-11f1-9d7f-154de60fca60.jpg",
+    "publishedAt": "2026-11-21T07:55:06Z",
+    "author": "Ben Ramsdale"
+  },
+  {
+    "source": "Peoplesreview.com.np",
+    "title": "Lumbini and Sudurpaschim face off today for NPL title",
+    "description": "Kathmandu, Nov 21: Lumbini Lions and Sudurpaschim Royals will compete for the title in the third edition of the Nepal Premier League (NPL) today. The final will begin at 5 pm at the TU International Cricket Ground in Kirtipur. The two teams, both reaching the…",
+    "url": "https://peoplesreview.com.np/2026/11/21/lumbini-and-sudurpaschim-face-off-today-for-npl-title/",
+    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/11/fina.webp",
+    "publishedAt": "2026-11-21T07:35:00Z",
+    "author": "team1"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Mahesh Babu, Steyn, Williamson arrive for Anirudh-Kavya's wedding reception",
+    "description": "Anirudh Ravichander and Kavya Maran will celebrate their union with a grand wedding reception on November 21 in Chennai. The event promises to be star-studded, with notable attendees from both the film and cricket worlds, including Mahesh Babu and Rajinikanth…",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-marans-wedding-reception-mahesh-babu-dale-steyn-kane-williamson-arrive-in-chennai-guest-list-revealed/articleshow/136047113.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136047117/136047117.jpg",
+    "publishedAt": "2026-11-21T07:13:35Z",
+    "author": "TOI Entertainment Desk"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "AUS vs ENG 1st T20I 2026 live scorecard, toss winner, winning probability, result and highlights from Melbourne",
+    "description": "Follow Australia vs England 1st T20I 2026 live scorecard, toss winner, win probability, playing XIs, result, and highlights from the Melbourne Cricket Ground...",
+    "url": "https://www.cricketnews.com/en/cricket/news/aus-vs-eng-1st-t20i-2026-live-scorecard-result-highlights-melbourne/048742319a5a66893d1352ae",
+    "image": "https://s.yimg.com/lo/mysterio/api/9b624b331b1379cf0338d77acc7b8b0670daa38228b2b77a35808f3bc5d75d68/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F847aa6c3775fc8d7311625d138ea40a1",
+    "publishedAt": "2026-11-21T06:55:57Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "The Irish Times",
+    "title": "Australian cricket’s Sandpapergate scandal proves yet again that it’s not the balls-up, it’s the cover-up",
+    "description": "The ball-tampering affair of 2018 had died away but because they didn’t tell the full truth at the time, it has exploded again now",
+    "url": "https://www.irishtimes.com/sport/2026/11/21/australian-crickets-sandpapergate-scandal-proves-yet-again-that-its-not-the-balls-up-its-the-cover-up/",
+    "image": "https://www.irishtimes.com/resizer/v2/SPRNVMMULBHBFAAQQUWLOVGDXM.jpg?auth=c742f382839527d0c9dbaa98be749ca4b3b2e04b0253b87fcd827f97d6a39ebf&smart=true&width=1600&height=900",
+    "publishedAt": "2026-11-21T06:00:01Z",
+    "author": "Malachy Clerkin"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket takes flight in the Falklands: ICC's smallest member with 3,800 population wins T20I series",
+    "description": "The Falkland Islands have hosted their first recognised international sporting event, with the territory's men's cricket team beating Costa Rica 6-2 in a",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-takes-flight-in-the-falklands-iccs-smallest-member-with-3800-population-wins-t20i-series/articleshow/136045751.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136046040/136046040.jpg",
+    "publishedAt": "2026-11-21T05:45:44Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Freethoughtblogs.com",
+    "title": "Shameful cover-up by Cricket Australia",
+    "description": "The governing body for cricket in Australia has given its unanimous support to have Pat Cummins continue as captain of the national Test match team despite all the evidence that he had been part of the ball tampering scheme knows as ‘sandpapergate‘. CA chief …",
+    "url": "https://freethoughtblogs.com/singham/2026/11/21/shameful-cover-up-by-cricket-australia/",
+    "image": "https://freethoughtblogs.com/singham/wp-content/themes/ftb2-theme/images/logo.gif",
+    "publishedAt": "2026-11-21T05:24:01Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "Australia gives Cummins unanimous backing as captain",
+    "description": "SYDNEY, Nov 21 : Cricket Australia (CA) backed Pat Cummins to remain as captain of the test and one-day international sides on Saturday and rejected any suggestion his integrity had been compromised amid the renewed furore over the 2018 ball-tampering inciden…",
+    "url": "https://www.channelnewsasia.com/sport/australia-gives-cummins-unanimous-backing-captain-6571266",
+    "image": "https://dam.mediacorp.sg/image/upload/s--1qdrAUfF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-21T051640Z_1_LYNXNPEMAK03J_RTROPTP_3_CRICKET-SANDPAPERGATE.JPG?itok=0SvJyizZ",
+    "publishedAt": "2026-11-21T05:16:40Z",
+    "author": null
   }
 ]
 ;
