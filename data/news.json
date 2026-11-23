@@ -1,6 +1,69 @@
 [
   {
     "source": "The Times of India",
+    "title": "Rishabh Pant becomes first Indian wicketkeeper to achieve this rare feat",
+    "description": "Rishabh Pant achieved a remarkable milestone by scoring Test centuries in all four SENA countries. His latest contribution was a century against New Zealand in Wellington. This century marked his return to international cricket after a brief injury hiatus. Pa…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-creates-history-becomes-first-indian-wicketkeeper-to-score-test-hundreds-in-all-sena-countries/articleshow/136065733.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065742/136065742.jpg",
+    "publishedAt": "2026-11-22T01:20:31Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Box-office Rishabh Pant goes on rampage, edges past Brendon McCullum in list of most sixes in Test cricket",
+    "description": "Pant struck 10 fours and six sixes during his 128 off 153 balls, taking his tally of sixes in Test cricket to 108. McCullum had hit 107, while England's Ben Stokes tops the list with 138 sixes.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/box-office-rishabh-pant-goes-on-rampage-goes-past-brendon-mccullum-in-list-of-most-sixes-in-test-cricket/articleshow/136065489.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065517/136065517.jpg",
+    "publishedAt": "2026-11-22T00:59:57Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rishabh Pant scripts history, joins Sachin, Dravid, Kohli in elite list with record-breaking century in Wellington",
+    "description": "Pant became the sixth Indian batter to score a Test hundred in a SENA country, joining Mohammad Azharuddin, Sachin Tendulkar, Rahul Dravid, Virat Kohli and KL Rahul on the list.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-joins-sachin-dravid-kohli-in-elite-list-with-record-breaking-century-in-wellington/articleshow/136065422.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065432/136065432.jpg",
+    "publishedAt": "2026-11-22T00:47:11Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Pant reaches 100 as India tightens its control on the 1st test against New Zealand",
+    "description": "WELLINGTON, New Zealand (AP) — Rishabh Pant completed a dashing century before falling one ball from lunch Sunday as India tightened its grip on the first cricket test against New Zealand in the morning session on the fourth day.India was 629-6 at the break, …",
+    "url": "https://sports.yahoo.com/articles/pant-reaches-100-india-tightens-003141344.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/b4d778f5e57279593904f8911998835b7e04286628c4c2df2baf8b10789e4d7f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdd675bc1dbf5c908537a7639daa09fd3.jpg",
+    "publishedAt": "2026-11-22T00:31:41Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Pypi.org",
+    "title": "python-lcms2 0.4.2",
+    "description": "Color management for NumPy: LittleCMS2 bindings, color spaces, ICC profile authoring and colormaps",
+    "url": "https://pypi.org/project/python-lcms2/0.4.2/",
+    "image": null,
+    "publishedAt": "2026-11-22T00:05:18Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Fighter jet gestures: Umpire celebrates with Pakistan team after controversial Asia Cup win; India questions neutrality",
+    "description": "India's blind cricket team had boycotted the trophy presentation ceremony after Pakistan were declared champions despite the final being washed out without a ball being bowled.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fighter-jet-gestures-umpire-celebrates-with-pakistan-team-after-controversial-asia-cup-win-india-questions-neutrality/articleshow/136065014.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065029/136065029.jpg",
+    "publishedAt": "2026-11-21T23:38:02Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "'Bigger than Hansie Cronje's match-fixing': Legendary cricketer makes explosive Sandpaper Gate claim",
+    "description": "Geoffrey Boycott has sharply criticized Steven Smith for his inaction during the infamous 2018 ball-tampering scandal. He believes that Smith's choice to disengage from the team’s scheme is simply unacceptable. Boycott insists that the gravity of this scandal…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a70dfb9-6864-49a4-95fe-f7af8b26afcf",
+    "image": null,
+    "publishedAt": "2026-11-21T22:32:00Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
     "title": "Women Asian Champions: Holders India survive late Korea scare to post second straight win",
     "description": "India beat South Korea 2-1 at the Women’s Asian Champions Trophy in Bhopal, with Mumtaz and Sunelita scoring as holders made it two wins.",
     "url": "https://timesofindia.indiatimes.com/city/bhopal/women-asian-champions-holders-india-survive-late-korea-scare-to-post-second-straight-win/articleshow/136062329.cms",
@@ -205,68 +268,5 @@
     "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136055662/136055662.jpg",
     "publishedAt": "2026-11-21T13:38:53Z",
     "author": "Global Sports Desk"
-  },
-  {
-    "source": "Al Jazeera English",
-    "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-    "description": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-    "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=1200%2C675",
-    "publishedAt": "2026-11-21T13:08:59Z",
-    "author": "AFP"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Pakistan drops former captains Masood and Rizwan from central contracts list",
-    "description": "ISLAMABAD (AP) — The Pakistan Cricket Board left out former captains Shan Masood and Mohammad Rizwan from its new format-based central contracts awarded to 38 players Saturday.Abdullah Shafique, who scored a test century against the West Indies in this World …",
-    "url": "https://sports.yahoo.com/articles/pakistan-drops-former-captains-masood-130234270.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/b7712f9cdd8bf4b6bd10417dc76b0013b1260c8106ce92287e2ffc9d945b649e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F09c74f3ae1c3c811075bfad914e6f4e3.jpg",
-    "publishedAt": "2026-11-21T13:02:34Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Australia win thriller to snap England's T20I streak",
-    "description": "Inexperienced Australia have pulled off a record MCG run chase to beat world number one England in the first of five T20 Internationals on home soil.",
-    "url": "https://www.abc.net.au/news/2026-11-21/australia-win-t20-international-against-england-at-mcg/107413150",
-    "image": "https://live-production.wcms.abc-cdn.net.au/cff5a60219b63494411c1a9f2d74bfcb?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
-    "publishedAt": "2026-11-21T12:55:48Z",
-    "author": null
-  },
-  {
-    "source": "CNA",
-    "title": "Australia edge England in MCG thriller to take 1-0 T20 series lead",
-    "description": "Nov 21 : Nikhil Chaudhary produced a decisive all-round performance before Jack Edwards struck the winning boundary as Australia secured a dramatic three-wicket victory over England with one ball to spare in the opening Twenty20 international at the Melbourne…",
-    "url": "https://www.channelnewsasia.com/sport/australia-edge-england-in-mcg-thriller-take-1-0-t20-series-lead-6571616",
-    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
-    "publishedAt": "2026-11-21T12:38:40Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Exactly what CSK need': New signing Jack Edwards' all-round brilliance against England has CSK fans excited for IPL 2027",
-    "description": "Jack Edwards performed with both the bat and the ball as CSK fans tout him as exactly what the franchise needs as Australia defeated England by 3 wickets.",
-    "url": "https://www.cricketnews.com/en/cricket/news/jack-edwards-all-round-brilliance-england-csk-fans-ipl-2027/22c41626a67e2e6865179aba",
-    "image": "https://s.yimg.com/lo/mysterio/api/02e5abe0900b617ce9116627508b8f96de2e1d8d5911d8c1a8a82cac0cf885f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6a790d86c4ef5f5228e65a07ec45ab9b",
-    "publishedAt": "2026-11-21T12:37:47Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "BBC News",
-    "title": "Australia's Chaudhary downs England in tetchy first T20",
-    "description": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a75a/live/19e88440-e5a1-11f1-a094-5fdc692f3e33.jpg",
-    "publishedAt": "2026-11-21T12:07:16Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "6 Steelers questionable to play against Eagles in Week 11",
-    "description": "The Pittsburgh Steelers have listed six players as questionable for the Week 11 matchup against the Eagles, including Pro Bowler Patrick Queen.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_93130d96-1d98-4494-8fcf-d5bbcd844426",
-    "image": null,
-    "publishedAt": "2026-11-21T12:03:37Z",
-    "author": null
   }
 ]
