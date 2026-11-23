@@ -1,273 +1,57 @@
 window.cricketNews = [
   {
-    "source": "Dailymail.com",
-    "title": "AFL WAG Chloe Pink left cricket match 'bawling' after she was fat-shamed for the way she ate a burger: 'Scared to eat in public'",
-    "description": "Chloe Pink has lashed out after she was trolled online for the enthusiastic way she tucked into her dinner at a public event.",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16312967/chloe-pink-afl-wag-trolls-instagram-ivf-body-shaming.html",
-    "image": "https://i.dailymail.com/1s/2026/11/22/10/112660595-0-image-m-43_1795343217257.jpg",
-    "publishedAt": "2026-11-22T10:30:11Z",
-    "author": "Marta Jary"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Hayden drops 'more smoke' remark, questions Australia's handling ball-tampering scandal",
-    "description": "Matthew Hayden has advocated for a thorough investigation into the infamous Sandpapergate scandal, which severely tarnished the image of Australian cricket. Recent disclosures from Bancroft and Khawaja hint that additional players may have been complicit in t…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/matthew-hayden-drops-moore-smoke-remark-on-sandpapergate-questions-australias-handling-of-2018-ball-tampering-scandal/articleshow/136071888.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136071919/136071919.jpg",
-    "publishedAt": "2026-11-22T10:21:40Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "BBC News",
-    "title": "Injured Jacks out of T20 Australia tour",
-    "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-    "url": "https://www.bbc.com/sport/cricket/articles/c8p3v1p45360o",
-    "image": "https://s.yimg.com/lo/mysterio/api/d2681b1ef65b4a165c03cd2c7642b3fac2260d1e333b72ca9e5546ef2b1f3627/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa66401f1a7d87da40eac8bb85ee5c4ca.jpg",
-    "publishedAt": "2026-11-22T10:02:55Z",
-    "author": "Tom Rostance"
-  },
-  {
-    "source": "BBC News",
-    "title": "Injured Jacks out of T20 Australia tour",
-    "description": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed0e/live/c327b730-e653-11f1-a563-e14cd8b02601.jpg",
-    "publishedAt": "2026-11-22T10:00:04Z",
-    "author": "Tom Rostance"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "GT likely auction targets: Who will they buy in IPL 2027 mini-auction?",
-    "description": "Here's a look at which players the Gujarat Titans should target ahead of the 2027 mini-auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/gt-auction-targets-who-will-they-buy-ipl-2027-mini-auction/1d473ae8d53beba6ba88d5bd",
-    "image": "https://s.yimg.com/lo/mysterio/api/7b41c5063418dd8238f6548f93437dabb8ccabfccbae7550cd917da2e2fe253e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5d44d44bec6ed60448bcf77128607b8b",
-    "publishedAt": "2026-11-22T10:00:02Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "200+ runs in one innings! Jacob Duffy enters unwanted record books after India's batting carnage",
-    "description": "Jacob Duffy became the sixth fast bowler to concede over 200 runs in a Test innings. He ended with figures of 1/201 as India scored 720 runs in their first innings. KL Rahul led the Indian batting effort with a score of 136 runs. In response, New Zealand has …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/200-runs-in-one-innings-jacob-duffy-enters-unwanted-record-books-after-indias-batting-carnage/articleshow/136071403.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136071417/136071417.jpg",
-    "publishedAt": "2026-11-22T09:45:32Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Help the team massively': CSK star hails team's decision to appoint MS Dhoni as mentor after retirement ahead of IPL 2027",
-    "description": "While Dhoni might've retired from the IPL, his presence in the CSK dugout as the mentor is already being praised by a Chennai star.",
-    "url": "https://www.cricketnews.com/en/cricket/news/help-team-csk-star-hails-appoint-dhoni-mentor-ipl-2027/29b947c1bc3bd7e2a400002a",
-    "image": "https://s.yimg.com/lo/mysterio/api/ff01f92b60512529f8125715e37fb6cc4c69cccba2548463543ae362854b7019/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fd4257cd74c31e49052a81e5065ef83cb",
-    "publishedAt": "2026-11-22T09:31:51Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "'We're underdogs': New MI coach makes honest admission ahead of IPL 2027 season",
-    "description": "New MI batting coach believes that after the departure of some key players and the captaincy out of Hardik Pandya's hands, the 5-time champs enter IPL 2027 as underdogs.",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eeb65fec-f14a-4955-ad21-5affba37f7d5",
-    "image": null,
-    "publishedAt": "2026-11-22T09:27:46Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Sachin Tendulkar says Ranveer Singh could make good cricketer, invites him to bowl in the nets",
-    "description": "Sachin Tendulkar told Ranveer Singh he could make a good cricketer at the Global Peace Honours 2026 in Mumbai, praising his turn as Kapil Dev in '83'. He invited Ranveer to bowl to him in the nets and joked that cricketers are no strangers to acting.",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sachin-tendulkar-says-ranveer-singh-could-make-good-cricketer-invites-him-to-bowl-in-the-nets/articleshow/136070839.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136070850/136070850.jpg",
-    "publishedAt": "2026-11-22T09:03:29Z",
-    "author": "TOI Entertainment Desk"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Paras Mhambrey set to join Punjab Kings as bowling coach",
-    "description": "Paras Mhambrey has signed a contract to become the bowling coach for Punjab Kings in IPL-2027. He previously served as the bowling coach for Mumbai Indians and the Indian cricket team. Mhambrey is recognized for his contributions to bowling strategies during …",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e2a2ec6d-f909-4f97-84ca-44a11bf31573",
-    "image": null,
-    "publishedAt": "2026-11-22T08:30:00Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'No place for hate in cricket’: Congress leader rejects Masood’s religious bias charge over Siraj",
-    "description": "NEW DELHI: Congress leader Mumtaz Patel has rejected party colleague Imran Masood's allegation of religious discrimination in the selection of the Indian",
-    "url": "https://timesofindia.indiatimes.com/india/no-place-for-hate-in-cricket-congress-leader-rejects-masoods-religious-bias-charge-over-siraj/articleshow/136069976.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136070389/136070389.jpg",
-    "publishedAt": "2026-11-22T08:26:38Z",
-    "author": "Subhadra Srivastava"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "CA says Cummins backing not a sign it is taking sides in sandpaper spat",
-    "description": "Cricket Australia insists its backing of Pat Cummins to remain Australia's cricket captain does not mean it does not believe the accounts of other players.",
-    "url": "https://www.abc.net.au/news/2026-11-22/cricket-australia-not-picking-sides-cummins-sandpaper-feud/107414652",
-    "image": "https://live-production.wcms.abc-cdn.net.au/c4a5a44e1b0dbaa094371ba0952eb464?impolicy=wcms_crop_resize&cropH=2667&cropW=4741&xPos=0&yPos=80&width=862&height=485",
-    "publishedAt": "2026-11-22T08:20:55Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "CSK likely auction targets: Who will they buy in IPL 2027 mini-auction?",
-    "description": "Here's a list of all the players the Chennai Super Kings will try to target in the upcoming 2027 IPL mini-auction.",
-    "url": "https://www.cricketnews.com/en/cricket/news/csk-auction-targets-who-will-they-buy-ipl-2027-mini-auction/9238aeaee1973f364c44e8aa",
-    "image": "https://s.yimg.com/lo/mysterio/api/49efbd5f22b10863a1cbcf1d16efbbc1acc63eb67248d934ec86cab32e20149c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F23b83d180efb92a8b8b10d91a1100b06",
-    "publishedAt": "2026-11-22T07:37:13Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "Pypi.org",
-    "title": "python-lcms2 0.4.3",
-    "description": "Color management for NumPy: LittleCMS2 bindings, color spaces, ICC profile authoring and colormaps",
-    "url": "https://pypi.org/project/python-lcms2/0.4.3/",
-    "image": null,
-    "publishedAt": "2026-11-22T07:02:27Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Even if they ask me to play as a bowler, I will': Dhruv Jurel's selfless Team India message after crucial 78 vs NZ",
-    "description": "Dhruv Jurel showcased his dedication to the team by scoring an impressive 78 runs during India's commanding Test match. His willingness to perform in various capacities demonstrates his team-first mentality. He also lauded the remarkable batting skills of Ris…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/even-if-they-ask-me-to-play-as-a-bowler-i-will-dhruv-jurels-selfless-team-india-message-after-crucial-78-vs-nz/articleshow/136069225.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136069287/136069287.jpg",
-    "publishedAt": "2026-11-22T07:00:47Z",
-    "author": "Nitesh Dubey"
-  },
-  {
     "source": "Economictimes.com",
-    "title": "Dhruv Jurel praises Rishabh Pant's mentorship as India sets record 720 runs against New Zealand",
-    "description": "Dhruv Jurel expressed admiration for Rishabh Pant's batting approach and mentorship abilities after their partnership. Jurel scored 78 runs and highlighted his adaptability in various match situations. The young wicketkeeper reflected on the impact of weather…",
-    "url": "https://m.economictimes.com/news/sports/cricket/dhruv-jurel-praises-rishabh-pants-mentorship-as-india-sets-record-720-runs-against-new-zealand/articleshow/136069074.cms",
-    "image": "https://img.etimg.com/thumb/msid-136069179,resizemode-4,width-1200,height-900,imgsize-125144,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-22T06:48:50Z",
-    "author": "PTI"
+    "title": "Cricket Test Match: A midas India touch in Kiwiland",
+    "description": "If you went by the past, India's good start, powered by a couple of centuries, should not have led to consistent performances from every batsman who walked out to the middle. It's never happened that way before, you see? But India had 50-plus partnerships for…",
+    "url": "https://m.economictimes.com/news/sports/cricket/cricket-test-match-a-midas-india-touch-in-kiwiland/articleshow/136082601.cms",
+    "image": "https://img.etimg.com/thumb/msid-136082600,resizemode-4,width-1200,height-900,imgsize-328596,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-22T19:11:42Z",
+    "author": "Anand Vasu"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Now, Anaadi becomes India U-19 women’s vice-captain for England T20 cricket series",
+    "description": "Indore fast bowler Anaadi Tagde named India U-19 women’s vice-captain for five-match England T20 series from Nov 26; only MP player in squad.",
+    "url": "https://timesofindia.indiatimes.com/city/indore/now-anaadi-becomes-india-u-19-womens-vice-captain-for-england-t20-cricket-series/articleshow/136082543.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+    "publishedAt": "2026-11-22T19:00:15Z",
+    "author": "Litha Achari"
+  },
+  {
+    "source": "The Times of India",
+    "title": "JNT organisation announces names of 30 players",
+    "description": "JNT Organisation names 30 players from its U-12 cricket tournament for training camps aimed at preparing them for UPCA under-14 selection across UP.",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/jnt-organisation-announces-names-of-30-players/articleshow/136081048.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+    "publishedAt": "2026-11-22T17:56:08Z",
+    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
   },
   {
     "source": "Al Jazeera English",
-    "title": "What Sandpapergate reveals about Australian cricket",
-    "description": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
-    "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2018-03-25T094153Z_1725965164_RC1257CBA490_RTRMADP_3_CRICKET-TEST-ZAF-AUS-1795329001.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-11-22T06:32:43Z",
-    "author": "Melinda Farrell"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Before Gilchrist and Sangakkara, there was Les Ames: England great with 102 centuries whose record Rishabh Pant broke in Wellington",
-    "description": "Ames passed away before Adam Gilchrist, Andy Flower and Kumar Sangakkara made their mark in the game. In his obituary, Wisden described him as someone who “was without a doubt the greatest wicketkeeper-batsman the game has so far produced.”",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/before-gilchrist-and-sangakkara-there-was-les-ames-england-great-with-102-centuries-whose-record-rishabh-pant-broke-in-wellington/articleshow/136067880.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136067984/136067984.jpg",
-    "publishedAt": "2026-11-22T05:58:24Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Two innings, two first-over strikes! Jasprit Bumrah becomes only third Indian bowler in Test history to achieve rare feat",
-    "description": "It was the second time in the match that Jasprit Bumrah had picked up a wicket in his opening over. The India pacer had also dismissed Latham in the first innings, bowling him when the New Zealand skipper decided to leave the delivery. With this dismissal, Bu…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/two-innings-two-first-over-strikes-jasprit-bumrah-becomes-only-third-indian-bowler-in-test-history-to-achieve-rare-feat/articleshow/136068135.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136068170/136068170.jpg",
-    "publishedAt": "2026-11-22T05:42:52Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "'Came, saw and delivered': Cricket world hails Rishabh Pant as he scores century on comeback for India in Tests",
-    "description": "With Rishabh Pant finally scoring an overseas ton in all four SENA nations after his 128 at Wellington, cricket fans from across the world were quick to hail his blistering performance.",
-    "url": "https://www.cricketnews.com/en/cricket/news/cricket-world-hails-rishabh-pant-century-comeback-india-tests/0763f3aaaf6e1b97db52cbee",
-    "image": "https://s.yimg.com/lo/mysterio/api/bd1d62cc09cd1324c26d5c4a9b8760506639aaff8e7722e13f15e2e57c756f95/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa9adf1898924373f85e52b5a837f920e",
-    "publishedAt": "2026-11-22T05:13:07Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Brazil supercell storm: 3 killed, thousands of homes damaged as 114 kmph winds batter town",
-    "description": "In Brazil, the town of Tupancireta has been ravaged by a fierce storm, with the tragic loss of at least three lives reported. Local officials noted that approximately 5,000 homes sustained severe damage from torrential rains and strong winds. Eyewitness accou…",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-supercell-storm-3-killed-thousands-of-homes-damaged-as-114-kmph-winds-batter-town/articleshow/136067257.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136067405/136067405.jpg",
-    "publishedAt": "2026-11-22T04:41:27Z",
-    "author": "Mahima Sharma"
-  },
-  {
-    "source": "Peoplesreview.com.np",
-    "title": "PM Shah announces eight new cricket stadiums for NPL teams",
-    "description": "Kathmandu, Nov 22: Each of the eight franchises competing in the Nepal Premier League (NPL) is set to have its own cricket stadium, with the government planning to begin construction preparations within three months. Prime Minister Balendra Shah announced the…",
-    "url": "https://peoplesreview.com.np/2026/11/22/pm-shah-announces-eight-new-cricket-stadiums-for-npl-teams/",
-    "image": "https://peoplesreview.com.np/wp-content/uploads/2026/05/Balen-Shah-2_vdDtuGFcqZ.jpg",
-    "publishedAt": "2026-11-22T04:30:00Z",
-    "author": "team1"
-  },
-  {
-    "source": "CNA",
-    "title": "Hazlewood says was never close with Khawaja but has no issues with book release",
-    "description": "SYDNEY, Nov 22 : Australia fast bowler Josh Hazlewood said he and Usman Khawaja were never particularly close but that he bore no resentment towards his former teammate over an autobiography which has reignited debate around the 2018 ball-tampering scandal.Kh…",
-    "url": "https://www.channelnewsasia.com/sport/hazlewood-says-was-never-close-khawaja-has-no-issues-book-release-6572586",
-    "image": "https://dam.mediacorp.sg/image/upload/s--HHwFg3Gt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-22T040910Z_1_LYNXNPEMAL034_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=-j4mrgz-",
-    "publishedAt": "2026-11-22T04:09:10Z",
+    "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+    "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?resize=1914%2C1080&quality=80",
+    "publishedAt": "2026-11-22T17:46:32Z",
     "author": null
   },
   {
-    "source": "Cricketnews.com",
-    "title": "'Good for DC that he will be in the dugout and not on the pitch': Sourav Ganguly on MS Dhoni retirement",
-    "description": "While the cricketing world is still coming to terms with the fact that MS Dhoni wouldn't be playing in the IPL anymore, former teammate and skipper Saurav Ganguly is grateful for the Delhi Capitals for this.",
-    "url": "https://www.cricketnews.com/en/cricket/news/good-dc-dugout-sourav-ganguly-ms-dhoni-retirement/01fac66f01382fb820660d6e",
-    "image": "https://s.yimg.com/lo/mysterio/api/89ca8f45738390827669e65c2422cb2c48dccac31891beea9c5d02842eb22098/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F2682e36485de19d7fca69809eb4b1961",
-    "publishedAt": "2026-11-22T03:49:18Z",
-    "author": "Deepanjan Mitra"
+    "source": "The Times of India",
+    "title": "City ready to host women’s inter-zonal T20 tournament",
+    "description": "Guwahati hosts Senior Women’s Inter-Zonal T20 Trophy Nov 24–Dec 4 at Barsapara and Fulung, featuring top India women cricketers.",
+    "url": "https://timesofindia.indiatimes.com/city/guwahati/city-ready-to-host-womens-inter-zonal-t20-tournament/articleshow/136080275.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136080273/136080273.jpg",
+    "publishedAt": "2026-11-22T17:26:13Z",
+    "author": "Mukut Das"
   },
   {
     "source": "The Times of India",
-    "title": "Paras Mhambrey set to join Punjab Kings as bowling coach",
-    "description": "Paras Mhambrey has signed a contract to become the bowling coach for Punjab Kings in IPL-2027. He previously served as the bowling coach for Mumbai Indians and the Indian cricket team. Mhambrey is recognized for his contributions to bowling strategies during …",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/paras-mhambrey-set-to-join-punjab-kings-as-bowling-coach/articleshow/136066297.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136066354/136066354.jpg",
-    "publishedAt": "2026-11-22T03:00:54Z",
-    "author": "Gaurav Gupta"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Unprecedented! Shubman Gill's India achieve a first in 149-year history of Test cricket with seven consecutive 50-run partnerships",
-    "description": "The visitors took a lead of 352 runs after New Zealand had been bowled out for 368 in their first innings. India's total of 720 was also the highest team score recorded in New Zealand.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/unprecedented-shubman-gills-india-achieve-a-first-in-149-year-history-of-test-cricket-with-seven-consecutive-50-run-partnerships/articleshow/136066014.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136066039/136066039.jpg",
-    "publishedAt": "2026-11-22T02:32:00Z",
-    "author": "Shubhanshu Dwivedi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'Bat time and tire the bowlers out': How KL Rahul turned opening into his natural home in Test cricket",
-    "description": "India's KL Rahul has shown impressive performance as a Test opener, established under coach Gautam Gambhir's leadership. Following a challenging series against New Zealand, he was selected to prepare early in Australia. Rahul scored notable runs in India A ga…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bat-time-and-tire-the-bowlers-out-how-kl-rahul-turned-opening-into-his-natural-home-in-test-cricket/articleshow/136066032.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136066045/136066045.jpg",
-    "publishedAt": "2026-11-22T02:22:43Z",
-    "author": "Nitin Naik"
-  },
-  {
-    "source": "Dailymail.com",
-    "title": "'I've got a bitterness towards English cricket and how I was spat out': Former Yorkshire coach ANDREW GALE on the county's racism 'witch hunt', Azeem Rafiq and his new life in Tasmania",
-    "description": "Yorkshire to his core, Andrew Gale captained his county to Championship titles in 2014 and 2015, before coaching them for five years until 2021. It was at this point that the wheels fell off.",
-    "url": "https://www.dailymail.com/sport/cricket/article-16308335/Andrew-Gale-Yorkshire-Rafiq-Tasmania.html",
-    "image": "https://i.dailymail.com/1s/2026/11/20/14/112635337-0-image-a-5_1795186606667.jpg",
-    "publishedAt": "2026-11-22T02:00:53Z",
-    "author": "Lawrence Booth"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Rishabh Pant becomes first Indian wicketkeeper to achieve this rare feat",
-    "description": "Rishabh Pant achieved a remarkable milestone by scoring Test centuries in all four SENA countries. His latest contribution was a century against New Zealand in Wellington. This century marked his return to international cricket after a brief injury hiatus. Pa…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rishabh-pant-creates-history-becomes-first-indian-wicketkeeper-to-score-test-hundreds-in-all-sena-countries/articleshow/136065733.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065742/136065742.jpg",
-    "publishedAt": "2026-11-22T01:20:31Z",
-    "author": "Amit Kumar"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Box-office Rishabh Pant goes on rampage, edges past Brendon McCullum in list of most sixes in Test cricket",
-    "description": "Pant struck 10 fours and six sixes during his 128 off 153 balls, taking his tally of sixes in Test cricket to 108. McCullum had hit 107, while England's Ben Stokes tops the list with 138 sixes.",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/box-office-rishabh-pant-goes-on-rampage-goes-past-brendon-mccullum-in-list-of-most-sixes-in-test-cricket/articleshow/136065489.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136065517/136065517.jpg",
-    "publishedAt": "2026-11-22T00:59:57Z",
-    "author": "Shubhanshu Dwivedi"
+    "title": "'Like looking in the mirror': Kane Williamson reveals how Virat Kohli helped him make retirement decision",
+    "description": "Kane Williamson has officially declared his retirement from international cricket following a significant conversation with fellow cricketer Virat Kohli. Their long-standing rivalry and friendship, dating back to their Under-19 years, made this decision easie…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/like-looking-in-the-mirror-kane-williamson-reveals-how-virat-kohli-helped-him-make-retirement-decision/articleshow/136079396.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136079516/136079516.jpg",
+    "publishedAt": "2026-11-22T16:56:23Z",
+    "author": "Pranav Shukla"
   }
 ]
 ;
