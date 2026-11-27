@@ -1,5 +1,230 @@
 window.cricketNews = [
   {
+    "source": "The Times of India",
+    "title": "‘I wanted to audition for my biopic, but they refused!’",
+    "description": "For years, a biopic on former cricketer Yuvraj Singh’s life has been the subject of speculation.",
+    "url": "https://timesofindia.indiatimes.com/life-style/spotlight/i-wanted-to-audition-for-my-biopic-but-they-refused/articleshow/136183059.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136183316/136183316.jpg",
+    "publishedAt": "2026-11-26T07:52:31Z",
+    "author": "Vinay MR Mishra"
+  },
+  {
+    "source": "Free Malaysia Today",
+    "title": "Victims’ families await justice ahead of Duterte’s ICC trial",
+    "description": "Llore Pasco, whose sons were killed in the drug war, is among the relatives who will attend ex-Philippine president Rodrigo Duterte's trial at the International Criminal Court in The Hague.",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/victims-families-await-justice-ahead-of-duterte-s-icc-trial",
+    "image": null,
+    "publishedAt": "2026-11-26T07:34:44Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "102 matches, over five-thousand runs: Former India U19 World Cup winner quits first-class cricket at 32",
+    "description": "Former India Under-19 World Cup-winning all-rounder Baba Aparajith has retired from first-class cricket at the age of 32, ending a career in which he",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/102-matches-over-five-thousand-runs-former-india-u-19-world-cup-winner-quits-first-class-cricket-at-32/articleshow/136181628.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136181807/136181807.jpg",
+    "publishedAt": "2026-11-26T06:55:33Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "RTE",
+    "title": "Ireland men's cricket team set for first tour of Pakistan",
+    "description": "Ireland's men's cricket team will make a first-ever visit to Pakistan for six 50-over matches as part of their preparations for the crucial ICC World Cup Qualifier in February 2027.",
+    "url": "https://www.rte.ie/sport/cricket/2026/1126/1600712-ireland-mens-cricket-team-set-for-first-tour-of-pakistan/",
+    "image": "https://www.rte.ie/images/00256739-1600.jpg",
+    "publishedAt": "2026-11-26T06:49:27Z",
+    "author": "RTÉ Sport"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket Brings Players of All Abilities Together for an Inclusive Match in Kolkata",
+    "description": "An evening of cricket at Spring Club brought together differently abled cricketers, women players and professionals from two organisations, celebrating",
+    "url": "https://timesofindia.indiatimes.com/life-style/spotlight/cricket-brings-players-of-all-abilities-together-for-an-inclusive-match-in-kolkata/articleshow/136181653.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136181676/136181676.jpg",
+    "publishedAt": "2026-11-26T06:46:47Z",
+    "author": "TNN"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+    "description": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
+    "url": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_4406-1795613384.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-26T06:07:35Z",
+    "author": "Ruchi Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Part of India's Test squad, star cricketer listed as 'Stan Stan' plays local cricket in New Zealand",
+    "description": "India wicketkeeper-batter Rishabh Pant took part in a local cricket match in Christchurch on Wednesday, using the opportunity to to keep his eye sharp",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/part-of-indias-test-squad-star-cricketer-listed-as-stan-stan-plays-local-cricket-in-new-zealand/articleshow/136178940.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136179612/136179612.jpg",
+    "publishedAt": "2026-11-26T05:27:28Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Nvidia AI chips in Vaibhav Sooryavanshi's bat': Iceland Cricket's post on 15-year-old goes viral",
+    "description": "Vaibhav Sooryavanshi set a new record with a double-century of 204 runs against UAE in the Asia Cup. He achieved this milestone in just 53 balls, breaking several List A cricket records. His innings included an impressive 28 sixes, surpassing previous records…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nvidia-ai-chips-in-vaibhav-sooryavanshis-bat-iceland-crickets-post-on-15-year-old-goes-viral/articleshow/136179152.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136179321/136179321.jpg",
+    "publishedAt": "2026-11-26T05:11:19Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Explained: Why MI purse value has been reduced ahead of IPL 2027 mini-auction",
+    "description": "Mumbai Indians will head into the IPL 2027 mini-auction with a reduced purse. Here's why.",
+    "url": "https://www.cricketnews.com/en/cricket/news/why-mi-purse-value-reduced-ahead-ipl-2027-mini-auction/952549ef9b37f15ca413d4cd",
+    "image": "https://s.yimg.com/lo/mysterio/api/5c0dfcdb6553f4adc54d0424fffb1a2a94957198ba4e30277de5b07370fe6556/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F37a0b07e044904d56201fe5114ce7e78",
+    "publishedAt": "2026-11-26T04:57:11Z",
+    "author": "Anselm Noronha"
+  },
+  {
+    "source": "The Times of India",
+    "title": "How Rajasthan Royals missed a once-in-a-lifetime opportunity to acquire Hardik Pandya",
+    "description": "Rajasthan Royals had a chance to land Hardik Pandya, a proven IPL-winning captain and an all-rounder, but balked at Mumbai Indians' demand to include Jofra Archer in the trade. While RR stuck with Riyan Parag, Punjab Kings seized the opportunity, trading Arsh…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/how-rajasthan-royals-missed-a-once-in-a-lifetime-opportunity-to-acquire-hardik-pandya/articleshow/136179002.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136179018/136179018.jpg",
+    "publishedAt": "2026-11-26T04:51:21Z",
+    "author": "Pratyush Raj"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "An England rival steps in: Ben Stokes tries to calm Australia’s Sandpapergate rift",
+    "description": "BRISBANE, Australia (AP) — A situation has to be considered dire in cricket when the former captain of England is imploring Australian players to stop publicly feuding.That's what Ben Stokes is urging the Aussies embroiled in the Sandpapergate saga to do.",
+    "url": "https://sports.yahoo.com/cricket/articles/england-rival-steps-ben-stokes-043510975.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/e40cead309c7d7799b3e8c9bae8bafc4f9302c108bacdaeb588cbe57ef85f2ed/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe294d7aef79d896b66a6c029e83d1027.jpg",
+    "publishedAt": "2026-11-26T04:35:10Z",
+    "author": "JOHN PYE"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "A massive storm is barreling toward the East Coast on Thanksgiving Day",
+    "description": "A storm is headed toward the East Coast on Thanksgiving Day.\nCraig T Fruchtman/Getty Images\nCoastal flooding, strong winds, and heavy rainfall are expected to batter the East Coast this Thanksgiving.\nNYC Mayor Zohran Mamdani announced that Macy's annual Thank…",
+    "url": "https://biztoc.com/x/d04bfb065ae0481d",
+    "image": "https://cdn.biztoc.com/d04bfb065ae0481d_s.webp",
+    "publishedAt": "2026-11-26T03:46:28Z",
+    "author": null
+  },
+  {
+    "source": "Business Insider",
+    "title": "A massive storm is barreling toward the East Coast on Thanksgiving Day",
+    "description": "Coastal flooding, strong winds, and heavy rainfall are expected to batter the East Coast this Thanksgiving.",
+    "url": "https://www.businessinsider.com/storm-east-coast-thanksgiving-day-2026-11",
+    "image": "https://i.insider.com/6b07942d73f126f9eccbabae?width=1200&format=jpeg",
+    "publishedAt": "2026-11-26T03:39:54Z",
+    "author": "Aditi Bharade"
+  },
+  {
+    "source": "CNA",
+    "title": "Former CEO Sutherland says Cricket Australia did the best it could on Sandpapergate investigation",
+    "description": "Nov 26 : Former Cricket Australia (CA) boss James Sutherland said on Thursday the governing body did the best it could with the information available to it during the investigation into the 2018 ball-tampering scandal.The scandal was reignited this month afte…",
+    "url": "https://www.channelnewsasia.com/sport/former-ceo-sutherland-says-cricket-australia-did-best-it-could-sandpapergate-investigation-6584011",
+    "image": "https://dam.mediacorp.sg/image/upload/s--itrtNdzD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-26T033537Z_1_LYNXNPEMAP07T_RTROPTP_3_CRICKET-TEST-ZAF-AUS-TAMPERING.JPG?itok=91B0VVHg",
+    "publishedAt": "2026-11-26T03:35:37Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "Batter leaves stumps unattended, gets bowled off a 'free ball': What is BBL's little-known timed-out rule that saw Deandra Dottin walk back without batting?",
+    "description": "Chasing Heat's total of 137/8, the Renegades were in control at 3-97 before Sarah Glenn dismissed Georgia Wareham. Dottin then walked in but was penalised for taking more than the permitted time to get ready to face the ball.",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/batter-leaves-stumps-unattended-gets-bowled-off-a-free-ball-what-is-bbls-little-known-timed-out-rule-that-saw-deandra-dottin-walk-back-without-batting/articleshow/136176927.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136177012/136177012.jpg",
+    "publishedAt": "2026-11-26T03:21:24Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "New Zealand Herald",
+    "title": "Sandpapergate: Former Cricket Australia boss defends handling of 2018 investigation",
+    "description": "Cricket Australia will not reopen its probe into the 2018 ball-tampering scandal.",
+    "url": "https://www.nzherald.co.nz/sport/cricket/sandpapergate-former-cricket-australia-boss-defends-handling-of-2018-investigation/Z6KTJWPWC5EG3OKNDEJ7ZNHYLA/",
+    "image": "https://www.nzherald.co.nz/resizer/v2/FVR53QDUJJBB5GH7TJWFG6T7ZM.jpg?auth=4ddae94d1ca13f0e6d18f93cd76b04c2d3ea142bfad1c08cc026da79b0f4ab03",
+    "publishedAt": "2026-11-26T02:01:00Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "King tides, high surf batter California coast; severe weather disrupts Thanksgiving celebrations",
+    "description": "King tides and powerful Pacific waves are battering California's coastline, flooding beachfront homes, prompting evacuation warnings and tearing apart coastal infrastructure. The 100th edition of the annual Macy's Thanksgiving Day Parade in New York City will…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/king-tides-high-surf-batter-california-coast-severe-weather-disrupts-thanksgiving-celebrations/videoshow/136176045.cms",
+    "image": "https://img.etimg.com/thumb/msid-136176045,width-1200,height-900,overlay-economictimes/news/international/world-news/king-tides-high-surf-batter-california-coast-severe-weather-disrupts-thanksgiving-celebrations.jpg",
+    "publishedAt": "2026-11-26T01:41:43Z",
+    "author": "ET Online"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+    "description": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+    "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T212701Z_242027520_RC24VOAPXVX3_RTRMADP_3_USA-WEATHER-CALIFORNIA-1795647953.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-26T01:40:13Z",
+    "author": "Al Jazeera Staff"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Cricket fever grips rural Bajhang",
+    "description": "BAJHANG: Cricket is steadily gaining popularity in the rural communities of Bajhang, where young people who once followed the national team’s matches on television and mobile phones are now taking to the field themselves. The growing enthusiasm for the sport …",
+    "url": "https://english.khabarhub.com/2026/26/577074/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Bajhang-cricket-e1795656599160.jpg",
+    "publishedAt": "2026-11-26T01:30:47Z",
+    "author": null
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Play with the ball that you've got': Tom Latham pushes back on Shubman Gill's concerns over ball quality",
+    "description": "Latham's comments came after India captain Shubman Gill raised concerns over the quality of cricket balls following the drawn first Test in Wellington. Gill had said that both Dukes and Kookaburra balls tend to become soft after the first 25-30 overs, affecti…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/play-with-the-ball-that-youve-got-tom-latham-pushes-back-on-shubman-gills-concerns-over-ball-quality/articleshow/136175629.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136175680/136175680.jpg",
+    "publishedAt": "2026-11-26T01:05:47Z",
+    "author": "Shubhanshu Dwivedi"
+  },
+  {
+    "source": "Khabarhub.com",
+    "title": "Nepali cricket team returns home from Qatar",
+    "description": "KATHMANDU: The Nepali national cricket team has returned home after competing in the Asia Cup Rising Stars One-Day Cricket Tournament in Qatar. The team arrived in Kathmandu last night. Nepal played three matches in the tournament, securing one victory and su…",
+    "url": "https://english.khabarhub.com/2026/26/577064/",
+    "image": "https://english.khabarhub.com/wp-content/uploads/2026/11/Cricketers.jpg",
+    "publishedAt": "2026-11-26T01:00:51Z",
+    "author": null
+  },
+  {
+    "source": "ABC News (AU)",
+    "title": "Jack Clayton draws on AFL draft experience to chase Test cricket debut",
+    "description": "Jack Clayton, a former member of the Brisbane Lions academy, says missing out on the AFL draft has taught him how to deal with the pressure of chasing a Test debut for Australia after his switch to cricket.",
+    "url": "https://www.abc.net.au/news/2026-11-26/jack-clayton-draws-on-afl-draft-experience-to-chase-test-debut/107429042",
+    "image": "https://live-production.wcms.abc-cdn.net.au/72fbc55d52cc7a6b074ef7097056bd93?impolicy=wcms_crop_resize&cropH=1101&cropW=1958&xPos=0&yPos=102&width=862&height=485",
+    "publishedAt": "2026-11-26T00:17:41Z",
+    "author": null
+  },
+  {
+    "source": "BBC News",
+    "title": "Motorcycle rider who took stunning cricket catch found",
+    "description": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+    "url": "https://www.bbc.com/sport/cricket/articles/ckwy8gj013elo",
+    "image": "https://s.yimg.com/lo/mysterio/api/037238bfdf187ae2d4bc9aa6af323247c66f63f524c78c8890e19bfee61db4ce/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0c01d18304734278e5b473470e82c599.jpg",
+    "publishedAt": "2026-11-25T23:50:06Z",
+    "author": "Mike Peter"
+  },
+  {
+    "source": "BBC News",
+    "title": "Motorcycle rider who took stunning cricket catch found",
+    "description": "Mehran Khan amazed sports fans around the world when he caught a cricket ball while sitting on the back of a moving motorcycle.",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/ckwy8gj013elo",
+    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3dfc/live/68cad6e0-e8e3-11f1-a3b9-79c60ec9ab33.jpg",
+    "publishedAt": "2026-11-25T23:50:02Z",
+    "author": "Mike Peter"
+  },
+  {
+    "source": "Biztoc.com",
+    "title": "Pacifica Pier Partially Collapses As Powerful Waves Batter California Coast",
+    "description": "Powerful waves battered California's Bay Area coast on Wednesday, causing coastal flooding and partially destroying Pacifica Pier. Larger-than-expected swells sent seawater into streets and homes from Stinson Beach to Pacifica.\nThe unusually high waves coinci…",
+    "url": "https://biztoc.com/x/8987687827d7bb5e",
+    "image": "https://cdn.biztoc.com/8987687827d7bb5e_s.webp",
+    "publishedAt": "2026-11-25T23:44:28Z",
+    "author": null
+  },
+  {
     "source": "CBC News",
     "title": "Ahousaht declares state of emergency as storm and king tides batter west coast of Vancouver Island",
     "description": "Ahousaht has declared a local state of emergency as heavy rain and wind combined with king tides rock the coastline along west Vancouver Island, impacting the First Nation's waterfront and a graveyard.",
@@ -43,132 +268,6 @@ window.cricketNews = [
     "image": "https://truthout.org/app/uploads/2026/11/GettyImages-2298779472-2400x1350.jpg",
     "publishedAt": "2026-11-25T20:49:26Z",
     "author": "Shireen Akram-Boshar"
-  },
-  {
-    "source": "Biztoc.com",
-    "title": "Map Shows States at Risk of Thanksgiving Power Outages",
-    "description": "Several states are at risk of widespread power outages on Thanksgiving, some of which could last for hours, as multiple storm systems batter the U.S.\nThe forecast comes amid a busy holiday travel season, with 81.5 million Americans expected to travel at least…",
-    "url": "https://biztoc.com/x/21b38e1a2c5dd50f",
-    "image": "https://cdn.biztoc.com/21b38e1a2c5dd50f_s.webp",
-    "publishedAt": "2026-11-25T20:28:58Z",
-    "author": null
-  },
-  {
-    "source": "New York Post",
-    "title": "Video shows Pacifica Pier collapse as king tides batter NorCal landmark",
-    "description": "An iconic Bay Area pier collapsed Wednesday after it was battered by huge waves.",
-    "url": "https://nypost.com/2026/11/25/us-news/video-shows-pacifica-pier-collapse-as-king-tides-batter-norcal-landmark/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42128211.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-11-25T20:00:17Z",
-    "author": "Ross O'Keefe"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "No ball bowled, batter gone! Deandra Dottin's cizarre WBBL dismissal stuns cricket fans | Watch",
-    "description": "In an extraordinary WBBL match, Deandra Dottin found herself dismissed without facing a single ball due to a timing violation. After failing to enter the crease within the 75-second limit, England's Sarah Glenn seized the moment and hit the stumps while Dotti…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81b21dc2-8960-4d97-8860-c040841b9e59",
-    "image": null,
-    "publishedAt": "2026-11-25T19:21:00Z",
-    "author": null
-  },
-  {
-    "source": "Cricketnews.com",
-    "title": "Mixed-gender T20 League: Zaheer Khan-owned company to launch revolutionary cricket league in Germany",
-    "description": "Zaheer Khan's owned company is set to revolutionize T20 cricket as it brings in a mixed-gender league based in Germany.",
-    "url": "https://www.cricketnews.com/en/cricket/news/mixed-gender-t20-league-zaheer-revolutionary-cricket-league-germany/e0e8ee6ce5ce03167be3eb6f",
-    "image": "https://s.yimg.com/lo/mysterio/api/6649f09185bfea7c3fb32c514932d16324ef62271ee77706c6cc3922d1a935cb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F3ba9e9979114cb8f38180163e2d0c3d4",
-    "publishedAt": "2026-11-25T18:39:46Z",
-    "author": "Deepanjan Mitra"
-  },
-  {
-    "source": "The Times of India",
-    "title": "TN govt forms ICC to inquire Kallakurichi MLA case",
-    "description": "Tamil Nadu govt tells Madras HC Udhayanidhi Stalin’s remarks on Kallakurichi MLA harassment case were incorrect; ICC formed, cybercrime to remove posts.",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/tn-govt-forms-icc-to-inquire-kallakurichi-mla-case/articleshow/136170912.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136170908/136170908.jpg",
-    "publishedAt": "2026-11-25T18:16:23Z",
-    "author": "TNN"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women’s Asian Champions: India rout Japan 4-0, break own record to rise to No.4 in 24 hrs",
-    "description": "India beat Japan 4-0 at the Women’s Asian Champions Trophy in Bhopal, went unbeaten in the league stage, and rose to No. 4 in FIH rankings ahead of the Malaysia semi-final.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/womens-asian-champions-india-rout-japan-4-0-break-own-record-to-rise-to-no-4-in-24-hrs/articleshow/136167635.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136167633/136167633.jpg",
-    "publishedAt": "2026-11-25T17:13:51Z",
-    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
-  },
-  {
-    "source": "GSMArena.com",
-    "title": "Honor Choice T20 launches with bigger 7,000mAh battery, still runs Android Go edition",
-    "description": "Earlier this year, Honor unveiled the Choice T10, a basic Android 16 Go edition device. Now, the company has created a follow-up called the Honor Choice T20. While it features a few hardware upgrades, it is still a 4G-only Android 16 Go Edition phone.\n\n\n\n\n\nTh…",
-    "url": "https://www.gsmarena.com/honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633.php",
-    "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-choice-t20/-1220x526/gsmarena_000.jpg",
-    "publishedAt": "2026-11-25T17:03:03Z",
-    "author": "Peter"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Trophies inside, tomatoes on the roof: Suresh Raina’s Vasant Vihar home is where cricket meets everyday family life",
-    "description": "Suresh Raina's residence beautifully merges his personal life with his significant cricketing milestones. A striking entrance showcases a painting illustrating his career highlights, while signed memorabilia from cricket legends adorn the walls, serving as tr…",
-    "url": "https://timesofindia.indiatimes.com/life-style/home-garden/trophies-inside-tomatoes-on-the-roof-suresh-rainas-vasant-vihar-home-is-where-cricket-meets-everyday-family-life/articleshow/136167699.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136168126/136168126.jpg",
-    "publishedAt": "2026-11-25T16:45:02Z",
-    "author": "TOI Lifestyle Desk"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Quote of the Day From the Bhagavad Gita, November 26, 2026: How to Accept What You Can’t Change",
-    "description": "Once a rising fast bowler, at twenty-nine, he faced a heartbreaking shoulder injury that threatened his career. Embracing this setback, he pivoted towards coaching, dedicating himself to nurturing young talent. His commitment led to a remarkable moment when o…",
-    "url": "https://timesofindia.indiatimes.com/astrology/horoscope/quote-of-the-day-from-the-bhagavad-gita-november-26-2026-how-to-accept-what-you-cant-change/articleshow/136028193.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136028211/136028211.jpg",
-    "publishedAt": "2026-11-25T16:30:09Z",
-    "author": "Neeraj Dhankher"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Women’s Asian Champions: Flawless India blank Japan 4-0, finish league phase unbeaten",
-    "description": "India thrash Japan 4-0 in Women’s Asian Champions Trophy, finish unbeaten; hosts rise to world No. 4 and face Malaysia in semifinal.",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/womens-asian-champions-flawless-india-blank-japan-4-0-finish-league-phase-unbeaten/articleshow/136167635.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136167633/136167633.jpg",
-    "publishedAt": "2026-11-25T16:25:43Z",
-    "author": "Save Comments Share Aa + Text Size Small Medium Large Print"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Lawyer drags sister out of house in Bengaluru, beats her to death with cricket bat",
-    "description": "Bengaluru lawyer Jayaram, 42, allegedly killed sister Meenakshi, 39, with a cricket bat in Bellandur amid a house dispute; police hunt underway.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/lawyer-drags-sister-out-of-house-in-bengaluru-beats-her-to-death-with-cricket-bat/articleshow/136167347.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-136167346/136167346.jpg",
-    "publishedAt": "2026-11-25T16:10:40Z",
-    "author": "Times News Network"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "What is SA20 India Day? Date, time, venue and cricket stars who will attend the South Africa T20 league event",
-    "description": "Here's everything you'll need to know about the South African Twenty-20 including the start date, timings, venue, etc",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90f6cc09-e5b4-46a5-b803-74aafc157e3b",
-    "image": null,
-    "publishedAt": "2026-11-25T16:01:07Z",
-    "author": null
-  },
-  {
-    "source": "The Times of India",
-    "title": "Wiaan Mulder creates Test history, becomes first player to score triple ton and take seven-wicket haul",
-    "description": "Wiaan Mulder made history in Test cricket by not only scoring a remarkable 367 runs against Zimbabwe but also taking 7 wickets for just 31 runs against Bangladesh. This stellar performance in Centurion not only led South Africa to a dominating innings victory…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wiaan-mulder-creates-test-history-becomes-first-player-to-score-triple-ton-and-take-seven-wicket-haul/articleshow/136165915.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136166221/136166221.jpg",
-    "publishedAt": "2026-11-25T15:17:15Z",
-    "author": "Nitesh Dubey"
-  },
-  {
-    "source": "Sylhetmirror.com",
-    "title": "Bangladesh players register for IPL auction despite India tensions",
-    "description": "Twelve Bangladeshi cricketers have registered for next month’s Indian Premier Details \nThe post Bangladesh players register for IPL auction despite India tensions appeared first on SYLHETMIRROR.COM.",
-    "url": "https://sylhetmirror.com/2026/11/25/bangladesh-players-register-for-ipl-auction-despite-india-tensions/",
-    "image": "http://sylhetmirror.com/files/uploads/2026/11/gfbhghngn.jpg",
-    "publishedAt": "2026-11-25T15:00:29Z",
-    "author": "Enamul Haque Renu"
   }
 ]
 ;
