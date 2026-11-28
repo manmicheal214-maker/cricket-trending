@@ -1,5 +1,158 @@
 window.cricketNews = [
   {
+    "source": "ABC News (AU)",
+    "title": "Australia bowled out for lowest home T20 total",
+    "description": "England is well on top at the Gabba, bowling Australia out for 108 after a career-best 5-18 from Jamie Overton.",
+    "url": "https://www.abc.net.au/news/2026-11-27/australia-vs-england-3rd-t20i-at-the-gabba/107435858",
+    "image": "https://live-production.wcms.abc-cdn.net.au/849d767ee41644b481272eb7ad6e8255?impolicy=wcms_crop_resize&cropH=2027&cropW=3604&xPos=0&yPos=77&width=862&height=485",
+    "publishedAt": "2026-11-27T10:05:50Z",
+    "author": "Simon Smale"
+  },
+  {
+    "source": "CNA",
+    "title": "A decade after Duterte's drug war, the Philippines confronts its bloody legacy as ICC trial looms",
+    "description": "Ten years after Rodrigo Duterte launched his deadly crackdown on drugs, thousands of Filipino families are still seeking justice. As the former president prepares to face trial at the ICC, CNA examines the human cost of his campaign, his enduring political in…",
+    "url": "https://www.channelnewsasia.com/asia/rodrigo-duterte-war-drugs-former-philippine-president-icc-international-criminal-court-crimes-against-humanity-6587006",
+    "image": "https://dam.mediacorp.sg/image/upload/s--loxnl7d4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/27/reuters_philippines_duterte_war_on_drugs_victims.jpg?itok=TiQvzu-V",
+    "publishedAt": "2026-11-27T08:43:36Z",
+    "author": "Jacob Lazaro"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Harry Brook wins the toss, England bowls first against Australia in 3rd cricket T20",
+    "description": "BRISBANE, Australia (AP) — England skipper Harry Brook won the toss and sent Australia in to bat Friday as he bid to chase a target and a second consecutive victory in the five-game Twenty20 international cricket series.England trounced Australia by eight wic…",
+    "url": "https://sports.yahoo.com/cricket/articles/harry-brook-wins-toss-england-081602478.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/6feed2aca0023b68e8725d54573b7da50dbaa403314f718abc3efe60ffa421fc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9ead2cec690e883c7fa960368a7ac96c.jpg",
+    "publishedAt": "2026-11-27T08:16:02Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Psychology says confident children don't let fear decide their actions; what Vaibhav Sooryavanshi's fearless approach to fast bowlers teaches parents about raising self-assured kids",
+    "description": "Vaibhav Sooryavanshi's approach to cricket demonstrates the importance of facing challenges and gaining confidence. He practiced extensively and faced older bowlers, which helped him develop skills. Research shows that allowing children to experience difficul…",
+    "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-confident-children-dont-let-fear-decide-their-actions-what-vaibhav-sooryavanshis-fearless-approach-to-fast-bowlers-teaches-parents-about-raising-self-assured-kids/articleshow/136186293.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136186330/136186330.jpg",
+    "publishedAt": "2026-11-27T07:31:13Z",
+    "author": "TOI Lifestyle Desk"
+  },
+  {
+    "source": "Protothema.gr",
+    "title": "Storms batter Thesprotia, prompting 150 emergency calls for flooding and rescues – How the weather will develop until Sunday",
+    "description": "Sivota and Plataria were the worst-hit areas – Heavy rain, thunderstorms and gale-force winds of up to force 9 are expected – What the National Meteorological Service’s emergency weather bulletin says\nThe post Storms batter Thesprotia, prompting 150 emergency…",
+    "url": "https://en.protothema.gr/2026/11/27/storms-batter-thesprotia-prompting-150-emergency-calls-for-flooding-and-rescues-how-the-weather-will-develop-until-sunday/",
+    "image": "https://en.protothema.gr/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-9.17.10-AM.png",
+    "publishedAt": "2026-11-27T07:17:36Z",
+    "author": "Electra Delavogia"
+  },
+  {
+    "source": "Al Jazeera English",
+    "title": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
+    "description": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+    "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-23T175910Z_520820711_UP1EM5N1DYLDX_RTRMADP_3_CRICKET-IPL-LSG-PBKS-1795758304.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-27T06:00:39Z",
+    "author": "AFP"
+  },
+  {
+    "source": "The Times of India",
+    "title": "'Is he crying?': Mohammed Siraj's live TV visuals spark reaction from Ajinkya Rahane, Murali Kartik - WATCH",
+    "description": "Mohammed Siraj was visibly emotional after being omitted from the playing XI for the Test match against New Zealand. The Indian fast bowler was captured covering his eyes with sunglasses during the opening morning. Commentary experts Rahane and Kartik noted h…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/is-he-crying-mohammed-sirajs-live-tv-visuals-spark-reaction-from-ajinkya-rahane-murali-kartik-watch/articleshow/136209441.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136210512/136210512.jpg",
+    "publishedAt": "2026-11-27T05:30:13Z",
+    "author": "Amit Kumar"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Rohit Sharma recollects watching movies of Rajinikanth, Kamal Haasan and Thalapathy Vijay in childhood",
+    "description": "Rohit Sharma, the prominent Indian cricketer, shared his nostalgic connection to South Indian cinema, recalling his childhood memories of watching films with icons like Rajinikanth, Kamal Haasan, and Vijay. He credited his mother for introducing him to a vari…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rohit-sharma-recollects-watching-movies-of-rajinikanth-kamal-haasan-and-thalapathy-vijay-in-childhood/articleshow/136210262.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136210440/136210440.jpg",
+    "publishedAt": "2026-11-27T05:24:27Z",
+    "author": "IANS"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Cricket Australia gives players six weeks to share accounts of 2018 ball-tampering scandal",
+    "description": "Cricket Australia has initiated an independent forum to delve into the controversial events of the 2018 South Africa cricket tour. This platform encourages players and staff to confidentially recount their experiences related to the ball-tampering incident. L…",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-australia-gives-players-six-weeks-to-share-accounts-of-2018-ball-tampering-scandal/articleshow/136209626.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136209673/136209673.jpg",
+    "publishedAt": "2026-11-27T05:17:22Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Cricket Australia rules out retroactive sanctions in Sandpapergate review forum",
+    "description": "BRISBANE, Australia (AP) — No players or coaches will be subject to retroactive sanctions from the forum established to review the 2018 Sandpapergate cheating scandal, according to the terms of reference released Friday by Cricket Australia.The scandal resurf…",
+    "url": "https://sports.yahoo.com/cricket/articles/cricket-australia-rules-retroactive-sanctions-050353009.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/8cd12ec5359d9b1c70f000a6caa883aac0707556b601719d861f102c3383d24a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1e8aca5068289a0499c044ad076cb8c8.jpg",
+    "publishedAt": "2026-11-27T05:03:53Z",
+    "author": "Associated Press"
+  },
+  {
+    "source": "Yahoo Entertainment",
+    "title": "Asian Sports Headlines at 5:04 a.m. GMT",
+    "description": "Cricket Australia rules out retroactive sanctions in Sandpapergate review forum",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_78f7ef5f-a2d4-4ab7-81b0-67e620c813e6",
+    "image": null,
+    "publishedAt": "2026-11-27T05:00:00Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "'Stan Stan' the man for Christchurch amateurs as Pant stars with incognito innings",
+    "description": "Nov 27 : The clean hitting and calm at the crease may have looked familiar to some of those watching \"Stan Stan\" smash a 21-ball half-century for a Christchurch amateur side this week, but few would have guessed the mystery batter was India's Rishabh Pant.Pla…",
+    "url": "https://www.channelnewsasia.com/sport/stan-stan-man-christchurch-amateurs-pant-stars-incognito-innings-6586751",
+    "image": "https://dam.mediacorp.sg/image/upload/s--J91WswX8--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/sport.png?itok=tWViTKI2",
+    "publishedAt": "2026-11-27T04:27:10Z",
+    "author": null
+  },
+  {
+    "source": "CNA",
+    "title": "'Proof it happened': Photographers reflect on Duterte's drug war",
+    "description": "Philippine ex-president Rodrigo Duterte goes on trial at the International Criminal Court (ICC) on Nov 30 for the \"crime against humanity of murder\", over killings that took place between 2011 and 2019.",
+    "url": "https://www.channelnewsasia.com/asia/philippines-photographers-reflect-duterte-drug-war-6586721",
+    "image": "https://dam.mediacorp.sg/image/upload/s--bQcGH_iW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/27/duterte_drug_war_.png?itok=Ng6T1FTk",
+    "publishedAt": "2026-11-27T04:17:51Z",
+    "author": null
+  },
+  {
+    "source": "Cricketnews.com",
+    "title": "Cricket Australia widens scope to 2017-18 Ashes as individual accounts stay confidential: Full terms of Sandpapergate forum explained",
+    "description": "Cricket Australia has widened its six-week independent Sandpapergate forum under Fiona McLeod SC to include the 2017-18 Ashes, keeping individual accounts secret.",
+    "url": "https://www.cricketnews.com/en/cricket/news/australia-2017-18-ashes-sandpapergate-forum-terms-explained/666b918e18126febd5cd6a83",
+    "image": "https://s.yimg.com/lo/mysterio/api/15387e6095d6553be4f94fcfdcf5015314a17630219cccb642e829a92f9e9f7f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F5654f84f1eb308e17eb6a505b9968244",
+    "publishedAt": "2026-11-27T04:12:05Z",
+    "author": "Soham Mukherjee"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "ICC outlines Duterte’s trial schedule - Inquirer.net",
+    "description": "ICC outlines Duterte’s trial scheduleInquirer.net Families of slain Filipinos seek justice as Duterte's ICC trial set to startReuters Philippines: As ICC Tries Duterte, Stalled Justice at HomeHuman Rights Watch Rodrigo Duterte camp tells ICC no crimes against…",
+    "url": "https://slashdot.org/firehose.pl?op=view&id=186880131",
+    "image": null,
+    "publishedAt": "2026-11-27T02:33:02Z",
+    "author": "feedfeeder"
+  },
+  {
+    "source": "The Times of India",
+    "title": "Tom Latham overtakes Brendon McCullum to enter New Zealand's top four in Test run charts",
+    "description": "Tom Latham recently surpassed Brendon McCullum as New Zealand's fourth-highest run-scorer in Test cricket. This milestone occurred during the second Test against India at Hagley Oval in Christchurch. Latham scored his 32nd Test half-century during the match, …",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/tom-latham-overtakes-brendon-mccullum-to-enter-new-zealands-top-four-in-test-run-charts/articleshow/136206779.cms",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136206788/136206788.jpg",
+    "publishedAt": "2026-11-27T02:06:08Z",
+    "author": "Pranav Shukla"
+  },
+  {
+    "source": "Slashdot.org",
+    "title": "King tides bring record flooding to West Coast Thanksgiving week - The Weather Channel",
+    "description": "King tides bring record flooding to West Coast Thanksgiving weekThe Weather Channel Part of Pacifica Pier Collapses as King Tides and Strong Waves Batter Bay AreaKQED A City Fears the Loss of Its Pier After a Section Collapsed Into the SeaThe New York Times C…",
+    "url": "https://slashdot.org/firehose.pl?op=view&id=186879905",
+    "image": null,
+    "publishedAt": "2026-11-27T01:52:54Z",
+    "author": "feedfeeder"
+  },
+  {
     "source": "Yahoo Entertainment",
     "title": "Cricket Australia widens 'Sandpapergate' forum to 2017-2018 Ashes",
     "description": "Cricket Australia widened its independent \"Sandpapergate\" forum on Friday to include the preceding Ashes series against England, while pledging to make the findings and its response public.In a surprise development, the terms of reference released Friday broa…",
@@ -115,159 +268,6 @@ window.cricketNews = [
     "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/25000202/YellowGreens-book-Africa-Regional-Final-spot_1792882922-1200x630.webp",
     "publishedAt": "2026-11-27T00:05:34Z",
     "author": "Abiodun Adewale"
-  },
-  {
-    "source": "ABC News (AU)",
-    "title": "Breaking: Results of independent Sandpapergate forum to be made public",
-    "description": "Cricket Australia has confirmed the terms for the independent forum on Sandpapergate and revealed the findings of the ensuing report will be made available to the public.",
-    "url": "https://www.abc.net.au/news/2026-11-27/sandpapergate-independent-forum-results-to-be-made-public/107433870",
-    "image": "https://live-production.wcms.abc-cdn.net.au/323f61767c9125c245a6510df306f285?impolicy=wcms_crop_resize&cropH=2586&cropW=4598&xPos=402&yPos=279&width=862&height=485",
-    "publishedAt": "2026-11-26T23:35:10Z",
-    "author": null
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast - Al Jazeera",
-    "description": "Photos: Storms and an El Nino-charged king tide batter California’s coastAl Jazeera Part of Pacifica Pier Collapses as King Tides and Strong Waves Batter Bay AreaKQED What are king tides? These exceptionally high tides are increasingly flooding coastal commun…",
-    "url": "https://slashdot.org/firehose.pl?op=view&id=186879143",
-    "image": null,
-    "publishedAt": "2026-11-26T23:32:43Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Free Malaysia Today",
-    "title": "Cricket pioneer Gerard Denis Singam faces his toughest battle yet",
-    "description": "The former RMAF officer helped shape armed forces cricket and played a pioneering role in developing the women’s game in Malaysia.",
-    "url": "https://www.freemalaysiatoday.com/category/leisure/2026/11/27/cricket-pioneer-gerard-denis-singam-faces-his-toughest-battle-yet",
-    "image": null,
-    "publishedAt": "2026-11-26T23:00:00Z",
-    "author": "Adrian David"
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "Jaydev Unadkat scripts history with stunning No. 11 knock, smashes T20 world record in SMAT",
-    "description": "In an extraordinary display of resilience, Jaydev Unadkat smashed 40 runs while batting at No. 11 in a T20 match, setting a new record that eclipsed the former high of 35 runs. His partnership with Chetan Sakariya yielded an impressive 62 runs for the 10th wi…",
-    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b8f9bde-5a57-4846-afb4-f528a1c9bb1c",
-    "image": null,
-    "publishedAt": "2026-11-26T22:21:00Z",
-    "author": null
-  },
-  {
-    "source": "Yahoo Entertainment",
-    "title": "India wins toss, bowls in 2nd test against New Zealand, Gurnoor Brar to debut",
-    "description": "CHRISTCHURCH, New Zealand (AP) — India has won the toss and chosen to bowl Friday in the second cricket test against New Zealand at Hagley Oval.The pitch is green with a slight grass covering but may be less menacing than it appears as it is likely to be mois…",
-    "url": "https://sports.yahoo.com/cricket/articles/india-wins-toss-bowls-2nd-220018774.html",
-    "image": "https://s.yimg.com/lo/mysterio/api/7359f17031dd7bbe674e09e228c687448fe1b7a937a61a8c177753ea47f1f17d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8c97a672dd40a110ce8374005ff5b067.jpg",
-    "publishedAt": "2026-11-26T22:00:18Z",
-    "author": "Associated Press"
-  },
-  {
-    "source": "New York Post",
-    "title": "High tide washes out Pacific Surfliner travel plans as weather continues to bash SoCal",
-    "description": "Amtrak announced that it would suspend service of its Pacific Surfliner train on Nov. 26 in portions of LA, Orange and San Diego counties as high tides batter the coast.",
-    "url": "https://nypost.com/2026/11/26/us-news/california-surfliner-train-suspended-on-thanksgiving-amid-high-tides/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42153427.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-11-26T21:58:21Z",
-    "author": "Justin Choi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jadeja, Siraj left out yet again! Gurnoor makes Test debut as India opt to bowl",
-    "description": "In a crucial second Test match against New Zealand at Hagley Oval, Christchurch, India's cricket team, led by Shubman Gill, elected to bowl first after winning the toss. Gurnoor Brar debuted in the Test format, stepping in for Prasidh Krishna in the playing X…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ravindra-jadeja-mohammed-siraj-left-out-yet-again-gurnoor-brar-makes-test-debut-as-india-opt-to-bowl/articleshow/136203418.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136203421/136203421.jpg",
-    "publishedAt": "2026-11-26T21:45:19Z",
-    "author": "Pranav Shukla"
-  },
-  {
-    "source": "Anytvnews.com",
-    "title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - AnyTV News",
-    "description": "नई दिल्ली, 26 नवंबर (आईएएनएस)। एप्पल ने यौन रूप से आपत्तिजनक कंटेंट और बच्चों के साथ अनुचित बातचीत को लेकर उठी चिंताओं के बाद चीनी कंपनी मिनीमैक्स द्वारा",
-    "url": "https://anytvnews.com/technology/apple-removes-ai-chatbot-talky-from-app-store-after-sexual-content-concerns/",
-    "image": "https://anytvnews.com/wp-content/uploads/2026/11/Apple-removes-AI-chatbot-Talky-from-App-Store-after-sexual.jpg",
-    "publishedAt": "2026-11-26T21:29:34Z",
-    "author": "Pratik Tripathi"
-  },
-  {
-    "source": "The Times of India",
-    "title": "'California underwater!': El Niño and King tides fuel massive coastal flooding, trigger warnings",
-    "description": "California is facing a major coastal flooding threat this Thanksgiving as exceptionally high king tides, powerful ocean swells and El Niño conditions batter the state's coastline. In Pacifica, massive waves surged over a breakwater, flooding a residential nei…",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/california-underwater-el-nio-and-king-tides-fuel-massive-coastal-flooding-trigger-warnings/videoshow/136203090.cms",
-    "image": "https://img.etimg.com/thumb/msid-136203090,width-1200,height-900,overlay-economictimes/news/international/world-news/california-underwater-el-nio-and-king-tides-fuel-massive-coastal-flooding-trigger-warnings.jpg",
-    "publishedAt": "2026-11-26T20:34:33Z",
-    "author": "ET Online"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "As king tides pummel California coast, leaders fear what's next - ABC News - Breaking News, Latest News and Videos",
-    "description": "As king tides pummel California coast, leaders fear what's nextABC News - Breaking News, Latest News and Videos Part of Pacifica Pier Collapses as King Tides and Strong Waves Batter Bay AreaKQED What are king tides? These exceptionally high tides are increasi…",
-    "url": "https://slashdot.org/firehose.pl?op=view&id=186877943",
-    "image": null,
-    "publishedAt": "2026-11-26T20:34:02Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "Economictimes.com",
-    "title": "NZ vs IND, 2nd Test: Shubman Gill’s honeymoon period as captain is over. It’s time he stepped up as a leader",
-    "description": "Shubman Gill's recent captaincy in Test cricket has faced scrutiny after drawing against New Zealand. His selection choices, particularly in bowling, have been questioned by critics. The decisions surrounding players like Anshul Kamboj and Washington Sundar w…",
-    "url": "https://m.economictimes.com/news/sports/nz-vs-ind-2nd-test-shubman-gills-honeymoon-period-ascaptain-is-over-its-time-he-stepped-up-as-a-leader/articleshow/136202632.cms",
-    "image": "https://img.etimg.com/thumb/msid-136202676,resizemode-4,width-1200,height-900,imgsize-146102,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-26T19:38:34Z",
-    "author": "Anand Vasu"
-  },
-  {
-    "source": "Slashdot.org",
-    "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations - The Guardian",
-    "description": "Storms across US disrupt travel and force Thanksgiving parade cancellationsThe Guardian Thanksgiving storms live updates: Heavy rains, winds and king tides batter coastal areas as severe weather threatens holiday travel; 67 million under coastal flood alertsY…",
-    "url": "https://slashdot.org/firehose.pl?op=view&id=186877607",
-    "image": null,
-    "publishedAt": "2026-11-26T19:33:28Z",
-    "author": "feedfeeder"
-  },
-  {
-    "source": "BBC News",
-    "title": "Gloucs CEO 'confident' Bristol rebrand will work",
-    "description": "Gloucestershire are \"really confident\" their rebrand to Bristol Lions for the T20 Blast will work, says outgoing CEO Neil Priscott.",
-    "url": "https://www.bbc.com/sport/cricket/articles/cmedqv8l19n9o",
-    "image": "https://s.yimg.com/lo/mysterio/api/f5b1174dc09fd594af5f5cedc0b4523d8e8c83535b879b60d574498c08d37bc0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5037be9d18459fd6549cacaf3fbad631.jpg",
-    "publishedAt": "2026-11-26T17:37:00Z",
-    "author": "Sophie Hurcom BBC Sport England, Steve Kitchen BBC Radio Gloucestershire"
-  },
-  {
-    "source": "BBC News",
-    "title": "Gloucs CEO 'confident' Bristol rebrand will work",
-    "description": "Gloucestershire are \"really confident\" their rebrand to Bristol Lions for the T20 Blast will work, says outgoing CEO Neil Priscott.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmedqv8l19n9o",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b30c/live/422fad20-e9b1-11f1-859a-37130cd3a1d7.jpg",
-    "publishedAt": "2026-11-26T17:36:54Z",
-    "author": "Sophie Hurcom, Steve Kitchen"
-  },
-  {
-    "source": "The Times of India",
-    "title": "Jaydev Unadkat scripts history with stunning No. 11 knock, smashes T20 world record in SMAT",
-    "description": "In an extraordinary display of resilience, Jaydev Unadkat smashed 40 runs while batting at No. 11 in a T20 match, setting a new record that eclipsed the former high of 35 runs. His partnership with Chetan Sakariya yielded an impressive 62 runs for the 10th wi…",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jaydev-unadkat-scripts-history-with-stunning-no-11-knock-smashes-t20-world-record-in-smat/articleshow/136198387.cms",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136198705/136198705.jpg",
-    "publishedAt": "2026-11-26T16:52:11Z",
-    "author": "Hijam Raju Singh"
-  },
-  {
-    "source": "BBC News",
-    "title": "Pant joins New Zealand club match under false name",
-    "description": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls.",
-    "url": "https://www.bbc.com/sport/cricket/articles/crx27984p14jo",
-    "image": "https://s.yimg.com/lo/mysterio/api/90461f4525633a0aaf90dd69e754111f281b72f082977ed3287afcf342436c5a/lightyear_networkapi/resizefill_w1017_h572%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0d1bd9dd0aa72be9bf63ec02f2ef0d3e.jpg_up.jpg",
-    "publishedAt": "2026-11-26T16:21:49Z",
-    "author": "Ffion Wynne"
-  },
-  {
-    "source": "BBC News",
-    "title": "Pant joins New Zealand club match under false name",
-    "description": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls.",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo",
-    "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b9b/live/5d230c90-e9b0-11f1-859a-37130cd3a1d7.jpg",
-    "publishedAt": "2026-11-26T16:21:44Z",
-    "author": "Ffion Wynne"
   }
 ]
 ;
